@@ -11554,8 +11554,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **3.3**
 
-    *   **Berechnung es Monatsmarktwerts „MW“ bei Strom aus Windenergie und
-        solarer Strahlungsenergie**
+    *   Berechnung
+        des **Monatsmarktwerts „MW“ bei Strom aus Windenergie und solarer
+        Strahlungsenergie**
 
 
 *    *   **3.3.1**

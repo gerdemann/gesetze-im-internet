@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 7.4.2025 I Nr. 109, Nr. 139
 
+Änderung durch
+:   Art. 12 G v. 8.12.2025 I Nr. 318 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000100000)

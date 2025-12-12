@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 15.7.2024 I Nr. 236
 
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG000100000)
