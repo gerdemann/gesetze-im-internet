@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 27.8.2017 I 3295
 
+Änderung durch
+:   Art. 5 G v. 10.12.2025 I Nr. 320 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000500314)
