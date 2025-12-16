@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 12a G v. 22.12.2023 I Nr. 405
 
 Änderung durch
-:   Art. 2 G v. 8.12.2025 I Nr. 317 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 8.12.2025 I Nr. 317 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 12 Abs. 1 G v. 20.12.2022 I 2512 am 24.12.2022 in Kraft getreten
 [^F824779_01_BJNR251210022]:     Dieses Gesetz dient der Umsetzung der Verordnung (EU) 2022/1854 des
@@ -2509,15 +2509,15 @@ dem Bundesministerium der Finanzen.
 
 
 #### § 26 Kontoführung
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002901377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002902123)
 
 (1) Die Übertragungsnetzbetreiber müssen jeweils ein separates
 Bankkonto für die Aufgaben nach diesem Gesetz führen. Sämtliche
 zahlungswirksamen Einnahmen und Ausgaben nach diesem Gesetz sind über
 dieses Konto abzuwickeln. Die Übertragungsnetzbetreiber müssen über
 das Konto nach Satz 1 auch den Zuschuss zur anteiligen Finanzierung
-der Übertragungsnetzkosten nach den §§ 24b und 24c des
-Energiewirtschaftsgesetzes abwickeln.
+der Übertragungsnetzkosten nach § 24b des Energiewirtschaftsgesetzes
+abwickeln.
 
 (2) Die Verteilernetzbetreiber müssen ein separates Konto für die
 Aufgaben nach diesem Gesetz führen. Absatz 1 Satz 2 ist entsprechend
@@ -2525,7 +2525,7 @@ anzuwenden.
 
 
 #### § 27 Buchführung, Verwendung von Einnahmen, Vereinbarung mit anderen Mitgliedstaaten
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003001377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003002123)
 
 (1) Die Einnahmen und Ausgaben nach diesem Gesetz sind von den
 Einnahmen und Ausgaben der sonstigen Tätigkeitsbereiche der
@@ -2541,10 +2541,10 @@ dabei ist § 22 Absatz 2 entsprechend anzuwenden.
 (3) Abweichend von Absatz 2 dürfen die Übertragungsnetzbetreiber die
 Einnahmen nach diesem Gesetz auch für die Finanzierung des Zuschusses
 zur anteiligen Finanzierung der Übertragungsnetzkosten nach Maßgabe
-der §§ 24b und 24c des Energiewirtschaftsgesetzes verwenden. Die
-Verwendung von Einnahmen nach diesem Gesetz für die monatlichen
-Zahlungen nach § 24b Absatz 1 Satz 3 des Energiewirtschaftsgesetzes
-ist vorrangig gegenüber anderen Verwendungen.
+des § 24b des Energiewirtschaftsgesetzes verwenden. Die Verwendung von
+Einnahmen nach diesem Gesetz für die monatlichen Zahlungen nach § 24b
+Absatz 1 Satz 3 des Energiewirtschaftsgesetzes ist vorrangig gegenüber
+anderen Verwendungen.
 
 (4) Abweichend von Absatz 2 dürfen Einnahmen nach diesem Gesetz ferner
 für Entlastungsmaßnahmen oder vergleichbare Maßnahmen in einem anderen

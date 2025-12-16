@@ -32,7 +32,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000101129)
 
 Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009
 (BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach

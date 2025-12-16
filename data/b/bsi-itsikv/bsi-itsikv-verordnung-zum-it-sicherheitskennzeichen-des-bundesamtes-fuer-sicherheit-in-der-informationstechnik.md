@@ -21,7 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000101129)
 
 Auf Grund des § 10 Absatz 3 des BSI-Gesetzes vom 14. August 2009
 (BGBl. I S. 2821), der durch Artikel 1 Nummer 21 des Gesetzes vom 18.
