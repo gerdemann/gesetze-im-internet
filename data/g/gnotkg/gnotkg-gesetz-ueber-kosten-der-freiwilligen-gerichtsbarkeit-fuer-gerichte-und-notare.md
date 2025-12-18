@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 7.4.2025 I Nr. 109
 
 Änderung durch
-:   Art. 20 G v. 8.12.2025 I Nr. 318 mWv 12.12.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+:   Art. 20 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 6 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
@@ -3554,7 +3554,7 @@ Vorschriften.
 (zu § 3 Absatz 2)
 
 ### Anlage 1 Kostenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014201125)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014202131)
 
 (Fundstelle: BGBl. I 2013, 2613 – 2653;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8738,6 +8738,8 @@ Teil 3
 *    *   31015
 
     *   An den Verfahrenspfleger zu zahlende Beträge  ..........
+        Die Beträge werden von dem Betroffenen nur nach Maßgabe des § 1880
+        Abs. 2 BGB erhoben.
 
     *   in voller Höhe
 

@@ -15,50 +15,50 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2947, 2953
 
-Mittelbare änderung durch
-:   Art. 33 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+Geändert durch
+:   Art. 34 G v. 8.12.2025 I Nr. 319
 
-Änderung durch
-:   Art. 34 G vom 8.12.2025 I Nr. 319 mWv 1.1.2028 noch nicht berücksichtigt
+Mittelbare änderung durch
+:   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 
 ## Abschnitt 1 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000100000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000102129)
 
 
 ### Unterabschnitt 1 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000200000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000202129)
 
 
 #### (XXXX) §§ 1 bis 2 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000102129)
 
 
 
 ### Unterabschnitt 2 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000300000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000302129)
 
 
 #### (XXXX) §§ 3 bis 9 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000302129)
 
 
 
 ### Unterabschnitt 3 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000400000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000402129)
 
 
 #### (XXXX) §§ 10 bis 14 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001002129)
 
 
 
 ## Abschnitt 2 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000500000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000502129)
 
 
 ### (XXXX) §§ 15 bis 17 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001502129)
 
 
 
@@ -67,7 +67,7 @@ Mittelbare änderung durch
 
 
 ### (XXXX) § 18 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001800000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001802129)
 
 
 
@@ -109,6 +109,6 @@ Stiftungsregister regeln, insbesondere über
 
 
 ### (XXXX) § 20 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE002002129)
 
 

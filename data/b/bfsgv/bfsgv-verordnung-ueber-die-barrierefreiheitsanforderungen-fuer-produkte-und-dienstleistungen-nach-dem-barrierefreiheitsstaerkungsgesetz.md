@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 928
 
-Änderung durch
-:   Art. 23 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 23 G v. 2.12.2025 I Nr. 301
 
 [^F822072_01_BJNR092800022]:     Diese Verordnung dient der Umsetzung des Anhangs I der Richtlinie (EU)
     2019/882 des Europäischen Parlaments und des Rates vom 17. April 2019
