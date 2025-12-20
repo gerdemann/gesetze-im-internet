@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 15 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 15 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 16 G v. 8.12.2025 I Nr. 319 mWv 1.1.2026 noch nicht berücksichtigt
@@ -1102,7 +1102,7 @@ Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
 
 
 ## § 43 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004702125)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004707131)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -1116,18 +1116,22 @@ eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den
 übermittelt werden. Die für die Handhabung von Verschlusssachen
 geltenden Geheimschutzvorschriften bleiben unberührt.
 
-(2) Die Bundesregierung und die Landesregierungen können abweichend
-von § 298a der Zivilprozessordnung jeweils für ihren Bereich durch
-Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt
-wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in
-Papierform weitergeführt werden. Die Zulassung der Weiterführung in
-Papierform kann auf einzelne Gerichte oder Verfahren beschränkt
-werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der
-Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
-die öffentlich bekanntzumachen ist, geregelt wird, in welchen
-Verfahren Akten in elektronischer Form weitergeführt werden. Die
-Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des
-Bundesrates. Die Landesregierungen können die Ermächtigung durch
+(2) Die Bundesregierung und die Landesregierungen können jeweils für
+ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
+von § 298a Absatz 1a der Zivilprozessordnung bis einschließlich 31.
+Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
+einschließlich 31. Dezember 2026 übermittelte elektronische Akten in
+Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf
+einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
+Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt
+werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
+Papierform angelegt oder elektronisch übermittelte Akten in Papierform
+geführt oder weitergeführt werden. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
+Bundesregierung kann die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
 Rechtsverordnung auf die zuständigen obersten Landesbehörden
 übertragen.
 

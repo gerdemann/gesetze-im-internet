@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 97
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2024 I Nr. 430
+:   Art. 1 V v. 15.12.2025 I Nr. 328
 
 
 ## § 1
@@ -4518,8 +4518,9 @@ Die Lotsabgabe beträgt
 
 
 
+(zu § 2 Absatz 1)
 
-## Anlage 2
+## Anlage 2 Verzeichnis und Tabelle der Lotsgelder
 [Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000918119)
 
 (Fundstelle: BGBl. I 2009, 111 - 122;

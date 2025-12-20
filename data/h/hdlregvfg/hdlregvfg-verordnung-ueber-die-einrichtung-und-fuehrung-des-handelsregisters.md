@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 22.2.2023 I Nr. 51
 
 Änderung durch
-:   Art. 36 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 36 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -90,7 +90,7 @@ geführt. § 8a Abs. 2 des Handelsgesetzbuchs bleibt unberührt.
 
 
 ### § 8 Registerakten
-[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001504311)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001505131)
 
 (1) Für jedes Registerblatt (§ 13) werden Akten gebildet. Zu den
 Registerakten gehören auch die Schriften oder Dokumente über solche
@@ -108,24 +108,7 @@ Bedeutung sind, weggelassen werden, wenn hiervon Verwirrung nicht zu
 besorgen ist. In Zweifelsfällen bestimmt der Richter den Umfang der
 Abschrift, sonst der Urkundsbeamte der Geschäftsstelle.
 
-(3) Die Landesjustizverwaltung kann bestimmen, dass die Registerakten
-ab einem bestimmten Zeitpunkt elektronisch geführt werden. Nach diesem
-Zeitpunkt eingereichte Schriftstücke sind zur Ersetzung der Urschrift
-in ein elektronisches Dokument zu übertragen und in dieser Form zur
-elektronisch geführten Registerakte zu nehmen, soweit die Anordnung
-der Landesjustizverwaltung nichts anderes bestimmt; § 9 Abs. 3 und 4
-gilt entsprechend. Im Fall einer Beschwerde sind in Papierform
-eingereichte Schriftstücke mindestens bis zum rechtskräftigen
-Abschluss des Beschwerdeverfahrens aufzubewahren, wenn sie für die
-Durchführung des Beschwerdeverfahrens notwendig sind und das
-Beschwerdegericht keinen Zugriff auf die elektronisch geführte
-Registerakte hat. Das Registergericht hat in diesem Fall von
-ausschließlich elektronisch vorliegenden Dokumenten Ausdrucke für das
-Beschwerdegericht zu fertigen, soweit dies zur Durchführung des
-Beschwerdeverfahrens notwendig ist; § 298 Absatz 3 der
-Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
-bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
-aufzubewahren.
+(3) (weggefallen)
 
 
 ### § 9 Registerordner

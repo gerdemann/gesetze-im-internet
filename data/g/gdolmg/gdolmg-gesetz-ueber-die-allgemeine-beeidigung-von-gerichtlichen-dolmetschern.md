@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 7 G v. 25.6.2021 I 2099
 
 Änderung durch
-:   Art. 35 G v. 8.12.2025 I Nr. 319 mWv 12.12.2025 noch nicht berücksichtigt
+:   Art. 35 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 8 G v. 7.11.2022 I 1982 ist berücksichtigt
@@ -29,12 +29,13 @@ Das g tritt gem. art. 10 g v. 10.12.2019 i 2121 am 1.7.2021 in kraft. das inkraf
 
 
 ## § 1 Allgemeine Beeidigung gerichtlicher Dolmetscher
-[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000103125)
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000104131)
 
-Dolmetscher, die nach § 185 des Gerichtsverfassungsgesetzes, auch in
-Verbindung mit § 55 der Verwaltungsgerichtsordnung, § 52 Absatz 1 der
-Finanzgerichtsordnung, § 9 Absatz 2 des Arbeitsgerichtsgesetzes und §
-61 Absatz 1 des Sozialgerichtsgesetzes, zur Sprachenübertragung in
+Dolmetscher, die nach § 185 oder § 186 des
+Gerichtsverfassungsgesetzes, jeweils auch in Verbindung mit § 55 der
+Verwaltungsgerichtsordnung, § 52 Absatz 1 der Finanzgerichtsordnung, §
+9 Absatz 2 des Arbeitsgerichtsgesetzes oder § 61 Absatz 1 des
+Sozialgerichtsgesetzes, zur Sprachenübertragung in
 Gerichtsverhandlungen zuzuziehen sind, werden nach den Vorschriften
 dieses Gesetzes allgemein beeidigt. § 189 Absatz 1 des
 Gerichtsverfassungsgesetzes bleibt unberührt.
