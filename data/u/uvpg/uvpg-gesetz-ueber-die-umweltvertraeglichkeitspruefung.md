@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 Abs. 1 G v. 25.11.2025 I Nr. 282 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des
 Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die
 Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten
@@ -2381,7 +2384,7 @@ Verpflichtungen von Bund und Ländern bleiben unberührt.
 
 
 ### § 65 Planfeststellung; Plangenehmigung
-[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003407360)
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003408130)
 
 (1) Vorhaben, die in der Anlage 1 unter den Nummern 19.3 bis 19.9
 aufgeführt sind, sowie die Änderung solcher Vorhaben bedürfen der
@@ -2400,6 +2403,13 @@ gelten entsprechend. Die Sätze 2 und 3 gelten nicht für Errichtung,
 Betrieb und Änderung von Rohrleitungsanlagen zum Befördern
 wassergefährdender Stoffe sowie für die Änderung ihres Betriebs,
 ausgenommen Änderungen von unwesentlicher Bedeutung.
+
+(3) Für Vorhaben, die in der Anlage 1 Nummer 19.7 oder 19.8 aufgeführt
+sind und die zugleich die Errichtung, den Betrieb oder die Änderung
+von Wärmeleitungen betreffen, ist anstelle der Absätze 1 und 2 sowie
+anstelle der §§ 66 bis 69 der § 8 des Geothermie-
+Beschleunigungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348,
+S. 2) anzuwenden.
 
 
 ### § 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung

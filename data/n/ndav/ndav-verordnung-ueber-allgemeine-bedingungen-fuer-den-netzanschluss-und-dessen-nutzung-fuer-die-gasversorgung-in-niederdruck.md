@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.11.2021 I 4786
 
+Änderung durch
+:   Art. 10 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000100000)

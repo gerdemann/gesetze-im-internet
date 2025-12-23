@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 8.12.2025 I Nr. 317
 
+Änderung durch
+:   Art. 1 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 351 mWv 23.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über

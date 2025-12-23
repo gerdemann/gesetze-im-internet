@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 19.7.2022 I 1214
 
+Änderung durch
+:   Art. 9 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000100000)

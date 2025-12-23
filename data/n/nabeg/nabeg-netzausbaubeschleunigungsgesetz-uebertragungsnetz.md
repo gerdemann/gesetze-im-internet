@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 8.5.2024 I Nr. 151
 
+Änderung durch
+:   Art. 16 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 351 mWv 23.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 7 Abs. 1 G v. 28.7.2011 I 1690 am 5.8.2011 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Vorschriften

@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 20 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 26 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000100000)
@@ -38,7 +44,7 @@ Umsetzung dieses Gesetzes zu Grunde zu legen ist.
 
 
 ### § 2 Ziele für die leitungsgebundene Wärmeversorgung
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000301128)
 
 (1) Der Anteil von Wärme aus erneuerbaren Energien, aus unvermeidbarer
 Abwärme oder einer Kombination hieraus an der jährlichen
@@ -56,7 +62,7 @@ erforderlichen Nebenanlagen sowie von Wärmenetzen liegen im
 überragenden öffentlichen Interesse und dienen der öffentlichen
 Sicherheit. Bis die leitungsgebundene Wärmeversorgung im Bundesgebiet
 nahezu vollständig auf erneuerbaren Energien oder unvermeidbarer
-Abwärme beruht, längstens bis zum Ablauf des 31. Dezember 2040, sollen
+Abwärme beruht, längstens bis zum Ablauf des 31. Dezember 2045, sollen
 die Anlagen im Sinne von Satz 1 als vorrangiger Belang in die jeweils
 durchzuführenden Schutzgüterabwägungen eingebracht werden. Satz 2 ist
 nicht gegenüber Belangen der Landes- und Bündnisverteidigung
@@ -68,7 +74,7 @@ vorschlagen.
 
 
 ### § 3 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000401128)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -242,7 +248,7 @@ vorschlagen.
 
 
     h)  aus Strom, der aus einem Netz der allgemeinen Versorgung im Sinne des
-        § 3 Nummer 17 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
+        § 3 Nummer 38 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
         S. 1970; 3621), das zuletzt durch Artikel 24 des Gesetzes vom 8.
         Oktober 2023 (BGBl. 2023 I Nr. 272) geändert worden ist, oder einem
         geschlossenen Verteilernetz im Sinne des § 110 des
@@ -259,7 +265,7 @@ vorschlagen.
         Nr. 202) geändert worden ist, erzeugt wurde, die über eine
         Direktleitung mit der Anlage zur Erzeugung von Wärme verbunden ist
         oder ausschließlich innerhalb einer Kundenanlage im Sinne des § 3
-        Nummer 24a oder Nummer 24b des Energiewirtschaftsgesetzes erzeugt und
+        Nummer 65 oder 66 des Energiewirtschaftsgesetzes erzeugt und
         verbraucht wurde,
 
 
@@ -482,7 +488,7 @@ den geltenden Abkommen erfolgen.
 
 
 #### § 5 Bestehender Wärmeplan
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000601128)
 
 (1) Die Pflicht zur Durchführung einer Wärmeplanung nach § 4 Absatz 1
 ist nicht für ein beplantes Gebiet anzuwenden, für das spätestens zum
@@ -509,8 +515,12 @@ landesrechtliche Regelung besteht, wenn
 
 
 
-Die wesentliche Vergleichbarkeit im Sinne des Satzes 1 Nummer 3 ist
-insbesondere anzunehmen, wenn die Erstellung des Wärmeplans
+Für bestehende Gemeindegebiete, in denen zum 1. Januar 2024 100 000
+Einwohner oder weniger gemeldet sind, ist die Frist des Satzes 1
+Nummer 2 der 31. Dezember 2026, wenn die Erstellung des Wärmeplans
+Gegenstand einer Förderung aus Mitteln des Bundes war. Die wesentliche
+Vergleichbarkeit im Sinne des Satzes 1 Nummer 3 ist insbesondere
+anzunehmen, wenn die Erstellung des Wärmeplans
 
 1.  Gegenstand einer Förderung aus Mitteln des Bundes oder eines Landes
     war oder
@@ -765,7 +775,7 @@ insbesondere zur
 
 
 #### § 11 Auskunftspflicht und Form der Auskunftserteilung
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001201128)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001202128)
 
 (1) Auskunftspflichtig für Erhebungen nach § 10 Absatz 1 durch die
 planungsverantwortliche Stelle ist oder sind
@@ -775,16 +785,16 @@ planungsverantwortliche Stelle ist oder sind
 
 2.  Betreiber
 
-    a)  eines Energieversorgungsnetzes nach § 3 Nummer 4 des
+    a)  eines Energieversorgungsnetzes nach § 3 Nummer 10 des
         Energiewirtschaftsgesetzes,
 
 
-    b)  einer Messstelle im Sinne von § 3 Nummer 26b des
+    b)  einer Messstelle im Sinne von § 3 Nummer 73 des
         Energiewirtschaftsgesetzes oder § 2 Satz 1 Nummer 12 des
         Messstellenbetriebsgesetzes,
 
 
-    c)  eines Energieversorgungsunternehmens im Sinne des § 3 Nummer 18 des
+    c)  eines Energieversorgungsunternehmens im Sinne des § 3 Nummer 39 des
         Energiewirtschaftsgesetzes,
 
 
@@ -1837,9 +1847,9 @@ zuständige Behörde zu bestimmen.
 
 
 ### § 34 Zentrale Veröffentlichung von Wärmeplänen im Internet
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003500000)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003501128)
 
-Das Bundesministerium für Wirtschaft und Klimaschutz wird erstellte
+Das Bundesministerium für Wirtschaft und Energie wird erstellte
 Wärmepläne auf einer Internetseite zentral zugänglich machen. Die
 Veröffentlichung erfolgt erstmalig sechs Monate nach Ablauf der
 jeweiligen Fristen in § 4 Absatz 2. Auf dieser Internetseite wird
@@ -1847,8 +1857,8 @@ ferner für die Jahre 2030 und 2040 sowie den Stichtag 1. Januar 2045
 der bundesweite Anteil der Nettowärmeerzeugung in Wärmenetzen mit
 Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer
 Kombination aus beidem ausgewiesen. Die Länder sind verpflichtet, dem
-Bundesministerium für Wirtschaft und Klimaschutz hierzu auf
-Anforderung die erforderlichen Informationen mitzuteilen.
+Bundesministerium für Wirtschaft und Energie hierzu auf Anforderung
+die erforderlichen Informationen mitzuteilen.
 
 
 ### § 35 Evaluation

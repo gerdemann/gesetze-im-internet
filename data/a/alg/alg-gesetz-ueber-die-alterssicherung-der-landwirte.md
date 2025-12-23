@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 22.12.2023 I Nr. 408
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Versicherter Personenkreis
 [Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000100320)
@@ -2181,12 +2184,12 @@ Mitgliedsnummer erhalten haben.
 
 
 #### § 63 Auskünfte der Deutschen Post AG
-[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014002301)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014003126)
 
 Für Auskünfte der Deutschen Post AG an die für Sozialleistungen
 zuständigen Leistungsträger und diesen Gleichgestellte (§ 35 Erstes
 Buch Sozialgesetzbuch sowie § 69 Abs. 2 Zehntes Buch Sozialgesetzbuch)
-über personenbezogene Daten gilt § 151 Abs. 1 und 2 des Sechsten
+über personenbezogene Daten gilt § 151 Absatz 1, 2 und 4 des Sechsten
 Buches Sozialgesetzbuch entsprechend. Die landwirtschaftliche
 Alterskasse darf der Deutschen Post AG Auskünfte über personenbezogene
 Daten entsprechend § 151 Abs. 3 des Sechsten Buches Sozialgesetzbuch

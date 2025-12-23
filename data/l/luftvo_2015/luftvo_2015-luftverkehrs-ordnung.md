@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1894
 
 Zuletzt geändert durch
-:   Art. 31 V v. 11.12.2024 I Nr. 411
+:   Art. 28 G v. 18.12.2025 I Nr. 347
 
 Stand: Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 
@@ -1167,7 +1167,7 @@ durchgeführt wird, beizuwohnen.
 
 
 ### § 21h Regelungen für den Betrieb von unbemannten Fluggeräten in geografischen Gebieten nach der Durchführungsverordnung (EU) 2019/947
-[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005600360)
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005601119)
 
 (1) Die Benutzung des Luftraums durch unbemannte Fluggeräte ist frei,
 soweit sie nicht durch das Luftverkehrsgesetz, durch die zu seiner
@@ -1211,7 +1211,7 @@ folgenden Voraussetzungen zulässig:
     zugestimmt hat. Anlagen der zentralen Energieerzeugung sind all
     diejenigen an das Verteilernetz angeschlossenen
     Energieerzeugungsanlagen, die keine dezentrale Erzeugungsanlage im
-    Sinne des § 3 Nummer 11 des Energiewirtschaftsgesetzes sind,
+    Sinne des § 3 Nummer 25 des Energiewirtschaftsgesetzes sind,
 
 
 4.  über und innerhalb eines seitlichen Abstands von 100 Metern von

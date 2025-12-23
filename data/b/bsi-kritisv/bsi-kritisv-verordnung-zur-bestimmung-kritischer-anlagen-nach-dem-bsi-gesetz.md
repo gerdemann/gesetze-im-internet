@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 8 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 G v. 18.12.2025 I Nr. 347 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000100000)

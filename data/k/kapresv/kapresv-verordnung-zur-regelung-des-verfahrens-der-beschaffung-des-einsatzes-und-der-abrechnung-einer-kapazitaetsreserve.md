@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 3.11.2025 I Nr. 264
 
+Änderung durch
+:   Art. 15 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000100000)

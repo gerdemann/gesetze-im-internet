@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 23.1.2025 I Nr. 24
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Einleitende Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000102123)

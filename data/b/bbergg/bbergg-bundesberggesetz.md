@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 10.12.2025 I Nr. 320
 
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE004800315)
@@ -214,7 +217,7 @@ anderes ergibt:
 
 
 ### § 4 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005201123)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005202125)
 
 (1) Aufsuchen (Aufsuchung) ist die mittelbar oder unmittelbar auf die
 Entdeckung oder Feststellung der Ausdehnung von Bodenschätzen
@@ -300,7 +303,10 @@ und grundeigenen Bodenschätzen.
 
 (9) Untergrundspeicher ist eine Anlage zur unterirdischen
 behälterlosen Speicherung von Gasen, Flüssigkeiten und festen Stoffen
-mit Ausnahme von Wasser.
+mit Ausnahme von Wasser. Abweichend von Satz 1 ist eine Anlage zur
+Speicherung von Wärme ab einer Teufe von 400 Metern ein
+Untergrundspeicher, auch wenn die Wärme wasserbasiert gespeichert
+wird.
 
 (10) Transit-Rohrleitung ist eine Rohrleitung, die vom Festlandsockel
 oder vom Gebiet eines anderen Staates in den Festlandsockel der
@@ -647,11 +653,17 @@ Abs. 2 bleibt unberührt.
 
 
 ##### § 15 Beteiligung anderer Behörden
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006300315)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006301125)
 
-Die zuständige Behörde hat vor der Entscheidung über den Antrag den
-Behörden Gelegenheit zur Stellungnahme zu geben, zu deren Aufgaben die
-Wahrnehmung öffentlicher Interessen im Sinne des § 11 Nr. 10 gehört.
+(1) Die zuständige Behörde hat vor der Entscheidung über den Antrag
+den Behörden Gelegenheit zur Stellungnahme zu geben, zu deren Aufgaben
+die Wahrnehmung öffentlicher Interessen im Sinne des § 11 Nummer 10
+gehört.
+
+(2) Handelt es sich um einen Antrag zur Aufsuchung oder Gewinnung von
+Erdwärme und ist innerhalb einer Frist von zwei Monaten keine
+Stellungnahme abgegeben worden, so ist davon auszugehen, dass die
+beteiligte Behörde sich nicht äußern will.
 
 
 ##### § 16 Form, Inhalt und Nebenbestimmungen
@@ -1708,7 +1720,7 @@ zuständigen Behörde unverzüglich anzuzeigen.
 
 
 #### § 51 Betriebsplanpflicht
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009900315)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009901125)
 
 (1) Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur
 Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen)
@@ -1727,9 +1739,9 @@ explosionsgefährlichen oder zum Sprengen bestimmten explosionsfähigen
 Stoffen durchgeführt werden.
 
 (3) Die zuständige Behörde kann Betriebe von geringer Gefährlichkeit
-und Bedeutung auf Antrag des Unternehmers ganz oder teilweise oder für
-einen bestimmten Zeitraum von der Betriebsplanpflicht befreien, wenn
-der Schutz Beschäftigter und Dritter und das Wiedernutzbarmachen der
+auf Antrag des Unternehmers ganz oder teilweise oder für einen
+bestimmten Zeitraum von der Betriebsplanpflicht befreien, wenn der
+Schutz Beschäftigter und Dritter und das Wiedernutzbarmachen der
 Oberfläche nach diesem Gesetz und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen auch ohne Betriebsplanpflicht
 sichergestellt werden können. Dies gilt nicht für die Errichtung und
@@ -1738,24 +1750,17 @@ Festlandsockels.
 
 
 #### § 52 Betriebspläne für die Errichtung und Führung des Betriebes
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010007125)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010008125)
 
 (1) Für die Errichtung und Führung eines Betriebes sind
-Hauptbetriebspläne für einen in der Regel zwei Jahre nicht
-überschreitenden Zeitraum aufzustellen. Eine Unterbrechung des
-Betriebes für einen Zeitraum bis zu zwei Jahren gilt als Führung des
-Betriebes, eine längere Unterbrechung nur dann, wenn sie von der
-zuständigen Behörde genehmigt wird. Die zuständige Behörde kann
-festlegen, dass Hauptbetriebspläne auch für einen längeren Zeitraum
-als für zwei Jahre aufgestellt werden können, wenn eine Kontrolle des
-Betriebs auch bei einer längeren Laufzeit des Hauptbetriebsplans
-möglich ist, insbesondere, wenn der Betriebsverlauf absehbar ist. Eine
-Kontrolle des Betriebs bei längerer Laufzeit des Hauptbetriebsplans
-ist bei Hauptbetriebsplänen im Zusammenhang mit der aufgrund des
-Kohleverstromungsbeendigungsgesetzes vorgesehenen Einstellung von
-Braunkohletagebauen im Regelfall zu erwarten. Die festzulegende
-Laufzeit soll in den Fällen der Sätze 3 und 4 vier Jahre nicht
-überschreiten.
+Hauptbetriebspläne für einen zwei Jahre nicht überschreitenden
+Zeitraum aufzustellen. Eine Unterbrechung des Betriebes für einen
+Zeitraum bis zu zwei Jahren gilt als Führung des Betriebes, eine
+längere Unterbrechung nur dann, wenn sie von der zuständigen Behörde
+genehmigt wird. Die zuständige Behörde soll abweichend von Satz 1 eine
+längere Befristung von mindestens vier und höchstens acht Jahren
+zulassen, wenn ihr eine Kontrolle des Betriebes auch bei einer
+längeren Laufzeit möglich ist.
 
 (2) Die zuständige Behörde kann verlangen, daß
 
@@ -2070,7 +2075,7 @@ Absatz 1 Satz 1 Nr. 2 bis 13 mit der Maßgabe entsprechend, daß
 
 
 #### § 56 Form und Inhalt der Zulassung, Sicherheitsleistung
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010400315)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010401125)
 
 (1) Die Zulassung eines Betriebsplanes bedarf der Schriftform. Die
 nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist
@@ -2098,7 +2103,15 @@ nur abgelehnt werden, wenn die Deckungssumme nicht angemessen ist.
 Über die Freigabe einer gestellten Sicherheit entscheidet die
 zuständige Behörde.
 
-(3) Die Absätze 1 und 2 gelten für die Verlängerung, Ergänzung oder
+(3) Die zuständige Behörde soll bei der Zulassung eines Betriebsplans
+für die Aufsuchung und Gewinnung von Erdwärme einen Nachweis über die
+Absicherung für Bergschäden verlangen. Die Behörde kann dabei
+insbesondere einen Nachweis der Mitgliedschaft in einer
+Bergschadensausfallkasse nach § 122 Absatz 1, einer privaten
+Bergschadensausfallkasse oder einer Kommunal- oder
+Haftpflichtversicherung, die Bergschäden absichert, fordern.
+
+(4) Die Absätze 1 bis 3 gelten für die Verlängerung, Ergänzung oder
 Änderung eines Betriebsplanes entsprechend.
 
 
@@ -2344,51 +2357,111 @@ bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch
 verbindliche Vorgaben Rechnung getragen worden ist.
 
 
-#### § 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024200125)
+#### § 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024201125)
 
 (1) Für die Zulassung von Betriebsplänen für Vorhaben im Zusammenhang
-mit der Gewinnung von Erdwärme nach diesem Gesetz sind die Absätze 2
-bis 5 anzuwenden.
+mit der Gewinnung von Erdwärme nach diesem Gesetz, für bei der
+Förderung von Erdwärme gewonnene weitere Bodenschätze sowie für
+Vorhaben zur Errichtung und zum Betrieb eines Untergrundspeichers zur
+Speicherung von Wasserstoff, Wasserstoffgemischen oder von Wärme nach
+§ 4 Absatz 9 Satz 2 sind die Absätze 2 bis 7 anzuwenden.
 
-(2) Auf Antrag des Unternehmers werden das Verfahren zur Zulassung von
-Betriebsplänen für ein Vorhaben nach Absatz 1 sowie alle sonstigen
+(2) Auf Antrag werden das Verfahren zur Zulassung von Betriebsplänen
+für ein Vorhaben nach Absatz 1 sowie alle sonstigen
 Zulassungsverfahren, die für die Durchführung des Vorhabens nach
 Bundes- oder Landesrecht erforderlich sind, über eine einheitliche
-Stelle abgewickelt.
+Stelle abgewickelt. Die Verfahren sind elektronisch durchzuführen.
 
-(3) Die einheitliche Stelle nach Absatz 2 stellt ein
-Verfahrenshandbuch für Unternehmer bereit und macht die im
-Verfahrenshandbuch enthaltenen Informationen auch im Internet
-zugänglich. In den im Internet veröffentlichten Informationen weist
-die einheitliche Stelle auch darauf hin, für welche Vorhaben sie
-zuständig ist und welche weiteren einheitlichen Stellen im jeweiligen
-Land für Vorhaben nach Absatz 1 zuständig sind.
+(3) Die einheitliche Stelle stellt ein Verfahrenshandbuch für Träger
+des Vorhabens bereit und macht die im Verfahrenshandbuch enthaltenen
+Informationen auch im Internet zugänglich. Hierbei weist die
+einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig
+ist und falls weitere einheitliche Stellen im jeweiligen Land für
+Vorhaben nach Absatz 1 zuständig sind.
 
-(4) Nach Eingang der vollständigen Antragsunterlagen erstellt die
-zuständige Behörde einen Zeitplan für das weitere Verfahren. Den
-Zeitplan teilt die zuständige Behörde dem Unternehmer und in den
-Fällen des Absatzes 2 auch der einheitlichen Stelle mit.
+(4) Eine Behörde, deren Aufgabenbereich durch ein Vorhaben nach Absatz
+1 berührt wird, wird elektronisch durch die zuständige Behörde über
+das Verfahren informiert und übermittelt ihre Stellungnahme
+ausschließlich elektronisch an die zuständige Behörde. Hat eine zu
+beteiligende Behörde bei einem Verfahren auf Zulassung einer Anlage
+nach Absatz 1 innerhalb einer Frist von einem Monat keine
+Stellungnahme abgegeben, so ist davon auszugehen, dass die zu
+beteiligende Behörde sich nicht äußern will. Soweit für das Vorhaben
+selbst oder für weitere damit unmittelbar in einem räumlichen oder
+betrieblichen Zusammenhang stehende Vorhaben, die für die Genehmigung
+Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben
+ist, wirkt die zuständige Behörde auf eine vollständige Koordinierung
+der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen hin.
 
-(5) Die zuständige Behörde entscheidet über die Zulassung innerhalb
+(5) Sind die Antragsunterlagen vollständig, so bestätigt die
+zuständige Behörde dies in den Fällen des Absatzes 2 Satz 1 gegenüber
+der einheitlichen Stelle, andernfalls gegenüber dem Träger des
+Vorhabens innerhalb von 45 Tagen nach Eingang des Antrags. Die
+Antragsunterlagen sind vollständig, wenn sie sich zu allen relevanten
+Aspekten des Vorhabens verhalten und die Behörde in die Lage
+versetzen, den Antrag unter Berücksichtigung dieser Aspekte zu prüfen.
+Sind die Antragsunterlagen nicht vollständig, so fordert die
+zuständige Behörde, in den Fällen des Absatzes 2 Satz 1 über die
+einheitliche Stelle, den Träger des Vorhabens unter Bezeichnung der
+fehlenden Angaben und Antragsunterlagen innerhalb der Frist nach Satz
+1 auf, die Antragsunterlagen unverzüglich zu ergänzen. Nach Eingang
+der vollständigen Antragsunterlagen erstellt die zuständige Behörde
+einen Zeitplan für das weitere Verfahren. Den Zeitplan teilt die
+zuständige Behörde dem Unternehmer und in den Fällen des Absatzes 2
+auch der einheitlichen Stelle mit.
+
+(6) Die zuständige Behörde entscheidet über die Zulassung innerhalb
 der folgenden Fristen:
 
-1.  bei Vorhaben zur Gewinnung von Erdwärme, wenn das Vorhaben der
-    Erzeugung von Strom mit einer Kapazität von weniger als 150 Kilowatt
-    dient, innerhalb eines Jahres,
+1.  bei Vorhaben zur Gewinnung von Erdwärme sowie bei Vorhaben zur
+    Errichtung und zum Betrieb eines Untergrundspeichers zur Speicherung
+    von Wärme nach § 4 Absatz 9 Satz 2 innerhalb eines Jahres,
 
 
-2.  bei Vorhaben zur Gewinnung von Erdwärme, wenn das Vorhaben der
-    Erzeugung von Strom mit einer Kapazität von 150 Kilowatt und darüber
-    dient, innerhalb von zwei Jahren.
+2.  abweichend von Nummer 1 bei Vorhaben zur Gewinnung von Erdwärme nach
+    diesem Gesetz, wenn diese mittels Installation von Wärmepumpen mit
+    einer thermischen Leistung bis zu 50 Megawatt realisiert werden,
+    innerhalb von drei Monaten,
+
+
+3.  bei Vorhaben zur Errichtung und zum Betrieb eines Untergrundspeichers
+    zur Speicherung von Wasserstoff oder Wasserstoffgemischen innerhalb
+    von zwei Jahren.
 
 
 
-Die Frist beginnt mit Eingang der vollständigen Antragsunterlagen. Die
-zuständige Behörde kann die jeweilige Frist um bis zu ein Jahr
-verlängern, wenn außergewöhnliche Umstände vorliegen. Sie teilt die
-Fristverlängerung dem Unternehmer und in den Fällen des Absatzes 2
-auch der einheitlichen Stelle mit.
+Die zuständige Behörde kann die Frist nach Satz 1 Nummer 1 und 3 in
+durch außergewöhnliche Umstände hinreichend begründeten Fällen
+einmalig um bis zu sechs Monate verlängern. Bei Vorhaben mit einer
+Stromerzeugungskapazität von weniger als 150 Kilowatt und bei Vorhaben
+zur Modernisierung von Anlagen zur Gewinnung von Erdwärme beträgt die
+Verlängerungsfrist abweichend von Satz 2 längstens drei Monate. Die
+zuständige Behörde teilt in den Fällen des Absatzes 2 Satz 1 der
+einheitlichen Stelle, andernfalls dem Träger des Vorhabens, die
+außergewöhnlichen Umstände mit, die die jeweilige Verlängerung der
+Frist nach Satz 1 Nummer 1 und 3 rechtfertigen. Die Fristen nach Satz
+1 beginnen mit Bestätigung der Vollständigkeit der Antragsunterlagen
+durch die zuständige Behörde oder, falls die Behörde nicht reagiert,
+mit Ablauf der Frist nach Absatz 5 Satz 1. Wenn die Behörde oder in
+den Fällen des Absatzes 2 Satz 1 die einheitliche Stelle den Träger
+des Vorhabens zur Ergänzung der Antragsunterlagen aufgefordert hat,
+beginnt die jeweilige Frist nach Satz 1 mit Bestätigung des
+vollständigen Eingangs der von der Behörde erstmalig nachgeforderten
+Antragsunterlagen.
+
+(7) Die Entscheidung wird dem Träger des Vorhabens zugestellt. Im
+Übrigen wird die Entscheidung öffentlich bekannt gegeben. Die
+öffentliche Bekanntgabe wird dadurch bewirkt, dass die Entscheidung
+auf der Internetseite der zuständigen Behörde und durch eine
+Veröffentlichung in einer Tageszeitung oder auf eine andere Weise
+öffentlich bekannt gemacht wird.
+
+(8) Ist bei Vorhaben im Zusammenhang mit der Aufsuchung oder Gewinnung
+von Erdwärme oder der Speicherung von Wärme- oder Wasserstoff nach
+diesem Gesetz ein Planfeststellungsverfahren nach § 52 Absatz 2a
+erforderlich, ist kein Erörterungstermin nach § 73 Absatz 6 des
+Verwaltungsverfahrensgesetzes durchzuführen.
 
 
 ### Drittes Kapitel - Verantwortliche Personen
@@ -4799,7 +4872,7 @@ behälterlosen Speicherung geeignet ist.
 
 
 ### § 127 Bohrungen
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017700315)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017701125)
 
 (1) Für die nicht unter § 2 fallenden Bohrungen und die dazugehörigen
 Betriebseinrichtungen gelten, wenn die Bohrungen mehr als hundert
@@ -4831,7 +4904,18 @@ mit folgender Maßangabe entsprechend:
 
 
 
-(2) Die Vorschriften des Wasserhaushaltsgesetzes, der
+(2) Im Fall der Anzeige einer Bohrung bis zu einer Teufe von 400
+Metern zur Aufsuchung oder zur Gewinnung von Erdwärme hat die
+zuständige Behörde die Unterlagen innerhalb von vier Wochen zu prüfen.
+Äußert sich die zuständige Behörde innerhalb dieser Frist nicht, so
+gilt die Einhaltung einer Betriebsplanpflicht nach Absatz 1 Nummer 2
+als nicht erforderlich. Soweit ein zentrales Bohranzeigeportal durch
+die zuständige Behörde eingerichtet ist, kann die Anzeige nach Absatz
+1 Nummer 1 an das Bohranzeigeportal erfolgen. Eine Anzeige nach Absatz
+1 Nummer 1 darf frühestens neun Monate vor Beginn der Bohrung
+erfolgen.
+
+(3) Die Vorschriften des Wasserhaushaltsgesetzes, der
 Landeswassergesetze und der auf Grund dieser Gesetze erlassenen
 Rechtsverordnungen bleiben unberührt.
 
@@ -5273,7 +5357,7 @@ Ausfertigung der Entscheidung oder des Vergleichs.
 
 
 ### § 145 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019710123)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019711125)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5310,8 +5394,8 @@ Ausfertigung der Entscheidung oder des Vergleichs.
 
 
 8.  einer mit einer Betriebsplanzulassung nach § 55 verbundenen
-    vollziehbaren Auflage oder einer vollziehbaren Auflage nach § 56 Abs.
-    1 Satz 2, auch in Verbindung mit § 56 Abs. 3, zuwiderhandelt,
+    vollziehbaren Auflage oder einer vollziehbaren Auflage nach § 56
+    Absatz 1 Satz 2, auch in Verbindung mit § 56 Absatz 4, zuwiderhandelt,
 
 
 9.  entgegen § 57 Abs. 1 Satz 2, auch in Verbindung mit § 57 Abs. 2, eine

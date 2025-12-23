@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 103 G v. 5.2.2009 I 160
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 345 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Errichtung der Aktiengesellschaften durch Umwandlung
 [Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000200000)

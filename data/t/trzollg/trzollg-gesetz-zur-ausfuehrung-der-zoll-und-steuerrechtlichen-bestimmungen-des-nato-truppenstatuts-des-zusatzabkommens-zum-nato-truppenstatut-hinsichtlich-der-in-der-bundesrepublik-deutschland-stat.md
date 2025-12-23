@@ -22,6 +22,9 @@ Fundstelle
 Geändert durch
 :   Art. 8 G v. 15.7.2009 I 1870
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000200000)

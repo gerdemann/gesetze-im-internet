@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 3892
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.11.2024 I Nr. 367
+:   Art. 4 G v. 18.12.2025 I Nr. 347
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
@@ -68,10 +68,10 @@ Bundes-Immissionsschutzgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000403125)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000404130)
 
 (1) Stromanbieter ist jedes Energieversorgungsunternehmen im Sinne des
-§ 3 Nummer 18 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
+§ 3 Nummer 39 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
 S. 1970, 3621), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom
 20\. Juli 2017 (BGBl. I S. 2808; 2018 I S. 472) geändert worden ist,
 das elektrischen Strom an Letztverbraucher liefert.

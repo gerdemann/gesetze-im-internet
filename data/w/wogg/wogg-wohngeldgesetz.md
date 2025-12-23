@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 50 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
 [Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000100000)
@@ -3048,6 +3051,20 @@ empfangen, sind vom Wohngeld ausgeschlossen, wenn bei der Berechnung
 ihrer Hilfen Kosten der Unterkunft berücksichtigt worden sind. § 7
 Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember
 2023 gelten entsprechend.
+
+
+### § 46 Übergangsregelung zu § 33
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005800126)
+
+Ab dem in § 3 Absatz 1 des Postaufgabenüberleitungsgesetzes vom 22.
+Dezember 2025 (BGBl. 2025 I Nr. 345) genannten Zeitpunkt ist § 33 mit
+der Maßgabe anzuwenden, dass sich § 33 Absatz 2 Satz 1 Nummer 7 auch
+auf Leistungen der Renten- und Unfallversicherungen bezieht, die durch
+das Vorgängerunternehmen im Sinne des § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes gezahlt worden sind. Das
+Nachfolgeunternehmen nach § 1 Absatz 1 des
+Postaufgabenüberleitungsgesetzes ist auch insoweit nach § 33 Absatz 3
+bis 5 berechtigt und verpflichtet.
 
 
 ### Anlage 1 (zu § 12 Absatz 1)

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 14.7.2025 I Nr. 161
 
+Änderung durch
+:   Art. 6 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Steuerpflicht
 [Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000106301)

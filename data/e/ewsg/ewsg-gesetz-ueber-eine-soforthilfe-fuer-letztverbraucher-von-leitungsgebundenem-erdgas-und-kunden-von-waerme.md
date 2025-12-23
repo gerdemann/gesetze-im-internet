@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 26.7.2023 I Nr. 202
 
+Änderung durch
+:   Art. 18 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen, Beauftragter und Internetadressen
 [Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000100000)

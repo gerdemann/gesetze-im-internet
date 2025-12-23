@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 14.6.2024 I Nr. 192
 
+Änderung durch
+:   Art. 12 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 
 ## Teil 1 - Allgemeine Bestimmungen

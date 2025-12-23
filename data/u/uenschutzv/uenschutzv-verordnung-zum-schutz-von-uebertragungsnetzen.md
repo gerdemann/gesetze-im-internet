@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 315 V v. 31.8.2015 I 1474
 
+Änderung durch
+:   Art. 13 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 [^F776051_01_BJNR006900012]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/114/EG des
     Rates vom 8. Dezember 2008 über die Ermittlung und Ausweisung
     europäischer kritischer Infrastrukturen und die Bewertung der

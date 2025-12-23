@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 26.7.2023 I Nr. 202
 
+Änderung durch
+:   Art. 20 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 15 Abs. 1 G v. 20.12.2022 I 2560 iVm Bek. v. 28.12.2022 I 2894 mWv 24.12.2022 in Kraft getreten
 
 ## Teil 1 - Allgemeine Vorschriften

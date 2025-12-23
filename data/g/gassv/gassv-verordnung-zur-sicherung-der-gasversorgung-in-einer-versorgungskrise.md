@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 31.3.2023 I Nr. 94
 
+Änderung durch
+:   Art. 22 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000100308)
@@ -100,7 +103,7 @@ ursprünglichen Inhalt wieder auf.
 
 
 ## § 1a Digitale Plattform
-[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE001001128)
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE001002128)
 
 (1) Der Marktgebietsverantwortliche stellt für die Abwicklung von
 Maßnahmen nach § 1 Absatz 1 ab dem 1. Oktober 2022 eine digitale
@@ -110,7 +113,7 @@ Energiesicherungsgesetzes dient.
 
 (2) Die Bilanzkreisverantwortlichen nach § 2 Nummer 5 der
 Gasnetzzugangsverordnung und die Endverbraucher, die Betreiber von
-Gasspeicheranlagen nach § 3 Nummer 6 des Energiewirtschaftsgesetzes
+Gasspeicheranlagen nach § 3 Nummer 12 des Energiewirtschaftsgesetzes
 und die Nutzer von Gasspeicheranlagen sowie die Betreiber von
 Fernleitungsnetzen und die Betreiber von Gasverteilernetzen im
 Marktgebiet des Marktgebietsverantwortlichen (Plattformteilnehmer)
@@ -265,7 +268,7 @@ Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## § 7 Inkrafttreten und Anwendbarkeit der Verordnung
-[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000802128)
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000803128)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -285,8 +288,8 @@ angewandt werden, wenn die Bundesregierung
 
 In Fällen des § 2a des Energiesicherungsgesetzes tritt an die Stelle
 der in Satz 1 genannten Feststellung die Mitteilung des
-Bundesministeriums für Wirtschaft und Klimaschutz nach § 3 Absatz 6
-Satz 1 Nummer 2 des Energiesicherungsgesetzes.
+Bundesministeriums für Wirtschaft und Energie nach § 3 Absatz 6 Satz 1
+Nummer 2 des Energiesicherungsgesetzes.
 
 
 ## Anlage (zu § 2)

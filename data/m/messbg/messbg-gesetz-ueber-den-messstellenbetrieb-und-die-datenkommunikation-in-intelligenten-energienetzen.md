@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 17 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 16 G v. 29.8.2016 I 2034 am 2.9.2016 in Kraft getreten
 [^f794956_01_BJNR203410016]:     In diesem Gesetz finden sich technische Vorgaben, die in Teil 2 im
     Kapitel 3 zusammengefasst sind. Diese Regelungen wurden notifiziert

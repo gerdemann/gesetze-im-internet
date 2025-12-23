@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 15 G v. 20.12.2022 I 2752
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 350 mWv 23.12.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+
 Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

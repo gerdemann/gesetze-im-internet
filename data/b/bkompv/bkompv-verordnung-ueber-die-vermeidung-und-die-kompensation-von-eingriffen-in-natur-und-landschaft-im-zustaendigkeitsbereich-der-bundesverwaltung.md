@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1088
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 351 mWv 23.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000100000)

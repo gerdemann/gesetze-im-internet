@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001400319)
@@ -78,7 +81,7 @@ Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
 
 
 ### § 4 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001809130)
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001810126)
 
 (1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur
 Sicherstellung von Arbeitsleistungen
@@ -132,9 +135,9 @@ Sicherstellung von Arbeitsleistungen
     Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
 
 
-8.  bei der Deutschen Post AG und der Deutschen Telekom AG sowie bei
-    Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10
-    Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+8.  bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel
+    12 des Postgesetzes oder Teil 10 Abschnitt 2 des
+    Telekommunikationsgesetzes verpflichtet sind,
 
 
 9.  bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten

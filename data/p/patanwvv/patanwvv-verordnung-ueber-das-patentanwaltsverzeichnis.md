@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5219, 5227
 
-Geändert durch
-:   Art. 1 V v. 29.11.2023 I Nr. 340
+Zuletzt geändert durch
+:   Art. 20 G v. 22.12.2025 I Nr. 349
 
 
 ## § 1 Gegenstand des Verzeichnisses
@@ -53,7 +53,7 @@ zudem die Berufsausübungsgesellschaften einzutragen, die
 
 
 ## § 2 Inhalt des Verzeichnisses
-[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000201360)
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000202129)
 
 (1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen
 Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie
@@ -85,7 +85,7 @@ Bezeichnung eines elektronischen Bürger- und Organisationenpostfachs
 je Kanzlei und Zweigstelle eingetragen. Einem besonderen
 elektronischen Bürger- und Organisationenpostfach im Sinne des Satzes
 1 stehen andere Postfächer im Sinne des § 130a Absatz 4 Satz 1 Nummer
-2 und 5 der Zivilprozessordnung gleich. Zudem wird, soweit von der
+1 und 4 der Zivilprozessordnung gleich. Zudem wird, soweit von der
 eingetragenen Person oder Berufsausübungsgesellschaft mitgeteilt, eine
 Internetadresse je Kanzlei und Zweigstelle eingetragen. Die
 eingetragene Person hat der Patentanwaltskammer zumindest eine

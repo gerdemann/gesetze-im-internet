@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 8.7.2016 I 1594
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - 
 [Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNG000100311)
@@ -57,13 +60,15 @@ entsprechend.
 
 
 ### § 3
-[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000602307)
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000603125)
 
 Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den
 räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei
 deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den
 in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle
-vor.
+vor. Dies gilt auch für ein Nachfolgeunternehmen im Sinne von § 1
+Absatz 1 des Postaufgabenüberleitungsgesetzes vom 22. Dezember 2025
+(BGBl. 2025 I Nr. 345).
 
 
 ### § 4
