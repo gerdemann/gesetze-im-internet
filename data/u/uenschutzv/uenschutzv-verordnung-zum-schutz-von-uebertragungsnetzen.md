@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 315 V v. 31.8.2015 I 1474
 
 Änderung durch
-:   Art. 13 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 13 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F776051_01_BJNR006900012]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/114/EG des
     Rates vom 8. Dezember 2008 über die Ermittlung und Ausweisung
@@ -38,9 +38,9 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Bericht der Übertragungsnetzbetreiber
-[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000201123)
 
-(1) Die Betreiber von Übertragungsnetzen nach § 3 Nummer 10 des
+(1) Die Betreiber von Übertragungsnetzen nach § 3 Nummer 16 des
 Energiewirtschaftsgesetzes haben der Bundesnetzagentur alle zwei
 Jahre, erstmals spätestens zum 15. Januar 2012, den Bericht nach § 12g
 Absatz 1 Satz 3 des Energiewirtschaftsgesetzes vorzulegen. Dieser muss

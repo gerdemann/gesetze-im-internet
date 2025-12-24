@@ -20,9 +20,18 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.10.2025 I Nr. 256
+:   Art. 13 G v. 22.12.2025 I Nr. 355
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
+Mittelbare änderung durch
+:   Art. 15 G v. 22.12.2025 I Nr. 355 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
 
@@ -1083,7 +1092,7 @@ Kind des Ausländers.
 
 
 #### § 11 Einreise- und Aufenthaltsverbot
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001206311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001207311)
 
 (1) Gegen einen Ausländer, der ausgewiesen, zurückgeschoben oder
 abgeschoben worden ist oder gegen den eine Abschiebungsanordnung nach
@@ -1184,11 +1193,11 @@ hat.
 
 (7) Gegen einen Ausländer,
 
-1.  dessen Asylantrag nach § 29a Absatz 1 des Asylgesetzes als
-    offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer
-    Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein
-    Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde
-    und der keinen Aufenthaltstitel besitzt oder
+1.  dessen Asylantrag nach § 29a Absatz 1 oder § 29b Absatz 3 des
+    Asylgesetzes als offensichtlich unbegründet abgelehnt wurde, dem kein
+    subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen
+    für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht
+    festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
 
 
 2.  dessen Antrag nach § 71 oder § 71a des Asylgesetzes wiederholt nicht
@@ -3816,13 +3825,13 @@ ausgeschlossen.
 
 
 #### § 20a Chancenkarte; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022800311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022801311)
 
 (1) Eine Chancenkarte ist eine Aufenthaltserlaubnis zur Suche nach
 einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung
 ausländischer Berufsqualifikationen.
 
-(2) Die Chancenkarte berechtigt dazu,
+(2) Die Chancenkarte berechtigt nur dazu,
 
 1.  eine Beschäftigung von durchschnittlich insgesamt höchstens 20 Stunden
     je Woche auszuüben und
@@ -5672,7 +5681,7 @@ einer Erwerbstätigkeit.
 
 
 #### § 39 Zustimmung zur Beschäftigung
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016314126)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016315311)
 
 (1) Die Erteilung eines Aufenthaltstitels zur Ausübung einer
 Beschäftigung setzt die Zustimmung der Bundesagentur für Arbeit
@@ -5764,15 +5773,16 @@ zustimmen, wenn der Ausländer nicht zu ungünstigeren
 Arbeitsbedingungen als vergleichbare inländische Arbeitnehmer
 beschäftigt wird.
 
-(4) Für die Erteilung der Zustimmung oder Arbeitserlaubnis hat der
+(4) Für die Erteilung der Zustimmung oder der Arbeitserlaubnis hat der
 Arbeitgeber der Bundesagentur für Arbeit Auskünfte in Bezug auf das
 Beschäftigungsverhältnis, insbesondere zum Arbeitsentgelt, zu den
-Arbeitszeiten und sonstigen Arbeitsbedingungen, zu der
+Arbeitszeiten und zu sonstigen Arbeitsbedingungen, zu der
 Sozialversicherungspflicht und zum Erfordernis einer
-Berufsausübungserlaubnis, zu erteilen. Auf Aufforderung durch die
-Bundesagentur für Arbeit hat ein Arbeitgeber, der einen Ausländer
-beschäftigt oder beschäftigt hat, eine Auskunft nach Satz 1 innerhalb
-eines Monats zu erteilen.
+Berufsausübungserlaubnis sowie im Fall der Saisonbeschäftigung zu
+Unterkunft, Mietbedingungen und Miethöhe, zu erteilen. Auf
+Aufforderung durch die Bundesagentur für Arbeit hat ein Arbeitgeber,
+der einen Ausländer beschäftigt oder beschäftigt hat, eine Auskunft
+nach Satz 1 innerhalb eines Monats zu erteilen.
 
 (5) Die Absätze 1, 3 und 4 gelten auch, wenn bei Aufenthalten zu
 anderen Zwecken nach den Abschnitten 3, 5 oder 7 eine Zustimmung der
@@ -5793,7 +5803,7 @@ Zulassungszahlen festlegen.
 
 
 #### § 40 Versagungsgründe
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004306311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004307311)
 
 (1) Die Zustimmung nach § 39 ist zu versagen, wenn
 
@@ -5809,11 +5819,11 @@ Zulassungszahlen festlegen.
 
 (2) Die Zustimmung kann versagt werden, wenn
 
-1.  der Ausländer gegen § 404 Abs. 1 oder 2 Nr. 2 bis 13 des Dritten
-    Buches Sozialgesetzbuch, §§ 10, 10a oder § 11 des
-    Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§ 15, 15a oder § 16
-    Abs. 1 Nr. 2 des Arbeitnehmerüberlassungsgesetzes schuldhaft verstoßen
-    hat,
+1.  der Ausländer gegen § 404 Absatz 1 oder Absatz 2 Nummer 2 bis 4, 6 bis
+    13, 28 und 29 des Dritten Buches Sozialgesetzbuch, gegen die §§ 10,
+    10a oder § 11 des Schwarzarbeitsbekämpfungsgesetzes oder gegen die §§
+    15, 15a oder § 16 Absatz 1 Nummer 2 des
+    Arbeitnehmerüberlassungsgesetzes schuldhaft verstoßen hat,
 
 
 2.  wichtige Gründe in der Person des Ausländers vorliegen oder
@@ -8214,7 +8224,7 @@ Ausländer nicht abgeschoben werden darf.
 
 
 #### § 60a Vorübergehende Aussetzung der Abschiebung (Duldung)
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006713311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006714311)
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder
 humanitären Gründen oder zur Wahrung politischer Interessen der
@@ -8360,8 +8370,8 @@ Ausübung einer Erwerbstätigkeit nicht erlaubt werden, wenn
     vertreten hat, nicht vollzogen werden können oder
 
 
-3.  er Staatsangehöriger eines sicheren Herkunftsstaates nach § 29a des
-    Asylgesetzes ist und sein nach dem 31. August 2015 gestellter
+3.  er Staatsangehöriger eines sicheren Herkunftsstaates nach § 29a oder §
+    29b des Asylgesetzes ist und sein nach dem 31. August 2015 gestellter
     Asylantrag abgelehnt oder zurückgenommen wurde, es sei denn, die
     Rücknahme erfolgte auf Grund einer Beratung nach § 24 Absatz 1 des
     Asylgesetzes beim Bundesamt für Migration und Flüchtlinge, oder ein
@@ -13132,7 +13142,7 @@ einer dort genannten zuständigen Stelle verfolgt.
 
 
 ### § 96 Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010507311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010508311)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in
 minder schweren Fällen mit Freiheitsstrafe bis zu fünf Jahren oder mit
@@ -13212,8 +13222,9 @@ ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
 Einreise auf dem Landweg auch Absatz 1 Satz 1 Nummer 1 Buchstabe b
 sind auf Zuwiderhandlungen gegen Rechtsvorschriften über die Einreise
 und den Aufenthalt von Ausländern in das Hoheitsgebiet der
-Mitgliedstaaten der Europäischen Union oder eines Schengen-Staates
-anzuwenden, wenn
+Mitgliedstaaten der Europäischen Union, eines Schengen-Staates oder
+des Vereinigten Königreichs Großbritannien und Nordirland anzuwenden,
+wenn
 
 1.  sie den in § 95 Absatz 1 Nummer 2 oder Nummer 3 oder Absatz 2 Nummer 1
     bezeichneten Handlungen entsprechen und
@@ -13263,7 +13274,7 @@ Zeitpunkt von Anordnungen nach § 82 Absatz 4 Satz 1.
 
 
 ### § 98 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010727311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010729311)
 
 (1) Ordnungswidrig handelt, wer eine in § 95 Abs. 1 Nr. 1 oder 2 oder
 Abs. 2 Nr. 1 Buchstabe b bezeichnete Handlung fahrlässig begeht.
@@ -13317,9 +13328,10 @@ Abs. 2 Nr. 1 Buchstabe b bezeichnete Handlung fahrlässig begeht.
     vollständig oder nicht rechtzeitig erstattet oder
 
 
-4.  entgegen § 16g Absatz 4 oder § 60d Absatz 3 Satz 3 eine Mitteilung
-    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
-    Weise oder nicht rechtzeitig macht.
+4.  entgegen § 16g Absatz 4 Satz 1, § 60c Absatz 5 Satz 1 oder § 60d
+    Absatz 3 Satz 3 eine Mitteilung nicht, nicht richtig, nicht
+    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig macht.
 
 
 
@@ -13997,7 +14009,7 @@ Fassung weiter Anwendung. In diesen Fällen gilt § 52 Abs. 1 Satz 1 Nr.
 
 
 ### § 104 Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011333311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011334311)
 
 (1) Über vor dem 1. Januar 2005 gestellte Anträge auf Erteilung einer
 unbefristeten Aufenthaltserlaubnis oder einer Aufenthaltsberechtigung
@@ -14127,6 +14139,12 @@ Asylantrag gestellt zu haben.
 (19) Auf Personen, deren Asylantrag bis zum 27. Februar 2024 als
 offensichtlich unbegründet abgelehnt wurde, findet § 10 Absatz 3 Satz
 2 in der bis zu diesem Tag geltenden Fassung Anwendung.
+
+(20) Wurde ein anwaltlicher Vertreter in Verfahren über die Anordnung
+von Abschiebungshaft nach § 62, Ausreisegewahrsam nach § 62b sowie
+Überstellungshaft nach § 2 Absatz 14 vor dem 31. Mai 2026 von Amts
+wegen bestellt, findet dieses Gesetz in der bis einschließlich dem 31.
+Mai 2026 geltenden Fassung Anwendung.
 
 
 ### § 104a Altfallregelung

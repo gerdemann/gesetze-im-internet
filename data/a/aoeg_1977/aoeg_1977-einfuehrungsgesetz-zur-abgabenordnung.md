@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 353 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 [Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000100319)

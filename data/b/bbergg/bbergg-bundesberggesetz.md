@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 10 G v. 10.12.2025 I Nr. 320
-
-Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 348 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.12.2025 I Nr. 348
 
 
 ## Eingangsformel

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 56 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 17 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
 [Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000100311)

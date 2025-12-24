@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 28.7.2015 I 1400
 
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anordnung, Zweck
 [Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000100000)

@@ -79,9 +79,9 @@ Dezember 2025 geschlossen werden.
 (Fundstelle: BGBl. 2025 I Nr. 215, S. 3 - 8)
 
 
-1.  Standardvertragsklausel für Regelungen zum Recht des Sponsors zur
+**1.** **Standardvertragsklausel für Regelungen zum Recht des Sponsors zur
     Erstveröffentlichung sowie zu den Anforderungen an Veröffentlichungen
-    durch das Prüfzentrum
+    durch das Prüfzentrum**
 
     1.1 Der Sponsor hat das Recht zur Erstveröffentlichung der Ergebnisse der
         klinischen Prüfung. Gesetzliche Veröffentlichungspflichten bleiben von
@@ -163,7 +163,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-2.  Standardvertragsklausel für Regelungen zu Rechten an Ergebnissen
+**2.** **Standardvertragsklausel für Regelungen zu Rechten an Ergebnissen**
 
     2.1 Bringt die vertrags- und prüfplanmäßige Durchführung der klinischen
         Prüfung am Prüfzentrum Ergebnisse hervor, die schutzfähige Erfindungen
@@ -286,7 +286,8 @@ Dezember 2025 geschlossen werden.
 
 
 
-3.  Standardvertragsklausel für Regelungen zu vertraulichen Informationen
+**3.** **Standardvertragsklausel für Regelungen zu vertraulichen
+    Informationen**
 
     3.1 Vorbehaltlich der Nummer 3.2 sind vertrauliche Informationen im Sinne
         dieses Vertrages alle Informationen unabhängig von ihrer Form, die von
@@ -398,7 +399,8 @@ Dezember 2025 geschlossen werden.
 
 
 
-4.  Standardvertragsklausel für Regelungen zu Namens- und Markenrechten
+**4.** **Standardvertragsklausel für Regelungen zu Namens- und
+    Markenrechten**
 
     Die Vertragsparteien erkennen die jeweiligen Namens- und Markenrechte
     wechselseitig an. Keine Vertragspartei wird den Namen oder die
@@ -428,8 +430,8 @@ Dezember 2025 geschlossen werden.
     Nummer 3 genannten Regelungen zur Geheimhaltung bleiben unberührt.
 
 
-5.  Standardvertragsklausel für Regelungen zu überlassenen Geräten und
-    Materialien
+**5.** **Standardvertragsklausel für Regelungen zu überlassenen Geräten und
+    Materialien**
 
     5.1 Überlässt der Sponsor für die Durchführung der klinischen Prüfung
         Geräte oder Materialien zur Nutzung durch das Prüfzentrum und dessen
@@ -474,7 +476,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-6.  Standardvertragsklausel für Regelungen zu Inspektionen und Audits
+**6.** **Standardvertragsklausel für Regelungen zu Inspektionen und Audits**
 
     6.1 Der Sponsor überwacht die Durchführung der klinischen Prüfung selbst
         oder durch einen von ihm Beauftragten. Zur Durchführung angekündigter
@@ -544,7 +546,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-7.  Standardvertragsklausel für Regelungen zur Haftung
+**7.** **Standardvertragsklausel für Regelungen zur Haftung**
 
     7.1 Das Prüfzentrum übernimmt keine Gewähr für das Erreichen eines
         bestimmten Arbeitsergebnisses oder dafür, dass das Arbeitsergebnis
@@ -576,8 +578,8 @@ Dezember 2025 geschlossen werden.
 
 
 
-8.  Standardvertragsklausel für Regelungen zur Dokumentation der
-    klinischen Prüfung und Archivierung der Dokumentation
+**8.** **Standardvertragsklausel für Regelungen zur Dokumentation der
+    klinischen Prüfung und Archivierung der Dokumentation**
 
     8.1 Das Prüfzentrum bewahrt seine im Zusammenhang mit der klinischen
         Prüfung stehende Dokumentation entweder in analoger oder digitaler
@@ -616,7 +618,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-9.  Standardvertragsklausel für Regelungen zum Datenschutz
+**9.** **Standardvertragsklausel für Regelungen zum Datenschutz**
 
     9.1 Die Vertragsparteien verpflichten sich zur Einhaltung der
         Datenschutzbestimmungen, insbesondere der Verordnung (EU) 2016/679
@@ -664,8 +666,8 @@ Dezember 2025 geschlossen werden.
 
 
 
-10. Standardvertragsklausel für Regelungen zur Beendigung und Kündigung
-    des Vertrages
+**10.** **Standardvertragsklausel für Regelungen zur Beendigung und Kündigung
+    des Vertrages**
 
     10.1 Dieser Vertrag endet, wenn
 
@@ -749,7 +751,7 @@ Dezember 2025 geschlossen werden.
 (Fundstelle: BGBl. 2025 I Nr. 215, S. 9 - 11)
 
 
-1.  Gemeinsame Verantwortlichkeit
+**1.** **Gemeinsame Verantwortlichkeit**
 
     1.1 Soweit nicht nachstehend abweichend vereinbart, stellt jede
         Vertragspartei selbst die Einhaltung der gesetzlichen Bestimmungen,
@@ -819,7 +821,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-2.  Information der Betroffenen
+**2.** **Information der Betroffenen**
 
     Die Vertragsparteien sind gesetzlich verpflichtet, den betroffenen
     Personen die nach den Artikeln 13 und 14 der Datenschutz-
@@ -837,7 +839,7 @@ Dezember 2025 geschlossen werden.
     auf Rechtskonformität zu prüfen.
 
 
-3.  Rechte der Betroffenen
+**3.** **Rechte der Betroffenen**
 
     3.1 Betroffene Personen können die ihnen aus den Artikeln 15 bis 22 der
         Datenschutz-Grundverordnung zustehenden Rechte („Betroffenenrechte“)
@@ -885,8 +887,8 @@ Dezember 2025 geschlossen werden.
 
 
 
-4.  Unregelmäßigkeiten, Datenschutzverletzungen und Zweifel an der
-    Rechtmäßigkeit
+**4.** **Unregelmäßigkeiten, Datenschutzverletzungen und Zweifel an der
+    Rechtmäßigkeit**
 
     4.1 Die Vertragsparteien informieren sich gegenseitig unverzüglich und
         vollständig, wenn sie bei der Prüfung der Verarbeitungstätigkeiten
@@ -925,7 +927,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-5.  Datenschutzfolgenabschätzungen
+**5.** **Datenschutzfolgenabschätzungen**
 
     Die Vertragsparteien stellen in ihrem jeweiligen Zuständigkeitsbereich
     sicher, dass Datenschutzfolgenabschätzungen nach Artikel 35 der
@@ -934,7 +936,7 @@ Dezember 2025 geschlossen werden.
     erforderlich.
 
 
-6.  Aufbewahrung von Dokumentationen
+**6.** **Aufbewahrung von Dokumentationen**
 
     Dokumentationen, die der Einhaltung der ordnungsgemäßen
     Datenverarbeitung nach Artikel 5 Absatz 2 der Datenschutz-
@@ -943,7 +945,7 @@ Dezember 2025 geschlossen werden.
     hinaus aufbewahrt.
 
 
-7.  Vertraulichkeit und Datensicherheit
+**7.** **Vertraulichkeit und Datensicherheit**
 
     7.1 Die Vertragsparteien stellen innerhalb ihres jeweiligen
         Zuständigkeitsbereiches sicher, dass alle mit der Datenverarbeitung
@@ -979,7 +981,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-8.  Auftragsverarbeiter
+**8.** **Auftragsverarbeiter**
 
     Die Vertragsparteien verpflichten sich, beim Einsatz von
     Auftragsverarbeitern im Anwendungsbereich dieser Vereinbarung einen
@@ -991,7 +993,7 @@ Dezember 2025 geschlossen werden.
     Vertragspartei sichergestellt.
 
 
-9.  Verarbeitungsverzeichnis
+**9.** **Verarbeitungsverzeichnis**
 
     Die Vertragsparteien nehmen die Verarbeitungstätigkeiten in ihre
     jeweiligen Verarbeitungsverzeichnisse nach Artikel 30 Absatz 1 der
@@ -1000,7 +1002,7 @@ Dezember 2025 geschlossen werden.
     alleiniger Verantwortung.
 
 
-10. Dauer und Kündigung
+**10.** **Dauer und Kündigung**
 
     10.1 Die vertraglichen Regelungen des Datenschutzes bei gemeinsamer
         Verantwortlichkeit gelten für die Dauer der Verarbeitung
@@ -1021,7 +1023,7 @@ Dezember 2025 geschlossen werden.
 
 
 
-11. Haftung
+**11.** **Haftung**
 
     11.1 Artikel 82 der Datenschutz-Grundverordnung bleibt unberührt. Die
         vertraglichen Regelungen des Datenschutzes bei gemeinsamer

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 30.4.2025 I Nr. 128
 
+Änderung durch
+:   Art. 1 V v. 18.12.2025 I Nr. 357 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000100000)

@@ -20,16 +20,16 @@ Zuletzt geändert durch
 :   Art. 3 G v. 26.7.2023 I Nr. 202
 
 Änderung durch
-:   Art. 18 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 18 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen, Beauftragter und Internetadressen
-[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000101123)
 
 (1) Dieses Gesetz regelt die einmalige Entlastung von Kosten für
 leitungsgebundenes Erdgas und Wärme.
 
-(2) Der Begriff des Letztverbrauchers ist der in § 3 Nummer 25 des
+(2) Der Begriff des Letztverbrauchers ist der in § 3 Nummer 70 des
 Energiewirtschaftsgesetzes bezeichnete Letztverbraucher.
 
 (3) Wärmeversorgungsunternehmen im Sinne dieses Gesetzes sind
@@ -41,13 +41,13 @@ Lieferanten im Sinne dieses Gesetzes sind Erdgaslieferanten und
 Wärmeversorgungsunternehmen.
 
 (4) Beauftragter im Sinne des Gesetzes ist eine vom Bundesministerium
-für Wirtschaft und Klimaschutz bekannt zu machende, mit den ihr durch
+für Wirtschaft und Energie bekannt zu machende, mit den ihr durch
 dieses Gesetz zugewiesenen Aufgaben betraute juristische Person des
-Privatrechts. Das Bundesministerium für Wirtschaft und Klimaschutz hat
-den Beauftragten zu bestellen.
+Privatrechts. Das Bundesministerium für Wirtschaft und Energie hat den
+Beauftragten zu bestellen.
 
 (5) Antragsadresse und Nachprüfungsadresse sind vom Bundesministerium
-für Wirtschaft und Klimaschutz bekannt zu machende Internetadressen.
+für Wirtschaft und Energie bekannt zu machende Internetadressen.
 
 
 ## § 2 Entlastung bei leitungsgebundenen Erdgaslieferungen an Letztverbraucher
@@ -374,7 +374,7 @@ Vorauszahlung tritt an die Stelle der Zahlung des Letztverbrauchers.
 
 
 ## § 8 Antragsverfahren für die Vorauszahlung an Erdgaslieferanten
-[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000801123)
 
 (1) Erdgaslieferanten, die einen Anspruch auf Vorauszahlung nach § 7
 haben, haben die Auszahlung der Vorauszahlung über das Kreditinstitut
@@ -418,7 +418,7 @@ hinsichtlich der Identität des Antragstellers und der Plausibilität
 der beantragten Zahlung durch den Beauftragten zu unterziehen. Der
 Antrag auf Prüfung (Prüfantrag) ist bis zum 28. Februar 2023 unter der
 Antragsadresse bei einem elektronischen Portal zu stellen, das vom
-Bundesministerium für Wirtschaft und Klimaschutz dem Beauftragten zur
+Bundesministerium für Wirtschaft und Energie dem Beauftragten zur
 Verfügung gestellt wird. Die in Satz 2 genannte Frist kann in
 begründeten Fällen auf Antrag von dem Beauftragten verlängert werden.
 Über das Ergebnis der Prüfung erstellt der Beauftragte einen
@@ -461,7 +461,7 @@ keine Beanstandungen ergab.
 
 
 ## § 9 Antragsverfahren für den Erstattungsanspruch von Wärmeversorgungsunternehmen
-[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000901123)
 
 (1) Wärmeversorgungsunternehmen, die einen Erstattungsanspruch nach §
 6 haben, haben die Auszahlung der Erstattung über das Kreditinstitut
@@ -505,7 +505,7 @@ hinsichtlich der Identität des Antragstellers und der Plausibilität
 der beantragten Zahlung durch den Beauftragten zu unterziehen. Der
 Antrag auf Prüfung (Prüfantrag) ist bis zum 28. Februar 2023 unter der
 Antragsadresse bei einem elektronischen Portal zu stellen, das vom
-Bundesministerium für Wirtschaft und Klimaschutz dem Beauftragten zur
+Bundesministerium für Wirtschaft und Energie dem Beauftragten zur
 Verfügung gestellt wird. Die in Satz 2 genannte Frist kann in
 begründeten Fällen auf Antrag von dem Beauftragten verlängert werden.
 Über das Ergebnis der Prüfung erstellt der Beauftragte einen
@@ -620,7 +620,7 @@ und 2 der Bundeshaushaltsordnung ausgenommen.
 
 
 ## § 10a Veröffentlichungs-, Berichts- und Aufbewahrungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001600377)
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001601123)
 
 (1) Der Beauftragte veröffentlicht innerhalb von zwölf Monaten,
 nachdem die Höhe der Gewährung der Beihilfe feststeht, die in Anhang
@@ -633,7 +633,7 @@ mehr als 100 000 Euro durch Einstellung in die
 Beihilfetransparenzdatenbank der Europäischen Kommission.
 
 (2) Der Beauftragte übermittelt dem Bundesministerium für Wirtschaft
-und Klimaschutz einen Jahresbericht zu den Entlastungen nach diesem
+und Energie einen Jahresbericht zu den Entlastungen nach diesem
 Gesetz, das diesen abnimmt und der Europäischen Kommission vorlegt.
 Die Erdgaslieferanten und Wärmeversorgungsunternehmen unterstützen den
 Beauftragten bei der Erstellung des Berichts.
@@ -748,9 +748,9 @@ Geschäftsgeheimnisse:
 
 
 ## § 15 Evaluierung
-[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001501123)
 
 Es findet bis zum 31. Dezember 2024 eine Evaluierung der Regelungen
-dieses Gesetzes durch das Bundesministerium für Wirtschaft und
-Klimaschutz statt.
+dieses Gesetzes durch das Bundesministerium für Wirtschaft und Energie
+statt.
 

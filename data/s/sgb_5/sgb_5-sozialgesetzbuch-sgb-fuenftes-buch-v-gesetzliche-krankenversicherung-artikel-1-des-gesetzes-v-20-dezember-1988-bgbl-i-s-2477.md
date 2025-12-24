@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000100328)

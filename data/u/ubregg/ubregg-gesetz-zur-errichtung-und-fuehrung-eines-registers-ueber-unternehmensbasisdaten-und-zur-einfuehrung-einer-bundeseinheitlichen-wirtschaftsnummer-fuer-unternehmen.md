@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 27.2.2025 I Nr. 71
 
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
 [Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000100000)

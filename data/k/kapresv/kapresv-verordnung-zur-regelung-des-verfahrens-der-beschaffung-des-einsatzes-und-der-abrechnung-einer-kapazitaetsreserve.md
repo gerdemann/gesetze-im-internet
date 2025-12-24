@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 3.11.2025 I Nr. 264
 
 Änderung durch
-:   Art. 15 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 15 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -205,7 +205,7 @@ Im Sinne dieser Verordnung bedeutet
 
 
 ### § 3 Verhältnis zu den Strommärkten, Anschlussverwendung
-[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000502123)
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000503123)
 
 (1) In der Kapazitätsreserve gebundene Erzeugungsanlagen und Speicher
 speisen ausschließlich auf Anforderung der Übertragungsnetzbetreiber
@@ -267,7 +267,7 @@ seine Wahl gebunden.
 (6) Baut der Betreiber die Erzeugungsanlage oder den Speicher ab und
 baut er sie vollständig oder teilweise an einem anderen Standort
 wieder auf, darf der in dieser Anlage nach dem Wiederaufbau erzeugte
-Strom nur außerhalb der europäischen Strommärkte nach § 3 Nummer 18d
+Strom nur außerhalb der europäischen Strommärkte nach § 3 Nummer 43
 des Energiewirtschaftsgesetzes vermarktet werden. Satz 1 ist
 entsprechend für die Verwendung des erzeugten Stroms für den
 Eigenverbrauch anzuwenden.
@@ -403,7 +403,7 @@ und Termine nach Absatz 1 anpassen.
 
 
 ### § 9 Teilnahmevoraussetzungen
-[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001104123)
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001105123)
 
 (1) Jede Anlage muss für die Teilnahme am Beschaffungsverfahren,
 vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4,
@@ -462,7 +462,7 @@ festlegen:
 
 3.  informationstechnische und organisatorische Anforderungen, die sich an
     den Anforderungen für die Erbringung von Minutenreserveleistung nach §
-    3 Nummer 26e des Energiewirtschaftsgesetzes orientieren,
+    3 Nummer 76 des Energiewirtschaftsgesetzes orientieren,
 
 
 4.  zur erforderlichen Fahrplangenauigkeit für die Aktivierung nach § 25,

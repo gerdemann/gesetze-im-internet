@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 14.7.2025 I Nr. 161
 
 Änderung durch
-:   Art. 6 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Steuerpflicht
@@ -381,7 +381,7 @@ zusammengefasst werden.
 
 
 ### § 5 Befreiungen
-[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007147123)
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007148123)
 
 (1) Von der Körperschaftsteuer sind befreit
 
@@ -605,11 +605,11 @@ zusammengefasst werden.
     Anlagen, für den es unter den Voraussetzungen des § 21 Absatz 3 des
     Erneuerbare-Energien-Gesetzes einen Anspruch auf Zahlung eines
     Mieterstromzuschlags hat, oder aus der Bereitstellung von Strom aus
-    Gebäudestromanlagen gemäß § 3 Nummer 20b des
-    Energiewirtschaftsgesetzes zur Nutzung durch Letztverbraucher im
-    Rahmen der Gemeinschaftlichen Gebäudeversorgung, erhöht sich die
-    Grenze des Satzes 2 für diese Einnahmen auf 30 Prozent, wenn die
-    Grenze des Satzes 2 nur durch diese Einnahmen überschritten wird.
+    Gebäudestromanlagen gemäß § 3 Nummer 53 des Energiewirtschaftsgesetzes
+    zur Nutzung durch Letztverbraucher im Rahmen der Gemeinschaftlichen
+    Gebäudeversorgung, erhöht sich die Grenze des Satzes 2 für diese
+    Einnahmen auf 30 Prozent, wenn die Grenze des Satzes 2 nur durch diese
+    Einnahmen überschritten wird.
     4Zu den Einnahmen nach Satz 3 gehören auch Einnahmen aus der
     zusätzlichen Stromlieferung im Sinne des § 42a Absatz 2 Satz 6 des
     Energiewirtschaftsgesetzes sowie Einnahmen aus der Einspeisung von

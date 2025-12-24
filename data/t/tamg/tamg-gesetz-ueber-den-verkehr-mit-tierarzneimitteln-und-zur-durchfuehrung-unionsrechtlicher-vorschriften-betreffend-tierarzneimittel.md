@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.3.2024 I Nr. 97
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 356 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 356 noch nicht berücksichtigt
+
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
     Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4

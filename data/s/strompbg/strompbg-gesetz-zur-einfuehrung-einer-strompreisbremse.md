@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 8.12.2025 I Nr. 317
 
 Änderung durch
-:   Art. 19 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 19 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 12 Abs. 1 G v. 20.12.2022 I 2512 am 24.12.2022 in Kraft getreten
 [^F824779_01_BJNR251210022]:     Dieses Gesetz dient der Umsetzung der Verordnung (EU) 2022/1854 des
@@ -70,7 +70,7 @@ Zweck regelt dieses Gesetz
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000302377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000303123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -204,12 +204,12 @@ Im Sinn dieses Gesetzes ist oder sind
     oder in den Fällen des § 7 den Strom ohne Lieferung entnimmt,
 
 
-13. „Netz“ jedes Elektrizitätsversorgungsnetz im Sinn des § 3 Nummer 16
+13. „Netz“ jedes Elektrizitätsversorgungsnetz im Sinn des § 3 Nummer 37
     des Energiewirtschaftsgesetzes,
 
 
 14. „Netzbetreiber“ Betreiber von Elektrizitätsversorgungsnetzen im Sinn
-    des § 3 Nummer 2 des Energiewirtschaftsgesetzes,
+    des § 3 Nummer 8 des Energiewirtschaftsgesetzes,
 
 
 15. „Netzeinspeisung“ die mit einer Stromerzeugungsanlage erzeugte und in
@@ -260,7 +260,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 24. „Übertragungsnetzbetreiber“ Betreiber von Übertragungsnetzen im Sinn
-    des § 3 Nummer 10a des Energiewirtschaftsgesetzes,
+    des § 3 Nummer 17 des Energiewirtschaftsgesetzes,
 
 
 25. „Unternehmen“ jeder Rechtsträger, der einen nach Art und Umfang in
@@ -312,7 +312,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 29. „Verteilernetzbetreiber“ Betreiber von Elektrizitätsverteilernetzen im
-    Sinn des § 3 Nummer 3 des Energiewirtschaftsgesetzes, als
+    Sinn des § 3 Nummer 9 des Energiewirtschaftsgesetzes, als
     Verteilernetzbetreiber im Sinn dieses Gesetzes gelten auch
     Übertragungsnetzbetreiber ohne Regelzonenverantwortung,
 
@@ -427,7 +427,7 @@ Kostenabrechnungen mit dem Entlastungsanspruch ist zulässig.
 
 
 ### § 5 Differenzbetrag
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000601377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000602123)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße zur Absicherung
 der Letztverbraucher gegen steigende Energiekosten. Die Berechnung des
@@ -458,9 +458,9 @@ dieses Kalendermonats abweichend von Satz 5 auf den mit der zeitlichen
 Gültigkeit der einzelnen vereinbarten Arbeitspreise gewichteten
 durchschnittlichen Arbeitspreis dieses Kalendermonats und nicht des
 Vormonats abzustellen. Soweit das Bundesministerium für Wirtschaft und
-Klimaschutz durch Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 2
-die Berechnung des Differenzbetrags angepasst hat, ist diese ergänzend
-zu den Sätzen 3 bis 6 und den Absätzen 2 und 3 anzuwenden.
+Energie durch Rechtsverordnung aufgrund des § 48 Absatz 1 Nummer 2 die
+Berechnung des Differenzbetrags angepasst hat, ist diese ergänzend zu
+den Sätzen 3 bis 6 und den Absätzen 2 und 3 anzuwenden.
 
 (2) Der Referenzpreis beträgt für Netzentnahmestellen, an denen
 
@@ -1657,7 +1657,7 @@ Satz 1 unterliegen denselben Aufbewahrungsfristen wie die Abrechnung.
 
 
 ### § 12b Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006300377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006301123)
 
 (1) Ein Letztverbraucher, der über eine Netzentnahmestelle, an der die
 Netzentnahme nicht über ein standardisiertes Lastprofil bilanziert
@@ -1806,20 +1806,19 @@ Informationen und Nachweise zu übermitteln. Die Prüfbehörde kann zur
 Plausibilisierung erforderliche zusätzliche Informationen vom
 Antragsteller anfordern.
 
-(6) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere
-Einzelheiten des Verfahrens, insbesondere zu den vom Antragsteller
-beizubringenden Unterlagen sowie Fristen festzulegen.
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates weitere Einzelheiten
+des Verfahrens, insbesondere zu den vom Antragsteller beizubringenden
+Unterlagen sowie Fristen festzulegen.
 
 (7) Die Festsetzung des nach Absatz 3 Satz 2 erfolgt gemeinsam für
 Strom sowie leitungsgebundenes Erdgas und Wärme nach § 35a des Erdgas-
 Wärme-Preisbremsengesetzes durch die Prüfbehörde. Die Prüfbehörde
 veranlasst die Auszahlung durch die Bundeskasse. Das Bundesministerium
-für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium der Finanzen durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Einzelheiten des Zahlungsverfahrens
-festzulegen.
+für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
+des Bundesrates die Einzelheiten des Zahlungsverfahrens festzulegen.
 
 (8) Der zusätzliche Entlastungsbetrag ist von der Prüfbehörde
 zurückzufordern, wenn der Antragssteller seiner Mitteilungspflicht
@@ -1932,14 +1931,14 @@ Netzeinspeisung zwischengespeichert worden ist.
 
 
 ### § 14 Grundsatz
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001601377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001602123)
 
 (1) Betreiber von Stromerzeugungsanlagen müssen an den Netzbetreiber,
 an dessen Netz ihre Stromerzeugungsanlage unmittelbar angeschlossen
 ist, 90 Prozent der im jeweiligen Abrechnungszeitraum mit der
 Stromerzeugungsanlage erwirtschafteten Überschusserlöse
 (Abschöpfungsbetrag) zahlen. Satz 1 ist für die Tätigkeiten vertikal
-integrierter Unternehmen im Sinn des § 3 Nummer 38 des
+integrierter Unternehmen im Sinn des § 3 Nummer 109 des
 Energiewirtschaftsgesetzes entsprechend anzuwenden. Die Zahlung muss
 bis zum 15. Kalendertag des fünften Monats erfolgen, der auf den
 jeweiligen Abrechnungszeitraum folgt. Bei Biogasanlagen, für die nach
@@ -2452,7 +2451,7 @@ entsprechend anzuwenden.
 
 
 ### § 24 Ausgleichsanspruch gegen den Bund
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002700000)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002701123)
 
 (1) Die Übertragungsnetzbetreiber haben nach dem Ablauf des zeitlichen
 Anwendungsbereichs des Teils 2 und des Teils 3 gegen die
@@ -2464,17 +2463,17 @@ Differenzbetrag nach Satz 1 positiv ist, müssen die
 Übertragungsnetzkosten im nächsten Kalenderjahr verwenden.
 
 (2) Die Übertragungsnetzbetreiber übermitteln dem Bundesministerium
-für Wirtschaft und Klimaschutz und der Bundesnetzagentur eine
-gemeinsame und von einem Prüfer geprüfte Kontoabrechnung für den sich
-nach Absatz 1 Satz 1 ergebenden Anspruch. Die Kontoabrechnung ist drei
-Monate nach Ablauf der Zahlungsfrist nach § 14 Absatz 1 Satz 3 für den
-letzten Abrechnungszeitraum nach Teil 3 zu übermitteln, es sei denn,
-die Übertragungsnetzbetreiber und das Bundesministerium für Wirtschaft
-und Klimaschutz vereinbaren einen anderen Termin. Die
-Bundesnetzagentur prüft die Höhe der Kontoabrechnung auf Plausibilität
-und teilt das Ergebnis der Prüfung den Übertragungsnetzbetreibern und
-dem Bundesministerium für Wirtschaft und Klimaschutz innerhalb von
-vier Wochen nach Zugang der Kontoabrechnung mit.
+für Wirtschaft und Energie und der Bundesnetzagentur eine gemeinsame
+und von einem Prüfer geprüfte Kontoabrechnung für den sich nach Absatz
+1 Satz 1 ergebenden Anspruch. Die Kontoabrechnung ist drei Monate nach
+Ablauf der Zahlungsfrist nach § 14 Absatz 1 Satz 3 für den letzten
+Abrechnungszeitraum nach Teil 3 zu übermitteln, es sei denn, die
+Übertragungsnetzbetreiber und das Bundesministerium für Wirtschaft und
+Energie vereinbaren einen anderen Termin. Die Bundesnetzagentur prüft
+die Höhe der Kontoabrechnung auf Plausibilität und teilt das Ergebnis
+der Prüfung den Übertragungsnetzbetreibern und dem Bundesministerium
+für Wirtschaft und Energie innerhalb von vier Wochen nach Zugang der
+Kontoabrechnung mit.
 
 (3) Der Anspruch nach Absatz 1 Satz 1 wird vier Wochen nach Abgabe der
 Mitteilung nach Absatz 2 Satz 3, spätestens aber drei Monate nach
@@ -2486,7 +2485,7 @@ gegenüber allen Übertragungsnetzbetreibern Zahlungen an einen
 
 
 ### § 25 Anspruch auf Zwischenfinanzierung, öffentlich-rechtlicher Vertrag
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002800000)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002801123)
 
 Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik
 Deutschland einen Anspruch auf Zwischenfinanzierung der Ausgaben nach
@@ -2495,9 +2494,9 @@ Deutschland und zu Rückzahlungen der Zwischenfinanzierung aus Erlösen
 nach Teil 3 werden bis zum 15. Februar 2023 in einem öffentlich-
 rechtlichen Vertrag zwischen den Übertragungsnetzbetreibern und der
 Bundesrepublik Deutschland geregelt. Die Bundesrepublik Deutschland
-wird vertreten durch das Bundesministerium für Wirtschaft und
-Klimaschutz. Der Abschluss des Vertrags bedarf des Einvernehmens mit
-dem Bundesministerium der Finanzen.
+wird vertreten durch das Bundesministerium für Wirtschaft und Energie.
+Der Abschluss des Vertrags bedarf des Einvernehmens mit dem
+Bundesministerium der Finanzen.
 
 
 ## Teil 5 - Kontoführungs-, Mitteilungs- und sonstige Pflichten
@@ -2564,7 +2563,7 @@ Verordnung nach § 48 Absatz 1 Nummer 4 zu verwenden.
 
 
 #### § 28 Umfang der Mitteilungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003100000)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003101123)
 
 Betreiber von Stromerzeugungsanlagen, Netzbetreiber, Letztverbraucher,
 die Unternehmen sind, und Elektrizitätsversorgungsunternehmen müssen
@@ -2575,7 +2574,7 @@ die Unternehmen sind, und Elektrizitätsversorgungsunternehmen müssen
     Bestimmungen keine abweichenden Fristen bestimmt sind, und
 
 
-2.  auf Verlangen dem Bundesministerium für Wirtschaft und Klimaschutz die
+2.  auf Verlangen dem Bundesministerium für Wirtschaft und Energie die
     Angaben nach Nummer 1 übermitteln, soweit dies für die Erfüllung einer
     Anforderung durch die Europäische Kommission aufgrund des europäischen
     Beihilfenrechts erforderlich ist.
@@ -3368,7 +3367,7 @@ Genossenschaftsgesetzes entsprechend anzuwenden.
 
 
 #### § 35 Formularvorgaben und digitale Übermittlung
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003801377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003802123)
 
 (1) Netzbetreiber stellen für die nach diesem Teil ihnen
 mitzuteilenden Angaben Formularvorlagen rechtzeitig vor Ablauf der für
@@ -3390,27 +3389,27 @@ Internetplattform übermittelt werden. Die Bundesnetzagentur erhält
 Zugriff auf die Mitteilungen, die über die Internetplattform nach Satz
 1 gemeldet worden sind; dabei bleibt § 40 unberührt.
 
-(5) Das Bundesministerium für Wirtschaft und Klimaschutz richtet
+(5) Das Bundesministerium für Wirtschaft und Energie richtet
 unverzüglich eine elektronische Schnittstelle zur Übermittlung von
 Preissicherungsmeldungen nach § 29 Absatz 3 ein. Die elektronische
 Schnittstelle nach Satz 1 wird vom Bundesministerium für Wirtschaft
-und Klimaschutz betrieben. Die Bundesnetzagentur erhält Zugriff auf
-die Preissicherungsmeldungen, die unter Nutzung der elektronischen
+und Energie betrieben. Die Bundesnetzagentur erhält Zugriff auf die
+Preissicherungsmeldungen, die unter Nutzung der elektronischen
 Schnittstelle übermittelt worden sind. Das Bundesministerium für
-Wirtschaft und Klimaschutz kann den Betrieb der elektronischen
+Wirtschaft und Energie kann den Betrieb der elektronischen
 Schnittstelle nach Satz 1 durch Bekanntmachung im Bundesanzeiger auf
 die Bundesnetzagentur übertragen. Wenn die elektronische Schnittstelle
 nach Satz 1 eingerichtet ist, müssen die Mitteilungen nach § 29 Absatz
 3 unter Nutzung der elektronischen Schnittstelle übermittelt werden.
-Das Bundesministerium für Wirtschaft und Klimaschutz und ab dem
-Zeitpunkt der Übertragung nach Satz 4 die Bundesnetzagentur können zur
-Nutzung der elektronischen Schnittstelle nach Satz 1 Vorgaben,
-insbesondere zur Nutzung von Software, zu Formaten, zu technischen
-Anforderungen und zum Übertragungsweg machen. Soweit das
-Bundesministerium für Wirtschaft und Klimaschutz oder im Fall des
-Satzes 4 die Bundesnetzagentur Vorgaben zur Nutzung der elektronischen
-Schnittstelle gemacht haben, müssen Mitteilungen nach § 29 Absatz 3
-unter Beachtung dieser Vorgaben übermittelt werden.
+Das Bundesministerium für Wirtschaft und Energie und ab dem Zeitpunkt
+der Übertragung nach Satz 4 die Bundesnetzagentur können zur Nutzung
+der elektronischen Schnittstelle nach Satz 1 Vorgaben, insbesondere
+zur Nutzung von Software, zu Formaten, zu technischen Anforderungen
+und zum Übertragungsweg machen. Soweit das Bundesministerium für
+Wirtschaft und Energie oder im Fall des Satzes 4 die Bundesnetzagentur
+Vorgaben zur Nutzung der elektronischen Schnittstelle gemacht haben,
+müssen Mitteilungen nach § 29 Absatz 3 unter Beachtung dieser Vorgaben
+übermittelt werden.
 
 (6) Eine Haftung der Übertragungsnetzbetreiber für Schäden, die aus
 der Verwendung von Formularvorlagen und der Internetplattform nach
@@ -4123,14 +4122,14 @@ Nummer 1.
 
 
 ### § 46 Weitere Aufgaben und Aufsicht der Prüfbehörde
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005000000)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005001123)
 
 (1) Die Prüfbehörde stellt unverzüglich eine Mustervorlage für die
 Berechnung des EBITDA auf ihrer Internetseite zur Verfügung.
 
 (2) Die Prüfbehörde übermittelt dem Bundesministerium für Wirtschaft
-und Klimaschutz Jahresberichte zu den Entlastungen nach diesem Gesetz,
-das diese abnimmt und der Europäischen Kommission vorlegt. Die
+und Energie Jahresberichte zu den Entlastungen nach diesem Gesetz, das
+diese abnimmt und der Europäischen Kommission vorlegt. Die
 Bundesnetzagentur, die Übertragungsnetzbetreiber und die
 Elektrizitätsversorgungsunternehmen unterstützen die Prüfbehörde bei
 der Erstellung der Berichte.
@@ -4243,11 +4242,11 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 48 Weitere Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005201377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005202123)
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  eine Bundesbehörde zu bestimmen, die alle oder einen Teil der Aufgaben
     wahrnimmt, die in diesem Gesetz oder im Erdgas-Wärme-
@@ -4387,40 +4386,39 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 48a Beleihung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006100377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006101123)
 
 (1) Abweichend von § 48 Absatz 1 Nummer 1 kann das Bundesministerium
-für Wirtschaft und Klimaschutz im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung, Verwaltungsakt
-oder öffentlich-rechtlichen Vertrag einer juristischen Person des
-Privatrechts die Befugnis übertragen, im eigenen Namen und in den
-Handlungsformen des öffentlichen Rechts die Aufgaben wahrzunehmen, die
-in diesem Gesetz und im Erdgas-Wärme-Preisbremsengesetz der
-Prüfbehörde zugewiesen sind (Beleihung). Von der Möglichkeit der
-Beleihung ausgenommen sind die Befugnisse, Ordnungswidrigkeiten nach §
-43 Absatz 1 Nummer 6 dieses Gesetzes oder § 38 Absatz 1 Nummer 3 des
-Erdgas-Wärme-Preisbremsengesetzes zu verfolgen und zu ahnden. Die
-Wahrnehmung der Aufgaben schließt die Befugnis zum Erlass von
-Verwaltungsakten und zu deren Vollstreckung, zur Rücknahme und zum
-Widerruf der erlassenen Verwaltungsakte sowie den Erlass der
-Widerspruchsbescheide ein. Die Beleihung ist durch das
-Bundesministerium für Wirtschaft und Klimaschutz im Bundesanzeiger
-bekannt zu machen.
+für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium
+der Finanzen durch Rechtsverordnung, Verwaltungsakt oder öffentlich-
+rechtlichen Vertrag einer juristischen Person des Privatrechts die
+Befugnis übertragen, im eigenen Namen und in den Handlungsformen des
+öffentlichen Rechts die Aufgaben wahrzunehmen, die in diesem Gesetz
+und im Erdgas-Wärme-Preisbremsengesetz der Prüfbehörde zugewiesen sind
+(Beleihung). Von der Möglichkeit der Beleihung ausgenommen sind die
+Befugnisse, Ordnungswidrigkeiten nach § 43 Absatz 1 Nummer 6 dieses
+Gesetzes oder § 38 Absatz 1 Nummer 3 des Erdgas-Wärme-
+Preisbremsengesetzes zu verfolgen und zu ahnden. Die Wahrnehmung der
+Aufgaben schließt die Befugnis zum Erlass von Verwaltungsakten und zu
+deren Vollstreckung, zur Rücknahme und zum Widerruf der erlassenen
+Verwaltungsakte sowie den Erlass der Widerspruchsbescheide ein. Die
+Beleihung ist durch das Bundesministerium für Wirtschaft und Energie
+im Bundesanzeiger bekannt zu machen.
 
 (2) Beliehen werden kann nur, wer die notwendige Gewähr für die
 ordnungsgemäße Erfüllung der ihm zu übertragenden Aufgaben bietet.
 
 (3) Ein Beliehener unterliegt für die ihm übertragenen Aufgaben der
-Aufsicht des Bundesministeriums für Wirtschaft und Klimaschutz, dabei
-kann dieses die Aufsicht auf eine ihm nachgeordnete Behörde
-übertragen. Im Rahmen der Beleihung nach Absatz 1 können nähere
-Bestimmungen zur Ausgestaltung der Aufsicht festgelegt werden.
+Aufsicht des Bundesministeriums für Wirtschaft und Energie, dabei kann
+dieses die Aufsicht auf eine ihm nachgeordnete Behörde übertragen. Im
+Rahmen der Beleihung nach Absatz 1 können nähere Bestimmungen zur
+Ausgestaltung der Aufsicht festgelegt werden.
 
 (4) Eine durch Verwaltungsakt erfolgte Beleihung kann jederzeit ganz
 oder teilweise zurückgenommen, widerrufen oder mit Nebenbestimmungen
 verbunden werden.
 
-(5) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
+(5) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem Bundesministerium der Finanzen auch mehreren
 juristischen Personen des Privatrechts im Wege der Beleihung nach
 Absatz 1 Aufgaben übertragen. Dabei sind die von den jeweiligen
@@ -4429,15 +4427,15 @@ für die Abgrenzung der Beliehenen untereinander.
 
 
 ### § 48b Evaluierung
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005301377)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005302123)
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert
-dieses Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann
-es die Entlastungen nach Teil 2 und den Ausgleich nach Teil 4 bereits
-bis zum 30. Juni 2023 evaluieren und ist dazu verpflichtet, wenn der
-Bundestag dies fordert. Das Bundesministerium für Wirtschaft und
-Klimaschutz übersendet dem Bundestag unverzüglich das Ergebnis der
-Evaluierungen nach den Sätzen 1 und 2.
+(1) Das Bundesministerium für Wirtschaft und Energie evaluiert dieses
+Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann es die
+Entlastungen nach Teil 2 und den Ausgleich nach Teil 4 bereits bis zum
+30\. Juni 2023 evaluieren und ist dazu verpflichtet, wenn der Bundestag
+dies fordert. Das Bundesministerium für Wirtschaft und Energie
+übersendet dem Bundestag unverzüglich das Ergebnis der Evaluierungen
+nach den Sätzen 1 und 2.
 
 (2) Die Überprüfung des Teils 3 nach § 13 Absatz 2 bleibt von den
 Evaluierungen nach Absatz 1 unberührt.
@@ -4523,12 +4521,12 @@ nach den §§ 40 bis 40c des Energiewirtschaftsgesetzes auszugleichen.
 
 
 ### § 50 Beihilferechtlicher Genehmigungsvorbehalt
-[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005500000)
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005501123)
 
 Dieses Gesetz darf erst nach der beihilferechtlichen Genehmigung durch
 die Europäische Kommission angewandt werden. Das Bundesministerium für
-Wirtschaft und Klimaschutz gibt den Tag, ab dem dieses Gesetz nach
-Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
+Wirtschaft und Energie gibt den Tag, ab dem dieses Gesetz nach Satz 1
+anzuwenden ist, im Bundesgesetzblatt bekannt.
 
 (zu § 2 Nummer 11)
 

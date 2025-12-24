@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 958
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.11.2023 I Nr. 339
-
-Änderung durch
-:   Art. 8 G v. 2.12.2025 I Nr. 301 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 2.12.2025 I Nr. 301
 
 Änderung durch
 :   Art. 2 G v. 18.12.2025 I Nr. 347 noch nicht berücksichtigt
@@ -1368,7 +1365,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 2 Anlagenkategorien und Schwellenwerte im Sektor Wasser
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001003129)
 
-(Fundstelle: BGBl. I 2016,963 - 964)
+(Fundstelle: BGBl. I 2016,963 - 964
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1
 
@@ -1643,7 +1641,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 3 Anlagenkategorien und Schwellenwerte im Sektor Ernährung
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001103129)
 
-(Fundstelle: BGBl. I 2016,965 - 966)
+(Fundstelle: BGBl. I 2016,965 - 966
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1
 
@@ -1985,7 +1984,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 4 Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001205129)
 
-(Fundstelle: BGBl. I 2016, 967 - 969)
+(Fundstelle: BGBl. I 2016, 967 - 969
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1
 
@@ -2383,7 +2383,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 5 Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001602129)
 
-(Fundstelle: BGBl. I 2017, 1910 — 1912)
+(Fundstelle: BGBl. I 2017, 1910 — 1912
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Teil 1**
 ## **Grundsätze und Fristen**
@@ -3480,7 +3481,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 7 Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001803129)
 
-(Fundstelle: BGBl. I 2017, 1918 - 1922)
+(Fundstelle: BGBl. I 2017, 1918 - 1922
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Teil 1**
 ## **Grundsätze und Fristen**
@@ -4241,7 +4243,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anhang 8 Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
 [Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE002001129)
 
-(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4)
+(Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Teil 1**
 

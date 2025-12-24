@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2025 I Nr. 345
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis

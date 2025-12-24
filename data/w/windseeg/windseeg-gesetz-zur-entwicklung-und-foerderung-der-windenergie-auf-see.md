@@ -2761,6 +2761,26 @@ nach § 54 erhalten hat.
 [Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG002300119)
 
 
+##### § 57 Zweckbindung der Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011002128)
+
+Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1
+Nummer 1 werden anteilig für den Bereich des Bundesministeriums für
+Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit insbesondere
+für Maßnahmen des Meeresnaturschutzes, für den Bereich des
+Bundesministeriums für Landwirtschaft, Ernährung und Heimat
+insbesondere zur umweltschonenden Fischerei einschließlich
+Fischereistrukturmaßnahmen, als Einnahmen des Bundeshaushalts zu
+Transformationszwecken sowie zur Senkung der Offshore-Netzumlage gemäß
+§ 2 Nummer 11 des Energiefinanzierungsgesetzes verwendet. Die
+Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1 Nummer
+1 werden abweichend von Satz 1 für Ausschreibungen im Jahr 2023
+anteilig für Maßnahmen des Meeresnaturschutzes, zur umweltschonenden
+Fischerei einschließlich Fischereistrukturmaßnahmen, als Einnahmen des
+Bundeshaushalts sowie zur Senkung der Offshore-Netzumlage gemäß § 2
+Nummer 11 des Energiefinanzierungsgesetzes verwendet.
+
+
 ##### § 58 Meeresnaturschutz-, Fischerei- und Transformationskomponente
 [Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011103128)
 

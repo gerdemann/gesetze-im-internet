@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 39 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000100000)

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.12.2025 I Nr. 320
+:   Art. 4 G v. 22.12.2025 I Nr. 364
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -32872,7 +32872,7 @@ und 4 entsprechend.
 
 
 ##### § 1597a Verbot der missbräuchlichen Anerkennung der Vaterschaft
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280200123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280201129)
 
 (1) Die Vaterschaft darf nicht gezielt gerade zu dem Zweck anerkannt
 werden, die rechtlichen Voraussetzungen für die erlaubte Einreise oder
@@ -32896,7 +32896,7 @@ Anhaltspunkte ist insbesondere:
 
 2.  wenn der Anerkennende oder die Mutter oder das Kind einen Asylantrag
     gestellt hat und die Staatsangehörigkeit eines sicheren
-    Herkunftsstaates nach § 29a des Asylgesetzes besitzt,
+    Herkunftsstaates nach § 29a oder § 29b des Asylgesetzes besitzt,
 
 
 3.  das Fehlen von persönlichen Beziehungen zwischen dem Anerkennenden und

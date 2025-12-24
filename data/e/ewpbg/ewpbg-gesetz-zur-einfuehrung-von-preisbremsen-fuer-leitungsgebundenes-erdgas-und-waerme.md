@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 26.7.2023 I Nr. 202
 
 Änderung durch
-:   Art. 20 G v. 18.12.2025 I Nr. 347 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 20 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 15 Abs. 1 G v. 20.12.2022 I 2560 iVm Bek. v. 28.12.2022 I 2894 mWv 24.12.2022 in Kraft getreten
 
@@ -53,15 +53,15 @@ Ablauf des 30. April 2024 verlängern.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000302377)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000303123)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
 1.  Beauftragter
 
-    eine vom Bundesministerium für Wirtschaft und Klimaschutz zu
-    bestellende und bekannt zu machende, mit den ihr durch dieses Gesetz
-    zugewiesenen Aufgaben betraute juristische Person des Privatrechts;
+    eine vom Bundesministerium für Wirtschaft und Energie zu bestellende
+    und bekannt zu machende, mit den ihr durch dieses Gesetz zugewiesenen
+    Aufgaben betraute juristische Person des Privatrechts;
 
 
 2.  durchschnittliche Beschaffungskosten
@@ -123,16 +123,16 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
     d)  Beihilfen nach der Regelung des Bundesministeriums für Wirtschaft und
-        Klimaschutz zur vorübergehenden Gewährung geringfügiger Beihilfen im
+        Energie zur vorübergehenden Gewährung geringfügiger Beihilfen im
         Geltungsbereich der Bundesrepublik Deutschland auf der Grundlage der
         BKR-Bundesregelung Kleinbeihilfen 2022,
 
 
     e)  Billigkeitsleistungen nach der Richtlinie des Bundesministeriums für
-        Wirtschaft und Klimaschutz über die Gewährung von
-        Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und
-        Strompreisanstiegs („Energiekostendämpfungsprogramm“) vom 12. Juli
-        2022 (BAnz AT 15.07.2022 B2) in der jeweils geltenden Fassung und
+        Wirtschaft und Energie über die Gewährung von Billigkeitsleistungen
+        zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs
+        („Energiekostendämpfungsprogramm“) vom 12. Juli 2022 (BAnz AT
+        15\.07.2022 B2) in der jeweils geltenden Fassung und
 
 
     f)  alle weiteren Maßnahmen, die durch Bund, Länder oder Kommunen oder auf
@@ -172,7 +172,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 8.  Letztverbraucher
 
-    Letztverbraucher im Sinne des § 3 Nummer 25 des
+    Letztverbraucher im Sinne des § 3 Nummer 70 des
     Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621),
     das zuletzt durch Artikel 3 des Gesetzes vom 8. Oktober 2022 (BGBl. I
     S. 1726) geändert worden ist;
@@ -697,7 +697,7 @@ an Kunden liefert.
 
 
 #### § 9 Differenzbetrag
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001001377)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001002123)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße, um
 Letztverbraucher vor steigenden Energiekosten zu schützen. Die
@@ -756,7 +756,7 @@ danach entsteht, unverzüglich zu informieren. Liegen die Informationen
 nicht vor, berücksichtigen die Erdgaslieferanten pauschaliert 0 Cent
 je Kilowattstunde für die Netzentgelte und Messstellenentgelte.
 
-(5) Soweit das Bundesministerium für Wirtschaft und Klimaschutz durch
+(5) Soweit das Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung auf Grund des § 39 Absatz 2 die Berechnung des
 Differenzbetrags angepasst hat, ist diese ergänzend zu den
 Bestimmungen der Absätze 2 bis 4 anzuwenden.
@@ -1163,7 +1163,7 @@ der Vorbehalt einer Rückforderung nach § 29 Absatz 4 fort.
 
 
 #### § 16 Differenzbetrag
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001700000)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001701123)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße, um Kunden vor
 steigenden Energiekosten zu schützen. Die Berechnung des
@@ -1198,7 +1198,7 @@ Satz 1 übersteigt.
 
 
 
-(4) Soweit das Bundesministerium für Wirtschaft und Klimaschutz durch
+(4) Soweit das Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung aufgrund des § 39 Absatz 2 die Berechnung des
 Differenzbetrags angepasst hat, ist diese ergänzend zu den
 Bestimmungen der Absätze 2 und 3 anzuwenden.
@@ -1893,7 +1893,7 @@ Rückforderungen nach Satz 1 haben keine aufschiebende Wirkung.
 
 
 #### § 21 Grundsatz Mitteilungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002200000)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002201123)
 
 Der Letztverbraucher oder der Kunde sowie der Lieferant müssen
 
@@ -1903,7 +1903,7 @@ Der Letztverbraucher oder der Kunde sowie der Lieferant müssen
     Bestimmungen keine abweichenden Fristen bestimmt sind, und
 
 
-2.  auf Verlangen dem Bundesministerium für Wirtschaft und Klimaschutz die
+2.  auf Verlangen dem Bundesministerium für Wirtschaft und Energie die
     Angaben nach Nummer 1 übermitteln, soweit dies für die Erfüllung einer
     Anforderung durch die Europäische Kommission auf Grund des
     europäischen Beihilferechts erforderlich ist.
@@ -2818,7 +2818,7 @@ Viertels.
 
 
 ### § 33 Antragsverfahren für den Vorauszahlungsanspruch
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003501377)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003502123)
 
 (1) Ein Lieferant, der einen Vorauszahlungsanspruch nach § 32 Absatz 1
 geltend machen will, hat zu dem Vorauszahlungsanspruch in Bezug auf
@@ -2865,9 +2865,9 @@ benötigte Auskünfte, darunter Kundenlisten, zu erteilen.
 
 (3) Der Prüfantrag ist bis zum Ende des zweiten Monats des
 Vorauszahlungszeitraums bei einem elektronischen Portal zu stellen,
-das dem Beauftragten vom Bundesministerium für Wirtschaft und
-Klimaschutz zur Verfügung gestellt wird. Der Beauftragte kann die in
-Satz 1 genannte Frist in begründeten Fällen auf Antrag verlängern.
+das dem Beauftragten vom Bundesministerium für Wirtschaft und Energie
+zur Verfügung gestellt wird. Der Beauftragte kann die in Satz 1
+genannte Frist in begründeten Fällen auf Antrag verlängern.
 
 (4) Der Beauftragte prüft den Prüfantrag auf die Identität des
 Lieferanten und die Plausibilität der beantragten Zahlung und erstellt
@@ -2936,11 +2936,11 @@ die Auszahlung frühestens zum 1. Februar 2023 erfolgen soll. Im
 
 
 ### § 34 Endabrechnung des Erstattungsanspruchs und isolierte Beantragung einer Erstattung
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003600000)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003601123)
 
 (1) Ein Lieferant, der eine Vorauszahlung nach § 33 Absatz 8 erhalten
 hat, ist verpflichtet, dem Beauftragten spätestens am 31. Mai 2025 auf
-einem vom Bundesministerium für Wirtschaft und Klimaschutz
+einem vom Bundesministerium für Wirtschaft und Energie
 bereitgestellten elektronischen Portal eine Endabrechnung in
 elektronischer Form vorzulegen, die die erhaltenen Vorauszahlungen,
 die Höhe des Erstattungsanspruchs nach § 31 und die Differenz dieser
@@ -3095,7 +3095,7 @@ Der Bundesrechnungshof ist
 
 
 ### § 37a Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004500377)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004501123)
 
 (1) Ein Letztverbraucher, der im Wege der registrierenden
 Leistungsmessung mit leitungsgebundenem Erdgas beliefert wird, oder
@@ -3252,20 +3252,19 @@ Informationen und Nachweise zu übermitteln. Die Prüfbehörde kann zur
 Plausibilisierung erforderliche zusätzliche Informationen vom
 Antragsteller anfordern.
 
-(6) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung ohne Zustimmung des Bundesrates weitere
-Einzelheiten des Verfahrens, insbesondere zu den vom Antragsteller
-beizubringenden Unterlagen sowie Fristen, festzulegen.
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates weitere Einzelheiten
+des Verfahrens, insbesondere zu den vom Antragsteller beizubringenden
+Unterlagen sowie Fristen, festzulegen.
 
 (7) Die Festsetzung nach Absatz 3 Satz 2 erfolgt gemeinsam für
 leitungsgebundenes Erdgas und Wärme sowie für Strom nach § 12b des
 Strompreisbremsegesetzes durch die Prüfbehörde. Die Prüfbehörde
 veranlasst die Auszahlung durch die Bundeskasse. Das Bundesministerium
-für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium der Finanzen durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Einzelheiten des Zahlungsverfahrens
-festzulegen.
+für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
+des Bundesrates die Einzelheiten des Zahlungsverfahrens festzulegen.
 
 (8) Der zusätzliche Entlastungsbetrag ist von der Prüfbehörde
 zurückzufordern, wenn der Antragsteller seiner Mitteilungspflicht nach
@@ -3421,7 +3420,7 @@ Einzelbetrages erfolgen.
 
 
 ### § 39 Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004101377)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004102123)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates den zeitlichen Anwendungsbereich von Teil 2
@@ -3443,11 +3442,11 @@ kann; insbesondere kann sie
 
 
 
-(2) Das Bundesministerium für Wirtschaft und Klimaschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung ohne Zustimmung des Bundesrates die Berechnung
-des Differenzbetrags nach den §§ 9 und 16 unter den Voraussetzungen
-des § 9 Absatz 1 oder des § 16 Absatz 1 anzupassen und die hierfür
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die Berechnung des
+Differenzbetrags nach den §§ 9 und 16 unter den Voraussetzungen des
+§ 9 Absatz 1 oder des § 16 Absatz 1 anzupassen und die hierfür
 erforderlichen Bestimmungen zu regeln, wobei es zwischen verschiedenen
 Gruppen von Letztverbrauchern und Kunden unterscheiden kann. Die
 Anpassung kann auf Entnahmestellen begrenzt werden, für die die
@@ -3470,15 +3469,15 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 40 Evaluierung
-[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004200000)
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004201123)
 
-Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert dieses
+Das Bundesministerium für Wirtschaft und Energie evaluiert dieses
 Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann es die
 Entlastungen nach Teil 2 und die Erstattung nach Teil 3 bereits bis
 zum 30. Juni 2023 evaluieren und ist dazu verpflichtet, wenn der
 Bundestag dies fordert. Das Bundesministerium für Wirtschaft und
-Klimaschutz übersendet dem Bundestag das Ergebnis der Evaluierung nach
-den Sätzen 1 und 2.
+Energie übersendet dem Bundestag das Ergebnis der Evaluierung nach den
+Sätzen 1 und 2.
 
 (zu § 2 Nummer 6)
 

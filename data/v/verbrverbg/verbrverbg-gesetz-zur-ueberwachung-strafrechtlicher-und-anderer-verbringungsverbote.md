@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1961, 607
 
 Zuletzt geändert durch
-:   Art. 9 G v. 8.7.2016 I 1594
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 345
 
 
 ## Erster Abschnitt - 

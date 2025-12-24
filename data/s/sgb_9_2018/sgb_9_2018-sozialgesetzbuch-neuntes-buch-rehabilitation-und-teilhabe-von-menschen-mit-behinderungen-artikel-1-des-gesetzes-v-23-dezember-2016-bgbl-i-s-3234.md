@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2023 I Nr. 412
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000100000)

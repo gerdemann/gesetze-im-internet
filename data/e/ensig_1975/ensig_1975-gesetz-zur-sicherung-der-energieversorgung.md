@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3681
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 21 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
@@ -1695,7 +1692,7 @@ Führung eines saldierten Preisanpassungskontos.
 
 
 #### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003803128)
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003804128)
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene
 Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im
@@ -1707,10 +1704,10 @@ die der Sicherung oder Wiederherstellung einer positiven
 Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der
 Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein
 Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das
-Bundesministerium für Wirtschaft und Klimaschutz ist die zuständige
+Bundesministerium für Wirtschaft und Energie ist die zuständige
 Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in
 Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium
-für Wirtschaft und Klimaschutz zu stellen, das im Einvernehmen mit dem
+für Wirtschaft und Energie zu stellen, das im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundeskanzleramt über die
 Anträge entscheidet.
 

@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 38 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000100000)
