@@ -2187,7 +2187,7 @@ Form hat im Zweifel gleichfalls Nichtigkeit zur Folge.
 
 
 ##### § 126 Schriftform
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011703377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011704129)
 
 (1) Ist durch Gesetz schriftliche Form vorgeschrieben, so muss die
 Urkunde von dem Aussteller eigenhändig durch Namensunterschrift oder
@@ -2201,7 +2201,11 @@ die für die andere Partei bestimmte Urkunde unterzeichnet.
 (3) Die schriftliche Form kann durch die elektronische Form ersetzt
 werden, wenn sich nicht aus dem Gesetz ein anderes ergibt.
 
-(4) Die schriftliche Form wird durch die notarielle Beurkundung
+(4) Als Erklärung in schriftlicher Form gilt auch eine öffentlich
+beglaubigte Erklärung nach § 129 Absatz 1 Satz 1 Nummer 2 oder eine
+Erklärung nach § 129 Absatz 3.
+
+(5) Die schriftliche Form wird durch die notarielle Beurkundung
 ersetzt.
 
 
@@ -2277,7 +2281,7 @@ Antrags von einem Notar beurkundet wird.
 
 
 ##### § 129 Öffentliche Beglaubigung
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012103360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012104129)
 
 (1) Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung
 vorgeschrieben, so muss die Erklärung
@@ -2299,22 +2303,32 @@ kann.
 mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt
 die Erklärung auch die Anforderungen nach Absatz 1 Satz 1 Nummer 1.
 
-(3) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
+(3) Wurde eine Erklärung in einem elektronischen Dokument von dem
+Erklärenden mit einer notariell beglaubigten eigenhändigen
+elektronischen Namensunterschrift oder einem notariell beglaubigten
+eigenhändigen elektronischen Handzeichen versehen, so gilt sie als
+öffentlich beglaubigte Erklärung.
+
+(4) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
 ersetzt.
 
 
 ##### § 130 Wirksamwerden der Willenserklärung gegenüber Abwesenden
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012202377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012203129)
 
 (1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist,
 wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt
 wirksam, in welchem sie ihm zugeht. Sie wird nicht wirksam, wenn dem
 anderen vorher oder gleichzeitig ein Widerruf zugeht.
 
-(2) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss,
+(2) Eine Willenserklärung, die notariell beurkundet oder öffentlich
+beglaubigt wurde, wird auch wirksam, wenn dem Erklärungsempfänger eine
+öffentlich beglaubigte Abschrift der Urschrift zugeht.
+
+(3) Auf die Wirksamkeit der Willenserklärung ist es ohne Einfluss,
 wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.
 
-(3) Diese Vorschriften finden auch dann Anwendung, wenn die
+(4) Diese Vorschriften finden auch dann Anwendung, wenn die
 Willenserklärung einer Behörde gegenüber abzugeben ist.
 
 
@@ -23634,7 +23648,7 @@ Wer eine Sache als ihm gehörend besitzt, ist Eigenbesitzer.
 
 
 #### § 873 Erwerb durch Einigung und Eintragung
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090202377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090203129)
 
 (1) Zur Übertragung des Eigentums an einem Grundstück, zur Belastung
 eines Grundstücks mit einem Recht sowie zur Übertragung oder Belastung
@@ -23647,8 +23661,7 @@ ein anderes vorschreibt.
 gebunden, wenn die Erklärungen notariell beurkundet oder vor dem
 Grundbuchamt abgegeben oder bei diesem eingereicht sind oder wenn der
 Berechtigte dem anderen Teil eine den Vorschriften der
-Grundbuchordnung entsprechende Eintragungsbewilligung ausgehändigt
-hat.
+Grundbuchordnung entsprechende Eintragungsbewilligung überlassen hat.
 
 
 #### § 874 Bezugnahme auf die Eintragungsbewilligung
@@ -23663,7 +23676,7 @@ Eintragung nach § 44 Absatz 3 Satz 2 der Grundbuchordnung gleich.
 
 
 #### § 875 Aufhebung eines Rechts
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090402377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090403129)
 
 (1) Zur Aufhebung eines Rechts an einem Grundstück ist, soweit nicht
 das Gesetz ein anderes vorschreibt, die Erklärung des Berechtigten,
@@ -23674,7 +23687,7 @@ gegenüber abzugeben, zu dessen Gunsten sie erfolgt.
 (2) Vor der Löschung ist der Berechtigte an seine Erklärung nur
 gebunden, wenn er sie dem Grundbuchamt gegenüber abgegeben oder
 demjenigen, zu dessen Gunsten sie erfolgt, eine den Vorschriften der
-Grundbuchordnung entsprechende Löschungsbewilligung ausgehändigt hat.
+Grundbuchordnung entsprechende Löschungsbewilligung überlassen hat.
 
 
 #### § 876 Aufhebung eines belasteten Rechts
@@ -39527,7 +39540,7 @@ Beginn der Frist im Ausland aufhält.
 
 
 ##### § 1945 Form der Ausschlagung
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189702377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189703129)
 
 (1) Die Ausschlagung erfolgt durch Erklärung gegenüber dem
 Nachlassgericht; die Erklärung ist zur Niederschrift des
@@ -39538,7 +39551,9 @@ des Beurkundungsgesetzes errichtet.
 
 (3) Ein Bevollmächtigter bedarf einer öffentlich beglaubigten
 Vollmacht. Die Vollmacht muss der Erklärung beigefügt oder innerhalb
-der Ausschlagungsfrist nachgebracht werden.
+der Ausschlagungsfrist nachgebracht werden. Der Nachweis der Vollmacht
+kann auch durch beigefügte oder nachgebrachte notarielle Bescheinigung
+erfolgen.
 
 
 ##### § 1946 Zeitpunkt für Annahme oder Ausschlagung
@@ -43201,7 +43216,7 @@ in besondere amtliche Verwahrung zu nehmen.
 
 
 ##### § 2249 Nottestament vor dem Bürgermeister
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219104377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219105129)
 
 (1) Ist zu besorgen, dass der Erblasser früher sterben werde, als die
 Errichtung eines Testaments vor einem Notar möglich ist, so kann er
@@ -43212,14 +43227,15 @@ werden, wer in dem zu beurkundenden Testament bedacht oder zum
 Testamentsvollstrecker ernannt wird; die Vorschriften der §§ 7 und 27
 des Beurkundungsgesetzes gelten entsprechend. Für die Errichtung
 gelten die Vorschriften der §§ 2232, 2233 sowie die Vorschriften der
-§§ 2, 4, 5 Abs. 1, §§ 6 bis 10, 11 Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1,
-3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4, Abs. 2, §§ 27, 28, 30, 32,
-34, 35 des Beurkundungsgesetzes; der Bürgermeister tritt an die Stelle
-des Notars. Die Niederschrift muss auch von den Zeugen unterschrieben
-werden. Vermag der Erblasser nach seinen Angaben oder nach der
-Überzeugung des Bürgermeisters seinen Namen nicht zu schreiben, so
-wird die Unterschrift des Erblassers durch die Feststellung dieser
-Angabe oder Überzeugung in der Niederschrift ersetzt.
+§§ 2, 4, 5 Abs. 1, der §§ 6 bis 8 Absatz 1, der §§ 9, 10, 11 Abs. 1
+Satz 2, Abs. 2, § 13 Abs. 1, 3, §§ 16, 17, 23, 24, 26 Abs. 1 Nr. 3, 4,
+Abs. 2, §§ 27, 28, 30, 32, 34, 35 des Beurkundungsgesetzes; der
+Bürgermeister tritt an die Stelle des Notars. Die Niederschrift muss
+auch von den Zeugen unterschrieben werden. Vermag der Erblasser nach
+seinen Angaben oder nach der Überzeugung des Bürgermeisters seinen
+Namen nicht zu schreiben, so wird die Unterschrift des Erblassers
+durch die Feststellung dieser Angabe oder Überzeugung in der
+Niederschrift ersetzt.
 
 (2) Die Besorgnis, dass die Errichtung eines Testaments vor einem
 Notar nicht mehr möglich sein werde, soll in der Niederschrift
@@ -43247,7 +43263,7 @@ nicht entgegen.
 
 
 ##### § 2250 Nottestament vor drei Zeugen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219202377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219203129)
 
 (1) Wer sich an einem Orte aufhält, der infolge außerordentlicher
 Umstände dergestalt abgesperrt ist, dass die Errichtung eines
@@ -43264,14 +43280,15 @@ errichten.
 errichtet, so muss hierüber eine Niederschrift aufgenommen werden. Auf
 die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7,
 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die
-Niederschrift sind die Vorschriften der §§ 8 bis 10, 11 Abs. 1 Satz 2,
-Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des Beurkundungsgesetzes
-sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, Abs. 2, 6
-entsprechend anzuwenden. Die Niederschrift kann außer in der deutschen
-auch in einer anderen Sprache aufgenommen werden. Der Erblasser und
-die Zeugen müssen der Sprache der Niederschrift hinreichend kundig
-sein; dies soll in der Niederschrift festgestellt werden, wenn sie in
-einer anderen als der deutschen Sprache aufgenommen wird.
+Niederschrift sind die Vorschriften des § 8 Absatz 1, der §§ 9, 10, 11
+Abs. 1 Satz 2, Abs. 2, § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des
+Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5,
+6, Abs. 2, 6 entsprechend anzuwenden. Die Niederschrift kann außer in
+der deutschen auch in einer anderen Sprache aufgenommen werden. Der
+Erblasser und die Zeugen müssen der Sprache der Niederschrift
+hinreichend kundig sein; dies soll in der Niederschrift festgestellt
+werden, wenn sie in einer anderen als der deutschen Sprache
+aufgenommen wird.
 
 
 ##### § 2251 Nottestament auf See
