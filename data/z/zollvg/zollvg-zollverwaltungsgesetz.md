@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 16 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Teil I - Erfassung des Warenverkehrs
 [Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG000100307)

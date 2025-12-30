@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
 ## Kapitel 1 - Allgemeine Vorschriften

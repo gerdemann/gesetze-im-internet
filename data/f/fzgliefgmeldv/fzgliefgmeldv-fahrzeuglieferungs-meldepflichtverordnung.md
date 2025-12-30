@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 21 Abs. 3 G v. 18.7.2016 I 1679
 
+Änderung durch
+:   Art. 11 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000100000)

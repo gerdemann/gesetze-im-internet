@@ -33,6 +33,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 17 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## I. - Steuerpflicht
 [Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000108140)

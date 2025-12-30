@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3568, 3569
 
+Änderung durch
+:   Art. 1 V v. 19.12.2025 I Nr. 378 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## (XXXX)
 [Direktlink](https://www.gesetze-im-internet.de/luftvgfsorge_v/BJNR356900021.html#BJNR356900021BJNE000100000)

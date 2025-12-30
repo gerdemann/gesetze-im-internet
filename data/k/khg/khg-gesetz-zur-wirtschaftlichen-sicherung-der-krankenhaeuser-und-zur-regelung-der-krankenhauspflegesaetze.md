@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 8 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000102305)

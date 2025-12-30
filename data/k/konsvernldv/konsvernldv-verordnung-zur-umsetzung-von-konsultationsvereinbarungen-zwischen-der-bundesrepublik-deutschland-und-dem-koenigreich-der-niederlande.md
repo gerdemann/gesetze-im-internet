@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2183
 
+Änderung durch
+:   Art. 14 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000100000)

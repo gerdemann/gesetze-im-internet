@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 27
 
+V aufgeh. durch
+:   Art. 4 V v. 19.12.2025 I Nr. 378 mWv 1.1.2026
+
 Zuletzt geändert durch
 :   Art. 576 V v. 31.8.2015 I 1474
 

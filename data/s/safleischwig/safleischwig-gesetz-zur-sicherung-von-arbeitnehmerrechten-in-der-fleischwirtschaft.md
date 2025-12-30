@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3a G v. 22.12.2020 I 3334
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## § 1 Zielsetzung
 [Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000101126)

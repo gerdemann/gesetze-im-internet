@@ -25,6 +25,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
 Mittelbare änderung durch
 :   Art. 15 G v. 22.12.2025 I Nr. 355 ist berücksichtigt
@@ -11965,7 +11968,7 @@ Sicherheit oder Ordnung benötigt werden.
 
 
 #### § 90 Übermittlungen durch Ausländerbehörden
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015603311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015604311)
 
 (1) Ergeben sich im Einzelfall konkrete Anhaltspunkte für
 
@@ -11981,14 +11984,37 @@ Sicherheit oder Ordnung benötigt werden.
     gegen die Meldepflicht nach § 8a des Asylbewerberleistungsgesetzes,
 
 
-3.  die in § 6 Absatz 4 Nummer 1 bis 4, 7, 12 und 13 des
-    Schwarzarbeitsbekämpfungsgesetzes bezeichneten Verstöße,
+3.  Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
+
+
+4.  Verstöße gegen das Arbeitnehmerüberlassungsgesetz,
+
+
+5.  Verstöße gegen die Bestimmungen des Vierten und des Siebten Buches
+    Sozialgesetzbuch über die Verpflichtung zur Zahlung von
+    Sozialversicherungsbeiträgen,
+
+
+6.  Verstöße gegen die Steuergesetze,
+
+
+7.  Verstöße gegen das Bundeskindergeldgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Arbeitnehmer-Entsendegesetz,
+
+
+10. Verstöße gegen das Mindestlohngesetz,
 
 
 
 unterrichten die mit der Ausführung dieses Gesetzes betrauten Behörden
-die für die Verfolgung und Ahndung der Verstöße nach den Nummern 1 bis
-3 zuständigen Behörden, die Träger der Grundsicherung für
+die für die Verfolgung und Ahndung der Verstöße jeweils zuständigen
+Behörden, und soweit erforderlich, die Träger der Grundsicherung für
 Arbeitsuchende oder der Sozialhilfe sowie die nach § 10 des
 Asylbewerberleistungsgesetzes zuständigen Behörden.
 

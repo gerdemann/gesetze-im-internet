@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 13 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001400319)

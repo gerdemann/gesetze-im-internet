@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 2.6.2016 I 1257
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000100000)

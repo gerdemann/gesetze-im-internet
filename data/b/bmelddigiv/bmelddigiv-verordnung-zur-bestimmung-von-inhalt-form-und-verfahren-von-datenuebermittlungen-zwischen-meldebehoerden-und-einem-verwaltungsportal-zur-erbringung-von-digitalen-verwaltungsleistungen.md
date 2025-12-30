@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 22.1.2025 I Nr. 23
 
+Änderung durch
+:   Art. 16 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000100000)

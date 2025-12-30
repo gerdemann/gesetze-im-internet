@@ -22,13 +22,16 @@ Neugefasst durch
 :   Art. 2 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
 
 
 ## Erster Teil - Einleitende Vorschriften
@@ -8033,7 +8036,7 @@ oder Vermögensmasse.
 
 
 ##### § 138f Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058103123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058104123)
 
 (1) Die grenzüberschreitende Steuergestaltung im Sinne des § 138d
 Absatz 2 ist dem Bundeszentralamt für Steuern nach amtlich
@@ -8136,7 +8139,9 @@ Ereignisse eintritt:
 
 
     b)  einer abstrakt gehaltenen Beschreibung der relevanten
-        Geschäftstätigkeit oder Gestaltung des Nutzers, soweit dies nicht zur
+        Geschäftstätigkeit oder Gestaltung des Nutzers sowie aller sonstigen
+        Informationen, die den zuständigen Behörden bei der Beurteilung eines
+        Steuerrisikos helfen könnten, soweit die Beschreibung nicht zur
         Offenlegung eines Handels-, Gewerbe- oder Berufsgeheimnisses oder
         eines Geschäftsverfahrens oder von Informationen führt, deren
         Offenlegung die öffentliche Ordnung verletzen würde,
@@ -16936,7 +16941,7 @@ angemessenen Frist entrichtet. § 371 Absatz 4 gilt entsprechend.
 
 
 #### § 379 Steuergefährdung
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047320123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047321123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -16993,7 +16998,7 @@ einem anderen Mitgliedstaat der Europäischen Union verwaltet werden.
     nicht vollständig erstellt,
 
 
-1b.[^F832391_6_BJNR006130976BJNE047320123]
+1b.[^F832391_6_BJNR006130976BJNE047321123]
  einer Rechtsverordnung nach § 117c Absatz 1 oder einer vollziehbaren
     Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
     soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
@@ -17014,8 +17019,8 @@ einem anderen Mitgliedstaat der Europäischen Union verwaltet werden.
     1 Nummer 1 bis 7 sowie 9 und 10 oder § 138h Absatz 2, jeweils auch in
     Verbindung mit § 138f Absatz 6 Satz 1 und 2 oder § 138g Absatz 1 Satz
     1, eine Mitteilung über eine grenzüberschreitende Steuergestaltung
-    nicht oder nicht rechtzeitig macht oder zur Verfügung stehende Angaben
-    nicht vollständig mitteilt,
+    nicht, nicht richtig oder nicht rechtzeitig macht oder zur Verfügung
+    stehende Angaben nicht vollständig mitteilt,
 
 
 1f. (weggefallen)
@@ -17062,7 +17067,7 @@ kann.
 mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die
 Handlung nicht nach § 378 geahndet werden kann.
 
-[^F832391_7_BJNR006130976BJNE047320123]
+[^F832391_7_BJNR006130976BJNE047321123]
 (8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer
 Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht
 nach § 378 geahndet werden kann.
@@ -17075,7 +17080,7 @@ nach § 378 geahndet werden kann.
     Rechtsverordnung zur Änderung der FATCA-USA-Umsetzungsverordnung in
     Kraft treten. Das Bundesministerium der Finanzen gibt den Tag des
     Inkrafttretens gesondert im Bundesgesetzblatt bekannt.
-[^F832391_6_BJNR006130976BJNE047320123]:     Gemäß Artikel 18 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr.
+[^F832391_6_BJNR006130976BJNE047321123]:     Gemäß Artikel 18 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr.
     387) wird § 379 Absatz 8 aufgehoben. Diese Rechtsänderung tritt nach
     Artikel 56 Absatz 8 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I
     Nr. 387) an dem Tag in Kraft, an dem die Vorschriften der auf
@@ -17083,7 +17088,7 @@ nach § 378 geahndet werden kann.
     Rechtsverordnung zur Änderung der FATCA-USA-Umsetzungsverordnung in
     Kraft treten. Das Bundesministerium der Finanzen gibt den Tag des
     Inkrafttretens gesondert im Bundesgesetzblatt bekannt.
-[^F832391_7_BJNR006130976BJNE047320123]: 
+[^F832391_7_BJNR006130976BJNE047321123]: 
 
 #### § 380 Gefährdung der Abzugsteuern
 [Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047405123)

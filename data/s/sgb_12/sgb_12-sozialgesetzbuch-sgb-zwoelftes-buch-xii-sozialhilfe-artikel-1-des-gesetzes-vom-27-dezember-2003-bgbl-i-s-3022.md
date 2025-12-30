@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 [Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000199126)

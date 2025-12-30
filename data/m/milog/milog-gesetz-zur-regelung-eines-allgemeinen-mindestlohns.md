@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 28.6.2023 I Nr. 172
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 bzw. 29.6.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Festsetzung des allgemeinen Mindestlohns
 [Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000100000)

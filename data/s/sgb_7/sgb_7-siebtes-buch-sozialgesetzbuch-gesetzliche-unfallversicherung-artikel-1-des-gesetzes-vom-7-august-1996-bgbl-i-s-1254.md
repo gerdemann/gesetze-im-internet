@@ -25,6 +25,12 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 [Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG000100000)

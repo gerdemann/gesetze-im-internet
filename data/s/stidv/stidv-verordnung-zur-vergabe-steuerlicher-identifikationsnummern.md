@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 19.12.2022 I 2432
 
+Änderung durch
+:   Art. 10 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Aufbau der Identifikationsnummer
 [Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000101377)

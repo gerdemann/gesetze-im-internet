@@ -20,7 +20,7 @@ Geändert durch
 :   Art. 38 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -301,7 +301,7 @@ oder Gütern zu Land, zu Wasser oder in der Luft ermöglichen.
 
 
 #### § 6 Sonstige Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000701123)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000702123)
 
 (1) Ein Rechtsträger ist eine juristische Person, eine
 Personenvereinigung oder eine Vermögensmasse.
@@ -385,8 +385,8 @@ Vergütung gezahlt oder gutgeschrieben wird.
 
 (9) Ein Identifizierungsdienst ist ein elektronisches Verfahren, das
 ein Mitgliedstaat der Europäischen Union oder die Europäische Union
-einem Plattformbetreiber zur direkten Bestätigung der Identität und
-steuerlichen Ansässigkeit eines Anbieters bereitstellt.
+einem Plattformbetreiber zur Feststellung der Identität und
+steuerlichen Ansässigkeit eines Anbieters unentgeltlich bereitstellt.
 
 (10) Ein Drittstaat ist jeder Staat oder jedes Gebiet, der oder das
 nicht Mitgliedstaat der Europäischen Union ist.
@@ -470,7 +470,7 @@ etwas anderes ergibt.
 
 
 #### § 9 Aufgaben des Bundeszentralamts für Steuern
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001001123)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001002123)
 
 (1) Das Bundeszentralamt für Steuern nimmt Informationen entgegen, die
 ihm von meldenden Plattformbetreibern nach § 13 und von den
@@ -506,7 +506,11 @@ Nummer 2 an
 Die Übermittlung erfolgt mit Ablauf des zweiten Monats des
 Kalenderjahres, das auf den Meldezeitraum folgt. Eine Anhörung der
 Beteiligten nach § 117 Absatz 4 Satz 3 der Abgabenordnung findet nicht
-statt.
+statt. In den Fällen des § 14 Absatz 2 Nummer 12 ist es nicht
+erforderlich, dem Mitgliedstaat der Europäischen Union, der die
+Kennung des Identifizierungsdienstes ausgestellt hat, die in § 14
+Absatz 2 Nummer 2 bis 5 und Absatz 3 Nummer 2 bis 6 genannten
+Informationen zu übermitteln.
 
 (4) Das Bundeszentralamt für Steuern ist berechtigt, die
 Informationen, die ihm nach Absatz 1 übermittelt worden sind, zur
@@ -758,7 +762,7 @@ nach Absatz 4 Satz 1 Nummer 1 bis 8 mitzuteilen.
 
 
 #### § 12 Registrierung
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001301123)
 
 (1) Meldende Plattformbetreiber müssen sich unverzüglich nach Eintritt
 der Voraussetzungen des § 3 Absatz 4 Nummer 2 einmalig bei einer
@@ -822,10 +826,10 @@ Registriernummer mit, die es einem meldenden Plattformbetreiber
 zugewiesen hat, sowie die in Absatz 2 Satz 1 genannten Informationen
 und alle Änderungen dieser Informationen.
 
-(5) Das Bundeszentralamt für Steuern ersucht die Europäische
-Kommission, die Registrierung eines meldenden Plattformbetreibers, dem
-es eine Registriernummer erteilt hat, aus dem Zentralverzeichnis gemäß
-Artikel 8ac Absatz 5 der Amtshilferichtlinie zu löschen, wenn
+(5) Das Bundeszentralamt für Steuern löscht die Registrierung eines
+meldenden Plattformbetreibers, dem es eine Registriernummer erteilt
+hat, aus dem Zentralverzeichnis gemäß Artikel 8ac Absatz 6 der
+Amtshilferichtlinie, wenn
 
 1.  der Plattformbetreiber dem Bundeszentralamt für Steuern mitteilt, dass
     die Voraussetzungen nach § 3 Absatz 4 Nummer 2 Buchstabe c nicht
@@ -976,7 +980,7 @@ melden, wenn
 
 
 ### § 14 Meldepflichtige Informationen
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001501123)
 
 (1) Meldende Plattformbetreiber haben die folgenden Informationen über
 sich und über die von ihnen betriebene Plattform zu melden:
@@ -1053,7 +1057,16 @@ zu melden:
 
 
 11. die Zahl der relevanten Tätigkeiten, für die in jedem Quartal des
-    Meldezeitraums eine Vergütung gezahlt oder gutgeschrieben wurde.
+    Meldezeitraums eine Vergütung gezahlt oder gutgeschrieben wurde;
+
+
+12. die Kennung des Identifizierungsdienstes und den Mitgliedstaat der
+    Europäischen Union, der die Kennung ausgestellt hat, sofern sich der
+    meldende Plattformbetreiber auf eine direkte Bestätigung der Identität
+    und der steuerlichen Ansässigkeit des Anbieters durch einen von einem
+    Mitgliedstaat der Europäischen Union oder der Europäischen Union
+    bereitgestellten Identifizierungsdienst stützt, um die Identität und
+    die steuerliche Ansässigkeit des Anbieters zu ermitteln.
 
 
 
@@ -1085,7 +1098,7 @@ melden:
     diese Betriebsstätte befindet;
 
 
-7.  die in Absatz 2 Nummer 6 bis 11 genannten Informationen.
+7.  die in Absatz 2 Nummer 6 bis 12 genannten Informationen.
 
 
 
@@ -1182,7 +1195,7 @@ auf aktive Anbieter durchzuführen.
 
 
 ### § 17 Erhebung meldepflichtiger Informationen
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001800000)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001801123)
 
 (1) Für jeden Anbieter, der eine natürliche Person, aber kein
 freigestellter Anbieter ist, haben meldende Plattformbetreiber
@@ -1228,15 +1241,7 @@ Informationen zu erheben:
 
 
 
-(5) Abweichend von den Absätzen 1 und 2 ist ein meldender
-Plattformbetreiber nicht verpflichtet, die Informationen nach § 14
-Absatz 2 Nummer 2 bis 5 und Absatz 3 Nummer 2 bis 6 zu erheben und
-auch nicht verpflichtet, die Ansässigkeit nach § 4 Absatz 6 Satz 2 bis
-4 zu bestimmen, sofern der meldende Plattformbetreiber zur Bestätigung
-der Identität und der steuerlichen Ansässigkeit des Anbieters einen
-Identifizierungsdienst verwendet.
-
-(6) Abweichend von den Absätzen 1 bis 3 sind die Informationen nach §
+(5) Abweichend von den Absätzen 1 bis 3 sind die Informationen nach §
 14 Absatz 2 Nummer 4, Absatz 3 Nummer 4 und 6 und Absatz 4 Nummer 6
 nur zu erheben, soweit der jeweilige Anbieter über diese verfügt.
 
@@ -1627,11 +1632,13 @@ Finanzrechtsweg gegeben.
 
 
 ### § 29 Anwendungsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE003001123)
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE003002123)
 
 Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den
 Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht. § 6
 Absatz 3 in der Fassung des Artikels 38 des Gesetzes vom 2. Dezember
 2024 (BGBl. 2024 I Nr. 387) ist auf Meldezeiträume anzuwenden, die am
-oder nach dem 1. Januar 2024 beginnen.
+oder nach dem 1. Januar 2024 beginnen. § 9 Absatz 3 Satz 4 und § 14
+Absatz 2 Nummer 12 sind erstmals für Meldezeiträume anzuwenden, die am
+oder nach dem 1. Januar 2026 beginnen.
 

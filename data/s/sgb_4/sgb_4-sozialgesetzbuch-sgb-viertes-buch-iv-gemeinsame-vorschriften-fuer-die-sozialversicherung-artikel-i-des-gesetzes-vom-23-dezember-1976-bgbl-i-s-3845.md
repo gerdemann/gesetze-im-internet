@@ -34,6 +34,12 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 362 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 12 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 21 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000303308)

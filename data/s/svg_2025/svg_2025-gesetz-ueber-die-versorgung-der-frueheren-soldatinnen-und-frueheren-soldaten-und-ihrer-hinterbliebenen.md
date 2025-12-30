@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 7 G v. 22.12.2025 I Nr. 370 mWv 1.1.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+
 Stand: Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)
 
 ## Teil 1 - Einleitende Vorschriften

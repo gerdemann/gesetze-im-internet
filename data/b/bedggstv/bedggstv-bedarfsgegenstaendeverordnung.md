@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 3.4.2024 I Nr. 114
 
+Änderung durch
+:   Art. 1 V v. 19.12.2025 I Nr. 379 noch nicht berücksichtigt
+
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 -   Richtlinie 76/893/EWG des Rates vom 23. November 1976 zur Angleichung

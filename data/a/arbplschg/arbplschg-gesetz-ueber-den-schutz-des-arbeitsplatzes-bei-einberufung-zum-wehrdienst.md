@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 9 G v. 30.3.2021 I 402
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Grundwehrdienst und Wehrübungen
 [Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNG000103377)

@@ -27,6 +27,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 4 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 u. 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG000904301)

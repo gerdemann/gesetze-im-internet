@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 12.12.2019 I 2652
 
+Änderung durch
+:   Art. 8 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Aufgaben und Organisation des Zivildienstes
 [Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000105377)

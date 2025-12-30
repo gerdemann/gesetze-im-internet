@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 30 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 6 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 V v. 19.12.2025 I Nr. 372 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## - - Zu § 3a des Gesetzes
 [Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000104301)

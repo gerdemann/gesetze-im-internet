@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 18 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Elterngeld
 [Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNG000101119)

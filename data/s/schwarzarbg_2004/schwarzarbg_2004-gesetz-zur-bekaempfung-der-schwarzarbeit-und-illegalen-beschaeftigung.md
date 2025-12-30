@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 6.5.2024 I Nr. 149
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 20 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Zweck
 [Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000100000)

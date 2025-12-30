@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2754, 2801
 
+Änderung durch
+:   Art. 9a G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 
 ## § 1 Sicherung der Qualität der Gewinnung von Pflegekräften aus dem Ausland
 [Direktlink](https://www.gesetze-im-internet.de/auslpflkrgewqsg/BJNR280100021.html#BJNR280100021BJNE000100000)

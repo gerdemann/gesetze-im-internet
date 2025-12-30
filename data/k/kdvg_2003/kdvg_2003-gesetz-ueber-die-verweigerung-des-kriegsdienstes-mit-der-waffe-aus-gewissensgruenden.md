@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 28.4.2011 I 687
 
+Änderung durch
+:   Art. 2 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Grundsatz

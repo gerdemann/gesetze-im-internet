@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.12.2024 I Nr. 421
 
+Änderung durch
+:   Art. 3 V v. 19.12.2025 I Nr. 378 mWv 1.5.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000100308)

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.11.2025 I Nr. 296
 
+Änderung durch
+:   Art. 1 V v. 19.12.2025 I Nr. 380 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000100311)

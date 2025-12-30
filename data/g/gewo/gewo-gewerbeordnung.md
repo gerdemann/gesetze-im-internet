@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 27.12.2024 I Nr. 438
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -5930,7 +5930,7 @@ geregelt.
 
 
 #### § 139b Gewerbeaufsichtsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019319128)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019320128)
 
 (1) Die Aufsicht über die Ausführung der Bestimmungen der auf Grund
 des § 120e oder des § 139h erlassenen Rechtsverordnungen ist
@@ -5985,10 +5985,12 @@ Ordnung zulässig. Das Grundrecht der Unverletzlichkeit der Wohnung
 zuständigen Landesbehörden konkrete Anhaltspunkte für
 
 1.  eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen
-    Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine
+    Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes,
+    eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in
+    Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
     Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
-    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
-    Dritten Buches Sozialgesetzbuch,
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches Sozialgesetzbuch,
 
 
 2.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -5999,7 +6001,7 @@ zuständigen Landesbehörden konkrete Anhaltspunkte für
     Asylbewerberleistungsgesetzes,
 
 
-3.  Verstöße gegen das Gesetz zur Bekämpfung der Schwarzarbeit,
+3.  Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
 
 4.  Verstöße gegen das Arbeitnehmerüberlassungsgesetz,
@@ -6016,10 +6018,20 @@ zuständigen Landesbehörden konkrete Anhaltspunkte für
 7.  Verstöße gegen die Steuergesetze,
 
 
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
 
-unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach
-den Nummern 1 bis 7 zuständigen Behörden, die Träger der Sozialhilfe
-sowie die Behörden nach § 71 des Aufenthaltsgesetzes.
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz,
+
+
+
+unterrichten sie die für die Verfolgung und Ahndung der Verstöße
+jeweils zuständigen Behörden und, soweit erforderlich, die Träger der
+Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes.
 
 (8) In den Fällen des Absatzes 7 arbeiten die für den Arbeitsschutz
 zuständigen Landesbehörden insbesondere mit folgenden Behörden
@@ -6035,9 +6047,9 @@ zusammen:
 3.  den Trägern der Unfallversicherung,
 
 
-4.  den nach Landesrecht für die Verfolgung und Ahndung von Verstößen
-    gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen
-    Behörden,
+4.  den nach Landesrecht für die Verfolgung und Ahndung von
+    Ordnungswidrigkeiten nach dem Schwarzarbeitsbekämpfungsgesetz
+    zuständigen Behörden,
 
 
 5.  den in § 71 des Aufenthaltsgesetzes genannten Behörden,
@@ -6978,7 +6990,7 @@ sie der Behörde unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028803123)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028804128)
 
 (1) Auskünfte aus dem Register werden für
 
@@ -6989,8 +7001,8 @@ sie der Behörde unmittelbar zu übersenden.
 
     b)  in § 404 Abs. 1, 2 Nr. 3 des Dritten Buches Sozialgesetzbuch, in § 8
         Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 21 Absatz 1 Nummer 1
-        bis 8, 10 und 11 sowie Absatz 2 des Mindestlohngesetzes, in § 23
-        Absatz 1 Nummer 1 bis 9 und 11 sowie Absatz 2 des Arbeitnehmer-
+        bis 10, 12 und 13 sowie Absatz 2 des Mindestlohngesetzes, in § 23
+        Absatz 1 Nummer 1 bis 11 und 13 sowie Absatz 2 des Arbeitnehmer-
         Entsendegesetzes und in § 16 Abs. 1 bis 2 des
         Arbeitnehmerüberlassungsgesetzes
 

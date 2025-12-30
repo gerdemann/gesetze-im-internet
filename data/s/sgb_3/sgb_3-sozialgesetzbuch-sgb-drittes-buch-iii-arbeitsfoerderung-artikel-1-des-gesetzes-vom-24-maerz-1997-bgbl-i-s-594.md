@@ -31,6 +31,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 364 mWv 24.12.2025 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 6 G v. 22.12.2025 I Nr. 371 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000200000)

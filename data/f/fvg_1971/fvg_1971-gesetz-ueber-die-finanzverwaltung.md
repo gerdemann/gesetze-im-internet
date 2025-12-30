@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 22 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 352 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
@@ -170,7 +170,7 @@ Bundesministerium beauftragt werden.
 
 
 ### § 5 Aufgaben des Bundeszentralamtes für Steuern
-[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE005501123)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE005502123)
 
 (1) Das Bundeszentralamt für Steuern hat unbeschadet des § 4 Abs. 2
 und 3 folgende Aufgaben:
@@ -372,9 +372,15 @@ und 3 folgende Aufgaben:
 
 
 
-5i. die Auswertung der Informationen nach den Nummern 5c bis 5h im Rahmen
+5i. die Entgegennahme und die Übermittlung von Informationen nach § 16
+    Absatz 1 bis 3 des Kryptowerte-Steuertransparenz-Gesetzes und die
+    Durchführung der Verfahren gemäß den §§ 17 und 18 des Kryptowerte-
+    Steuertransparenz-Gesetzes;
+
+
+5j. die Auswertung der Informationen nach den Nummern 5c bis 5i im Rahmen
     der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
-    Auswertungen der Informationen nach den Nummern 5c bis 5h durch die
+    Auswertungen der Informationen nach den Nummern 5c bis 5i durch die
     jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 

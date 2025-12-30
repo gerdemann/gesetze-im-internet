@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 4 G v. 20.12.2022 I 2730
 
+Änderung durch
+:   Art. 12 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000100000)

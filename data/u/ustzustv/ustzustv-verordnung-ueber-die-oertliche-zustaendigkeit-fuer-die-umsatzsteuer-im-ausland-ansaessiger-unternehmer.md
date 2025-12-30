@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.11.2023 I Nr. 332
 
+Änderung durch
+:   Art. 8 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## § 1
 [Direktlink](https://www.gesetze-im-internet.de/ustzustv/BJNR381400001.html#BJNR381400001BJNE000116123)

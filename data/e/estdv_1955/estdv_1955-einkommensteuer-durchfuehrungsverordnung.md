@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 2 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
 [Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE002606119)

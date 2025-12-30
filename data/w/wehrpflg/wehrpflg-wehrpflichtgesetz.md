@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Wehrpflicht
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000108310)

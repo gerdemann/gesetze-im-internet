@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 22.12.2014 I 2392
 
+Änderung durch
+:   Art. 13 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000100000)

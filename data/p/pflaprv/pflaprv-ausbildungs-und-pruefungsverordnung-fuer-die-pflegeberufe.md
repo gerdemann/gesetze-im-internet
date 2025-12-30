@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 9 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+
 [^F804365_01_BJNR157200018]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
     Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.

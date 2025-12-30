@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 28.6.2023 I Nr. 172
 
+Änderung durch
+:   Art. 19 Abs. 6 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000100000)

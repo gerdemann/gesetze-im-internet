@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.11.2003 I 2261
 
+Änderung durch
+:   Art. 11 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000000000)

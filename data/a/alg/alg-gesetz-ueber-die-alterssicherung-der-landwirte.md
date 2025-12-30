@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Versicherter Personenkreis
 [Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000100320)

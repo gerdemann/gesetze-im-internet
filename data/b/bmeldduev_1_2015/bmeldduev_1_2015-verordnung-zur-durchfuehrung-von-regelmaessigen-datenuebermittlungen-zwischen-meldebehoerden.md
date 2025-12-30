@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.1.2025 I Nr. 23
 
+Änderung durch
+:   Art. 14 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000100000)

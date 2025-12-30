@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 27.2.2025 I Nr. 72
 
+Änderung durch
+:   Art. 18 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000111311)

@@ -23,7 +23,13 @@ Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2025 I Nr. 345
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 G v. 22.12.2025 I Nr. 362 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 13 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
@@ -386,7 +392,7 @@ sind.
 
 
 #### § 5 Versicherungsfreiheit
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010822311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010823130)
 
 (1) Versicherungsfrei sind
 
@@ -492,16 +498,16 @@ Prüfungsordnung vorgeschrieben ist.
 
 
 Satz 1 gilt nicht für Beschäftigte in einer Beschäftigung, in der sie
-durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die
-Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung
-für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung
-bindend. Die Sätze 2 und 3 gelten entsprechend für selbständig Tätige,
-die den Verzicht gegenüber dem zuständigen Träger der
-Rentenversicherung erklären.
+durch schriftliche oder elektronische Erklärung gegenüber dem
+Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht
+kann nur mit Wirkung für die Zukunft erklärt werden und ist für die
+Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend
+für selbständig Tätige, die den Verzicht gegenüber dem zuständigen
+Träger der Rentenversicherung erklären.
 
 
 #### § 6 Befreiung von der Versicherungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010923126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010924130)
 
 (1) Von der Versicherungspflicht werden befreit
 
@@ -513,22 +519,24 @@ Rentenversicherung erklären.
     Versorgungseinrichtung) und zugleich kraft gesetzlicher Verpflichtung
     Mitglied einer berufsständischen Kammer sind, wenn
 
-
-a)  am jeweiligen Ort der Beschäftigung oder selbständigen Tätigkeit für
-    ihre Berufsgruppe bereits vor dem 1. Januar 1995 eine gesetzliche
-    Verpflichtung zur Mitgliedschaft in der berufsständischen Kammer
-    bestanden hat,
-
-
-b)  für sie nach näherer Maßgabe der Satzung einkommensbezogene Beiträge
-    unter Berücksichtigung der Beitragsbemessungsgrenze zur
-    berufsständischen Versorgungseinrichtung zu zahlen sind und
+    a)  am jeweiligen Ort der Beschäftigung oder selbständigen Tätigkeit für
+        ihre Berufsgruppe bereits vor dem 1. Januar 1995 eine gesetzliche
+        Verpflichtung zur Mitgliedschaft in der berufsständischen Kammer
+        bestanden hat,
 
 
-c)  aufgrund dieser Beiträge Leistungen für den Fall verminderter
-    Erwerbsfähigkeit und des Alters sowie für Hinterbliebene erbracht und
-    angepasst werden, wobei auch die finanzielle Lage der
-    berufsständischen Versorgungseinrichtung zu berücksichtigen ist,
+    b)  für sie nach näherer Maßgabe der Satzung einkommensbezogene Beiträge
+        unter Berücksichtigung der Beitragsbemessungsgrenze zur
+        berufsständischen Versorgungseinrichtung zu zahlen sind und
+
+
+    c)  aufgrund dieser Beiträge Leistungen für den Fall verminderter
+        Erwerbsfähigkeit und des Alters sowie für Hinterbliebene erbracht und
+        angepasst werden, wobei auch die finanzielle Lage der
+        berufsständischen Versorgungseinrichtung zu berücksichtigen ist,
+
+
+
 
 
 2.  Lehrer oder Erzieher, die an nicht-öffentlichen Schulen beschäftigt
@@ -620,18 +628,17 @@ berufsständischen Versorgungseinrichtung, über das Bestehen einer
 Pflichtmitgliedschaft in der berufsständischen Kammer und über die
 Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung
 unverzüglich weiter. Der Träger der Rentenversicherung teilt seine
-Entscheidung dem Antragsteller in Textform und der den Antrag
-weiterleitenden berufsständischen Versorgungseinrichtung elektronisch
-mit. Der Rentenversicherungsträger informiert den Arbeitgeber
-elektronisch über das Ergebnis seiner Entscheidung. Der Eingang des
-Antrags bei der berufsständischen Versorgungseinrichtung ist für die
-Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der
-Datenaustausch erfolgt über die Annahmestelle der berufsständischen
-Versorgungseinrichtungen und die Datenstelle der Rentenversicherung.
-Die technische Ausgestaltung des Verfahrens regeln die Deutsche
-Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer
-Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom
-Bundesministerium für Arbeit und Soziales zu genehmigen sind.
+Entscheidung dem Antragsteller und dem Arbeitgeber in Textform und der
+den Antrag weiterleitenden berufsständischen Versorgungseinrichtung
+elektronisch mit. Der Eingang des Antrags bei der berufsständischen
+Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten
+Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle
+der berufsständischen Versorgungseinrichtungen und die Datenstelle der
+Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln
+die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft
+berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen
+Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu
+genehmigen sind.
 
 (3) Über die Befreiung entscheidet der Träger der Rentenversicherung.
 Abweichend von Satz 1 entscheidet in den Fällen des Absatzes 1 Satz 1
@@ -981,8 +988,8 @@ Gründen dringend erforderlich sind.
 
 
 
-##### Erster Titel - Allgemeines
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000902308)
+##### Erster Titel - Allgemeines und Fallmanagement
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000903130)
 
 
 
@@ -1029,6 +1036,74 @@ verlangen.
 Spitzenverbänden der Krankenkassen gemeinsam und einheitlich im
 Benehmen mit dem Bundesministerium für Arbeit und Soziales Näheres zur
 Durchführung von Absatz 2 Nr. 1 und 2.
+
+
+###### § 13a Fallmanagement
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068200130)
+
+(1) Die Träger der Rentenversicherung können Versicherte mit
+gesundheitlichen Beeinträchtigungen und besonderem
+Unterstützungsbedarf in Bezug auf die berufliche Teilhabe, die die
+versicherungsrechtlichen Voraussetzungen nach § 11 Absatz 1 oder 2
+erfüllen, mit einem Fallmanagement aktivierend und koordinierend bei
+ihrer beruflichen Wiedereingliederung begleiten und unterstützen.
+
+(2) Zur frühzeitigen Erkennung eines Rehabilitationsbedarfs nach § 13
+des Neunten Buches können die Träger der Rentenversicherung bereits
+vor der Entscheidung über die Durchführung eines Fallmanagements
+Kontakt mit Versicherten aufnehmen. Das Fallmanagement ist nur mit
+Einwilligung der Versicherten zulässig. Die Einwilligung ist zu
+dokumentieren. Für die Durchführung des Fallmanagements erforderliche
+Datenverarbeitungen dürfen nur mit dem Einverständnis des Versicherten
+erfolgen.
+
+(3) Das Fallmanagement kann Folgendes umfassen:
+
+1.  die Erkennung, Ermittlung und Feststellung des individuellen
+    Rehabilitationsbedarfs nach § 13 des Neunten Buches einschließlich der
+    Dokumentation des Bedarfs,
+
+
+2.  die Entwicklung und Koordinierung eines individuellen
+    Rehabilitationsprozesses gemeinsam mit den Versicherten und unter
+    Einbindung weiterer Beteiligter sowie die Erstellung eines
+    individuellen Teilhabeplans nach § 19 des Neunten Buches soweit die
+    gesetzlichen Voraussetzungen vorliegen,
+
+
+3.  die rechtskreisübergreifende Unterstützung der Versicherten bei der
+    Beantragung von in Betracht kommenden Sozialleistungen und bei der
+    Inanspruchnahme weiterer unterstützender Angebote,
+
+
+4.  die Begleitung der Versicherten mit dem Ziel des Erhalts zügiger und
+    aufeinander abgestimmter Leistungen, soweit die Versicherten Ansprüche
+    gegen Träger von Sozialleistungen haben oder haben könnten, die die
+    berufliche Wiedereingliederung fördern und unterstützen können,
+
+
+5.  die begleitende Bewertung und mögliche Anpassung des individuellen
+    Rehabilitationsprozesses gemeinsam mit den Versicherten.
+
+
+
+
+(4) Das Fallmanagement kann vollständig oder in Teilen durch die
+Träger der Rentenversicherung oder durch beauftragte Dritte
+durchgeführt werden.
+
+(5) Sind bei der Durchführung des Fallmanagements spezifische
+Anforderungen erforderlich, so können die Träger der
+Rentenversicherung Dritte damit beauftragen, das Fallmanagement als
+Leistung durchzuführen. Die spezifischen Anforderungen dieser Leistung
+bestimmt die Deutsche Rentenversicherung Bund in einem gemeinsamen
+Rahmenkonzept der Träger der Rentenversicherung.
+
+(6) Führt ein Träger der Rentenversicherung ein Fallmanagement durch,
+werden die Bedarfsermittlung und, sofern die Voraussetzungen für ein
+Teilhabeplanverfahren nach Teil 1 Kapitel 2 bis 4 des Neunten Buches
+vorliegen, das Teilhabeplanverfahren als Bestandteil des
+Fallmanagements erbracht.
 
 
 ###### § 14 Leistungen zur Prävention
@@ -1839,7 +1914,7 @@ Befristungsgesetzes gilt nicht.
 
 
 ###### § 42 Vollrente und Teilrente
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014503126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014504130)
 
 (1) Versicherte können eine Rente wegen Alters in voller Höhe
 (Vollrente) oder als Teilrente in Höhe von mindestens 10 Prozent der
@@ -1847,12 +1922,7 @@ Vollrente in Anspruch nehmen.
 
 (2) (weggefallen)
 
-(3) Versicherte, die wegen der beabsichtigten Inanspruchnahme einer
-Teilrente ihre Arbeitsleistung einschränken wollen, können von ihrem
-Arbeitgeber verlangen, dass er mit ihnen die Möglichkeiten einer
-solchen Einschränkung erörtert. Macht der Versicherte hierzu für
-seinen Arbeitsbereich Vorschläge, hat der Arbeitgeber zu diesen
-Vorschlägen Stellung zu nehmen.
+(3) (weggefallen)
 
 
 ##### Zweiter Titel - Renten wegen verminderter Erwerbsfähigkeit
@@ -3932,7 +4002,7 @@ entsprechend.
 
 
 ###### § 76g Zuschlag an Entgeltpunkten für langjährige Versicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066000126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066001130)
 
 (1) Ein Zuschlag an Entgeltpunkten wird ermittelt, wenn mindestens 33
 Jahre mit Grundrentenzeiten vorhanden sind und sich aus den
@@ -3973,9 +4043,7 @@ der Anzahl der Kalendermonate mit Grundrentenbewertungszeiten,
 höchstens jedoch mit 420 Kalendermonaten, vervielfältigt.
 
 (5) Der Zuschlag an Entgeltpunkten wird den Kalendermonaten mit
-Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet; dabei
-werden Kalendermonaten mit Entgeltpunkten (Ost) Zuschläge an
-Entgeltpunkten (Ost) zugeordnet.
+Grundrentenbewertungszeiten zu gleichen Teilen zugeordnet.
 
 
 ###### § 77 Zugangsfaktor
@@ -5073,7 +5141,7 @@ Einkommensanrechnung auf die Erziehungsrente ergibt.
 
 
 ##### § 97a Einkommensanrechnung beim Zuschlag an Entgeltpunkten für langjährige Versicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066101126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066102130)
 
 (1) Auf den Rentenanteil aus dem Zuschlag an Entgeltpunkten für
 langjährige Versicherung wird Einkommen des Berechtigten und seines
@@ -5186,7 +5254,7 @@ sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb
 von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil
 aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem
 Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in
-dem nach Absatz 2 Satz 3 und 4 maßgeblichen Kalenderjahr erzielt wurde
+dem nach Absatz 2 Satz 2 bis 4 maßgeblichen Kalenderjahr erzielt wurde
 und dessen Höhe nachzuweisen. Erfolgt keine Mitteilung nach Satz 2,
 gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen
 der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1
@@ -8080,7 +8148,7 @@ einer anonymisierten Form übermittelt werden.
 
 
 #### § 149 Versicherungskonto
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025307126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025308130)
 
 (1) Der Träger der Rentenversicherung führt für jeden Versicherten ein
 Versicherungskonto, das nach der Versicherungsnummer geordnet ist. In
@@ -8128,10 +8196,22 @@ Versendung des Versicherungsverlaufs seinem Inhalt nicht
 widersprochen, stellt der Versicherungsträger die im
 Versicherungsverlauf enthaltenen und nicht bereits festgestellten
 Daten, die länger als sechs Kalenderjahre zurückliegen, durch Bescheid
-fest. Bei Änderung der dem Feststellungsbescheid zugrunde liegenden
-Vorschriften ist der Feststellungsbescheid durch einen neuen
-Feststellungsbescheid oder im Rentenbescheid mit Wirkung für die
-Vergangenheit aufzuheben; die §§ 24 und 48 des Zehnten Buches sind
+fest. Wurden im Feststellungsbescheid Zeiten einer schulischen
+Ausbildung über die Höchstdauer nach § 58 Absatz 1 Satz 1 Nummer 4
+hinaus festgestellt, ist der Feststellungsbescheid insoweit durch
+einen neuen Feststellungsbescheid oder im Rentenbescheid mit Wirkung
+für die Vergangenheit aufzuheben; die Vorschriften zur Anhörung
+Beteiligter (§ 24 des Zehnten Buches), die Vorschriften zur Rücknahme
+eines rechtswidrigen nicht begünstigenden Verwaltungsaktes (§ 44 des
+Zehnten Buches) und die Vorschriften zur Rücknahme eines
+rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten
+Buches) sind insoweit nicht anzuwenden. Bei Änderung der dem
+Feststellungsbescheid zugrunde liegenden Vorschriften ist der
+Feststellungsbescheid durch einen neuen Feststellungsbescheid oder im
+Rentenbescheid mit Wirkung für die Vergangenheit aufzuheben; die
+Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches) und
+die Vorschriften zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung
+bei Änderung der Verhältnisse (§ 48 des Zehnten Buches) sind insoweit
 nicht anzuwenden. Über die Anrechnung und Bewertung der im
 Versicherungsverlauf enthaltenen Daten wird erst bei Feststellung
 einer Leistung entschieden.
@@ -10711,7 +10791,7 @@ entsprechend.
 
 
 ###### § 192 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029606119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029607130)
 
 (1) Bei Einberufung zu einem Wehrdienst hat das Bundesministerium der
 Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des
@@ -10721,33 +10801,34 @@ Wehrdienstes zu melden.
 und zivilgesellschaftliche Aufgaben Beginn und Ende des Zivildienstes
 zu melden.
 
-(3) § 28a Abs. 5 und § 28c des Vierten Buches gelten entsprechend.
+(3) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
 
 
 ###### § 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062600308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062601130)
 
 (1) Zeiten einer besonderen Auslandsverwendung, für die Zuschläge an
 Entgeltpunkten nach § 76e zu ermitteln sind, hat das Bundesministerium
 der Verteidigung oder die von ihm bestimmte Stelle zu melden.
 
-(2) § 28a Absatz 5 und § 28c des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
 
 
 ###### § 192b Meldepflichten bei Bezug von Übergangsgebührnissen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE064605126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE064606130)
 
 (1) Bei früheren Soldaten auf Zeit, die Übergangsgebührnisse beziehen,
 hat das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§
-28c und 95 Absatz 1 Satz 1 und 2 und Absatz 3 des Vierten Buches
-gelten entsprechend.
+(2) § 28a Absatz 5, § 28b Absatz 1, die §§ 28c und 95 des Vierten
+Buches gelten entsprechend.
 
 
 ###### § 192c Meldepflichten bei Bezug von Erwerbsschadensausgleich
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067002126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067003130)
 
 (1) Bei Personen, die Erwerbsschadensausgleich nach dem
 Soldatenentschädigungsgesetz beziehen, hat das Bundesministerium der
@@ -10756,10 +10837,7 @@ Bezuges des Erwerbsschadensausgleichs sowie den Betrag des
 Erwerbsschadensausgleichs, der im gemeldeten Zeitraum gezahlt wurde,
 in vollen Euro zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§
-28c und 95 Absatz 1 Satz 1 und 2 sowie Absatz 3 des Vierten Buches, §
-5 Absatz 1, 3, 4 und 6 sowie § 38 Absatz 2, 4 und 5 der
-Datenerfassungs- und -übermittlungsverordnung gelten entsprechend.
+(2) Die §§ 28c und 95 des Vierten Buches gelten entsprechend.
 
 
 ###### § 193 Meldung von sonstigen rechtserheblichen Zeiten
@@ -10773,7 +10851,7 @@ Zweiten Buches oder durch die Bundesagentur für Arbeit zu melden.
 
 
 ###### § 194 Gesonderte Meldung und Hochrechnung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029809126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029810130)
 
 (1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die
 beitragspflichtigen Einnahmen und bei einer Beschäftigung im
@@ -10805,9 +10883,9 @@ von ihm bestimmte Stelle über die beitragspflichtigen Einnahmen von
 Beziehern von Übergangsgebührnissen und die Pflegekassen sowie die
 privaten Versicherungsunternehmen über die beitragspflichtigen
 Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten.
-Absatz 1 Satz 6 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1
-Nummer 2 und nach den §§ 192b und 44 Absatz 3 des Elften Buches bleibt
-unberührt.
+Absatz 1 Satz 6 gilt entsprechend. Die Meldepflichten nach § 191 Satz
+1 Nummer 2, den §§ 192b und 192c dieses Buches und nach § 44 Absatz 3
+des Elften Buches bleiben unberührt.
 
 (3) Die Beitragsberechnung erfolgt nach der tatsächlichen
 beitragspflichtigen Einnahme.
@@ -11399,7 +11477,7 @@ der Beitragszahlung berechtigt.
 
 
 ###### § 212a Prüfung der Beitragszahlungen und Meldungen für sonstige Versicherte, Nachversicherte und für Zeiten einer besonderen Auslandsverwendung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059906126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059907130)
 
 (1) Die Träger der Rentenversicherung prüfen bei den Stellen, die die
 Pflichtbeiträge für sonstige Versicherte sowie für nachversicherte
@@ -11419,7 +11497,7 @@ stimmen sich darüber ab, welche Zahlungspflichtigen sie prüfen. Soweit
 die Prüfungen durch die Regionalträger durchgeführt werden, ist
 örtlich der Regionalträger zuständig, in dessen Bereich der
 Zahlungspflichtige seinen Sitz oder Wohnsitz hat. Eine Prüfung beim
-Arbeitgeber nach § 28p des Vierten Buches soll zusammen mit einer
+Arbeitgeber nach § 28p des Vierten Buches kann zusammen mit einer
 Prüfung bei den Zahlungspflichtigen durchgeführt werden; eine
 entsprechende Kennzeichnung des Arbeitgebers im Dateisystem nach § 28p
 Abs. 8 Satz 1 des Vierten Buches ist zulässig.
@@ -17277,7 +17355,7 @@ ist, nicht als vollwertige Pflichtbeiträge.
 
 
 ##### § 263 Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036809126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036810130)
 
 (1) Bei der Gesamtleistungsbewertung für beitragsfreie und
 beitragsgeminderte Zeiten werden Berücksichtigungszeiten wegen
@@ -17298,11 +17376,11 @@ deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März
 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen
 hat, werden nicht bewertet. Kalendermonate, die nur deshalb
 Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978
-vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe,
-Arbeitslosengeld oder Arbeitslosengeld II nicht oder Arbeitslosengeld
-II nur darlehensweise gezahlt worden ist oder nur Leistungen nach § 24
-Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind, werden nicht
-bewertet. Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
+vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe oder
+Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise
+gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des
+Zweiten Buches erbracht worden sind, werden nicht bewertet.
+Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
 Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist,
 werden nicht bewertet.
 
@@ -18307,12 +18385,9 @@ nach § 93 Abs. 2 Nr. 1 Buchstabe b und Nr. 2 Buchstabe a geminderte
 Betrag.
 
 
-##### § 267 Rente und Leistungen aus der Unfallversicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037204308)
+##### § 267 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037205130)
 
-Bei der Ermittlung der Summe der zusammentreffenden Rentenbeträge
-bleibt bei der Rente aus der Unfallversicherung auch die Kinderzulage
-unberücksichtigt.
 
 
 #### Siebter Unterabschnitt - Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten und Änderung von Renten beim Versorgungsausgleich
@@ -20289,24 +20364,9 @@ gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen
 nach § 15 Absatz 3 erfüllt sind.
 
 
-##### § 301a Einmalzahlungs-Neuregelungsgesetz
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056701308)
+##### § 301a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056702130)
 
-(1) Für die Ermittlung der Berechnungsgrundlage für Ansprüche auf
-Übergangsgeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47
-Abs. 1 und 2 des Fünften Buches in der vor dem 22. Juni 2000 jeweils
-geltenden Fassung für Zeiten nach dem 31. Dezember 1996 mit der
-Maßgabe entsprechend anzuwenden, dass sich das Regelentgelt um 10 vom
-Hundert, höchstens aber bis zur Höhe des Betrages der
-kalendertäglichen Beitragsbemessungsgrenze, erhöht. Das regelmäßige
-Nettoarbeitsentgelt ist um denselben Vomhundertsatz zu erhöhen.
-
-(2) Die Erhöhung nach Absatz 1 gilt für Ansprüche, über die vor dem
-22\. Juni 2000 bereits unanfechtbar entschieden war, nur für Zeiten vom
-22\. Juni 2000 an bis zum Ende der Leistungsdauer. Entscheidungen über
-die Ansprüche auf Übergangsgeld, die vor dem 22. Juni 2000
-unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten
-Buches zurückzunehmen.
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -21902,31 +21962,9 @@ gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch
 hatten.
 
 
-##### § 317a Neufeststellung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063102124)
+##### § 317a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063103130)
 
-(1) Eine nach den Vorschriften dieses Buches berechnete Rente, in der
-die persönlichen Entgeltpunkte zu 70 vom Hundert berücksichtigt
-wurden, wird ab dem 1. Oktober 2013 neu festgestellt. Bei der
-Neufeststellung sind die §§ 113, 114 und 272 in der am 1. Oktober 2013
-geltenden Fassung anzuwenden.
-
-(2) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, in der der
-Rentenbetrag zu 70 vom Hundert berücksichtigt wurde, wird diese auf
-Antrag ab 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung
-sind das am 1. Januar 1992 geltende Recht und die §§ 113, 114 und 272
-in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
-
-(3) Hatten Versicherte ihren gewöhnlichen Aufenthalt am 18. Mai 1990
-oder, falls sie verstorben sind, zuletzt vor dem 19. Mai 1990 im
-Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet und
-sind in einer Rente für Zeiten vor dem 19. Mai 1990 an die Stelle von
-Entgeltpunkten Entgeltpunkte (Ost) getreten, weil sich die berechtigte
-Person nach dem 18. Mai 1990 nicht mehr gewöhnlich im Inland
-aufgehalten hat, so ist diese Rente ab 1. Juli 2020 neu festzustellen
-und zu leisten. Bei der Neufeststellung ist § 254d Absatz 2 Satz 1
-Nummer 1 Buchstabe a in der am 1. Juli 2020 geltenden Fassung
-anzuwenden.
 
 
 ##### § 318 (weggefallen)

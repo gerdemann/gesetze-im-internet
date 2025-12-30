@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 31.3.2025 I Nr. 105
 
+Änderung durch
+:   Art. 5 V v. 19.12.2025 I Nr. 372 mWv 1.1.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE000900314)

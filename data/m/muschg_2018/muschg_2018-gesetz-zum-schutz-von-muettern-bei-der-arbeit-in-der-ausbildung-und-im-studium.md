@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1228
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.2.2025 I Nr. 59
+:   Art. 13 G v. 22.12.2025 I Nr. 371
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

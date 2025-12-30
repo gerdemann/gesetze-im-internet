@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 1992, 2068
 
 Stand: Zuletzt geändert Art. 571 V v. 31.8.2015 I 1474
+Änderung durch
+:   Art. 2 V v. 19.12.2025 I Nr. 378 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000100307)

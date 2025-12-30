@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 19.12.2022 I 2432
 
+Änderung durch
+:   Art. 9 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000400311)

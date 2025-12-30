@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 22.12.2023 I Nr. 414
 
+Änderung durch
+:   Art. 5 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -95,10 +98,10 @@ beim Eintritt des Ereignisses zustand, weitergewährt.
 
 
 ### § 3 Anwendung von Vorschriften des Bundesbesoldungsgesetzes
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000401377)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000402311)
 
-(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12,
-17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
+(1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 9a, 11,
+12, 17, 17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
 
 (2) Sofern dieses Gesetz auf Leistungen nach dem
 Bundesbesoldungsgesetz Bezug nimmt und diese Leistungen nach
@@ -170,65 +173,6 @@ werden. Das Bundesministerium der Verteidigung macht die jeweils
 geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
 
-### § 8 Entlassungsgeld
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000901377)
-
-(1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst
-leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als
-Entlassung gilt auch der Eintritt in ein Wehrdienstverhältnis
-besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes.
-
-(2) Das Entlassungsgeld beträgt für jeden Monat des freiwilligen
-Wehrdienstes mit Anspruch auf Wehrsold 100 Euro.
-
-(3) Bei der Berechnung des Entlassungsgelds bleibt die Zeit der
-Verlängerung des Wehrdienstes wegen stationärer truppenärztlicher
-Behandlung (§ 75 Absatz 6 in Verbindung mit § 58h Absatz 1 des
-Soldatengesetzes) unberücksichtigt.
-
-(4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
-
-1.  entlassen werden nach
-
-    a)  § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
-
-
-    b)  § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des
-        Soldatengesetzes,
-
-
-    c)  § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des
-        Soldatengesetzes,
-
-
-    d)  § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des
-        Soldatengesetzes,
-
-
-    e)  § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des
-        Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich
-        herbeigeführt haben, oder
-
-
-    f)  § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h
-        Absatz 1 des Soldatengesetzes,
-
-
-
-
-
-2.  nach § 76 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes aus
-    der Bundeswehr ausgeschlossen werden oder
-
-
-3.  innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes
-    nach § 40 des Soldatengesetzes in ein Dienstverhältnis als Soldatin
-    auf Zeit oder Soldat auf Zeit berufen werden.
-
-
-
-
-
 ### § 9 Vergütung für herausgehobene Funktionen
 [Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001000000)
 
@@ -257,13 +201,13 @@ Bundesbesoldungsgesetzes erlassene Rechtsverordnung entsprechend.
 
 
 ### § 11 Vergütung für besondere zeitliche Belastungen
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001201311)
 
 (1) Soldatinnen und Soldaten erhalten eine Vergütung für jede
 Dienstleistung, für die Besoldungsempfängerinnen und
 Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen
-Umfang nach den §§ 50 und 50a des Bundesbesoldungsgesetzes und den
-dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
+Umfang nach den §§ 50, 50a und 50d des Bundesbesoldungsgesetzes und
+den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
 (2) Die Höhe der Vergütung entspricht 80 Prozent der Leistungen, die
 dienstgradgleichen Soldatinnen auf Zeit und Soldaten auf Zeit gewährt

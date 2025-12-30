@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 17 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 [Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000100319)

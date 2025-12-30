@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 25.6.2020 I 1495
 
+Änderung durch
+:   Art. 3 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Arbeitnehmer, Arbeitgeber
 [Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000102309)

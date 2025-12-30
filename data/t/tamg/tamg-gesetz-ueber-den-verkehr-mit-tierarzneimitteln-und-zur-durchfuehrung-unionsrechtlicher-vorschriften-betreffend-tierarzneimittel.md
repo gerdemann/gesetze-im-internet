@@ -20,10 +20,10 @@ Zuletzt geändert durch
 :   Art. 1 V v. 14.3.2024 I Nr. 97
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 356 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 356 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1778
 
+Geändert durch
+:   Art. 19 G v. 22.12.2025 I Nr. 369
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000100000)
@@ -27,7 +30,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Speicherung von Daten zu Personen, die tätig oder scheinbar tätig sind
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000201129)
 
 (1) Über Arbeitnehmer und Arbeitnehmerinnen, Selbstständige, scheinbar
 tätige sowie scheinbar selbstständige Personen, die von Prüfungen nach
@@ -57,12 +60,12 @@ sofern dies zur Aufgabenerfüllung erforderlich ist:
     Finanzkontrolle Schwarzarbeit erfasst sind,
 
 
-3.  eines der folgenden Kontaktdaten:
+3.  folgende Kontaktdaten:
 
     a)  Telefonnummer,
 
 
-    b)  Mobiltelefonnummer oder
+    b)  Mobiltelefonnummer und
 
 
     c)  E-Mail-Adresse,
@@ -190,7 +193,7 @@ erforderlich ist:
 
 
 ## § 2 Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000301129)
 
 (1) Über Arbeitgeber, Entleiher und Auftraggeber, die von Prüfungen
 nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes betroffen
@@ -222,12 +225,12 @@ sofern dies zur Aufgabenerfüllung erforderlich ist:
     Finanzkontrolle Schwarzarbeit erfasst sind,
 
 
-4.  eines der folgenden Kontaktdaten:
+4.  folgende Kontaktdaten:
 
     a)  Telefonnummer,
 
 
-    b)  Mobiltelefonnummer oder
+    b)  Mobiltelefonnummer und
 
 
     c)  E-Mail-Adresse,
@@ -262,11 +265,13 @@ sofern dies zur Aufgabenerfüllung erforderlich ist:
 11. folgende Zuordnungsmerkmale von Zusammenarbeitsbehörden:
 
     a)  Kundennummer der Träger nach dem Zweiten oder dem Dritten Buch
-        Sozialgesetzbuch und
+        Sozialgesetzbuch und Betriebsnummer nach dem Vierten Buch
+        Sozialgesetzbuch sowie
 
 
-    b)  Steueridentifikationsnummer, Wirtschafts-Identifikationsnummer oder
-        Umsatzsteuer-Identifikationsnummer.
+    b)  Steueridentifikationsnummer, Wirtschafts-Identifikationsnummer,
+        Kleinunternehmer-Identifikationsnummer oder Umsatzsteuer-
+        Identifikationsnummer.
 
 
 
@@ -346,7 +351,7 @@ sofern dies zur Aufgabenerfüllung erforderlich ist:
 
 
 ## § 3 Speicherung von Daten zu Unternehmen
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000401129)
 
 (1) Zu Unternehmen können die in den §§ 1 und 2 genannten Daten auch
 dann im zentralen Informationssystem für die Finanzkontrolle
@@ -366,10 +371,11 @@ Schwarzarbeit die Daten nach § 2 Absatz 1 Nummer 2 bis 4 gespeichert
 werden, wenn dies zur Aufgabenerfüllung erforderlich ist.
 
 (4) Sofern gegen vertretungsberechtigte Organe oder faktisch
-Vertretende des Unternehmens strafrechtliche Ermittlungen geführt
-werden, können im zentralen Informationssystem für die Finanzkontrolle
-Schwarzarbeit folgende Daten zu Unternehmen gespeichert werden, sofern
-dies zur Aufgabenerfüllung erforderlich ist:
+Vertretende des Unternehmens oder das Unternehmen selbst straf- oder
+ordnungswidrigkeitenrechtliche Ermittlungen geführt werden, können im
+zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
+folgende Daten zu Unternehmen gespeichert werden, sofern dies zur
+Aufgabenerfüllung erforderlich ist:
 
 1.  Art und Höhe von Vermögenswerten für die Zwecke von vorläufigen
     Sicherungsmaßnahmen nach den §§ 111b bis 111q der Strafprozessordnung
@@ -385,17 +391,23 @@ dies zur Aufgabenerfüllung erforderlich ist:
 
 
 ## § 4 Speicherung von Daten aus Hinweisen
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000501129)
 
-Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu
+(1) Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu
 Sachverhalten und etwaigen Verstößen mitgeteilt werden, können im
 zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
 personenbezogene Daten oder dem Schutz nach § 67 Absatz 2 Satz 2 des
 Zehnten Buches Sozialgesetzbuch unterliegende Daten gespeichert
 werden. Die Daten müssen zur Aufgabenerfüllung erforderlich sein und
 den in § 16 Absatz 2 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes oder
-den in den §§ 1 bis 3 oder in den §§ 5 bis 7 dieser Rechtsverordnung
-genannten Daten entsprechen.
+den in den §§ 1 bis 3 oder in den §§ 5 bis 7 genannten Daten
+entsprechen.
+
+(2) Aus Risikohinweisen, welche der Finanzkontrolle Schwarzarbeit im
+Rahmen der automationsgestützten Analyse gemäß § 26 Absatz 5 Satz 4
+des Schwarzarbeitsbekämpfungsgesetzes übermittelt werden, können neben
+den Daten nach den §§ 1 und 2 auch die Risikoindikatoren gespeichert
+werden, sofern dies zur Aufgabenerfüllung erforderlich ist.
 
 
 ## § 5 Speicherung von weiteren Ortsangaben
@@ -409,13 +421,14 @@ werden, sofern dies zur Aufgabenerfüllung erforderlich ist.
 
 
 ## § 6 Speicherung von Daten zu Beschuldigten und Betroffenen
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000701129)
 
 Neben den nach den §§ 1, 2 und 3 Absatz 3 speicherbaren Daten können
 im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
 zu Beschuldigten im Rahmen von strafrechtlichen Ermittlungen und zu
-Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren
-folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung
+Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren sowie
+zu Dritten im Rahmen von vermögensabschöpfenden Maßnahmen folgende
+Daten gespeichert werden, sofern dies zur Aufgabenerfüllung
 erforderlich ist:
 
 1.  Angaben zum Gegenstand des Vorwurfs:
@@ -454,19 +467,18 @@ erforderlich ist:
 5.  Art und Höhe von Vermögenswerten,
 
 
-6.  folgende Kommunikationsmittel, sofern diese bei der Tat verwendet
-    wurden oder werden:
+6.  folgende Kontaktdaten:
 
-    a)  Telefonnummern,
-
-
-    b)  Mobiltelefonnummern,
+    a)  Telefonnummer,
 
 
-    c)  Telefaxnummern und
+    b)  Mobiltelefonnummer,
 
 
-    d)  E-Mail-Adressen,
+    c)  Telefaxnummer und
+
+
+    d)  E-Mail-Adresse,
 
 
 
@@ -482,19 +494,19 @@ erforderlich ist:
 
 
 ## § 7 Speicherung von Daten zu Zeugen
-[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000801129)
 
 Neben den nach den §§ 1, 2 und 3 Absatz 2 speicherbaren Daten können
 im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
 zu Zeugen folgende Daten gespeichert werden, sofern dies zur
 Aufgabenerfüllung erforderlich ist:
 
-1.  eines der folgenden Kontaktdaten:
+1.  folgende Kontaktdaten:
 
     a)  Telefonnummer,
 
 
-    b)  Mobiltelefonnummer oder
+    b)  Mobiltelefonnummer,
 
 
     c)  E-Mail-Adresse und

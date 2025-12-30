@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 15.1.2025 I Nr. 11
 
+Änderung durch
+:   Art. 2 V v. 19.12.2025 I Nr. 379 noch nicht berücksichtigt
+
 
 ## § 1 Ziel
 [Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000102360)

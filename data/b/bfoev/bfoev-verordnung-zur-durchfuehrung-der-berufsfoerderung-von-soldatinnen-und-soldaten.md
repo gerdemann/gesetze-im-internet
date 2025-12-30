@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 18.12.2024 I Nr. 423
 
+Änderung durch
+:   Art. 10 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
