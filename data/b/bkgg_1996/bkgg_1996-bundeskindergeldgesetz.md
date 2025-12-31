@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 28.10.2025 I Nr. 259
 
 Änderung durch
-:   Art. 19 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 19 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Leistungen
@@ -751,43 +751,6 @@ auszustellen.
 
 (3) Die Familienkassen können den nach Absatz 2 Verpflichteten eine
 angemessene Frist zur Erfüllung der Pflicht setzen.
-
-
-### § 11 Gewährung des Kindergeldes und des Kinderzuschlags
-[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001512126)
-
-(1) Das Kindergeld und der Kinderzuschlag werden monatlich gewährt.
-
-(2) Auszuzahlende Beträge sind auf Euro abzurunden, und zwar unter 50
-Cent nach unten, sonst nach oben.
-
-(3) § 45 Absatz 3 des Zehnten Buches Sozialgesetzbuch findet keine
-Anwendung.
-
-(4) Ein rechtswidriger nicht begünstigender Verwaltungsakt ist
-abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
-die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
-Vergangenheit zurückgenommen werden.
-
-(5) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
-aufgehoben, sind bereits erbrachte Leistungen abweichend von § 50
-Absatz 1 des Zehnten Buches Sozialgesetzbuch nicht zu erstatten,
-soweit der Bezug von Kinderzuschlag den Anspruch auf Leistungen nach
-dem Zweiten Buch Sozialgesetzbuch ausschließt oder mindert.
-
-(6) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
-Sozialgesetzbuch über
-
-1.  die Aufhebung von Verwaltungsakten (§ 330 Absatz 2, 3 Satz 1) sowie
-
-
-2.  die vorläufige Zahlungseinstellung nach § 331 mit der Maßgabe, dass
-    die Familienkasse auch zur teilweisen Zahlungseinstellung berechtigt
-    ist, wenn sie von Tatsachen Kenntnis erhält, die zu einem geringeren
-    Leistungsanspruch führen.
-
-
-
 
 
 ### § 12 Aufrechnung

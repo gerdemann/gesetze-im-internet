@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 20 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -3554,7 +3554,7 @@ Vorschriften.
 (zu § 3 Absatz 2)
 
 ### Anlage 1 Kostenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014202131)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014203131)
 
 (Fundstelle: BGBl. I 2013, 2613 – 2653;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7587,7 +7587,7 @@ Teil 2
         6\. Erteilung einer Bescheinigung über Veränderungen hinsichtlich der
         Personen der Gesellschafter oder des Umfangs ihrer Beteiligung (§ 40
         Abs. 2 GmbHG), wenn Umstände außerhalb der Urkunde zu prüfen sind, und
-        7\. Entgegennahme der für den Gläubiger bestimmten Ausfertigung einer
+        7\. Entgegennahme der für den Gläubiger bestimmten
         Grundpfandrechtsbestellungsurkunde zur Herbeiführung der
         Bindungswirkung gemäß § 873 Abs. 2 BGB.
 
@@ -8153,7 +8153,7 @@ Teil 2
         (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein
         elektronisches Dokument übertragenes Schriftstück gleich, insbesondere
         wenn dieses einer vom Notar gefertigten elektronischen Niederschrift
-        beigefügt ist (§ 16d BeurkG).
+        beigefügt ist (§ 12 Abs. 1 Satz 2 BeurkG).
 
     *   1,00 €
         für jede

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 27.2.2025 I Nr. 72
 
 Änderung durch
-:   Art. 18 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+:   Art. 18 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

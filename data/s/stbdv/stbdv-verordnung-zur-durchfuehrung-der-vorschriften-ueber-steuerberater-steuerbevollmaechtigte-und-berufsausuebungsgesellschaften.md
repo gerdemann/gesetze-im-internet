@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 20.12.2024 I Nr. 443
 
 Änderung durch
-:   Art. 4 V v. 19.12.2025 I Nr. 372 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 4 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

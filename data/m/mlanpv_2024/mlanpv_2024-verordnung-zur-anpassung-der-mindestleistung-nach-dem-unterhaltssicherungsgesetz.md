@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 127
 
-Änderung durch
-:   Art. 19 Abs. 4 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+V aufgeh. durch
+:   § 2 dieser V mWv 1.1.2026
 
 Stand: Ersetzt V 53-10-1 v. 9.5.2022 I 775 (MLAnpV)
 

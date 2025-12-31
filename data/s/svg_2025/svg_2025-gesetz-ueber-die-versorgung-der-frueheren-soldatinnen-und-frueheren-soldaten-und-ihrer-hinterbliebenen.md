@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 27.2.2025 I Nr. 72
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 370 mWv 1.1.2025 bzw. 1.1.2026 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)
 
@@ -1021,7 +1021,7 @@ dem Bundesministerium der Finanzen.
 
 
 ##### § 16 Übergangsgebührnisse
-[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001703377)
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001704311)
 
 (1) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer
 Wehrdienstzeit von mindestens vier Jahren erhalten
@@ -1135,9 +1135,7 @@ erhöhen sich um einen Bildungszuschuss, wenn und solange während des
 Bezugszeitraums an einer nach § 7 geförderten Maßnahme der schulischen
 und beruflichen Bildung in Vollzeitform teilgenommen wird; in diesem
 Fall beträgt der Bildungszuschuss 25 Prozent der Dienstbezüge des
-letzten Monats. Einkünfte auf Grund einer geförderten Maßnahme der
-schulischen und beruflichen Bildung werden auf den Bildungszuschuss
-bis zu dessen Höhe angerechnet.
+letzten Monats.
 
 (4) Wird die Förderungsdauer nach § 7 Absatz 13 zu Gunsten einer
 Vollzeitausbildung verlängert, sind für die Zeit der Verlängerung
@@ -1162,19 +1160,17 @@ Sicherung des Lebensunterhalts notwendig ist.
 (6) Die Übergangsgebührnisse werden in Monatsbeträgen wie die
 Dienstbezüge gezahlt. Die Zahlung kann auf Antrag höchstens zweimal
 für insgesamt längstens 24 Monate aufgeschoben oder unterbrochen
-werden; dies gilt nicht für Monate, in denen Verwendungseinkommen im
-Sinne des § 68 Absatz 4 Satz 1 bezogen wird. Soweit es der
-Eingliederung in das zivile Erwerbsleben dient, kann die für die
-Zahlung von Übergangsgebührnissen zuständige Stelle in begründeten
-Einzelfällen, insbesondere zur Schaffung oder Verbesserung einer
-Existenzgrundlage, die Zahlung für den gesamten Anspruchszeitraum oder
-für mehrere Monate in einer Summe zulassen; für diesen Zeitraum gilt
-der Anspruch auf Übergangsgebührnisse mit der Zahlung als abgegolten.
-Beim Tod der oder des Berechtigten ist der noch nicht ausgezahlte
-Betrag der überlebenden Ehegattin oder dem überlebenden Ehegatten und
-ihren oder seinen Abkömmlingen weiterzuzahlen. Sind
-Anspruchsberechtigte nach Satz 4 nicht vorhanden, sind die
-Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen
+werden. Soweit es der Eingliederung in das zivile Erwerbsleben dient,
+kann die für die Zahlung von Übergangsgebührnissen zuständige Stelle
+in begründeten Einzelfällen, insbesondere zur Schaffung oder
+Verbesserung einer Existenzgrundlage, die Zahlung für den gesamten
+Anspruchszeitraum oder für mehrere Monate in einer Summe zulassen; für
+diesen Zeitraum gilt der Anspruch auf Übergangsgebührnisse mit der
+Zahlung als abgegolten. Beim Tod der oder des Berechtigten ist der
+noch nicht ausgezahlte Betrag der überlebenden Ehegattin oder dem
+überlebenden Ehegatten und ihren oder seinen Abkömmlingen
+weiterzuzahlen. Sind Anspruchsberechtigte nach Satz 4 nicht vorhanden,
+sind die Übergangsgebührnisse den Eltern weiterzuzahlen. Sind Personen
 vorhanden, die Anspruch auf Witwen- oder Waisengeld oder
 Unterhaltsbeitrag nach § 58 haben, sind die Sätze 4 und 5 nicht
 anzuwenden.
@@ -4960,7 +4956,7 @@ entsprechend.
 
 
 #### § 90 Ausgleichszahlung für bestimmte Statusgruppen
-[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009201377)
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009202311)
 
 (1) Im Falle eines Einsatzunfalls im Sinne des § 87 Absatz 2 erhält
 eine Soldatin oder ein Soldat, die oder der keinen Anspruch auf
@@ -5009,6 +5005,8 @@ die Zeit
 
 
 
+Bei der Berechnung der Erhöhung der Ausgleichszahlung bleiben früher
+abgeleistete Dienstverhältnisse unberücksichtigt.
 
 (3) Für andere Angehörige des Geschäftsbereichs des Bundesministeriums
 der Verteidigung gelten die Absätze 1 und 2 entsprechend mit der
@@ -6561,7 +6559,7 @@ Entschädigung nach § 89 entsprechend.
 
 
 ### § 126 Übergangsregelungen aus Anlass des Bundeswehrreform-Begleitgesetzes
-[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012801377)
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012802311)
 
 (1) Für die am 26. Juli 2012 vorhandenen Versorgungsempfängerinnen und
 Versorgungsempfänger sowie für die Soldatinnen und Soldaten, die vor
@@ -6581,8 +6579,8 @@ Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes
 bis zum 31. Dezember 2017 umgewandelt wird. § 4 Absatz 1, § 5 Absatz
 3, § 7 Absatz 7, 9 und 12, § 8 Absatz 1 und 2, die §§ 9, 10 und 16
 Absatz 4 und 6, die §§ 17 und 19 Absatz 7 sowie die §§ 21, 22, 25, 33,
-60, 62, 80, 104 und 125 sind nach diesem Gesetz in seiner jeweiligen
-Fassung anzuwenden.
+60, 62, 68, 80, 104 und 125 sind nach diesem Gesetz in der jeweils
+geltenden Fassung anzuwenden.
 
 (2) Abweichend von Absatz 1 Satz 1 gilt für Soldatinnen auf Zeit und
 Soldaten auf Zeit, die vor dem 26. Juli 2012 in das Dienstverhältnis

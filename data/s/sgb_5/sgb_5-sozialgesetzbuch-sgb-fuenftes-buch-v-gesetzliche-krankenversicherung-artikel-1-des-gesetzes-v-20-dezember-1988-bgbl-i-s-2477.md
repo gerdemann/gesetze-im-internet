@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 21 G v. 2.12.2025 I Nr. 301
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
@@ -12425,7 +12425,7 @@ Sozialgerichtsgesetzes) findet nicht statt.
 
 
 ##### § 81a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049104126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049105126)
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen
 Bundesvereinigungen richten organisatorische Einheiten ein, die Fällen
@@ -12433,7 +12433,7 @@ und Sachverhalten nachzugehen haben, die auf Unregelmäßigkeiten oder
 auf rechtswidrige oder zweckwidrige Nutzung von Finanzmitteln im
 Zusammenhang mit den Aufgaben der jeweiligen Kassenärztlichen
 Vereinigung oder Kassenärztlichen Bundesvereinigung hindeuten. Sie
-nehmen Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
+nehmen Kontrollbefugnisse nach § 67c Absatz 4 des Zehnten Buches wahr.
 
 (2) Jede Person kann sich in den Angelegenheiten des Absatzes 1 an die
 Kassenärztlichen Vereinigungen und Kassenärztlichen
@@ -31678,7 +31678,7 @@ Fachausschüsse bilden.
 
 
 ##### § 197a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050605126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050606126)
 
 (1) Die Krankenkassen, wenn angezeigt ihre Landesverbände, und der
 Spitzenverband Bund der Krankenkassen richten organisatorische
@@ -31686,7 +31686,7 @@ Einheiten ein, die Fällen und Sachverhalten nachzugehen haben, die auf
 Unregelmäßigkeiten oder auf rechtswidrige oder zweckwidrige Nutzung
 von Finanzmitteln im Zusammenhang mit den Aufgaben der jeweiligen
 Krankenkasse oder des jeweiligen Verbandes hindeuten. Sie nehmen
-Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
+Kontrollbefugnisse nach § 67c Absatz 4 des Zehnten Buches wahr.
 
 (2) Jede Person kann sich in Angelegenheiten des Absatzes 1 an die
 Krankenkassen und die weiteren in Absatz 1 genannten Organisationen
@@ -32058,7 +32058,7 @@ Sicherung.
 
 
 #### § 202 Meldepflichten bei Versorgungsbezügen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028610126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028611126)
 
 (1) Die Zahlstelle hat bei der erstmaligen Bewilligung von
 Versorgungsbezügen sowie bei Mitteilung über die Beendigung der
@@ -32071,21 +32071,22 @@ Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz
 deren Vorliegen unverzüglich mitzuteilen; in der Mitteilung ist auch
 anzugeben, ob der Versorgungsempfänger nach dem Ende des
 Arbeitsverhältnisses als alleiniger Versicherungsnehmer Leistungen aus
-nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat. Im
-Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1 Nummer 1, 3
-und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich um eine den
-Waisenrenten gemäß § 48 des Sechsten Buches entsprechende Leistung
-nach § 15 des Gesetzes über die Alterssicherung der Landwirte, aus
-einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz 1 Satz 1
-Nummer 1 oder einer berufsständischen Versorgungseinrichtung unter den
-Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b handelt. Bei
-den am 1. Januar 1989 vorhandenen Versorgungsempfängern hat die
-Ermittlung der Krankenkasse innerhalb von sechs Monaten zu erfolgen.
-Der Versorgungsempfänger hat der Zahlstelle seine Krankenkasse
-anzugeben und einen Kassenwechsel sowie die Aufnahme einer
-versicherungspflichtigen Beschäftigung anzuzeigen. Die Krankenkasse
-hat der Zahlstelle von Versorgungsbezügen und dem Bezieher von
-Versorgungsbezügen unverzüglich die Beitragspflicht des
+nicht durch den Arbeitgeber finanzierten Beiträgen erworben hat oder
+nach § 92 des Einkommensteuergesetzes zu bescheinigende Leistungen
+bezieht. Im Falle eines Versorgungsbezuges nach § 229 Absatz 1 Satz 1
+Nummer 1, 3 und 4 hat die Zahlstelle zusätzlich anzugeben, ob es sich
+um eine den Waisenrenten gemäß § 48 des Sechsten Buches entsprechende
+Leistung nach § 15 des Gesetzes über die Alterssicherung der
+Landwirte, aus einem Dienst- oder Arbeitsverhältnis gemäß § 229 Absatz
+1 Satz 1 Nummer 1 oder einer berufsständischen Versorgungseinrichtung
+unter den Voraussetzungen des § 5 Absatz 1 Nummer 11b Buchstabe b
+handelt. Bei den am 1. Januar 1989 vorhandenen Versorgungsempfängern
+hat die Ermittlung der Krankenkasse innerhalb von sechs Monaten zu
+erfolgen. Der Versorgungsempfänger hat der Zahlstelle seine
+Krankenkasse anzugeben und einen Kassenwechsel sowie die Aufnahme
+einer versicherungspflichtigen Beschäftigung anzuzeigen. Die
+Krankenkasse hat der Zahlstelle von Versorgungsbezügen und dem
+Bezieher von Versorgungsbezügen unverzüglich die Beitragspflicht des
 Versorgungsempfängers und, soweit die Summe der beitragspflichtigen
 Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die
 Beitragsbemessungsgrenze überschreitet, deren Umfang mitzuteilen. Die
@@ -32133,6 +32134,13 @@ und 2 des Elften Buches zu übermitteln. Änderungen bei der
 Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder
 während eines laufenden Versorgungbezuges werden der Zahlstelle nach
 Maßgabe des § 55a Absatz 5 des Elften Buches mitgeteilt.
+
+(1b) Bei der erstmaligen Bewilligung von Versorgungsbezügen hat die
+Zahlstelle die notwendigen Angaben zur Einrichtung eines
+Zahlstellenkontos elektronisch an die Krankenkasse zu übermitteln. Das
+Nähere zu diesem Verfahren, den notwendigen Angaben und den für die
+Errichtung des Zahlstellenkontos notwendigen Datensätzen regeln die
+Grundsätze nach Absatz 2 Satz 4.
 
 (2) Die Zahlstelle hat der zuständigen Krankenkasse die Meldung durch
 gesicherte und verschlüsselte Datenübertragung aus systemgeprüften

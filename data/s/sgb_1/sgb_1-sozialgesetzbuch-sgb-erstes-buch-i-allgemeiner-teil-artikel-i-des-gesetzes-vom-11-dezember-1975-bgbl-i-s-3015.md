@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 19.7.2024 I Nr. 245
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 11 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
@@ -1132,7 +1132,7 @@ werden anteilig und endgültig aufgeteilt.
 
 
 #### § 35 Sozialgeheimnis
-[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005120126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005121126)
 
 (1) Jeder hat Anspruch darauf, dass die ihn betreffenden Sozialdaten
 (§ 67 Absatz 2 Zehntes Buch) von den Leistungsträgern nicht unbefugt
@@ -1155,7 +1155,7 @@ durchführen, die Versicherungsämter und Gemeindebehörden sowie die
 anerkannten Adoptionsvermittlungsstellen (§ 2 Absatz 3 des
 Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem
 Gesetzbuch wahrnehmen, und die Stellen, die Aufgaben nach § 67c Absatz
-3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
+4 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
 Beendigung ihrer Tätigkeit bei den genannten Stellen das
 Sozialgeheimnis zu wahren.
 

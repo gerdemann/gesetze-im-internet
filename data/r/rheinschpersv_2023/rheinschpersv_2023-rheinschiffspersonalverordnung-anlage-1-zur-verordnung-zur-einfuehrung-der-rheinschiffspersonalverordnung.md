@@ -31,6 +31,9 @@ Fundstelle
 Änderung durch
 :   Art. 1 Nr. 2 iVm Anlage 7 bis 9 V v. 5.8.2025 II Nr. 216 mWv 13.8.2025 u. 1.1.2026 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 5 iVm Anlage V v. 17.12.2025 I Nr. 381 mWv 31.12.2025 noch nicht berücksichtigt
+
 
 ## Teil I - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000100000)

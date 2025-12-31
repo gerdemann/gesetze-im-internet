@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 56 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 17 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
@@ -712,13 +712,13 @@ Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 ###### § 20
-[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004702308)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004703126)
 
 Die Künstlersozialkasse hat dem Versicherten und dem
 Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die
 Berechnung der von ihm und für ihn erbrachten Beitragsleistungen
-ersichtlich ist. Die Jahresabrechnung gilt als Bescheinigung im Sinne
-des § 25 der Datenerfassungs- und -übermittlungsverordnung.
+ersichtlich ist. Die Jahresabrechnung gilt als Mitteilung im Sinne des
+§ 28a Absatz 5 des Vierten Buches Sozialgesetzbuch.
 
 
 ##### Dritter Unterabschnitt - Erstattungen

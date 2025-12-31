@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 13
 
-Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 10 G v. 22.12.2025 I Nr. 354
 
 
 ## § 1 Zweck der Statistik, Anordnung als Bundesstatistik

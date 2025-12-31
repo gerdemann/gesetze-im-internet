@@ -26,7 +26,7 @@ Mittelbare änderung durch
 :   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 7 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
@@ -1531,14 +1531,51 @@ der Versicherungsnummer begründet kein Recht, die Versicherungsnummer
 in anderen als den in § 18f genannten Fällen zu speichern.
 
 
-### Sechster Titel - (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002804126)
+### Sechster Titel - Definition Unternehmen, Beschäftigungsbetrieb, Betriebsstätte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002805126)
 
 
 
-#### § 18h (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021808126)
+#### § 18h Unternehmen, Beschäftigungsbetrieb, Betriebsstätte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021809126)
 
+(1) Ein Unternehmen umfasst die Gesamtheit der personellen und
+materiellen Ressourcen, Rechtspositionen und Aktivitäten einer
+inhaltlich und organisatorisch zusammenhängenden Einheit, die einem
+Unternehmer im Sinne des § 136 Absatz 3 des Siebten Buches zugeordnet
+ist. Unternehmen sind insbesondere Betriebe, Verwaltungen,
+Einrichtungen, selbständige Tätigkeiten sowie sonstige Aktivitäten mit
+sozialrechtlicher Bedeutung.
+
+(2) Ein Beschäftigungsbetrieb ist eine nach der Gemeindegrenze und der
+wirtschaftlichen Betätigung abgegrenzte Einheit, in der beschäftigte
+Personen für einen Arbeitgeber tätig sind. Ein Arbeitgeber kann einen
+oder mehrere Beschäftigungsbetriebe in einer Gemeinde haben, sofern
+diese Beschäftigungsbetriebe eine jeweils eigene, wirtschaftliche
+Einheit bilden.
+
+(3) Eine Betriebsstätte ist eine Einrichtung oder Anlage,
+
+1.  die der Tätigkeit oder dem Zweck eines Unternehmens dient,
+
+
+2.  die eine örtlich oder wirtschaftlich abgegrenzte Einheit darstellt,
+
+
+3.  die eine postalische Anschrift hat,
+
+
+4.  in der beschäftigte oder versicherte Personen regelmäßig vor Ort tätig
+    sind und
+
+
+5.  die für mindestens sechs Monate besteht.
+
+
+
+Betriebsstätten sind eindeutig einem Unternehmen nach Absatz 1
+zugeordnet. Beschäftigungsbetriebe nach Absatz 2 sind unabhängig von
+den Kriterien nach Satz 1 Betriebsstätten.
 
 
 ### Siebter Titel - Betriebsnummer
@@ -1547,7 +1584,7 @@ in anderen als den in § 18f genannten Fällen zu speichern.
 
 
 #### § 18i Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025302126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025303126)
 
 (1) Der Arbeitgeber hat zur Teilnahme an den Meldeverfahren zur
 Sozialversicherung bei der Bundesagentur für Arbeit eine
@@ -1562,12 +1599,7 @@ Beschäftigungsbetriebes und die Rechtsform des Betriebes sowie die
 Unternehmernummer einschließlich des Anhangs gemäß § 136a des Siebten
 Buches elektronisch zu übermitteln.
 
-(3) Der Beschäftigungsbetrieb ist eine nach der Gemeindegrenze und der
-wirtschaftlichen Betätigung abgegrenzte Einheit, in der Beschäftigte
-für einen Arbeitgeber tätig sind. Für einen Arbeitgeber kann es
-mehrere Beschäftigungsbetriebe in einer Gemeinde geben, sofern diese
-Beschäftigungsbetriebe eine jeweils eigene, wirtschaftliche Einheit
-bilden. Für Beschäftigungsbetriebe desselben Arbeitgebers mit
+(3) Für Beschäftigungsbetriebe desselben Arbeitgebers mit
 unterschiedlicher wirtschaftlicher Betätigung oder in verschiedenen
 Gemeinden sind jeweils eigene Betriebsnummern zu vergeben.
 
@@ -1590,6 +1622,13 @@ genannten Anlässe, regeln die Gemeinsamen Grundsätze nach § 28b Absatz
 (6) Die Betriebsnummern und alle Angaben nach den Absätzen 2 und 4
 werden bei der Bundesagentur für Arbeit in einem elektronischen
 Dateisystem der Beschäftigungsbetriebe gespeichert.
+
+(7) Zur Pflege der im Dateisystem der Beschäftigungsbetriebe zu den
+Betriebsnummern gespeicherten Angaben ist die Bundesagentur für Arbeit
+berechtigt, die Daten aus den zu den Beschäftigungsbetrieben
+übermittelten Meldungen der Sozialversicherungsträger zu verarbeiten.
+Die Sozialversicherungsträger haben diese Meldungen durch gesicherte
+und verschlüsselte Datenübertragung zu übermitteln.
 
 
 #### § 18k Betriebsnummer für Beschäftigungsbetriebe weiterer Meldepflichtiger
@@ -2195,14 +2234,15 @@ nicht beitragspflichtig sind, bestehen keine Meldepflichten nach
 diesem Buch.
 
 
-#### § 23d Abgeltung von abgeleiteten Entgeltguthaben bei Beendigung oder Ruhen des Beschäftigungsverhältnisses
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028900126)
+#### § 23d Abgeltung von abgeleiteten Entgeltguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028901126)
 
 Für die Abgeltung von Entgeltguthaben, die aus Arbeitszeitguthaben
-abgeleitet sind, findet § 23a mit der Maßgabe Anwendung, dass nach
-Beendigung oder bei Ruhen des Beschäftigungsverhältnisses ausgezahlte
-Entgeltguthaben auch dann dem letzten Entgeltabrechnungszeitraum
-zuzuordnen sind, wenn dieser nicht im laufenden Kalenderjahr liegt.
+abgeleitet sind, ist § 23a mit der Maßgabe anzuwenden, dass
+ausgezahlte Entgeltguthaben dem letzten, mit laufendem
+beitragspflichtigem Arbeitsentgelt belegten Entgeltabrechnungszeitraum
+zuzuordnen sind; dies gilt auch dann, wenn dieser nicht im laufenden
+Kalenderjahr liegt.
 
 
 #### § 24 Säumniszuschlag
@@ -2360,7 +2400,7 @@ Der für die Erstattung zuständige Leistungsträger kann
 
 
 #### § 28a Meldepflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022940126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022941126)
 
 (1) Der Arbeitgeber oder ein anderer Meldepflichtiger hat der
 Einzugsstelle für jeden in der Kranken-, Pflege-, Rentenversicherung
@@ -2730,10 +2770,15 @@ insbesondere anzugeben:
 
 
 
-(5) Der Meldepflichtige hat der zu meldenden Person den Inhalt der
-Meldung in Textform mitzuteilen; dies gilt nicht, wenn die Meldung
-ausschließlich auf Grund einer Veränderung der Daten für die
-gesetzliche Unfallversicherung erfolgt.
+(5) Der Meldepflichtige hat der zu meldenden Person mindestens einmal
+jährlich zum 30. April eines Jahres den Inhalt der Meldung in Textform
+mit der laufenden, spätestens mit der folgenden Entgeltabrechnung
+mitzuteilen; dies gilt nicht, wenn die Meldung ausschließlich aufgrund
+einer Veränderung der Daten für die gesetzliche Unfallversicherung
+erfolgt. Bei Auflösung des Arbeitsverhältnisses ist die Bescheinigung
+unverzüglich nach Abgabe der letzten Meldung auszustellen. Die
+Mitteilung hat gesondert oder als Anhang zur monatlichen
+Entgeltbescheinigung zu erfolgen.
 
 (6) Soweit der Arbeitgeber eines Hausgewerbetreibenden
 Arbeitgeberpflichten erfüllt, gilt der Hausgewerbetreibende als
@@ -2948,7 +2993,7 @@ anzuhören.
 
 
 #### § 28b Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021513126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021514126)
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
@@ -2961,9 +3006,10 @@ bundeseinheitlich:
 
 
 2.  den Aufbau, den Inhalt und die Identifizierung der einzelnen
-    Datensätze für die Übermittlung von Meldungen und Beitragsnachweisen
-    durch den Arbeitgeber an die Sozialversicherungsträger, soweit nichts
-    Abweichendes in diesem Buch geregelt ist,
+    Datensätze sowie die Verfahren für die Übermittlung von Meldungen und
+    Beitragsnachweisen durch den Arbeitgeber an die
+    Sozialversicherungsträger, soweit nichts Abweichendes in diesem Buch
+    geregelt ist,
 
 
 3.  den Aufbau und den Inhalt der einzelnen Datensätze für die
@@ -2991,12 +3037,13 @@ Arbeitgeberverbände anzuhören hat.
 (2) Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
 Bahn-See und die Deutsche Gesetzliche Unfallversicherung e. V.
-bestimmen bundeseinheitlich die Gestaltung des Haushaltsschecks nach §
-28a Absatz 7 und das der Einzugsstelle in diesem Verfahren zu
-erteilende Lastschriftmandat durch Gemeinsame Grundsätze. Die
-Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit
-und Soziales, das vorher in Bezug auf die steuerrechtlichen Angaben
-das Bundesministerium der Finanzen anzuhören hat.
+bestimmen bundeseinheitlich das Verfahren, die Gestaltung des
+Haushaltsschecks nach § 28a Absatz 7 und das der Einzugsstelle in
+diesem Verfahren zu erteilende Lastschriftmandat durch Gemeinsame
+Grundsätze. Die Grundsätze bedürfen der Genehmigung des
+Bundesministeriums für Arbeit und Soziales, das vorher in Bezug auf
+die steuerrechtlichen Angaben das Bundesministerium der Finanzen
+anzuhören hat.
 
 (3) Soweit Meldungen nach § 28a Absatz 10 oder 11 betroffen sind, gilt
 Absatz 1 entsprechend mit der Maßgabe, dass die Arbeitsgemeinschaft
@@ -3576,7 +3623,7 @@ Gesamtsozialversicherungsbeitrag zahlt, entsprechend.
 
 
 #### § 28p Prüfung bei den Arbeitgebern
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028404126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028405126)
 
 (1) Die Träger der Rentenversicherung prüfen bei den Arbeitgebern, ob
 diese ihre Meldepflichten und ihre sonstigen Pflichten nach diesem
@@ -3660,9 +3707,10 @@ der Unfallversicherung erlassen die erforderlichen Bescheide.
 
 (2) Im Bereich der Regionalträger richtet sich die örtliche
 Zuständigkeit nach dem Sitz der Lohn- und Gehaltsabrechnungsstelle des
-Arbeitgebers. Die Träger der Rentenversicherung stimmen sich darüber
-ab, welche Arbeitgeber sie prüfen; ein Arbeitgeber ist jeweils nur von
-einem Träger der Rentenversicherung zu prüfen.
+Arbeitgebers. Die Träger der Rentenversicherung stimmen sich
+untereinander darüber ab, welche Arbeitgeber sie prüfen; ein
+Arbeitgeber ist jeweils nur von einem Träger der Rentenversicherung zu
+prüfen.
 
 (3) Die Träger der Rentenversicherung unterrichten die Einzugsstellen
 über Sachverhalte, soweit sie die Zahlungspflicht oder die
@@ -3687,18 +3735,15 @@ Bereich der Regionalträger nach dem Sitz dieser Stellen. Absatz 5 gilt
 entsprechend.
 
 (6a) Für die Prüfung nach Absatz 1 sind dem zuständigen
-Rentenversicherungsträger die notwendigen Daten elektronisch aus einem
-systemgeprüften Entgeltabrechnungsprogramm zu übermitteln; werden die
-Daten aus der Finanzbuchhaltung nicht durch ein systemgeprüftes
-Entgeltabrechnungsprogramm übermittelt, können sie auch über eine
-systemgeprüfte Schnittstelle oder ein systemgeprüftes Programmmodul
-aus einem Programm zur Finanzbuchhaltung an die Träger der Deutschen
-Rentenversicherung übermittelt werden. Die Deutsche Rentenversicherung
-Bund bestimmt in Grundsätzen bundeseinheitlich das Nähere zum
-Verfahren der Datenübermittlung und der dafür erforderlichen
-Datensätze und Datenbausteine. Die Grundsätze bedürfen der Genehmigung
-des Bundesministeriums für Arbeit und Soziales, das vorher die
-Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+Rentenversicherungsträger über die Datenstelle der Rentenversicherung
+die notwendigen Daten elektronisch aus einem nach § 95b
+systemgeprüften Programm zu übermitteln. Die Deutsche
+Rentenversicherung Bund bestimmt in Grundsätzen bundeseinheitlich das
+Nähere zum Verfahren der Datenübermittlung und der dafür
+erforderlichen Datensätze und Datenbausteine. Die Grundsätze bedürfen
+der Genehmigung des Bundesministeriums für Arbeit und Soziales, das
+vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände
+anzuhören hat.
 
 (6b) Arbeitgeber haben beim Wechsel der von ihnen verwendeten
 systemgeprüften Programme für die Unterlagen, die der nächsten Prüfung
@@ -3747,7 +3792,9 @@ Arbeitgebern ein Dateisystem, das die folgenden Daten enthält:
     Unfallversicherungsträgers,
 
 
-6.  die Unternehmernummer des Arbeitgebers nach § 136a des Siebten Buches,
+6.  die Unternehmernummer des Arbeitgebers nach § 136a des Siebten Buches
+    und die Unternehmensnummer einschließlich des Anhangs nach § 136a
+    Absatz 1 Satz 4 des Siebten Buches,
 
 
 7.  das in der Unfallversicherung beitragspflichtige Entgelt der beim
@@ -3806,12 +3853,15 @@ Rentenversicherung
 
 4.  die bei der Künstlersozialkasse über den Arbeitgeber gespeicherten
     Daten zur Melde- und Abgabepflicht für den Zeitraum seit der letzten
-    Prüfung sowie
+    Prüfung,
 
 
 5.  die bei den Trägern der Unfallversicherung gespeicherten Daten zur
     Melde- und Beitragspflicht sowie zur Gefahrtarifstelle für den
-    Zeitraum seit der letzten Prüfung
+    Zeitraum seit der letzten Prüfung sowie
+
+
+6.  die im Verfahren nach Absatz 6a Satz 1 übermittelten Daten
 
 
 
@@ -3832,6 +3882,26 @@ Daten zu übermitteln. Sind für die Prüfung bei den Arbeitgebern Daten
 zu übermitteln, so dürfen sie auch durch Abruf im automatisierten
 Verfahren übermittelt werden, ohne dass es einer Genehmigung nach § 79
 Absatz 1 des Zehnten Buches bedarf.
+
+(8a) Die Deutsche Rentenversicherung Bund führt für die Vorbereitung
+der Prüfung bei einem Arbeitgeber nach Absatz 1 eine automatisierte
+Datenanalyse mittels eines KI-Systems im Sinne von Artikel 3 Nummer 1
+der Verordnung (EU) 2024/1689 durch. Die Datenanalyse dient dem Zweck,
+den prüfenden Träger der Rentenversicherung bei der Erfüllung seiner
+Aufgaben nach den Absätzen 1, 1a und 1c zu unterstützen, indem durch
+das Aufzeigen von Wahrscheinlichkeiten Hinweise zur Verfügung gestellt
+werden, die auf mögliche Verstöße gegen Pflichten nach diesem Gesetz
+durch den Arbeitgeber, insbesondere auf unrichtige Beitragszahlungen
+oder Meldungen, hindeuten. Zum Zwecke der Datenanalyse nach Satz 1
+verarbeitet die Deutsche Rentenversicherung Bund Daten nach den
+Absätzen 4, 6a und 8 Satz 5. Sie ist dabei Verantwortlicher im Sinne
+von Artikel 4 Nummer 7 der Verordnung (EU) 2016/679. Die Datenstelle
+der Rentenversicherung übermittelt die Daten nach den Absätzen 6a und
+8 Satz 5 an die Deutsche Rentenversicherung Bund für die Verarbeitung
+nach Satz 3. Die Deutsche Rentenversicherung Bund übermittelt dem
+prüfenden Träger der Rentenversicherung die Ergebnisse der
+Datenanalyse nach Satz 1 für die Durchführung der Prüfung bei dem
+Arbeitgeber. Absatz 8 Satz 6 gilt entsprechend.
 
 (9) Das Bundesministerium für Arbeit und Soziales bestimmt im
 Einvernehmen mit dem Bundesministerium für Gesundheit durch
@@ -3876,7 +3946,7 @@ Beamtenversorgungsgesetzes gilt sinngemäß.
 
 
 #### § 28q Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015420126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015421126)
 
 (1) Die Träger der Rentenversicherung und die Bundesagentur für Arbeit
 prüfen bei den Einzugsstellen die Durchführung der Aufgaben, für die
@@ -3889,12 +3959,26 @@ Rentenversicherung nach § 28p Absatz 1 Satz 5, soweit dies für die
 Prüfung bei den Einzugsstellen nach Satz 1 erforderlich ist. Sie darf
 diese Daten nur für die Prüfung bei den Einzugsstellen speichern,
 verändern, nutzen, übermitteln oder in der Verarbeitung einschränken.
-Die Datenstelle der Rentenversicherung hat auf Anforderung des
-prüfenden Trägers der Rentenversicherung die in dem Dateisystem nach §
-28p Absatz 8 Satz 3 gespeicherten Daten diesem zu übermitteln, soweit
-dies für die Prüfung nach Satz 1 erforderlich ist. Die Übermittlung
-darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass
-es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches bedarf.
+Die Datenstelle der Träger der Rentenversicherung hat auf Anforderung
+des prüfenden Trägers der Rentenversicherung die folgenden Angaben zu
+übermitteln, soweit dies für die Prüfung nach Satz 1 erforderlich ist:
+
+1.  die in dem Dateisystem nach § 28p Absatz 8 Satz 3 gespeicherten Daten,
+
+
+2.  die in dem Dateisystem nach § 212a Absatz 5 Satz 3 des Sechsten Buches
+    gespeicherten Daten und
+
+
+3.  die in den Versicherungskonten der Rentenversicherung gespeicherten
+    Daten der sonstigen Versicherten, für die Pflichtbeiträge zu zahlen
+    waren oder zu zahlen sind.
+
+
+
+Die Übermittlung darf auch durch Abruf im automatisierten Verfahren
+erfolgen, ohne dass es einer Genehmigung nach § 79 Absatz 1 des
+Zehnten Buches bedarf.
 
 (1a) Die Träger der Rentenversicherung und die Bundesagentur für
 Arbeit prüfen bei den Einzugsstellen für das Bundesamt für Soziale
@@ -3942,10 +4026,17 @@ Bahn-See als Einzugsstelle.
 (6) Die Deutsche Rentenversicherung Bund führt ein Dateisystem, in dem
 die Träger der Rentenversicherung ihre elektronischen Akten führen,
 die im Zusammenhang mit der Durchführung der Prüfungen nach den
-Absätzen 1 und 1a stehen. Die in diesem Dateisystem gespeicherten
-Daten dürfen nur für die Prüfungen nach den Absätzen 1 und 1a durch
-die jeweils zuständigen Träger der Rentenversicherung verarbeitet
-werden.
+Absätzen 1 und 1a stehen und in welchem der Name, die Anschrift, die
+Betriebsnummer und weitere Identifikationsmerkmale jeder
+Einzugsstelle, die erforderlichen Daten für die Planung der Prüfungen
+bei den Einzugsstellen sowie die Ergebnisse der Prüfungen gespeichert
+sind. Die in den Dateisystemen gespeicherten Daten dürfen nur für die
+Prüfungen nach den Absätzen 1 und 1a durch die jeweils zuständigen
+Träger der Rentenversicherung verarbeitet werden. Die in dem
+Dateisystem gespeicherten Daten dürfen zusätzlich für die Prüfungen
+nach den Absätzen 1 und 1a durch die Bundesagentur für Arbeit und zum
+Abruf der Prüfergebnisse durch das Bundesamt für Soziale Sicherung als
+Verwalter des Gesundheitsfonds verarbeitet werden.
 
 
 #### § 28r Schadensersatzpflicht, Verzinsung
@@ -6679,6 +6770,14 @@ Arbeit und Soziales vorzulegen.
 Anwendung.
 
 
+#### § 79a Finanzierung von Maßnahmen der digitalen Transformation aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE030300126)
+
+Der Bund wird ermächtigt, sich an den Kosten der
+Sozialversicherungsträger auf Bundesebene für Maßnahmen der digitalen
+Transformation zu beteiligen.
+
+
 ### Vierter Titel - Vermögen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001404308)
 
@@ -7267,7 +7366,7 @@ nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet.
 
 
 #### § 95 Gemeinsame Grundsätze Technik
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024904126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024905126)
 
 (1) Meldungen nach diesem Buch erfolgen, soweit nichts Abweichendes
 geregelt ist, durch elektronische Datenübermittlung
@@ -7310,21 +7409,24 @@ anzuhören hat.
 Verfahren, für die die Grundsätze oder die Gemeinsamen Grundsätze nach
 diesem Buch und für die das Aufwendungsausgleichsgesetz gelten,
 verbindlich in der jeweils aktuellen Beschreibung zu verwenden. Zur
-Sicherung der einheitlichen Verwendung hält der Spitzenverband Bund
-der Krankenkassen eine Datenbankanwendung vor, in der alle Datenfelder
-beschrieben sowie ihre Verwendung in Datensätzen und Datenbausteinen
-oder Datenschemata sowohl in historisierter als auch in aktueller Form
-gespeichert sind und von den an den Meldeverfahren nach diesem Buch
-Beteiligten automatisiert abgerufen werden können. Das Nähere zur
-Darstellung, zur Aktualisierung und zum Abrufverfahren der Daten
-regeln die in Absatz 2 Satz 1 genannten Organisationen der
+Sicherung der einheitlichen Verwendung vereinbaren die in Absatz 2
+Satz 1 genannten Organisationen der Sozialversicherung in den
+Gemeinsamen Grundsätzen nach Absatz 2 Satz 1 ein verpflichtendes XML-
+Basisschema, das Elemente und Elementgruppen beschreibt, die zu
+verwenden sind. Das Basisschema, die fachlichen XML-Schemata und die
+dazugehörigen fachlichen Beschreibungen werden kostenfrei auf einer
+zentralen Veröffentlichungsplattform, die durch den Spitzenverband
+Bund der Krankenkassen im Internet zur Verfügung gestellt wird, sowohl
+in historisierter als auch in aktueller Form zur Verfügung gestellt.
+Das Nähere zur Darstellung, zur Aktualisierung und zum Abrufverfahren
+der Daten regeln die in Absatz 2 Satz 1 genannten Organisationen der
 Sozialversicherung in Gemeinsamen Grundsätzen; § 28b Absatz 3 gilt
 entsprechend. Die Grundsätze bedürfen der Genehmigung des
 Bundesministeriums für Arbeit und Soziales.
 
 
 #### § 95a Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026301126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026302126)
 
 (1) Zum elektronischen Datenaustausch nach diesem Buch und zu dem
 Aufwendungsausgleichsgesetz, insbesondere für Meldungen,
@@ -7356,19 +7458,34 @@ Online-Datenspeicher nutzen; dies ist jeweils durch eine Vereinbarung
 mit der Stelle nach Absatz 6 Satz 1 zu regeln, die insbesondere die
 anteilige Kostentragung festlegt.
 
-(5) Das Nähere über den Aufbau, die Nutzung und die unterstützten
-Fachverfahren sowie die Identifizierung von Selbständigen in den
-Verfahren regeln die Verfahrensbeteiligten in Gemeinsamen Grundsätzen,
-die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit
-dem Bundesministerium für Gesundheit zu genehmigen sind.
+(5) Das Nähere über den Aufbau, das Verfahren, die Nutzung und die
+unterstützten Fachverfahren sowie die Identifizierung von
+Selbständigen in den Verfahren regeln die Verfahrensbeteiligten in
+Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und
+Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit zu
+genehmigen sind.
 
-(6) Zur Durchführung der Aufgaben nach den Absätzen 1 bis 4 wird der
+(6) Zur Durchführung der Aufgaben nach den Absätzen 1 bis 4 stellt der
 Spitzenverband Bund der Krankenkassen eine elektronische Ausfüllhilfe
-anbieten. Er kann die Durchführung dieser Aufgabe an eine geeignete
-Arbeitsgemeinschaft der gesetzlichen Krankenkassen nach § 94 Absatz 1a
-Satz 1 des Zehnten Buches oder nach § 219 des Fünften Buches
-übertragen. Die Nutzer der Ausfüllhilfe können in angemessenem Umfang
-an den Kosten der Datenübermittlung beteiligt werden.
+bereit. Diese Ausfüllhilfe dient der Übermittlung der gesetzlich
+vorgegebenen Daten von den Meldepflichtigen an die unterstützten
+Fachverfahren. Zum Zwecke der Übermittlung dürfen die gesetzlich
+vorgegebenen Daten in der Ausfüllhilfe verarbeitet werden. Der
+Spitzenverband Bund der Krankenkassen kann die Bereitstellung der
+Ausfüllhilfe an eine geeignete Arbeitsgemeinschaft der gesetzlichen
+Krankenkassen nach § 94 Absatz 1a Satz 1 des Zehnten Buches oder nach
+§ 219 des Fünften Buches übertragen, die die für den Betrieb der
+Ausfüllhilfe erforderlichen Datenverarbeitungen vom Spitzenverband
+Bund der Krankenkassen und den weiteren Trägern der sozialen
+Sicherung, die an die Ausfüllhilfe angebunden sind, räumlich,
+organisatorisch und personell getrennt durchführt. Die beauftragte
+Arbeitsgemeinschaft ist für die im Rahmen der Nutzung der Ausfüllhilfe
+zu verarbeitenden Daten Verantwortlicher im Sinne des Artikels 4
+Nummer 7 der Verordnung (EU) 2016/679. Die beauftragte
+Arbeitsgemeinschaft unterliegt bei der Wahrnehmung der Aufgabe, die
+Ausfüllhilfe bereitzustellen, dem Sozialgeheimnis nach § 35 Absatz 1
+des Ersten Buches. Die Nutzer der Ausfüllhilfe können in angemessenem
+Umfang an den Kosten der Datenübermittlung beteiligt werden.
 
 (7) Die Sozialversicherungsträger tragen die Investitionskosten der
 Ausfüllhilfe und des Online-Datenspeichers gemeinsam. Von diesen
@@ -7393,7 +7510,7 @@ Rahmen ihrer Selbstverwaltung.
 
 
 #### § 95b Systemprüfung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026402126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026403126)
 
 (1) Meldepflichtige haben Meldungen und Beitragsnachweise durch
 Datenübertragung aus systemgeprüften Programmen oder systemgeprüften
@@ -7431,8 +7548,19 @@ Auftrag aller Spitzenorganisationen der Sozialversicherungsträger und
 der Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e.
 V. durchgeführt.
 
-(5) Die Absätze 1 bis 4 gelten entsprechend für die Programme zur
-Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
+(5) Die Absätze 1 bis 4 gelten entsprechend für die Systemprüfung von
+Anwendungsprogrammen oder Anwendungsprogrammteilen, die für die
+Annahme, Verarbeitung und Weiterleitung von Beitragsnachweisen,
+Meldungen, Anträgen, Bescheinigungen und Abrufen der Meldepflichtigen
+oder der von ihnen beauftragten Stellen sowie für die Erstellung,
+Abgabe und Übermittlung von Meldungen, Bescheinigungen und
+elektronischen Anforderungen an die Meldepflichtigen oder der von
+ihnen beauftragten Stellen durch die Einzugsstellen zur Durchführung
+der Melde- und Beitrags-, Antrags- und Bescheinigungsverfahren nach
+diesem Buch und dem Aufwendungsausgleichsgesetz eingesetzt werden. Die
+Systemprüfung umfasst auch die Programme der von den Einzugsstellen
+für die Annahme und Weiterleitung der in Satz 1 genannten Daten
+errichteten Annahmestellen nach § 97 Absatz 1.
 
 
 #### § 95c Datenaustausch zwischen den Sozialversicherungsträgern
@@ -7808,7 +7936,7 @@ Auskunftspflicht nachzukommen.
 
 
 ### § 105 Informationsportal
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016404119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016405126)
 
 (1) Zur Erfüllung der Auskunftspflicht der Sozialversicherungsträger
 nach § 104 Satz 3 wird beim Spitzenverband Bund der Krankenkassen ein
@@ -7824,11 +7952,11 @@ Verfahrensbeteiligte sollen sich am Informationsportal im Rahmen von
 Vereinbarungen beteiligen, insbesondere über eine anteilige
 Kostentragung.
 
-(3) Das Nähere über den Aufbau, die Nutzung und die Inhalte des
-Informationsportals regeln die Verfahrensbeteiligten in Gemeinsamen
-Grundsätzen, die vom Bundesministerium für Arbeit und Soziales im
-Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen
-sind.
+(3) Das Nähere über den Aufbau, das Verfahren, die Nutzung und die
+Inhalte des Informationsportals regeln die Verfahrensbeteiligten in
+Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und
+Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit zu
+genehmigen sind.
 
 (4) Die Sozialversicherungsträger tragen die nachgewiesenen
 Investitions- und laufenden Betriebskosten des Informationsportals
@@ -7854,10 +7982,12 @@ gesetzlichen Rentenversicherung und der gesetzlichen
 Unfallversicherung regeln die Träger in ihrem jeweiligen Bereich im
 Rahmen ihrer Selbstverwaltung.
 
-(5) Der Spitzenverband Bund der Krankenkassen hat bis zum 31. Dezember
-2018 dem Bundesministerium für Arbeit und Soziales einen Bericht über
-die Nutzung, Kostenverteilung und mögliche Perspektiven des
-Informationsportals vorzulegen.
+(5) Die Ausfüllhilfe nach § 95a Absatz 6 ist zur Übermittlung von
+Meldedaten mit dem Informationsportal zu verknüpfen. Dabei hat die
+Übermittlung der Meldedaten jeweils nach dem neuesten technischen
+Stand zu erfolgen. Meldedaten, die zur Identifizierung von Personen,
+Arbeitgebern oder Unternehmen dienen könnten, dürfen ausschließlich in
+der Ausfüllhilfe verarbeitet werden.
 
 
 ## Achter Abschnitt - Elektronisches Antrags- und Bescheinigungsverfahren

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 9 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 19 Abs. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 354
 
 
 ## Titel I - Allgemeine Bestimmungen

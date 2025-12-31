@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2023 I Nr. 412
 
 Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 10 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
@@ -7701,7 +7701,7 @@ eigene Räume und sächliche Mittel zur Verfügung gestellt werden.
 
 
 #### § 180 Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018100000)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018101126)
 
 (1) Ist für mehrere Betriebe eines Arbeitgebers ein Gesamtbetriebsrat
 oder für den Geschäftsbereich mehrerer Dienststellen ein
@@ -7758,8 +7758,9 @@ Bezirks- und Hauptschwerbehindertenvertretung sowie für die
 Schwerbehindertenvertretung der obersten Dienstbehörde, wenn bei einer
 mehrstufigen Verwaltung Stufenvertretungen nicht gewählt sind. Die
 nach Satz 2 zuständige Schwerbehindertenvertretung ist auch in
-persönlichen Angelegenheiten schwerbehinderter Menschen, über die eine
-übergeordnete Dienststelle entscheidet, zuständig; sie gibt der
+Angelegenheiten, die einen einzelnen oder die schwerbehinderten
+Menschen als Gruppe berühren und über die eine übergeordnete
+Dienststelle entscheidet, zuständig; sie gibt der
 Schwerbehindertenvertretung der Dienststelle, die den
 schwerbehinderten Menschen beschäftigt, Gelegenheit zur Äußerung. Satz
 3 gilt nicht in den Fällen, in denen der Personalrat der

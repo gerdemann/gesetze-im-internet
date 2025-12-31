@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 21 Abs. 3 G v. 18.7.2016 I 1679
 
 Änderung durch
-:   Art. 11 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 11 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S.
 
 
 ## § 1 Gegenstand, Form und Frist der Meldung
-[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000201377)
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000202123)
 
 (1) Die in § 3 genannten Verpflichteten haben die
 innergemeinschaftliche Lieferung (§ 6a Abs. 1 und 2 des
@@ -51,10 +51,10 @@ Anzeigepflichten im Rahmen dieser Verordnung.
 (2) Für die Form der Mitteilung gilt:
 
 1.  Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes haben die
-    Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz durch
-    Datenfernübertragung zu übermitteln; auf Antrag kann das Finanzamt zur
-    Vermeidung unbilliger Härten auf eine elektronische Übermittlung
-    verzichten;
+    Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz über
+    die amtlich bestimmte Schnittstelle zu übermitteln; auf Antrag kann
+    das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische
+    Übermittlung verzichten;
 
 
 2.  Fahrzeuglieferer nach § 2a des Umsatzsteuergesetzes können die Meldung
@@ -126,9 +126,9 @@ Umsatzsteuergesetzes), der die Lieferung des Fahrzeugs ausführt.
 
 
 ## § 4 Ordnungswidrigkeit
-[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000501123)
 
-Ordnungswidrig im Sinne des § 26a Abs. 1 Nr. 6 des
+Ordnungswidrig im Sinne des § 26a Absatz 2 Nummer 6 des
 Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 entgegen § 1 Abs. 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig macht.

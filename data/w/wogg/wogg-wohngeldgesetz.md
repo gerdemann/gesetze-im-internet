@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 361 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung

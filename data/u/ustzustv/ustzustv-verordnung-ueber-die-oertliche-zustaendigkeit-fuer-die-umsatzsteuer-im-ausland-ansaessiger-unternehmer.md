@@ -20,11 +20,11 @@ Zuletzt geändert durch
 :   Art. 1 V v. 24.11.2023 I Nr. 332
 
 Änderung durch
-:   Art. 8 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 8 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
-[Direktlink](https://www.gesetze-im-internet.de/ustzustv/BJNR381400001.html#BJNR381400001BJNE000116123)
+[Direktlink](https://www.gesetze-im-internet.de/ustzustv/BJNR381400001.html#BJNR381400001BJNE000117123)
 
 (1) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz
 2 der Abgabenordnung sind folgende Finanzämter örtlich zuständig:
@@ -85,8 +85,8 @@ Zuletzt geändert durch
     Unternehmer,
 
 
-15. das Finanzamt Saarbrücken Am Stadtgraben für im Großherzogtum
-    Luxemburg ansässige Unternehmer,
+15. das Finanzamt Saarbrücken I für im Großherzogtum Luxemburg ansässige
+    Unternehmer,
 
 
 16. das Finanzamt Berlin International für in der Republik Nordmazedonien

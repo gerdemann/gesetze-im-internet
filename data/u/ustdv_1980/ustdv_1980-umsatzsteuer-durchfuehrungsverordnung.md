@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 30 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 6 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 6 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 V v. 19.12.2025 I Nr. 372 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 7 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## - - Zu § 3a des Gesetzes
@@ -1957,13 +1957,9 @@ Die Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 4, 7, 8 und 9 des
 Gesetzes bleiben unberührt.
 
 
-### § 66 Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
-[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009404301)
+### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009405123)
 
-Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
-Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
-Vorsteuerbeträge nach einem Durchschnittssatz (§§ 69 und 70)
-berechnet.
 
 
 ### § 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
@@ -2087,7 +2083,7 @@ Teil steuerfrei sind, ist § 13 Abs. 1 entsprechend anzuwenden.
 
 
 ### § 73 Nachweis der Voraussetzungen der in bestimmten Abkommen enthaltenen Steuerbefreiungen
-[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010105377)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010106123)
 
 (1) Der Unternehmer hat die Voraussetzungen der in § 26 Abs. 5 des
 Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
@@ -2095,7 +2091,8 @@ Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
 1.  bei Lieferungen und sonstigen Leistungen, die von einer amtlichen
     Beschaffungsstelle in Auftrag gegeben worden sind, durch eine
     Bescheinigung der amtlichen Beschaffungsstelle nach amtlich
-    vorgeschriebenem Vordruck (Abwicklungsschein);
+    vorgeschriebenem Vordruck oder eine elektronische Version des
+    Vordrucks (Abwicklungsschein);
 
 
 2.  bei Lieferungen und sonstigen Leistungen, die von einer deutschen

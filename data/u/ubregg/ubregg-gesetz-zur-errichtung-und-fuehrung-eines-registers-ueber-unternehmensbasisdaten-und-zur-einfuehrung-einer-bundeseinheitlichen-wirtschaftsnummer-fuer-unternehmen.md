@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 2506
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.2.2025 I Nr. 71
-
-Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.12.2025 I Nr. 354
 
 
 ## § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten

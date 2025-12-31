@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 14 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 8 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
@@ -7258,22 +7258,30 @@ Gegenstandes als bewiesen angesehen werden.
 
 
 ##### § 371a Beweiskraft elektronischer Dokumente
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145404125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145405131)
 
-(1) Auf private elektronische Dokumente, die mit einer qualifizierten
-elektronischen Signatur versehen sind, finden die Vorschriften über
-die Beweiskraft privater Urkunden entsprechende Anwendung. Der
-Anschein der Echtheit einer in elektronischer Form vorliegenden
+(1) Die Vorschriften über die Beweiskraft privater Urkunden sind
+entsprechend anzuwenden auf private elektronische Dokumente, die
+versehen sind mit
+
+1.  einer qualifizierten elektronischen Signatur oder
+
+
+2.  einer notariell beglaubigten elektronischen Unterschrift oder einem
+    notariell beglaubigten elektronischen Handzeichen.
+
+
+
+Der Anschein der Echtheit einer in elektronischer Form vorliegenden
 Erklärung, der sich auf Grund der Prüfung der qualifizierten
-elektronischen Signatur nach Artikel 32 der Verordnung (EU)
-Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli
-2014 über elektronische Identifizierung und Vertrauensdienste für
+elektronischen Signatur nach Artikel 32 der Verordnung (EU) Nr.
+910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014
+über elektronische Identifizierung und Vertrauensdienste für
 elektronische Transaktionen im Binnenmarkt und zur Aufhebung der
-Richtlinie
-1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann nur durch
-Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen,
-dass die Erklärung von der verantwortenden Person abgegeben worden
-ist.
+Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann
+nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran
+begründen, dass die Erklärung von der verantwortenden Person abgegeben
+worden ist.
 
 (2) Hat sich eine natürliche Person bei einem ihr allein zugeordneten
 De-Mail-Konto sicher angemeldet (§ 4 Absatz 1 Satz 2 des De-Mail-
@@ -7299,7 +7307,9 @@ Gleiche gilt, wenn das Dokument im Auftrag der Behörde oder der mit
 Diensteanbieter mit seiner qualifizierten elektronischen Signatur
 gemäß § 5 Absatz 5 des De-Mail-Gesetzes versehen ist und die
 Absenderbestätigung die Behörde oder die mit öffentlichem Glauben
-versehene Person als Nutzer des De-Mail-Kontos ausweist.
+versehene Person als Nutzer des De-Mail-Kontos ausweist. Auf
+ausländische öffentliche elektronische Dokumente ist § 438
+entsprechend anzuwenden.
 
 
 ##### § 371b Beweiskraft gescannter öffentlicher Urkunden

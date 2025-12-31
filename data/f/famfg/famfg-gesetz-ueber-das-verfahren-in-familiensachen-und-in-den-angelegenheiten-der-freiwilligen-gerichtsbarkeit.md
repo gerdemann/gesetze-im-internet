@@ -32,7 +32,7 @@ Zuletzt geändert durch
 :   Art. 20 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 21 G v. 8.12.2025 I Nr. 319 mWv 1.1.2036 noch nicht berücksichtigt
+:   Art. 21 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 4 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
@@ -8280,7 +8280,7 @@ ein anderes Nachlassgericht verweisen.
 
 
 #### § 344 Besondere örtliche Zuständigkeit
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035002311)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035003131)
 
 (1) Für die besondere amtliche Verwahrung von Testamenten ist
 zuständig,
@@ -8343,9 +8343,12 @@ ausgeschlagen oder mit der die Versäumung der Ausschlagungsfrist, die
 Annahme oder Ausschlagung einer Erbschaft oder eine
 Anfechtungserklärung ihrerseits angefochten wird, ist auch das
 Nachlassgericht zuständig, in dessen Bezirk die erklärende Person
-ihren gewöhnlichen Aufenthalt hat. Die Urschrift der Niederschrift
-oder die Urschrift der Erklärung in öffentlich beglaubigter Form ist
-von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
+ihren gewöhnlichen Aufenthalt hat. Dieses Gericht hat die Urschrift
+der Niederschrift, die Urschrift der Erklärung in öffentlich-
+beglaubigter Form oder die beglaubigte Abschrift der Erklärung in
+öffentlich-beglaubigter Form an das zuständige Nachlassgericht zu
+übermitteln. Wird die Erklärung als elektronisches Dokument
+aufgenommen oder entgegengenommen, so ist dieses zu übermitteln.
 
 
 ### Abschnitt 2 - Verfahren in Nachlasssachen

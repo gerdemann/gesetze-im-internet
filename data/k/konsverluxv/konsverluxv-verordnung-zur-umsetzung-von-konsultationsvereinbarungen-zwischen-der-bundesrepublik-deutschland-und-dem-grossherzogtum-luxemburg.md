@@ -20,7 +20,7 @@ Geändert durch
 :   Art. 4 V v. 22.12.2014 I 2392
 
 Änderung durch
-:   Art. 13 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 13 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -319,10 +319,10 @@ Diese Verordnung ist erstmals anzuwenden
 
 
 
-### § 12 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001300000)
+### § 12 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001301123)
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt am 30. Dezember 2025 außer Kraft.
 
 
 ### Schlussformel

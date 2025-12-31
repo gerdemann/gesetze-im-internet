@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 31.3.2025 I Nr. 105
 
 Änderung durch
-:   Art. 5 V v. 19.12.2025 I Nr. 372 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 5 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

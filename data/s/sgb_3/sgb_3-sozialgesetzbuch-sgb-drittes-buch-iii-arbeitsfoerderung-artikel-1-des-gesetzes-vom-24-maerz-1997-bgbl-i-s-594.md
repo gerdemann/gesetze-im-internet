@@ -29,10 +29,10 @@ Mittelbare änderung durch
 :   Art. 14 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 364 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 364 ist berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 371 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 371 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -1705,15 +1705,17 @@ Der Arbeitgeber kann die Vermittlung erneut in Anspruch nehmen.
 
 
 ##### § 39a Frühzeitige Förderung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076500124)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076501119)
 
 Für Ausländerinnen und Ausländer, die eine Aufenthaltsgestattung nach
 dem Asylgesetz besitzen und auf Grund des § 61 des Asylgesetzes keine
 Erwerbstätigkeit ausüben dürfen, können Leistungen nach diesem
 Unterabschnitt erbracht werden, wenn bei ihnen ein rechtmäßiger und
 dauerhafter Aufenthalt zu erwarten ist. Stammen sie aus einem sicheren
-Herkunftsstaat nach § 29a des Asylgesetzes, so wird vermutet, dass ein
-rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
+Herkunftsstaat nach § 29a des Asylgesetzes oder einer auf Grundlage
+von § 29b des Asylgesetzes erlassenen Rechtsverordnung, so wird
+vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu
+erwarten ist.
 
 
 #### Dritter Unterabschnitt - Gemeinsame Vorschriften

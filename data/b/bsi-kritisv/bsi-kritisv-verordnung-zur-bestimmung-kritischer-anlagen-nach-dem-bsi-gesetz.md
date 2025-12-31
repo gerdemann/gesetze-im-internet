@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 958
 
 Zuletzt geändert durch
-:   Art. 8 G v. 2.12.2025 I Nr. 301
-
-Änderung durch
-:   Art. 2 G v. 18.12.2025 I Nr. 347 noch nicht berücksichtigt
+:   Art. 2 G v. 18.12.2025 I Nr. 347
 
 
 ## Eingangsformel
@@ -459,7 +456,7 @@ evaluieren
 (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)
 
 ## Anhang 1 Anlagenkategorien und Schwellenwerte im Sektor Energie
-[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000905129)
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000906130)
 
 (Fundstelle: BGBl. I 2016, 960 - 962
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -479,11 +476,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     2.1 Erzeugungsanlage
 
-        eine Anlage im Sinne des § 3 Nummer 18d des
-        Energiewirtschaftsgesetzes. Diese Kategorie umfasst auch Anlagen zur
-        Speicherung von elektrischer Energie sowie dezentrale
-        Energieerzeugungsanlagen im Sinne des § 3 Nummer 11 des
-        Energiewirtschaftsgesetzes.
+        eine Anlage im Sinne des § 3 Nummer 43 des Energiewirtschaftsgesetzes.
+        Diese Kategorie umfasst auch Anlagen zur Speicherung von elektrischer
+        Energie sowie dezentrale Energieerzeugungsanlagen im Sinne des § 3
+        Nummer 25 des Energiewirtschaftsgesetzes.
 
 
     2.2 Digitaler Energiedienst
@@ -497,7 +493,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     2.3 Übertragungsnetz
 
-        ein Netz zur Übertragung im Sinne des § 3 Nummer 32 des
+        ein Netz zur Übertragung im Sinne des § 3 Nummer 100 des
         Energiewirtschaftsgesetzes.
 
 
@@ -510,7 +506,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     2.5 Stromverteilernetz
 
-        ein Netz zur Verteilung von Elektrizität im Sinne des § 3 Nummer 37
+        ein Netz zur Verteilung von Elektrizität im Sinne des § 3 Nummer 108
         des Energiewirtschaftsgesetzes.
 
 
@@ -527,7 +523,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     2.8 Fernleitungsnetz
 
-        ein Netz zur Fernleitung im Sinne des § 3 Nummer 19 des
+        ein Netz zur Fernleitung im Sinne des § 3 Nummer 45 des
         Energiewirtschaftsgesetzes.
 
 
@@ -541,13 +537,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     2.10 Gasspeicher
 
-        eine Speicheranlage im Sinne des § 3 Nummer 19c des
+        eine Speicheranlage im Sinne des § 3 Nummer 49 des
         Energiewirtschaftsgesetzes.
 
 
     2.11 Gasverteilernetz
 
-        ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 37 des
+        ein Netz zur Verteilung von Gas im Sinne des § 3 Nummer 108 des
         Energiewirtschaftsgesetzes.
 
 
@@ -560,12 +556,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     2.13 LNG-Anlage
 
         schwimmende oder landgebundene stationäre Anlagen oder Systeme zur
-        Verflüssigung von Gas nach § 3 Nr. 19a EnWG oder zur Einfuhr,
-        Entladung und Wiederverdampfung von verflüssigtem Gas, einschließlich
-        der Anlagenteile für Hilfsdienste und für die vorübergehende
-        Speicherung von verflüssigtem Erdgas, die für die Wiederverdampfung
-        und die anschließende Einspeisung in das Fernleitungsnetz erforderlich
-        sind.
+        Verflüssigung von Gas nach § 3 Nummer 47 des
+        Energiewirtschaftsgesetzes oder zur Einfuhr, Entladung und
+        Wiederverdampfung von verflüssigtem Gas, einschließlich der
+        Anlagenteile für Hilfsdienste und für die vorübergehende Speicherung
+        von verflüssigtem Erdgas, die für die Wiederverdampfung und die
+        anschließende Einspeisung in das Fernleitungsnetz erforderlich sind.
 
 
     2.14 Ölförderanlage

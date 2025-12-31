@@ -21,7 +21,7 @@ Zuletzt geändert durch
 :   Art. 31 G v. 20.12.2022 I 2759
 
 Änderung durch
-:   Art. 21 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 21 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

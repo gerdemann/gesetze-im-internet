@@ -27,6 +27,9 @@ Fundstelle
 Änderung durch
 :   Art. 3 V v. 5.8.2025 II Nr. 216 ist berücksichtigt
 
+Änderung durch
+:   Art. 4 V v. 17.12.2025 I Nr. 381 mWv 31.12.2025 noch nicht berücksichtigt
+
 
 ## § 1 Inkraftsetzung
 [Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000100000)

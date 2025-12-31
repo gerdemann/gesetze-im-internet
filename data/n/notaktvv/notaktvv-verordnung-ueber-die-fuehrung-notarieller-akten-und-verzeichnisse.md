@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 21.12.2021 II 1282
 
 Änderung durch
-:   Art. 7 G v. 10.12.2025 I Nr. 320 mWv 29.12.2025 noch nicht berücksichtigt
+:   Art. 7 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -70,7 +70,7 @@ Der Notar führt die folgenden Akten:
 
 
 ### § 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden
-[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000401125)
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000402131)
 
 (1) Urschriften, Ausfertigungen und beglaubigte Abschriften von
 Urkunden sind so herzustellen, dass sie gut lesbar, dauerhaft und
@@ -83,9 +83,10 @@ gemacht werden.
 (3) Auf jeder Urschrift, Ausfertigung oder Abschrift einer Urkunde
 sind die Urkundenverzeichnisnummer und die Jahreszahl anzugeben. Satz
 1 gilt für das nach § 39a des Beurkundungsgesetzes erstellte
-elektronische Dokument entsprechend. Auf dem nach § 16b des
-Beurkundungsgesetzes erstellten elektronischen Dokument müssen die
-Urkundenverzeichnisnummer und die Jahreszahl nicht angegeben werden.
+elektronische Dokument entsprechend. Auf einem nach § 8 Absatz 2, §
+16b oder § 36 Absatz 2 des Beurkundungsgesetzes erstellten
+elektronischen Dokument müssen die Urkundenverzeichnisnummer und die
+Jahreszahl nicht angegeben werden.
 
 
 ### § 4 Form und Übergabe elektronischer Aufzeichnungen
@@ -159,14 +160,16 @@ verarbeitet werden.
 
 
 ### § 7 Urkundenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000802125)
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000803131)
 
 (1) In das Urkundenverzeichnis einzutragen sind
 
-1.  Niederschriften (§§ 8, 36 und 38 des Beurkundungsgesetzes),
+1.  Niederschriften (§ 8 Absatz 1 und § 36 Absatz 1 des
+    Beurkundungsgesetzes),
 
 
-2.  elektronische Niederschriften (§ 16b des Beurkundungsgesetzes),
+2.  elektronische Niederschriften (§ 8 Absatz 2, §§ 16b und 36 Absatz 2
+    des Beurkundungsgesetzes),
 
 
 3.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die Folgendes
@@ -192,7 +195,8 @@ verarbeitet werden.
 4.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
     die Folgendes enthalten:
 
-    a)  die Beglaubigung einer qualifizierten elektronischen Signatur,
+    a)  die Beglaubigung einer qualifizierten elektronischen Signatur, einer
+        elektronischen Unterschrift oder eines elektronischen Handzeichens,
 
 
     b)  die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt
@@ -331,13 +335,14 @@ Zur Amtsperson sind anzugeben
 
 
 ### § 12 Angabe der Beteiligten
-[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001302125)
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001303131)
 
 (1) Als Beteiligte sind einzutragen
 
-1.  bei Niederschriften nach den §§ 8 und 38 des Beurkundungsgesetzes und
-    elektronischen Niederschriften (§ 16b des Beurkundungsgesetzes) die
-    Erschienenen, deren Erklärungen beurkundet worden sind,
+1.  bei Niederschriften nach § 8 Absatz 1 des Beurkundungsgesetzes und
+    elektronischen Niederschriften nach § 8 Absatz 2 und § 16b des
+    Beurkundungsgesetzes die Erschienenen, deren Erklärungen beurkundet
+    worden sind,
 
 
 2.  bei Beglaubigungen (§§ 39 bis 41 des Beurkundungsgesetzes) diejenigen,
@@ -362,7 +367,7 @@ Zur Amtsperson sind anzugeben
 
 Sind mehr als 20 Beteiligte einzutragen, genügt auch eine
 zusammenfassende Bezeichnung, es sei denn, dass die Beteiligten in den
-Fällen der §§ 8, 16b oder 38 des Beurkundungsgesetzes Erklärungen zur
+Fällen der §§ 8 oder 16b des Beurkundungsgesetzes Erklärungen zur
 Niederschrift abgegeben haben.
 
 (2) Zu den Beteiligten sind anzugeben
@@ -827,7 +832,7 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 
 
 ### § 31 Urkundensammlung
-[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003202125)
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003203131)
 
 (1) In der Urkundensammlung sind zu verwahren
 
@@ -847,9 +852,8 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
     einzutragen sind, die Urschrift,
 
 
-3.  bei elektronischen Niederschriften im Sinne des § 16b des
-    Beurkundungsgesetzes, ein beglaubigter Ausdruck des elektronischen
-    Dokuments,
+3.  bei elektronischen Niederschriften ein beglaubigter Ausdruck des
+    elektronischen Dokuments,
 
 
 4.  bei Vermerken im Sinne des § 39 des Beurkundungsgesetzes, die in das
@@ -907,9 +911,9 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 Urkundenverzeichnis zu ordnen.
 
 (3) Nachweise für die Vertretungsberechtigung, die nach § 12 Absatz 1
-des Beurkundungsgesetzes der Niederschrift beigefügt werden sollen,
-werden der Urschrift beigefügt und mit ihr in der Urkundensammlung
-verwahrt. Nachweise für die Vertretungsberechtigung, die nach § 16d
+Satz 1 des Beurkundungsgesetzes der Niederschrift beigefügt werden
+sollen, werden der Urschrift beigefügt und mit ihr in der
+Urkundensammlung verwahrt. Nachweise, die nach § 12 Absatz 1 Satz 2
 des Beurkundungsgesetzes der elektronischen Niederschrift beigefügt
 werden sollen, werden dem in der Urkundensammlung verwahrten
 beglaubigten Ausdruck der elektronischen Niederschrift in Urschrift
@@ -984,7 +988,7 @@ Urkundensammlung zu nehmen ist.
 
 
 ### § 34 Elektronische Urkundensammlung
-[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003502125)
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003503131)
 
 (1) In der elektronischen Urkundensammlung werden die Dokumente in
 elektronischer Form verwahrt, die nach § 31 in der Urkundensammlung
@@ -1012,8 +1016,7 @@ dieser Form oder als elektronische Fassung des Ausdrucks, der in der
 Urkundensammlung verwahrt wird, verwahrt werden. In der Form, in der
 sie erstellt wurden, sind zu verwahren:
 
-1.  elektronische Niederschriften im Sinne des § 16b des
-    Beurkundungsgesetzes und
+1.  elektronische Niederschriften und
 
 
 2.  einfache elektronische Zeugnisse im Sinne des § 39a des
@@ -1023,10 +1026,10 @@ sie erstellt wurden, sind zu verwahren:
 
 
 
-(4) Nachweise für die Vertretungsberechtigung, die nach § 16d des
-Beurkundungsgesetzes der elektronischen Niederschrift beigefügt werden
-sollen, werden zusammen mit der elektronischen Urschrift in der
-elektronischen Urkundensammlung verwahrt.
+(4) Nachweise für die Vertretungsberechtigung, die nach § 12 Absatz 1
+Satz 2 des Beurkundungsgesetzes der elektronischen Niederschrift
+beigefügt werden sollen, werden zusammen mit der elektronischen
+Urschrift in der elektronischen Urkundensammlung verwahrt.
 
 (5) Tritt nach dem Beurkundungsgesetz eine Ausfertigung oder eine
 beglaubigte Abschrift an die Stelle der Urschrift, so ist die

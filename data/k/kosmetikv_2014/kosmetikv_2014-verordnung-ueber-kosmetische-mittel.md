@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 15.1.2025 I Nr. 11
 
 Änderung durch
-:   Art. 2 V v. 19.12.2025 I Nr. 379 noch nicht berücksichtigt
+:   Art. 2 V v. 19.12.2025 I Nr. 379 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Ziel
@@ -107,16 +107,14 @@ Mittel von allgemeiner Bedeutung sind.
 
 
 ## § 7 Ausnahmen für die Einfuhr
-[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000701130)
 
-Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der
-Lebensmitteleinfuhr-Verordnung entsprechend mit der Maßgabe, dass an
-die Stelle der Verbote des § 5 Absatz 1 Satz 1 des Lebensmittel- und
-Futtermittelgesetzbuches und des Artikels 14 Absatz 1 in Verbindung
-mit Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 die Pflicht
-nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1223/2009 tritt, für
-die Einhaltung der Sicherheit im Umfang des Artikels 3 der Verordnung
-(EG) Nr. 1223/2009 zu sorgen.
+Für die Einfuhr von kosmetischen Mitteln gilt § 11a Absatz 1 der
+Bedarfsgegenständeverordnung entsprechend mit der Maßgabe, dass an die
+Stelle der Verbote des § 30 Nummer 1 und 2 des Lebensmittel- und
+Futtermittelgesetzbuches die Pflicht nach Artikel 5 Absatz 1 der
+Verordnung (EG) Nr. 1223/2009 tritt, für die Einhaltung der Sicherheit
+im Umfang des Artikels 3 der Verordnung (EG) Nr. 1223/2009 zu sorgen.
 
 
 ## § 8 Straftaten

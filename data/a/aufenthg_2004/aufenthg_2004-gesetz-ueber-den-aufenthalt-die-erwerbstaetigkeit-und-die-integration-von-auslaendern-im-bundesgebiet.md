@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
 
 Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
 Mittelbare änderung durch
@@ -4415,10 +4415,10 @@ Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
 
 
 #### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und jungen Volljährigen
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015405311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015406311)
 
 (1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber
-einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf
+einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf
 Monaten im Besitz einer Duldung ist, soll eine Aufenthaltserlaubnis
 erteilt werden, wenn
 
@@ -4492,23 +4492,23 @@ bleiben.
 (4) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2
 erteilt werden.
 
-(5) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind
-für die Anwendung des Absatzes 1 Satz 1 Nummer 1 auch die in § 60b
-Absatz 5 Satz 1 genannten Zeiten anzurechnen.
+(5) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind
+für die Anwendung des Absatzes 1 Satz 1 Nummer 1 auch die in § 60b
+Absatz 5 Satz 1 genannten Zeiten anzurechnen.
 
 (6) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll
-eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die
-Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der
+eine Aufenthaltserlaubnis nach Absatz 1 nur erteilt werden, wenn die
+Voraussetzungen des § 5 Absatz 1 Nummer 1a erfüllt sind. Hat der
 Ausländer die erforderlichen und ihm zumutbaren Maßnahmen für die
-Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt
+Identitätsklärung ergriffen, kann sie abweichend von Satz 1 erteilt
 werden.
 
 
 #### § 25b Aufenthaltsgewährung bei nachhaltiger Integration
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017103311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017104311)
 
 (1) Einem Ausländer, der geduldet oder Inhaber einer
-Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1
+Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1
 Nummer 1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn
 er sich nachhaltig in die Lebensverhältnisse der Bundesrepublik
 Deutschland integriert hat. Dies setzt regelmäßig voraus, dass der
@@ -4607,7 +4607,7 @@ Lebenspartner über hinreichende schriftliche Kenntnisse der deutschen
 Sprache verfügt.
 
 (7) Besitzt der Ausländer eine Aufenthaltserlaubnis nach § 104c, sind
-für die Anwendung des Absatzes 1 Satz 2 Nummer 1 auch die in § 60b
+für die Anwendung des Absatzes 1 Satz 2 Nummer 1 auch die in § 60b
 Absatz 5 Satz 1 genannten Zeiten anzurechnen.
 
 (8) Einem Ausländer mit einer Aufenthaltserlaubnis nach § 104c soll
@@ -14343,58 +14343,19 @@ verlängert wird, abweichend von § 5 Abs. 1 Nr. 1, Abs. 2 und § 10 Abs.
 
 
 
-### § 104c Chancen-Aufenthaltsrecht
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021900311)
+### § 104c Übergangsregelung zum Chancen-Aufenthaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021901311)
 
-(1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer
-1, 1a und 4 sowie § 5 Absatz 2 eine Aufenthaltserlaubnis erteilt
-werden, wenn er sich am 31. Oktober 2022 seit fünf Jahren
-ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis
-im Bundesgebiet aufgehalten hat und er
+(1) Eine Aufenthaltserlaubnis nach § 104c in der Fassung dieses
+Gesetzes vom 31. Dezember 2022 gilt bis zum Ende ihrer Geltungsdauer
+als Aufenthaltstitel nach Kapitel 2 Abschnitt 5.
 
-1.  sich zur freiheitlichen demokratischen Grundordnung der Bundesrepublik
-    Deutschland bekennt und
-
-
-2.  nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat
-    verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50
-    Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem
-    Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen
-    werden können, oder Verurteilungen nach dem Jugendstrafrecht, die
-    nicht auf Jugendstrafe lauten, grundsätzlich außer Betracht bleiben.
-
-
-
-Die Aufenthaltserlaubnis nach Satz 1 soll versagt werden, wenn der
-Ausländer wiederholt vorsätzlich falsche Angaben gemacht oder über
-seine Identität oder Staatsangehörigkeit getäuscht hat und dadurch
-seine Abschiebung verhindert. Für die Anwendung des Satzes 1 sind auch
-die in § 60b Absatz 5 Satz 1 genannten Zeiten anzurechnen.
-
-(2) Dem Ehegatten, dem Lebenspartner und minderjährigen, ledigen
-Kindern, die mit einem Begünstigten nach Absatz 1 in häuslicher
-Gemeinschaft leben, soll unter den Voraussetzungen des Absatzes 1
-Nummer 1 und 2 eine Aufenthaltserlaubnis auch dann erteilt werden,
-wenn diese sich am 31. Oktober 2022 noch nicht seit fünf Jahren
-ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis
-im Bundesgebiet aufgehalten haben. Das Gleiche gilt für das
-volljährige ledige Kind, wenn es bei der Einreise in das Bundesgebiet
-minderjährig war. Absatz 1 Satz 2 findet entsprechende Anwendung.
-
-(3) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2
-erteilt werden. Sie gilt als Aufenthaltstitel nach Kapitel 2 Abschnitt
-5\. Sie wird für 18 Monate erteilt und ist nicht verlängerbar. Während
-des Aufenthalts nach Satz 3 kann nur eine Aufenthaltserlaubnis nach
-§ 25a oder § 25b erteilt werden. Der Antrag auf Erteilung eines
-anderen Aufenthaltstitels als nach § 25a oder § 25b entfaltet nicht
-die Wirkung nach § 81 Absatz 4.
-
-(4) Der Ausländer ist spätestens bei der Erteilung der
-Aufenthaltserlaubnis auf die Voraussetzungen für die Erteilung einer
-Aufenthaltserlaubnis nach § 25b und, falls er das 27. Lebensjahr noch
-nicht vollendet hat, nach § 25a hinzuweisen. Dabei soll die
-Ausländerbehörde auch konkrete Handlungspflichten, die in zumutbarer
-Weise zu erfüllen sind, bezeichnen.
+(2) Die Aufenthaltserlaubnis nach § 104c in der Fassung dieses
+Gesetzes vom 31. Dezember 2022 kann nur als Aufenthaltserlaubnis nach
+§ 25a oder § 25b verlängert werden. Sie gilt als Aufenthaltstitel nach
+Kapitel 2 Abschnitt 5. Der Antrag auf Erteilung eines anderen
+Aufenthaltstitels als nach § 25a oder § 25b entfaltet nicht die
+Wirkung nach § 81 Absatz 4.
 
 
 ### § 105 Übergangsregelung zur Duldung für Personen mit ungeklärter Identität

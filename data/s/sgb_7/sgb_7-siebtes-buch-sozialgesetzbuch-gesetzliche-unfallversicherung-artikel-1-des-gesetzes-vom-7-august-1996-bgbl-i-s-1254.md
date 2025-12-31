@@ -23,7 +23,7 @@ Mittelbare änderung durch
 :   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
@@ -1689,7 +1689,7 @@ Vollzugs nicht entgegenstehen.
 
 
 ##### § 27a Nutzung der Telematikinfrastruktur
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032801126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032802126)
 
 (1) Bei der Erbringung von Leistungen nach § 27 Absatz 1 gelten die §§
 31a, 347, 348 und 374a des Fünften Buches entsprechend, sofern der
@@ -1698,8 +1698,8 @@ Leistungserbringer an die Telematikinfrastruktur angebunden ist.
 (2) § 360 des Fünften Buches gilt entsprechend für die
 Leistungserbinger nach § 27 Absatz 1 sowie die
 Unfallversicherungsträger, sobald die Verordnung von Leistungen nach §
-27 Absatz 1 Nummer 4 elektronisch erfolgt und der Leistungserbringer
-an die Telematikinfrastruktur angebunden ist.
+27 Absatz 1 Nummer 4 und 5 elektronisch erfolgt und der
+Leistungserbringer an die Telematikinfrastruktur angebunden ist.
 
 (3) § 350a des Fünften Buches gilt entsprechend für Versicherte dieses
 Buches.
@@ -5427,7 +5427,7 @@ vorliegt.
 
 
 ##### § 136a Unternehmernummer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032603311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032605126)
 
 (1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer
 unternehmerischen Tätigkeit eine Unternehmernummer. Die
@@ -5448,24 +5448,24 @@ Unfallversicherung e. V. gespeichert. Die Berufsgenossenschaften und
 Unfallversicherungsträger der öffentlichen Hand haben zur Erledigung
 ihrer gesetzlichen Aufgaben Zugriff auf dieses Dateisystem; dies gilt
 auch für die Arbeitsschutzbehörden der Länder, soweit dies für die
-Erfüllung ihrer Aufgaben nach § 21 Absatz 3a des Arbeitsschutzgesetzes
-erforderlich ist. Die Berufsgenossenschaften und die
-Unfallversicherungsträger der öffentlichen Hand führen die
-Unternehmer- und Unternehmensnummern ihrer Mitglieder jeweils in einem
-gesonderten Mitgliederdateisystem.
+Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Die
+Berufsgenossenschaften und die Unfallversicherungsträger der
+öffentlichen Hand führen die Unternehmer- und Unternehmensnummern
+ihrer Mitglieder jeweils in einem gesonderten Mitgliederdateisystem.
 
 (2) Bei Änderungen, die die nach Absatz 1 zum Unternehmer oder zum
 Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2
 entsprechend.
 
-(3) Der Unternehmer hat für die Vergabe der Unternehmernummer die dazu
-notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
-Geburtsdatum und die aktuelle Wohnanschrift, elektronisch zu
-übermitteln. Das Nähere zum Verfahren, zu den erforderlichen Angaben
-und zu den Datensätzen regelt die Deutsche Gesetzliche
-Unfallversicherung e. V., in Abstimmung mit der landwirtschaftlichen
-Berufsgenossenschaft, in Grundsätzen, die durch das Bundesministerium
-für Arbeit und Soziales zu genehmigen sind.
+(3) Der Unternehmer hat für die Vergabe der Unternehmernummer
+einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen
+Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum
+und die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das
+Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
+Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.,
+in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
+Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
+zu genehmigen sind.
 
 
 ##### § 136b Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters
@@ -5480,6 +5480,76 @@ bundeseinheitliche Wirtschaftsnummer nach § 2 des
 Unternehmensbasisdatenregistergesetzes darf zu den in § 5 des
 Unternehmensbasisdatenregistergesetzes aufgeführten Zwecken im
 zentralen Dateisystem nach § 136a Absatz 1 Satz 5 gespeichert werden.
+
+
+##### § 136c Betriebsstättenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032900126)
+
+(1) Als Erweiterung des zentralen Dateisystems gemäß § 136a Absatz 1
+Satz 5 führt die Deutsche Gesetzliche Unfallversicherung e. V. ein
+Betriebsstättenverzeichnis. Das Betriebsstättenverzeichnis enthält
+eine Auflistung der einem Unternehmen zuzuordnenden Betriebsstätten
+und zuzuordnenden Orte, an denen Besichtigungen vorgenommen werden
+können (Besichtigungsorte), nach Absatz 2 Satz 2. Für jede dieser
+Betriebsstätten und jeden dieser Besichtigungsorte wird eine
+Betriebsstättennummer vergeben, die einen eindeutigen Bezug zum
+Unternehmen und zu den Unternehmern herstellt.
+
+(2) Im Betriebsstättenverzeichnis werden Betriebstätten gemäß § 18h
+Absatz 3 des Vierten Buches erfasst. Darüber hinaus können weitere
+Besichtigungsorte in das Betriebsstättenverzeichnis aufgenommen
+werden. Näheres regeln die Gemeinsamen Grundsätze nach Absatz 5.
+
+(3) Die Deutsche Gesetzliche Unfallversicherung e. V. ist berechtigt,
+im Betriebsstättenverzeichnis alle zur Identifikation der
+Betriebsstätte notwendigen Daten, die zuständigen
+Unfallversicherungsträger und die zuständige Arbeitsschutzbehörde der
+Länder sowie, soweit vorhanden, die Betriebsnummer nach § 18i Absatz 2
+des Vierten Buches, Informationen zum Wirtschaftszweig und die Zahl
+der Beschäftigten zu verarbeiten. Die Berufsgenossenschaften und
+Unfallversicherungsträger der öffentlichen Hand haben, soweit dies zur
+Erledigung ihrer gesetzlichen Aufgaben erforderlich ist, Zugriff auf
+das Betriebsstättenverzeichnis; dies gilt auch für die obersten und
+die jeweils zuständigen Arbeitsschutzbehörden der Länder, soweit dies
+für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
+
+(4) Die Bundesagentur für Arbeit übermittelt an die Deutsche
+Gesetzliche Unfallversicherung e. V. die Daten aus dem Dateisystem der
+Beschäftigungsbetriebe nach § 18i des Vierten Buches sowie die Zahl
+der Beschäftigten und teilt durch automatisierte Datenübermittlung
+nach § 18m Absatz 1 des Vierten Buches Änderungen mit. Die Träger der
+Unfallversicherung und die zuständigen Arbeitsschutzbehörden der
+Länder übermitteln Daten nach Absatz 3 Satz 1, die sie im Rahmen ihrer
+gesetzlichen Aufgabenerfüllung oder aufgrund bestehender Melde- und
+Unterstützungspflichten anderer Behörden oder der Unternehmer
+erlangen, an die Deutsche Gesetzliche Unfallversicherung e. V.
+
+(5) Das Nähere zum Verfahren, zu den erforderlichen Angaben, den
+Datensätzen, den Besichtigungsorten und den damit verbundenen
+Berechtigungen sowie möglichen Nutzungsentgelten wird in Gemeinsamen
+Grundsätzen festgelegt. Diese werden durch die Deutsche Gesetzliche
+Unfallversicherung e. V. in Abstimmung mit den obersten
+Arbeitsschutzbehörden der Länder und der landwirtschaftlichen
+Berufsgenossenschaft und unter Beteiligung der Bundesagentur für
+Arbeit aufgestellt. Die obersten Arbeitsschutzbehörden der Länder
+übermitteln gemeinsame Positionen. Gesichtspunkte der
+Wirtschaftlichkeit sind zu beachten. Die Gemeinsamen Grundsätze sind
+durch das Bundesministerium für Arbeit und Soziales zu genehmigen.
+
+(6) Die Regelungen der Absätze 1 bis 5 gelten in der Zeit vom 1.
+Januar 2026 bis zum 31. Dezember 2030 ausschließlich für zwischen der
+Deutschen Gesetzlichen Unfallversicherung e. V. und der
+landwirtschaftlichen Berufsgenossenschaft abgestimmte Pilotvorhaben,
+die dem kontinuierlichen Aufbau des Betriebsstättenverzeichnisses
+sowie der Erprobung der dazu notwendigen technischen Einrichtungen
+dienen. Die obersten Arbeitsschutzbehörden der Länder und die
+Bundesagentur für Arbeit sind über die Durchführung der Pilotvorhaben
+regelmäßig zu informieren. Pilotvorhaben zum Abruf von Daten aus dem
+Betriebsstättenverzeichnis durch die Arbeitsschutzbehörden der Länder
+sind in Abstimmung mit der Deutschen Gesetzlichen Unfallversicherung
+e. V. in der Pilotphase möglich. Über den jeweiligen Stand der
+Umsetzung berichtet die Deutsche Gesetzliche Unfallversicherung e. V.
+dem Bundesministerium für Arbeit und Soziales halbjährlich.
 
 
 ##### § 137 Wirkung von Zuständigkeitsänderungen
@@ -7811,7 +7881,7 @@ Unfallversicherungsträger, der für den Versicherten zuständig ist.
 
 
 #### § 206 Verarbeitung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021402126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021403126)
 
 (1) Ein Arzt oder Angehöriger eines anderen Heilberufes ist befugt,
 für ein bestimmtes Forschungsvorhaben personenbezogene Daten den
@@ -7855,7 +7925,8 @@ sind oder von Zugriffsberechtigten weitergegeben werden.
 (4) Die Durchführung der Forschung ist organisatorisch und räumlich
 von anderen Aufgaben zu trennen. Die übermittelten Einzelangaben
 dürfen nicht mit anderen personenbezogenen Daten zusammengeführt
-werden. § 67c Abs. 5 Satz 2 und 3 des Zehnten Buches bleibt unberührt.
+werden. § 67c Absatz 6 Satz 2 und 3 des Zehnten Buches bleibt
+unberührt.
 
 (5) Führen die Unfallversicherungsträger oder ihre Verbände das
 Forschungsvorhaben nicht selbst durch, dürfen die Daten nur
@@ -8675,72 +8746,9 @@ Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der
 Versicherten und Unternehmen sicherzustellen.
 
 
-### § 224 Umstellung der Mitgliedsnummer auf die Unternehmernummer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027405311)
+### § 224 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027406126)
 
-(1) Die Mitgliedsnummern der gewerblichen Berufsgenossenschaften, der
-landwirtschaftlichen Berufsgenossenschaft und der
-Unfallversicherungsträger der öffentlichen Hand sind in Abstimmung mit
-der Deutschen Gesetzlichen Unfallversicherung e. V. bis zum 1. Januar
-2023 automatisiert auf die neue Unternehmernummer umzustellen. Die
-Unternehmer sind über die vergebenen Unternehmernummern und die
-numerische Bezeichnung der zugehörigen Unternehmen unverzüglich zu
-informieren.
-
-(2) Für die vorbereitenden Tätigkeiten der Berufsgenossenschaften, der
-Unfallversicherungsträger der öffentlichen Hand und der Deutschen
-Gesetzlichen Unfallversicherung e. V. gilt, dass
-
-1.  jeder Unternehmer bei erstmaliger Aufnahme einer unternehmerischen
-    Tätigkeit eine Unternehmernummer erhält,
-
-
-2.  der Unternehmer für die Vergabe der Unternehmernummer die dazu
-    notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
-    Geburtsdatum und die aktuelle Wohnanschrift elektronisch zu
-    übermitteln hat,
-
-
-3.  die Unternehmernummer nach Mitteilung über den Unternehmensbeginn im
-    Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche
-    Unfallversicherung e. V. unverzüglich vergeben wird,
-
-
-4.  die Unternehmer, die bereits eine Unternehmernummer erhalten haben,
-    den Beginn und das Ende eines oder mehrerer weiterer Unternehmen nach
-    § 192 Absatz 1 unter Angabe der Unternehmernummer und der notwendigen
-    Angaben zur Identifizierung des Unternehmens dem zuständigen Träger
-    der Unfallversicherung mitzuteilen haben,
-
-
-5.  in einem Anhang zu der Unternehmernummer die dem Unternehmer
-    zugehörigen Unternehmen numerisch in aufsteigender Folge bezeichnet
-    werden,
-
-
-6.  die Unternehmernummer und die zur Identifizierung des Unternehmens
-    erforderlichen Daten in einem zentralen Dateisystem bei der Deutschen
-    Gesetzlichen Unfallversicherung e. V. gespeichert werden,
-
-
-7.  die Berufsgenossenschaften und die Unfallversicherungsträger der
-    öffentlichen Hand zur Erledigung ihrer gesetzlichen Aufgaben Zugriff
-    auf dieses Dateisystem haben,
-
-
-8.  die Berufsgenossenschaften und die Unfallversicherungsträger der
-    öffentlichen Hand die Unternehmer- und Unternehmensnummern ihrer
-    Mitglieder jeweils in einem gesonderten Mitgliederdateisystem führen.
-
-
-
-Bei Änderungen, die die zum Unternehmer oder zum Unternehmen
-gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend. Das
-Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
-Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.
-in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft in
-Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
-zu genehmigen sind.
 
 
 ### § 225 (weggefallen)

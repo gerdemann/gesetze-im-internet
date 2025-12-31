@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 5 V v. 19.12.2022 I 2432
 
 Änderung durch
-:   Art. 10 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 10 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Aufbau der Identifikationsnummer
@@ -56,13 +56,15 @@ bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen.
 
 
 ## § 4 Löschungsfrist
-[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000401123)
 
-Die beim Bundeszentralamt für Steuern nach § 139b Abs. 3 der
-Abgabenordnung gespeicherten Daten sind zu löschen, wenn sie zur
-Erfüllung der gesetzlichen Aufgaben der Finanzbehörden nicht mehr
-erforderlich sind, spätestens jedoch 20 Jahre nach Ablauf des
-Kalenderjahres, in dem der Steuerpflichtige verstorben ist.
+Die beim Bundeszentralamt für Steuern nach § 139b Absatz 3 und 3a der
+Abgabenordnung gespeicherten Daten sind 20 Jahre nach Ablauf des
+Kalenderjahres zu löschen, in dem die natürliche Person, der die
+Identifikationsnummer erteilt wurde, verstorben ist. Wurde eine
+Identifikationsnummer in einem Besteuerungs- oder Verwaltungsverfahren
+zu Unrecht vergeben, sind die zu ihr nach § 139b Absatz 3 und 3a der
+Abgabenordnung gespeicherten Daten unverzüglich zu löschen.
 
 
 ## § 5 Sicherheit und Funktionsfähigkeit des Verfahrens

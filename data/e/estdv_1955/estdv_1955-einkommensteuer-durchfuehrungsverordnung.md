@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 2 V v. 19.12.2025 I Nr. 372 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 2 V v. 19.12.2025 I Nr. 372 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
@@ -80,12 +80,13 @@ oder der Veräußerung des Betriebs.
 
 
 ### § 8 Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014003301)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014004123)
 
 Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als
-Betriebsvermögen behandelt zu werden, wenn ihr Wert nicht mehr als ein
-Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als
-20\.500 Euro beträgt.
+Betriebsvermögen behandelt zu werden, wenn ihre Größe nicht mehr als
+30 Quadratmeter oder ihr Wert nicht mehr als 40 000 Euro beträgt. In
+diesem Fall dürfen Aufwendungen, die mit dem Grundstücksteil im
+Zusammenhang stehen, nicht abgezogen werden.
 
 
 ### § 8a (weggefallen)
@@ -1226,17 +1227,17 @@ oder ein nachversteuerungspflichtiger Betrag im Sinne von § 34a Absatz
 
 
 ### § 60 Unterlagen zur Steuererklärung
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007511377)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007512123)
 
-(1)
-1Der Steuererklärung ist eine Abschrift der Bilanz, die auf dem
-Zahlenwerk der Buchführung beruht, im Fall der Eröffnung des Betriebs
-auch eine Abschrift der Eröffnungsbilanz beizufügen, wenn der Gewinn
-nach § 4 Abs. 1, § 5 oder § 5a des Gesetzes ermittelt und auf eine
-elektronische Übermittlung nach § 5b Abs. 2 des Gesetzes verzichtet
-wird.
-2Werden Bücher geführt, die den Grundsätzen der doppelten Buchführung
-entsprechen, ist eine Gewinn- und Verlustrechnung beizufügen.
+(1) Der Steuererklärung ist eine Abschrift der Bilanz, der Gewinn- und
+Verlustrechnung jeweils einschließlich der unverdichteten
+Kontennachweise mit Kontensalden sowie der Anlagenspiegel und das
+diesem zugrundeliegende Anlagenverzeichnis, im Fall der Eröffnung des
+Betriebs auch eine Abschrift der Eröffnungsbilanz beizufügen, wenn der
+Gewinn nach § 4 Absatz 1, § 5 oder § 5a des Einkommensteuergesetzes
+ermittelt und auf eine elektronische Übermittlung nach § 5b Absatz 2
+des Einkommensteuergesetzes verzichtet wird. Dies gilt auch für solche
+Bilanzen, die für andere steuerliche Zwecke zu erstellen sind.
 
 (2)
 1Enthält die Bilanz Ansätze oder Beträge, die den steuerlichen
@@ -1247,8 +1248,9 @@ anzupassen.
 entsprechende Bilanz (Steuerbilanz) beifügen.
 
 (3)
-1Liegt ein Anhang, ein Lagebericht oder ein Prüfungsbericht vor, so
-ist eine Abschrift der Steuererklärung beizufügen.
+1Liegt ein Anhang, ein Lagebericht, ein Prüfungsbericht oder ein
+Verzeichnis nach § 5 Absatz 1 Satz 2 des Einkommensteuergesetzes vor,
+so ist eine Abschrift der Steuererklärung beizufügen.
 2Bei der Gewinnermittlung nach § 5a des Gesetzes ist das besondere
 Verzeichnis nach § 5a Abs. 4 des Gesetzes der Steuererklärung
 beizufügen.
@@ -1741,7 +1743,7 @@ einbehalten und abgeführt worden sind.
 
 
 ### § 73e Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009613123)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009614123)
 
 1Der Schuldner hat die innerhalb eines Kalendervierteljahrs
 einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des
@@ -1775,12 +1777,19 @@ steuerpflichtig ist.
 Absatz 7 des Gesetzes mit der Maßgabe, dass
 
 1.  die Steuer an das Finanzamt abzuführen und bei dem Finanzamt
-    anzumelden ist, das den Steuerabzug angeordnet hat, und
+    anzumelden ist, das den Steuerabzug angeordnet hat,
 
 
 2.  bei entsprechender Anordnung die innerhalb eines Monats einbehaltene
     Steuer jeweils bis zum zehnten des Folgemonats anzumelden und
-    abzuführen ist.
+    abzuführen ist und
+
+
+3.  der Schuldner bei Anordnung des Steuerabzugs für Einkünfte im Sinne
+    des § 49 Absatz 1 Nummer 7 und 10 des Einkommensteuergesetzes
+    berechtigt ist, ohne die Angaben im Sinne des Satzes 2 die Höhe der
+    Steuerabzüge für mehrere Gläubiger in einer Summe anzumelden
+    (Sammelanmeldung).
 
 
 
@@ -2218,7 +2227,7 @@ zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
 
 ### § 84 Anwendungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014401123)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014403123)
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -2237,6 +2246,11 @@ letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar
 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239)
 sind letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1.
 Januar 1990 endet.
+
+(1d) § 8 Satz 1 in der am 30. Dezember 2025 geltenden Fassung ist in
+allen offenen Fällen anzuwenden. § 8 Satz 2 in der am 30. Dezember
+2025 geltenden Fassung ist erstmals für Wirtschaftsjahre anzuwenden,
+die nach dem 31. Dezember 2025 beginnen.
 
 (2) § 8c Absatz 2 Satz 1 in der Fassung des Artikels 1 der Verordnung
 vom 25. Juni 2020 (BGBl. I S. 1495) kann erstmals für Wirtschaftsjahre
@@ -2300,12 +2314,17 @@ anzuwenden.
 (Gewinnermittlungszeiträume) anzuwenden, die nach dem 31. Dezember
 2010 beginnen.
 
-(3f) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes
+(3f) § 60 Absatz 1 Satz 1 in der am 30. Dezember 2025 geltenden
+Fassung ist, soweit er sich auf die Übermittlung des
+Anlagenverzeichnisses bezieht, erstmals auf Wirtschaftsjahre
+anzuwenden, die nach dem 31. Dezember 2027 beginnen.
+
+(3g) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes
 vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals auf Verluste
 anzuwenden, die aus dem Veranlagungszeitraum 2004 in den
 Veranlagungszeitraum 2003 zurückgetragen werden.
 
-(3g)
+(3h)
 1§ 65 Absatz 1 in der Fassung des Artikels 10 des Gesetzes vom 2. Juni
 2021 (BGBl. I S. 1259) ist erstmals für den Veranlagungszeitraum 2021
 anzuwenden.
@@ -2327,11 +2346,11 @@ Feststellungen über eine Behinderung werden bis zum Ende ihrer
 Gültigkeit weiter berücksichtigt, es sei denn, die Feststellungen
 ändern sich vor Ablauf der Gültigkeit.
 
-(3h) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli
+(3i) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli
 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014
 anzuwenden.
 
-(3i)
+(3j)
 1Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f Satz 1 in der
 Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S.
 2794) sind erstmals auf Vergütungen anzuwenden, die nach dem 31.
@@ -2353,7 +2372,7 @@ erstmals ab dem 1. Januar 2014 anzuwenden.
 auf Vergütungen anzuwenden, für die der Steuerabzug nach dem 31.
 Dezember 2014 angeordnet worden ist.
 
-(3j) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der
+(3k) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der
 Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist
 letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar
 1999 endet.

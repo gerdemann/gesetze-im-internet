@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 8d G v. 19.7.2024 I Nr. 245
 
 Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 11 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -1343,7 +1343,7 @@ elektronisch zu erfolgen.
 
 
 ##### § 37 Bekanntgabe des Verwaltungsaktes
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005908126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005909126)
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben,
 für den er bestimmt ist oder der von ihm betroffen wird. Ist ein
@@ -1375,7 +1375,7 @@ bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der
 Verwaltungsakt an dem Tag als bekannt gegeben, an dem die
 abrufberechtigte Person den Verwaltungsakt abgerufen hat. Das Gleiche
 gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die
-Benachrichtigung nicht innerhalb von drei Tagen nach der Absendung
+Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung
 erhalten zu haben. Die Möglichkeit einer erneuten Bereitstellung zum
 Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
 
@@ -2378,7 +2378,7 @@ ergibt, schriftlich festzuhalten.
 
 
 #### § 67c Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE018100126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE018101126)
 
 (1) Die Speicherung, Veränderung oder Nutzung von Sozialdaten durch
 die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn sie
@@ -2404,7 +2404,32 @@ genutzt werden, wenn
 
 
 
-(3) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist
+(3) Die in § 35 des Ersten Buches genannten Stellen dürfen die von
+ihnen für einen anderen Zweck erhobenen Sozialdaten auch zum
+Entwickeln, insbesondere zum Trainieren, Validieren und Testen, von
+KI-Modellen und KI-Systemen speichern, verändern oder nutzen, soweit
+die Daten dafür erforderlich sind, die Verwendung von anonymisierten
+Daten zu einer Verfälschung der Verarbeitungsergebnisse führen würde
+und die KI-Modelle und KI-Systeme der Erfüllung einer gesetzlichen
+Aufgabe nach diesem Gesetzbuch durch dieselbe Stelle dienen. Die
+Sozialdaten sind zu pseudonymisieren. Unter den in Satz 1 genannten
+Voraussetzungen dürfen die in § 35 des Ersten Buches genannten Stellen
+auch pseudonymisierte Sozialdaten von anderen in § 35 des Ersten
+Buches genannten Stellen erheben, speichern, verändern oder nutzen,
+soweit diese übermittelten Daten in einem sachlichen Zusammenhang zum
+Aufgabenbereich der erhebenden Stelle stehen. Die nach den Sätzen 1
+bis 3 erhobenen, gespeicherten, veränderten oder genutzten Daten
+dürfen nur für die in Satz 1 genannten Zwecke verwendet werden; die
+Stellen nach den Sätzen 1 und 3 haben die hierfür angemessenen
+technischen und organisatorischen Vorkehrungen, wie technische
+Zugriffsbeschränkungen auf eine begrenzte Anzahl von Mitarbeitern,
+deren besondere Qualifizierung und eine technische Trennung von
+Datenbeständen nach ihren unterschiedlichen Verarbeitungszwecken, zu
+treffen sowie eine angemessene Löschfrist festzulegen. Soweit Daten
+nach Artikel 9 der Verordnung (EU) 2016/679 verarbeitet werden, gilt
+§ 22 Absatz 2 des Bundesdatenschutzgesetzes entsprechend.
+
+(4) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist
 zulässig, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und
 Disziplinarbefugnissen, der Rechnungsprüfung oder der Durchführung von
 Organisationsuntersuchungen für den Verantwortlichen oder für die
@@ -2415,13 +2440,13 @@ für die Veränderung oder Nutzung zu Ausbildungs- und Prüfungszwecken
 durch den Verantwortlichen, soweit nicht überwiegende schutzwürdige
 Interessen der betroffenen Person entgegenstehen.
 
-(4) Sozialdaten, die ausschließlich zu Zwecken der
+(5) Sozialdaten, die ausschließlich zu Zwecken der
 Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines
 ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert
 werden, dürfen nur für diese Zwecke verändert, genutzt und in der
 Verarbeitung eingeschränkt werden.
 
-(5) Für Zwecke der wissenschaftlichen Forschung oder Planung im
+(6) Für Zwecke der wissenschaftlichen Forschung oder Planung im
 Sozialleistungsbereich erhobene oder gespeicherte Sozialdaten dürfen
 von den in § 35 des Ersten Buches genannten Stellen nur für ein
 bestimmtes Vorhaben der wissenschaftlichen Forschung im
@@ -2434,7 +2459,7 @@ bestimmten oder bestimmbaren Person zugeordnet werden können. Sie
 dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der
 Forschungs- oder Planungszweck dies erfordert.
 
-(6) Die Speicherung und Nutzung der Identifikationsnummer nach dem
+(7) Die Speicherung und Nutzung der Identifikationsnummer nach dem
 Identifikationsnummerngesetz ist ausschließlich zum Zweck der
 eindeutigen Zuordnung der betroffenen Person bei der Erbringung von
 Verwaltungsleistungen nach dem Onlinezugangsgesetz zulässig sowie zur
@@ -2632,7 +2657,7 @@ Prüfung der Zulässigkeit der Übermittlung besteht.
 
 
 #### § 69 Übermittlung für die Erfüllung sozialer Aufgaben
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009110126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009111126)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist
@@ -2646,13 +2671,17 @@ erforderlich ist
 
 2.  für die Durchführung eines mit der Erfüllung einer Aufgabe nach Nummer
     1 zusammenhängenden gerichtlichen Verfahrens einschließlich eines
-    Strafverfahrens oder
+    Strafverfahrens,
 
 
 3.  für die Richtigstellung unwahrer Tatsachenbehauptungen der betroffenen
     Person im Zusammenhang mit einem Verfahren über die Erbringung von
     Sozialleistungen; die Übermittlung bedarf der vorherigen Genehmigung
-    durch die zuständige oberste Bundes- oder Landesbehörde.
+    durch die zuständige oberste Bundes- oder Landesbehörde oder
+
+
+4.  für das Entwickeln von KI-Modellen und KI-Systemen unter den
+    Voraussetzungen des § 67c Absatz 3 Satz 3 bis 5.
 
 
 
@@ -2701,7 +2730,7 @@ zulässig.
 
 (5) Die Übermittlung von Sozialdaten ist zulässig für die Erfüllung
 der gesetzlichen Aufgaben der Rechnungshöfe und der anderen Stellen,
-auf die § 67c Absatz 3 Satz 1 Anwendung findet.
+auf die § 67c Absatz 4 Satz 1 Anwendung findet.
 
 
 #### § 70 Übermittlung für die Durchführung des Arbeitsschutzes
@@ -2717,7 +2746,7 @@ Geheimhaltungsinteresse der betroffenen Person erheblich überwiegt.
 
 
 #### § 71 Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017151126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017152126)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für die Erfüllung der gesetzlichen
@@ -2858,8 +2887,9 @@ zulässig, soweit sie erforderlich ist
 
 
 
-2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes
-    bezeichneten Mitteilungspflichten,
+2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes oder in
+    § 11 Absatz 7 des Freizügigkeitsgesetzes/EU bezeichneten
+    Mitteilungspflichten,
 
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j
@@ -3952,13 +3982,9 @@ Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser
 Stellen zulässig.
 
 
-#### § 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017301119)
+#### § 83a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017302126)
 
-Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der
-Verordnung (EU) 2016/679 meldet die in § 35 des Ersten Buches genannte
-Stelle die Verletzung des Schutzes von Sozialdaten auch der Rechts-
-oder Fachaufsichtsbehörde.
 
 
 #### § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
@@ -4012,7 +4038,7 @@ eine Rechtsvorschrift zur Verarbeitung von Sozialdaten verpflichtet.
 
 
 #### § 85 Strafvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010706119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010707126)
 
 (1) Für Sozialdaten gelten die Strafvorschriften des § 42 Absatz 1 und
 2 des Bundesdatenschutzgesetzes entsprechend.
@@ -4022,28 +4048,28 @@ betroffene Person, der Verantwortliche, der oder die Bundesbeauftragte
 oder die nach Landesrecht für die Kontrolle des Datenschutzes
 zuständige Stelle.
 
-(3) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
-2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
-Verordnung (EU) 2016/679 dürfen in einem Strafverfahren gegen die
-melde- oder benachrichtigungspflichtige Person oder gegen einen ihrer
-in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur
-mit Zustimmung der melde- oder benachrichtigungspflichtigen Person
+(3) Eine Meldung nach Artikel 33 der Verordnung (EU) 2016/679 oder
+eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU)
+2016/679 dürfen in einem Strafverfahren gegen die melde- oder
+benachrichtigungspflichtige Person oder gegen einen ihrer in § 52
+Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur mit
+Zustimmung der melde- oder benachrichtigungspflichtigen Person
 verwendet werden.
 
 
 #### § 85a Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016306119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016307126)
 
 (1) Für Sozialdaten gilt § 41 des Bundesdatenschutzgesetzes
 entsprechend.
 
-(2) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
-2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
-Verordnung (EU) 2016/679 dürfen in einem Verfahren nach dem Gesetz
-über Ordnungswidrigkeiten gegen die melde- oder
-benachrichtigungspflichtige Person oder einen ihrer in § 52 Absatz 1
-der Strafprozessordnung bezeichneten Angehörigen nur mit Zustimmung
-der melde- oder benachrichtigungspflichtigen Person verwendet werden.
+(2) Eine Meldung nach Artikel 33 der Verordnung (EU) 2016/679 oder
+eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU)
+2016/679 dürfen in einem Verfahren nach dem Gesetz über
+Ordnungswidrigkeiten gegen die melde- oder benachrichtigungspflichtige
+Person oder einen ihrer in § 52 Absatz 1 der Strafprozessordnung
+bezeichneten Angehörigen nur mit Zustimmung der melde- oder
+benachrichtigungspflichtigen Person verwendet werden.
 
 (3) Gegen Behörden und sonstige öffentliche Stellen werden keine
 Geldbußen verhängt.

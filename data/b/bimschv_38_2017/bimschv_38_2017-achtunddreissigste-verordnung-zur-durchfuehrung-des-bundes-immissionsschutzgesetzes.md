@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 18.12.2025 I Nr. 347
 
 Änderung durch
-:   Art. 2 V v. 23.12.2025 I Nr. 367 noch nicht berücksichtigt
+:   Art. 2 V v. 23.12.2025 I Nr. 367 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des

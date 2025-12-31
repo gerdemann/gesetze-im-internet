@@ -26,10 +26,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 362 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 362 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 13 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
@@ -8218,7 +8218,7 @@ einer Leistung entschieden.
 
 
 #### § 150 Dateisysteme bei der Datenstelle
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025432126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025434130)
 
 (1) Bei der Datenstelle darf eine Stammsatzdatei geführt werden,
 soweit dies erforderlich ist, um
@@ -8373,6 +8373,12 @@ Grundsätzen. Die gemeinsamen Grundsätze werden vom Bundesministerium
 für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
 Finanzen genehmigt.
 
+(3a) Die Datenstelle ist berechtigt, der Zentralstelle im Sinne des §
+24 des Schwarzarbeitsbekämpfungsgesetzes alle erforderlichen Daten aus
+der Datenbank nach Absatz 3 zur Erfüllung der Aufgaben der
+Zentralstelle nach § 26 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes
+zu übermitteln.
+
 (4) Bei der Datenstelle darf zu den gesetzlich bestimmten
 Dateisystemen jeweils ein weiteres Dateisystem geführt werden, soweit
 dies erforderlich ist, um die Ausführung des Datenschutzes,
@@ -8384,8 +8390,11 @@ Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148
 Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund,
 soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz
 durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben
-nach § 2 des Schwarzarbeitsbekämpfungsgesetzes durchführen, und den
-Unternehmen der privaten Krankenversicherung, der
+nach § 2 oder § 25 des Schwarzarbeitsbekämpfungsgesetzes durchführen
+oder Straftaten oder Ordnungswidrigkeiten verfolgen, die im
+Zusammenhang mit einem der in § 2 Absatz 1 des
+Schwarzarbeitsbekämpfungsgesetzes genannten Prüfgegenstände stehen,
+und den Unternehmen der privaten Krankenversicherung, der
 Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
 der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den
 Trägern der freien Heilfürsorge, soweit sie Krankenversichertennummern
@@ -22083,7 +22092,7 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ### § 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053607308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053608130)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Rentenversicherungsträger im Rahmen der Prüfung bei den Arbeitgebern
@@ -22101,10 +22110,12 @@ Anhaltspunkte für
 
 
 2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne den
-    erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des
-    Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die
-    zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach
-    § 284 Abs. 1 des Dritten Buches,
+    erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des
+    Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz
+    5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
+    Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -22126,7 +22137,17 @@ Anhaltspunkte für
 6.  Verstöße gegen die Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 
 
