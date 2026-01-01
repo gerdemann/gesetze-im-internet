@@ -1868,7 +1868,7 @@ Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
 
 
 ### § 17a Finanzierung von Ausbildungskosten
-[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004220116)
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004221130)
 
 (1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n
 genannten mit den Krankenhäusern notwendigerweise verbundenen
@@ -1879,20 +1879,13 @@ Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu
 den pflegesatzfähigen Kosten gehören und nicht nach anderen
 Vorschriften aufzubringen sind (Ausbildungskosten); der von dem
 jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu
-bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3
-nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der
-Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die
-im in § 2 Nummer 1a Buchstabe g genannten Bereich der Pflegehilfe und
-‑assistenz ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung
-im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person
-nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den
-Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der
-Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den
-Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1
-gehören auch die Kosten der berufspraktischen Ausbildung von
-Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen
-oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2
-des Hebammengesetzes.
+bringen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die
+Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des
+Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der
+Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen
+Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete
+Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1
+Satz 1 Nummer 2 des Hebammengesetzes.
 
 (2) Mit dem Ziel, eine sachgerechte Finanzierung sicherzustellen,
 schließen
@@ -2104,7 +2097,7 @@ sind.
 
 
 ### § 17b Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004336130)
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004337130)
 
 (1) Für die Vergütung der allgemeinen Krankenhausleistungen gilt ein
 durchgängiges, leistungsorientiertes und pauschalierendes
@@ -2425,9 +2418,7 @@ der folgenden Berufsgruppen zu berücksichtigen sind:
         Helferberufen in der Pflege (BAnz AT 17.02.2016 B3) erfüllt,
 
 
-    b)  Personen, die erfolgreich eine landesrechtlich geregelte Ausbildung in
-        der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens
-        einjähriger Dauer abgeschlossen haben,
+    b)  (weggefallen)
 
 
     c)  Personen, denen auf der Grundlage des Krankenpflegegesetzes in der am
@@ -2443,9 +2434,9 @@ der folgenden Berufsgruppen zu berücksichtigen sind:
 
 
     e)  Anästhesietechnische Assistentinnen und Anästhesietechnische
-        Assistenten, die über die Erlaubnis zum Führen der Berufsbezeichnung
-        nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-
-        Assistenten-Gesetzes verfügen, und
+        Assistenten, denen die Erlaubnis zum Führen der Berufsbezeichnung nach
+        § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-
+        Assistenten-Gesetzes erteilt worden ist,
 
 
     f)  Notfallsanitäterinnen und Notfallsanitäter, denen die Erlaubnis zum
@@ -2470,8 +2461,8 @@ der folgenden Berufsgruppen zu berücksichtigen sind:
 
 
 5.  als Pflegekräfte im Anerkennungsverfahren Personen, die eine
-    Anpassungsmaßnahme nach § 40 Absatz 3 Satz 2 oder § 41 Absatz 2 Satz 4
-    oder Absatz 3 Satz 2 des Pflegeberufegesetzes absolvieren.
+    Anpassungsmaßnahme nach § 40 Absatz 3 Satz 2 oder § 41 Absatz 2 Satz 2
+    des Pflegeberufegesetzes absolvieren.
 
 
 

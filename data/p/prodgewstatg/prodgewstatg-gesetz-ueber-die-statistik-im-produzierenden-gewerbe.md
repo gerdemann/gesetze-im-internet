@@ -35,6 +35,24 @@ Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische
 Erhebungen als Bundesstatistik durchgeführt.
 
 
+## § 1a Auswahl der Berichtseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE002300128)
+
+Die Auswahl der Berichtseinheiten für die Erhebungen nach diesem
+Gesetz erfolgt auf Grundlage der Klassifizierungen des Anhangs I der
+Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen
+Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige. Für
+Berichtszeiträume ab dem 1. Januar 2025 gilt die Klassifikation der
+Wirtschaftszweige 2025. Abweichend von Satz 2 gilt für die Erhebungen
+nach § 4 Buchstabe A Ziffer III, Buchstabe B und C Ziffer I Nummer 2
+und Ziffer II für die Berichtszeiträume bis zum Ablauf des 31.
+Dezember 2026 und für die Erhebungen nach den §§ 2 und 3 Buchstabe A
+Ziffer I und II, § 4 Buchstabe A Ziffer I und II, Buchstabe C Ziffer I
+Nummer 1, § 6 Buchstabe A und § 6a Buchstabe A für die
+Berichtszeiträume bis zum Ablauf des 31. Dezember 2027 die
+Klassifikation der Wirtschaftszweige 2008.
+
+
 ## 1. Abschnitt - Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe
 [Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNG000102377)
 
@@ -852,11 +870,9 @@ Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für
 Sonderaufbereitungen des Bundes.
 
 
-### § 12 Übergangsregelung
-[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001603377)
+### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001604128)
 
-Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird
-erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
 
 
 ### § 13 (Änderung von Rechtsvorschriften)

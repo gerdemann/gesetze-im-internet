@@ -51,22 +51,22 @@ Diese Verordnung gilt für die Personalakten
 
 
 ## § 2 Grundakte, Teilakten, Nebenakten
-[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000201310)
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000202311)
 
 (1) Die Personalakte ist nach sachlichen und organisatorischen
 Gesichtspunkten in Grundakte, Teilakten und Nebenakten gegliedert.
 
 (2) Die Grundakte enthält den Antrag auf Anerkennung als
-Kriegsdienstverweigerin oder Kriegsdienstverweigerer mit der
-Personalakte nach § 2 Abs. 6 des Kriegsdienstverweigerungsgesetzes,
-den das Kreiswehrersatzamt nach dieser Vorschrift dem Bundesamt
-zugeleitet hat. Die Grundakte wird von der für die Anerkennung als
-Kriegsdienstverweigerin oder Kriegsdienstverweigerer zuständigen
-Arbeitseinheit des Bundesamtes geführt und ist während der Dauer des
-Anerkennungsverfahrens nur dem für die Bearbeitung des Antrages
-zuständigen Personal zugänglich. Ist die Anerkennung unanfechtbar,
-wird der Anerkennungsbescheid zur Grundakte genommen und diese der für
-die Durchführung des Zivildienstes zuständigen Arbeitseinheit des
+Kriegsdienstverweigerin oder Kriegsdienstverweigerer, den das
+Bundesamt für das Personalmanagement der Bundeswehr zusammen mit der
+Personalakte dem Bundesamt nach § 2 Absatz 6 des
+Kriegsdienstverweigerungsgesetzes zugeleitet hat. Die Grundakte wird
+von der für die Anerkennung als Kriegsdienstverweigerin oder
+Kriegsdienstverweigerer zuständigen Arbeitseinheit des Bundesamtes
+geführt und ist während der Dauer des Anerkennungsverfahrens nur dem
+für die Bearbeitung des Antrages zuständigen Personal zugänglich. Ist
+die Anerkennung unanfechtbar, so wird die Grundakte der für die
+Durchführung des Zivildienstes zuständigen Arbeitseinheit des
 Bundesamtes zugeleitet.
 
 (3) In die Grundakte ist ein Verzeichnis der Teilakten und Nebenakten
@@ -280,7 +280,7 @@ Datenträger gespeicherten Personalunterlagen erfüllt sind.
 
 
 ## § 9 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
-[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000901310)
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000902311)
 
 (1) Personenbezogene Daten dürfen nur für Zwecke der Durchführung des
 Zivildienstgesetzes und des Kriegsdienstverweigerungsgesetzes sowie
@@ -291,11 +291,11 @@ genutzt werden.
 (2) Bei erstmaliger Speicherung personenbezogener Daten ist die oder
 der Betroffene von der Art der gespeicherten Daten zu benachrichtigen.
 Dies geschieht durch Übersendung eines Merkblattes durch das
-zuständige Kreiswehrersatzamt bei Erteilung der Nachricht über die
-Abgabe der Antragsunterlagen an das Bundesamt oder durch Aushändigung
-des Merkblattes durch das Bundesamt nach Eintritt der Unanfechtbarkeit
-der Anerkennung als Kriegsdienstverweigerin oder
-Kriegsdienstverweigerer.
+zuständige Bundesamt für das Personalmanagement der Bundeswehr bei
+Erteilung der Nachricht über die Abgabe der Antragsunterlagen an das
+Bundesamt oder durch Aushändigung des Merkblattes durch das Bundesamt
+nach Eintritt der Unanfechtbarkeit der Anerkennung als
+Kriegsdienstverweigerin oder Kriegsdienstverweigerer.
 
 (3) Das Bundesamt übersendet Zivildienstpflichtigen und sonstigen
 Personen, die einen Antrag nach § 2 des
@@ -320,14 +320,14 @@ zu § 9 Satz 1 des Bundesdatenschutzgesetzes.
 
 
 ## § 11 Übermittlung personenbezogener Daten durch das Bundesamt
-[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001101310)
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001102311)
 
 (1) Das Bundesamt übermittelt die Entscheidung über den Antrag einer
 Reservistin oder eines Wehrpflichtigen auf Anerkennung als
 Kriegsdienstverweigerin oder Kriegsdienstverweigerer an das zuständige
-Kreiswehrersatzamt. Bei Soldatinnen und Wehrpflichtigen, die Soldaten
-sind, ist die Entscheidung über den Antrag der oder dem
-Disziplinarvorgesetzten zu übermitteln.
+Bundesamt für das Personalmanagement der Bundeswehr. Bei Soldatinnen
+und Wehrpflichtigen, die Soldaten sind, ist die Entscheidung über den
+Antrag der oder dem Disziplinarvorgesetzten zu übermitteln.
 
 (2) Das Bundesamt übermittelt personenbezogene Daten eines
 Zivildienstpflichtigen, den es zum Zivildienst heranzieht, an die
@@ -428,7 +428,7 @@ löschen.
 
 
 ## § 13 Akteneinsicht
-[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001301310)
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001302311)
 
 (1) Zivildienstpflichtige und sonstige Personen, die einen Antrag nach
 § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, können auch
@@ -441,12 +441,12 @@ gemacht wird. Für Auskünfte aus der Personalakte gelten die Sätze 2
 und 3 entsprechend.
 
 (2) Die Akteneinsicht kann im Bundesamt, in dem zum Wohnort der oder
-des Einsicht Verlangenden nächstgelegenen Kreiswehrersatzamt oder in
-einer Zivildienstgruppe erfolgen. Eine Versendung an die oder den
-Einsicht Verlangenden erfolgt nicht. Einer bevollmächtigten
-Rechtsanwältin oder einem bevollmächtigten Rechtsanwalt kann die Akte
-zugesandt werden. Eine Versendung von Akten ins Ausland ist nicht
-zulässig.
+des Einsicht Verlangenden nächstgelegenen Bundesamt für das
+Personalmanagement der Bundeswehr oder in einer Zivildienstgruppe
+erfolgen. Eine Versendung an die oder den Einsicht Verlangenden
+erfolgt nicht. Einer bevollmächtigten Rechtsanwältin oder einem
+bevollmächtigten Rechtsanwalt kann die Akte zugesandt werden. Eine
+Versendung von Akten ins Ausland ist nicht zulässig.
 
 (3) Die Fertigung von Kopien oder Abschriften durch den Antragsteller
 ist zulässig, soweit dienstliche Gründe nicht entgegenstehen.

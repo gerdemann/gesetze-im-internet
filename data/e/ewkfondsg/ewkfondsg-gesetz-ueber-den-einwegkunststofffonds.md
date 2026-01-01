@@ -602,14 +602,16 @@ entsprechend anzuwenden.
 
 
 ### § 14 Festlegung der Abgabesätze, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001401130)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
 und Verbraucherschutz hat nach Anhörung der beteiligten Kreise ohne
 Zustimmung des Bundesrates durch Rechtsverordnung bis zum 31. Dezember
 2023 den Abgabesatz für jede Art eines Einwegkunststoffproduktes nach
 Anlage 1 in Euro pro Kilogramm nach Maßgabe von Anlage 2 festzulegen.
-§ 68 des Kreislaufwirtschaftsgesetzes gilt entsprechend.
+§ 68 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Der
+Abgabesatz für Feuerwerkskörper ist entsprechend den Sätzen 1 und 2
+bis zum 31. Dezember 2026 festzulegen.
 
 (2) Bei der Festlegung der Abgabesätze sind das Kostendeckungsgebot,
 das Kostenüberschreitungsverbot, der Grundsatz der Kosteneffizienz und
@@ -1149,22 +1151,28 @@ Zielerreichung. Im Rahmen der Evaluierung ist insbesondere zu
 
 
 ### § 29 Übergangsvorschrift
-[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002900000)
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002901130)
 
-(1) Die Feststellung der Einnahmen und Ausgaben durch die
-Jahresübersicht gemäß § 6 Absatz 1 und die Veröffentlichung gemäß § 6
-Absatz 2 erfolgen erstmals für das Haushaltsjahr 2025.
+(1) Hersteller von Feuerwerkskörpern, die ihre Tätigkeit bereits vor
+dem 1. Januar 2026 aufgenommen haben, haben sich bis zum 31. Dezember
+2026 gemäß § 7 beim Umweltbundesamt registrieren zu lassen.
 
-(2) Hersteller, die ihre Tätigkeit bereits vor dem Inkrafttreten von §
-7 Absatz 1 aufgenommen haben, haben sich bis zum 31. Dezember 2024
-beim Umweltbundesamt registrieren zu lassen.
+(2) Für Feuerwerkskörper findet § 9 erst ab dem 1. Januar 2027
+Anwendung.
 
-(3) Hersteller, die nicht im Geltungsbereich dieses Gesetzes
-niedergelassen sind und ihre Tätigkeit bereits vor dem Inkrafttreten
-von § 10 Absatz 1 aufgenommen haben, haben bis zum 31. Dezember 2024
-einen Bevollmächtigten zu beauftragen, der die Pflichten des
-Herstellers, mit Ausnahme der Registrierung nach § 7 Absatz 1 und der
-jährlichen Meldung nach § 11 Absatz 1, erfüllt.
+(3) Hersteller von Feuerwerkskörpern, die nicht im Geltungsbereich
+dieses Gesetzes niedergelassen sind und ihre Tätigkeit bereits vor dem
+1\. Januar 2026 aufgenommen haben, haben bis zum 31. Dezember 2026
+gemäß § 10 einen Bevollmächtigten zu beauftragen.
+
+(4) Hersteller von Feuerwerkskörpern haben die jährliche Datenmeldung
+nach § 11 erstmals bis zum 15. Mai 2028 vorzunehmen.
+
+(5) Hersteller von Feuerwerkskörpern haben die Einwegkunststoffabgabe
+nach § 12 erstmals für das Kalenderjahr 2027 zu entrichten.
+
+(6) Die Festsetzung der Einwegkunststoffabgabe für Feuerwerkskörper
+nach § 13 Absatz 1 hat erstmals 2028 zu erfolgen.
 
 
 ### § 30 (weggefallen)
@@ -1178,9 +1186,10 @@ zu den §§ 9, 10 Absatz 4, zu § 11 Absatz 1 Satz 1, Absatz 2 und Absatz
 Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
 
 ### Anlage 1 Liste der Einwegkunststoffprodukte
-[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003100000)
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003101130)
 
-(Fundstelle: BGBl. 2023 I Nr. 123, S. 13)
+(Fundstelle: BGBl. 2023 I Nr. 123, S. 13;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1244,10 +1253,14 @@ Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
     Verbraucher abgegeben werden;
 
 
-8.[^F825820_03_BJNR07C0B0023BJNE003100000]
+8.[^F825820_03_BJNR07C0B0023BJNE003101130]
   Tabakprodukte
     mit Filtern sowie Filter, die zur Verwendung in Kombination mit
-    Tabakprodukten vorgesehen sind.
+    Tabakprodukten vorgesehen sind;
+
+
+9.  Feuerwerkskörper im Sinne von § 3 Absatz 1 Nummer 4 des
+    Sprengstoffgesetzes.
 
 
 
@@ -1258,13 +1271,14 @@ Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
     Mitgliedstaaten über die Herstellung, die Aufmachung und den Verkauf
     von Tabakerzeugnissen und verwandten Erzeugnissen und zur Aufhebung
     der Richtlinie 2001/37/EG (ABl. L 127 vom 29.4.2014, S. 1).
-[^F825820_03_BJNR07C0B0023BJNE003100000]: 
+[^F825820_03_BJNR07C0B0023BJNE003101130]: 
 (zu den §§ 12, 14 Absatz 1 Satz 1)
 
 ### Anlage 2 Kostentragung nach Produktart
-[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003200000)
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003201130)
 
-(Fundstelle: BGBl. 2023 I Nr. 123, S. 14)
+(Fundstelle: BGBl. 2023 I Nr. 123, S. 14;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1392,6 +1406,18 @@ Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
 
     *   X
 
+    *   X
+
+    *   X
+
+    *   X
+
+    *   X
+
+
+*    *   Feuerwerkskörper (Anlage 1 Nummer 9)
+
+    *
     *   X
 
     *   X

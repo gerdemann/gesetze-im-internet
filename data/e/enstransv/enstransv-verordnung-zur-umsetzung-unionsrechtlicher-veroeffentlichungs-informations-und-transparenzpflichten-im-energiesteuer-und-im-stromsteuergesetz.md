@@ -529,7 +529,7 @@ Die datenschutzrechtlichen Betroffenenrechte bleiben unberührt.
 
 
 ### § 15 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001801123)
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001802123)
 
 (1) Ordnungswidrig im Sinne des § 66c Absatz 1 des
 Energiesteuergesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -544,10 +544,10 @@ Energiesteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 
 
 
-(2) Ordnungswidrig im Sinne des § 14 Absatz 1 des Stromsteuergesetzes
-handelt, wer vorsätzlich oder leichtfertig eine in Absatz 1
-bezeichnete Handlung in Bezug auf eine Steuerbegünstigung nach dem
-Stromsteuergesetz begeht.
+(2) Ordnungswidrig im Sinne des § 14 Absatz 1 Nummer 2 des
+Stromsteuergesetzes handelt, wer vorsätzlich oder leichtfertig eine in
+Absatz 1 bezeichnete Handlung in Bezug auf eine Steuerbegünstigung
+nach dem Stromsteuergesetz begeht.
 
 
 ### § 16 Steueraufsicht
@@ -565,18 +565,21 @@ Steuerbegünstigungen ab dem 1. Juli 2016.
 
 
 ### Anlage (zu § 2 Absatz 1)
-[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001703123)
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001704123)
 
-(Fundstelle: BGBl. 2023 I Nr. 367, 3 – 4)
+(Fundstelle: BGBl. 2025 I Nr. 340, 33 – 34)
 
 Steuerbegünstigungen im Sinne dieser Verordnung sind
 
 1.  die Steuerbefreiungen nach
 
-    a)  § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
+    a)  § 28 Absatz 2 des Energiesteuergesetzes,
 
 
-    b)  § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
+    b)  § 9 Absatz 1 Nummer 1 des Stromsteuergesetzes und
+
+
+    c)  § 9 Absatz 1 Nummer 3 des Stromsteuergesetzes;
 
 
 
@@ -616,7 +619,7 @@ Steuerbegünstigungen im Sinne dieser Verordnung sind
     f)  § 56 des Energiesteuergesetzes,
 
 
-    g)  § 57 Absatz 5 Nummer 1 des Energiesteuergesetzes,
+    g)  § 57 des Energiesteuergesetzes,
 
 
     h)  § 9b des Stromsteuergesetzes,

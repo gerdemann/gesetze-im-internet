@@ -1324,7 +1324,7 @@ Veranlagungszeitraum der Verlustentstehung zueinander stehen.
 
 
 ### § 64 Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014104123)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014105123)
 
 (1) Den Nachweis der Zwangsläufigkeit von Aufwendungen im
 Krankheitsfall hat der Steuerpflichtige zu erbringen:
@@ -1388,9 +1388,9 @@ Krankheitsfall hat der Steuerpflichtige zu erbringen:
 Steuerpflichtigen die für steuerliche Zwecke erforderlichen
 Gesundheitszeugnisse, Gutachten oder Bescheinigungen auszustellen.
 
-(3) Für den Nachweis der Anspruchsvoraussetzungen zur
-behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des §
-65 anzuwenden.
+(3) Für den Nachweis der Zwangsläufigkeit von behinderungsbedingt
+entstandenen Aufwendungen und der Anspruchsvoraussetzungen zur
+behinderungsbedingten Fahrtkostenpauschale ist § 65 anzuwenden.
 
 
 ## - - Zu § 33b des Gesetzes
@@ -1399,7 +1399,7 @@ behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des §
 
 
 ### § 65 Nachweis der Behinderung und des Pflegegrads
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008115123)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008116123)
 
 (1) Den Nachweis einer Behinderung hat der Steuerpflichtige zu
 erbringen:
@@ -1456,25 +1456,28 @@ Antrag auf Lohnsteuerermäßigung, ansonsten auf Anforderung des
 Finanzamts vorzulegen.
 
 (3a)
-1Die Gewährung des Behinderten-Pauschbetrags setzt voraus, dass die
-für die Feststellung einer Behinderung zuständige Stelle als
-mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach
-den Absätzen 1 und 2 nach Maßgabe des § 93c der Abgabenordnung an die
-für die Besteuerung des Antragstellers zuständige Finanzbehörde
+1Die Berücksichtigung des Behinderten-Pauschbetrags aufgrund der nach
+§ 152 Absatz 1 des Neunten Buches Sozialgesetzbuch festgestellten
+Behinderung setzt voraus, dass die für die Feststellung einer
+Behinderung zuständige Stelle als mitteilungspflichtige Stelle ihre
+Feststellungen zur Behinderung nach den Absätzen 1 und 2 auf Antrag
+der Person, für die die Feststellungen getroffen werden (betroffene
+Person), nach Maßgabe des § 93c der Abgabenordnung an die für die
+Besteuerung der betroffenen Person zuständige Finanzbehörde
 übermittelt hat.
-2Die nach Satz 1 mitteilungspflichtige Stelle hat ihre Feststellungen
-auf schriftlichen oder elektronischen Antrag derjenigen Person, die
-diese Feststellungen begehrt, an die nach Satz 1 zuständige
-Finanzbehörde zu übermitteln.
-3Die Person hat der mitteilungspflichtigen Stelle zu diesem Zweck ihre
-Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen.
+2Satz 1 gilt auch, wenn die Feststellung einer Behinderung nach den
+Absätzen 1 und 2 geändert wird.
+3Abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung hat die
+mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach
+den Absätzen 1 und 2 unverzüglich zu übermitteln.
 4Neben den nach § 93c Absatz 1 der Abgabenordnung zu übermittelnden
 Daten sind zusätzlich folgende Daten zu übermitteln:
 
-1.  der Grad der Behinderung,
+1.  der Grad der Behinderung
 
 
-2.  die Feststellung weiterer gesundheitlicher Merkmale (Merkzeichen):
+2.  die Feststellung weiterer gesundheitlicher Merkmale, die mit den
+    folgenden Merkzeichen gekennzeichnet sind:
 
     a)  G (erheblich gehbehindert),
 
@@ -1491,34 +1494,51 @@ Daten sind zusätzlich folgende Daten zu übermitteln:
     e)  Bl (blind),
 
 
-    f)  Gl (gehörlos),
+    f)  TBl (taubblind),
 
 
 
 
 
-3.  die Feststellung, dass die Behinderung zu einer dauernden Einbuße der
-    körperlichen Beweglichkeit geführt hat,
+3.  das Datum des Eingangs des Antrags auf Feststellung einer Behinderung,
 
 
-4.  die Feststellung, dass die Behinderung auf einer typischen
-    Berufskrankheit beruht,
+4.  das Datum des Bescheides über die jeweilige Feststellung einer
+    Behinderung,
 
 
-5.  die Einstufung als pflegebedürftige Person mit schwersten
-    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten in den
-    Pflegegraden 4 oder 5,
-
-
-6.  die Dauer der Gültigkeit der Feststellung.
+5.  die Dauer der Gültigkeit der jeweiligen Feststellung einer Behinderung
+    nach Nummer 1 und 2.
 
 
 
-5Die mitteilungspflichtige Stelle hat jede Änderung der Feststellungen
-nach Satz 4 abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung
-unverzüglich zu übermitteln.
-6§ 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4 sowie § 203a der
-Abgabenordnung finden keine Anwendung.
+5Die betroffene Person hat der mitteilungspflichtigen Stelle zu diesem
+Zweck ihre Identifikationsnummer (§ 139b der Abgabenordnung)
+mitzuteilen.
+6Ist in Härtefällen der mitteilungspflichtigen Stelle die
+Identifikationsnummer nicht bekannt, kann sie diese beim
+Bundeszentralamt für Steuern anfragen.
+7In der Anfrage dürfen nur die in § 139b Absatz 3 der Abgabenordnung
+genannten Daten der betroffenen Person angegeben werden, die der
+mitteilungspflichtigen Stelle bekannt sind.
+8Das Bundeszentralamt für Steuern teilt der mitteilungspflichtigen
+Stelle die Identifikationsnummer mit, sofern die übermittelten Daten
+mit den nach § 139b Absatz 3 der Abgabenordnung beim Bundeszentralamt
+für Steuern gespeicherten Daten übereinstimmen.
+9Die mitteilungspflichtige Stelle darf die Identifikationsnummer nur
+verarbeiten, soweit dies für die Erfüllung der Übermittlung
+erforderlich ist.
+10§ 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4 sowie § 203a
+der Abgabenordnung finden keine Anwendung.
+11Die betroffene Person kann ihren Antrag nach Satz 1 gegenüber der
+mitteilungspflichtigen Stelle mit Wirkung für die Zukunft widerrufen;
+die mitteilungspflichtige Stelle hat dies der für die Besteuerung der
+betroffenen Person zuständigen Finanzbehörde nach Maßgabe des § 93c
+der Abgabenordnung unter Angabe des Datums des Eingangs des Widerrufs
+unverzüglich mitzuteilen.
+12Ab dem Veranlagungszeitraum, der dem Veranlagungszeitraum des
+Widerrufs folgt, liegen die Voraussetzungen zur Berücksichtigung des
+Behinderten-Pauschbetrags nicht mehr vor.
 
 (4)
 1Ist der Mensch mit Behinderungen verstorben und kann sein
@@ -2227,7 +2247,7 @@ zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
 
 ### § 84 Anwendungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014403123)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014500123)
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -2328,23 +2348,23 @@ Veranlagungszeitraum 2003 zurückgetragen werden.
 1§ 65 Absatz 1 in der Fassung des Artikels 10 des Gesetzes vom 2. Juni
 2021 (BGBl. I S. 1259) ist erstmals für den Veranlagungszeitraum 2021
 anzuwenden.
-2§ 65 Absatz 3a ist erstmals für den Veranlagungszeitraum anzuwenden,
-der auf den Veranlagungszeitraum folgt, in dem die für die Anwendung
-erforderlichen Programmierarbeiten für das elektronische
-Datenübermittlungsverfahren abgeschlossen sind.
-3Das Bundesministerium der Finanzen gibt im Einvernehmen mit den
-obersten Finanzbehörden der Länder im Bundessteuerblatt Teil I den
-Veranlagungszeitraum bekannt, ab dem die Regelung des § 65 Absatz 3a
-erstmals anzuwenden ist.
+2§ 65 Absatz 3a ist erstmals zum 1. Januar 2026 anzuwenden.
+3Vor diesem Zeitpunkt bereits ausgestellte Ausweise nach dem Neunten
+Buch Sozialgesetzbuch oder noch gültige Bescheide der nach § 152
+Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen Behörde
+werden weiter berücksichtigt, es sei denn, die Feststellungen ändern
+sich vor Ablauf der Gültigkeit.
 4Mit der Anwendung von § 65 Absatz 3a ist § 65 Absatz 1 Nummer 1 und 2
-Buchstabe a, Absatz 2 Satz 1 und 2 zweiter Halbsatz nicht weiter
-anzuwenden.
+Buchstabe a und Absatz 2 Satz 1 nicht weiter anzuwenden mit Ausnahme
+für den Nachweis der Zwangsläufigkeit von behinderungsbedingt
+entstandenen Aufwendungen und der Anspruchsvoraussetzungen zur
+behinderungsbedingten Fahrtkostenpauschale (§ 64 Absatz 3).
 5Der Anwendungsbereich des § 65 Absatz 3 wird auf die Fälle des § 65
 Absatz 1 Nummer 2 Buchstabe b beschränkt.
-6Zu diesem Zeitpunkt noch gültige und dem Finanzamt vorliegende
-Feststellungen über eine Behinderung werden bis zum Ende ihrer
-Gültigkeit weiter berücksichtigt, es sei denn, die Feststellungen
-ändern sich vor Ablauf der Gültigkeit.
+6§ 65 Absatz 3 gilt weiterhin auch im Fall der Übertragung des einem
+Kind zustehenden Behinderten-Pauschbetrags (§ 33b Absatz 5 Satz 1 des
+Gesetzes), wenn das Kind nicht nach einem Steuergesetz steuerpflichtig
+ist (§ 32 Absatz 6 Satz 13 des Gesetzes).
 
 (3i) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli
 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014

@@ -2140,7 +2140,7 @@ unbegründete Beschwerde die Schätzung veranlasst hat.
 
 
 #### § 81 Erinnerung gegen den Kostenansatz, Beschwerde
-[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008200000)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008201131)
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen
 den Kostenansatz einschließlich der Ausübung des
@@ -2151,7 +2151,7 @@ anhängig war, auch insoweit zuständig, als Kosten bei den anderen
 Gerichten angesetzt worden sind.
 
 (2) Gegen die Entscheidung über die Erinnerung ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2218,11 +2218,11 @@ bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.
 
 
 #### § 83 Beschwerde gegen die Festsetzung des Geschäftswerts
-[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008402125)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008403131)
 
 (1) Gegen den Beschluss, durch den der Geschäftswert für die
 Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde
-statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro
+statthaft, wenn der Wert des Beschwerdegegenstands 300 Euro
 übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht,
 das die angefochtene Entscheidung erlassen hat, wegen der
 grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
@@ -2877,7 +2877,7 @@ Anwendung des Satzes 1 nicht entgegen.
 
 
 ##### § 106 Höchstwert für Anmeldungen zu bestimmten Registern
-[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010700000)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010702126)
 
 Bei der Beurkundung von Anmeldungen zu einem in § 105 genannten
 Register und zum Vereinsregister beträgt der Geschäftswert höchstens 1
@@ -3550,6 +3550,28 @@ anzuwenden:
 
 An die Stelle der Kostenordnung treten dabei die in Satz 1 genannten
 Vorschriften.
+
+
+### § 137 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014300131)
+
+(1) Die §§ 81 und 83 sind in ihrer bis einschließlich 31. Dezember
+2025 geltenden Fassung weiter anzuwenden
+
+1.  in gerichtlichen Verfahren, die vor dem 1. Januar 2026 anhängig
+    geworden oder eingeleitet worden sind;
+
+
+2.  in gerichtlichen Verfahren über ein Rechtsmittel, das vor dem 1.
+    Januar 2026 eingelegt worden ist.
+
+
+
+
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in allen
+übrigen Fällen, in denen Absatz 1 keine Anwendung findet, gelten für
+Kosten, die vor dem 1. Januar 2026 fällig geworden sind, die §§ 81 und
+83 in ihrer bis einschließlich 31. Dezember 2025 geltenden Fassung.
 
 (zu § 3 Absatz 2)
 

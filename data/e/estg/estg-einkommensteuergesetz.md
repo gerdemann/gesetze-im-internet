@@ -12308,7 +12308,7 @@ Kindergeld übersteigt.
 
 
 ### § 32 Kinder, Freibeträge für Kinder
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE050602123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE050603123)
 
 (1) Kinder sind
 
@@ -12455,7 +12455,7 @@ geleistet, so ist die Dauer dieses Dienstes maßgebend.
 
 (6)
 1Bei der Veranlagung zur Einkommensteuer wird für jedes zu
-berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 336
+berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 414
 Euro für das sächliche Existenzminimum des Kindes (Kinderfreibetrag)
 sowie ein Freibetrag von 1 464 Euro für den Betreuungs- und
 Erziehungs- oder Ausbildungsbedarf des Kindes vom Einkommen abgezogen.
@@ -12526,45 +12526,45 @@ des Kindes vorliegen.
 
 
 ### § 32a Einkommensteuertarif
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009841123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009842123)
 
 (1)
 1Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro
 abgerundeten zu versteuernden Einkommen.
-2Sie beträgt ab dem Veranlagungszeitraum 2025 vorbehaltlich der §§
+2Sie beträgt ab dem Veranlagungszeitraum 2026 vorbehaltlich der §§
 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde
 Einkommen
 
-1.  bis 12 096 Euro (Grundfreibetrag):
+1.  bis 12 348 Euro (Grundfreibetrag):
 
     0;
 
 
-2.  von 12 097 Euro bis 17 443 Euro:
+2.  von 12 349 Euro bis 17 799 Euro:
 
-    (932,30* y + 1 400)* y;
-
-
-3.  von 17 444 Euro bis 68 480 Euro:
-
-    (176,64 • z + 2 397) • z + 1 015,13;
+    (914,51 • y + 1 400) • y;
 
 
-4.  von 68 481 Euro bis 277 825 Euro:
+3.  von 17 800 Euro bis 69 878 Euro:
 
-    0,42 • x – 10 911,92;
+    (173,10 • z + 2 397) • z + 1 034,87;
+
+
+4.  von 69 879 Euro bis 277 825 Euro:
+
+    0,42 • x – 11 135,63;
 
 
 5.  von 277 826 Euro an:
 
-    0,45 • x – 19 246,67.
+    0,45 • x – 19 470,38.
 
 
 
 3Die Größe „y“ ist ein Zehntausendstel des den Grundfreibetrag
 übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu
 versteuernden Einkommens.
-4Die Größe „z“ ist ein Zehntausendstel des 17 443 Euro übersteigenden
+4Die Größe „z“ ist ein Zehntausendstel des 17 799 Euro übersteigenden
 Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden
 Einkommens.
 5Die Größe „x“ ist das auf einen vollen Euro-Betrag abgerundete zu
@@ -13489,7 +13489,7 @@ Steuerermäßigung nach § 33 nicht in Anspruch nehmen.
 
 
 ### § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010229123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010230123)
 
 (1)
 1Wegen der Aufwendungen für die Hilfe bei den gewöhnlichen und
@@ -13678,10 +13678,13 @@ Veranlagungszeitraum gepflegt, wird der Pflege-Pauschbetrag nach der
 Zahl der Pflegepersonen, bei denen die Voraussetzungen der Sätze 1 bis
 4 vorliegen, geteilt.
 
-(7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+(7)
+1Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, wie nachzuweisen ist, dass
 die Voraussetzungen für die Inanspruchnahme der Pauschbeträge
 vorliegen.
+2Dabei ist der Nachweis vorrangig durch elektronische
+Mitteilungsverfahren zu führen.
 
 (8) Die Vorschrift des § 33b Absatz 6 ist ab Ende des Kalenderjahres
 2026 zu evaluieren.
@@ -15910,7 +15913,7 @@ Euro übersteigt.
 
 
 #### § 39b Einbehaltung der Lohnsteuer
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE051701123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE051702123)
 
 (1) Bei unbeschränkt und beschränkt einkommensteuerpflichtigen
 Arbeitnehmern hat der Arbeitgeber den Lohnsteuerabzug nach Maßgabe der
@@ -16020,9 +16023,9 @@ die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem
 Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das
 Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz
 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent
-des zu versteuernden Jahresbetrags, für den 13 785 Euro übersteigenden
+des zu versteuernden Jahresbetrags, für den 14 071 Euro übersteigenden
 Teil des zu versteuernden Jahresbetrags höchstens 42 Prozent, für den
-34 240 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42
+34 939 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42
 Prozent und für den 222 260 Euro übersteigenden Teil des zu
 versteuernden Jahresbetrags 45 Prozent.
 8Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal
@@ -17202,7 +17205,7 @@ besteuert worden ist.
 
 
 #### § 41c Änderung des Lohnsteuerabzugs
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013317123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013318123)
 
 (1)
 1Der Arbeitgeber ist berechtigt, bei der jeweils nächstfolgenden
@@ -17271,7 +17274,7 @@ einbehalten kann, weil
 
 
 
-dem Betriebsstättenfinanzamt unverzüglich anzuzeigen.
+dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen.
 2Das Finanzamt hat die zu wenig erhobene Lohnsteuer vom Arbeitnehmer
 nachzufordern, wenn der nachzufordernde Betrag 10 Euro übersteigt.
 3§ 42d bleibt unberührt.
@@ -19958,7 +19961,7 @@ Freistellungsbescheinigungen.
 
 
 ### § 48c Anrechnung
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029802140)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029803123)
 
 (1)
 1Soweit der Abzugsbetrag einbehalten und angemeldet worden ist, wird
@@ -19995,10 +19998,15 @@ Lohnsteueranmeldungen verpflichtet ist und eine Veranlagung zur
 Einkommen- oder Körperschaftsteuer nicht in Betracht kommt oder der
 Leistende glaubhaft macht, dass im Veranlagungszeitraum keine zu
 sichernden Steueransprüche entstehen werden.
-3Der Antrag ist nach amtlich vorgeschriebenem Muster bis zum Ablauf
-des zweiten Kalenderjahres zu stellen, das auf das Jahr folgt, in dem
+3Der elektronische Antrag ist nach amtlich vorgeschriebenem Datensatz
+über die amtlich vorgeschriebene Schnittstelle bis zum Ablauf des
+zweiten Kalenderjahres zu übermitteln, das auf das Jahr folgt, in dem
 der Abzugsbetrag angemeldet worden ist; weitergehende Fristen nach
 einem Abkommen zur Vermeidung der Doppelbesteuerung bleiben unberührt.
+4Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf
+eine elektronische Übermittlung des Antrags verzichten.
+5In diesem Fall ist der Antrag auf Erstattung des Abzugsbetrags vom
+Leistenden nach amtlich vorgeschriebenem Muster zu stellen.
 
 (3) Das Finanzamt kann die Anrechnung ablehnen, soweit der angemeldete
 Abzugsbetrag nicht abgeführt worden ist und Anlass zu der Annahme
@@ -22618,20 +22626,20 @@ landesrechtlicher Vorschriften.
 
 
 ### § 52 Anwendungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE044840123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052300123)
 
 (1)
 1Diese Fassung des Gesetzes ist, soweit in den folgenden Absätzen
 nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum
-2025 anzuwenden.
+2026 anzuwenden.
 2Beim Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, dass
 diese Fassung erstmals auf den laufenden Arbeitslohn anzuwenden ist,
-der für einen nach dem 31. Dezember 2024 endenden Lohnzahlungszeitraum
-gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2024
+der für einen nach dem 31. Dezember 2025 endenden Lohnzahlungszeitraum
+gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2025
 zufließen.
 3Beim Steuerabzug vom Kapitalertrag gilt Satz 1 mit der Maßgabe, dass
 diese Fassung des Gesetzes erstmals auf Kapitalerträge anzuwenden ist,
-die dem Gläubiger nach dem 31. Dezember 2024 zufließen.
+die dem Gläubiger nach dem 31. Dezember 2025 zufließen.
 
 (2)
 1§ 2a Absatz 1 Satz 1 Nummer 6 Buchstabe b in der am 1. Januar 2000
@@ -24855,15 +24863,18 @@ für das Kind Anspruch auf Kinderzulage hat.
 
 
 ### § 66 Höhe des Kindergeldes, Zahlungszeitraum
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024026123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024027123)
 
-(1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 259 Euro.
 
 (2) Das Kindergeld wird monatlich vom Beginn des Monats an gezahlt, in
 dem die Anspruchsvoraussetzungen erfüllt sind, bis zum Ende des
 Monats, in dem die Anspruchsvoraussetzungen wegfallen.
 
-(3) (weggefallen)
+(3) Werden die Freibeträge für Kinder nach § 31 Satz 1 in Verbindung
+mit § 32 Absatz 6 Satz 1 angehoben, wird das Kindergeld entsprechend
+erhöht. Das Kindergeld ist dabei auf volle Euro kaufmännisch zu
+runden.
 
 
 ### § 67 Antrag

@@ -6100,7 +6100,7 @@ zu bestimmen.
 
 
 #### § 82 Begriff des Einkommens
-[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008328126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008329130)
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert.
 Nicht zum Einkommen gehören
@@ -6159,9 +6159,9 @@ Nicht zum Einkommen gehören
 
 
 8.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese einen Betrag in
-    Höhe von 3 000 Euro kalenderjährlich nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, kalenderjährlich bis zur Höhe
+    des in § 3 Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 9.  einmalige Einnahmen aus Erbschaften, Vermächtnissen und
@@ -8788,7 +8788,7 @@ des Zehnten Buches zu.
 (zu § 28)
 
 ### Anlage Regelbedarfsstufen nach § 28 in Euro
-[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014917126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014918130)
 
 
 *    *   gültig ab
@@ -9037,6 +9037,21 @@ des Zehnten Buches zu.
     *   357
 
 
+*    *   1. Januar 2026
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
 
 
 Regelbedarfsstufe 1:
@@ -9072,7 +9087,7 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 (zu § 34)
 
 ### Anlage Ausstattung mit persönlichem Schulbedarf in Euro
-[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020205126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020206130)
 
 (Fundstelle: BGBl. I 2019, 535;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9137,6 +9152,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   2025
+
+    *   130 Euro
+
+    *   65 Euro
+
+
+*    *   2026
 
     *   130 Euro
 

@@ -8924,7 +8924,7 @@ und 4 gestatten; die Gestattung bedarf der Schriftform.
 
 
 ###### § 299 Informationspflicht bei grenzüberschreitender Vermittlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044104311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044105311)
 
 Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die
 Arbeitsuchende oder den Arbeitsuchenden vor Abschluss des
@@ -8968,8 +8968,10 @@ die die oder der Arbeitsuchende versteht, zu informieren über:
 10. die Möglichkeit, die Beratungsdienste der Sozialpartner und
     staatlicher Stellen in Anspruch zu nehmen; hierbei sind mindestens
     beispielhaft die Beratungsstellen nach § 31 des Arbeitnehmer-
-    Entsendegesetzes zu nennen und die jeweils aktuellen Kontaktdaten der
-    erwähnten Beratungsdienste anzugeben.
+    Entsendegesetzes oder im Fall von Staatsangehörigen aus Drittstaaten
+    mindestens beispielhaft die Beratungsstellen nach § 45b Absatz 1 Satz
+    1 und 2 des Aufenthaltsgesetzes zu nennen und die jeweils aktuellen
+    Kontaktdaten der erwähnten Beratungsdienste anzugeben.
 
 
 
@@ -11190,7 +11192,7 @@ zusammen.
 
 
 #### § 368 Aufgaben der Bundesagentur
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051408311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051409311)
 
 (1) Die Bundesagentur ist der für die Durchführung der Aufgaben nach
 diesem Buch zuständige Verwaltungsträger. Sie darf ihre Mittel nur für
@@ -11227,14 +11229,6 @@ unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System,
 welches den im jeweiligen Einzelfall beteiligten Leistungsträgern zur
 Verfügung gestellt werden kann, soweit dies für die Zusammenarbeit
 erforderlich ist.
-
-(2b) Um die Transparenz auf dem Arbeitsmarkt zu erhöhen und die
-Weiterbildungsbeteiligung von Arbeitnehmerinnen und Arbeitnehmern zu
-steigern, prüft die Bundesagentur den Aufbau und Betrieb eines
-Weiterbildungsportals. Abhängig von den Ergebnissen der Prüfung kann
-sie ein Weiterbildungsportal probeweise entwickeln und betreiben. Der
-Bund kann sich an den Kosten der Entwicklung des Weiterbildungsportals
-einschließlich der Prüfung nach Satz 1 beteiligen.
 
 (3) Die Bundesregierung kann der Bundesagentur durch Rechtsverordnung
 mit Zustimmung des Bundesrates weitere Aufgaben übertragen, die im
@@ -12662,7 +12656,7 @@ Betriebsvertretung die Durchführung der Abschlussprüfungen verlangen.
 
 
 #### § 421d Vorübergehende Sonderregelungen zum Arbeitslosengeld
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078307311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078308119)
 
 (1) Für Personen, deren Anspruch auf Arbeitslosengeld sich in der Zeit
 vom 1. Mai 2020 bis zum 31. Dezember 2020 auf einen Tag gemindert hat,
@@ -12701,7 +12695,7 @@ Leistungsfortzahlung für jedes Kind längstens für 30 Tage, bei
 alleinerziehenden Arbeitslosen längstens für 60 Tage; Arbeitslosengeld
 wird insgesamt für nicht mehr als 65 Tage, für alleinerziehende
 Arbeitslose für nicht mehr als 130 Tage fortgezahlt; für die
-Kalenderjahre 2024 und 2025 besteht der Anspruch auf
+Kalenderjahre 2024 bis 2026 besteht der Anspruch auf
 Leistungsfortzahlung für jedes Kind längstens für jeweils 15 Tage, bei
 alleinerziehenden Arbeitslosen längstens für jeweils 30 Tage;
 Arbeitslosengeld wird insgesamt für nicht mehr als jeweils 35 Tage,

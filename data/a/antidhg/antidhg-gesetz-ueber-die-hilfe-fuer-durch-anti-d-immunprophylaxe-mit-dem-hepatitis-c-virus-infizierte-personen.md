@@ -257,7 +257,7 @@ der Kostenlast beteiligt haben.
 
 
 ## § 10 Kostenträger
-[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001103116)
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001104130)
 
 (1) Die Kosten der Einmalzahlung trägt der Bund.
 
@@ -267,8 +267,8 @@ gehört, an dem die Anti-D-Immunprophylaxe durchgeführt wurde.
 
 (3) Den in Absatz 2 bezeichneten Ländern werden für Leistungen nach §
 3 Absatz 2 in Verbindung mit Absatz 1 sowie in Verbindung mit § 7a, §§
-4 und 13 Abs. 1 und Abs. 2 vom Bund 50 vom Hundert und von den Ländern
-Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
+4 und 13 Absatz 1 vom Bund 50 vom Hundert und von den Ländern Baden-
+Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen,
 Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein
 12,4 vom Hundert der entstandenen Kosten erstattet. Das
 Anteilsverhältnis unter den zur Erstattung verpflichteten Ländern wird

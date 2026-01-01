@@ -1723,7 +1723,7 @@ Absatz 3 Satz 3 gelten entsprechend.
 
 
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
-[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008916123)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008917123)
 
 (1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den
 Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
@@ -1771,11 +1771,12 @@ gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
 letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume
 muss die beantragte Vergütung mindestens 50 Euro betragen.
 
-(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch
+(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen kann durch
 Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a
-Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des
-Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach
-Satz 1 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
+Absatz 8 der Abgabenordnung bekannt gegeben werden. Hat der Empfänger
+des Bescheids eine einmalige oder dauerhafte postalische Bekanntgabe
+nach § 122 Absatz 2 der Abgabenordnung beantragt, ist der Bescheid,
+bis zum Widerruf des Antrags, schriftlich zu erteilen.
 
 (5) Der nach § 18 Abs. 9 des Gesetzes zu vergütende Betrag ist zu
 verzinsen. Der Zinslauf beginnt mit Ablauf von vier Monaten und zehn
@@ -1808,7 +1809,7 @@ Bundeszentralamtes für Steuern nachkommt.
 
 
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
-[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011603123)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011604123)
 
 (1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den
 Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
@@ -1818,13 +1819,37 @@ Vermeidung von unbilligen Härten auf eine elektronische Übermittlung
 verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet
 ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem
 Vordruck beim Bundeszentralamt für Steuern zu beantragen und den
-Vergütungsantrag eigenhändig zu unterschreiben.
+Vergütungsantrag eigenhändig zu unterschreiben. Der Bescheid über die
+Vergütung von Vorsteuerbeträgen ist durch Bereitstellung zum
+Datenabruf nach § 122a in Verbindung mit § 87a Absatz 8 der
+Abgabenordnung bekannt zu geben. Abweichend von § 122a Absatz 2 der
+Abgabenordnung kann das Bundeszentralamt für Steuern nur zur
+Vermeidung von unbilligen Härten einem Antrag auf einmalige
+postalischer Bekanntgabe nach § 122a Absatz 2 der Abgabenordnung
+entsprechen und den Bescheid, bis zum Widerruf des Antrags, postalisch
+bekannt geben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des
 Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu
-beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die
-Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen
-im Original nachzuweisen.
+beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. In
+dem Antrag sind die Vorsteuerbeträge, deren Vergütung beantragt wird,
+im Einzelnen aufzuführen (Einzelaufstellung). Die Vorsteuerbeträge
+sind
+
+1.  durch Hochladen der Rechnungen und Einfuhrbelege im Online-Portal des
+    Bundeszentralamts für Steuern oder
+
+
+2.  in Ausnahmefällen durch Vorlage der Rechnungen und Einfuhrbelege auf
+    einem Speichermedium
+
+
+
+nachzuweisen, wenn der Gesamtbetrag der Rechnung oder des
+Einfuhrbeleges 250 Euro übersteigt. Das Bundeszentralamt für Steuern
+kann verlangen, dass die Vorsteuerbeträge durch Vorlage von Rechnungen
+und Einfuhrbelegen im Original nachgewiesen werden. In diesem Fall
+gilt der in Satz 4 genannte Schwellenwert nicht.
 
 (3) Die beantragte Vergütung muss mindestens 1 000 Euro betragen. Das
 gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der

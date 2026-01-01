@@ -30,7 +30,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000218123)
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000219123)
 
 
 *    *   § 1
@@ -77,8 +77,7 @@ Zuletzt geändert durch
 
 *    *   § 9
 
-    *   Zuständigkeiten der von der Bundesanstalt für Materialforschung und
-        -prüfung anerkannten Prüfstellen
+    *   (weggefallen)
 
 
 *    *   § 10
@@ -95,7 +94,7 @@ Zuletzt geändert durch
 
 *    *   § 12
 
-    *   Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
+    *   Zuständigkeiten der Prüfstellen für Tanks
 
 
 *    *   § 13
@@ -1102,16 +1101,8 @@ erforderlich ist, um die Einhaltung der
 gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 
-## § 9 Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
-[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001112123)
-
-Die von der Bundesanstalt für Materialforschung und -prüfung nach § 12
-Absatz 1 Nummer 8 der GGVSee anerkannten Prüfstellen sind zuständig
-für die Baumusterprüfung sowie die erstmalige, wiederkehrende und
-außerordentliche Prüfung von ortsbeweglichen Tanks und Gascontainern
-mit mehreren Elementen (MEGC) nach Kapitel 6.7 ADR/RID. Satz 1 gilt
-nicht, sofern diese Prüfungen in den Geltungsbereich der
-Ortsbewegliche-Druckgeräte-Verordnung fallen.
+## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001113123)
 
 
 ## § 10 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
@@ -1180,13 +1171,13 @@ zuständige Behörde für
 
 
 
-## § 12 Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
-[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001417123)
+## § 12 Zuständigkeiten der Prüfstellen für Tanks
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001418123)
 
-(1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-
-Verordnung, die für die Durchführung der nachfolgenden Aufgaben nach
-der Norm DIN EN ISO/IEC 17020:2012 akkreditiert sein müssen, sind
-zuständig für
+(1) Die nach § 13a Absatz 1 Nummer 2 zugelassenen Prüfstellen und die
+nach § 13a Absatz 1 Nummer 4 anerkannten Prüfstellen, die jeweils für
+die Durchführung der nachfolgenden Aufgaben nach der Norm DIN EN
+ISO/IEC 17020:2012 akkreditiert sein müssen, sind zuständig für
 
 1.  die Baumusterprüfung von
 
@@ -1285,16 +1276,11 @@ zuständig für
 
 Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5, 6 und 7 gilt
 nicht, sofern diese Aufgaben in den Geltungsbereich der
-Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten
-Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach
-§ 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht
-nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der
-Bundesanstalt für Materialforschung und -prüfung nach § 12 Absatz 1
-Nummer 8 der GGVSee als Prüfstelle anerkannt sind.
+Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
 (2) Das Bundesministerium für Digitales und Verkehr richtet einen
 Erfahrungsaustausch zwischen den zuständigen Stellen nach Absatz 1 und
-§ 9 und der nationalen Akkreditierungsstelle sowie den
+der nationalen Akkreditierungsstelle sowie den
 Baumusterzulassungsbehörden nach § 8 Absatz 1 Satz 1 Nummer 1
 Buchstabe g bis l und § 15 Absatz 1 Nummer 10 ein, an dem die
 vorgenannten Behörden und Stellen teilnehmen müssen.
@@ -1348,15 +1334,41 @@ Druckgeräte-Verordnung fallen.
 
 
 ## § 13a Zuständigkeiten der Benennenden Behörde
-[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005008123)
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005009123)
 
-Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-
-Druckgeräte-Verordnung ist zuständig für die Registrierung der
-Unterscheidungszeichen oder der Stempel der Prüfstellen nach Absatz
-6\.2.2.7.2 Buchstabe d, Absatz 6.2.2.7.7 Buchstabe b, Absatz 6.2.2.9.2
-Buchstabe d und Absatz 6.2.2.9.4 Buchstabe b sowie des Kennzeichens
-des Herstellers nach den Absätzen 6.2.2.7.4 Buchstabe n und 6.2.2.9.2
-Buchstabe h ADR/RID.
+(1) Die Benennende Behörde im Sinne des § 2 Nummer 7 der
+Ortsbewegliche-Druckgeräte-Verordnung ist zuständige Behörde für
+
+1.  die Registrierung
+
+    a)  der Unterscheidungszeichen oder der Stempel der Prüfstellen nach
+        Absatz 6.2.2.7.2 Buchstabe d, Absatz 6.2.2.7.7 Buchstabe b, Absatz
+        6\.2.2.9.2 Buchstabe d und Absatz 6.2.2.9.4 Buchstabe b ADR/RID sowie
+
+
+    b)  der Kennzeichen des Herstellers nach Absatz 6.2.2.7.4 Buchstabe n und
+        Absatz 6.2.2.9.2 Buchstabe h ADR/RID;
+
+
+
+
+
+2.  die Zulassung und Überwachung von Prüfstellen nach § 12 Absatz 1;
+
+
+3.  die Veröffentlichung eines Verzeichnisses der von ihr zugelassenen
+    Prüfstellen nach Absatz 1.8.6.2.4.2 ADR/RID und
+
+
+4.  die Anerkennung von Prüfstellen nach Absatz 1.8.6.2.4.3 ADR/RID.
+
+
+
+
+(2) Die in Absatz 1 Nummer 2 und 4 genannten Zulassungen und
+Anerkennungen können widerruflich erteilt, befristet und mit Auflagen
+versehen werden, soweit dies erforderlich ist, um die Einhaltung der
+gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 
 ## § 14 Besondere Zuständigkeiten im Straßenverkehr

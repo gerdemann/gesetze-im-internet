@@ -53,7 +53,7 @@ zurechenbaren Kosten an den Bund verpflichtet ist,
 
 
 ### § 2 Entstehung der Pflicht zur Kostenerstattung
-[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000201116)
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000202123)
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit Beendigung der
 Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung
@@ -62,10 +62,8 @@ jeweils als deren Beendigung. Abweichend von Satz 1 entsteht die
 Pflicht zur Kostenerstattung bei laufenden Überwachungs- und sonstigen
 laufenden Maßnahmen, die sich voraussichtlich über einen längeren
 Zeitraum als ein Jahr erstrecken, jährlich zum 31. März eines
-Kalenderjahres, es sei denn, die Bundesanstalt für
-Finanzmarktstabilisierung (Anstalt) oder die Bundesrepublik
-Deutschland – Finanzagentur GmbH (Finanzagentur) legen einen anderen
-Zeitpunkt fest.
+Kalenderjahres, es sei denn, die Bundesrepublik Deutschland –
+Finanzagentur GmbH (Finanzagentur) legt einen anderen Zeitpunkt fest.
 
 (2) Abweichend von Absatz 1 entsteht die Pflicht zur Kostenerstattung,
 
@@ -90,7 +88,7 @@ vorsehen, gelten die Absätze 1 und 2.
 
 
 ### § 3 Umfang der zu erstattenden Kosten; Kostenpauschale
-[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000301116)
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000302123)
 
 (1) Zu den zu erstattenden Kosten gehören auch solche Kosten, die in
 Vorbereitung oder während der Laufzeit einer Maßnahme oder anlässlich
@@ -98,24 +96,24 @@ ihrer Beendigung entstehen.
 
 (2) Die zu erstattenden Kosten können in Form von Kostenpauschalen
 berechnet werden. Zur Festlegung der Höhe und sonstigen Einzelheiten
-der Kostenpauschalen erstellen die Anstalt und die Finanzagentur
-Regelungen, die der Einwilligung des Bundesministeriums der Finanzen
-bedürfen. Bei der Festlegung der Höhe der Kostenpauschalen ist
-zwischen einzelnen Maßnahmen oder Tätigkeiten zu unterscheiden.
-Außerdem kann die Höhe der Kostenpauschale von dem Wert der jeweiligen
-Leistungen abhängig gemacht werden.
+der Kostenpauschalen erstellt die Finanzagentur Regelungen, die der
+Einwilligung des Bundesministeriums der Finanzen bedürfen. Bei der
+Festlegung der Höhe der Kostenpauschalen ist zwischen einzelnen
+Maßnahmen oder Tätigkeiten zu unterscheiden. Außerdem kann die Höhe
+der Kostenpauschale von dem Wert der jeweiligen Leistungen abhängig
+gemacht werden.
 
 (3) In den Regelungen zu den Kostenpauschalen nach Absatz 2 Satz 2
-kann der Leitungsausschuss den Entstehungszeitpunkt für die
+kann die Finanzagentur den Entstehungszeitpunkt für die
 Kostenpauschalen abweichend von § 2 festlegen.
 
 
 ### § 4 Fälligkeit
-[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000401116)
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000402123)
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe
 der Festsetzung an den Kostenschuldner fällig, es sei denn, die
-Anstalt oder die Finanzagentur legen einen anderen Zeitpunkt fest.
+Finanzagentur legt einen anderen Zeitpunkt fest.
 
 (2) Soweit die Pflicht zur Kostenerstattung durch
 Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt
@@ -124,14 +122,13 @@ Vertrag.
 
 
 ### § 5 Vorschusszahlung und Sicherheitsleistung
-[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000501116)
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000502123)
 
-(1) Die Anstalt oder die Finanzagentur können von einem
-Kostenschuldner nach § 1 die Zahlung eines Vorschusses oder die
-Leistung einer Sicherheit bis zur Höhe der voraussichtlich zu
-erstattenden Kosten verlangen. Bei Maßnahmen, die sich über einen
-längeren Zeitraum erstrecken, können auch mehrfach Vorschüsse oder
-Sicherheitsleistungen verlangt werden.
+(1) Die Finanzagentur kann von einem Kostenschuldner nach § 1 die
+Zahlung eines Vorschusses oder die Leistung einer Sicherheit bis zur
+Höhe der voraussichtlich zu erstattenden Kosten verlangen. Bei
+Maßnahmen, die sich über einen längeren Zeitraum erstrecken, können
+auch mehrfach Vorschüsse oder Sicherheitsleistungen verlangt werden.
 
 (2) Dem Kostenschuldner ist eine Frist zur Zahlung des Vorschusses
 oder zur Leistung der Sicherheit zu setzen.
@@ -338,7 +335,7 @@ Verjährung beginnt nicht vor der Unanfechtbarkeit der Festsetzung.
 
 
 ### § 12 Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001502123)
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001503123)
 
 (1) Für Unternehmen des Finanzsektors, die eine
 Stabilisierungsmaßnahme nach dem Stabilisierungsfondsgesetz beantragt
@@ -349,10 +346,13 @@ Verträge auch nach dem 10. November 2015 wirksam.
 Verpflichtungserklärungen und Verträge nach Satz 1 gelten als
 Verpflichtungserklärungen und Verträge im Sinne dieser Verordnung.
 
-(2) Soweit der Leitungsausschuss vor dem 10. November 2015 Regelungen
-zur Festlegung der Höhe und sonstiger Einzelheiten der
-Kostenpauschalen nach § 7 Absatz 2 Nummer 11 und § 10 Absatz 7 der
-Anlage zur Verordnung über die Satzung der Bundesanstalt für
+(2) Soweit der Leitungsausschuss der nach § 3a Absatz 1 des
+Stabilisierungsfondsgesetzes in der bis einschließlich 31. Dezember
+2025 geltenden Fassung errichteten früheren Bundesanstalt für
+Finanzmarktstabilisierung vor dem 10. November 2015 Regelungen zur
+Festlegung der Höhe und sonstiger Einzelheiten der Kostenpauschalen
+nach § 7 Absatz 2 Nummer 11 und § 10 Absatz 7 der Anlage zur
+Verordnung über die Satzung der Bundesanstalt für
 Finanzmarktstabilisierung vom 21. Februar 2011 (BGBl. I S. 271) in der
 am 1. Januar 2013 geltenden Fassung festgelegt hat, bleiben diese auch
 nach dem 10. November 2015 wirksam. Sie gelten als Regelungen im Sinne
@@ -361,4 +361,10 @@ des § 3 Absatz 2 Satz 2.
 (3) Die Regelungen zur Kostenerstattung sind auch auf die bei ihrem
 Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden, soweit zu
 diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
+
+(4) Für Kosten und Sachverhalte, die die Kalenderjahre bis
+einschließlich 2025 betreffen, gelten die Regelungen dieser Verordnung
+in der bis einschließlich 31. Dezember 2025 geltenden Fassung unter
+Berücksichtigung der Regelungen in § 3a Absatz 2b und § 14e Absatz 2,
+3 und 7 des Stabilisierungsfondsgesetzes.
 

@@ -63,19 +63,19 @@ Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 
 ### § 3 Stundensatz des Vormunds
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000301360)
 
 (1) Die dem Vormund nach § 1 Absatz 3 zu bewilligende Vergütung
 beträgt für jede Stunde der für die Führung der Vormundschaft
-aufgewandten und erforderlichen Zeit 23 Euro. Verfügt der Vormund über
+aufgewandten und erforderlichen Zeit 26 Euro. Verfügt der Vormund über
 besondere Kenntnisse, die für die Führung der Vormundschaft nutzbar
 sind, so erhöht sich der Stundensatz
 
-1.  auf 29,50 Euro, wenn diese Kenntnisse durch eine abgeschlossene Lehre
+1.  auf 33 Euro, wenn diese Kenntnisse durch eine abgeschlossene Lehre
     oder eine vergleichbare abgeschlossene Ausbildung erworben sind;
 
 
-2.  auf 39 Euro, wenn diese Kenntnisse durch eine abgeschlossene
+2.  auf 44 Euro, wenn diese Kenntnisse durch eine abgeschlossene
     Ausbildung an einer Hochschule oder durch eine vergleichbare
     abgeschlossene Ausbildung erworben sind.
 
@@ -150,18 +150,18 @@ Allgemeine Verwaltungskosten werden nicht ersetzt.
 
 
 ### § 7 Vergütung und Aufwendungsersatz des beruflichen Betreuers
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000702360)
 
 (1) Ein beruflicher Betreuer nach § 19 Absatz 2 des
 Betreuungsorganisationsgesetzes, der selbständig rechtliche
 Betreuungen führt, kann vom Betreuten Vergütung und Aufwendungsersatz
-nach Maßgabe der §§ 8 bis 12, 15 und 16 verlangen.
+nach Maßgabe der §§ 8 bis 11, 14 und 15 verlangen.
 
 (2) Ist ein beruflicher Betreuer nach § 19 Absatz 2 des
 Betreuungsorganisationsgesetzes, der als Mitarbeiter eines anerkannten
 Betreuungsvereins rechtliche Betreuungen führt, als Vereinsbetreuer
 bestellt, kann der Betreuungsverein vom Betreuten Vergütung und
-Aufwendungsersatz nach Maßgabe der §§ 8 bis 12, 15 und 16 verlangen.
+Aufwendungsersatz nach Maßgabe der §§ 8 bis 11, 14 und 15 verlangen.
 Der Vereinsbetreuer selbst kann keine Vergütung und keinen
 Aufwendungsersatz geltend machen.
 
@@ -171,39 +171,34 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 8 Höhe der Vergütung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000802360)
 
 (1) Die dem beruflichen Betreuer nach § 7 zu bewilligende Vergütung
 bestimmt sich nach monatlichen Fallpauschalen, die in den
-Vergütungstabellen A bis C der Anlage festgelegt sind.
+Vergütungsstufen 1 und 2 der Anlage festgelegt sind.
 
-(2) Die Vergütung des beruflichen Betreuers richtet sich nach
+(2) Die Vergütung des beruflichen Betreuers richtet sich nach den
+Fallpauschalen
 
-1.  Vergütungstabelle A, sofern der Betreuer weder über eine
-    abgeschlossene Lehre noch über eine abgeschlossene Ausbildung an einer
-    Hochschule oder eine vergleichbare Ausbildung verfügt;
-
-
-2.  Vergütungstabelle B, wenn der Betreuer über eine abgeschlossene Lehre
-    oder eine vergleichbare abgeschlossene Ausbildung verfügt;
+1.  der Stufe 2, wenn der Betreuer über eine abgeschlossene Ausbildung an
+    einer Hochschule oder eine vergleichbare abgeschlossene Ausbildung
+    verfügt;
 
 
-3.  Vergütungstabelle C, wenn der Betreuer über eine abgeschlossene
-    Ausbildung an einer Hochschule oder eine vergleichbare abgeschlossene
-    Ausbildung verfügt.
+2.  der Stufe 1 im Übrigen.
 
 
 
 
 (3) Der Vorstand des am Sitz oder hilfsweise am Wohnsitz des
 beruflichen Betreuers zuständigen Amtsgerichts stellt auf Antrag des
-Betreuers nach dessen Registrierung fest, nach welcher
-Vergütungstabelle sich die von diesem zu beanspruchenden Vergütungen
-richten. Die Feststellung nach Satz 1 gilt für das gerichtliche
-Verfahren zur Festsetzung der Vergütung bundesweit. Sie kann auf
-Antrag des beruflichen Betreuers geändert werden, wenn dieser eine
-Änderung der Voraussetzungen nach Absatz 2 nachweist. Die Feststellung
-oder Änderung wirkt auf den Zeitpunkt der Antragstellung zurück.
+Betreuers nach dessen Registrierung fest, nach welcher Vergütungsstufe
+sich die von diesem zu beanspruchenden Vergütungen richten. Die
+Feststellung nach Satz 1 gilt für das gerichtliche Verfahren zur
+Festsetzung der Vergütung bundesweit. Sie kann auf Antrag des
+beruflichen Betreuers geändert werden, wenn dieser eine Änderung der
+Voraussetzungen nach Absatz 2 nachweist. Die Feststellung oder
+Änderung wirkt auf den Zeitpunkt der Antragstellung zurück.
 
 (4) Die Landesregierungen werden ermächtigt, zur sachdienlichen
 Erledigung der Verfahren nach Absatz 3 durch Rechtsverordnung die
@@ -213,7 +208,7 @@ auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 9 Fallpauschalen
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000902360)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000903360)
 
 (1) Die Höhe der Fallpauschalen nach § 8 Absatz 1 richtet sich nach
 
@@ -229,43 +224,20 @@ auf die Landesjustizverwaltungen übertragen.
 
 
 (2) Hinsichtlich der Dauer der Betreuung wird bei der Berechnung der
-Fallpauschalen zwischen den Zeiträumen in den ersten drei Monaten der
-Betreuung, im vierten bis sechsten Monat, im siebten bis zwölften
-Monat, im 13. bis 24. Monat und ab dem 25. Monat unterschieden. Für
-die Berechnung der Monate gelten § 187 Absatz 1 und § 188 Absatz 2 des
-Bürgerlichen Gesetzbuchs entsprechend.
+Fallpauschalen zwischen den Zeiträumen in den ersten zwölf Monaten der
+Betreuung und ab dem 13. Monat unterschieden. Für die Berechnung der
+Monate gelten § 187 Absatz 1 und § 188 Absatz 2 des Bürgerlichen
+Gesetzbuchs entsprechend.
 
 (3) Hinsichtlich des gewöhnlichen Aufenthaltsortes des Betreuten ist
-zwischen stationären Einrichtungen und diesen nach Satz 3
-gleichgestellten ambulant betreuten Wohnformen einerseits und anderen
-Wohnformen andererseits zu unterscheiden. Im Sinne dieses Gesetzes
-sind
-
-1.  stationäre Einrichtungen:
-
-    Einrichtungen, die dem Zweck dienen, Volljährige aufzunehmen, ihnen
-    Wohnraum zu überlassen, sowie tatsächliche Betreuung oder Pflege zur
-    Verfügung zu stellen oder vorzuhalten, und die in ihrem Bestand von
-    Wechsel und Zahl der Bewohner unabhängig sind und entgeltlich
-    betrieben werden;
-
-
-2.  ambulant betreute Wohnformen:
-
-    entgeltliche Angebote, die dem Zweck dienen, Volljährigen das Leben in
-    einem gemeinsamen Haushalt oder einer Wohnung bei gleichzeitiger
-    Inanspruchnahme extern angebotener entgeltlicher Leistungen
-    tatsächlicher Betreuung oder Pflege zu ermöglichen.
-
-
-
-Ambulant betreute Wohnformen sind stationären Einrichtungen
-gleichgestellt, wenn die in der ambulant betreuten Wohnform extern
-angebotenen Leistungen tatsächlicher Betreuung oder Pflege als Rund-
-um-die-Uhr-Versorgung durch professionelle Betreuungs- oder
-Pflegekräfte zur Verfügung gestellt oder vorgehalten werden und der
-Anbieter der extern angebotenen Betreuungs- und Pflegeleistungen nicht
-frei wählbar ist.
+zwischen stationären Einrichtungen und anderen Wohnformen zu
+unterscheiden. Stationäre Einrichtungen im Sinne dieses Gesetzes sind
+Einrichtungen, die dem Zweck dienen, Volljährige aufzunehmen, ihnen
+Wohnraum zu überlassen sowie mit der Wohnraumüberlassung verpflichtend
+Pflege- oder sonstige Unterstützungsleistungen mit umfassendem
+Versorgungscharakter zur Verfügung zu stellen oder vorzuhalten, und
+die in ihrem Bestand von Wechsel sowie Zahl der Bewohner unabhängig
+sind und entgeltlich betrieben werden.
 
 (4) Hinsichtlich der Bestimmung des Vermögensstatus des Betreuten ist
 entscheidend, ob am Ende des Abrechnungsmonats Mittellosigkeit nach
@@ -279,47 +251,8 @@ berechnen; § 187 Absatz 1, § 188 Absatz 1 und § 191 des Bürgerlichen
 Gesetzbuchs gelten entsprechend.
 
 
-### § 10 Gesonderte Pauschalen
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001000000)
-
-(1) Ist der Betreute nicht mittellos, wird der Betreuer mit einer
-zusätzlichen monatlichen Pauschale in Höhe von 30 Euro vergütet, wenn
-dieser die Verwaltung
-
-1.  von Geldvermögen in Höhe von mindestens
-    150 000 Euro,
-
-
-2.  von Wohnraum, der nicht vom Betreuten oder seinem Ehegatten genutzt
-    wird, oder
-
-
-3.  eines Erwerbsgeschäfts des Betreuten
-
-
-
-zu besorgen hat. Die Pauschale kann geltend gemacht werden, wenn einer
-der Fälle des Satzes 1 an mindestens einem Tag im Abrechnungsmonat
-vorliegt.
-
-(2) Findet ein Wechsel von einem ehrenamtlichen zu einem beruflichen
-Betreuer statt, ist der berufliche Betreuer mit einer einmaligen
-Pauschale in Höhe von 200 Euro zu vergüten.
-
-(3) Findet ein Wechsel von einem beruflichen zu einem ehrenamtlichen
-Betreuer statt, ist der berufliche Betreuer mit einer einmaligen
-Pauschale in Höhe des 1,5-fachen der zum Zeitpunkt des
-Betreuerwechsels zu vergütenden Fallpauschale zu vergüten. Dies gilt
-auch dann, wenn zunächst neben dem beruflichen Betreuer ein
-ehrenamtlicher Betreuer bestellt war und dieser die Betreuung allein
-fortführt.
-
-(4) Die Pauschalen nach den Absätzen 1 bis 3 können nur gemeinsam mit
-einem Vergütungsantrag nach den §§ 8 und 9 geltend gemacht werden.
-
-
-### § 11 Aufwendungsersatz
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001100000)
+### § 10 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001101360)
 
 Die Fallpauschalen nach § 9 gelten auch Ansprüche auf Ersatz
 anlässlich der Betreuung entstandener Aufwendungen ab. Die gesonderte
@@ -328,8 +261,8 @@ Bürgerlichen Gesetzbuchs durch Betreuer nach § 7 Absatz 1 bleibt
 unberührt.
 
 
-### § 12 Sonderfälle der Betreuung
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001200000)
+### § 11 Sonderfälle der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001201360)
 
 (1) Dem Sterilisationsbetreuer nach § 1817 Absatz 2 des Bürgerlichen
 Gesetzbuchs und dem Ergänzungsbetreuer nach § 1817 Absatz 5 des
@@ -340,36 +273,35 @@ Anwendung von § 1877 Absatz 1 des Bürgerlichen Gesetzbuchs verlangen;
 nicht ersetzt.
 
 (2) Dem Verhinderungsbetreuer nach § 1817 Absatz 4 des Bürgerlichen
-Gesetzbuchs sind die Vergütung nach § 8 in Verbindung mit § 9 sowie
-die Pauschale nach § 10 Absatz 1 zu bewilligen und im Fall des § 9
-nach Tagen zu teilen; § 187 Absatz 1 und
-§ 188 Absatz 1 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+Gesetzbuchs ist die Vergütung nach § 8 in Verbindung mit § 9 zu
+bewilligen und im Fall des § 9 nach Tagen zu teilen; § 187 Absatz 1
+und § 188 Absatz 1 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 
-### § 13 Vergütung und Aufwendungsersatz für Betreuungsvereine
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001300000)
+### § 12 Vergütung und Aufwendungsersatz für Betreuungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001301360)
 
 (1) Ist der Betreuungsverein nach § 1818 Absatz 1 des Bürgerlichen
 Gesetzbuchs als Betreuer bestellt, ist ihm eine Vergütung nach den §§
-8 bis 10 zu bewilligen, wenn der Mitarbeiter, dem die Führung der
+8 und 9 zu bewilligen, wenn der Mitarbeiter, dem die Führung der
 Betreuung gemäß § 1818 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs
 übertragen worden ist, als beruflicher Betreuer registriert ist. Die
 Höhe der Vergütung richtet sich nach der aufgrund der Feststellung
-nach § 8 Absatz 3 für den Mitarbeiter anzuwendenden Vergütungstabelle.
+nach § 8 Absatz 3 für den Mitarbeiter anzuwendenden Vergütungsstufe.
 Eine Vergütung ist auch dann zu bewilligen, wenn der Mitarbeiter
 spätestens sechs Monate nach Beginn seiner Tätigkeit für den
 Betreuungsverein registriert ist.
 
 (2) In den Fällen des § 1817 Absatz 4 und 5 des Bürgerlichen
 Gesetzbuchs sind dem Betreuungsverein nach Maßgabe des Absatzes 1
-Vergütung und Aufwendungsersatz nach § 12 zu bewilligen. Aufwendungen
+Vergütung und Aufwendungsersatz nach § 11 zu bewilligen. Aufwendungen
 im Sinne von § 1877 Absatz 3 des Bürgerlichen Gesetzbuchs kann der
 Verein nicht geltend machen. Allgemeine Verwaltungskosten werden nicht
 ersetzt.
 
 
-### § 14 Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001400000)
+### § 13 Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001401360)
 
 (1) Ist ein Behördenbetreuer bestellt, so kann der zuständigen Behörde
 nur unter den in § 1876 Satz 2 des Bürgerlichen Gesetzbuchs bestimmten
@@ -392,29 +324,22 @@ entsprechend.
 Betreuungsbehörde nicht anzuwenden.
 
 
-### § 15 Abrechnungszeitraum für die Betreuungsvergütung
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001500000)
+### § 14 Abrechnungszeitraum für die Betreuungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001501360)
 
 (1) Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen
 Zeitraum geltend gemacht werden. Dies gilt nicht für die
 Geltendmachung von Vergütung und Aufwendungsersatz in den Fällen der
-§§ 12 und 13 Absatz 2.
+§§ 11 und 12 Absatz 2.
 
-(2) Der Betreuer kann, wenn eine Veränderung der für die Höhe der
-Vergütung maßgeblichen Kriterien des § 9 Absatz 1 Nummer 2 und 3 nicht
-zu erwarten ist, die Festsetzung der Vergütung auch für zukünftige
-Zeiträume nach § 292 Absatz 2 Satz 1 des Gesetzes über das Verfahren
-in Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit beantragen. Für die Dauer der Festsetzung nach § 292
-Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit gelten die
-Vergütungsansprüche als geltend gemacht nach § 16 Absatz 3. Eine
-Änderung der Kriterien des § 9 Absatz 1 hat der Betreuer unverzüglich
-mitzuteilen.
+(2) Für die Dauer der Festsetzung nach § 292 Absatz 2 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit gelten die Vergütungsansprüche als
+geltend gemacht nach § 15 Absatz 3.
 
 
-### § 16 Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001600000)
+### § 15 Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001601360)
 
 (1) Ist der Betreute mittellos im Sinne des § 1880 des Bürgerlichen
 Gesetzbuchs, so kann der Betreuer die Vergütung sowie Vorschuss oder
@@ -430,12 +355,49 @@ gemacht werden. § 1877 Absatz 4 Satz 2 und 3 sowie Absatz 5 des
 Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 
-## Abschnitt 3 - Schlussvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000300000)
+## Abschnitt 3 - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000500360)
 
 
-### § 17 Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001700000)
+### § 16 Sondervergütung für Verfahrens- und Umgangspfleger für Tätigkeiten außerhalb der Geschäftszeiten
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE002100360)
+
+Stellt das Gericht fest, dass eine Angelegenheit des Verfahrens- oder
+Umgangspflegers werktäglich zwischen 18 und 6 Uhr, an Samstagen oder
+an Sonn- oder Feiertagen wahrzunehmen ist, so erhöht sich der nach § 3
+Absatz 1 oder Absatz 3 zu bewilligende Stundensatz der Vergütung um 25
+Prozent.
+
+
+### § 17 Ausfallentschädigung des Umgangspflegers
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE002200360)
+
+Der Umgangspfleger erhält bei Ausfall eines Umgangstermins eine
+Ausfallentschädigung, wenn
+
+1.  der Ausfall nicht durch einen in seiner Person liegenden Grund
+    veranlasst war,
+
+
+2.  ihm der Ausfall nicht spätestens 24 Stunden vor dem Umgangstermin
+    mitgeteilt worden ist und
+
+
+3.  er versichert, in welcher Höhe er durch den Terminausfall einen
+    Einkommensverlust erlitten hat.
+
+
+
+Die Ausfallentschädigung beträgt 50 Prozent des durch den
+Terminausfall erlittenen Einkommensverlustes.
+
+
+## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000303360)
+
+
+### § 18 Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001702360)
 
 (1) Durch Landesrecht kann bestimmt werden, dass es einer
 abgeschlossenen Lehre im Sinne des § 3 Absatz 1 Satz 2 Nummer 1 und §
@@ -502,24 +464,26 @@ eine in einem anderen Land abgelegte Prüfung im Sinne dieser
 Vorschrift anerkannt wird.
 
 
-## Abschnitt 4 - Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000400000)
+## Abschnitt 5 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000403360)
 
 
-### § 18 Übergangsregelung
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001800000)
+### § 19 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001802360)
 
-Auf Vergütungsansprüche von Betreuern, Vormündern, Pflegern und
-Verfahrenspflegern für Leistungen, die vor dem 1. Januar 2023 erbracht
-wurden, ist das Vormünder- und Betreuervergütungsgesetz vom 21. April
-2005 (BGBl. I S. 1073, 1076), das zuletzt durch Artikel 1 des Gesetzes
-vom 22. Juni 2019 (BGBl. I S. 866) geändert worden ist, bis zum Ende
-des angefangenen Abrechnungsmonats in seiner bis dahin geltenden
-Fassung anzuwenden.
+Auf Vergütungs- und Aufwendungsersatzansprüche von Betreuern,
+Vormündern, Pflegern, Verfahrens- und Umgangspflegern und auf
+Ansprüche von Betreuern nach dem Betreuer-Inflationsausgleichs-
+Sonderzahlungsgesetz für Leistungen, die vor dem 1. Januar 2026
+erbracht wurden, ist das Vormünder- und Betreuervergütungsgesetz vom
+4\. Mai 2021 (BGBl. I S. 882, 925), das durch Artikel 8 des Gesetzes
+vom 24. Juni 2022 (BGBl. I S. 959) geändert worden ist, bis zum Ende
+des angefangenen Abrechnungsmonats in seiner bis einschließlich 31.
+Dezember 2025 geltenden Fassung anzuwenden.
 
 
-### § 19 Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001900000)
+### § 20 Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001901360)
 
 (1) Für berufliche Betreuer, die bis einschließlich 1. Januar 2023
 seit weniger als drei Jahren berufliche Betreuungen führen, gilt § 4
@@ -541,686 +505,183 @@ Berufsvormündervergütungsgesetzes vom 25. Juni 1998 (BGBl. I S. 1580,
 (BGBl. I S. 3574) geändert worden ist, in der bis einschließlich 30.
 Juni 2005 geltenden Fassung Prüfungsleistungen mit Abschlüssen
 gleichgestellt sind, sind die Prüfungsleistungen bei der Feststellung,
-nach welcher Vergütungstabelle sich die Vergütung richtet, im
-Verfahren nach § 8 Absatz 2 und 3 entsprechend zu Grunde zu legen.
+nach welcher Vergütungsstufe sich die Vergütung richtet, im Verfahren
+nach § 8 Absatz 2 und 3 entsprechend zu Grunde zu legen.
 
 
 ### Anlage (zu § 8 Absatz 1)
-[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE002002360)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE002003360)
 
-(Fundstelle: BGBl. I 2021, 930- 931; bzgl. einzelner Änderungen vgl.
-Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 109, S. 3 – 4)
 
-## Vergütungstabelle A
+## Stufe 1
 
 
-*    *   Nr.
+*    *   Vermögensstatus
+        des Betreuten
+
+    *   Gewöhnlicher Aufenthaltsort
+        des Betreuten
+
+    *   Nr.
 
     *   Dauer der Betreuung
 
-    *   Nr.
-
-    *   Gewöhnlicher
-        Aufenthaltsort
-
-    *   Nr.
-
-    *   Vermögensstatus
-
-    *   monatliche
+    *   Monatliche
         Pauschale
 
 
-*    *   A1
+*    *   Nicht mittellos
 
-    *   In den ersten
-        drei Monaten
+    *   Stationäre Einrichtung
 
-    *   A1.1
+    *   1.1.1.1
 
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
+    *   In den ersten zwölf Monaten
 
-    *   A1.1.1
-
-    *   mittellos
-
-    *   194,00 €
+    *   233,00 €
 
 
-*    *   A1.1.2
+*    *   1.1.1.2
 
-    *   nicht mittellos
+    *   Ab dem 13. Monat
 
-    *   200,00 €
-
-
-*    *   A1.2
-
-    *   andere Wohnform
-
-    *   A1.2.1
-
-    *   mittellos
-
-    *   208,00 €
+    *   115,00 €
 
 
-*    *   A1.2.2
+*    *   Andere Wohnform
 
-    *   nicht mittellos
+    *   1.1.2.1
 
-    *   298,00 €
+    *   In den ersten zwölf Monaten
 
-
-*    *   A2
-
-    *   Im vierten bis
-        sechsten Monat
-
-    *   A2.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   A2.1.1
-
-    *   mittellos
-
-    *   129,00 €
+    *   325,00 €
 
 
-*    *   A2.1.2
+*    *   1.1.2.2
 
-    *   nicht mittellos
-
-    *   158,00 €
-
-
-*    *   A2.2
-
-    *   andere Wohnform
-
-    *   A2.2.1
-
-    *   mittellos
-
-    *   170,00 €
-
-
-*    *   A2.2.2
-
-    *   nicht mittellos
-
-    *   208,00 €
-
-
-*    *   A3
-
-    *   Im siebten bis
-        zwölften Monat
-
-    *   A3.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   A3.1.1
-
-    *   mittellos
-
-    *   124,00 €
-
-
-*    *   A3.1.2
-
-    *   nicht mittellos
-
-    *   140,00 €
-
-
-*    *   A3.2
-
-    *   andere Wohnform
-
-    *   A3.2.1
-
-    *   mittellos
-
-    *   151,00 €
-
-
-*    *   A3.2.2
-
-    *   nicht mittellos
+    *   Ab dem 13. Monat
 
     *   192,00 €
 
 
-*    *   A4
+*    *   Mittellos
 
-    *   Im 13. bis 24. Monat
+    *   Stationäre Einrichtung
 
-    *   A4.1
+    *   1.2.1.1
 
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   A4.1.1
-
-    *   mittellos
-
-    *   87,00 €
-
-
-*    *   A4.1.2
-
-    *   nicht mittellos
-
-    *   91,00 €
-
-
-*    *   A4.2
-
-    *   andere Wohnform
-
-    *   A4.2.1
-
-    *   mittellos
-
-    *   122,00 €
-
-
-*    *   A4.2.2
-
-    *   nicht mittellos
-
-    *   158,00 €
-
-
-*    *   A5
-
-    *   Ab dem 25. Monat
-
-    *   A5.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   A5.1.1
-
-    *   mittellos
-
-    *   62,00 €
-
-
-*    *   A5.1.2
-
-    *   nicht mittellos
-
-    *   78,00 €
-
-
-*    *   A5.2
-
-    *   andere Wohnform
-
-    *   A5.2.1
-
-    *   mittellos
-
-    *   105,00 €
-
-
-*    *   A5.2.2
-
-    *   nicht mittellos
-
-    *   130,00 €
-
-
-
-
-## Vergütungstabelle B
-
-
-*    *   Nr.
-
-    *   Dauer der Betreuung
-
-    *   Nr.
-
-    *   Gewöhnlicher
-        Aufenthaltsort
-
-    *   Nr.
-
-    *   Vermögensstatus
-
-    *   monatliche
-        Pauschale
-
-
-*    *   B1
-
-    *   In den ersten
-        drei Monaten
-
-    *   B1.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   B1.1.1
-
-    *   mittellos
-
-    *   241,00 €
-
-
-*    *   B1.1.2
-
-    *   nicht mittellos
-
-    *   249,00 €
-
-
-*    *   B1.2
-
-    *   andere Wohnform
-
-    *   B1.2.1
-
-    *   mittellos
-
-    *   258,00 €
-
-
-*    *   B1.2.2
-
-    *   nicht mittellos
-
-    *   370,00 €
-
-
-*    *   B2
-
-    *   Im vierten bis
-        sechsten Monat
-
-    *   B2.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   B2.1.1
-
-    *   mittellos
-
-    *   158,00 €
-
-
-*    *   B2.1.2
-
-    *   nicht mittellos
-
-    *   196,00 €
-
-
-*    *   B2.2
-
-    *   andere Wohnform
-
-    *   B2.2.1
-
-    *   mittellos
-
-    *   211,00 €
-
-
-*    *   B2.2.2
-
-    *   nicht mittellos
-
-    *   258,00 €
-
-
-*    *   B3
-
-    *   Im siebten bis
-        zwölften Monat
-
-    *   B3.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   B3.1.1
-
-    *   mittellos
-
-    *   154,00 €
-
-
-*    *   B3.1.2
-
-    *   nicht mittellos
-
-    *   174,00 €
-
-
-*    *   B3.2
-
-    *   andere Wohnform
-
-    *   B3.2.1
-
-    *   mittellos
-
-    *   188,00 €
-
-
-*    *   B3.2.2
-
-    *   nicht mittellos
-
-    *   238,00 €
-
-
-*    *   B4
-
-    *   Im 13. bis 24. Monat
-
-    *   B4.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   B4.1.1
-
-    *   mittellos
-
-    *   107,00 €
-
-
-*    *   B4.1.2
-
-    *   nicht mittellos
-
-    *   113,00 €
-
-
-*    *   B4.2
-
-    *   andere Wohnform
-
-    *   B4.2.1
-
-    *   mittellos
-
-    *   151,00 €
-
-
-*    *   B4.2.2
-
-    *   nicht mittellos
-
-    *   196,00 €
-
-
-*    *   B5
-
-    *   Ab dem 25. Monat
-
-    *   B5.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   B5.1.1
-
-    *   mittellos
-
-    *   78,00 €
-
-
-*    *   B5.1.2
-
-    *   nicht mittellos
-
-    *   96,00 €
-
-
-*    *   B5.2
-
-    *   andere Wohnform
-
-    *   B5.2.1
-
-    *   mittellos
-
-    *   130,00 €
-
-
-*    *   B5.2.2
-
-    *   nicht mittellos
-
-    *   161,00 €
-
-
-
-
-## Vergütungstabelle C
-
-
-*    *   Nr.
-
-    *   Dauer der Betreuung
-
-    *   Nr.
-
-    *   Gewöhnlicher
-        Aufenthaltsort
-
-    *   Nr.
-
-    *   Vermögensstatus
-
-    *   monatliche Pauschale
-
-
-*    *   C1
-
-    *   In den ersten
-        drei Monaten
-
-    *   C1.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   C1.1.1
-
-    *   mittellos
-
-    *   317,00 €
-
-
-*    *   C1.1.2
-
-    *   nicht mittellos
-
-    *   327,00 €
-
-
-*    *   C1.2
-
-    *   andere Wohnform
-
-    *   C1.2.1
-
-    *   mittellos
-
-    *   339,00 €
-
-
-*    *   C1.2.2
-
-    *   nicht mittellos
-
-    *   486,00 €
-
-
-*    *   C2
-
-    *   Im vierten bis
-        sechsten Monat
-
-    *   C2.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   C2.1.1
-
-    *   mittellos
+    *   In den ersten zwölf Monaten
 
     *   208,00 €
 
 
-*    *   C2.1.2
+*    *   1.2.1.2
 
-    *   nicht mittellos
+    *   Ab dem 13. Monat
 
-    *   257,00 €
+    *   98,00 €
 
 
-*    *   C2.2
+*    *   Andere Wohnform
 
-    *   andere Wohnform
+    *   1.2.2.1
 
-    *   C2.2.1
+    *   In den ersten zwölf Monaten
 
-    *   mittellos
+    *   247,00 €
 
-    *   277,00 €
 
+*    *   1.2.2.2
 
-*    *   C2.2.2
+    *   Ab dem 13. Monat
 
-    *   nicht mittellos
+    *   144,00 €
 
-    *   339,00 €
 
 
-*    *   C3
+## Stufe 2
 
-    *   Im siebten bis
-        zwölften Monat
 
-    *   C3.1
+*    *   Vermögensstatus
+        des Betreuten
 
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
+    *   Gewöhnlicher Aufenthaltsort
+        des Betreuten
 
-    *   C3.1.1
+    *   Nr.
 
-    *   mittellos
+    *   Dauer der Betreuung
 
-    *   202,00 €
+    *   Monatliche Pauschale
 
 
-*    *   C3.1.2
+*    *   Nicht mittellos
 
-    *   nicht mittellos
+    *   Stationäre Einrichtung
 
-    *   229,00 €
+    *   2.1.1.1
 
+    *   In den ersten zwölf Monaten
 
-*    *   C3.2
+    *   305,00 €
 
-    *   andere Wohnform
 
-    *   C3.2.1
+*    *   2.1.1.2
 
-    *   mittellos
+    *   Ab dem 13. Monat
 
-    *   246,00 €
+    *   155,00 €
 
 
-*    *   C3.2.2
+*    *   Andere Wohnform
 
-    *   nicht mittellos
+    *   2.1.2.1
 
-    *   312,00 €
+    *   In den ersten zwölf Monaten
 
+    *   427,00 €
 
-*    *   C4
 
-    *   Im 13. bis 24. Monat
+*    *   2.1.2.2
 
-    *   C4.1
+    *   Ab dem 13. Monat
 
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
+    *   250,00 €
 
-    *   C4.1.1
 
-    *   mittellos
+*    *   Mittellos
 
-    *   141,00 €
+    *   Stationäre Einrichtung
 
+    *   2.2.1.1
 
-*    *   C4.1.2
+    *   In den ersten zwölf Monaten
 
-    *   nicht mittellos
+    *   275,00 €
 
-    *   149,00 €
 
+*    *   2.2.1.2
 
-*    *   C4.2
+    *   Ab dem 13. Monat
 
-    *   andere Wohnform
+    *   130,00 €
 
-    *   C4.2.1
 
-    *   mittellos
+*    *   Andere Wohnform
 
-    *   198,00 €
+    *   2.2.2.1
 
+    *   In den ersten zwölf Monaten
 
-*    *   C4.2.2
+    *   324,00 €
 
-    *   nicht mittellos
 
-    *   257,00 €
+*    *   2.2.2.2
 
+    *   Ab dem 13. Monat
 
-*    *   C5
-
-    *   Ab dem 25. Monat
-
-    *   C5.1
-
-    *   stationäre Einrichtung oder gleichgestellte ambulant betreute Wohnform
-
-    *   C5.1.1
-
-    *   mittellos
-
-    *   102,00 €
-
-
-*    *   C5.1.2
-
-    *   nicht mittellos
-
-    *   127,00 €
-
-
-*    *   C5.2
-
-    *   andere Wohnform
-
-    *   C5.2.1
-
-    *   mittellos
-
-    *   171,00 €
-
-
-*    *   C5.2.2
-
-    *   nicht mittellos
-
-    *   211,00 €
+    *   190,00 €
 
 
 

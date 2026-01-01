@@ -1888,7 +1888,7 @@ haben.
 
 
 ###### § 41 Altersrente und Ende des Arbeitsverhältnisses
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014410126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014411130)
 
 (1) Der Anspruch des Versicherten auf eine Rente wegen Alters ist
 nicht als ein Grund anzusehen, der die Kündigung eines
@@ -1907,7 +1907,31 @@ können die Arbeitsvertragsparteien durch Vereinbarung während des
 Arbeitsverhältnisses den Beendigungszeitpunkt, gegebenenfalls auch
 mehrfach, hinausschieben.
 
-(2) Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses mit
+(2) § 14 Absatz 2 Satz 2 des Teilzeit- und Befristungsgesetzes gilt
+nicht für Arbeitnehmer, die die Regelaltersgrenze erreicht haben, wenn
+mit befristeten Arbeitsverhältnissen nach § 14 Absatz 2 Satz 1 des
+Teilzeit- und Befristungsgesetzes bei demselben Arbeitgeber
+
+1.  die Voraussetzungen des § 14 Absatz 2 Satz 1 des Teilzeit- und
+    Befristungsgesetzes eingehalten werden und
+
+
+2.  keine der folgenden Grenzen überschritten wird:
+
+    a)  eine Höchstdauer von insgesamt acht Jahren und
+
+
+    b)  die Anzahl von zwölf befristeten Arbeitsverträgen.
+
+
+
+
+
+
+§ 14 Absatz 2 Satz 3 und 4 des Teilzeit- und Befristungsgesetzes
+bleibt unberührt.
+
+(3) Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses mit
 dem Erreichen der Regelaltersgrenze vorsieht, bedarf zu ihrer
 Wirksamkeit der Textform. § 14 Absatz 4 des Teilzeit- und
 Befristungsgesetzes gilt nicht.
@@ -6175,7 +6199,7 @@ Versicherung entschieden werden.
 
 
 ##### § 118 Fälligkeit und Auszahlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022212124)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022213130)
 
 (1) Laufende Geldleistungen mit Ausnahme des Übergangsgeldes werden am
 Ende des Monats fällig, zu dessen Beginn die Anspruchsvoraussetzungen
@@ -6204,10 +6228,14 @@ können für einen angemessenen Zeitraum im Voraus ausgezahlt werden.
 (2a) Nachzahlungsbeträge, die ein Zehntel des aktuellen Rentenwerts
 nicht übersteigen, sollen nicht ausgezahlt werden.
 
-(2b) In Fällen des § 47 Absatz 1 Satz 3 des Ersten Buches erfolgt eine
-kostenfreie Übermittlung von Geldleistungen an den Wohnsitz oder an
-den gewöhnlichen Aufenthalt spätestens ab dem zweiten Monat, der auf
-den Monat folgt, in dem der Nachweis erbracht worden ist.
+(2b) Abweichend von § 47 Absatz 1 des Ersten Buches werden
+Geldleistungen ausschließlich auf das angegebene Konto bei einem
+Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 gilt,
+überwiesen. Die Überweisung erfolgt kostenfrei.
+
+(2c) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 2b
+genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem
+von ihm mit der Zahlung beauftragten Geldinstitut.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
@@ -8726,8 +8754,8 @@ Zahlungsverpflichtungen der allgemeinen Rentenversicherung.
 
 
 
-##### § 154 Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025822126)
+##### § 154 Rentenversicherungsbericht und weitere Berichte zur Alterssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025823130)
 
 (1) Die Bundesregierung erstellt jährlich einen
 Rentenversicherungsbericht. Der Bericht enthält
@@ -8735,20 +8763,15 @@ Rentenversicherungsbericht. Der Bericht enthält
 1.  auf der Grundlage der letzten Ermittlungen der Zahl der Versicherten
     und Rentner sowie der Einnahmen, der Ausgaben und der
     Nachhaltigkeitsrücklage insbesondere Modellrechnungen zur Entwicklung
-    von Einnahmen und Ausgaben, der Nachhaltigkeitsrücklage sowie des
-    jeweils erforderlichen Beitragssatzes in den künftigen 15
-    Kalenderjahren,
+    von Einnahmen und Ausgaben, der Nachhaltigkeitsrücklage, des jeweils
+    erforderlichen Beitragssatzes sowie des Sicherungsniveaus vor Steuern
+    in den künftigen 15 Kalenderjahren,
 
 
 2.  eine Übersicht über die voraussichtliche finanzielle Entwicklung der
     Rentenversicherung in den künftigen fünf Kalenderjahren auf der
     Grundlage der aktuellen Einschätzung der mittelfristigen
-    Wirtschaftsentwicklung,
-
-
-3.  eine Darstellung, wie sich die Anhebung der Altersgrenzen
-    voraussichtlich auf die Arbeitsmarktlage, die Finanzlage der
-    Rentenversicherung und andere öffentliche Haushalte auswirkt.
+    Wirtschaftsentwicklung.
 
 
 
@@ -8788,65 +8811,25 @@ darstellt:
 
 
 
-Die Darstellungen zu der Nummer 4 sind erstmals im Jahre 2005
-vorzulegen.
 
-(3) In der allgemeinen Rentenversicherung darf das Sicherungsniveau
-vor Steuern nach Absatz 3a bis zum Jahr 2025 48 Prozent nicht
-unterschreiten und darf der Beitragssatz bis zum Jahr 2025 20 Prozent
-nicht überschreiten. Die Bundesregierung hat den gesetzgebenden
-Körperschaften geeignete Maßnahmen vorzuschlagen, wenn in der
-allgemeinen Rentenversicherung in der mittleren Variante der
-15-jährigen Vorausberechnungen des Rentenversicherungsberichts
+(3) Die Bundesregierung hat den gesetzgebenden Körperschaften
+geeignete Maßnahmen vorzuschlagen, wenn in der allgemeinen
+Rentenversicherung in der mittleren Variante der 15-jährigen
+Vorausberechnungen des Rentenversicherungsberichts der Beitragssatz
+bis zum Jahr 2030 22 Prozent überschreitet. Die Bundesregierung hat
+den gesetzgebenden Körperschaften im Jahr 2029 einen Bericht über die
+tatsächliche Entwicklung des Beitragssatzes und des Bundeszuschusses
+vorzulegen, um gegebenenfalls weitere Maßnahmen zu ergreifen. Ziel
+dieses Berichts ist es, das Mindestsicherungsniveau von 48 Prozent
+sowie die daraus entstehenden Mehrausgaben zu prüfen. Nur eine
+wachstumsorientierte Wirtschaftspolitik, eine hohe Beschäftigungsquote
+und eine angemessene Lohnentwicklung ermöglichen es, dies dauerhaft zu
+finanzieren. Die Bundesregierung soll den gesetzgebenden
+Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass
+durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine
+ausreichende Verbreitung nicht erreicht werden kann.
 
-1.  der Beitragssatz bis zum Jahr 2030 22 Prozent überschreitet oder
-
-
-2.  das Sicherungsniveau vor Steuern nach Absatz 3a bis zum Jahr 2030 43
-    Prozent unterschreitet.
-
-
-
-Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete
-Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der
-freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung
-nicht erreicht werden kann.
-
-(3a) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr
-ist der Verhältniswert aus der verfügbaren Standardrente und dem
-verfügbaren Durchschnittsentgelt des jeweils betreffenden
-Kalenderjahres. Die verfügbare Standardrente des jeweiligen
-Kalenderjahres ist die Standardrente, gemindert um die von den
-Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge.
-Die Standardrente ist die Regelaltersrente aus der allgemeinen
-Rentenversicherung mit 45 Entgeltpunkten, die sich unter
-Zugrundelegung des ab dem 1. Juli des betreffenden Kalenderjahres
-geltenden aktuellen Rentenwerts für zwölf Monate berechnet. Die von
-den Rentnerinnen und Rentnern zu tragenden Sozialversicherungsbeiträge
-berechnen sich, indem die Standardrente des betreffenden
-Kalenderjahres mit der Summe des von den Rentnerinnen und Rentnern zu
-tragenden Anteils des allgemeinen Beitragssatzes sowie des
-durchschnittlichen Zusatzbeitragssatzes zur gesetzlichen
-Krankenversicherung und des Beitragssatzes zur sozialen
-Pflegeversicherung des betreffenden Kalenderjahres vervielfältigt
-wird, deren jeweilige Höhe der Bekanntmachung des
-Gesamtsozialversicherungsbeitragssatzes nach § 20 Absatz 2a Satz 5 des
-Vierten Buches im Bundesanzeiger zu entnehmen ist. Das verfügbare
-Durchschnittsentgelt des jeweiligen Kalenderjahres wird ermittelt,
-indem das verfügbare Durchschnittsentgelt des Vorjahres mit der für
-die Rentenanpassung maßgebenden Veränderung der Bruttolöhne und
--gehälter je Arbeitnehmer (§ 68 Absatz 2) und der Veränderung der
-Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres
-gegenüber dem Vorjahr angepasst wird. Die Nettoquote des
-Durchschnittsentgelts des jeweiligen Kalenderjahres wird ermittelt,
-indem vom Wert 100 Prozent der vom Arbeitnehmer zu tragende Anteil des
-im Bundesanzeiger nach § 20 Absatz 2a Satz 5 des Vierten Buches
-bekannt gegebenen Gesamtsozialversicherungsbeitragssatzes des
-betreffenden Kalenderjahres abgezogen wird. Für die Bestimmung des
-Sicherungsniveaus vor Steuern für das Jahr 2022 beträgt das verfügbare
-Durchschnittsentgelt des Vorjahres 33 992,16 Euro. Die Sätze 1 bis 5
-sind für die Vorausberechnungen des Sicherungsniveaus vor Steuern
-entsprechend anzuwenden.
+(3a) (weggefallen)
 
 (4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom
 Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung
@@ -8855,16 +8838,52 @@ abzugeben, ob die Anhebung der Regelaltersgrenze unter
 Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der
 wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin
 vertretbar erscheint und die getroffenen gesetzlichen Regelungen
-bestehen bleiben können. In diesem Bericht sind zur Beibehaltung eines
-Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr
-2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter
-Wahrung der Beitragssatzstabilität vorzuschlagen. Die Bundesregierung
-berichtet zudem vom Jahre 2018 an über die Auswirkungen der
-Altersrente für besonders langjährig Versicherte in der Fassung des
-RV-Leistungsverbesserungsgesetzes, insbesondere über den Umfang der
-Inanspruchnahme und die Erfüllung der Zugangsvoraussetzungen vor dem
-Hintergrund der Berücksichtigung von Zeiten des Arbeitslosengeldbezugs
-und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
+bestehen bleiben können. Die Bundesregierung berichtet zudem vom Jahre
+2018 an über die Auswirkungen der Altersrente für besonders langjährig
+Versicherte in der Fassung des RV-Leistungsverbesserungsgesetzes,
+insbesondere über den Umfang der Inanspruchnahme und die Erfüllung der
+Zugangsvoraussetzungen vor dem Hintergrund der Berücksichtigung von
+Zeiten des Arbeitslosengeldbezugs und macht Vorschläge für eine
+Weiterentwicklung dieser Rentenart.
+
+
+##### § 154a Sicherungsniveau vor Steuern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068300130)
+
+(1) Das Sicherungsniveau vor Steuern für das jeweilige Kalenderjahr
+ist der Verhältniswert aus der verfügbaren Standardrente und dem
+verfügbaren Durchschnittsentgelt des jeweils betreffenden
+Kalenderjahres.
+
+(2) Die verfügbare Standardrente des jeweiligen Kalenderjahres ist die
+Standardrente, gemindert um die von den Rentnerinnen und Rentnern zu
+tragenden Sozialversicherungsbeiträge. Die Standardrente ist die
+Regelaltersrente aus der allgemeinen Rentenversicherung mit 45
+Entgeltpunkten, die sich berechnet unter Zugrundelegung des ab dem 1.
+Juli des betreffenden Kalenderjahres geltenden aktuellen Rentenwerts
+für zwölf Monate. Die von den Rentnerinnen und Rentnern zu tragenden
+Sozialversicherungsbeiträge berechnen sich, indem die Standardrente
+des betreffenden Kalenderjahres multipliziert wird mit der Summe des
+von den Rentnerinnen und Rentnern zu tragenden Anteils des allgemeinen
+Beitragssatzes sowie des durchschnittlichen Zusatzbeitragssatzes zur
+gesetzlichen Krankenversicherung und des Beitragssatzes zur sozialen
+Pflegeversicherung des betreffenden Kalenderjahres. Dabei ist die
+jeweilige Höhe der Beitragssätze der Bekanntmachung des
+Gesamtsozialversicherungsbeitragssatzes nach § 20 Absatz 2a Satz 5 des
+Vierten Buches im Bundesanzeiger zu entnehmen.
+
+(3) Das verfügbare Durchschnittsentgelt des jeweiligen Kalenderjahres
+wird ermittelt, indem das verfügbare Durchschnittsentgelt des
+Vorjahres mit der für die Rentenanpassung maßgebenden Veränderung der
+Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2) und mit der
+Veränderung der Nettoquote des Durchschnittsentgelts des jeweiligen
+Kalenderjahres gegenüber dem Vorjahr multipliziert wird. Die
+Nettoquote des Durchschnittsentgelts des jeweiligen Kalenderjahres
+wird ermittelt, indem der Wert 100 Prozent vermindert wird um den vom
+Arbeitnehmer zu tragenden Anteil des im Bundesanzeiger nach § 20
+Absatz 2a Satz 5 des Vierten Buches bekannt gegebenen
+Gesamtsozialversicherungsbeitragssatzes des betreffenden
+Kalenderjahres.
 
 
 ##### § 155 Aufgabe des Sozialbeirats
@@ -8945,14 +8964,14 @@ Beitragsbemessungsgrenze berücksichtigt wird.
 
 
 ###### § 158 Beitragssätze
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026210308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026211130)
 
 (1) Der Beitragssatz in der allgemeinen Rentenversicherung ist vom 1.
 Januar eines Jahres an zu verändern, wenn am 31. Dezember dieses
 Jahres bei Beibehaltung des bisherigen Beitragssatzes die Mittel der
 Nachhaltigkeitsrücklage
 
-1.  das 0,2fache der durchschnittlichen Ausgaben zu eigenen Lasten der
+1.  das 0,3fache der durchschnittlichen Ausgaben zu eigenen Lasten der
     Träger der allgemeinen Rentenversicherung für einen Kalendermonat
     (Mindestrücklage) voraussichtlich unterschreiten oder
 
@@ -11655,85 +11674,51 @@ entsprechend.
 
 
 ##### § 213 Zuschüsse des Bundes
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031820126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031821130)
 
 (1) Der Bund leistet zu den Ausgaben der allgemeinen
 Rentenversicherung Zuschüsse.
 
-(2) Der Bundeszuschuss zu den Ausgaben der allgemeinen
-Rentenversicherung ändert sich im jeweils folgenden Kalenderjahr in
-dem Verhältnis, in dem die Bruttolöhne und -gehälter je Arbeitnehmer
-(§ 68 Abs. 2 Satz 1) im vergangenen Kalenderjahr zu den entsprechenden
-Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen. Bei
-Veränderungen des Beitragssatzes ändert sich der Bundeszuschuss
-zusätzlich in dem Verhältnis, in dem der Beitragssatz des Jahres, für
-das er bestimmt wird, zum Beitragssatz des Vorjahres steht. Bei
-Anwendung von Satz 2 ist jeweils der Beitragssatz zugrunde zu legen,
-der sich ohne Berücksichtigung des zusätzlichen Bundeszuschusses nach
-Absatz 3 und des Erhöhungsbetrags nach Absatz 4 ergeben würde. Der
-Bundeszuschuss wird in den Jahren 2019 und 2020 um jeweils 400
-Millionen Euro, im Jahr 2021 um 1,5 Milliarden Euro, im Jahr 2022 um
-560 Millionen Euro und in den Jahren 2023 bis 2025 um jeweils 480
-Millionen Euro erhöht; diese Beträge sind jeweils bei den Änderungen
-des Bundeszuschusses in den darauf folgenden Kalenderjahren nach den
-Sätzen 1 bis 3 zu berücksichtigen.
+(2) Ausgehend von einem Betrag von 60 798 122 554,45 Euro im Jahr 2025
+wird der allgemeine Bundeszuschuss für das jeweils folgende
+Kalenderjahr neu bestimmt, indem der für das laufende Kalenderjahr
+ermittelte allgemeine Bundeszuschuss multipliziert wird mit
 
-(2a) Der allgemeine Bundeszuschuss wird für das Jahr 2006 um 170
-Millionen Euro und ab dem Jahr 2007 um jeweils 340 Millionen Euro
-pauschal vermindert. Abweichungen des pauschalierten
-Minderungsbetrages von den tatsächlichen zusätzlichen Einnahmen eines
-Kalenderjahres durch Mehreinnahmen aus der Begrenzung der
-Sozialversicherungsfreiheit für Sonn-, Feiertags- und Nachtzuschläge
-auf einen Stundenlohn bis zu 25 Euro und aufgrund der Erhöhung der
-Pauschalabgaben für geringfügige Beschäftigung ohne
-Versicherungspflicht im gewerblichen Bereich von 12 vom Hundert auf 15
-vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung
-sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung
-folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den
-Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss
-nach Absatz 2 ohne Minderungsbetrag.
+1.  dem Faktor für die Veränderung der Bruttolöhne und -gehälter je
+    Arbeitnehmer nach § 68 Absatz 2 Satz 1 des vergangenen Kalenderjahres
+    gegenüber dem vorvergangenen Kalenderjahr sowie
 
-(3) Der Bund zahlt zur pauschalen Abgeltung nicht beitragsgedeckter
-Leistungen an die allgemeine Rentenversicherung in jedem Kalenderjahr
-einen zusätzlichen Bundeszuschuss. Der zusätzliche Bundeszuschuss
-beträgt für die Monate April bis Dezember des Jahres 1998 9,6
-Milliarden Deutsche Mark und für das Jahr 1999 15,6 Milliarden
-Deutsche Mark. Für die Kalenderjahre ab 2000 verändert sich der
-zusätzliche Bundeszuschuss jährlich entsprechend der Veränderungsrate
-der Steuern vom Umsatz; hierbei bleiben Änderungen der Steuersätze im
-Jahr ihres Wirksamwerdens unberücksichtigt. Der sich nach Satz 3
-ergebende Betrag des zusätzlichen Bundeszuschusses wird für das Jahr
-2000 um 1,1 Milliarden Deutsche Mark, für das Jahr 2001 um 1,1
-Milliarden Deutsche Mark, für das Jahr 2002 um 664,679 Millionen Euro
-und für das Jahr 2003 um 102,258 Millionen Euro gekürzt. Auf den
-zusätzlichen Bundeszuschuss werden die Erstattungen nach § 291b
-angerechnet. Für die Zahlung, Aufteilung und Abrechnung des
-zusätzlichen Bundeszuschusses sind die Vorschriften über den
-Bundeszuschuss anzuwenden.
 
-(4) Der zusätzliche Bundeszuschuss nach Absatz 3 wird um die Einnahmen
-des Bundes aus dem Gesetz zur Fortführung der ökologischen
-Steuerreform abzüglich eines Betrages von 2,5 Milliarden Deutsche Mark
-im Jahr 2000 sowie eines Betrages von 1,9 Milliarden Deutsche Mark ab
-dem Jahr 2001 erhöht (Erhöhungsbetrag). Als Erhöhungsbetrag nach Satz
-1 werden für das Jahr 2000 2,6 Milliarden Deutsche Mark, für das Jahr
-2001 8,14 Milliarden Deutsche Mark, für das Jahr 2002 6,81040
-Milliarden Euro und für das Jahr 2003 9,51002 Milliarden Euro
-festgesetzt. Für die Kalenderjahre nach 2003 verändern sich die
-Erhöhungsbeträge in dem Verhältnis, in dem die Bruttolöhne und
--gehälter im vergangenen Kalenderjahr zu den entsprechenden
-Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen; §
-68 Abs. 2 Satz 1 gilt entsprechend. Für die Zahlung, Aufteilung und
-Abrechnung des Erhöhungsbetrags sind die Vorschriften über den
-Bundeszuschuss anzuwenden.
+2.  dem Faktor für die Veränderung des Beitragssatzes zur allgemeinen
+    Rentenversicherung des folgenden Kalenderjahres gegenüber dem
+    laufenden Kalenderjahr.
 
-(5) Ab dem Jahr 2003 verringert sich der Erhöhungsbetrag um 409
-Millionen Euro. Bei der Feststellung der Veränderung der
-Erhöhungsbeträge nach Absatz 4 Satz 3 ist der Abzugsbetrag nach Satz 1
-nicht zu berücksichtigen.
 
-(6) Die Festsetzung und Auszahlung der Monatsraten sowie die
-Abrechnung führt das Bundesamt für Soziale Sicherung durch.
+
+
+(3) Ausgehend von einem Betrag von 15 717 551 040,57 Euro im Jahr 2025
+wird der zusätzliche Bundeszuschuss ohne den Erhöhungsbetrag nach
+Absatz 4 für das jeweils folgende Kalenderjahr neu bestimmt, indem der
+für das laufende Kalenderjahr ermittelte zusätzliche Bundeszuschuss
+ohne den Erhöhungsbetrag nach Absatz 4 mit dem Faktor für die
+Veränderung des erwarteten Aufkommens der Steuern vom Umsatz des
+folgenden Jahres gegenüber dem laufenden Jahr multipliziert wird.
+Dabei bleiben Änderungen der Steuersätze im Jahr ihres Wirksamwerdens
+unberücksichtigt. Mit dem zusätzlichen Bundeszuschuss werden die nicht
+beitragsgedeckten Leistungen pauschal abgegolten.
+
+(4) Der zusätzliche Bundeszuschuss nach Absatz 3 wird um einen
+Erhöhungsbetrag ergänzt. Ausgehend von dem Betrag von
+17 586 056 949,39 Euro im Jahr 2025 wird dieser für das jeweils
+folgende Kalenderjahr neu bestimmt, indem der für das laufende
+Kalenderjahr ermittelte Erhöhungsbetrag mit dem Faktor für die
+Veränderung der Bruttolöhne und -gehälter des vergangenen Jahres
+gegenüber dem vorvergangenen Jahr multipliziert wird. § 68 Absatz 2
+Satz 1 gilt entsprechend.
+
+(5) Die Festsetzung und Auszahlung der Monatsraten sowie die
+Abrechnung der Bundeszuschüsse führt das Bundesamt für Soziale
+Sicherung durch.
 
 
 ##### § 214 Liquiditätssicherung
@@ -16701,19 +16686,19 @@ Beitrittsgebiet und der Anzahl der Äquivalenzrentner für das Jahr 2024
 für das Beitrittsgebiet ergibt.
 
 
-##### § 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057611126)
+##### § 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum Ablauf des 1. Juli 2031
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057612130)
 
-(1) Wird in der Zeit vom 1. Juli 2019 bis zum 1. Juli 2025 mit dem
-nach § 68 ermittelten aktuellen Rentenwert das Sicherungsniveau vor
-Steuern nach § 154 Absatz 3a des laufenden Jahres in Höhe von 48
-Prozent unterschritten, ist der aktuelle Rentenwert so anzuheben, dass
-das Sicherungsniveau vor Steuern mindestens 48 Prozent
+(1) Wird in der Zeit vom 1. Juli 2019 bis zum Ablauf des 1. Juli 2031
+mit dem nach § 68 ermittelten aktuellen Rentenwert das
+Sicherungsniveau vor Steuern nach § 154a des laufenden Jahres in Höhe
+von 48 Prozent unterschritten, ist der aktuelle Rentenwert so
+anzuheben, dass das Sicherungsniveau vor Steuern mindestens 48 Prozent
 (Mindestsicherungsniveau) beträgt.
 
 (2) Der für die Einhaltung des Mindestsicherungsniveaus erforderliche
 aktuelle Rentenwert wird ermittelt, indem das verfügbare
-Durchschnittsentgelt nach § 154 Absatz 3a Satz 5 des laufenden Jahres
+Durchschnittsentgelt nach § 154a Absatz 3 Satz 1 des laufenden Jahres
 mit 48 Prozent multipliziert wird und durch das Produkt aus 45 und 12
 und der Nettoquote der Standardrente für das laufende Kalenderjahr
 dividiert wird. Der für die Einhaltung des Mindestsicherungsniveaus
@@ -16735,7 +16720,7 @@ errechnet:
 *    *        ![bgbl1_2022_j0975-1_0030.jpg](bgbl1_2022_j0975-1_0030.jpg)
     *   =
 
-    *   verfügbares Durchschnittsentgelt nach § 154 Absatz 3a Satz 5 des
+    *   verfügbares Durchschnittsentgelt nach § 154a Absatz 3 Satz 1 des
         laufenden Kalenderjahres,
 
 
@@ -16758,12 +16743,9 @@ Der nach dieser Formel ermittelte aktuelle Rentenwert wird auf volle
 Eurocent aufgerundet.
 
 
-##### § 255f Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057707126)
+##### § 255f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057708126)
 
-Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
-Bundesrates zum 1. Juli eines Jahres das Sicherungsniveau vor Steuern
-des jeweiligen Jahres zu bestimmen.
 
 
 ##### § 255g Ausgleichsbedarf ab dem 1. Juli 2021
@@ -16772,16 +16754,16 @@ des jeweiligen Jahres zu bestimmen.
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2021 0,9883.
 
 
-##### § 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067100377)
+##### § 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067101130)
 
-(1) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(1) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert geringer als der
 bisherige aktuelle Rentenwert, ist bei der Berechnung des
 Ausgleichsfaktors nach § 68a Absatz 2 die Niveauschutzklausel nach §
 255e nicht zu beachten.
 
-(2) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(2) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert höher als der bisherige
 aktuelle Rentenwert, aber kleiner als der nach § 255e Absatz 2
 berechnete aktuelle Rentenwert, erfolgt keine Verrechnung
@@ -16789,7 +16771,7 @@ unterbliebener Minderungswirkungen (Ausgleichsbedarf) mit der Erhöhung
 des aktuellen Rentenwerts. Der Wert des Ausgleichsbedarfs bleibt dann
 unverändert.
 
-(3) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(3) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der nach § 68 berechnete aktuelle Rentenwert höher als der bisherige
 aktuelle Rentenwert und höher als der nach § 255e Absatz 2 berechnete
 aktuelle Rentenwert und ist der im Vorjahr bestimmte Wert des
@@ -16825,19 +16807,19 @@ Ausgleichsbedarfs dann 1,0000.
 (5) Sind die Absätze 1, 3 und 4 nicht anzuwenden, bleibt der Wert des
 Ausgleichsbedarfs unverändert.
 
-(6) Wird in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+(6) Wird in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2031
 der aktuelle Rentenwert zum 1. Juli nach § 255i festgesetzt, beträgt
 der Ausgleichsbedarf 1,0000. Es erfolgt keine Berechnung des
 Ausgleichsbedarfs nach § 68a in Verbindung mit § 255h.
 
 
-##### § 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2025
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067300377)
+##### § 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2031
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067301130)
 
-Wird in der Zeit bis zum Ablauf des 1. Juli 2025 der neue aktuelle
+Wird in der Zeit bis zum Ablauf des 1. Juli 2031 der neue aktuelle
 Rentenwert zum 1. Juli eines Jahres so festgesetzt, dass dieser dem
 Wert nach § 255e Absatz 2 entspricht, so wird in den folgenden Jahren
-bis zum Ablauf des 1. Juli 2025 der aktuelle Rentenwert jeweils zum 1.
+bis zum Ablauf des 1. Juli 2031 der aktuelle Rentenwert jeweils zum 1.
 Juli eines Jahres nach § 255e Absatz 2 festgelegt. Abweichend davon
 verändert sich der bisherige aktuelle Rentenwert zum 1. Juli eines
 Jahres nicht, wenn der nach § 255e Absatz 2 berechnete aktuelle
@@ -19683,13 +19665,9 @@ Kalenderjahr nach § 213 Absatz 3.
 (3) (weggefallen)
 
 
-###### § 287a Veränderung des allgemeinen Bundeszuschusses für das Jahr 2025
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048807126)
+###### § 287a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048808130)
 
-Für die Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz
-2 für das Jahr 2025 sind abweichend von § 228b die für das
-Bundesgebiet ohne das Beitrittsgebiet ermittelten Bruttolöhne und
--gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1) maßgebend.
 
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe
@@ -19807,30 +19785,15 @@ folgt festgesetzt:
 
 
 
-###### § 287c Förderung für sonstige Leistungen der Teilhabe
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049003126)
+###### § 287c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049004130)
 
-Der Bund überträgt an die allgemeine Rentenversicherung zusätzlich zu
-den Zuschüssen des Bundes nach den §§ 213 und 287e in den
-Kalenderjahren 2021 bis 2023 Mittel in Höhe von jährlich 5 Millionen
-Euro für sonstige Leistungen zur Teilhabe nach § 31 Absatz 1 Nummer 3.
-Die Auszahlung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ###### § 287d Erstattungen in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049105126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049106130)
 
-(1) Der Bund erstattet den Trägern der Rentenversicherung im
-Beitrittsgebiet die Aufwendungen für Kriegsbeschädigtenrenten und für
-die Auszahlung der weiteren Sonderleistungen.
-
-(2) Das Bundesamt für Soziale Sicherung verteilt die Beträge nach
-Absatz 1 auf die allgemeine und die knappschaftliche
-Rentenversicherung, setzt die Vorschüsse fest und führt die Abrechnung
-durch. Für die Träger der allgemeinen Rentenversicherung ist § 219
-Abs. 1 entsprechend anzuwenden.
-
-(3) § 179 Abs. 1a ist anzuwenden, wenn
+§ 179 Abs. 1a ist anzuwenden, wenn
 
 1.  das Erstattungsverfahren am 1. Januar 2001 noch nicht abschließend
     entschieden war und
@@ -19842,27 +19805,9 @@ Abs. 1 entsprechend anzuwenden.
 
 
 
-###### § 287e Veränderung des Bundeszuschusses im Beitrittsgebiet
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049204308)
+###### § 287e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049206130)
 
-(1) § 213 Abs. 2 gilt für die Bundesrepublik Deutschland ohne das
-Beitrittsgebiet.
-
-(2) Der Zuschuss des Bundes zu den Ausgaben der allgemeinen
-Rentenversicherung, soweit sie für das Beitrittsgebiet zuständig ist
-(Bundeszuschuss-Beitrittsgebiet), wird jeweils für ein Kalenderjahr in
-der Höhe geleistet, die sich ergibt, wenn die Rentenausgaben für
-dieses Kalenderjahr einschließlich der Aufwendungen für
-Kindererziehungsleistungen für Mütter der Geburtsjahrgänge vor 1927
-und abzüglich erstatteter Aufwendungen für Renten und Rententeile mit
-dem Verhältnis vervielfältigt werden, in dem der Bundeszuschuss in der
-Bundesrepublik Deutschland ohne das Beitrittsgebiet zu den
-Rentenausgaben desselben Kalenderjahres einschließlich der
-Aufwendungen aus der Erbringung von Kindererziehungsleistungen für
-Mütter der Geburtsjahrgänge vor 1921 steht. Der Bundeszuschuss-
-Beitrittsgebiet ist auf die Träger der allgemeinen Rentenversicherung
-im Beitrittsgebiet entsprechend ihrem jeweiligen Verhältnis an den
-Beitragseinnahmen buchhalterisch aufzuteilen.
 
 
 ###### § 287f Getrennte Abrechnung
@@ -19874,12 +19819,35 @@ ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
 
 ###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068001126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068002130)
 
 Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis
 2027 jeweils um 1,2 Milliarden Euro gemindert. Bei der Feststellung
-der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 3 ist
+der Veränderung der Erhöhungsbeträge nach § 213 Absatz 4 Satz 2 ist
 der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
+
+
+###### § 287h Bundesmittel und Mindestrücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068400130)
+
+Ist der Beitragssatz in der allgemeinen Rentenversicherung vom 1.
+Januar eines Jahres an nach § 158 erstmals auf einen Wert von über
+18,6 Prozent zu verändern, ist für dieses Jahr zusätzlich ein
+rechnerischer Beitragssatz in der allgemeinen Rentenversicherung nach
+§ 158 zu ermitteln, der sich bei einer Mindestrücklage nach § 158
+Absatz 1 Satz 1 Nummer 1 in Höhe des 0,2fachen der durchschnittlichen
+Ausgaben zu eigenen Lasten der Träger der allgemeinen
+Rentenversicherung für einen Kalendermonat ergeben würde. Bei der
+Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 und
+der Beitragszahlung für Kindererziehungszeiten nach § 177 Absatz 2 ist
+für das Jahr nach Satz 1 an Stelle des Beitragssatzes zur allgemeinen
+Rentenversicherung nach § 158 jeweils der rechnerische Beitragssatz
+nach Satz 1 anzuwenden. Bei der Festlegung des allgemeinen
+Bundeszuschusses nach § 213 Absatz 2 und der Beitragszahlung für
+Kindererziehungszeiten nach § 177 Absatz 2 in dem darauf folgenden
+Jahr ist als Beitragssatz für das Jahr nach Satz 1 an Stelle des
+Beitragssatzes zur allgemeinen Rentenversicherung nach § 158 jeweils
+der rechnerische Beitragssatz nach Satz 1 anzuwenden.
 
 
 ###### § 288
@@ -20014,44 +19982,76 @@ Aufwendungen für die Zahlung von Invalidenrenten für behinderte
 Menschen.
 
 
-###### § 291b Erstattung nicht beitragsgedeckter Leistungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055603308)
+###### § 291b Erstattung der Mehraufwendungen aufgrund der Anpassung nach Mindestsicherungsniveau ab dem Jahr 2026
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055604130)
 
-Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die
-Aufwendungen für Leistungen nach dem Fremdrentenrecht.
+(1) Der Bund erstattet den Trägern der allgemeinen Rentenversicherung
+jährlich die Mehraufwendungen, die sich daraus ergeben, dass der
+aktuelle Rentenwert abweichend vom Verfahren nach § 68 ab dem Jahr
+2026 bis einschließlich 2031 nach § 255i festzusetzen ist.
+
+(2) Für die Bestimmung des Erstattungsbetrags wird ab dem Jahr 2026
+bis einschließlich 2031 ein Vergleichswert zum festgesetzten aktuellen
+Rentenwert bestimmt. Der Vergleichswert wird zum 1. Juli eines jeden
+Jahres ausgehend von seinem Vorjahreswert nach dem Verfahren nach § 68
+ermittelt. Für die Ermittlung des Vergleichswerts zum 1. Juli 2026
+gilt der am 30. Juni 2026 geltende aktuelle Rentenwert als
+Vorjahreswert. Der Erstattungsbetrag für das jeweilige Kalenderjahr
+ergibt sich, indem die relative Abweichung zwischen
+jahresdurchschnittlichem Vergleichswert und jahresdurchschnittlichem
+aktuellen Rentenwert mit denjenigen Aufwendungen der allgemeinen
+Rentenversicherung multipliziert wird, die von der Höhe des aktuellen
+Rentenwerts abhängen und die nicht bereits anderweitig erstattet
+werden.
+
+(3) Ab dem Jahr 2032 wird der Erstattungsbetrag für das jeweilige
+Kalenderjahr bestimmt, indem die relative Abweichung zwischen dem am
+1\. Juli 2031 geltenden Vergleichswert und dem am 1. Juli 2031
+geltenden aktuellen Rentenwert mit denjenigen Aufwendungen der
+allgemeinen Rentenversicherung multipliziert wird, die von der Höhe
+des aktuellen Rentenwerts abhängen und die nicht bereits anderweitig
+erstattet werden.
+
+(4) Auf die Erstattungsbeträge sind angemessene Abschläge zu zahlen.
+Die Festsetzung und Auszahlung der Monatsraten sowie die Abrechnung
+der Erstattung führt das Bundesamt für Soziale Sicherung durch.
+
+(5) Bei der Bestimmung des aktuellen Rentenwerts sowie bei der
+Berechnung des Vergleichswerts nach Absatz 2 sind die erstatteten
+Mehraufwendungen für Renten und Rententeile nach dieser Vorschrift
+abweichend von § 68 Absatz 4 Satz 3 bei der Berechnung der Anzahl der
+Äquivalenzrentner beim Gesamtvolumen der Renten nicht in Abzug zu
+bringen.
 
 
-###### § 291c Anschubfinanzierung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055905311)
+###### § 291c Erstattung der Mehraufwendungen zur vollständigen Gleichstellung der Kindererziehungszeiten ab dem Jahr 2027
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055906130)
 
-Der Bund überträgt an die allgemeine Rentenversicherung im
-Kalenderjahr 2023 Mittel in Höhe von 4,1 Millionen Euro zur pauschalen
-Erstattung der Kosten für die Entwicklung eines digitalen Verfahrens
-zur Erhebung und zum Nachweis der Anzahl der berücksichtigungsfähigen
-Kinder im Beitragsrecht der sozialen Pflegeversicherung gemäß § 55
-Absatz 3c Satz 1 des Elften Buches.
+Der Bund erstattet der allgemeinen Rentenversicherung jährlich die
+Mehraufwendungen, die sich aufgrund der ab dem Jahr 2028 geltenden
+zusätzlichen Kindererziehungszeiten von sechs Monaten und der ab dem
+Jahr 2027 geltenden zusätzlichen Zuschläge an persönlichen
+Entgeltpunkten für Kindererziehung für ein vor dem 1. Januar 1992
+geborenes Kind ergeben. Die Mehraufwendungen für das Jahr 2027 nach
+Satz 1, die im Jahr 2028 entstehen, werden im Jahr 2028 erstattet. Auf
+die Erstattungsbeträge sind angemessene Abschläge zu zahlen. Die
+Festsetzung und Auszahlung der Monatsraten sowie die Abrechnung der
+Erstattung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ###### § 292 Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039807308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039808130)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Erstattungen gemäß § 287d zu bestimmen.
+Erstattungen gemäß § 289a zu bestimmen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Erstattungen gemäß § 289a zu bestimmen.
-
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Finanzen durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
 Erstattung gemäß § 291a zu bestimmen, wobei eine pauschale Erstattung
 vorgesehen werden kann.
-
-(4) (weggefallen)
 
 
 ###### § 292a Verordnungsermächtigung für das Beitrittsgebiet
@@ -22165,7 +22165,7 @@ erforderlich sind.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042736126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042737126)
 
 (Fundstelle: BGBl. I 2002, 869 - 870,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -22995,9 +22995,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   24
 
-    *
-    *   45 358\*)
+    *   47 085
 
+    *
 
 *    *   25
 
@@ -23005,17 +23005,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   50 493\*)
 
 
+*    *   26
+
+    *
+    *   51 944\*)
+
+
 
 -----
 
-\*) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Nr. 2.
+\*) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Satz 1 Nr. 2.
 
 
 
 
 
 ### Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042838126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042839126)
 
 (Fundstelle: BGBl. I 2002, 871,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -23724,6 +23730,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   118 800
+
+
+*    *   1.1.2026 - 31.12.2026
+
+    *   101 400
+
+    *
+    *   124 800
 
 
 

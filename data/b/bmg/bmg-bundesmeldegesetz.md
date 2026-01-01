@@ -59,7 +59,7 @@ betroffene Person in die Datenverarbeitung eingewilligt hat.
 
 
 ### § 3 Speicherung von Daten
-[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000418130)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000420130)
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 Absatz 1 und 3 speichern die
 Meldebehörden folgende Daten sowie die zum Nachweis ihrer Richtigkeit
@@ -331,13 +331,7 @@ erforderlichen Hinweise im Melderegister:
 
     den Namen und die Anschrift des Eigentümers der Wohnung und, wenn
     dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der
-    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers,
-
-
-11. im Spannungs- oder Verteidigungsfall für die Wehrerfassung
-
-    die Tatsache, dass ein Einwohner bereits vor der Erfassung seines
-    Jahrganges erfasst worden ist.
+    Wohnung sowie den Namen und die Anschrift des Wohnungsgebers.
 
 
 
@@ -1921,22 +1915,14 @@ Vereinbarungen, wenn Daten übermittelt werden an
 
 
 #### § 36 Regelmäßige Datenübermittlungen
-[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003702116)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003703130)
 
-(1) Datenübermittlungen an andere öffentliche Stellen, die ohne
-Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend
-durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig,
-soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass
-und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden
-Daten festgelegt sind.
-
-(2) Eine Datenübermittlung nach § 58c Absatz 1 Satz 1 des
-Soldatengesetzes ist nur zulässig, soweit die betroffene Person nicht
-widersprochen hat. Bei einem Widerspruch hat die betroffene Person
-gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung
-einer Übermittlungssperre. Die betroffene Person ist auf ihr
-Widerspruchsrecht bei der Anmeldung und spätestens im Oktober eines
-jeden Jahres durch ortsübliche Bekanntmachung hinzuweisen.
+Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen
+in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt
+werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies
+durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck
+der Übermittlungen, der Empfänger und die zu übermittelnden Daten
+festgelegt sind.
 
 
 #### § 37 Datenweitergabe
@@ -2205,7 +2191,7 @@ ausgeschlossen werden kann.
 
 
 #### § 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften
-[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004306360)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004307130)
 
 (1) Die Meldebehörde darf einer öffentlich-rechtlichen
 Religionsgesellschaft unter den in § 34 Absatz 1 Satz 1 genannten
@@ -2338,10 +2324,12 @@ Kindern. Familienangehörige, die nicht derselben oder keiner
 öffentlich-rechtlichen Religionsgesellschaft angehören, haben das
 Recht, der Übermittlung ihrer Daten zu widersprechen; sie sind auf
 dieses Recht bei der Anmeldung nach § 17 Absatz 1 sowie einmal
-jährlich durch ortsübliche Bekanntmachung hinzuweisen. § 36 Absatz 2
-Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten für Zwecke
-des Steuererhebungsrechts der jeweiligen öffentlich-rechtlichen
-Religionsgesellschaft übermittelt werden.
+jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem
+Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein
+Recht auf unentgeltliche Einrichtung einer Übermittlungssperre. Satz 2
+gilt nicht, soweit Daten für Zwecke des Steuererhebungsrechts der
+jeweiligen öffentlich-rechtlichen Religionsgesellschaft übermittelt
+werden.
 
 (4) Für Datenübermittlungen nach den Absätzen 1 und 2 gilt § 34 Absatz
 5 entsprechend.
@@ -2715,7 +2703,7 @@ und 5 gilt entsprechend.
 
 
 #### § 50 Melderegisterauskünfte in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005102116)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005103130)
 
 (1) Die Meldebehörde darf Parteien, Wählergruppen und anderen Trägern
 von Wahlvorschlägen im Zusammenhang mit Wahlen und Abstimmungen auf
@@ -2783,7 +2771,9 @@ Absatz 2 und 3 gilt entsprechend.
 (5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten
 nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der
 Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche
-Bekanntmachung hinzuweisen. § 36 Absatz 2 Satz 2 gilt entsprechend.
+Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene
+Person gegenüber der Meldebehörde ein Recht auf unentgeltliche
+Einrichtung einer Übermittlungssperre.
 
 (6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3
 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine

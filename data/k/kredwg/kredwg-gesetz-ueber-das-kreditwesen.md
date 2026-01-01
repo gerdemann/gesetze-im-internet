@@ -4747,7 +4747,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 
 #### § 9 Verschwiegenheitspflicht
-[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022112128)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022113119)
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
@@ -4855,7 +4855,9 @@ nicht vor, wenn Tatsachen weitergegeben werden an
     Systemrisiken,
 
 
-19. die Bundesanstalt für Finanzmarktstabilisierung, das Gremium zum
+19. die Bundesrepublik Deutschland – Finanzagentur GmbH in ihrer Funktion
+    als Verwalterin des Finanzmarktstabilisierungsfonds nach § 3a Absatz 2
+    und 2a des Stabilisierungsfondsgesetzes, das Gremium zum
     Finanzmarktstabilisierungsfonds im Sinne des § 10a Absatz 1 des
     Stabilisierungsfondsgesetzes oder den Lenkungsausschuss im Sinne des §
     4 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes,

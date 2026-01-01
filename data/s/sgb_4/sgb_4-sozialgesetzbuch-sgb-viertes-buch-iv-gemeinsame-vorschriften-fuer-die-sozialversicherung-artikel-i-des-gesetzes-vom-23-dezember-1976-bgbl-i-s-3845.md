@@ -663,7 +663,7 @@ gesondert auszuweisen.
 
 
 #### § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003013126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003014126)
 
 (1) Eine geringfügige Beschäftigung liegt vor, wenn
 
@@ -675,7 +675,8 @@ gesondert auszuweisen.
     Monate oder 70 Arbeitstage nach ihrer Eigenart begrenzt zu sein pflegt
     oder im Voraus vertraglich begrenzt ist, es sei denn, dass die
     Beschäftigung berufsmäßig ausgeübt wird und die Geringfügigkeitsgrenze
-    übersteigt.
+    übersteigt; bei einer Beschäftigung in einem landwirtschaftlichen
+    Betrieb gilt eine zeitliche Grenze von 15 Wochen oder 90 Arbeitstagen.
 
 
 
@@ -2400,7 +2401,7 @@ Der für die Erstattung zuständige Leistungsträger kann
 
 
 #### § 28a Meldepflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022941126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022942126)
 
 (1) Der Arbeitgeber oder ein anderer Meldepflichtiger hat der
 Einzugsstelle für jeden in der Kranken-, Pflege-, Rentenversicherung
@@ -2640,10 +2641,14 @@ Fünften Buches hat in den Fällen, in denen für eine Meldung keine
 Versicherungsnummer des Beschäftigten oder Versorgungsempfängers
 vorliegt, im Verfahren nach Absatz 1 eine Meldung zur Abfrage der
 Versicherungsnummer an die Datenstelle der Rentenversicherung zu
-übermitteln; die weiteren Meldepflichten bleiben davon unberührt. Die
-Datenstelle der Rentenversicherung übermittelt dem Arbeitgeber oder
-der Zahlstelle unverzüglich durch Datenübertragung die
-Versicherungsnummer oder den Hinweis, dass die Vergabe der
+übermitteln; die weiteren Meldepflichten bleiben davon unberührt. Satz
+1 gilt für Arbeitgeber und Zahlstellen in den Fällen, in denen vor der
+Anmeldung einer Beschäftigung oder vor der Abgabe der ersten Meldung
+für einen Versorgungsempfänger programmseitig keine
+Versicherungsnummer vorliegt. Dies gilt nicht für eine Meldung nach
+Absatz 4. Die Datenstelle der Rentenversicherung übermittelt dem
+Arbeitgeber oder der Zahlstelle unverzüglich durch Datenübertragung
+die Versicherungsnummer oder den Hinweis, dass die Vergabe der
 Versicherungsnummer mit der Anmeldung erfolgt.
 
 (3b) Der Arbeitgeber hat auf elektronische Anforderung der
@@ -3053,7 +3058,7 @@ berufsständischer Versorgungseinrichtungen e. V. zu beteiligen ist.
 
 
 #### § 28c Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014113126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014114126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
@@ -3081,6 +3086,10 @@ Melde- und Beitragsverfahren zu bestimmen, insbesondere
 
 
 6.  in welchen Fällen auf einzelne Meldungen oder Angaben verzichtet wird,
+
+
+6a. in welchen Fällen die Einzugsstellen Korrekturen an Meldungen
+    vornehmen dürfen,
 
 
 7.  in welcher Form und Frist der Arbeitgeber die Beschäftigten über die
@@ -3356,7 +3365,7 @@ Beschäftigte nur Sachbezüge erhält.
 
 
 #### § 28h Einzugsstellen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014619126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014620126)
 
 (1) Der Gesamtsozialversicherungsbeitrag ist an die Krankenkassen
 (Einzugsstellen) zu zahlen. Die Einzugsstelle überwacht die
@@ -3399,11 +3408,14 @@ Datenübertragung mit.
 Einzugsstelle dem Arbeitgeber zum Jahresende
 
 1.  den Zeitraum, für den Beiträge zur Rentenversicherung gezahlt wurden,
-    und
 
 
 2.  die Höhe des Arbeitsentgelts (§ 14 Absatz 3), des von ihm getragenen
-    Gesamtsozialversicherungsbeitrags und der Umlagen.
+    Gesamtsozialversicherungsbeitrags und der Umlagen und
+
+
+3.  die Höhe der in diesem Jahr erfolgten Erstattungen nach dem
+    Aufwendungsausgleichsgesetz.
 
 
 
@@ -8267,7 +8279,7 @@ der Deutschen Arbeitgeberverbände vorher anzuhören.
 
 
 ### § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016618126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016619126)
 
 (1) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld,
 Pflegeunterstützungsgeld oder Mutterschaftsgeld Angaben über das
@@ -8282,11 +8294,12 @@ maschinell erstellter Ausfüllhilfen zu übermitteln. Der
 Leistungsträger hat diese Daten elektronisch anzunehmen, zu speichern
 und zu nutzen. Die Sätze 3 und 4 gelten nicht für Einzelfälle, in
 denen ein elektronisches Meldeverfahren nicht wirtschaftlich
-durchzuführen ist. Den Aufbau der Datensätze, notwendige
-Schlüsselzahlen und Angaben sowie die Ausnahmen nach Satz 5 bestimmen
-der Spitzenverband Bund der Krankenkassen, die Deutsche
-Rentenversicherung Bund, die Bundesagentur für Arbeit und die Deutsche
-Gesetzliche Unfallversicherung e. V. sowie die Sozialversicherung für
+durchzuführen ist. Das Nähere zum Aufbau der Datensätze, zu den
+notwendigen Schlüsselzahlen und Angaben sowie zum Verfahren nach den
+Sätzen 1 bis 4 und zu den Ausnahmen nach Satz 5 regeln der
+Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung
+Bund, die Bundesagentur für Arbeit und die Deutsche Gesetzliche
+Unfallversicherung e. V. sowie die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau in Gemeinsamen Grundsätzen. Die
 Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums
 für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für

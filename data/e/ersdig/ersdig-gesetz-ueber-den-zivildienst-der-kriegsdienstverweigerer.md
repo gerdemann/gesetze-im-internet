@@ -37,51 +37,45 @@ Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben,
 die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
 
-### § 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012403377)
+### § 1a Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012404311)
 
-(1) Die Einberufungsanordnungen des Bundesministeriums für Familie,
-Senioren, Frauen und Jugend können vorsehen, dass Einberufungen
-außerhalb des Spannungs- oder Verteidigungsfalls nur auf Vorschlag des
-Zivildienstpflichtigen und nur für Dienstantritte bis zum 30. Juni
-2011 erfolgen.
-
-(2) § 2 Absatz 2 sowie die §§ 2a und 23 gelten nur im Spannungs- oder
+§ 2 Absatz 2 sowie die §§ 2a und 23 gelten nur im Spannungs- oder
 Verteidigungsfall.
 
 
 ### § 2 Organisation des Zivildienstes
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001111377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001112311)
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in
-bundeseigener Verwaltung ausgeführt. Hierzu wird eine selbstständige
-Bundesoberbehörde unter der Bezeichnung "Bundesamt für den
-Zivildienst" (Bundesamt) errichtet, die dem Bundesministerium für
+bundeseigener Verwaltung durch das Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben (Bundesamt) als selbstständige
+Bundesoberbehörde ausgeführt, die dem Bundesministerium für Bildung,
 Familie, Senioren, Frauen und Jugend untersteht. Dem Bundesamt können
 auch andere Aufgaben aus dem Geschäftsbereich des Bundesministeriums
-für Familie, Senioren, Frauen und Jugend übertragen werden.
+für Bildung, Familie, Senioren, Frauen und Jugend übertragen werden.
 
 (2) Auf Vorschlag der Bundesregierung wird im Bundesministerium für
-Familie, Senioren, Frauen und Jugend eine Bundesbeauftragte für den
-Zivildienst (Bundesbeauftragte) oder ein Bundesbeauftragter für den
-Zivildienst (Bundesbeauftragter) ernannt. Die oder der
-Bundesbeauftragte führt die dem Bundesministerium für Familie,
-Senioren, Frauen und Jugend auf dem Gebiet des Zivildienstes
+Bildung, Familie, Senioren, Frauen und Jugend eine Bundesbeauftragte
+für den Zivildienst (Bundesbeauftragte) oder ein Bundesbeauftragter
+für den Zivildienst (Bundesbeauftragter) ernannt. Die oder der
+Bundesbeauftragte führt die dem Bundesministerium für Bildung,
+Familie, Senioren, Frauen und Jugend auf dem Gebiet des Zivildienstes
 obliegenden Aufgaben durch, soweit dieses Gesetz nichts anderes
 bestimmt. Die oder der Bundesbeauftragte erstattet dem Deutschen
 Bundestag in jeder Legislaturperiode einen schriftlichen
-Tätigkeitsbericht (Zivildienstbericht).
+Tätigkeitsbericht.
 
 
 ### § 2a Beirat für den Zivildienst
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001209377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001210311)
 
-(1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend
-wird ein Beirat für den Zivildienst gebildet. Der Beirat hat das
-Bundesministerium für Familie, Senioren, Frauen und Jugend in Fragen
-des Zivildienstes einschließlich der Frage, welche Aufgaben den
-Zivildienstpflichtigen (Dienstpflichtigen) außerhalb des sozialen
-Bereichs zugewiesen werden sollen, zu beraten.
+(1) Bei dem Bundesministerium für Bildung, Familie, Senioren, Frauen
+und Jugend wird ein Beirat für den Zivildienst gebildet. Der Beirat
+hat das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend in Fragen des Zivildienstes einschließlich der Frage, welche
+Aufgaben den Zivildienstpflichtigen (Dienstpflichtigen) außerhalb des
+sozialen Bereichs zugewiesen werden sollen, zu beraten.
 
 (2) Dem Beirat gehören an:
 
@@ -111,16 +105,16 @@ Bereichs zugewiesen werden sollen, zu beraten.
 
 
 
-(3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-beruft die Mitglieder des Beirates in der Regel für die Dauer von vier
-Jahren. Die in Absatz 2 genannten Stellen sollen hierzu Vorschläge
-machen. Die Dienstleistenden (Absatz 2 Nr. 1) sind für die Dauer ihrer
-Dienstzeit zu berufen. Für jedes Mitglied wird eine persönliche
-Stellvertretung berufen.
+(3) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend beruft die Mitglieder des Beirates in der Regel für die Dauer
+von vier Jahren. Die in Absatz 2 genannten Stellen sollen hierzu
+Vorschläge machen. Die Dienstleistenden (Absatz 2 Nr. 1) sind für die
+Dauer ihrer Dienstzeit zu berufen. Für jedes Mitglied wird eine
+persönliche Stellvertretung berufen.
 
 (4) Die Sitzungen des Beirates werden vom Bundesministerium für
-Familie, Senioren, Frauen und Jugend nach Maßgabe einer von ihm zu
-erlassenden Geschäftsordnung einberufen und geleitet.
+Bildung, Familie, Senioren, Frauen und Jugend nach Maßgabe einer von
+ihm zu erlassenden Geschäftsordnung einberufen und geleitet.
 
 
 ### § 3 Dienststellen
@@ -133,7 +127,7 @@ Bedarf auch in der Verwaltung des Zivildienstes beschäftigt werden.
 
 
 ### § 4 Anerkennung von Beschäftigungsstellen
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001411377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001412311)
 
 (1) Eine Beschäftigungsstelle kann auf ihren Antrag anerkannt werden,
 wenn
@@ -167,12 +161,12 @@ wenn
 
 
 4.  sie sich bereit erklärt, Beauftragten des Bundesministeriums für
-    Familie, Senioren, Frauen und Jugend und des Bundesamtes Einblick in
-    die Gesamttätigkeit der Dienstleistenden und deren einzelne Aufgaben
-    zu gewähren sowie den Bundesrechnungshof bei der Rechnungsprüfung
-    verausgabter Bundesmittel uneingeschränkt zu unterstützen. Die
-    Anerkennung wird für bestimmte Dienstplätze ausgesprochen. Sie kann
-    mit Auflagen verbunden werden.
+    Bildung, Familie, Senioren, Frauen und Jugend und des Bundesamtes
+    Einblick in die Gesamttätigkeit der Dienstleistenden und deren
+    einzelne Aufgaben zu gewähren sowie den Bundesrechnungshof bei der
+    Rechnungsprüfung verausgabter Bundesmittel uneingeschränkt zu
+    unterstützen. Die Anerkennung wird für bestimmte Dienstplätze
+    ausgesprochen. Sie kann mit Auflagen verbunden werden.
 
 
 
@@ -185,12 +179,12 @@ innerhalb einer gesetzten Frist erfüllt worden ist.
 
 
 ### § 5 Aufstellung der Dienstgruppen
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001507377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001508311)
 
-Dienstgruppen werden auf Anordnung des Bundesministeriums für Familie,
-Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das
-Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmt
-ihren Sitz nach Anhörung des beteiligten Landes.
+Dienstgruppen werden auf Anordnung des Bundesministeriums für Bildung,
+Familie, Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das
+Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
+bestimmt ihren Sitz nach Anhörung des beteiligten Landes.
 
 
 ### § 5a Übertragung von Verwaltungsaufgaben
@@ -215,7 +209,7 @@ Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
 
 ### § 6 Kosten
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001716377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001717311)
 
 (1) Die Beschäftigungsstellen sorgen auf ihre Kosten für Unterkunft,
 Verpflegung und Arbeitskleidung der Dienstleistenden. Sie tragen die
@@ -226,9 +220,10 @@ Verwaltungskosten.
 die diesen zustehenden Geldbezüge. Den Beschäftigungsstellen werden
 der Aufwand für den Mobilitätszuschlag in voller Höhe und für die
 übrigen Geldbezüge in Höhe von 70 vom Hundert vierteljährlich
-nachträglich erstattet. Das Bundesministerium für Familie, Senioren,
-Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der
-Finanzen für die Erstattung einheitliche Pauschalbeträge fest.
+nachträglich erstattet. Das Bundesministerium für Bildung, Familie,
+Senioren, Frauen und Jugend legt im Einvernehmen mit dem
+Bundesministerium der Finanzen für die Erstattung einheitliche
+Pauschalbeträge fest.
 
 (3) Den Beschäftigungsstellen können Zuschüsse zur Entlastung vom
 Aufwand für Unterkunft, Verpflegung und Arbeitskleidung der
@@ -245,11 +240,12 @@ ist,
 
 
 
-zu erhalten. Das Bundesministerium für Familie, Senioren, Frauen und
-Jugend erlässt zur Durchführung von Satz 1 im Einvernehmen mit dem
-Bundesministerium der Finanzen allgemeine Verwaltungsvorschriften zur
-Durchführung. Die Zuschüsse dürfen nur insoweit gewährt werden, als
-der Haushaltsplan hierfür Mittel zur Verfügung stellt.
+zu erhalten. Das Bundesministerium für Bildung, Familie, Senioren,
+Frauen und Jugend erlässt zur Durchführung von Satz 1 im Einvernehmen
+mit dem Bundesministerium der Finanzen allgemeine
+Verwaltungsvorschriften zur Durchführung. Die Zuschüsse dürfen nur
+insoweit gewährt werden, als der Haushaltsplan hierfür Mittel zur
+Verfügung stellt.
 
 
 ## Abschnitt 2 - Tauglichkeit, Zivildienstausnahmen
@@ -302,7 +298,7 @@ Vom Zivildienst ist ausgeschlossen,
 
 
 ### § 10 Befreiung vom Zivildienst
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002214377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002215311)
 
 (1) Vom Zivildienst sind befreit
 
@@ -356,8 +352,8 @@ zu befreien,
     e)  einen anderen Dienst im Ausland nach § 14b Abs. 1,
 
 
-    f)  einen freiwilligen Dienst nach dem Jugendfreiwilligendienstegesetz von
-        mindestens sechs Monaten,
+    f)  einen Freiwilligendienst nach dem Jugendfreiwilligendienstegesetz oder
+        dem Bundesfreiwilligendienstgesetz von mindestens sechs Monaten,
 
 
     g)  ein freies Arbeitsverhältnis nach § 15a Abs. 1,
@@ -495,15 +491,14 @@ auszusetzen.
 
 
 ### § 12 Befreiungs- und Zurückstellungsanträge
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002511377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002512311)
 
-(1) Anträge nach § 10 Abs. 2 und nach § 11 Abs. 2, 4 und 6 dieses
-Gesetzes, die nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach
-Mitteilung der Erfassung durch die Erfassungsbehörde (§ 15 Abs. 1 Satz
-2 des Wehrpflichtgesetzes) und spätestens bis zum Abschluss der
-Musterung schriftlich, elektronisch oder zur Niederschrift beim
-Kreiswehrersatzamt zu stellen waren, sind schriftlich, elektronisch
-oder zur Niederschrift des Bundesamtes zu stellen.
+(1) Anträge nach § 10 Absatz 2 und nach § 11 Absatz 2, 4 und 6, die
+nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach der
+Aufforderung nach § 15a Absatz 1 des Wehrpflichtgesetzes und
+spätestens bis zum Abschluss der Musterung beim Bundesamt für das
+Personalmanagement der Bundeswehr zu stellen waren, sind schriftlich
+oder zur Niederschrift beim Bundesamt zu stellen.
 
 (2) Anträgen nach § 10 Abs. 2 und nach § 11 Abs. 4 sind
 Beweisurkunden, die der Antragsteller besitzt oder ohne
@@ -670,20 +665,24 @@ bestimmte Vorhaben des Trägers beschränken. § 4 Abs. 1 Satz 3 und Abs.
 2 gelten entsprechend.
 
 
-### § 14c Freiwilliges Jahr
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011207377)
+### § 14c Freiwilligendienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011208311)
 
 (1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst
 herangezogen, wenn sie sich nach ihrer Anerkennung als
-Kriegsdienstverweigerer schriftlich zu einem freiwilligen Dienst nach
-dem Jugendfreiwilligendienstegesetz verpflichtet haben, der mindestens
-zwei Monate länger dauert als der Zivildienst, den sie sonst zu
-leisten hätten. Der Dienst ist spätestens ein Jahr nach der
-Verpflichtung sowie vor Vollendung des 23. Lebensjahres anzutreten.
-Die Verpflichtung ist gegenüber einem Träger zu übernehmen, der nach
-dem Jugendfreiwilligendienstegesetz zugelassen ist.
+Kriegsdienstverweigerer schriftlich zu einem Freiwilligendienst nach
+dem Jugendfreiwilligendienstegesetz oder dem
+Bundesfreiwilligendienstgesetz verpflichtet haben, der mindestens zwei
+Monate länger dauert als der Zivildienst, den sie sonst zu leisten
+hätten. Der Dienst ist spätestens ein Jahr nach der Verpflichtung
+sowie vor Vollendung des 23. Lebensjahres anzutreten. Die
+Verpflichtung ist bei einem Freiwilligendienst nach dem
+Jugendfreiwilligendienstegesetz gegenüber einem Träger zu übernehmen,
+der nach dem Jugendfreiwilligendienstegesetz zugelassen ist, und bei
+einem Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz
+gegenüber dem Bund vertreten durch das Bundesamt.
 
-(2) Die Träger nach Absatz 1 Satz 3 sind verpflichtet, dem Bundesamt
+(2) Die in Absatz 1 Satz 3 Genannten sind verpflichtet, dem Bundesamt
 das Vorliegen sowie den Wegfall der Voraussetzungen für die
 Nichtheranziehung von anerkannten Kriegsdienstverweigerern zum
 Zivildienst anzuzeigen.
@@ -694,10 +693,6 @@ so erlischt ihre Pflicht, Zivildienst zu leisten; das gilt nicht für
 den Zivildienst im Verteidigungsfall. Wird der Dienst vorzeitig
 beendet, so ist die im Dienst zurückgelegte Zeit, soweit sie zwei
 Monate übersteigt, auf den Zivildienst anzurechnen.
-
-(4) (weggefallen)
-
-(5) (weggefallen)
 
 
 ### § 15 Sondervorschriften für Angehörige des Polizeivollzugsdienstes
@@ -801,11 +796,11 @@ Wehrersatzbehörden geltenden Vorschriften erstattet.
 
 
 ### § 19 Einberufung
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003413377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003414311)
 
 (1) Die Dienstpflichtigen werden nach den Einberufungsanordnungen des
-Bundesministeriums für Familie, Senioren, Frauen und Jugend zum
-Zivildienst einberufen, sofern sie nicht nach Absatz 2 in ein
+Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend
+zum Zivildienst einberufen, sofern sie nicht nach Absatz 2 in ein
 Dienstverhältnis nach diesem Gesetz überführt werden. Wer aus dem
 Grundwehrdienst entlassen wird, weil er als Kriegsdienstverweigerer
 anerkannt ist, soll unverzüglich zum Zivildienst einberufen werden.
@@ -929,29 +924,29 @@ keinen Dienst geleistet hat.
 
 
 ### § 22a Anrechnung von Wehr- und Zivildienst anderer Staaten
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011706377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011707311)
 
-(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-kann im Einzelfall außerhalb der Bundeswehr geleisteten Wehrdienst
-oder an Stelle des Wehrdienstes geleisteten anderen Dienst auf den
-Zivildienst nach diesem Gesetz ganz oder zum Teil anrechnen. Der
-Wehrdienst oder der an Stelle des Wehrdienstes geleistete andere
+(1) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend kann im Einzelfall außerhalb der Bundeswehr geleisteten
+Wehrdienst oder an Stelle des Wehrdienstes geleisteten anderen Dienst
+auf den Zivildienst nach diesem Gesetz ganz oder zum Teil anrechnen.
+Der Wehrdienst oder der an Stelle des Wehrdienstes geleistete andere
 Dienst soll angerechnet werden, wenn er auf Grund gesetzlicher
 Vorschriften geleistet worden ist; dies gilt auch, wenn das
 Bundesministerium der Verteidigung dem Dienst außerhalb der Bundeswehr
 zugestimmt hat.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-kann die in Absatz 1 genannte Befugnis auf das Bundesamt für den
-Zivildienst übertragen. Anträge auf Anrechnung von Wehrdienst, der
-außerhalb der Bundeswehr geleistet worden ist, sowie von anderem
-Dienst, der an Stelle des Wehrdienstes geleistet worden ist, sind beim
-Bundesamt zu stellen, das zum Nachweis eine Versicherung des
-Dienstpflichtigen an Eides statt verlangen kann.
+(2) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend kann die in Absatz 1 genannte Befugnis auf das Bundesamt
+übertragen. Anträge auf Anrechnung von Wehrdienst, der außerhalb der
+Bundeswehr geleistet worden ist, sowie von anderem Dienst, der an
+Stelle des Wehrdienstes geleistet worden ist, sind beim Bundesamt zu
+stellen, das zum Nachweis eine Versicherung des Dienstpflichtigen an
+Eides statt verlangen kann.
 
 
 ### § 23 Zivildienstüberwachung
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003918377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003919311)
 
 (1) Die anerkannten Kriegsdienstverweigerer unterliegen der
 Zivildienstüberwachung. Diese endet mit Ablauf des Jahres, in dem sie
@@ -1003,14 +998,14 @@ heransteht. Über diesen Zeitraum hinaus ist sie zu erteilen, soweit
 die Versagung für den anerkannten Kriegsdienstverweigerer eine
 besondere - im Verteidigungsfall eine unzumutbare - Härte bedeuten
 würde; § 13 Abs. 1 ist entsprechend anzuwenden. Das Bundesministerium
-für Familie, Senioren, Frauen und Jugend kann Ausnahmen von der
-Genehmigungspflicht zulassen.
+für Bildung, Familie, Senioren, Frauen und Jugend kann Ausnahmen von
+der Genehmigungspflicht zulassen.
 
 (5) Wenn anerkannte Kriegsdienstverweigerer Zivildienst von der in §
 24 Abs. 2 Satz 1 bezeichneten Dauer geleistet haben, obliegen ihnen
 die in Absatz 2 Satz 2 Nr. 1 bis 3 genannten Pflichten nur, soweit
-dies das Bundesministerium für Familie, Senioren, Frauen und Jugend
-zur Sicherung des Zivildienstes im Verteidigungsfall anordnet.
+dies das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend zur Sicherung des Zivildienstes im Verteidigungsfall anordnet.
 
 (6) Von den in den Absätzen 2 und 4 bezeichneten Pflichten sind
 diejenigen anerkannten Kriegsdienstverweigerer befreit, die
@@ -1191,7 +1186,7 @@ Absatz 1 entsprechend.
 
 
 ### § 25b Einführung und Begleitung
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011306377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011307311)
 
 (1) Die Dienstleistenden sind zu Beginn ihrer Dienstzeit in einem
 eintägigen Seminar über ihre Rechte und Pflichten als Dienstleistende
@@ -1228,8 +1223,8 @@ Beschäftigungsstellen und Verbände, denen Beschäftigungsstellen
 angehören, mit ihrem Einverständnis beauftragt werden. Werden Stellen
 der Länder beauftragt, handeln diese im Auftrag des Bundes. Die Kosten
 der Seminare können in angemessenem Umfang erstattet werden. Das
-Bundesministerium für Familie, Senioren, Frauen und Jugend kann
-einheitliche Erstattungssätze festsetzen.
+Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
+kann einheitliche Erstattungssätze festsetzen.
 
 (4) Bei dem Seminar nach Absatz 1 Satz 2 Nr. 1 darf die Behandlung
 politischer Fragen nicht auf die Darlegung einer einseitigen Meinung
@@ -1280,7 +1275,7 @@ Zivildienstes erfordern.
 
 
 ### § 28 Verschwiegenheit
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004708377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004709311)
 
 (1) Der Dienstpflichtige hat, auch nach seinem Ausscheiden aus dem
 Zivildienst, über die ihm bei seiner dienstlichen Tätigkeit bekannt
@@ -1293,8 +1288,8 @@ bedürfen.
 Angelegenheiten weder vor Gericht noch außergerichtlich aussagen oder
 Erklärungen abgeben. Die §§ 66 und 67 des Bundesbeamtengesetzes finden
 entsprechende Anwendung mit der Maßgabe, dass über die Versagung der
-Genehmigung das Bundesministerium für Familie, Senioren, Frauen und
-Jugend entscheidet.
+Genehmigung das Bundesministerium für Bildung, Familie, Senioren,
+Frauen und Jugend entscheidet.
 
 (3) Unberührt bleibt die gesetzlich begründete Pflicht des
 Dienstpflichtigen, Straftaten anzuzeigen.
@@ -1427,7 +1422,7 @@ Ersatzanspruch auf den Dienstleistenden über.
 
 
 ### § 35 Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005515377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005516311)
 
 (1) Auf den Dienstpflichtigen finden, soweit dieses Gesetz nichts
 anderes bestimmt, in Fragen der Fürsorge, der Geld- und Sachbezüge,
@@ -1441,8 +1436,8 @@ der Sold der Soldgruppe 2 gewährt werden, wenn seine Eignung,
 Befähigung und Leistung dies rechtfertigen. Einem Dienstleistenden,
 der Sold nach Soldgruppe 2 erhält, kann nach einer Dienstzeit von
 sechs Monaten bei Eignung, Befähigung und Leistung der Sold der
-Soldgruppe 3 gewährt werden. Das Bundesministerium für Familie,
-Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem
+Soldgruppe 3 gewährt werden. Das Bundesministerium für Bildung,
+Familie, Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem
 Bundesministerium der Verteidigung und dem Bundesministerium der
 Finanzen Verwaltungsvorschriften zur Durchführung der Sätze 1 und 2.
 
@@ -1487,15 +1482,15 @@ findet entsprechende Anwendung.
 (9) In Angelegenheiten des § 35 Absatz 5 und 8 sind die §§ 60 bis 62
 sowie die §§ 65 bis 67 des Ersten Buches Sozialgesetzbuch und das
 Zehnte Buch Sozialgesetzbuch entsprechend anzuwenden. Die Durchführung
-obliegt dem Bundesministerium für Familie, Senioren, Frauen und Jugend
-und der von diesem bestimmten Stelle.
+obliegt dem Bundesministerium für Bildung, Familie, Senioren, Frauen
+und Jugend und der von diesem bestimmten Stelle.
 
 (10) Bei Streitigkeiten in Angelegenheiten des § 35 Absatz 5 und 8 ist
 der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
 
 
 ### § 36 Personalakten und Beurteilungen
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005612377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005613311)
 
 (1) Über jeden Dienstpflichtigen ist eine Personalakte zu führen. Sie
 ist vertraulich zu behandeln und durch technische und organisatorische
@@ -1547,19 +1542,19 @@ mit dem in Absatz 1 genannten Rücknahme- oder Widerrufsverfahren
 befasst sind, und nur soweit dies zu Zwecken dieser Verfahren
 erforderlich ist. Ohne Einwilligung des Dienstpflichtigen darf die
 Personalakte an andere Stellen und an Ärztinnen und Ärzte im
-Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen
-und Jugend weitergegeben werden, soweit dies im Rahmen der
-Zweckbestimmung des Dienstverhältnisses erforderlich ist. Ärztinnen
-und Ärzten, die im Auftrag des Bundesamtes für den Zivildienst ein
-medizinisches Gutachten erstellen, darf die Personalakte ohne
-Einwilligung des Dienstpflichtigen vorgelegt werden. Für Auskünfte aus
-der Personalakte gelten die Sätze 1 bis 3 entsprechend. Soweit eine
-Auskunft ausreicht, ist von einer Weitergabe abzusehen. Auskünfte an
-eine dritte Person dürfen ohne besondere gesetzliche Regelung nur mit
-Einwilligung des Dienstpflichtigen erteilt werden, es sei denn, dass
-die Abwehr einer erheblichen Beeinträchtigung des Gemeinwohls oder der
-Schutz berechtigter, höherrangiger Interessen der dritten Person oder
-die Durchführung des in Absatz 1 genannten Rücknahme- oder
+Geschäftsbereich des Bundesministeriums für Bildung, Familie,
+Senioren, Frauen und Jugend weitergegeben werden, soweit dies im
+Rahmen der Zweckbestimmung des Dienstverhältnisses erforderlich ist.
+Ärztinnen und Ärzten, die im Auftrag des Bundesamtes ein medizinisches
+Gutachten erstellen, darf die Personalakte ohne Einwilligung des
+Dienstpflichtigen vorgelegt werden. Für Auskünfte aus der Personalakte
+gelten die Sätze 1 bis 3 entsprechend. Soweit eine Auskunft ausreicht,
+ist von einer Weitergabe abzusehen. Auskünfte an eine dritte Person
+dürfen ohne besondere gesetzliche Regelung nur mit Einwilligung des
+Dienstpflichtigen erteilt werden, es sei denn, dass die Abwehr einer
+erheblichen Beeinträchtigung des Gemeinwohls oder der Schutz
+berechtigter, höherrangiger Interessen der dritten Person oder die
+Durchführung des in Absatz 1 genannten Rücknahme- oder
 Widerrufsverfahrens dies erfordern. Inhalt, Empfängerinnen und
 Empfänger der Auskunft sind dem Dienstpflichtigen schriftlich
 mitzuteilen. Eine Pflicht zur Benachrichtigung besteht nicht, wenn die
@@ -1618,8 +1613,8 @@ Hinterbliebene des Dienstpflichtigen und für Bevollmächtigte der
 Hinterbliebenen, wenn ein berechtigtes Interesse glaubhaft gemacht
 wird.
 
-(9) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-bestimmt durch Rechtsverordnung, die nicht der Zustimmung des
+(9) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+Jugend bestimmt durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, nähere Einzelheiten über
 
 1.  die Anlage und Führung der Personalakte des Dienstpflichtigen, auch
@@ -1724,7 +1719,7 @@ erheben; § 20 findet entsprechende Anwendung.
 
 
 ### § 40 Erhaltung der Gesundheit; ärztliche Eingriffe
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006108377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006109311)
 
 (1) Der Dienstleistende hat alles in seinen Kräften Stehende zu tun,
 um seine Gesundheit zu erhalten oder wiederherzustellen. Er darf diese
@@ -1732,9 +1727,8 @@ nicht vorsätzlich oder grob fahrlässig beeinträchtigen.
 
 (2) Ärztliche Eingriffe in seine körperliche Unversehrtheit muss er
 nur dulden, wenn es sich um Maßnahmen handelt, die der Verhütung und
-Bekämpfung übertragbarer Krankheiten dienen. § 26 Abs. 2 Satz 3 des
-Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) bleibt
-unberührt.
+Bekämpfung übertragbarer Krankheiten dienen. § 25 Absatz 3 Satz 2 des
+Infektionsschutzgesetzes bleibt unberührt.
 
 (3) Lehnt der Dienstleistende eine zumutbare ärztliche Behandlung ab
 und wird dadurch seine Dienst- oder Erwerbsfähigkeit ungünstig
@@ -1746,22 +1740,22 @@ einen erheblichen Eingriff in die körperliche Unversehrtheit bedeutet.
 
 
 ### § 41 Anträge und Beschwerden
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006208377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006209311)
 
 (1) Der Dienstleistende kann Anträge und Beschwerden vorbringen;
 hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zum
-Bundesministerium für Familie, Senioren, Frauen und Jugend steht
-offen. Außerdem hat jeder Dienstleistende das Recht, sich unmittelbar
-an die Bundesbeauftragte oder den Bundesbeauftragten für den
-Zivildienst zu wenden. Wegen des Vorbringens einer Beschwerde nach
+Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
+steht offen. Außerdem hat jeder Dienstleistende das Recht, sich
+unmittelbar an die Bundesbeauftragte oder den Bundesbeauftragten für
+den Zivildienst zu wenden. Wegen des Vorbringens einer Beschwerde nach
 Satz 1 oder Satz 3 darf der Dienstleistende nicht dienstlich
 gemaßregelt oder benachteiligt werden.
 
 (2) Richtet sich die Beschwerde gegen die Leitung der Dienststelle,
 kann sie bei der Präsidentin oder dem Präsidenten des Bundesamtes,
 richtet sie sich gegen die Präsidentin oder den Präsidenten des
-Bundesamtes, kann sie beim Bundesministerium für Familie, Senioren,
-Frauen und Jugend unmittelbar eingereicht werden.
+Bundesamtes, kann sie beim Bundesministerium für Bildung, Familie,
+Senioren, Frauen und Jugend unmittelbar eingereicht werden.
 
 (3) Gemeinschaftliche Beschwerden sind unzulässig.
 
@@ -1946,13 +1940,13 @@ Folgen erwachsen.
 
 
 ### § 45a Mitteilungen in Strafsachen
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011803377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011804311)
 
 (1) In Strafsachen gegen Zivildienstleistende gilt § 115 des
 Bundesbeamtengesetzes entsprechend.
 
-(2) Die Mitteilungen sind an das Bundesamt für den Zivildienst zu
-richten und als "Vertrauliche Personalsache" zu kennzeichnen.
+(2) Die Mitteilungen sind an das Bundesamt zu richten und als
+"Vertrauliche Personalsache" zu kennzeichnen.
 
 
 ### § 46 Dienstzeitbescheinigung und Dienstzeugnis
@@ -2699,7 +2693,7 @@ werden.
 
 
 ### § 78 Entsprechende Anwendung weiterer Rechtsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010511377)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010512311)
 
 (1) Für anerkannte Kriegsdienstverweigerer gelten entsprechend
 
@@ -2708,8 +2702,8 @@ werden.
     a)  in § 14a Absatz 2 an die Stelle des Bundesministeriums der
         Verteidigung und der von diesem bestimmten Stelle sowie in § 14c
         Absatz 1 an die Stelle des Bundesamtes für das Personalmanagement der
-        Bundeswehr das Bundesministerium für Familie, Senioren, Frauen und
-        Jugend und die von diesem bestimmte Stelle treten und
+        Bundeswehr das Bundesministerium für Bildung, Familie, Senioren,
+        Frauen und Jugend und die von diesem bestimmte Stelle treten und
 
 
     b)  an die Stelle des Grundwehrdienstes der Zivildienst tritt;
@@ -2720,8 +2714,8 @@ werden.
 
 2.  das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 24 an die
     Stelle des Bundesamtes für das Personalmanagement der Bundeswehr die
-    vom Bundesministerium für Familie, Senioren, Frauen und Jugend
-    bestimmte Stelle tritt.
+    vom Bundesministerium für Bildung, Familie, Senioren, Frauen und
+    Jugend bestimmte Stelle tritt.
 
 
 

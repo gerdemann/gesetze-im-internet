@@ -103,7 +103,7 @@ Betriebsinhaber ausschließlich die Zahlung für Mutterschafe und
 
 
 #### § 3 Landwirtschaftliche Tätigkeit
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000503119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000504119)
 
 (1) Der Begriff landwirtschaftliche Tätigkeit, die zur Bereitstellung
 privater und öffentlicher Güter beitragen kann, umfasst
@@ -169,18 +169,10 @@ zuständigen Behörde als erteilt, wenn
     a)  in einem Plan oder einem Projekt für Pflege-, Entwicklungs- und
         Wiederherstellungsmaßnahmen zur Umsetzung
 
-        aa) der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der
-            natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
-            (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie
-            2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, in
-            der jeweils geltenden Fassung oder
+        aa) der Richtlinie 92/43/EWG oder
 
 
-        bb) der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates
-            vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten
-            (ABl. L 20 vom 26.1.2010, S. 7), die zuletzt durch die Verordnung (EU)
-            2019/1010 (ABl. L 170 vom 25.6.2019, S. 115) geändert worden ist, in
-            der jeweils geltenden Fassung oder
+        bb) der Richtlinie 2009/147/EG oder
 
 
 
@@ -209,55 +201,37 @@ durchzuführen.
 landwirtschaftlichen Fläche im Sinne des Absatzes 1 Nummer 3 auch vor,
 wenn
 
-1.  die Fläche einer Verpflichtung unterliegt
+1.  die Fläche einer Verpflichtung unterliegt im Rahmen einer
 
-    a)  im Rahmen einer Agrarumweltmaßnahme nach den Artikeln 22 bis 24 der
-        Verordnung (EG)
-        Nr. 1257/1999 des Rates vom 17. Mai 1999 über die Förderung der
-        Entwicklung des ländlichen Raums durch den Europäischen Ausrichtungs-
-        und Garantiefonds für die Landwirtschaft (EAGFL) und zur Änderung bzw.
-        Aufhebung bestimmter Verordnungen (ABl. L 160 vom 26.6.1999, S. 80; L
-        302 vom 1.12.2000, S. 72), die durch die Verordnung (EG) Nr. 1698/2005
-        (ABl. L 277 vom 21.10.2005, S. 1) aufgehoben worden ist, in der für
-        den Zeitpunkt der Verpflichtung geltenden Fassung,
-
-
-    b)  im Rahmen einer Agrarumweltmaßnahme nach Artikel 39 der Verordnung
-        (EG) Nr. 1698/2005 des Rates vom 20. September 2005 über die Förderung
-        der Entwicklung des ländlichen Raums durch den Europäischen
-        Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER)
-        (ABl. L 277 vom 21.10.2005, S. 1; L 67 vom 11.3.2008, S. 22; L 206 vom
-        2\.8.2012, S. 23), die durch die Verordnung (EU) Nr. 1305/2013 (ABl. L
-        347 vom 20.12.2013, S. 487) aufgehoben worden ist, in der für den
-        Zeitpunkt der Verpflichtung geltenden Fassung,
-
-
-    c)  im Rahmen einer Agrarumwelt- und Klimamaßnahme nach Artikel 28 der
-        Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des
-        Rates vom 17. Dezember 2013 über die Förderung der ländlichen
-        Entwicklung durch den Europäischen Landwirtschaftsfonds für die
-        Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der
-        Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487; L
-        130 vom 19.5.2016, S. 1), in der für den Zeitpunkt der Verpflichtung
-        geltenden Fassung,
-
-
-    d)  im Rahmen einer freiwilligen Umwelt-, Klima- oder anderen
-        Bewirtschaftungsverpflichtung nach dem Rechtsakt, durch den die
-        Verordnung (EU) Nr. 1305/2013 aufgehoben wird (ELER-
-        Regelung), in der für den Zeitpunkt der Verpflichtung geltenden
+    a)  Agrarumweltmaßnahme nach den Artikeln 22 bis 24 der Verordnung (EG)
+        Nr. 1257/1999 in der für den Zeitpunkt der Verpflichtung geltenden
         Fassung,
 
 
-    e)  im Rahmen einer aus öffentlichen Mitteln finanzierten freiwilligen
-        Maßnahme, die mit den Vorgaben der in den Buchstaben a bis d genannten
-        im Zeitpunkt der Verpflichtung jeweils geltenden Grundlage im Einklang
-        stand oder steht, oder
+    b)  Agrarumweltmaßnahme nach Artikel 39 der Verordnung (EG) Nr. 1698/2005
+        in der für den Zeitpunkt der Verpflichtung geltenden Fassung,
 
 
-    f)  im Rahmen einer produktionsintegrierten Kompensationsmaßnahme gemäß §
-        15 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes sowie entsprechender
-        Regelungen in den bundes- oder landesrechtlichen Vorschriften,
+    c)  Agrarumwelt- und Klimamaßnahme nach Artikel 28 der Verordnung (EU) Nr.
+        1305/2013 in der für den Zeitpunkt der Verpflichtung geltenden
+        Fassung,
+
+
+    d)  freiwilligen Umwelt-, Klima- oder anderen
+        Bewirtschaftungsverpflichtung nach dem Rechtsakt, durch den die
+        Verordnung (EU) Nr. 1305/2013 aufgehoben wird (ELER-Regelung), in der
+        für den Zeitpunkt der Verpflichtung geltenden Fassung,
+
+
+    e)  aus öffentlichen Mitteln finanzierten freiwilligen Maßnahme, die mit
+        den Vorgaben der in den Buchstaben a bis d genannten im Zeitpunkt der
+        Verpflichtung jeweils geltenden Grundlage im Einklang stand oder
+        steht, oder
+
+
+    f)  produktionsintegrierten Kompensationsmaßnahme gemäß § 15 Absatz 3 Satz
+        2 des Bundesnaturschutzgesetzes sowie entsprechender Regelungen in den
+        bundes- oder landesrechtlichen Vorschriften,
 
 
 
@@ -435,7 +409,7 @@ Bedeutung liegt bei einer Breite von mehr als 15 Metern nicht vor.
 
 
 #### § 7 Dauergrünland
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000902119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000903119)
 
 (1) Der Begriff Dauergrünland umfasst Flächen, auch wenn sie nicht für
 die Erzeugung genutzt werden, die
@@ -520,13 +494,8 @@ werden solche Jahre nicht berücksichtigt, in denen
 3.  bei Ackerland ein Anspruch auf die Zahlung für dem Klima- und
     Umweltschutz förderliche Landbewirtschaftungsmethoden als im
     Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2
-    Buchstabe a der Verordnung (EU) Nr. 1307/2013 des Europäischen
-    Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über
-    Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von
-    Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der
-    Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr.
-    73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der für das
-    jeweilige Jahr geltenden Fassung bestand oder
+    Buchstabe a der Verordnung (EU) Nr. 1307/2013 in der für das jeweilige
+    Jahr geltenden Fassung bestand oder
 
 
 4.  kein Fall des Absatzes 8 Nummer 4 vorliegt und Ackerland einer
@@ -579,13 +548,13 @@ Bewirtschaftungsverfahren ist jede
 
 3.  Praktik, die von Bedeutung ist
 
-    a)  für die Erhaltung der in Anhang I der Richtlinie 92/43/EWG des Rates
-        genannten Lebensraumtypen und der in den Anhängen II und IV dieser
-        Richtlinie genannten Arten oder
+    a)  für die Erhaltung der in Anhang I der Richtlinie 92/43/EWG genannten
+        Lebensraumtypen und der in den Anhängen II und IV der Richtlinie
+        92/43/EWG genannten Arten oder
 
 
     b)  für die Erhaltung der Lebensräume der unter die Richtlinie 2009/147/EG
-        des Europäischen Parlaments und des Rates fallenden Arten oder
+        fallenden Arten oder
 
 
 
@@ -607,22 +576,32 @@ Bewirtschaftungsverfahren ist jede
     sind oder werden,
 
 
-3.  nach einer Verordnung auf Grund des § 12 Absatz 6 des GAP-
+3.  nach einer Verordnung auf Grund des § 12 Absatz 6 des GAP-
     Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden
     sind oder werden,
 
 
 4.  nach einer der in Absatz 6 Nummer 4 genannten Grundlagen einer
     Verpflichtung zur Umwandlung in Dauergrünland unterliegen und mit Gras
-    oder anderen Grünfutterpflanzen angesät worden sind oder werden oder
+    oder anderen Grünfutterpflanzen angesät worden sind oder werden,
 
 
 5.  nach den Vorschriften über die Erhaltung von Dauergrünland bei der
     Zahlung für dem Klima- und Umweltschutz förderliche
     Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3
-    der Verordnung (EU) Nr. 1307/2013 in der jeweils geltenden Fassung
-    angelegt oder rückumgewandelt worden sind oder werden und als
-    Dauergrünland gelten.
+    der Verordnung (EU) Nr. 1307/2013 in der für den Zeitpunkt der
+    Verpflichtung geltenden Fassung angelegt oder rückumgewandelt worden
+    sind oder werden und als Dauergrünland gelten,
+
+
+6.  nach einer Verordnung auf Grund des § 26 Absatz 1 Nummer 2 des GAP-
+    Konditionalitäten-Gesetzes von einer genehmigten aktiven Erneuerung
+    der Narbe betroffen sind oder
+
+
+7.  nach einer Verordnung auf Grund des § 26 Absatz 1 Nummer 2 des GAP-
+    Konditionalitäten-Gesetzes in Feuchtgebieten und Mooren in
+    Dauergrünland rückumgewandelt worden sind oder werden.
 
 
 
@@ -632,7 +611,7 @@ Voraussetzungen der Begriffsbestimmung Dauergrünland erfüllt.
 
 
 #### § 8 Aktiver Betriebsinhaber
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001002128)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001003119)
 
 Aktiver Betriebsinhaber ist ein Betriebsinhaber,
 
@@ -651,12 +630,8 @@ Aktiver Betriebsinhaber ist ein Betriebsinhaber,
 
 
 4.  der oder dessen Unternehmen ohne die Anwendbarkeit des Titels II der
-    Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates
-    vom 29. April 2004 zur Koordinierung der Systeme der sozialen
-    Sicherheit (ABl. L 166 vom 30.4.2004, S. 1; L 200 vom 7.6.2004, S. 1),
-    die zuletzt durch die Verordnung (EU) 2019/1149 (ABl. L 186 vom
-    11\.7.2019, S. 21) geändert worden ist, in der jeweils geltenden
-    Fassung Mitglied in der Nummer 1 genannten Unfallversicherung wäre,
+    Verordnung (EG) Nr. 883/2004 Mitglied in der Nummer 1 genannten
+    Unfallversicherung wäre,
 
 
 5.  der für das Vorjahr zu dem Jahr, für das ein Antrag auf
@@ -745,7 +720,7 @@ Absatz 1 Satz 1 des GAP-Direktzahlungen-Gesetzes.
 
 
 #### § 11 Förderfähige Fläche
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001302119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001303119)
 
 (1) Der Begriff förderfähige Fläche umfasst vorbehaltlich des Absatzes
 2 jede Fläche, die dem Betriebsinhaber in dem in § 13 Absatz 1
@@ -792,8 +767,9 @@ erfüllt:
 3.  Fläche des Betriebs, für die ein Anspruch auf Zahlung der
     Einkommensgrundstützung nach § 4 des GAP-Direktzahlungen-Gesetzes oder
     im Rahmen der Basisprämienregelung nach Titel III der Verordnung (EU)
-    Nr. 1307/2013 in der jeweils geltenden Fassung bestand und die keine
-    förderfähige Fläche nach den Nummern 1 oder 2 ist:
+    Nr. 1307/2013 in der für den Zeitpunkt der Verpflichtung geltenden
+    Fassung bestand und die keine förderfähige Fläche nach den Nummern 1
+    oder 2 ist:
 
     a)  infolge der Anwendung einer der folgenden Richtlinien auf diese
         Fläche:
@@ -801,12 +777,7 @@ erfüllt:
         aa) der Richtlinie 92/43/EWG,
 
 
-        bb) der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates
-            vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen
-            der Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom
-            22\.12.2000, S. 1), die zuletzt durch die Richtlinie
-            2014/101/EU (ABl. L 311 vom 31.10.2014, S. 32) geändert worden ist, in
-            der jeweils geltenden Fassung oder
+        bb) der Richtlinie 2000/60/EG oder
 
 
         cc) der Richtlinie 2009/147/EG,
@@ -910,40 +881,28 @@ erfüllt:
 (2) Eine zum Hanfanbau genutzte Fläche nach Absatz 1 Nummer 1 ist nur
 förderfähig, wenn
 
-1.  Saatgut einer Hanfsorte verwendet wird, die am
-    15\. März des Antragsjahres im Gemeinsamen Sortenkatalog für
-    landwirtschaftliche Pflanzenarten aufgeführt ist und nach Artikel 17
-    der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen
-    gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl.
-    L 193 vom 20.7.2002, S. 1), die durch die Verordnung (EG) Nr.
-    1829/2003 (ABl. L 268 vom 18.10.2003, S. 1) geändert worden ist, in
-    der jeweils geltenden Fassung durch die Europäische Kommission im
-    Amtsblatt der Europäischen Union, Reihe C, veröffentlicht ist,
+1.  Saatgut einer Hanfsorte verwendet wird, die am 15. März des
+    Antragsjahres im Gemeinsamen Sortenkatalog für landwirtschaftliche
+    Pflanzenarten aufgeführt ist und nach Artikel 17 der Richtlinie
+    2002/53/EG durch die Europäische Kommission im Amtsblatt der
+    Europäischen Union, Reihe C, veröffentlicht ist,
 
 
 2.  der Tetrahydrocannabinolgehalt der verwendeten Hanfsorte, ermittelt
     nach der Methode, deren Anwendung die in § 1 genannte Unionsregelung
-    den Mitgliedstaaten für diesen Zweck vorschreibt, im Durchschnitt
-    aller Proben der betreffenden Hanfsorte in zwei aufeinanderfolgenden
-    Jahren nicht größer als 0,3 Prozent war und
+    den Mitgliedstaaten der Europäischen Union für diesen Zweck
+    vorschreibt, im Durchschnitt aller Proben der betreffenden Hanfsorte
+    in zwei aufeinanderfolgenden Jahren nicht größer als 0,3 Prozent war
+    und
 
 
 3.  das verwendete Saatgut zertifiziert ist
 
-    a)  nach der Richtlinie 2002/57/EG des Rates vom 13. Juni 2002 über den
-        Verkehr mit Saatgut von Öl- und Faserpflanzen (ABl. L 193 vom
-        20\.7.2002, S. 74), die zuletzt durch die Durchführungsrichtlinie (EU)
-        2020/177 (ABl. L 41 vom 13.2.2020, S. 1) geändert worden ist, in der
-        jeweils geltenden Fassung oder
+    a)  nach der Richtlinie 2002/57/EG oder
 
 
     b)  im Fall einer Erhaltungssorte nach Artikel 10 der Richtlinie
-        2008/62/EG der Kommission vom 20. Juni 2008 mit Ausnahmeregelungen für
-        die Zulassung von Landsorten und anderen Sorten, die an die
-        natürlichen örtlichen und regionalen Gegebenheiten angepasst und von
-        genetischer Erosion bedroht sind, sowie für das Inverkehrbringen von
-        Saatgut bzw. Pflanzkartoffeln dieser Sorten (ABl. L 162 vom 21.6.2008,
-        S. 13) in der jeweils geltenden Fassung.
+        2008/62/EG.
 
 
 
@@ -1230,7 +1189,7 @@ Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
 ##### § 19 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002101119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002102119)
 
 (1) Die Zahlung für Mutterschafe und -ziegen ist für mindestens sechs
 Tiere zu beantragen.
@@ -1247,17 +1206,11 @@ Tiere zu beantragen.
     im Betrieb gehalten werden und
 
 
-3.  für die im Haltungszeitraum die Pflichten zur Kennzeichnung und
-    Registrierung von gehaltenen Schafen und Ziegen erfüllt sind nach
+3.  für die spätestens am letzten Tag des Haltungszeitraums die Pflichten
+    zur Kennzeichnung und Registrierung von gehaltenen Schafen und Ziegen
+    erfüllt sind nach
 
-    a)  Teil IV Titel I Kapitel 2 Abschnitt 1 der Verordnung (EU) 2016/429 des
-        Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen
-        und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der
-        Tiergesundheit („Tiergesundheitsrecht“) (ABl. L 84 vom 31.3.2016, S.
-        1; L 57 vom 3.3.2017, S. 65; L 84 vom 20.3.2020, S. 24; L 48 vom
-        11\.2.2021, S. 3; L 224 vom 24.6.2021, S. 42), die zuletzt durch die
-        Delegierte Verordnung (EU) 2018/1629 (ABl. L 272 vom 31.10.2018, S.
-        11) geändert worden ist, in der jeweils geltenden Fassung,
+    a)  Teil IV Titel I Kapitel 2 Abschnitt 1 der Verordnung (EU) 2016/429,
 
 
     b)  den Rechtsakten der Europäischen Union, die im Rahmen der in Buchstabe
@@ -1296,7 +1249,7 @@ Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
 ##### § 21 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterkühe
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002300000)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002301119)
 
 (1) Die Zahlung für Mutterkühe ist für mindestens drei Mutterkühe zu
 beantragen.
@@ -1314,8 +1267,9 @@ beantragen.
     im Betrieb gehalten werden und
 
 
-3.  für die im Haltungszeitraum die Pflichten zur Kennzeichnung und
-    Registrierung von gehaltenen Rindern erfüllt sind nach
+3.  für die spätestens am letzten Tag des Haltungszeitraums die Pflichten
+    zur Kennzeichnung und Registrierung von gehaltenen Rindern erfüllt
+    sind nach
 
     a)  Teil IV Titel I Kapitel 2 Abschnitt 1 der Verordnung (EU) 2016/429,
 
@@ -2054,7 +2008,7 @@ Dezember 2024 angelegt werden.
 (zu § 15 Absatz 2)
 
 ### Anlage 3 Indikative Mittelzuweisungen in Euro für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003402119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003403119)
 
 (Fundstelle: BGBl. I 2022, 155)
 
@@ -2083,7 +2037,7 @@ Dezember 2024 angelegt werden.
 
     *   330 500 464
 
-    *   325 000 513
+    *   268 268 869
 
 
 *    *   § 20 Absatz 1 Nummer 2 GAPDZG
@@ -2116,7 +2070,7 @@ Dezember 2024 angelegt werden.
 
     *   197 808 132
 
-    *   197 808 132
+    *   158 246 480
 
 
 *    *   § 20 Absatz 1 Nummer 5 GAPDZG
@@ -2127,7 +2081,7 @@ Dezember 2024 angelegt werden.
 
     *   144 136 071
 
-    *   134 527 000
+    *   267 432 276
 
 
 *    *   § 20 Absatz 1 Nummer 6 GAPDZG
@@ -2138,7 +2092,7 @@ Dezember 2024 angelegt werden.
 
     *   98 124 721
 
-    *   93 080 080
+    *   56 468 100
 
 
 *    *   § 20 Absatz 1 Nummer 7 GAPDZG
@@ -2156,7 +2110,7 @@ Dezember 2024 angelegt werden.
 (zu § 16 Absatz 1)
 
 ### Anlage 4 Geplante Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003503119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003504119)
 
 (Fundstelle: BGBl. I 2022, 156 - 157;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2216,18 +2170,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-        Für die nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche im Umfang
-        von bis zu 1 Prozent des förderfähigen Ackerlandes wird der geplante
-        Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird der
-        geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.1.1 Satz 4
-        genannten Fall im Umfang von bis zu 1 Hektar begünstigungsfähiger
-        Fläche auch dann angewendet, wenn diese Fläche größer ist als 1
-        Prozent des förderfähigen Ackerlandes des Betriebs. Für die darüber
-        hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche bis
-        zum Umfang von 2 Prozent des förderfähigen Ackerlandes wird der
-        geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber
-        hinausgehende nach Anlage 5 Nummer 1.1 begünstigungsfähige Fläche wird
-        der geplante Einheitsbetrag Stufe 3 angewendet.
+        Für die nach Anlage 5 Nummer 1.1.2 begünstigungsfähige Fläche im
+        Umfang von bis zu 1 Prozent des förderfähigen Ackerlands wird der
+        geplante Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird
+        der geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.1.1
+        Satz 4 genannten Fall im Umfang von bis zu 1 Hektar
+        begünstigungsfähiger Fläche auch dann angewendet, wenn diese Fläche
+        größer ist als 1 Prozent des förderfähigen Ackerlands des Betriebs.
+        Für die darüber hinausgehende nach Anlage 5 Nummer 1.1.2
+        begünstigungsfähige Fläche bis zum Umfang von 2 Prozent des
+        förderfähigen Ackerlands wird der geplante Einheitsbetrag Stufe 2
+        angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1.2
+        begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3
+        angewendet.
 
 
     b)  § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
@@ -2314,7 +2269,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   900 Euro
 
-            *   900 Euro
+            *   1 000 Euro
 
 
         *            *   Geplanter Einheitsbetrag Stufe 2
@@ -2325,7 +2280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             *   400 Euro
 
-            *   400 Euro
+            *   450 Euro
 
 
         *            *   Geplanter Einheitsbetrag Stufe 3
@@ -2412,7 +2367,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   200 Euro
 
-        *   200 Euro
+        *   600 Euro
 
 
 
@@ -2560,7 +2515,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 17 Absatz 1)
 
 ### Anlage 5 Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003603119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003604119)
 
 (Fundstelle: BGBl. I 2022, 158 - 161;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2588,10 +2543,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    Abweichend von Satz 2 ist im Fall eines Betriebes mit mehr als 10
-    Hektar Ackerland nichtproduktives Ackerland im Umfang von bis zu einem
-    Hektar auch dann begünstigungsfähig, wenn dies mehr als 8 Prozent des
-    förderfähigen Ackerlands des Betriebes ausmacht.
+    Abweichend von Satz 2 ist nichtproduktives Ackerland im Umfang von bis
+    zu einem Hektar auch dann begünstigungsfähig, wenn dieses mehr als 8
+    Prozent des förderfähigen Ackerlands des Betriebes ausmacht und
+
+    a)  der Betrieb mehr als 10 Hektar Ackerland aufweist,
+
+
+    b)  der Betrieb mindestens eine förderfähige Dauerkulturfläche mit
+        Rebstöcken aufweist oder
+
+
+    c)  dem Betriebsinhaber für mindestens eine Fläche, die er im Sammelantrag
+        nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes
+        für das Antragsjahr angegeben hat, eine im Antragsjahr gültige
+        Wiederbepflanzungsgenehmigung gemäß § 6 Absatz 1 Satz 1 des
+        Weingesetzes erteilt worden ist.
+
+
+
 
 
 1.1.2 Begünstigungsfähige Fläche ist die nichtproduktive Fläche nach Nummer
@@ -2602,7 +2572,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres
-    brachliegen. Im Fall einer Begrünung durch Aussaat ist eine
+    brachliegen und der Selbstbegrünung überlassen oder durch Aussaat
+    begrünt werden. Im Fall einer Begrünung durch Aussaat ist eine
     Saatgutmischung zu verwenden, die mindestens fünf krautartige
     zweikeimblättrige Arten enthält. Auf einer nichtproduktiven Fläche
     nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und
@@ -2641,8 +2612,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.2.5 Die Saatgutmischung muss aus
 
-    a)  mindestens 10 der in Anhang 1 in Gruppe A aufgeführten Arten bestehen,
-        die zusätzlich durch Arten aus Anhang 1 Gruppe B ergänzt sein können,
+    a)  mindestens 10 der in Anhang 1 in Gruppe A aufgeführten Arten bestehen
         oder
 
 
@@ -2697,16 +2667,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.4.2 Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im
-    Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche.
-    Altgrasstreifen oder -flächen sind bis zu einer Größe von 0,3 Hektar
-    begünstigungsfähig, auch wenn sie mehr als 20 Prozent einer
-    förderfähigen Dauergrünlandfläche bedecken. Ein Altgrasstreifen oder
-    eine Altgrasfläche muss mindestens 0,1 Hektar groß sein.
+    Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche. Ein
+    Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar
+    groß sein.
 
 
-1.4.3 Eine Beweidung oder eine Schnittnutzung vor dem 1. September ist nicht
-    zulässig. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses
-    ist während des ganzen Jahres nicht zulässig.
+1.4.3 Eine Beweidung oder eine Schnittnutzung (Tätigkeit) vor dem 1.
+    September ist nicht zulässig. Eine Tätigkeit muss mindestens in jedem
+    zweiten Jahr erfolgen, jedoch nicht vor dem 1. September. Die
+    Zerkleinerung und ganzflächige Verteilung des Aufwuchses ist
+    ganzjährig jeweils nicht zulässig.
 
 
 **2.** **Zu § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes**
@@ -2829,7 +2799,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen muss auf der
     überwiegenden Länge 20 Meter betragen. Der kleinste Abstand von
-    Gehölzstreifen zu einem Waldrand oder zu einem in § 23 Absatz 1 Nummer
+    Gehölzstreifen zu einem Waldrand oder zu einem in § 19 Absatz 1 Nummer
     1 bis 3 der GAP-Konditionalitäten-Verordnung genannten
     Landschaftselement darf auf der überwiegenden Länge nicht weniger als
     20 Meter betragen.
@@ -2907,7 +2877,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von
     Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe
-    und Ziegen mitumfasst.
+    und Ziegen mitumfasst. Bei Anwendung des Berechnungsschlüssels ist die
+    Kategorie Kälber von Damwild und Rotwild jeweils von der angegebenen
+    RGV für die Kategorie Damwild und Rotwild mitumfasst.
 
 
 4.3 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist
@@ -2997,12 +2969,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     a)  ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem
         Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr.
-        1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober
-        2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur
-        Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L
-        309 vom 24.11.2009, S. 1; L 45 vom 18.2.2020, S. 81), die zuletzt
-        durch die Verordnung (EU) 2021/383 (ABl. L 74 vom 4.3.2021, S. 7)
-        geändert worden ist, in der jeweils geltenden Fassung,
+        1107/2009,
 
 
     b)  für die ökologische Landwirtschaft zugelassen sind.
@@ -3057,7 +3024,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anhang 1 Zulässige Arten für Saatgutmischungen bei Blühstreifen oder -flächen
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003702119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003703119)
 
 (Fundstelle: BGBl. I 2022, 161 - 165;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3214,7 +3181,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Kresse
 
 
-*    *   Linum utatissimum
+*    *   Linum usitatissimum
 
     *   Lein
 

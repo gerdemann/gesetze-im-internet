@@ -1008,7 +1008,7 @@ Beschäftigungsverhältnisses.
 
 
 ### § 20 Zuschuss zum Mutterschaftsgeld
-[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002100000)
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002101129)
 
 (1) Eine Frau erhält während ihres bestehenden
 Beschäftigungsverhältnisses für die Zeit der Schutzfristen vor und
@@ -1038,6 +1038,18 @@ Absatz 1 von der für die Zahlung des Mutterschaftsgeldes zuständigen
 Stelle. Satz 1 gilt entsprechend, wenn der Arbeitgeber wegen eines
 Insolvenzereignisses im Sinne von § 165 Absatz 1 Satz 2 des Dritten
 Buches Sozialgesetzbuch den Zuschuss nach Absatz 1 nicht zahlen kann.
+
+(4) Bei Personen, die nach einem nicht in der Bundesrepublik
+Deutschland ansässig sind und deren Ansässigkeitsstaat nach diesem
+Abkommen zur Vermeidung der Doppelbesteuerung das Besteuerungsrecht
+für den Zuschuss zum Mutterschaftsgeld zusteht, sind für die
+Berechnung des Zuschusses zum Mutterschaftsgeld nur die Beiträge zur
+Sozialversicherung als das durchschnittliche kalendertägliche
+Arbeitsentgelt nach Absatz 1 Satz 2 vermindernde gesetzliche Abzüge zu
+berücksichtigen. Unterliegt der Zuschuss zum Mutterschaftsgeld im
+Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
+Steuer, sind alle gesetzlichen Abzüge nach Absatz 1 Satz 2 zu
+berücksichtigen.
 
 
 ### § 21 Ermittlung des durchschnittlichen Arbeitsentgelts

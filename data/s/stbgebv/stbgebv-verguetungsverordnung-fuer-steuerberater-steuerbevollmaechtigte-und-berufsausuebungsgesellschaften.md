@@ -281,40 +281,42 @@ Angelegenheit jedoch höchstens 20 Euro.
 
 
 ### § 17 Dokumentenpauschale
-[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002603301)
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002604123)
 
 (1) Der Steuerberater erhält eine Dokumentenpauschale
 
-1.  für Ablichtungen
+1.  für Kopien und Ausdrucke
 
-    a) aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
-    sachgerechten Bearbeitung der Angelegenheit geboten war,
+    a)  aus Behörden- und Gerichtsakten, soweit deren Herstellung zur
+        sachgerechten Bearbeitung der Angelegenheit geboten war,
+
 
     b)  zur Mitteilung an Gegner oder Beteiligte und Verfahrensbevollmächtigte
-        auf Grund einer Rechtsvorschrift oder nach Aufforderung durch das
+        aufgrund einer Rechtsvorschrift oder nach Aufforderung durch das
         Gericht, die Behörde oder die sonst das Verfahren führende Stelle,
-        soweit hierfür mehr als 100 Ablichtungen zu fertigen waren,
+        soweit hierfür mehr als 100 Seiten zu fertigen waren,
 
 
     c)  zur notwendigen Unterrichtung des Auftraggebers, soweit hierfür mehr
-        als 100 Ablichtungen zu fertigen waren,
+        als 100 Seiten zu fertigen waren,
 
 
     d)  in sonstigen Fällen nur, wenn sie im Einverständnis mit dem
-        Auftraggeber zusätzlich, auch zur Unterrichtung Dritter, angefertigt
-        worden sind und
+        Auftraggeber, auch zur Unterrichtung Dritter, angefertigt worden sind
+        und
 
 
 
 
 
-2.  für die Überlassung elektronischer Dokumente an Stelle der in Nummer 1
-    Buchstabe d genannten Ablichtungen.
+2.  für die Überlassung von elektronischen Dateien oder deren
+    Bereitstellung zum Abruf anstelle der in Nummer 1 Buchstabe d
+    genannten Kopien und Ausdrucke.
 
 
 
 Eine Übermittlung durch den Steuerberater per Telefax steht der
-Herstellung einer Ablichtung gleich.
+Herstellung einer Kopie gleich.
 
 (2) Die Höhe der Dokumentenpauschale bemisst sich nach den für die
 Dokumentenpauschale im Vergütungsverzeichnis zum

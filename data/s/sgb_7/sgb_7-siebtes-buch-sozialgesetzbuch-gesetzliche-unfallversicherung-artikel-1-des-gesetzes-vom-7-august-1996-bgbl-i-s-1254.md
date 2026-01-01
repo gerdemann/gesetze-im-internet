@@ -1532,27 +1532,34 @@ erfüllt haben.
 
 
 ### § 25 Bericht gegenüber dem Bundestag
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002802308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002803126)
 
 (1) Die Bundesregierung hat dem Deutschen Bundestag und dem Bundesrat
-alljährlich bis zum 31. Dezember des auf das Berichtsjahr folgenden
-Jahres einen statistischen Bericht über den Stand von Sicherheit und
-Gesundheit bei der Arbeit und über das Unfall- und
+alle vier Jahre einen statistischen Bericht über den Stand von
+Sicherheit und Gesundheit bei der Arbeit und über das Unfall- und
 Berufskrankheitengeschehen in der Bundesrepublik Deutschland zu
 erstatten, der die Berichte der Unfallversicherungsträger und die
 Jahresberichte der für den Arbeitsschutz zuständigen Landesbehörden
-zusammenfaßt. Alle vier Jahre hat der Bericht einen umfassenden
-Überblick über die Entwicklung der Arbeitsunfälle und
-Berufskrankheiten, ihre Kosten und die Maßnahmen zur Sicherheit und
-Gesundheit bei der Arbeit zu enthalten.
+zusammenfasst sowie einen umfassenden Überblick über die Entwicklung
+der Arbeitsunfälle und Berufskrankheiten, ihre Kosten und die
+Maßnahmen zur Sicherheit und Gesundheit bei der Arbeit enthält. Der
+Bericht ist dem Deutschen Bundestag und dem Bundesrat bis zum 31.
+Dezember des auf den Berichtszeitraum folgenden Jahres zu übermitteln.
 
 (2) Die Unfallversicherungsträger haben dem Bundesministerium für
-Arbeit und Soziales alljährlich bis zum 31. Juli des auf das
-Berichtsjahr folgenden Jahres über die Durchführung der Maßnahmen zur
-Sicherheit und Gesundheit bei der Arbeit sowie über das Unfall- und
-Berufskrankheitengeschehen zu berichten. Landesunmittelbare
-Versicherungsträger reichen die Berichte über die für sie zuständigen
-obersten Verwaltungsbehörden der Länder ein.
+Arbeit und Soziales alljährlich bis zum 31. Juli über die Durchführung
+der Maßnahmen zur Sicherheit und Gesundheit bei der Arbeit sowie über
+das Unfall- und Berufskrankheitengeschehen im Vorjahr zu berichten.
+Landesunmittelbare Versicherungsträger reichen die Berichte über die
+für sie zuständigen obersten Verwaltungsbehörden der Länder ein.
+
+(3) Das Bundesministerium für Arbeit und Soziales veröffentlicht
+alljährlich bis zum 31. Dezember eine statistische Übersicht über den
+Stand von Sicherheit und Gesundheit bei der Arbeit und über das
+Unfall- und Berufskrankheitengeschehen in der Bundesrepublik
+Deutschland im Vorjahr, die die Berichte der Unfallversicherungsträger
+und die Jahresberichte der für den Arbeitsschutz zuständigen
+Landesbehörden zusammenfasst.
 
 
 ## Drittes Kapitel - Leistungen nach Eintritt eines Versicherungsfalls
@@ -3834,7 +3841,7 @@ eingetreten sind.
 
 
 #### § 96 Fälligkeit, Auszahlung und Berechnungsgrundsätze
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009907360)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009908126)
 
 (1) Laufende Geldleistungen mit Ausnahme des Verletzten- und
 Übergangsgeldes werden am Ende des Monats fällig, zu dessen Beginn die
@@ -3852,10 +3859,9 @@ Bankarbeitstages erfolgen kann.
 (2) Laufende Geldleistungen können mit Zustimmung der Berechtigten für
 einen angemessenen Zeitraum im voraus ausgezahlt werden.
 
-(2a) In Fällen des § 47 Absatz 1 Satz 3 des Ersten Buches erfolgt eine
-kostenfreie Übermittlung von Geldleistungen an den Wohnsitz oder
-gewöhnlichen Aufenthalt spätestens ab dem zweiten Monat, der auf den
-Monat folgt, in dem der Nachweis erbracht worden ist.
+(2a) Abweichend von § 47 Absatz 1 des Ersten Buches gilt für die
+Auszahlung von Geldleistungen § 118 Absatz 2b und 2c des Sechsten
+Buches entsprechend.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.

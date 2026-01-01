@@ -5618,34 +5618,18 @@ sechs Monaten gelöscht werden.
 
 
 ##### § 298a Elektronische Akte; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145305125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145309131)
 
-(1) Die Prozessakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
-durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten
-geführt werden sowie die hierfür geltenden organisatorisch-technischen
-Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
-elektronischen Akten. Die Landesregierungen können die Ermächtigung
-durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
-Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Akten elektronisch zu führen sind.
-
-(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Aufbewahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit
-zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
-der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die in Satz 2 genannte Ermächtigung durch
+Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform
 vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
@@ -5663,19 +5647,11 @@ Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
 sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
 rückgabepflichtig sind.
 
-(3) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
-Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt
-werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die zuständigen obersten Landesbehörden übertragen.
+(3) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen.
 
 (4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates die für die Übermittlung elektronischer Akten zwischen
@@ -6760,7 +6736,7 @@ Vorschriften dieses Titels gelten entsprechend.
 
 
 ##### § 348 Originärer Einzelrichter
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041105125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041106131)
 
 (1) Die Zivilkammer entscheidet durch eines ihrer Mitglieder als
 Einzelrichter. Dies gilt nicht, wenn
@@ -6775,9 +6751,7 @@ Einzelrichter. Dies gilt nicht, wenn
     Gerichts wegen der Zuordnung des Rechtsstreits zu den nachfolgenden
     Sachgebieten begründet ist:
 
-    a)  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
-        Druckerzeugnisse, Bild- und Tonträger jeder Art, insbesondere in
-        Presse, Rundfunk, Film und Fernsehen;
+    a)  (weggefallen)
 
 
     b)  Streitigkeiten aus Bank- und Finanzgeschäften;
@@ -6793,7 +6767,7 @@ Einzelrichter. Dies gilt nicht, wenn
         Wirtschaftsprüfer und vereidigten Buchprüfer;
 
 
-    e)  Streitigkeiten über Ansprüche aus Heilbehandlungen;
+    e)  (weggefallen)
 
 
     f)  Streitigkeiten aus Handelssachen im Sinne des § 95 des
@@ -8921,10 +8895,10 @@ Abweichungen ergeben.
 
 
 #### § 495a Verfahren nach billigem Ermessen
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE129103301)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE129104131)
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn
-der Streitwert 600 Euro nicht übersteigt. Auf Antrag muss mündlich
+der Streitwert 1 000 Euro nicht übersteigt. Auf Antrag muss mündlich
 verhandelt werden.
 
 
@@ -9050,14 +9024,14 @@ Entschädigung nach freiem Ermessen festzusetzen.
 
 
 #### § 511 Statthaftigkeit der Berufung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060004125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060005131)
 
 (1) Die Berufung findet gegen die im ersten Rechtszug erlassenen
 Endurteile der Amts- und Landgerichte statt.
 
 (2) Die Berufung ist nur zulässig, wenn
 
-1.  der Wert des Beschwerdegegenstandes 600 Euro übersteigt oder
+1.  der Wert des Beschwerdegegenstandes 1 000 Euro übersteigt oder
 
 
 2.  das Gericht des ersten Rechtszuges die Berufung im Urteil zugelassen
@@ -9077,7 +9051,8 @@ werden.
     Entscheidung des Berufungsgerichts erfordert und
 
 
-2.  die Partei durch das Urteil mit nicht mehr als 600 Euro beschwert ist.
+2.  die Partei durch das Urteil mit nicht mehr als 1 000 Euro beschwert
+    ist.
 
 
 
@@ -9718,14 +9693,14 @@ gebunden.
 
 
 #### § 544 Nichtzulassungsbeschwerde
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063904125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063905131)
 
 (1) Die Nichtzulassung der Revision durch das Berufungsgericht
 unterliegt der Beschwerde (Nichtzulassungsbeschwerde).
 
 (2) Die Nichtzulassungsbeschwerde ist nur zulässig, wenn
 
-1.  der Wert der mit der Revision geltend zu machenden Beschwer 20 000
+1.  der Wert der mit der Revision geltend zu machenden Beschwer 25 000
     Euro übersteigt oder
 
 
@@ -10239,7 +10214,7 @@ seiner Entscheidung zugrunde zu legen.
 
 
 ##### § 567 Sofortige Beschwerde; Anschlussbeschwerde
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067005301)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067006131)
 
 (1) Die sofortige Beschwerde findet statt gegen die im ersten
 Rechtszug ergangenen Entscheidungen der Amtsgerichte und Landgerichte,
@@ -10256,7 +10231,7 @@ wenn
 
 
 (2) Gegen Entscheidungen über Kosten ist die Beschwerde nur zulässig,
-wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt.
+wenn der Wert des Beschwerdegegenstands 300 Euro übersteigt.
 
 (3) Der Beschwerdegegner kann sich der Beschwerde anschließen, selbst
 wenn er auf die Beschwerde verzichtet hat oder die Beschwerdefrist
@@ -11238,12 +11213,12 @@ Durchführung gelten die §§ 1087 bis 1096.
 
 
 ### § 689 Zuständigkeit; maschinelle Bearbeitung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087706311)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087707311)
 
 (1) Das Mahnverfahren wird von den Amtsgerichten durchgeführt. Eine
 maschinelle Bearbeitung ist zulässig. Bei dieser Bearbeitung sollen
 Eingänge spätestens an dem Arbeitstag erledigt sein, der dem Tag des
-Eingangs folgt. Die Akten können elektronisch geführt werden (§ 298a).
+Eingangs folgt. Die Akten werden elektronisch geführt (§ 298a).
 
 (2) Ausschließlich zuständig ist das Amtsgericht, bei dem der
 Antragsteller seinen allgemeinen Gerichtsstand hat. Hat der

@@ -8128,7 +8128,7 @@ Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
 
 
 #### § 2 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247401360)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247402129)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 1 Absatz 1 Verbraucherinteressen im Zusammenhang mit
@@ -8158,7 +8158,7 @@ Durchsetzungsmaßnahme nach Artikel 21 der Verordnung (EU) 2017/2394
 geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen

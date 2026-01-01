@@ -72,24 +72,13 @@ Bundestages:
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000301130)
 
-Diese Verordnung regelt
-
-1.  die Anrechnung von strombasierten Kraftstoffen, mitverarbeiteten
-    biogenen Ölen und biogenem Wasserstoff auf die Erfüllung der
-    gesetzlichen Verpflichtung zur Minderung der Treibhausgasemissionen
-    nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 des
-    Bundes-Immissionsschutzgesetzes und
-
-
-2.  die Anrechnung von Flugturbinenkraftstoff aus erneuerbaren Energien
-    nicht biogenen Ursprungs auf die Erfüllung der gesetzlichen
-    Verpflichtung nach § 37a Absatz 2 in Verbindung mit Absatz 4a des
-    Bundes-Immissionsschutzgesetzes.
-
-
-
+Diese Verordnung regelt die Anrechnung von strombasierten
+Kraftstoffen, mitverarbeiteten biogenen Ölen und biogenem Wasserstoff
+auf die Erfüllung der gesetzlichen Verpflichtung zur Minderung der
+Treibhausgasemissionen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung
+mit Absatz 4 des Bundes-Immissionsschutzgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
@@ -249,13 +238,12 @@ Stromimporte und abzüglich Stromexporte.
 
 
 ### § 3 Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000501130)
 
 (1) Erneuerbare Kraftstoffe nicht biogenen Ursprungs werden auf die
 Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in
-Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes oder nach
-§ 37a Absatz 2 in Verbindung mit Absatz 4a des Bundes-
-Immissionsschutzgesetzes angerechnet, wenn
+Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes
+angerechnet, wenn
 
 1.  der zur Herstellung der erneuerbaren Kraftstoffe nicht biogenen
     Ursprungs eingesetzte Strom
@@ -1222,7 +1210,7 @@ Zertifizierungsstellen kontrolliert.
 
 
 #### § 18 Dokumentation der Lieferung in Massenbilanzsystemen
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002001130)
 
 (1) Um die Herkunft der erneuerbaren Kraftstoffe nicht biogenen
 Ursprungs von der Schnittstelle, die den Nachweis ausgestellt hat,
@@ -1254,8 +1242,8 @@ nachzuweisen,
     b)  ihre Lieferungen in einem Massenbilanzsystem erfassen, das
         regelmäßigen Prüfungen durch die Hauptzollämter zur Überwachung der
         Einhaltung der Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in
-        Verbindung mit Absatz 4 sowie nach Absatz 2 in Verbindung mit Absatz
-        4a des Bundes-Immissionsschutzgesetzes unterliegt, und
+        Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes
+        unterliegt, und
 
 
 
@@ -2095,7 +2083,7 @@ keine Rechtsansprüche ableiten.
 
 
 ### § 44 Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004600000)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004601130)
 
 (1) Die zuständige Behörde führt ein zentrales Register über alle
 Zertifizierungssysteme, Zertifizierungsstellen, Zertifikate,
@@ -2153,8 +2141,8 @@ zu erkennen sind.
 (4) Die zuständige Behörde hat der Biokraftstoffquotenstelle auf
 Verlangen die Auskünfte zu erteilen, die zur Überwachung der
 Verpflichtungen der Nachweispflichtigen nach § 37a Absatz 1 Satz 1 und
-2 in Verbindung mit Absatz 4 sowie nach Absatz 2 in Verbindung mit
-Absatz 4a des Bundes-Immissionsschutzgesetzes erforderlich sind.
+2 in Verbindung mit Absatz 4 des Bundes-Immissionsschutzgesetzes
+erforderlich sind.
 
 
 ### § 45 Datenabgleich

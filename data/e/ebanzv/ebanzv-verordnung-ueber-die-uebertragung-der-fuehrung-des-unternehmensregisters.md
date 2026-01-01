@@ -24,7 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000101360)
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000102129)
 
 Auf Grund des § 9a Abs. 1 des Handelsgesetzbuchs, der durch Artikel 1
 Nr. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) neu gefasst
@@ -35,7 +35,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Übertragung der Führung des Unternehmensregisters
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000201360)
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000202129)
 
 Der Bundesanzeiger Verlag GmbH (Beliehene), eingetragen im
 Handelsregister beim Amtsgericht Köln, HRB 31248, wird die Führung des
@@ -43,7 +43,7 @@ Unternehmensregisters übertragen.
 
 
 ## § 2 Führung eines Dienstsiegels
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000301360)
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000302129)
 
 Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es
 wird vom Bundesministerium der Justiz und für Verbraucherschutz zur
@@ -53,21 +53,21 @@ werden.
 
 
 ## § 3 Kündigungsrechte
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000401360)
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000402129)
 
 (1) Das durch die Übertragung der Führung des Unternehmensregisters
 begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des
-Außerkrafttretens dieser Verordnung nach § 5 Abs. 2 schriftlich von
-der Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium
-der Justiz und für Verbraucherschutz mit einer Frist von höchstens
-einem Jahr gekündigt werden.
+Außerkrafttretens dieser Verordnung nach § 5 schriftlich von der
+Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium der
+Justiz und für Verbraucherschutz mit einer Frist von höchstens einem
+Jahr gekündigt werden.
 
 (2) Die Kündigung nach Absatz 1 ist nur aus wichtigem Grund zulässig.
 Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter
 Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der
 Interessen beider Teile die Fortsetzung des Auftragsverhältnisses bis
 zum Ablauf des Zeitpunkts des Außerkrafttretens der Verordnung nach §
-5 Abs. 2 nicht zugemutet werden kann, insbesondere wenn
+5 nicht zugemutet werden kann, insbesondere wenn
 
 1.  das Verhalten der Beliehenen geeignet ist, das Ansehen der
     Bundesrepublik Deutschland oder eines der Länder zu schädigen;
@@ -97,19 +97,44 @@ den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der
 Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund
 unverzüglich schriftlich mitteilen.
 
-(4) Unbeschadet des § 5 Abs. 2 sind mit Wirksamwerden der Kündigung
-die Übertragung der Führung des Unternehmensregisters nach § 1 und die
+(4) Unbeschadet des § 5 sind mit Wirksamwerden der Kündigung die
+Übertragung der Führung des Unternehmensregisters nach § 1 und die
 Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
 
-## § 4 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000502360)
+## § 4 Abwicklung bei Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000503129)
 
-Diese Verordnung tritt am 31. Dezember 2026 außer Kraft.
+(1) An dem Tag, an dem die Beleihung endet, hat die Beliehene dem
+Bundesministerium der Justiz und für Verbraucherschutz oder einer von
+diesem bestimmten Stelle unverzüglich
+
+1.  alle für den ordnungsgemäßen Weiterbetrieb des Unternehmensregisters
+    erforderliche Software und Daten zur Verfügung zu stellen und
+
+
+2.  die Rechte an dieser Software und an der für das Unternehmensregister
+    genutzten Internetadresse zu übertragen.
+
+
+
+
+(2) Die Kosten für die Abwicklung nach Absatz 1 werden nicht vom
+Bundesministerium der Justiz und für Verbraucherschutz erstattet. Das
+Bundesministerium der Justiz und für Verbraucherschutz erstattet
+solche Kosten nur, wenn es sich um Lizenz- und Übertragungsgebühren
+handelt, die Dritten zustehen, die nicht mit der Beliehenen
+gesellschaftsrechtlich verbunden sind.
+
+
+## § 5 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000800129)
+
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2031 außer Kraft.
 
 
 ## Schlussformel
-[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000701360)
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000702129)
 
 Der Bundesrat hat zugestimmt.
 

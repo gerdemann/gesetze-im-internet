@@ -372,10 +372,19 @@ Kollegialgerichten der Vorsitzende.
 
 
 #### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001511131)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001513131)
 
-(1) Die Gerichtsakten können elektronisch geführt werden. § 298a
-Absatz 2 der Zivilprozessordnung gilt entsprechend.
+(1) Die Gerichtsakten werden elektronisch geführt. § 298a Absatz 2 der
+Zivilprozessordnung gilt entsprechend. Die Bundesregierung und die
+Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 3 durch
+Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen
+obersten Landesbehörden übertragen. Die Rechtsverordnung der
+Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Anträge und Erklärungen der Beteiligten sowie schriftlich
 einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge
@@ -387,69 +396,15 @@ sowie § 298 der Zivilprozessordnung entsprechend.
 (3) Für das gerichtliche elektronische Dokument gelten die §§ 130b und
 298 der Zivilprozessordnung entsprechend.
 
-(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Akten geführt werden können. Die Bundesregierung und die
-Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
-die geltenden organisatorisch-technischen Rahmenbedingungen für die
-Bildung, Führung und Aufbewahrung der elektronischen Akten. Die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung
-der elektronischen Akte kann auf einzelne Gerichte oder Verfahren
-beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann
-in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren die Akten elektronisch zu führen sind.
+(4) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen.
 
-(4a) Die Gerichtsakten werden ab dem 1. Januar 2026 elektronisch
-geführt. Die Bundesregierung und die Landesregierungen bestimmen
-jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
-und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
-für die Bildung, Führung und Aufbewahrung der elektronischen Akten
-einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
-Die Bundesregierung und die Landesregierungen können jeweils für ihren
-Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
-Papierform angelegt wurden, in Papierform weitergeführt werden. Die
-Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
-durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit
-zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
-der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
-
-(5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur
-Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger
-übertragen worden und liegt der schriftliche Nachweis darüber vor,
-dass die Wiedergabe mit der Urschrift übereinstimmt, so können
-Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem
-Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke
-werden in diesem Fall bei dem Nachweis angebracht.
-
-(6) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor
-dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten
-Stichtag oder Ereignis in elektronischer Form weitergeführt werden.
-Die Zulassung der Weiterführung in elektronischer Form kann auf
-einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser
-Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt
-werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-elektronischer Form weitergeführt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die
-Ermächtigung kann durch Rechtsverordnung auf die jeweils zuständige
-oberste Landesbehörde übertragen werden.
-
-(7) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
-des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
-DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
-in Papierform erstellt, geführt und übermittelt werden. Dokumente und
-Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
-der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
-eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform
-übermittelt werden. Die für die Handhabung von Verschlusssachen
-geltenden Geheimschutzvorschriften bleiben unberührt.
-
-(8) Die Bundesregierung und die Landesregierungen können jeweils für
+(4a) Die Bundesregierung und die Landesregierungen können jeweils für
 ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
-von § 14 Absatz 4a bis einschließlich 31. Dezember 2026 in Papierform
+von § 14 Absatz 1 bis einschließlich 31. Dezember 2026 in Papierform
 angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026
 übermittelte elektronische Akten in Papierform geführt oder
 weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
@@ -463,7 +418,25 @@ nicht der Zustimmung des Bundesrates. Die Landesregierungen können die
 in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
 zuständigen obersten Landesbehörden übertragen.
 
-(9) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+(5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur
+Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger
+übertragen worden und liegt der schriftliche Nachweis darüber vor,
+dass die Wiedergabe mit der Urschrift übereinstimmt, so können
+Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem
+Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke
+werden in diesem Fall bei dem Nachweis angebracht.
+
+(6) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
+des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+in Papierform erstellt, geführt und übermittelt werden. Dokumente und
+Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
+der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform
+übermittelt werden. Die für die Handhabung von Verschlusssachen
+geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates die für die Übermittlung elektronischer Akten zwischen
 Behörden und Gerichten geltenden Standards bestimmen.
 
@@ -1465,10 +1438,10 @@ das 14. Lebensjahr nicht vollendet haben.
 
 
 ##### § 61 Beschwerdewert; Zulassungsbeschwerde
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006300000)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006301131)
 
 (1) In vermögensrechtlichen Angelegenheiten ist die Beschwerde nur
-zulässig, wenn der Wert des Beschwerdegegenstandes 600 Euro
+zulässig, wenn der Wert des Beschwerdegegenstandes 1 000 Euro
 übersteigt.
 
 (2) Übersteigt der Beschwerdegegenstand nicht den in Absatz 1
@@ -1482,7 +1455,7 @@ ersten Rechtszugs die Beschwerde zugelassen hat.
     Entscheidung des Beschwerdegerichts erfordert und
 
 
-2.  der Beteiligte durch den Beschluss mit nicht mehr als 600 Euro
+2.  der Beteiligte durch den Beschluss mit nicht mehr als 1 000 Euro
     beschwert ist.
 
 
@@ -6707,7 +6680,7 @@ anfechtbar.
 
 
 #### § 277 Vergütung und Aufwendungsersatz des Verfahrenspflegers
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028302125)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028303125)
 
 (1) Die Verfahrenspflegschaft wird unentgeltlich geführt. Der
 Verfahrenspfleger erhält Ersatz seiner Aufwendungen nach § 1877 Absatz
@@ -6718,7 +6691,7 @@ nicht verlangt werden.
 ist dies in der Bestellung festzustellen. Die Ansprüche des
 berufsmäßig tätigen Verfahrenspflegers auf Vergütung und
 Aufwendungsersatz richten sich nach § 2 Absatz 2 Satz 1 und den §§ 3
-bis 5 des Vormünder- und Betreuervergütungsgesetzes.
+bis 5 und § 16 des Vormünder- und Betreuervergütungsgesetzes.
 
 (3) Anstelle des Aufwendungsersatzes und der Vergütung nach Absatz 2
 kann das Gericht dem Verfahrenspfleger eine Pauschale zubilligen, wenn
@@ -7110,10 +7083,10 @@ nicht anzuwenden.
 
 
 #### § 292 Zahlungen an den Betreuer; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029802360)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029803125)
 
-(1) Das Gericht setzt auf Antrag des Betreuers oder des Betroffenen
-oder nach eigenem Ermessen durch Beschluss fest:
+(1) Das Gericht setzt auf Antrag des Betreuers, des Betreuungsvereins
+oder des Betroffenen oder nach eigenem Ermessen durch Beschluss fest:
 
 1.  einen dem Betreuer zu zahlenden Vorschuss, den ihm zu leistenden
     Ersatz von Aufwendungen oder die Aufwandspauschale, soweit der
@@ -7133,15 +7106,14 @@ oder nach eigenem Ermessen durch Beschluss fest:
 
 
 
-(2) Das Gericht kann eine nach Absatz 1 Nummer 3 zu bewilligende
-Vergütung auf Antrag des Betreuers oder des Betreuungsvereins auch für
-zukünftige Zeiträume durch Beschluss festsetzen, wenn die
-Voraussetzungen des § 15 Absatz 2 Satz 1 des Vormünder- und
-Betreuervergütungsgesetzes vorliegen. Die Auszahlung der Vergütung
-erfolgt für die jeweils nach § 15 Absatz 1 Satz 1 des Vormünder- und
-Betreuervergütungsgesetzes maßgeblichen Zeiträume. Die Festsetzung ist
-in regelmäßigen, im Voraus festzulegenden Abständen, die zwei Jahre
-nicht überschreiten dürfen, zu überprüfen.
+(2) Das Gericht kann die nach Absatz 1 Nummer 3 zu bewilligende
+Vergütung für zukünftige Zeiträume festsetzen. Die Festsetzung ist in
+regelmäßigen, im Voraus festzulegenden Abständen, die zwei Jahre nicht
+überschreiten dürfen, zu überprüfen. Die Auszahlung der Vergütung
+erfolgt für die jeweils nach § 14 Absatz 1 Satz 1 des Vormünder- und
+Betreuervergütungsgesetzes maßgeblichen Zeiträume. Eine Änderung der
+für die Vergütungsfestsetzung maßgeblichen Kriterien hat der Betreuer
+dem Gericht unverzüglich mitzuteilen.
 
 (3) Im Antrag sollen die persönlichen und wirtschaftlichen
 Verhältnisse des Betroffenen dargestellt werden. § 118 Absatz 2 Satz 1
@@ -11208,7 +11180,7 @@ geändert werden können, sind mit der Erinnerung nicht anfechtbar.
 
 
 ### § 493 Übergangsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050205125)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050206131)
 
 (1) Für bis zum Inkrafttreten des Gesetzes zur Übertragung von
 Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare vom
@@ -11247,4 +11219,24 @@ Zeitpunkten erfolgen:
 
 
 
+
+(6) Der § 61 Absatz 1 und 3 Satz 1 Nummer 2 ist in seiner bis
+einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
+wenn
+
+1.  die anzufechtende Entscheidung bis einschließlich 31. Dezember 2025
+    erlassen worden ist, oder
+
+
+2.  bei Entscheidungen in Familienstreitsachen oder bei Entscheidungen im
+    Verbund nach § 137 Absatz 1 die mündliche Verhandlung, auf die die
+    anzufechtende Entscheidung ergeht, bis einschließlich 31. Dezember
+    2025 geschlossen worden ist.
+
+
+
+Ergeht eine Entscheidung nach Satz 1 Nummer 2 im schriftlichen
+Verfahren, tritt an die Stelle des Schlusses der mündlichen
+Verhandlung der Zeitpunkt, bis zu dem Schriftsätze eingereicht werden
+konnten.
 

@@ -381,7 +381,7 @@ nach § 9 Absatz 2 des Altersgeldgesetzes.
 
 
 ## § 3 Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
-[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000400001)
 
 (1) Zuständig für die Festsetzung der Versorgungsbezüge nach § 2
 Nummer 1, 2 und 5 bis 12 in Verbindung mit § 49 Absatz 1 Satz 1 des
@@ -434,8 +434,7 @@ genannten Maßgaben vorbehalten:
 
 
 
-8.  dem Bundesministerium für Bildung, Familie, Senioren, Frauen und
-    Jugend,
+8.  (weggefallen)
 
 
 9.  dem Bundesministerium für Gesundheit,

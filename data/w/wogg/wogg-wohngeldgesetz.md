@@ -858,7 +858,7 @@ Gesamteinkommens.
 
 
 #### § 14 Jahreseinkommen
-[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001509126)
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001510126)
 
 (1) Das Jahreseinkommen eines zu berücksichtigenden
 Haushaltsmitgliedes ist vorbehaltlich des Absatzes 3 die Summe der
@@ -991,7 +991,8 @@ zulässig.
     Sonntags-, Feiertags- oder Nachtarbeit;
 
 
-12. (weggefallen)
+12. die nach § 3 Nummer 21 des Einkommensteuergesetzes steuerfreien
+    Einnahmen;
 
 
 13. (weggefallen)

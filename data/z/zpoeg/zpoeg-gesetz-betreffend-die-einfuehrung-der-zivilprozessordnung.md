@@ -1102,7 +1102,7 @@ Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
 
 
 ## § 43 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004707131)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004709131)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -1118,7 +1118,7 @@ geltenden Geheimschutzvorschriften bleiben unberührt.
 
 (2) Die Bundesregierung und die Landesregierungen können jeweils für
 ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
-von § 298a Absatz 1a der Zivilprozessordnung bis einschließlich 31.
+von § 298a Absatz 1 der Zivilprozessordnung bis einschließlich 31.
 Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
 einschließlich 31. Dezember 2026 übermittelte elektronische Akten in
 Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf
@@ -1167,4 +1167,26 @@ Zivilprozessordnung einschließlich der auf Grund des § 609 Absatz 7
 der Zivilprozessordnung erlassenen Musterfeststellungsklagenregister-
 Verordnung sowie § 119 Absatz 3 des Gerichtsverfassungsgesetzes in der
 bis einschließlich 12. Oktober 2023 geltenden Fassung anzuwenden.
+
+
+## § 47 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE005200131)
+
+Die §§ 511, 544 und 567 der Zivilprozessordnung sind in ihrer bis
+einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
+wenn
+
+1.  die anzufechtende Entscheidung bis einschließlich 31. Dezember 2025
+    verkündet oder, wenn eine Verkündung nicht stattgefunden hat, der
+    Geschäftsstelle übergeben worden ist oder
+
+
+2.  die mündliche Verhandlung, auf die die anzufechtende Entscheidung
+    ergeht, bis einschließlich 31. Dezember 2025 geschlossen worden ist;
+    in schriftlichen Verfahren tritt an die Stelle des Schlusses der
+    mündlichen Verhandlung der Zeitpunkt, bis zu dem Schriftsätze
+    eingereicht werden konnten.
+
+
+
 

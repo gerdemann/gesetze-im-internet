@@ -1092,7 +1092,7 @@ des vorläufigen Gläubigerausschusses in Betracht kommen.
 
 
 #### § 23 Bekanntmachung der Verfügungsbeschränkungen
-[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002503125)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002505126)
 
 (1) Der Beschluß, durch den eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
 Verfügungsbeschränkungen angeordnet und ein vorläufiger
@@ -1308,7 +1308,7 @@ selbst ist der Beschluß besonders zuzustellen.
 
 
 #### § 31 Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
-[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003303125)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003305126)
 
 Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-,
 Partnerschafts- oder Vereinsregister eingetragen, so hat die

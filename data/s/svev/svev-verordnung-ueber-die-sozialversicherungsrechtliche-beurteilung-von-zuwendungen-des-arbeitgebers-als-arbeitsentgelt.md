@@ -27,7 +27,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
-[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000113311)
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000114126)
 
 (1) Dem Arbeitsentgelt sind nicht zuzurechnen:
 
@@ -35,9 +35,10 @@ Zuletzt geändert durch
     ähnliche Einnahmen, die zusätzlich zu Löhnen oder Gehältern gewährt
     werden, soweit sie lohnsteuerfrei sind; dies gilt nicht für Sonntags-,
     Feiertags- und Nachtarbeitszuschläge, soweit das Entgelt, auf dem sie
-    berechnet werden, mehr als 25 Euro für jede Stunde beträgt, und nicht
-    für Vermögensbeteiligungen nach § 19a Absatz 1 Satz 1 des
-    Einkommensteuergesetzes,
+    berechnet werden, mehr als 25 Euro für jede Stunde beträgt, nicht für
+    Vermögensbeteiligungen nach § 19a Absatz 1 Satz 1 des
+    Einkommensteuergesetzes und nicht für Einnahmen, die allein nach § 3
+    Nummer 21 des Einkommensteuergesetzes steuerfrei sind,
 
 
 2.  sonstige Bezüge nach § 40 Abs. 1 Satz 1 Nr. 1 des
@@ -153,19 +154,19 @@ Hinterbliebenenrente zu berücksichtigen ist.
 
 
 ## § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
-[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000217126)
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000218126)
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung
-wird auf monatlich 333 Euro festgesetzt. Dieser Wert setzt sich
+wird auf monatlich 345 Euro festgesetzt. Dieser Wert setzt sich
 zusammen aus dem Wert für
 
-1.  Frühstück von 69 Euro,
+1.  Frühstück von 71 Euro,
 
 
-2.  Mittagessen von 132 Euro und
+2.  Mittagessen von 137 Euro und
 
 
-3.  Abendessen von 132 Euro.
+3.  Abendessen von 137 Euro.
 
 
 
@@ -197,7 +198,7 @@ beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der
 Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
 (3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft
-wird auf monatlich 282 Euro festgesetzt. Der Wert der Unterkunft nach
+wird auf monatlich 285 Euro festgesetzt. Der Wert der Unterkunft nach
 Satz 1 vermindert sich
 
 1.  bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder
@@ -234,9 +235,9 @@ Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen sowie unter
 entsprechender Anwendung des § 8 Absatz 2 Satz 12 des
 Einkommensteuergesetzes anzusetzen. Ist im Einzelfall die Feststellung
 des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten
-verbunden, kann die Wohnung mit 4,95 Euro je Quadratmeter monatlich,
+verbunden, kann die Wohnung mit 5,01 Euro je Quadratmeter monatlich,
 bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder
-Dusche) mit 4,05 Euro je Quadratmeter monatlich bewertet werden.
+Dusche) mit 4,10 Euro je Quadratmeter monatlich bewertet werden.
 Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese
 Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt
 auch für die vertraglichen Mietpreisbeschränkungen im sozialen

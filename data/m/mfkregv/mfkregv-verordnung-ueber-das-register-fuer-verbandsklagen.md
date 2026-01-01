@@ -242,6 +242,19 @@ Zeitpunkt des Beginns und des Endes von technischen Störungen des
 Verbandsklageregisters.
 
 
+## § 7a Benachrichtigung angemeldeter Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE001100360)
+
+Das Bundesamt für Justiz benachrichtigt Verbraucher und kleine
+Unternehmen, die im Rahmen ihrer Anmeldung zu einer Verbandsklage nach
+§ 1 Absatz 1 des Verbraucherrechtedurchsetzungsgesetzes eine E‑Mail-
+Adresse angegeben haben, wenn im Register zu dieser Verbandsklage
+Angaben nach § 44 Nummer 7 bis 14 des
+Verbraucherrechtedurchsetzungsgesetzes bekanntgemacht werden. Die
+Benachrichtigung nach Satz 1 ist unverzüglich an die angegebene
+E-Mail-Adresse zu versenden.
+
+
 ## § 8 Inkrafttreten
 [Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000801125)
 

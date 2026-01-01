@@ -28,7 +28,7 @@ Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 
 ### § 1 Persönlicher Geltungsbereich, Dienstgradbezeichnungen
-[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000201311)
 
 (1) Diese Verordnung gilt für
 
@@ -38,7 +38,7 @@ Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 
 2.  Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des
-    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7
+    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 3 oder 4
     des Wehrpflichtgesetzes leisten,
 
 

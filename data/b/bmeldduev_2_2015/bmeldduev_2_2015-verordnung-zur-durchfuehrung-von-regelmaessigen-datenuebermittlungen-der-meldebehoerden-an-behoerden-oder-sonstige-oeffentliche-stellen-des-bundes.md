@@ -90,13 +90,14 @@ der Anwendung anzugeben.
 
 
 ## § 4 Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr
-[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000501130)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000502130)
 
 Die Meldebehörden übermitteln gemäß § 58c Absatz 1 des
 Soldatengesetzes an das Bundesamt für das Personalmanagement der
-Bundeswehr für die Übersendung von Informationsmaterial jährlich bis
-zum 31. März folgende Daten zu Personen mit deutscher
-Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
+Bundeswehr für die Übersendung von Informationsmaterial über
+Tätigkeiten in den Streitkräften jährlich bis zum 31. März folgende
+Daten zu Personen mit deutscher Staatsangehörigkeit, die im nächsten
+Jahr volljährig werden:
 
 *    *
     *
@@ -126,8 +127,6 @@ Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
 
 
 
-Die Datenübermittlung unterbleibt, wenn die betroffene Person ihr nach
-§ 36 Absatz 2 des Bundesmeldegesetzes widersprochen hat.
 
 
 ## § 5 (wegefallen)

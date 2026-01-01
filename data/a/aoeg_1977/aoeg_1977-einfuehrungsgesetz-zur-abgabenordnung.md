@@ -1527,11 +1527,16 @@ nach dem 5. Dezember 2024 erlassen worden sind.
 
 
 ### § 28 Elektronische Bekanntgabe von Verwaltungsakten
-[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007200377)
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007201123)
 
-§ 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung
-in der am 1. Januar 2017 geltenden Fassung sind erstmals auf
-Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2016 erlassen
+(1) § 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der
+Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind
+erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember
+2016 erlassen worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+
+(2) Die §§ 122a und 169 Absatz 1 Satz 3 Nummer 1 der Abgabenordnung in
+der am 1. Januar 2026 geltenden Fassung sind erstmals auf
+Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2025 erlassen
 worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
 
 

@@ -52,7 +52,7 @@ Identifikationsnummern und Metadaten.
 
 
 ## § 2 Bundeseinheitliche Wirtschaftsnummer für Unternehmen
-[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000201128)
 
 (1) Einem Unternehmen nach § 3 Absatz 1 wird im Basisregister eine
 bundeseinheitliche Wirtschaftsnummer für Unternehmen zugeordnet. Als
@@ -63,18 +63,19 @@ Wirtschafts-Identifikationsnummer nach § 139c der Abgabenordnung.
 Zweck der registerübergreifenden eindeutigen Identifikation der im
 Basisregister geführten Unternehmen.
 
-(3) Die öffentlichen Stellen nach § 4 Absatz 1 und § 5 Absatz 1 dürfen
+(3) Die öffentlichen Stellen nach § 4 Absatz 1 und § 5 Absatz 1 dürfen
 die bundeseinheitliche Wirtschaftsnummer für Unternehmen in ihren
-Registern oder sonstigen Datenbeständen speichern und verwenden,
-soweit dies für ihre Aufgabenerfüllung erforderlich ist. Die
-bundeseinheitliche Wirtschaftsnummer für Unternehmen ist bei jeder
-Übermittlung an das und aus dem Basisregister anzugeben, wenn sie
-vergeben und durch das Basisregister an die Quellregister übermittelt
-wurde.
+Registern oder sonstigen Datenbeständen speichern, verwenden und an
+öffentliche Stellen weitergeben, soweit dies für ihre eigene
+Aufgabenerfüllung und die Aufgabenerfüllung der empfangenden
+öffentlichen Stelle erforderlich ist. Die bundeseinheitliche
+Wirtschaftsnummer für Unternehmen ist bei jeder Übermittlung an das
+und aus dem Basisregister anzugeben, wenn sie vergeben und durch das
+Basisregister an die Quellregister übermittelt wurde.
 
 
 ## § 3 Inhalt des Basisregisters
-[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000302128)
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000303128)
 
 (1) Folgende in den Registern oder sonstigen Datenbeständen der
 öffentlichen Stellen nach § 4 Absatz 1 und der Global Legal Entity
@@ -191,7 +192,7 @@ folgende Identifikationsnummern gespeichert:
 
 9.  Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung,
     einschließlich des Unterscheidungsmerkmals gemäß § 139c Absatz 5a der
-    Abgabenordnung und
+    Abgabenordnung,
 
 
 10. die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der
@@ -199,7 +200,17 @@ folgende Identifikationsnummern gespeichert:
     zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen
     Parlaments und des Rates durch technische Regulierungsstandards für
     die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom
-    31\.3.2017, S. 449).
+    31\.3.2017, S. 449),
+
+
+11. das Kennzeichen, das zur Organisation der Datenbestände einer
+    öffentlichen Stelle verwendet wird, welche aufgrund einer nach § 10
+    Nummer 6 erlassenen Rechtsverordnung Daten an die Registerbehörde
+    übermittelt, und
+
+
+12. die EUID gemäß Nummer 9 des Anhangs Technische Spezifikationen und
+    Verfahren der Durchführungsverordnung (EU) 2021/1042.
 
 
 
@@ -275,7 +286,7 @@ gespeichert sind.
 
 
 ## § 5 Datenübermittlung durch die Registerbehörde
-[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000503126)
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000504128)
 
 (1) Die Registerbehörde darf an folgende öffentliche Stellen zu
 folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
@@ -378,11 +389,10 @@ folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
     Buches Sozialgesetzbuch geführt werden,
 
 
-10. an die vom Bundesministerium des Innern, für Bau und Heimat mit
-    Zustimmung des Bundesrates nach § 3 Absatz 2 Satz 2 des
-    Onlinezugangsgesetzes bestimmte öffentliche Stelle zur Verwendung in
-    einem Organisationskonto im Sinne des § 2 Absatz 5 des
-    Onlinezugangsgesetzes und
+10. an die vom Bundesministerium des Innern mit Zustimmung des Bundesrates
+    nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes bestimmte
+    öffentliche Stelle zur Verwendung in einem Organisationskonto im Sinne
+    des § 2 Absatz 5 des Onlinezugangsgesetzes und
 
 
 11. an das Statistische Bundesamt zur Pflege des Unternehmensregisters für
@@ -496,7 +506,7 @@ nach § 10 Satz 1 Nummer 2 festzulegen.
 
 
 ## § 10 Rechtsverordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE001001126)
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE001002128)
 
 Das Bundesministerium der Finanzen, das Bundesministerium für
 Wirtschaft und Energie und das Bundesministerium der Justiz und für
@@ -522,14 +532,17 @@ mit Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 5.  die Festlegung technischer und organisatorischer Standards der
-    Datenübermittlungen nach den §§ 4 und 5 und
+    Datenübermittlungen nach den §§ 4 und 5,
 
 
-6.  die Bestimmung einzelner anderer öffentlicher Stellen und jeweils
-    dazugehöriger Datenbestände, die sowohl Daten an die Registerbehörde
-    zum Aufbau und zur Pflege des Basisregisters übermitteln sollen als
-    auch Daten von der Registerbehörde zur Erfüllung ihrer gesetzlichen
-    Aufgaben übermittelt bekommen.
+6.  die Bestimmung einzelner öffentlicher Stellen, die Daten an die
+    Registerbehörde zum Aufbau und zur Pflege des Basisregisters
+    übermitteln, einschließlich der von diesen zu übermittelnden Daten und
+
+
+7.  die Bestimmung einzelner öffentlicher Stellen, die Daten von der
+    Registerbehörde zur Erfüllung ihrer gesetzlichen Aufgaben übermittelt
+    bekommen, einschließlich der an diese zu übermittelnden Daten.
 
 
 

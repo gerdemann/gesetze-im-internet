@@ -1504,7 +1504,7 @@ Leistungsträger belastet oder Rechtsvorschriften umgangen werden.
 
 
 #### § 47 Auszahlung von Geldleistungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006302124)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006303126)
 
 (1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, werden Geldleistungen kostenfrei auf das angegebene Konto
@@ -1513,14 +1513,18 @@ Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung
 der technischen Vorschriften und der Geschäftsanforderungen für
 Überweisungen und Lastschriften in Euro und zur Änderung der
 Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt,
-überwiesen oder, wenn der Empfänger es verlangt, an seinen Wohnsitz
-oder gewöhnlichen Aufenthalt innerhalb des Geltungsbereiches dieser
-Verordnung übermittelt. Werden Geldleistungen an den Wohnsitz oder an
-den gewöhnlichen Aufenthalt des Empfängers übermittelt, sind die
-dadurch veranlassten Kosten von den Geldleistungen abzuziehen. Dies
-gilt nicht, wenn der Empfänger nachweist, dass ihm die Einrichtung
-eines Kontos bei einem Geldinstitut ohne eigenes Verschulden nicht
-möglich ist.
+überwiesen. Abweichend von Satz 1 werden Geldleistungen kostenfrei an
+den Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers innerhalb des
+Geltungsbereiches der in Satz 1 genannten Verordnung übermittelt, wenn
+
+1.  der Empfänger nachweist, dass ihm die Einrichtung eines Kontos bei
+    einem Geldinstitut ohne eigenes Verschulden nicht möglich ist, oder
+
+
+2.  die Auszahlung im Einzelfall keinen Aufschub duldet.
+
+
+
 
 (2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1
 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem

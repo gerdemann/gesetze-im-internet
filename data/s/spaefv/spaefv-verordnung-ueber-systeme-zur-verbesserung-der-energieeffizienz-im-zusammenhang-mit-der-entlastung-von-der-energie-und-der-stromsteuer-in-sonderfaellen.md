@@ -471,10 +471,10 @@ handelt, wer vorsätzlich oder leichtfertig entgegen § 4 Absatz 6 Satz
 ausstellt oder nicht richtig bestätigt.
 
 
-## § 10 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001200000)
+## § 10 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001201123)
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
 
 (zu § 3 Nummer 1)
 

@@ -478,7 +478,7 @@ Unterschiedsbetrag von diesem Land aufzubringen.
 
 
 ### § 11 Bundesergänzungszuweisungen
-[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001113123)
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001114119)
 
 (1) Der Bund gewährt aus seinen Mitteln leistungsschwachen Ländern
 Bundesergänzungszuweisungen zur ergänzenden Deckung ihres allgemeinen
@@ -501,27 +501,27 @@ Sonderbedarfs-Bundesergänzungszuweisungen:
 
 *    *   Brandenburg
 
-    *   15 580 000 Euro,
+    *   6 840 000 Euro,
 
 
 *    *   Mecklenburg-Vorpommern
 
-    *   10 496 000 Euro,
+    *   4 608 000 Euro,
 
 
 *    *   Sachsen
 
-    *   26 158 000 Euro,
+    *   11 484 000 Euro,
 
 
 *    *   Sachsen-Anhalt
 
-    *   15 334 000 Euro,
+    *   6 732 000 Euro,
 
 
 *    *   Thüringen
 
-    *   14 432 000 Euro.
+    *   6 336 000 Euro.
 
 
 
@@ -646,28 +646,6 @@ Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des
 Bundesrates bedarf.
 
 
-### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
-[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE002301123)
-
-Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung
-nach § 12 die Unterschiede zwischen den fortgeschriebenen
-Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022
-einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf
-der Grundlage des Zensus 2011 andererseits wie folgt zu
-berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7
-Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen
-der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr
-2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der
-Unterschiede nach Satz 1 hinzugerechnet werden. Für die in Satz 1
-genannten Jahre wird jeweils eine weitere Zwischenabrechnung im Sinne
-von § 14 Absatz 3 sowie jeweils eine weitere Verrechnung im Sinne von
-§ 16 erstellt. Die sich hieraus ergebenden Zahlungen werden für das
-Ausgleichsjahr 2022 zusammen mit den Zahlungen gemäß § 14 Absatz 3 und
-§ 16 für das zweite Quartal 2025 und für das Ausgleichsjahr 2023
-zusammen mit den Zahlungen gemäß § 14 Absatz 3 und § 16 für das erste
-Quartal 2026 entrichtet.
-
-
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
 [Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001302123)
 
@@ -751,9 +729,9 @@ trifft die für den Überweisungsverkehr erforderlichen Anordnungen.
 
 
 ### § 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
-[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001602123)
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001603119)
 
-(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5
+(1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2, 4, 5 und 6
 werden am 15. März, 15. Juni, 15. September und 15. Dezember
 Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils
 vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden
@@ -761,9 +739,9 @@ die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu
 viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige
 Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
-(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3, 4 und 6 sind
-mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15.
-September und 15. Dezember fällig.
+(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 sind mit je
+einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und
+15\. Dezember fällig.
 
 
 ### § 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer

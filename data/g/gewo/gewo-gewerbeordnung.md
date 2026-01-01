@@ -1447,7 +1447,7 @@ des Ausbildungsstaats wenden. Der Fristablauf ist solange gehemmt.
 
 
 #### § 14 Anzeigepflicht; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004731119)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004732128)
 
 (1) Wer den selbständigen Betrieb eines stehenden Gewerbes, einer
 Zweigniederlassung oder einer unselbständigen Zweigstelle anfängt,
@@ -1733,12 +1733,9 @@ der nach § 12 Abs. 1 des Bundesstatistikgesetzes vorgesehenen Prüfung
 auswerten. Ferner dürfen sie nähere Angaben zu der angemeldeten
 Tätigkeit unmittelbar bei den Auskunftspflichtigen erfragen, soweit
 die gemeldete Tätigkeit sonst den Wirtschaftszweigen nach Anhang I der
-Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des
-Rates vom 20. Dezember 2006 zur Aufstellung der statistischen
-Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der
-Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der
-EG über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1) in
-der jeweils geltenden Fassung nicht zugeordnet werden kann.
+Verordnung (EG) Nr. 1893/2006 in Verbindung mit der vom Statistischen
+Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige nicht
+zugeordnet werden kann.
 
 (14) Das Bundesministerium für Wirtschaft und Klimaschutz erlässt mit
 Zustimmung des Bundesrates durch Rechtsverordnung zur Gewährleistung

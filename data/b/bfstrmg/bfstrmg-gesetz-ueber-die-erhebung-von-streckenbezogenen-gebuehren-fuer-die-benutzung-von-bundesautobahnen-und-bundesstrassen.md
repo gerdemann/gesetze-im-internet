@@ -1499,7 +1499,7 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
 
 
 ## Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
-[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003308123)
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE004300123)
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 8 – 9)
 
@@ -1695,8 +1695,7 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
 
 
         gg)
-            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive
-                emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A.
 
 
 

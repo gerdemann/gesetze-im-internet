@@ -10938,7 +10938,7 @@ Bundesamt für Justiz übertragen.
 
 
 ###### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097805360)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097806129)
 
 (1) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt
 oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen
@@ -10991,15 +10991,15 @@ und 8 gelten entsprechend.
 Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die
 folgenden Vorschriften entsprechend anzuwenden:
 
-1.  § 110a Absatz 1 Satz 1 und § 110c des Gesetzes über
-    Ordnungswidrigkeiten sowie
+1.  § 110a Absatz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten
+    sowie
 
 
-2.  § 110a Absatz 1 Satz 2 und 3, Absatz 2 Satz 1 und § 134 Satz 1 des
-    Gesetzes über Ordnungswidrigkeiten mit der Maßgabe, dass die
-    Landesregierung des Landes, in dem das Bundesamt seinen Sitz hat, die
-    Rechtsverordnung erlässt und die Ermächtigungen durch Rechtsverordnung
-    auf die Landesjustizverwaltung übertragen kann.
+2.  § 110a Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über
+    Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des
+    Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung
+    erlässt und die Ermächtigungen durch Rechtsverordnung auf die
+    Landesjustizverwaltung übertragen kann.
 
 
 

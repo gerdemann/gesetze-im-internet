@@ -83,18 +83,11 @@ Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
 
 ### § 2 Anspruch auf Wehrsold
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000301311)
 
-(1) Soweit gesetzlich nichts anderes bestimmt ist, besteht der
-Anspruch auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum
-Ablauf des Tages, an dem das Wehrdienstverhältnis endet.
-
-(2) Soldatinnen und Soldaten, die während einer besonderen
-Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus
-sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu
-vertreten haben, dem Einflussbereich des Dienstherrn entzogen sind,
-wird für diesen Zeitraum der Wehrsold in der Höhe, in der er ihnen
-beim Eintritt des Ereignisses zustand, weitergewährt.
+Soweit gesetzlich nichts anderes bestimmt ist, besteht der Anspruch
+auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum Ablauf
+des Tages, an dem das Wehrdienstverhältnis endet.
 
 
 ### § 3 Anwendung von Vorschriften des Bundesbesoldungsgesetzes
@@ -149,12 +142,14 @@ ohne Zusatzbeiträge erstattet.
 
 
 ### § 6 Auslandsvergütung
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000701311)
 
-(1) Soldatinnen und Soldaten erhalten eine Auslandsvergütung, wenn bei
-entsprechender Verwendung an demselben Standort
-Besoldungsempfängerinnen oder Besoldungsempfänger Auslandsdienstbezüge
-nach § 52 Absatz 1 Satz 1 des Bundesbesoldungsgesetzes erhalten.
+(1) Soldatinnen und Soldaten, die an einer allgemeinen Verwendung im
+Ausland im Sinne des § 52 Absatz 1 Satz 1 des Bundesbesoldungsgesetzes
+teilnehmen, erhalten eine Auslandsvergütung unter den gleichen
+Voraussetzungen, unter denen Besoldungsempfängerinnen und
+Besoldungsempfängern an demselben Dienstort Auslandsdienstbezüge nach
+§ 52 des Bundesbesoldungsgesetzes zustehen.
 
 (2) Die Höhe der Auslandsvergütung bemisst sich nach Spalte 5 der
 Tabelle in der Anlage.
@@ -171,6 +166,63 @@ Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder
 einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert
 werden. Das Bundesministerium der Verteidigung macht die jeweils
 geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
+
+
+### § 8 Entlassungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000902311)
+
+(1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst
+leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als
+Entlassung gilt auch der Eintritt in ein Wehrdienstverhältnis
+besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes.
+
+(2) Das Entlassungsgeld beträgt für jeden Monat des freiwilligen
+Wehrdienstes mit Anspruch auf Wehrsold 100 Euro.
+
+(3) Bei der Berechnung des Entlassungsgelds bleibt die Zeit der
+Verlängerung des Wehrdienstes wegen stationärer truppenärztlicher
+Behandlung (§ 75 Absatz 6 in Verbindung mit § 58h Absatz 1 des
+Soldatengesetzes) unberücksichtigt.
+
+(4) Soldatinnen und Soldaten erhalten kein Entlassungsgeld, wenn sie
+
+1.  entlassen werden nach
+
+    a)  § 46 Absatz 1 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes,
+
+
+    b)  § 75 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    c)  § 75 Absatz 1 Satz 2 Nummer 6 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    d)  § 75 Absatz 1 Satz 2 Nummer 7 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes,
+
+
+    e)  § 75 Absatz 1 Satz 2 Nummer 11 in Verbindung mit § 58h Absatz 1 des
+        Soldatengesetzes, sofern sie ihre Dienstunfähigkeit vorsätzlich
+        herbeigeführt haben, oder
+
+
+    f)  § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h
+        Absatz 1 des Soldatengesetzes,
+
+
+
+
+
+2.  nach § 76 in Verbindung mit § 58h Absatz 1 des Soldatengesetzes aus
+    der Bundeswehr ausgeschlossen werden oder
+
+
+3.  (weggefallen)
+
+
+
 
 
 ### § 9 Vergütung für herausgehobene Funktionen
@@ -215,18 +267,15 @@ werden.
 
 
 ### § 12 Auslandsverwendungszuschlag
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001301311)
 
-(1) Soldatinnen und Soldaten, die an einer besonderen Verwendung im
+Soldatinnen und Soldaten, die an einer besonderen Verwendung im
 Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes
 teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den
 gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen
-Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56
-Absatz 3 Satz 1 und 2 des Bundesbesoldungsgesetzes und die dazu
-erlassene Rechtsverordnung gelten entsprechend.
-
-(2) In den Fällen des § 2 Absatz 2 steht den Soldatinnen und Soldaten
-die höchste Stufe des Auslandsverwendungszuschlags zu.
+Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56 des
+Bundesbesoldungsgesetzes und die dazu erlassene Rechtsverordnung
+gelten entsprechend.
 
 
 ### § 13 Kaufkraftausgleich
@@ -311,8 +360,8 @@ Ausland die §§ 7 und 12 Absatz 7 der Auslandstrennungsgeldverordnung
 entsprechend.
 
 
-## Abschnitt 4 - Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000400000)
+## Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000401311)
 
 
 ### § 18 (weggefallen)
@@ -320,69 +369,15 @@ entsprechend.
 
 
 
-### § 19 Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002101377)
-
-(1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
-werden die folgenden Sonderzahlungen unter den Voraussetzungen der
-Absätze 2 und 3 gewährt:
-
-1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240
-    Euro sowie
-
-
-2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche
-    Sonderzahlung in Höhe von jeweils 220 Euro.
-
-
-
-
-(2) Die Sonderzahlung für den Monat Juni 2023 wird nur gewährt, wenn
-
-1.  das Wehrdienstverhältnis am 1. Mai 2023 bestanden hat und
-
-
-2.  mindestens an einem Tag im Zeitraum vom 1. Januar 2023 bis 31. Mai
-    2023 ein Anspruch auf Wehrsold bestanden hat.
-
-
-
-
-(3) Die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024
-werden nur gewährt, wenn
-
-1.  das Wehrdienstverhältnis in dem jeweiligen Monat besteht und
-
-
-2.  mindestens an einem Tag in dem jeweiligen Monat ein Anspruch auf
-    Wehrsold besteht.
-
-
-
-
-(4) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
-Maßgebend sind jeweils
-
-1.  für die einmalige Sonderzahlung für den Monat Juni 2023 die
-    Verhältnisse am 1. Mai 2023,
-
-
-2.  für die Sonderzahlungen für die Monate Juli 2023 bis Februar 2024 die
-    jeweiligen Verhältnisse am ersten Tag des jeweiligen Monats.
-
-
-
-
-(5) Den Sonderzahlungen nach Absatz 1 stehen entsprechende Leistungen
-aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes
-gleich und werden jedem Berechtigten nur einmal gewährt.
+### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002102311)
 
 (zu den §§ 4 und 6)
 
 ### Anlage Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
-[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002001311)
 
-(Fundstelle: BGBl. I 2019, 1161)
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 14)
 
 
 *    *
@@ -402,8 +397,7 @@ gleich und werden jedem Berechtigten nur einmal gewährt.
 
 
 *    *   Wehr-
-        sold-
-        gruppe
+        soldgruppe
 
     *   Dienstgrad
 
@@ -411,8 +405,7 @@ gleich und werden jedem Berechtigten nur einmal gewährt.
         grundbetrag
         (§ 4 Absatz 1)
 
-    *   Kinder-
-        zuschlag
+    *   Kinderzuschlag
         je Kind
         (§ 4 Absatz 2)
 
@@ -423,42 +416,34 @@ gleich und werden jedem Berechtigten nur einmal gewährt.
 
 *    *   1
 
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
-        Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier,
+        Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat,
+        Matrose
 
-    *   1 500
+    *   2 600
 
-    *   100
+    *   115
 
-    *   305
+    *   495
 
 
 *    *   2
 
     *   Gefreiter
 
-    *   1 550
+    *   2 630
 
-    *   305
+    *   495
 
 
 *    *   3
 
     *   Obergefreiter
 
-    *   1 650
+    *   2 650
 
-    *   350
+    *   542
 
-
-*    *   4
-
-    *   Hauptgefreiter
-
-    *   1 900
-
-    *   350
 
 
 

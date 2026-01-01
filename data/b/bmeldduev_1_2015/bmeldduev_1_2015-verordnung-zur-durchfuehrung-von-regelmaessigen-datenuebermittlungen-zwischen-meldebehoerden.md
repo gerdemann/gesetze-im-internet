@@ -704,7 +704,7 @@ Anschluss an das Rückmeldeverfahren gemäß Absatz 1 folgende Daten:
 
 
 ## § 7 Auswertung der Rückmeldung
-[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000809130)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000811130)
 
 (1) Die Auswertung der Rückmeldung erfolgt
 
@@ -727,7 +727,7 @@ Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach
 Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer
 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes
 vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603,
-2604, 2702 bis 2708, 2801, 2802 und 3101). Sie übermittelt der
+2604, 2702 bis 2708, 2801 und 2802). Sie übermittelt der
 Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das
 Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-
 Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern

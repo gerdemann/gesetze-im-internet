@@ -1348,7 +1348,7 @@ zwei Jahren oder mit Geldstrafe bestraft.
 
 
 ### § 19 Bußgeldvorschriften bei einem weitverbreiteten Verstoß und einem weitverbreiteten Verstoß mit Unions-Dimension
-[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003701360)
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003702129)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 5c Absatz 1 Verbraucherinteressen verletzt.
@@ -1379,7 +1379,7 @@ geahndet werden.
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
 
-1.  das Umweltbundesamt,
+1.  das Bundesamt für Justiz,
 
 
 2.  die Bundesanstalt für Finanzdienstleistungsaufsicht bei einer

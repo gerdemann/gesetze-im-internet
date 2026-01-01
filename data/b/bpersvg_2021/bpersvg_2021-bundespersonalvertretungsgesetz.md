@@ -3567,26 +3567,9 @@ Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
 
 
 
-### § 130 Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen
-[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE013100000)
+### § 130 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE013101000)
 
-(1) § 102 Absatz 2 Satz 2 findet erstmalig Anwendung auf die
-regelmäßigen Wahlen der Jugend- und Auszubildendenvertretung im Jahr
-2022\. Die am 15. Juni 2021 bestehenden Jugend- und
-Auszubildendenvertretungen führen die Geschäfte weiter, bis sich die
-neu gewählten Jugend- und Auszubildendenvertretungen konstituiert
-haben, längstens jedoch bis zum Ablauf des in § 102 Absatz 2 Satz 3 in
-Verbindung mit § 27 Absatz 2 Satz 2 bestimmten Zeitpunkts.
-
-(2) § 27 Absatz 2 Satz 1 und § 121 Absatz 4 Satz 2 finden erstmalig
-Anwendung auf die regelmäßigen Personalratswahlen im Jahr 2024. Die am
-15\. Juni 2021 bestehenden Personalvertretungen führen die Geschäfte
-weiter, bis sich die neu gewählten Personalvertretungen konstituiert
-haben, längstens jedoch bis zum Ablauf des in § 27 Absatz 2 Satz 2 und
-§ 121 Absatz 4 Satz 3 bestimmten Zeitpunkts.
-
-(3) § 52 Absatz 3 Satz 3 und § 53 Absatz 2 Satz 2 finden auf am 15.
-Juni 2021 bestehende Freistellungen keine Anwendung.
 
 
 ### § 131 (weggefallen)

@@ -32,15 +32,11 @@ Sozialgerichtsgesetzes, § 55b der Verwaltungsgerichtsordnung sowie §
 52b der Finanzgerichtsordnung.
 
 
-## § 2 Einführung der elektronischen Akte
-[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000200000)
+## § 2 In Papierform angelegte Akten
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000201360)
 
-Die Akten können ab dem 2. April 2020 elektronisch geführt werden. Die
-Präsidentin oder der Präsident des jeweiligen Gerichts bestimmt durch
-Verwaltungsanordnung die Verfahren, in denen die Akten elektronisch
-geführt werden. Die Verwaltungsanordnung ist im Bundesanzeiger bekannt
-zu machen sowie auf der Internetseite des jeweiligen Gerichts zu
-veröffentlichen.
+Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden.
 
 
 ## § 3 Struktur und Format der elektronischen Akten; Repräsentat

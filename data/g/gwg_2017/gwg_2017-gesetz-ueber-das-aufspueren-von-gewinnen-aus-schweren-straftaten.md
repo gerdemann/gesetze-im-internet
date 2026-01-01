@@ -3666,6 +3666,34 @@ Der Abschluss des Verfahrens zur Prüfung der Unstimmigkeitsmeldung ist
 auf dem Registerauszug zu vermerken.
 
 
+### § 23b Meldung von Unstimmigkeiten bei der Zuordnung von Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007600125)
+
+(1) Die in § 23 Absatz 1 Satz 1 Nummer 1 aufgeführten Behörden,
+Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3 und 7 sowie Notare
+haben der registerführenden Stelle Abweichungen unverzüglich zu
+melden, die sie zwischen den Angaben über die Immobilien, die im
+Transparenzregister zugänglich sind, und den ihnen zur Verfügung
+stehenden Angaben und Erkenntnissen über Immobilien feststellen. § 43
+Absatz 2 gilt entsprechend.
+
+(2) Die registerführende Stelle hat auf der Internetseite des
+Transparenzregisters deutlich sichtbar eine Vorkehrung einzurichten,
+über die Meldungen nach Absatz 1 abzugeben sind.
+
+(3) Die registerführende Stelle hat die Meldung nach Absatz 1
+unverzüglich zu prüfen. Hierzu kann sie von dem Erstatter der Meldung
+und von der betroffenen Vereinigung nach § 20 die zur Aufklärung
+erforderlichen Informationen und Unterlagen verlangen oder Einsicht in
+das Grundbuch der betroffenen Immobilien nehmen. Die Prüfung der
+Meldung nach Absatz 1 stellt ein berechtigtes Interesse im Sinne des §
+12 Absatz 1 der Grundbuchordnung dar.
+
+(4) Die registerführende Stelle hat die Erfassung oder Zuordnung von
+Immobilien zu berichtigen, wenn sie zu dem Ergebnis gelangt, dass die
+gemeldete Abweichung zutreffend ist.
+
+
 ### § 24 Gebühren und Auslagen, Verordnungsermächtigung
 [Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002503125)
 

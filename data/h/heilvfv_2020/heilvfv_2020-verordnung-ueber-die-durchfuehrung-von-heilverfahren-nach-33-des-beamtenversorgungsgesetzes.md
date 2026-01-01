@@ -58,7 +58,7 @@ durchführt.
 
 
 ### § 3 Notwendigkeit und Angemessenheit
-[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000401311)
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000402311)
 
 (1) Notwendig sind die von einer Ärztin oder einem Arzt, einer
 Zahnärztin oder einem Zahnarzt, einer Psychotherapeutin oder einem
@@ -71,9 +71,12 @@ die Folgen des Dienstunfalls zu beseitigen oder zu lindern. § 6 Absatz
 Bundesbeihilfeverordnung entsprechend, soweit nachstehend nichts
 anderes bestimmt ist.
 
-(3) Bei der Prüfung der wirtschaftlichen Angemessenheit kann über die
-im Beihilferecht getroffenen Begrenzungen hinausgegangen werden. Die
-Entscheidung ist besonders zu begründen und zu dokumentieren.
+(3) Bei der Anerkennung der wirtschaftlichen Angemessenheit kann über
+die im Beihilferecht getroffenen Begrenzungen hinausgegangen werden.
+Die Entscheidung nach Satz 1 ist besonders zu begründen. Satz 2 gilt
+nicht für Aufwendungen nach § 6 Absatz 1 Nummer 3 bis zum
+Eineinhalbfachen der in Anlage 9 der Bundesbeihilfeverordnung
+aufgeführten Höchstbeträge.
 
 (4) Über die Notwendigkeit der Maßnahmen und über die wirtschaftliche
 Angemessenheit der Aufwendungen entscheidet die
@@ -146,7 +149,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz
 
 
 ### § 6 Erstattungsfähige Aufwendungen
-[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000702311)
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000703311)
 
 (1) Erstattungsfähig sind Aufwendungen für
 
@@ -217,17 +220,17 @@ Absatz 3, § 18a Absatz 4 Satz 2, § 23 Absatz 3 Satz 1, § 26a Absatz 6,
 
 (5) Zur Vermeidung unbilliger Härten kann die
 Dienstunfallfürsorgestelle mit vorheriger Zustimmung des
-Bundesministeriums des Innern und für Heimat und des
-Bundesministeriums der Finanzen von dieser Verordnung abweichen.
+Bundesministeriums des Innern und des Bundesministeriums der Finanzen
+von dieser Verordnung abweichen.
 
 
 ### § 7 Erstattungsfähige Aufwendungen bei Traumatisierung
-[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000801311)
 
 (1) Nach einem traumatischen Ereignis, das von der verletzten Person
 nach § 45 des Beamtenversorgungsgesetzes angezeigt worden ist, werden
 zur psychischen Stabilisierung nach vorheriger Zustimmung der
-Dienstunfallfürsorgestelle die Aufwendungen für bis zu fünf Sitzungen
+Dienstunfallfürsorgestelle die Aufwendungen für bis zu acht Sitzungen
 in Gruppen- oder Einzeltherapie erstattet. Satz 1 gilt auch, wenn das
 Verfahren zur Feststellung, ob ein Dienstunfall vorliegt, noch
 andauert. Für eine Therapie, die auf Veranlassung der Durchgangsärztin
@@ -333,8 +336,8 @@ Aufwendungen ein Erstattungsbetrag von bis zu 200 Euro monatlich
 gezahlt.
 
 
-### § 9 Krankenhausleistungen und Rehabilitationsmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001001311)
+### § 9 Krankenhausleistungen, Rehabilitationsmaßnahme und Leistungen der Übergangspflege im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001002311)
 
 (1) Erstattungsfähig sind die dienstunfallbedingten Aufwendungen für
 
@@ -376,7 +379,12 @@ gezahlt.
 
 
 6.  ärztlich verordneten Rehabilitationssport in Gruppen unter ärztlicher
-    Betreuung und Überwachung.
+    Betreuung und Überwachung und
+
+
+7.  die in § 39e Absatz 1 und 2 Satz 1 des Fünften Buches Sozialgesetzbuch
+    genannten Leistungen der Übergangspflege für längstens zehn Tage im
+    Anschluss an eine Krankenhausbehandlung.
 
 
 
@@ -731,7 +739,7 @@ Sterbegeld nach § 18 Absatz 1 und 2 des Beamtenversorgungsgesetzes mit
 
 
 ### § 17 Erstattungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001801311)
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001802311)
 
 (1) Soweit nichts anderes bestimmt ist, werden Aufwendungen nur
 erstattet, wenn die verletzte Person dies bei der
@@ -772,6 +780,10 @@ vorliegt, entstanden sind. Satz 1 gilt nur, wenn
 
 
 
+
+(6) Bescheide, mit denen Aufwendungen wie beantragt erstattet werden,
+können auch vollständig durch automatisierte Einrichtungen erlassen
+werden.
 
 
 ## Abschnitt 4 - Übergangsvorschriften
