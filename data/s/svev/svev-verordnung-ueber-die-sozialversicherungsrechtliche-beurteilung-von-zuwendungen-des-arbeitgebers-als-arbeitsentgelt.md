@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 3385
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.12.2024 I Nr. 394
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 19.12.2025 I Nr. 377 ist berücksichtigt
+:   Art. 1 V v. 19.12.2025 I Nr. 377
 
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen

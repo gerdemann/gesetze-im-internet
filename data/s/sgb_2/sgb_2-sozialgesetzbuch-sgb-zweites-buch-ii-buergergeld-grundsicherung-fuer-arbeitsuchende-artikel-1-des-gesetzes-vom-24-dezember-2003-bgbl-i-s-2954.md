@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 363 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Fördern und Fordern
@@ -1101,7 +1101,7 @@ monatlichen Teilbetrag zu berücksichtigen.
 
 
 ### § 11a Nicht zu berücksichtigendes Einkommen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012813126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012814126)
 
 (1) Nicht als Einkommen zu berücksichtigen sind
 
@@ -1125,9 +1125,9 @@ monatlichen Teilbetrag zu berücksichtigen.
 
 
 5.  Aufwandsentschädigungen oder Einnahmen aus nebenberuflichen
-    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
-    Einkommensteuergesetzes steuerfrei sind, soweit diese Einnahmen einen
-    Betrag in Höhe von 3 000 Euro im Kalenderjahr nicht überschreiten,
+    Tätigkeiten, die nach § 3 Nummer 12, Nummer 26 oder Nummer 26a des
+    Einkommensteuergesetzes steuerfrei sind, bis zur Höhe des in § 3
+    Nummer 26 des Einkommensteuergesetzes genannten Betrags,
 
 
 6.  Mutterschaftsgeld nach § 19 des Mutterschutzgesetzes

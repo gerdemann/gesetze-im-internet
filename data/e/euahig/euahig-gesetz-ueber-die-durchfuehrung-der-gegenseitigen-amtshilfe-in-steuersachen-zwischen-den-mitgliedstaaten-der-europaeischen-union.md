@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des
     Rates vom 15. Februar 2011 über die Zusammenarbeit der
@@ -630,7 +630,7 @@ mitteilen:
 
 
 ### § 7 Automatische Übermittlung von Informationen
-[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000806123)
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000807123)
 
 (1) Das zentrale Verbindungsbüro übermittelt an andere Mitgliedstaaten
 systematisch auf elektronischem Weg, ohne vorheriges Ersuchen, alle
@@ -896,7 +896,7 @@ Amtshilferichtlinie vorgesehenen ist. Ab dem Zeitpunkt seiner
 Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten gemäß
 Artikel 21 Absatz 5 der Amtshilferichtlinie zu nutzen.
 
-(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14b ist gemäß § 117
+(8) In den Fällen der Absätze 1 bis 5 und 9 bis 14c ist gemäß § 117
 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung der Beteiligten
 erforderlich.
 
@@ -1013,6 +1013,13 @@ Behörden aller Mitgliedstaaten der Europäischen Union, in denen der
 jeweilige zu meldende Nutzer oder die jeweilige zu meldende
 beherrschende Person als ansässig gilt. Die Übermittlung erfolgt auf
 elektronischem Weg.
+
+(14c) Das zentrale Verbindungsbüro übermittelt im Wege des
+automatischen Austauschs die ihm nach § 75 Absatz 1 des
+Mindeststeuergesetzes gemeldeten Informationen zu Mindeststeuer-
+Berichten steuerpflichtiger Geschäftseinheiten, die Angaben für einen
+Mitgliedstaat der Europäischen Union enthalten, an die zuständigen
+Behörden aller betroffenen Mitgliedstaaten der Europäischen Union.
 
 (15) Das Bundeszentralamt für Steuern ist berechtigt, die
 Informationen gemäß den Absätzen 1 bis 5, 7 und 9 bis 14b zur
@@ -1556,7 +1563,7 @@ jeweils geltenden Fassung, bleiben unberührt.
 
 
 ### § 20 Statistiken und Bewertungen
-[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002105123)
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002106123)
 
 (1) Die zuständige Behörde überwacht und bewertet die Wirksamkeit der
 Zusammenarbeit der Verwaltungsbehörden in Deutschland im Einklang mit
@@ -1568,10 +1575,10 @@ von Steuerhinterziehung und -vermeidung.
 1.  der Europäischen Kommission
 
     a)  jährlich Statistiken zum Umfang des automatischen
-        Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11 und 14a und
-        Angaben zu den administrativen und anderen einschlägigen Kosten und
-        Nutzen des erfolgten Austauschs und zu allen möglichen Änderungen,
-        sowohl für die Steuerverwaltung als auch für Dritte,
+        Informationsaustauschs gemäß § 7 Absatz 1, 2, 10, 11, 14a und Angaben
+        zu den administrativen und anderen einschlägigen Kosten und Nutzen des
+        erfolgten Austauschs und zu allen möglichen Änderungen, sowohl für die
+        Steuerverwaltung als auch für Dritte,
 
 
     b)  jährlich die Ergebnisse der Bewertung nach Absatz 1,
@@ -1611,7 +1618,7 @@ im Bundessteuerblatt zu veröffentlichen.
 
 
 ### § 21 Übergangsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002202123)
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002203123)
 
 (1) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1
 Satz 1 Nummer 1 bis 6 ist ab dem 1. Januar 2015 vorzunehmen und
@@ -1658,4 +1665,9 @@ anzuwenden.
 (6) § 7 Absatz 14a ist erstmals ab dem 1. Januar 2023 anzuwenden.
 
 (7) § 7 Absatz 14b ist erstmals ab dem 1. Januar 2026 anzuwenden.
+
+(8) Die automatische Übermittlung von Informationen nach § 7 Absatz
+14c ist ab dem 1. Januar 2026 vorzunehmen und erstmals auf
+Informationen der Geschäftsjähre, die nach dem 30. Dezember 2023
+beginnen, anzuwenden.
 

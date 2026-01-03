@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 14.7.2025 I Nr. 161
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 361 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 22.12.2025 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 363 mWv 24.12.2025 noch nicht berücksichtigt
@@ -495,7 +495,7 @@ durchzuführen.
 
 
 #### § 3
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE049005123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE049006123)
 
 Steuerfrei sind
 
@@ -859,7 +859,27 @@ Steuerfrei sind
     oder ihre Hinterbliebenen;
 
 
-21. (weggefallen)
+21. Einnahmen aus nichtselbständiger Arbeit nach § 19 Absatz 1 Satz 1
+    Nummer 1 bis zu einer Höhe von insgesamt 24 000 Euro im Jahr, soweit
+    die Einnahmen für vom Steuerpflichtigen ab dem Folgemonat nach
+    Erreichen der Regelaltersgrenze gemäß § 35 Satz 2 oder § 235 des
+    Sechsten Buches Sozialgesetzbuch erbrachte Leistungen zufließen und
+    der Arbeitgeber für diese Leistungen Beiträge nach § 168 Absatz 1
+    Nummer 1 oder Nummer 1d oder Absatz 3, § 172 Absatz 1 oder § 172a des
+    Sechsten Buches Sozialgesetzbuch zu entrichten hat.
+    2Die Steuerfreiheit gilt nicht, wenn die Einnahmen bereits nach
+    anderen Vorschriften steuerfrei sind.
+    3Für jeden Kalendermonat, in dem die Voraussetzungen des Satzes 1
+    nicht vorgelegen haben, ermäßigt sich der Steuerfreibetrag um ein
+    Zwölftel.
+    4Beim Lohnsteuerabzug ist der Freibetrag in der Steuerklasse VI nur zu
+    berücksichtigen, wenn der Steuerpflichtige gegenüber dem Arbeitgeber
+    bestätigt hat, dass die Steuerbefreiung nach Satz 1 nicht bereits in
+    einem anderen Dienstverhältnis berücksichtigt wird.
+    5Diese Bestätigung ist zum Lohnkonto zu nehmen.
+    6Im Lohnsteuerabzugsverfahren ist der Steuerfreibetrag zeitanteilig zu
+    berücksichtigen; dies gilt entsprechend bei der Veranlagung zur
+    Einkommensteuer;
 
 
 22. (weggefallen)
@@ -3146,81 +3166,9 @@ Besteuerung unterliegen als auch nachweislich der tatsächlichen
 Besteuerung in dem anderen Staat.
 
 
-#### § 4j Aufwendungen für Rechteüberlassungen
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039602123)
+#### § 4j (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039603123)
 
-(1)
-1Aufwendungen für die Überlassung der Nutzung oder des Rechts auf
-Nutzung von Rechten, insbesondere von Urheberrechten und gewerblichen
-Schutzrechten, von gewerblichen, technischen, wissenschaftlichen und
-ähnlichen Erfahrungen, Kenntnissen und Fertigkeiten, zum Beispiel
-Plänen, Mustern und Verfahren, sind ungeachtet eines bestehenden
-Abkommens zur Vermeidung der Doppelbesteuerung nur nach Maßgabe des
-Absatzes 3 abziehbar, wenn die Einnahmen des Gläubigers einer von der
-Regelbesteuerung abweichenden, niedrigen Besteuerung nach Absatz 2
-unterliegen (Präferenzregelung) und der Gläubiger eine dem Schuldner
-nahestehende Person im Sinne des § 1 Absatz 2 des Außensteuergesetzes
-ist.
-2Wenn auch der Gläubiger nach Satz 1 oder eine andere dem Schuldner
-nach Satz 1 nahestehende Person im Sinne des § 1 Absatz 2 des
-Außensteuergesetzes wiederum Aufwendungen für Rechte hat, aus denen
-sich die Rechte nach Satz 1 unmittelbar oder mittelbar ableiten, sind
-die Aufwendungen nach Satz 1 ungeachtet eines bestehenden Abkommens
-zur Vermeidung der Doppelbesteuerung auch dann nur nach Maßgabe des
-Absatzes 3 abziehbar, wenn die weiteren Einnahmen des weiteren
-Gläubigers einer von der Regelbesteuerung abweichenden, niedrigen
-Besteuerung nach Absatz 2 unterliegen und der weitere Gläubiger eine
-dem Schuldner nach Satz 1 nahestehende Person im Sinne des § 1 Absatz
-2 des Außensteuergesetzes ist; dies gilt nicht, wenn die Abziehbarkeit
-der Aufwendungen beim Gläubiger oder der anderen dem Schuldner
-nahestehenden Person bereits nach dieser Vorschrift beschränkt ist.
-3Als Schuldner und Gläubiger gelten auch Betriebsstätten, die
-ertragsteuerlich als Nutzungsberechtigter oder Nutzungsverpflichteter
-der Rechte für die Überlassung der Nutzung oder des Rechts auf Nutzung
-von Rechten behandelt werden.
-[^F798754_01_BJNR010050934BJNE039602123]
-4Die Sätze 1 und 2 sind nicht anzuwenden, soweit sich die niedrige
-Besteuerung daraus ergibt, dass die Einnahmen des Gläubigers oder des
-weiteren Gläubigers einer Präferenzregelung unterliegen, die dem
-Nexus-Ansatz gemäß Kapitel 4 des Abschlussberichts 2015 zu
-Aktionspunkt 5, OECD (2016) „Wirksamere Bekämpfung schädlicher
-Steuerpraktiken unter Berücksichtigung von Transparenz und Substanz“,
-OECD/G20 Projekt Gewinnverkürzung und Gewinnverlagerung
-, entspricht.
-5Die Sätze 1 und 2 sind insoweit nicht anzuwenden, als auf Grund der
-aus den Aufwendungen resultierenden Einnahmen ein Hinzurechnungsbetrag
-im Sinne des § 10 Absatz 1 Satz 1 des Außensteuergesetzes anzusetzen
-ist.
-
-(2)
-1Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt vor, wenn die
-von der Regelbesteuerung abweichende Besteuerung der Einnahmen des
-Gläubigers oder des weiteren Gläubigers zu einer Belastung durch
-Ertragsteuern von weniger als 15 Prozent führt; maßgeblich ist bei
-mehreren Gläubigern die niedrigste Belastung.
-2Bei der Ermittlung, ob eine niedrige Besteuerung vorliegt, sind
-sämtliche Regelungen zu berücksichtigen, die sich auf die Besteuerung
-der Einnahmen aus der Rechteüberlassung auswirken, insbesondere
-steuerliche Kürzungen, Befreiungen, Gutschriften oder Ermäßigungen.
-3Werden die Einnahmen für die Überlassung der Nutzung oder des Rechts
-auf Nutzung von Rechten einer anderen Person ganz oder teilweise
-zugerechnet oder erfolgt die Besteuerung aus anderen Gründen ganz oder
-teilweise bei einer anderen Person als dem Gläubiger oder dem weiteren
-Gläubiger, ist auf die Summe der Belastungen abzustellen.
-4§ 8 Absatz 5 Satz 2 und 3 des Außensteuergesetzes gilt entsprechend.
-
-(3)
-1Aufwendungen nach Absatz 1 sind in den Fällen einer niedrigen
-Besteuerung nach Absatz 2 nur zum Teil abziehbar.
-2Der nicht abziehbare Teil ist dabei wie folgt zu ermitteln:
-
-*    *        ![bgbl1_2023_j03970_0130.jpg](bgbl1_2023_j03970_0130.jpg)
-
-
-
-   Amtlicher Hinweis: Zu beziehen unter OECD Publishing, Paris,
-    http://dx.doi.org/10.1787/9789264258037-de.
-[^F798754_01_BJNR010050934BJNE039602123]: 
 
 #### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
 [Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE047300123)
@@ -5738,7 +5686,7 @@ Anspruch auf diese hat.
 
 
 #### § 9 Werbungskosten
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006050123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006051123)
 
 (1)
 1Werbungskosten sind Aufwendungen zur Erwerbung, Sicherung und
@@ -6076,7 +6024,7 @@ vorausgegangen ist.
 (5)
 1§ 4 Absatz 5 Satz 1 Nummer 1 bis 4, 6b bis 8a, 10, 12 und Absatz 6
 gilt sinngemäß.
-2Die §§ 4j, 4k, 6 Absatz 1 Nummer 1a und § 6e gelten entsprechend.
+2Die §§ 4k, 6 Absatz 1 Nummer 1a und § 6e gelten entsprechend.
 
 (6)
 1Aufwendungen des Steuerpflichtigen für seine Berufsausbildung oder
@@ -16892,7 +16840,7 @@ des Absatzes 1, des Absatzes 3 und des Absatzes 4 ist ausgeschlossen.
 
 
 #### § 41 Aufzeichnungspflichten beim Lohnsteuerabzug
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013027123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013028123)
 
 (1)
 1Der Arbeitgeber hat am Ort der Betriebsstätte (Absatz 2) für jeden
@@ -16912,8 +16860,8 @@ Zuschuss zum Mutterschaftsgeld nach dem Mutterschutzgesetz, der
 Zuschuss bei Beschäftigungsverboten für die Zeit vor oder nach einer
 Entbindung sowie für den Entbindungstag während einer Elternzeit nach
 beamtenrechtlichen Vorschriften, die Entschädigungen für
-Verdienstausfall nach dem Infektionsschutzgesetz vom 20. Juli 2000
-(BGBl. I S. 1045), die nach § 3 Nummer 28 steuerfreien
+Verdienstausfall nach dem Infektionsschutzgesetz, die nach § 3 Nummer
+21 steuerfreien Einnahmen, die nach § 3 Nummer 28 steuerfreien
 Aufstockungsbeträge oder Zuschläge und die nach § 3 Nummer 28a
 steuerfreien Zuschüsse einzutragen.
 5Ist während der Dauer des Dienstverhältnisses in anderen Fällen als
@@ -17051,7 +16999,7 @@ Lohnsteuer der Steuerklasse I.
 
 
 #### § 41b Abschluss des Lohnsteuerabzugs
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013238123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013239123)
 
 (1)
 1Bei Beendigung eines Dienstverhältnisses oder am Ende des
@@ -17084,11 +17032,10 @@ Abgabenordnung genannten Daten insbesondere folgende Angaben zu
 
 5.  das Kurzarbeitergeld, das Qualifizierungsgeld, den Zuschuss zum
     Mutterschaftsgeld nach dem Mutterschutzgesetz, die Entschädigungen für
-    Verdienstausfall nach dem Infektionsschutzgesetz vom 20. Juli 2000
-    (BGBl. I S. 1045), zuletzt geändert durch Artikel 11 § 3 des Gesetzes
-    vom 6. August 2002 (BGBl. I S. 3082), in der jeweils geltenden
-    Fassung, die nach § 3 Nummer 28 steuerfreien Aufstockungsbeträge oder
-    Zuschläge sowie die nach § 3 Nummer 28a steuerfreien Zuschüsse,
+    Verdienstausfall nach dem Infektionsschutzgesetz, die nach § 3 Nummer
+    21 steuerfreien Einnahmen, die nach § 3 Nummer 28 steuerfreien
+    Aufstockungsbeträge oder Zuschläge sowie die nach § 3 Nummer 28a
+    steuerfreien Zuschüsse,
 
 
 6.  die auf die Entfernungspauschale nach § 3 Nummer 15 Satz 3 und § 9
@@ -17285,7 +17232,7 @@ nachzufordern, wenn der nachzufordernde Betrag 10 Euro übersteigt.
 
 
 #### § 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013643123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013644123)
 
 (1)
 1Der Arbeitgeber ist berechtigt, seinen Arbeitnehmern, die während des
@@ -17324,10 +17271,10 @@ durchführen, wenn
     Mutterschutzgesetz, Zuschuss bei Beschäftigungsverboten für die Zeit
     vor oder nach einer Entbindung sowie für den Entbindungstag während
     einer Elternzeit nach beamtenrechtlichen Vorschriften, Entschädigungen
-    für Verdienstausfall nach dem Infektionsschutzgesetz vom 20. Juli 2000
-    (BGBl. I S. 1045), nach § 3 Nummer 28 steuerfreie Aufstockungsbeträge
-    oder Zuschläge oder nach § 3 Nummer 28a steuerfreie Zuschüsse bezogen
-    hat oder
+    für Verdienstausfall nach dem Infektionsschutzgesetz, nach § 3 Nummer
+    21 steuerfreie Einnahmen, nach § 3 Nummer 28 steuerfreie
+    Aufstockungsbeträge oder Zuschläge oder nach § 3 Nummer 28a
+    steuerfreie Zuschüsse bezogen hat oder
 
 
 4a. die Anzahl der im Lohnkonto oder in der Lohnsteuerbescheinigung
@@ -22626,7 +22573,7 @@ landesrechtlicher Vorschriften.
 
 
 ### § 52 Anwendungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052300123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052301123)
 
 (1)
 1Diese Fassung des Gesetzes ist, soweit in den folgenden Absätzen
@@ -22930,12 +22877,15 @@ anzuwenden.
 anzuwenden, die nach dem 14. Dezember 2023 beginnen und nicht vor dem
 1\. Januar 2024 enden.
 
-(8c) § 4j in der Fassung des Artikels 1 des Gesetzes vom 27. Juni 2017
+(8c)
+1§ 4j in der Fassung des Artikels 1 des Gesetzes vom 27. Juni 2017
 (BGBl. I S. 2074) ist erstmals für Aufwendungen anzuwenden, die nach
-dem 31. Dezember 2017 entstehen. § 4j Absatz 2 Satz 1 und Absatz 3
-Satz 2 in der Fassung des Artikels 4 des Gesetzes vom 21. Dezember
-2023 (BGBl. 2023 I Nr. 397) sind erstmals für Aufwendungen anzuwenden,
-die nach dem 31. Dezember 2023 entstehen.
+dem 31. Dezember 2017 entstehen.
+2§ 4j Absatz 2 Satz 1 und Absatz 3 Satz 2 in der Fassung des Artikels
+4 des Gesetzes vom 21. Dezember 2023 (BGBl. 2023 I Nr. 397) sind
+erstmals für Aufwendungen anzuwenden, die nach dem 31. Dezember 2023
+entstehen.
+3§ 4j ist letztmals für den Veranlagungszeitraum 2024 anzuwenden.
 
 (8d)
 1§ 4k in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021
@@ -23236,6 +23186,9 @@ vor 2019 anzuwenden.
 4§ 9 Absatz 5 Satz 2 in der Fassung des Artikels 1 des Gesetzes vom
 25\. Juni 2021 (BGBl. I S. 2035) ist erstmals für Aufwendungen im Sinne
 des § 4k anzuwenden, die nach dem 31. Dezember 2019 entstehen.
+5§ 9 Absatz 5 Satz 2 in der Fassung des Artikels 4 des Gesetzes vom
+22\. Dezember 2025 (BGBl. 2025 I Nr. 353) ist erstmals für den
+Veranlagungszeitraum 2025 anzuwenden.
 
 (17) § 9b Absatz 2 in der Fassung des Artikels 11 des Gesetzes vom 18.
 Dezember 2013 (BGBl. I S. 4318) ist auf Mehr- und Minderbeträge

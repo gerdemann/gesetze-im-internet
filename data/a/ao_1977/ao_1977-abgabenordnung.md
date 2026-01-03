@@ -25,7 +25,7 @@ Neugefasst durch
 :   Art. 4 G v. 22.12.2025 I Nr. 352 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 353 mWv 24.12.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
@@ -6707,7 +6707,7 @@ versehen, soweit dies zu seinem Verständnis erforderlich ist.
 
 
 #### § 122 Bekanntgabe des Verwaltungsakts
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021609123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021610123)
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben,
 für den er bestimmt ist oder der von ihm betroffen wird. § 34 Absatz 2
@@ -6784,10 +6784,16 @@ nachträglich eine Abschrift des Verwaltungsakts verlangen.
 
 so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen
 eine Ausfertigung unter ihrer gemeinsamen Anschrift übermittelt wird.
-Die Verwaltungsakte sind den Beteiligten einzeln bekannt zu geben,
-soweit sie dies beantragt haben oder soweit der Finanzbehörde bekannt
-ist, dass zwischen ihnen ernstliche Meinungsverschiedenheiten
-bestehen.
+Betreffen Verwaltungsakte Ehegatten oder Lebenspartner mit gemeinsamer
+Anschrift, so reicht es für die Bekanntgabe durch Bereitstellung zum
+Datenabruf nach § 122a an alle Beteiligten aus, wenn einem der
+Beteiligten eine Ausfertigung zum Datenabruf nach § 122a
+bereitgestellt wird und dieser Beteiligte nach § 122a Absatz 1 Satz 3
+informiert wurde, sofern nicht einer der Beteiligten einen Antrag nach
+§ 122a Absatz 2 gestellt hat. Die Verwaltungsakte sind den Beteiligten
+einzeln bekannt zu geben, soweit sie dies beantragt haben oder soweit
+der Finanzbehörde bekannt ist, dass zwischen ihnen ernstliche
+Meinungsverschiedenheiten bestehen.
 
 
 #### § 122a Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf

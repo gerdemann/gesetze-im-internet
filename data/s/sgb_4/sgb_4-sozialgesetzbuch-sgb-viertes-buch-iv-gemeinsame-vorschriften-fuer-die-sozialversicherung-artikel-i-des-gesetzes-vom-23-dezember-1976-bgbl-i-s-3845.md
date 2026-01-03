@@ -29,10 +29,10 @@ Mittelbare änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 355 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 362 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 362 ist berücksichtigt
 
 Änderung durch
 :   Art. 12 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt

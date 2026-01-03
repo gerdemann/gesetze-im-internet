@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2068
 
-Stand: Zuletzt geändert Art. 571 V v. 31.8.2015 I 1474
-Änderung durch
-:   Art. 2 V v. 19.12.2025 I Nr. 378 mWv 30.12.2025 noch nicht berücksichtigt
-
+Stand: Zuletzt geändert Art. 2 V v. 19.12.2025 I Nr. 378
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000100307)
@@ -195,10 +192,10 @@ veröffentlichen.
 
 
 ### § 11 Vorrang
-[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001503305)
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001504119)
 
-Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in
-der angegebenen Reihenfolge Vorrang einzuräumen:
+(1) Bei der Durchführung der Flugverkehrskontrolle ist folgenden
+Flügen in der angegebenen Reihenfolge Vorrang einzuräumen:
 
 1.  Flüge, bei denen der Luftfahrzeugführer eine Notlage erklärt hat oder
     bei denen eine Notlage offensichtlich ist, einschließlich der von
@@ -216,11 +213,22 @@ der angegebenen Reihenfolge Vorrang einzuräumen:
 
 
 5.  Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den
-    Bestimmungen des Bundesministeriums für Verkehr und digitale
-    Infrastruktur.
+    Bestimmungen des Bundesministeriums für Verkehr;
+
+
+6.  Flüge, bei denen zum Schutz vor Angriffen auf die Sicherheit des
+    zivilen Luftverkehrs eine Vorrangbehandlung erforderlich ist, soweit
+    nicht Nummer 1 Anwendung findet.
 
 
 
+
+(2) Das Bundesministerium des Innern kann im Einvernehmen mit dem
+Bundesministerium für Verkehr allgemein oder im Einzelfall anordnen,
+in welchen Fällen eine Vorrangbehandlung nach Absatz 1 Nummer 6 zu
+erfolgen hat. Das Bundesministerium des Innern kann die Ermächtigung
+zum Erlass der Anordnungen nach Satz 1 dem Bundespolizeipräsidium
+übertragen.
 
 
 ## 4. Abschnitt - Fluginformationsdienst

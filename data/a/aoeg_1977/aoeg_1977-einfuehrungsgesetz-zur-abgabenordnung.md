@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 20 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 8 G v. 22.12.2025 I Nr. 353 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 8 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
@@ -1527,7 +1527,7 @@ nach dem 5. Dezember 2024 erlassen worden sind.
 
 
 ### § 28 Elektronische Bekanntgabe von Verwaltungsakten
-[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007201123)
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008800123)
 
 (1) § 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der
 Abgabenordnung in der am 1. Januar 2017 geltenden Fassung sind
@@ -1537,7 +1537,10 @@ erstmals auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember
 (2) Die §§ 122a und 169 Absatz 1 Satz 3 Nummer 1 der Abgabenordnung in
 der am 1. Januar 2026 geltenden Fassung sind erstmals auf
 Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2025 erlassen
-worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+worden sind. Abweichend von Satz 1 ist § 122a Absatz 1 Satz 2 der
+Abgabenordnung in der am 1. Januar 2026 geltenden Fassung erstmalig
+auf Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2026
+erlassen worden sind.
 
 
 ### § 29 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
