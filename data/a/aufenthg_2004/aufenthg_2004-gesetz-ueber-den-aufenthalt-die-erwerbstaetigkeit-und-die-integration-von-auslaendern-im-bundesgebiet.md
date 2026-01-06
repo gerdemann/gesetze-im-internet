@@ -33,7 +33,7 @@ Mittelbare änderung durch
 :   Art. 15 G v. 22.12.2025 I Nr. 355 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 364 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -4415,7 +4415,7 @@ Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
 
 
 #### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und jungen Volljährigen
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015406311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015407311)
 
 (1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber
 einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf
@@ -4505,7 +4505,7 @@ werden.
 
 
 #### § 25b Aufenthaltsgewährung bei nachhaltiger Integration
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017104311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017105311)
 
 (1) Einem Ausländer, der geduldet oder Inhaber einer
 Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1
