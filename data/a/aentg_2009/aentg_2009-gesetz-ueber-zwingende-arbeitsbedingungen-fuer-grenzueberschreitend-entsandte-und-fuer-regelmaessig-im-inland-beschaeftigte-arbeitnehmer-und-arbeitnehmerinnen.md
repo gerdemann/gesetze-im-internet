@@ -1993,11 +1993,11 @@ besteht, entfällt die Hinweispflicht.
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000701126)
 
 
-## Unterabschnitt 1 - Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+### Unterabschnitt 1 - Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001200126)
 
 
-### § 34 Erstmontage- und Einbauarbeiten
+#### § 34 Erstmontage- und Einbauarbeiten
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002503126)
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
@@ -2031,7 +2031,7 @@ Satz 1 gilt nicht für Bauleistungen im Sinne des § 101 Absatz 2 des
 Dritten Buches Sozialgesetzbuch.
 
 
-### § 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
+#### § 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004200126)
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
@@ -2066,11 +2066,11 @@ als 30 Tage innerhalb eines Zeitraums von zwölf Monaten im Inland
 tätig ist.
 
 
-## Unterabschnitt 2 - Sonderregelungen für den Straßenverkehrssektor
+### Unterabschnitt 2 - Sonderregelungen für den Straßenverkehrssektor
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001300126)
 
 
-### § 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
+#### § 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004300126)
 
 (1) Die Arbeitsbedingungen nach den §§ 2, 5 und 13b dieses Gesetzes
@@ -2114,7 +2114,7 @@ Deutschland geregelt ist, sind entsprechend dieser Regelungen in dem
 völkerrechtlichen Vertrag zu behandeln.
 
 
-### § 37 Bilaterale Beförderung von Gütern
+#### § 37 Bilaterale Beförderung von Gütern
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004400126)
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
@@ -2165,7 +2165,7 @@ die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der
 Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
-### § 38 Bilaterale Beförderung von Personen
+#### § 38 Bilaterale Beförderung von Personen
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004500126)
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
@@ -2217,7 +2217,7 @@ die mit intelligenten Fahrtenschreibern nach den Artikeln 8 bis 10 der
 Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
-### § 39 Kombinierter Verkehr
+#### § 39 Kombinierter Verkehr
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004600126)
 
 Nicht als im Inland beschäftigt im Sinne von § 36 Absatz 1 gelten
@@ -2233,7 +2233,7 @@ Beförderungen von Gütern und zusätzliche Beförderungen nach § 37
 durchgeführt werden.
 
 
-### § 40 Transit
+#### § 40 Transit
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004700126)
 
 Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
@@ -2244,11 +2244,11 @@ beladen oder zu entladen und ohne Fahrgäste aufzunehmen oder
 abzusetzen (Transit).
 
 
-## Unterabschnitt 3 - Übergangsbestimmungen
+### Unterabschnitt 3 - Übergangsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001400126)
 
 
-### § 41 Übergangsbestimmungen für Langzeitentsendung
+#### § 41 Übergangsbestimmungen für Langzeitentsendung
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003802126)
 
 (1) Die nach § 13b Absatz 1 vorgeschriebenen Arbeitsbedingungen sind
@@ -2260,7 +2260,7 @@ mitgezählt. Hat die Beschäftigung im Inland vor dem 30. Juli 2020
 begonnen, gilt die Mitteilung nach § 13b Absatz 2 als abgegeben.
 
 
-### § 42 Übergangsbestimmungen für das Baugewerbe
+#### § 42 Übergangsbestimmungen für das Baugewerbe
 [Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003902126)
 
 Die vor dem 30. Juli 2020 ausgesprochene Allgemeinverbindlicherklärung

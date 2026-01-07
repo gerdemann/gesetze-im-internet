@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 1825
 
 Zuletzt geändert durch
-:   Art. 5 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 19 Abs. 6 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 Abs. 6 G v. 22.12.2025 I Nr. 369
 
 
 ## Eingangsformel
@@ -127,7 +124,7 @@ der Einsatzplanung folgende Angaben zu machen:
 
 
 4.  den Ort im Inland, an dem die nach § 17 Absatz 2 des
-    Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-
+    Mindestlohngesetzes und § 19 Absatz 2 des Arbeitnehmer-
     Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
 
 
@@ -166,7 +163,7 @@ Einsatzplanung folgende Angaben zu machen:
 
 
 3.  den Ort im Inland, an dem die nach § 17 Absatz 2 des
-    Mindestlohngesetztes und § 19 Absatz 2 des Arbeitnehmer-
+    Mindestlohngesetzes und § 19 Absatz 2 des Arbeitnehmer-
     Entsendegesetzes erforderlichen Unterlagen bereitgehalten werden,
 
 

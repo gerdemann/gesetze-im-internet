@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Der Rechtsanwalt
@@ -995,7 +995,7 @@ Abgabenordnung.
 
 
 #### § 37 Ersetzung der Schriftform
-[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008906125)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008907125)
 
 Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform
 vorgeschrieben, so kann die Erklärung auch über das besondere
@@ -1004,7 +1004,7 @@ Empfänger über ein solches verfügen. Ist die Erklärung von einer
 natürlichen Person abzugeben, so ist das Dokument mit einer
 qualifizierten elektronischen Signatur der Person zu versehen oder von
 ihr zu signieren und selbst zu versenden. Andere Postfächer nach §
-130a Absatz 4 Satz 1 Nummer 2 bis 5 der Zivilprozessordnung stehen dem
+130a Absatz 4 Satz 1 Nummer 1 bis 4 der Zivilprozessordnung stehen dem
 besonderen elektronischen Anwaltspostfach nach Satz 1 gleich.
 
 

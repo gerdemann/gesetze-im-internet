@@ -25,7 +25,7 @@ Mittelbare änderung durch
 :   Art. 52 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 u. 1.1.2026 noch nicht berücksichtigt
@@ -3163,7 +3163,7 @@ Kommission festgelegt sind.
 
 
 ### § 12 Steuersätze
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002938123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002939123)
 
 (1) Die Steuer beträgt für jeden steuerpflichtigen Umsatz 19 Prozent
 der Bemessungsgrundlage (§§ 10, 11, 25 Abs. 3 und § 25a Abs. 3 und 4).
@@ -3308,9 +3308,8 @@ Umsätze:
     Zeitschriften oder Teile von diesen enthalten;
 
 
-15. die nach dem 30. Juni 2020 und vor dem 1. Januar 2024 erbrachten
-    Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der Abgabe
-    von Getränken.
+15. die Restaurant- und Verpflegungsdienstleistungen, mit Ausnahme der
+    Abgabe von Getränken.
 
 
 
@@ -5695,7 +5694,7 @@ der Abgabenordnung, wenn sie zu einer Erstattung führt.
 
 
 ### § 18g Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009704123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009705123)
 
 Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von
 Vorsteuerbeträgen entsprechend der Richtlinie 2008/9/EG des Rates vom
@@ -5711,9 +5710,11 @@ Leitet das Bundeszentralamt für Steuern den Antrag nicht an den
 Mitgliedstaat der Erstattung weiter, ist der Bescheid über die
 Ablehnung dem Antragsteller durch Bereitstellung zum Datenabruf nach
 § 122a in Verbindung mit § 87a Absatz 8 der Abgabenordnung bekannt zu
-geben. Hat der Empfänger des Bescheids der Bekanntgabe durch
-Bereitstellung zum Datenabruf nach Satz 4 nicht zugestimmt, ist der
-Bescheid schriftlich zu erteilen.
+geben. Abweichend von § 122a Absatz 2 der Abgabenordnung kann das
+Bundeszentralamt für Steuern nur zur Vermeidung von unbilligen Härten
+einem Antrag auf einmalige postalische Bekanntgabe nach § 122a Absatz
+2 der Abgabenordnung entsprechen und den Bescheid, bis zum Widerruf
+des Antrags, postalisch bekannt geben.
 
 
 ### § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
@@ -6504,6 +6505,58 @@ dass Einfuhrumsatzsteuer vom Sendungsempfänger der Sendung erhoben
 wurde, gilt Satz 3 entsprechend.
 
 
+### § 21b Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE013000123)
+
+(1) Bei der Nutzung der Zentralen Zollabwicklung nach Artikel 179 des
+Zollkodex der Union, bei der eine Zollanmeldung für Gegenstände, die
+im Inland gestellt werden, bei der Zollbehörde eines anderen
+Mitgliedstaats der Europäischen Union abgegeben wird, entsteht die
+Einfuhrumsatzsteuer am Ort der Gestellung. Für Gegenstände, für die
+nach zollrechtlichen Vorschriften eine Befreiung von der
+Gestellungspflicht vorgesehen ist, entsteht die Einfuhrumsatzsteuer an
+dem Ort, an dem sich die Gegenstände zum Zeitpunkt der Annahme der
+Zollanmeldung im Inland befinden.
+
+(2) Die Festsetzung und Erhebung der Einfuhrumsatzsteuer erfolgt in
+den Fällen nach Absatz 1 durch das jeweils zuständige Hauptzollamt im
+Inland.
+
+(3) Die Zollanmeldung, die nach Artikel 179 Absatz 1 des Zollkodex der
+Union bei einer Zollbehörde eines anderen Mitgliedstaats der
+Europäischen Union abgegeben wird, wirkt als Steuererklärung, wenn sie
+
+1.  der zuständigen Zollbehörde im Inland übermittelt und in bearbeitbarer
+    Weise erfasst wurde,
+
+
+2.  alle für die Festsetzung der Einfuhrumsatzsteuer maßgeblichen Angaben
+    enthält und
+
+
+3.  dem Zollanmelder oder seinem Vertreter oder, soweit zulässig, einem
+    Dritten entsprechend Artikel 109 Absatz 2 des Zollkodex der Union für
+    Zwecke der Einfuhrumsatzsteuer im Inland ein Zahlungsaufschub
+    entsprechend Artikel 110 Buchstabe b oder Buchstabe c des Zollkodex
+    der Union bewilligt und die dafür erforderlichen Daten jeweils in der
+    Zollanmeldung angegeben sind.
+
+
+
+Dies gilt für eine Änderung der Zollanmeldung entsprechend, die
+gegenüber der Zollbehörde des anderen Mitgliedstaats, in dem die
+Zollanmeldung abgegeben worden ist, erklärt wird. Anderenfalls ist
+eine Steuererklärung, die alle für die Festsetzung der
+Einfuhrumsatzsteuer maßgeblichen Angaben enthält, bei der zuständigen
+Zollstelle im Inland abzugeben.
+
+(4) Der Steuerbescheid ist auf elektronischem Wege zu erteilen oder
+durch Bereitstellung zum Datenabruf nach § 122a der Abgabenordnung
+bekannt zu geben. Der oder die Beteiligte muss den Empfang des
+Steuerbescheids über einen durch die Zollverwaltung für die
+elektronische Datenübermittlung vorgesehenen Zugang sicherstellen.
+
+
 ### § 22 Aufzeichnungspflichten
 [Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004027123)
 
@@ -7200,7 +7253,7 @@ Daten zu erlassen.
 
 
 ### § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005108123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005109123)
 
 (1) Zur Berechnung der abziehbaren Vorsteuerbeträge (§ 15) wird für
 Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des
@@ -7213,7 +7266,7 @@ festgesetzt. Ein weiterer Vorsteuerabzug ist ausgeschlossen.
 
 (2) Der Unternehmer, dessen steuerpflichtiger Umsatz, mit Ausnahme der
 Einfuhr und des innergemeinschaftlichen Erwerbs, im vorangegangenen
-Kalenderjahr 45 000 Euro überstiegen hat, kann den Durchschnittsatz
+Kalenderjahr 50 000 Euro überstiegen hat, kann den Durchschnittsatz
 nicht in Anspruch nehmen.
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für die Anwendung des

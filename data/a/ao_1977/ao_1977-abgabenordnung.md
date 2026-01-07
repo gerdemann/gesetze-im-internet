@@ -28,7 +28,7 @@ Neugefasst durch
 :   Art. 9 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 363 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
@@ -2440,7 +2440,7 @@ Verfassungsschutzbehörde mit.
 
 
 #### § 52 Gemeinnützige Zwecke
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014508123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014509123)
 
 (1) Eine Körperschaft verfolgt gemeinnützige Zwecke, wenn ihre
 Tätigkeit darauf gerichtet ist, die Allgemeinheit auf materiellem,
@@ -2537,7 +2537,7 @@ Allgemeinheit anzuerkennen:
 20. die Förderung der Kriminalprävention;
 
 
-21. die Förderung des Sports (Schach gilt als Sport);
+21. die Förderung des Sports (Schach und E-Sport gelten als Sport);
 
 
 22. die Förderung der Heimatpflege, Heimatkunde und der Ortsverschönerung;
@@ -2658,7 +2658,7 @@ Personen und die Versorgung ihrer Witwen und Waisen.
 
 
 #### § 55 Selbstlosigkeit
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014811123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014812123)
 
 (1) Eine Förderung oder Unterstützung geschieht selbstlos, wenn
 dadurch nicht in erster Linie eigenwirtschaftliche Zwecke – zum
@@ -2704,7 +2704,7 @@ werden und wenn die folgenden Voraussetzungen gegeben sind:
     gegeben, wenn die Mittel spätestens in den auf den Zufluss folgenden
     zwei Kalender- oder Wirtschaftsjahren für die steuerbegünstigten
     satzungsmäßigen Zwecke verwendet werden. Satz 1 gilt nicht für
-    Körperschaften mit jährlichen Einnahmen von nicht mehr als 45 000
+    Körperschaften mit jährlichen Einnahmen von nicht mehr als 100 000
     Euro.
 
 
@@ -2763,7 +2763,7 @@ hält und verwaltet.
 
 
 #### § 58 Steuerlich unschädliche Betätigungen
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015113123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015114123)
 
 Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 
@@ -2830,7 +2830,13 @@ Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 10. eine Körperschaft Mittel zum Erwerb von Gesellschaftsrechten zur
     Erhaltung der prozentualen Beteiligung an Kapitalgesellschaften im
     Jahr des Zuflusses verwendet. Dieser Erwerb mindert die Höhe der
-    Rücklage nach § 62 Absatz 1 Nummer 3.
+    Rücklage nach § 62 Absatz 1 Nummer 3,
+
+
+11. eine Körperschaft Mittel für die Errichtung und den Betrieb von
+    Photovoltaikanlagen und anderen Anlagen nach dem Erneuerbare-Energien-
+    Gesetz verwendet, soweit es sich dabei nicht um den Hauptzweck der
+    Körperschaft handelt.
 
 
 
@@ -3166,7 +3172,7 @@ Die Frist ist taggenau zu berechnen.
 
 
 #### § 64 Steuerpflichtige wirtschaftliche Geschäftsbetriebe
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015709123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015710123)
 
 (1) Schließt das Gesetz die Steuervergünstigung insoweit aus, als ein
 wirtschaftlicher Geschäftsbetrieb (§ 14) unterhalten wird, so verliert
@@ -3181,9 +3187,13 @@ diese als ein wirtschaftlicher Geschäftsbetrieb behandelt.
 
 (3) Übersteigen die Einnahmen einschließlich Umsatzsteuer aus
 wirtschaftlichen Geschäftsbetrieben, die keine Zweckbetriebe sind,
-insgesamt nicht 45 000 Euro im Jahr, so unterliegen die diesen
+insgesamt nicht 50 000 Euro im Jahr, so unterliegen die diesen
 Geschäftsbetrieben zuzuordnenden Besteuerungsgrundlagen nicht der
-Körperschaftsteuer und der Gewerbesteuer.
+Körperschaftsteuer und der Gewerbesteuer. Falls die Einnahmen aus
+sämtlichen wirtschaftlichen Geschäftsbetrieben (§ 14) die Grenze nach
+Satz 1 nicht überschreiten und insgesamt ein Gewinn erzielt wird, ist
+damit eine Prüfung, ob die Voraussetzungen der §§ 65 bis 68 vorliegen,
+nicht mehr erforderlich.
 
 (4) Die Aufteilung einer Körperschaft in mehrere selbständige
 Körperschaften zum Zweck der mehrfachen Inanspruchnahme der
@@ -3274,11 +3284,11 @@ berechnet wird.
 
 
 #### § 67a Sportliche Veranstaltungen
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051207123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051208123)
 
 (1) Sportliche Veranstaltungen eines Sportvereins sind ein
 Zweckbetrieb, wenn die Einnahmen einschließlich Umsatzsteuer insgesamt
-45 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und
+50 000 Euro im Jahr nicht übersteigen. Der Verkauf von Speisen und
 Getränken sowie die Werbung gehören nicht zu den sportlichen
 Veranstaltungen.
 
@@ -5020,7 +5030,7 @@ Absätzen 3 und 4 zu erstellenden Aufzeichnungen zu bestimmen.
 
 
 ###### § 91 Anhörung Beteiligter
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018502123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018503123)
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
 Beteiligten eingreift, soll diesem Gelegenheit gegeben werden, sich zu
@@ -5054,6 +5064,15 @@ Umständen des Einzelfalls nicht geboten ist, insbesondere wenn
 
 
 
+
+(2a) Von der Anhörung soll abgesehen werden, wenn die Finanzbehörde
+bei Erlass eines Verwaltungsakts anstelle der in der Steuererklärung
+angegebenen Daten die auf Grund gesetzlicher Vorschriften von einer
+mitteilungspflichtigen Stelle (§ 93c Absatz 1) elektronisch
+übermittelten und dem Steuerpflichtigen gemäß § 93c Absatz 1 Nummer 3
+mitzuteilenden Daten verwendet; auf die Abweichung von den erklärten
+Daten ist im Verwaltungsakt hinzuweisen. § 150 Absatz 7 Satz 1 bleibt
+unberührt.
 
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches
 Interesse entgegensteht.

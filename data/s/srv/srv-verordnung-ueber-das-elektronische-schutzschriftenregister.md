@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 14 G v. 7.7.2021 I 2363
 
 Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -68,7 +68,7 @@ toleriert werden.
 
 
 ## § 2 Einreichung
-[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000303125)
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000304125)
 
 (1) Zur Einreichung einer Schutzschrift bei dem Register ist jeder
 berechtigt, der eine Schutzschrift gemäß § 945a Absatz 1 Satz 2 der
@@ -95,22 +95,38 @@ Person versehen sein. Wird das elektronische Dokument auf einem
 sicheren Übermittlungsweg eingereicht, genügt es, wenn die
 Schutzschrift durch die verantwortende Person signiert wird.
 
-(5) Sichere Übermittlungswege sind
+(5) Sichere Übermittlungswege sind:
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung und dem Register,
 
 
-3.  der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage
+2.  der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage
     errichteten elektronischen Postfach, das dem Anwaltspostfach nach
-    Nummer 2 entspricht, und dem Register.
+    Nummer 1 entspricht, und dem Register,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und dem Register,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und dem Register,
+
+
+5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    dem Register,
+
+
+6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung nach § 130a Absatz 4 Satz 1 Nummer 5 der
+    Zivilprozessordnung festgelegt werden.
 
 
 

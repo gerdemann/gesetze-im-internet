@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370 noch nicht berücksichtigt
+:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370 ist berücksichtigt
 
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
@@ -31202,19 +31202,19 @@ sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 
 
 ##### § 193 Fortbestehen der Mitgliedschaft bei Wehrdienst oder Zivildienst
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027706308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027707126)
 
 (1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2
 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das
-Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Abs. 1 und
-§ 6b Abs. 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies gilt auch
-für Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des
-Einsatz-Weiterverwendungsgesetzes, wenn sie den Einsatzunfall in einem
-Versicherungsverhältnis erlitten haben.
+Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Absatz 1
+und § 6a Absatz 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies
+gilt auch für Personen in einem Wehrdienstverhältnis besonderer Art
+nach § 6 des Einsatz-Weiterverwendungsgesetzes, wenn sie den
+Einsatzunfall in einem Versicherungsverhältnis erlitten haben.
 
 (2) Bei Versicherungspflichtigen, die nicht unter Absatz 1 fallen,
 sowie bei freiwilligen Mitgliedern berührt der Wehrdienst nach § 4
-Abs. 1 und § 6b Abs. 1 des Wehrpflichtgesetzes eine bestehende
+Absatz 1 und § 6a Absatz 1 des Wehrpflichtgesetzes eine bestehende
 Mitgliedschaft bei einer Krankenkasse nicht. Die
 versicherungspflichtige Mitgliedschaft gilt als fortbestehend, wenn
 die Versicherungspflicht am Tag vor dem Beginn des Wehrdienstes endet
@@ -32261,17 +32261,15 @@ entsprechend §§ 28a bis 28c des Vierten Buches.
 
 
 #### § 204 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028805301)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028806126)
 
 (1) Bei Einberufung zu einem Wehrdienst hat bei versicherungspflichtig
 Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für
 Arbeit den Beginn des Wehrdienstes sowie das Ende des
 Grundwehrdienstes und einer Wehrübung oder einer Dienstleistung oder
 Übung nach dem Vierten Abschnitt des Soldatengesetzes der zuständigen
-Krankenkasse unverzüglich zu melden. Das Ende eines Wehrdienstes nach
-§ 4 Abs. 1 Nr. 6 des Wehrpflichtgesetzes hat das Bundesministerium der
-Verteidigung oder die von ihm bestimmte Stelle zu melden. Sonstige
-Versicherte haben die Meldungen nach Satz 1 selbst zu erstatten.
+Krankenkasse unverzüglich zu melden. Sonstige Versicherte haben die
+Meldungen nach Satz 1 selbst zu erstatten.
 
 (2) Absatz 1 gilt für den Zivildienst entsprechend. An die Stelle des
 Bundesministeriums der Verteidigung tritt das Bundesamt für den
