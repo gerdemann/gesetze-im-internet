@@ -33,8 +33,8 @@ Zuletzt geändert durch
 ### § 1 Zweck des Gesetzes
 [Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000204129)
 
-(1) Verhinderung und Bekämpfung der Schwarzarbeit und illegalen
-Beschäftigung.
+(1) Zweck des Gesetzes ist die Verhinderung und Bekämpfung der
+Schwarzarbeit und illegalen Beschäftigung.
 
 (2) Schwarzarbeit leistet, wer Dienst- oder Werkleistungen erbringt
 oder ausführen lässt und dabei

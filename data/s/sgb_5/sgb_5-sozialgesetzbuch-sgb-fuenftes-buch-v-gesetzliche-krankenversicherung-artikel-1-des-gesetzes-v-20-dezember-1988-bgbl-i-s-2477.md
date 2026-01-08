@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370 ist berücksichtigt
@@ -49813,7 +49813,7 @@ sofern nichts Abweichendes bestimmt ist.
 
 
 ### § 396 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039313126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039314126)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Krankenkassen insbesondere mit der Bundesagentur für Arbeit, den
@@ -49829,11 +49829,13 @@ Anhaltspunkte ergeben für
 1.  Verstöße gegen das Schwarzarbeitsbekämpfungsgesetz,
 
 
-2.  eine Beschäftigung oder Tätigkeit von nichtdeutschen Arbeitnehmern
-    ohne den erforderlichen Aufenthaltstitel nach § 4 Abs. 3 des
-    Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die
-    zur Ausübung der Beschäftigung berechtigen, oder eine Genehmigung nach
-    § 284 Abs. 1 des Dritten Buches,
+2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne den
+    erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des
+    Aufenthaltsgesetzes, eine Erlaubnis oder Berechtigung nach § 4a Absatz
+    5 Satz 2 in Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
+    Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
+    Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -49855,7 +49857,17 @@ Anhaltspunkte ergeben für
 6.  Verstöße gegen Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz.
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz.
 
 
 

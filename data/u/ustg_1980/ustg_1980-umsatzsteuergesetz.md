@@ -28,7 +28,7 @@ Mittelbare änderung durch
 :   Art. 4 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 u. 1.1.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
@@ -4241,7 +4241,7 @@ Voraussetzungen des Satzes 4 eingetreten sind.
 
 
 ### § 15 Vorsteuerabzug
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003224123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE013100123)
 
 (1) Der Unternehmer kann die folgenden Vorsteuerbeträge abziehen:
 
@@ -4363,8 +4363,11 @@ im Wege einer sachgerechten Schätzung ermitteln. Eine Ermittlung des
 nicht abziehbaren Teils der Vorsteuerbeträge nach dem Verhältnis der
 Umsätze, die den Vorsteuerabzug ausschließen, zu den Gesamtumsätzen
 ist nur zulässig, wenn keine andere, präzisere wirtschaftliche
-Zuordnung möglich ist. In den Fällen des Absatzes 1b gelten die Sätze
-1 bis 3 entsprechend.
+Zuordnung möglich ist. Für Grundstücke ist dabei eine Aufteilung nach
+dem Verhältnis der Nutzflächen vorzunehmen, es sei denn, eine andere
+Methode führt zu einer demgegenüber präziseren wirtschaftlichen
+Zuordnung. In den Fällen des Absatzes 1b gelten die Sätze 1 bis 4
+entsprechend.
 
 (4a) Für Fahrzeuglieferer (§ 2a) gelten folgende Einschränkungen des
 Vorsteuerabzugs:
@@ -8058,7 +8061,7 @@ Handlungen verbunden hat, handelt.
 
 
 ### § 27 Allgemeine Übergangsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012009123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012011123)
 
 (1) Änderungen dieses Gesetzes sind, soweit nichts anderes bestimmt
 ist, auf Umsätze im Sinne des § 1 Abs. 1 Nr. 1 und 5 anzuwenden, die
@@ -8413,6 +8416,18 @@ Fassung abweichend von Satz 1 erstmals auf Unterlagen anzuwenden,
 deren Aufbewahrungsfrist nach § 14b Absatz 1 Satz 1 in der bis
 einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026
 noch nicht abgelaufen ist.
+
+(40a) Für vor dem 1. Januar 2026 nach § 4 Nummer 4a Satz 1 von der
+Steuer befreite Umsätze sind § 4 Nummer 4a Satz 1 Buchstabe a und b,
+Nummer 19 Buchstabe a Satz 4, § 10 Absatz 1 Satz 4, § 13 Absatz 1
+Nummer 9, § 13a Absatz 1 Nummer 6, § 15 Absatz 1 Satz 1 Nummer 5, §
+18e Nummer 2, § 22 Absatz 2 Nummer 9 und Absatz 4c in der am 31.
+Dezember 2025 geltenden Fassung bis zur Auslagerung und für diese
+Auslagerung der jeweiligen Gegenstände weiterhin anzuwenden. Mit
+Ablauf des 30. Dezember 2029 gelten alle bis zu diesem Zeitpunkt nicht
+ausgelagerten Gegenstände als ausgelagert im Sinne des § 4 Nummer 4a
+Satz 1 Buchstabe a Satz 3 in der bis zum 31. Dezember 2025 geltenden
+Fassung.
 
 
 ### § 27a Umsatzsteuer-Identifikationsnummer

@@ -31,7 +31,7 @@ Neugefasst durch
 :   Art. 5 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Einleitende Vorschriften
@@ -1379,7 +1379,7 @@ entgegenstehen.
 
 
 #### § 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051111123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051112123)
 
 (1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen
 Person ist zulässig, soweit sie erforderlich sind
@@ -1408,13 +1408,17 @@ Person ist zulässig, soweit sie erforderlich sind
 
 
 2.  für die Prüfung des Vorliegens oder die Geltendmachung eines Anspruchs
-    auf Rückgewähr einer Leistung aus öffentlichen Mitteln oder
+    auf Rückgewähr einer Leistung aus öffentlichen Mitteln,
 
 
 3.  für die Prüfung des Vorliegens oder die Geltendmachung eines
     gesetzlichen Anspruchs auf Schadensersatz aus einer vorsätzlich
     begangenen unerlaubten Handlung, auf Grund derer eine Leistung aus
-    öffentlichen Mitteln gewährt wurde.
+    öffentlichen Mitteln gewährt wurde oder
+
+
+4.  für die automationsgestützte Analyse und Bewertung nach § 26 Absatz 1
+    des Schwarzarbeitsbekämpfungsgesetzes.
 
 
 

@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 17 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
@@ -1245,7 +1245,7 @@ Fassung nicht erfüllt sind.
 
 
 ### § 19a Aufbewahrungsfristen
-[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004902123)
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004903123)
 
 (1)§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des
 Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für
@@ -1278,11 +1278,8 @@ Fassung noch nicht abgelaufen ist.
 
 
 
-ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar
-2025 geltenden Fassung abweichend von Absatz 2 erstmals auf Unterlagen
-anzuwenden, deren Aufbewahrungsfrist nach § 147 Absatz 3 Satz 1 der
-Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden
-Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
+ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der am 31. Dezember
+2024 geltenden Fassung abweichend von Absatz 2 anzuwenden.
 
 
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme

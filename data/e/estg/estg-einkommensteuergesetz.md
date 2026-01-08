@@ -34,7 +34,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 22.12.2025 I Nr. 370 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 17 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Steuerpflicht
@@ -495,7 +495,7 @@ durchzuführen.
 
 
 #### § 3
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052401123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052402123)
 
 Steuerfrei sind
 
@@ -634,7 +634,10 @@ Steuerfrei sind
         vergleichbare Geldleistung,
 
 
-    e)  Leistungen nach § 5 des Wehrsoldgesetzes;
+    e)  Leistungen nach § 5 des Wehrsoldgesetzes,
+
+
+    f)  Zuschüsse nach den §§ 31b und 31c des Soldatengesetzes;
 
 
 

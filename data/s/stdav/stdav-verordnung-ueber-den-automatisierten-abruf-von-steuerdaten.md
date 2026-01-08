@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 3 V v. 12.7.2017 I 2360
 
 Änderung durch
-:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -83,7 +83,7 @@ der schutzwürdigen Interessen der Betroffenen angemessen ist.
 
 
 ## § 3 Erteilung der Abrufbefugnis
-[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000401360)
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000402123)
 
 Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
@@ -122,7 +122,12 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 6.  Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in
     Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden
-    zustehenden Rechte tätig sind.
+    zustehenden Rechte tätig sind,
+
+
+7.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit
+    die Abrufbefugnis für die Wahrnehmung der Aufgaben oder Befugnisse
+    nach dem Schwarzarbeitsbekämpfungsgesetz erforderlich ist.
 
 
 

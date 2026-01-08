@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1959, 565
 
 Zuletzt geändert durch
-:   Art. 13 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 349
 
 
 ## Erster Teil - Der Rechtsanwalt

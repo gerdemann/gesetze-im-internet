@@ -26,7 +26,7 @@ Mittelbare änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 7 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
@@ -8076,7 +8076,7 @@ Ordnungswidrigkeiten ist der Unfallversicherungsträger.
 
 
 ### § 211 Zusammenarbeit bei der Verfolgung und Ahndung von Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022010308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022011126)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Unfallversicherungsträger insbesondere mit den Behörden der
@@ -8095,10 +8095,12 @@ Anhaltspunkte für
 
 
 2.  eine Beschäftigung oder Tätigkeit von Ausländern ohne erforderlichen
-    Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes, eine
+    Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes,
+    eine Erlaubnis oder Berechtigung nach § 4a Absatz 5 Satz 2 in
+    Verbindung mit Absatz 4 des Aufenthaltsgesetzes, eine
     Aufenthaltsgestattung oder eine Duldung, die zur Ausübung der
-    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Abs. 1 des
-    Dritten Buches,
+    Beschäftigung berechtigen, oder eine Genehmigung nach § 284 Absatz 1
+    des Dritten Buches,
 
 
 3.  Verstöße gegen die Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2
@@ -8122,7 +8124,17 @@ Anhaltspunkte für
 6.  Verstöße gegen die Steuergesetze,
 
 
-7.  Verstöße gegen das Aufenthaltsgesetz
+7.  Verstöße gegen das Aufenthaltsgesetz,
+
+
+8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der
+    Fleischwirtschaft,
+
+
+9.  Verstöße gegen das Mindestlohngesetz,
+
+
+10. Verstöße gegen das Arbeitnehmer-Entsendegesetz
 
 
 

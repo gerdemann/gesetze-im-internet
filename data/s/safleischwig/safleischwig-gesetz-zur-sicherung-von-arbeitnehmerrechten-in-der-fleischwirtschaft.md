@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3a G v. 22.12.2020 I 3334
 
 Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 369 noch nicht berücksichtigt
+:   Art. 9 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Zielsetzung
@@ -191,12 +191,12 @@ Fleischverarbeitung inhaltlich oder zeitlich im Wesentlichen vorgibt.
 
 
 ## § 6b Prüfung und Befugnisse der Behörden der Zollverwaltung
-[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000902126)
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000903126)
 
 (1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den
 Behörden der Zollverwaltung.
 
-(2) Die §§ 2 bis 6, 14, 15 bis 20, 22 und 23 des
+(2) Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
 Maßgabe, dass
 
@@ -222,7 +222,7 @@ Maßgabe, dass
 
 
 ## § 7 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000703126)
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000704126)
 
 (1) Ordnungswidrig handelt, wer einem anderen die Nutzung eines
 Betriebes oder einer übergreifenden Organisation, in dem oder in der
@@ -282,9 +282,8 @@ wenigstens fahrlässig nicht weiß, dass der andere
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 sowie des
 Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend
-Euro, in den Fällen des Absatzes 2 Nummer 1 mit einer Geldbuße bis zu
-fünfzigtausend Euro und in den Fällen des Absatzes 2 Nummer 2 mit
-einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend
+Euro geahndet werden.
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind

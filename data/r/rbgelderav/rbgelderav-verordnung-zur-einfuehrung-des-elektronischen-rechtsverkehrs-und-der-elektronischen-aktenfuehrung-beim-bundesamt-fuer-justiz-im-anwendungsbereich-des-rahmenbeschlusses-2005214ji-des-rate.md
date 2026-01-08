@@ -18,11 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3582
 
-Geändert durch
-:   Art. 17 G v. 7.7.2021 I 2363
-
-Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 10 G v. 22.12.2025 I Nr. 349
 
 [^F800579_01_BJNR358200017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein

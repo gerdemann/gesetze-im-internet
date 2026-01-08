@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2135
 
-Geändert durch
-:   Art. 14 G v. 7.7.2021 I 2363
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 5 G v. 22.12.2025 I Nr. 349
 
 
 ## Eingangsformel
