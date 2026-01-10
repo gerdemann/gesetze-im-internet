@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 22.3.2024 I Nr. 101
 
 Änderung durch
-:   Art. 12 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 12 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -359,7 +359,7 @@ Zuschlag in Höhe von 0,5 Prozent des rückständigen Betrags zu zahlen.
 
 
 ### § 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
-[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001406126)
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001407126)
 
 (1) Unter Berücksichtigung der Vorgabe nach § 266 Absatz 4 Satz 2 des
 Fünften Buches Sozialgesetzbuch ergeben sich aus § 267 Absatz 1 Satz 1
@@ -497,12 +497,11 @@ speichern oder aufzubewahren, das dem Abschluss der Prüfung des
 Berichtsjahres nach § 273 Absatz 2 Satz 1 des Fünften Buches
 Sozialgesetzbuch folgt. Das Bundesamt für Soziale Sicherung kann
 feststellen, dass die weitere Aufbewahrung für die Prüfung nach § 20
-Absatz 1 Satz 1 oder im Einzelfall für die Prüfung nach § 273 des
+Absatz 1 Satz 1 oder im Einzelfall für die Prüfungen nach § 273 des
 Fünften Buches Sozialgesetzbuch erforderlich ist; in diesem Fall sind
-die Daten nach Satz 3 spätestens nach Ablauf des vierten
-Kalenderjahres zu löschen, das auf den Abschluss der Prüfung des
-Berichtsjahres nach § 273 Absatz 2 Satz 1 des Fünften Buches
-Sozialgesetzbuch folgt.
+die in Satz 3 genannten Daten spätestens nach Ablauf des 15.
+Kalenderjahres zu löschen, das auf das Berichtsjahr folgt, auf das
+sich die jeweilige Prüfung bezieht.
 
 (3) Der Spitzenverband Bund der Krankenkassen bestimmt im Einvernehmen
 mit dem Bundesamt für Soziale Sicherung in der Bestimmung nach § 267

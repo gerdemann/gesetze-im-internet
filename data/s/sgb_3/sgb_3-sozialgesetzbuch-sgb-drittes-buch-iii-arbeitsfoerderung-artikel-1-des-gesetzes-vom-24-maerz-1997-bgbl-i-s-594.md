@@ -17,22 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 6 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 14 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 364 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 22.12.2025 I Nr. 371 ist berücksichtigt
+:   Art. 6 G v. 22.12.2025 I Nr. 371
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -12364,7 +12349,10 @@ weiß, dass diese oder dieser zur Erfüllung dieses Auftrags
     Bußgeldvorschrift verweist,
 
 
-17. u. 18. (weggefallen)
+17. (weggefallen)
+
+
+18. (weggefallen)
 
 
 19. entgegen

@@ -4319,7 +4319,7 @@ innergemeinschaftlich erworbene Gegenstand verwendet wird.
 (3) Der Ausschluss vom Vorsteuerabzug nach Absatz 2 tritt nicht ein,
 wenn die Umsätze
 
-1.  in den Fällen des Absatzes 2 Nr. 1
+1.  in den Fällen des Absatzes 2 Satz 1 Nr. 1
 
     a)  nach § 4 Nr. 1 bis 7, § 25 Abs. 2 oder nach den in § 26 Abs. 5
         bezeichneten Vorschriften steuerfrei sind oder

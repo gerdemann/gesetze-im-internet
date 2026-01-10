@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 68 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 4 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Ziel des Gesetzes
@@ -31,7 +31,7 @@ damit die Vereinbarkeit von Beruf und familiärer Pflege zu verbessern.
 
 
 ## § 2 Kurzzeitige Arbeitsverhinderung
-[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000201119)
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000202126)
 
 (1) Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit
 fernzubleiben, wenn dies erforderlich ist, um für einen
@@ -42,8 +42,9 @@ pflegerische Versorgung in dieser Zeit sicherzustellen.
 (2) Beschäftigte sind verpflichtet, dem Arbeitgeber ihre Verhinderung
 an der Arbeitsleistung und deren voraussichtliche Dauer unverzüglich
 mitzuteilen. Dem Arbeitgeber ist auf Verlangen eine ärztliche
-Bescheinigung über die Pflegebedürftigkeit des nahen Angehörigen und
-die Erforderlichkeit der in Absatz 1 genannten Maßnahmen vorzulegen.
+Bescheinigung oder eine Bescheinigung einer Pflegefachperson über die
+Pflegebedürftigkeit des nahen Angehörigen und die Erforderlichkeit der
+in Absatz 1 genannten Maßnahmen vorzulegen.
 
 (3) Der Arbeitgeber ist zur Fortzahlung der Vergütung nur
 verpflichtet, soweit sich eine solche Verpflichtung aus anderen

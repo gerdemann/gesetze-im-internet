@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 2244
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.4.2025 I Nr. 128
-
-Änderung durch
-:   Art. 1 V v. 18.12.2025 I Nr. 357 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 18.12.2025 I Nr. 357
 
 
 ## Eingangsformel
@@ -320,8 +317,6 @@ Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz 1 und Absatz
 Voraussetzungen einer Genehmigung vorlagen, soll die zuständige
 Behörde auf Antrag des Begünstigten die Umwandlung nachträglich
 genehmigen.
-
-(3) (weggefallen)
 
 
 #### § 8 Nichtanwendbarkeit von § 6 des GAP- Konditionalitäten-Gesetzes in bestimmten Fällen

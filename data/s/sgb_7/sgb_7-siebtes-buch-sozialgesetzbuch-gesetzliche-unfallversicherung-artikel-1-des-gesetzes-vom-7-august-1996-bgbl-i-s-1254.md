@@ -29,7 +29,7 @@ Mittelbare änderung durch
 :   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -2231,10 +2231,10 @@ endet das Verletztengeld
 
 
 ##### § 47 Höhe des Verletztengeldes
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005120311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005121126)
 
 (1) Versicherte, die Arbeitsentgelt oder Arbeitseinkommen erzielt
-haben, erhalten Verletztengeld entsprechend § 47 Abs. 1 und 2 des
+haben, erhalten Verletztengeld entsprechend § 47 Absatz 1, 2 und 5 des
 Fünften Buches mit der Maßgabe, daß
 
 1.  das Regelentgelt aus dem Gesamtbetrag des regelmäßigen Arbeitsentgelts
@@ -2244,7 +2244,7 @@ Fünften Buches mit der Maßgabe, daß
 
 
 2.  das Verletztengeld 80 vom Hundert des Regelentgelts beträgt und das
-    bei Anwendung des § 47 Abs. 1 und 2 des Fünften Buches berechnete
+    bei Anwendung des § 47 Absatz 1, 2 und 5 des Fünften Buches berechnete
     Nettoarbeitsentgelt nicht übersteigt.
 
 

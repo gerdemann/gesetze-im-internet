@@ -29,10 +29,10 @@ Zuletzt geändert durch
 :   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370 ist berücksichtigt
 
 Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 3 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3a G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 3a G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -127,7 +127,7 @@ Familienangehörige werden Beiträge nicht erhoben.
 
 
 ### § 4 Krankenkassen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008616126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008617126)
 
 (1) Die Krankenkassen sind rechtsfähige Körperschaften des
 öffentlichen Rechts mit Selbstverwaltung.
@@ -165,7 +165,10 @@ Modellprojekt zur Durchführung von Online-Wahlen und der Kostenumlage
 für dieses Modellprojekt nach § 194a Absatz 3 entstehen, sowie für
 Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
 
-(6) (weggefallen)
+(6) Im Jahr 2026 dürfen sich die sächlichen Verwaltungsausgaben einer
+Krankenkasse nicht um mehr als 8 Prozent gegenüber dem Jahr 2024
+erhöhen. Die Begrenzung nach Satz 1 gilt nicht für Aufwendungen für
+Datentransparenz nach den §§ 303a bis 303e.
 
 
 ### § 4a Wettbewerb der Krankenkassen, Verordnungsermächtigung
@@ -599,7 +602,7 @@ dem Grunde nach besteht.
 
 
 #### § 6 Versicherungsfreiheit
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055203124)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055204126)
 
 (1) Versicherungsfrei sind
 
@@ -683,11 +686,30 @@ versicherungspflichtig werden, sind versicherungsfrei, wenn sie in den
 letzten fünf Jahren vor Eintritt der Versicherungspflicht nicht
 gesetzlich versichert waren. Weitere Voraussetzung ist, dass diese
 Personen mindestens die Hälfte dieser Zeit versicherungsfrei, von der
-Versicherungspflicht befreit oder nach § 5 Abs. 5 nicht
-versicherungspflichtig waren. Der Voraussetzung nach Satz 2 stehen die
-Ehe oder die Lebenspartnerschaft mit einer in Satz 2 genannten Person
-gleich. Satz 1 gilt nicht für Personen, die nach § 5 Abs. 1 Nr. 13
-versicherungspflichtig sind.
+Versicherungspflicht befreit oder nach § 5 Absatz 5 nicht
+versicherungspflichtig waren. Entfällt für diese Personen die
+Versicherungsfreiheit, die Befreiung von der Versicherungspflicht oder
+die hauptberufliche selbständige Erwerbstätigkeit nach Vollendung des
+55\. Lebensjahres, gelten die Versicherungsfreiheit, die Befreiung von
+der Versicherungspflicht oder die wegen hauptberuflich selbständiger
+Erwerbstätigkeit nicht bestehende Versicherungspflicht nach § 5 Absatz
+5 als im Sinne des Satzes 2 fortbestehend. Der Voraussetzung nach Satz
+2 auch in Verbindung mit Satz 3 steht die Ehe oder die
+Lebenspartnerschaft mit einer in den Sätzen 2 und 3 genannten Person
+gleich. Satz 1 gilt nicht für Personen, die nach § 5 Absatz 1 Nummer
+13 versicherungspflichtig sind.
+
+(3b) Personen, die nach Vollendung des 55. Lebensjahres eine
+Absicherung im Krankheitsfall begründen, die nach zwischenstaatlichen
+oder supranationalen Vorschriften einer Versicherung in der
+gesetzlichen Krankenversicherung gleichgestellt ist, sind, auch wenn
+sie nach Begründung dieser Absicherung im Krankheitsfall nach diesem
+Buch versicherungspflichtig werden, versicherungsfrei, wenn sie in den
+letzten fünf Jahren vor der Begründung dieser Absicherung im
+Krankheitsfall nicht gesetzlich versichert waren und mindestens die
+Hälfte dieser Zeit versicherungsfrei, von der Versicherungspflicht
+befreit oder nach § 5 Absatz 5 nicht versicherungspflichtig waren.
+Absatz 3a Satz 4 gilt entsprechend.
 
 (4) Wird die Jahresarbeitsentgeltgrenze überschritten, endet die
 Versicherungspflicht mit Ablauf des Kalenderjahres, in dem sie
@@ -967,7 +989,7 @@ dieser Bescheinigung beantragt wurde.
 
 
 #### § 10 Familienversicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009233311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009234126)
 
 (1) Versichert sind der Ehegatte, der Lebenspartner und die Kinder von
 Mitgliedern sowie die Kinder von familienversicherten Kindern, wenn
@@ -976,44 +998,62 @@ diese Familienangehörigen
 1.  ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben,
 
 
-2.  nicht nach § 5 Abs. 1 Nr. 1, 2, 2a, 3 bis 8, 11 bis 12 oder nicht
+2.  nicht nach § 5 Absatz 1 Nummer 1 bis 8, 11 bis 12 oder nicht
     freiwillig versichert sind,
 
 
 3.  nicht versicherungsfrei oder nicht von der Versicherungspflicht
-    befreit sind; dabei bleibt die Versicherungsfreiheit nach § 7 außer
-    Betracht,
+    befreit sind,
 
 
 4.  nicht hauptberuflich selbständig erwerbstätig sind und
 
 
 5.  kein Gesamteinkommen haben, das regelmäßig im Monat ein Siebtel der
-    monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet;
-    bei Abfindungen, Entschädigungen oder ähnlichen Leistungen
-    (Entlassungsentschädigungen), die wegen der Beendigung eines
-    Arbeitsverhältnisses in Form nicht monatlich wiederkehrender
-    Leistungen gezahlt werden, wird das zuletzt erzielte monatliche
-    Arbeitsentgelt für die der Auszahlung der Entlassungsentschädigung
-    folgenden Monate bis zu dem Monat berücksichtigt, in dem im Fall der
-    Fortzahlung des Arbeitsentgelts die Höhe der gezahlten
-    Entlassungsentschädigung erreicht worden wäre; bei Renten wird der
-    Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten
-    entfallenden Teil berücksichtigt; für Familienangehörige, die eine
-    geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a des
-    Vierten Buches in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten
-    Buches ausüben, ist ein regelmäßiges monatliches Gesamteinkommen bis
-    zur Geringfügigkeitsgrenze zulässig.
+    monatlichen Bezugsgröße nach § 18 des Vierten Buches überschreitet.
 
 
 
-Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr.
-4 ist nicht deshalb anzunehmen, weil eine Versicherung nach § 1 Abs. 3
-des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994
-(BGBl. I S. 1890, 1891) besteht. Ehegatten und Lebenspartner sind für
-die Dauer der Schutzfristen nach § 3 des Mutterschutzgesetzes sowie
-der Elternzeit nicht versichert, wenn sie zuletzt vor diesen
-Zeiträumen nicht gesetzlich krankenversichert waren.
+Die Versicherungsfreiheit nach § 7 bleibt bei der Prüfung der
+Voraussetzung nach Satz 1 Nummer 3 außer Betracht. Eine
+hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nummer 4
+ist nicht deshalb anzunehmen, weil eine Versicherung nach § 1 Absatz 3
+des Gesetzes über die Alterssicherung der Landwirte besteht. Bei
+Abfindungen, Entschädigungen oder ähnlichen Leistungen
+(Entlassungsentschädigungen), die wegen der Beendigung eines
+Arbeitsverhältnisses in Form nicht monatlich wiederkehrender
+Leistungen gezahlt werden, wird zur Ermittlung des Gesamteinkommens
+nach Satz 1 Nummer 5 das zuletzt erzielte monatliche Arbeitsentgelt
+für die der Auszahlung der Entlassungsentschädigung folgenden Monate
+bis zu dem Monat berücksichtigt, in dem im Fall der Fortzahlung des
+Arbeitsentgelts die Höhe der gezahlten Entlassungsentschädigung
+erreicht worden wäre. Renten werden für das Gesamteinkommen nach Satz
+1 Nummer 5 mit dem Zahlbetrag ohne den auf Entgeltpunkte für
+Kindererziehungszeiten entfallenden Teil berücksichtigt. Für
+Familienangehörige, die eine geringfügige Beschäftigung nach § 8
+Absatz 1 Nummer 1 des Vierten Buches oder § 8a des Vierten Buches in
+Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, ist
+ein regelmäßiges monatliches Gesamteinkommen im Sinne des Satzes 1
+Nummer 5 bis zur Geringfügigkeitsgrenze zulässig. Ehegatten und
+Lebenspartner sind abweichend von Satz 1 für die Dauer der
+Schutzfristen nach § 3 des Mutterschutzgesetzes und für die Dauer der
+Elternzeit nicht versichert, wenn sie zuletzt vor diesen Zeiträumen
+nicht gesetzlich krankenversichert waren. Ehegatten und Lebenspartner
+sind abweichend von Satz 1 nicht versichert, wenn sie
+
+1.  eine Rente wegen Alters als Teilrente in Anspruch nehmen,
+
+
+2.  die in Satz 1 Nummer 5 genannte Voraussetzung nicht erfüllen würden,
+    wenn sie die Rente stattdessen in voller Höhe in Anspruch nehmen
+    würden und
+
+
+3.  zuletzt vor Inanspruchnahme der Teilrente nicht gesetzlich
+    krankenversichert waren.
+
+
+
 
 (2) Kinder sind versichert
 
@@ -1350,13 +1390,17 @@ versicherten Angehörigen.
 
 
 #### § 15 Ärztliche Behandlung, elektronische Gesundheitskarte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009808126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009809126)
 
 (1) Ärztliche oder zahnärztliche Behandlung wird von Ärzten oder
-Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Abs. 3c
+Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Absatz
+3c in der bis zum 29. Dezember 2025 geltenden Fassung oder in § 15a
 etwas anderes bestimmt ist. Sind Hilfeleistungen anderer Personen
 erforderlich, dürfen sie nur erbracht werden, wenn sie vom Arzt
-(Zahnarzt) angeordnet und von ihm verantwortet werden.
+(Zahnarzt) angeordnet und von ihm verantwortet werden. Die
+Pflegeprozessverantwortung im Sinne von § 4 Absatz 1 Satz 1 des
+Pflegeberufegesetzes ist nicht Teil der ärztlichen oder zahnärztlichen
+Behandlung.
 
 (2) Versicherte, die ärztliche, zahnärztliche oder
 psychotherapeutische Behandlung in Anspruch nehmen, haben dem Arzt,
@@ -1398,6 +1442,48 @@ Gesundheitskarte mitwirkt; hierauf ist der Versicherte bei der
 erstmaligen Ausstellung einer Ersatzbescheinigung hinzuweisen. Die
 Krankenkasse kann die Aushändigung der elektronischen Gesundheitskarte
 vom Vorliegen der Meldung nach § 10 Abs. 6 abhängig machen.
+
+
+#### § 15a Behandlung durch Pflegefachpersonen, Pflegeprozessverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095300126)
+
+(1) Pflegefachpersonen, die über die erforderlichen fachlichen
+Kompetenzen aufgrund ihrer vorgeschriebenen beruflichen oder
+hochschulischen Ausbildung, aufgrund einer staatlich anerkannten,
+bundesweit einheitlichen Weiterbildung oder aufgrund einer solchen
+Weiterbildung entsprechenden Berufserfahrung, die durch eine
+staatliche Kompetenzfeststellung der Länder nachgewiesen wurde,
+verfügen, können insbesondere die folgenden Leistungen der ärztlichen
+Behandlung im Rahmen der Leistungserbringung nach diesem Buch unter
+den folgenden Voraussetzungen eigenverantwortlich erbringen:
+
+1.  nach ärztlicher Diagnose und Indikationsstellung oder nach
+    pflegerischer Diagnose durch die Pflegefachperson die in den nach §
+    73d Absatz 1 Satz 1 Nummer 1 und § 112a Absatz 1 vereinbarten
+    Katalogen genannten Leistungen,
+
+
+2.  nach einer erstmaligen ärztlichen Verordnung die Verordnung der in dem
+    nach § 73d Absatz 1 Satz 1 Nummer 2 vereinbarten Katalog genannten
+    Leistungen der häuslichen Krankenpflege, einschließlich der Verordnung
+    der in diesem Katalog als für diese Leistungen benötigt genannten
+    Hilfsmittel nach § 33, und
+
+
+3.  bis zum Abschluss des Vertrags nach § 73d Absatz 1 Satz 1 die in
+    Anlage 1 des nach § 64d Absatz 1 Satz 4 geschlossenen Rahmenvertrags
+    genannten Leistungen der ärztlichen Behandlung.
+
+
+
+
+(2) Pflegefachpersonen nehmen im Rahmen der Leistungserbringung nach
+diesem Buch die Pflegeprozessverantwortung im Sinne des § 4 Absatz 1
+Satz 1 des Pflegeberufegesetzes wahr.
+
+(3) Pflegefachpersonen im Sinne dieses Buches sind Personen, die über
+eine Erlaubnis nach den §§ 1 oder 58 Absatz 1 oder 2 des
+Pflegeberufegesetzes oder § 64 des Pflegeberufegesetzes verfügen.
 
 
 #### § 16 Ruhen des Anspruchs
@@ -1579,7 +1665,7 @@ Tode des Mitglieds.
 
 
 #### § 20 Primäre Prävention und Gesundheitsförderung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010316377)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010317126)
 
 (1) Die Krankenkasse sieht in der Satzung Leistungen zur Verhinderung
 und Verminderung von Krankheitsrisiken (primäre Prävention) sowie zur
@@ -1682,19 +1768,31 @@ Prävention nach Absatz 4 Nummer 1 erbringen, wenn diese nach Absatz 2
 Satz 2 von einer Krankenkasse oder von einem mit der Wahrnehmung
 dieser Aufgabe beauftragten Dritten in ihrem Namen zertifiziert ist.
 Bei ihrer Entscheidung über eine Leistung zur verhaltensbezogenen
-Prävention berücksichtigt die Krankenkasse eine Präventionsempfehlung
-nach § 25 Absatz 1 Satz 2, nach § 26 Absatz 1 Satz 3 oder eine im
-Rahmen einer arbeitsmedizinischen Vorsorge oder einer sonstigen
-ärztlichen Untersuchung schriftlich abgegebene Empfehlung. Die
-Krankenkasse darf die sich aus der Präventionsempfehlung ergebenden
-personenbezogenen Daten nur mit schriftlicher oder elektronischer
-Einwilligung und nach vorheriger schriftlicher oder elektronischer
-Information des Versicherten verarbeiten. Die Krankenkassen dürfen
-ihre Aufgaben nach dieser Vorschrift an andere Krankenkassen, deren
-Verbände oder Arbeitsgemeinschaften übertragen. Für Leistungen zur
-verhaltensbezogenen Prävention, die die Krankenkasse wegen besonderer
-beruflicher oder familiärer Umstände wohnortfern erbringt, gilt § 23
-Absatz 2 Satz 2 entsprechend.
+Prävention berücksichtigen die Krankenkassen
+
+1.  eine Präventionsempfehlung nach § 25 Absatz 1 Satz 2 oder § 26 Absatz
+    1 Satz 3,
+
+
+2.  eine Präventionsempfehlung nach § 5 Absatz 1a Satz 3 Nummer 2 und Satz
+    5 und 6 des Elften Buches oder § 18b Absatz 2 Satz 1 des Elften Buches
+    oder
+
+
+3.  eine im Rahmen einer arbeitsmedizinischen Vorsorge oder einer
+    sonstigen ärztlichen Untersuchung schriftlich abgegebene Empfehlung.
+
+
+
+Die Krankenkasse darf die sich aus der Präventionsempfehlung
+ergebenden personenbezogenen Daten nur mit schriftlicher oder
+elektronischer Einwilligung und nach vorheriger schriftlicher oder
+elektronischer Information des Versicherten verarbeiten. Die
+Krankenkassen dürfen ihre Aufgaben nach dieser Vorschrift an andere
+Krankenkassen, deren Verbände oder Arbeitsgemeinschaften übertragen.
+Für Leistungen zur verhaltensbezogenen Prävention, die die
+Krankenkasse wegen besonderer beruflicher oder familiärer Umstände
+wohnortfern erbringt, gilt § 23 Absatz 2 Satz 2 entsprechend.
 
 (6) Die Ausgaben der Krankenkassen für die Wahrnehmung ihrer Aufgaben
 nach dieser Vorschrift und nach den §§ 20a bis 20c sollen ab dem Jahr
@@ -2876,7 +2974,7 @@ nicht weiterführen kann. § 38 Absatz 4 gilt entsprechend.
 
 
 #### § 24i Mutterschaftsgeld
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058906126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058907126)
 
 (1) Weibliche Mitglieder, die bei Arbeitsunfähigkeit Anspruch auf
 Krankengeld haben oder denen wegen der Schutzfristen nach § 3 des
@@ -2917,6 +3015,18 @@ des Arbeitsverhältnisses an gezahlt.
 Mitglied beitragspflichtiges Arbeitsentgelt, Arbeitseinkommen oder
 Urlaubsabgeltung erhält. Dies gilt nicht für einmalig gezahltes
 Arbeitsentgelt.
+
+(5) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen das
+Besteuerungsrecht für das Mutterschaftsgeld zusteht, sind für die
+Berechnung des Mutterschaftsgeldes nur die Beiträge zur
+Sozialversicherung als das durchschnittliche kalendertägliche
+Arbeitsentgelt nach Absatz 2 Satz 1 vermindernde gesetzliche Abzüge zu
+berücksichtigen. Unterliegt das Mutterschaftsgeld im
+Ansässigkeitsstaat nach dessen maßgebenden Vorschriften nicht der
+Steuer, sind alle gesetzlichen Abzüge nach Absatz 2 Satz 1 zu
+berücksichtigen.
 
 
 ### Vierter Abschnitt - Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten
@@ -3796,7 +3906,7 @@ enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz
 
 
 ##### § 31 Arznei- und Verbandmittel, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011451126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011452126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit apothekenpflichtigen
 Arzneimitteln, soweit die Arzneimittel nicht nach § 34 oder durch
@@ -3842,16 +3952,16 @@ stabilisieren, zu immobilisieren oder zu komprimieren. Das Nähere zur
 Abgrenzung von Verbandmitteln zu sonstigen Produkten zur
 Wundbehandlung regelt der Gemeinsame Bundesausschuss bis zum 31.
 August 2020 in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6;
-Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis 60
-Monate nach dem Wirksamwerden der Regelungen nach Satz 4 sind solche
-Gegenstände weiterhin zu Lasten der Krankenkassen zu erbringen, die
-vor dem Wirksamwerden der Regelungen nach Satz 4 erbracht wurden. Der
-Gemeinsame Bundesausschuss berät Hersteller von sonstigen Produkten
-zur Wundbehandlung im Rahmen eines Antragsverfahrens insbesondere zu
-konkreten Inhalten der vorzulegenden Unterlagen und Studien. § 34
-Absatz 6 gilt entsprechend. Für die Beratung sind Gebühren zu erheben.
-Das Nähere zur Beratung und zu den Gebühren regelt der Gemeinsame
-Bundesausschuss in seiner Verfahrensordnung.
+Absatz 1 Satz 2 gilt für diese sonstigen Produkte entsprechend. Bis
+zum 31. Dezember 2026 sind solche Gegenstände weiterhin zu Lasten der
+Krankenkassen zu erbringen, die vor dem Wirksamwerden der Regelungen
+nach Satz 4 erbracht wurden. Der Gemeinsame Bundesausschuss berät
+Hersteller von sonstigen Produkten zur Wundbehandlung im Rahmen eines
+Antragsverfahrens insbesondere zu konkreten Inhalten der vorzulegenden
+Unterlagen und Studien. § 34 Absatz 6 gilt entsprechend. Für die
+Beratung sind Gebühren zu erheben. Das Nähere zur Beratung und zu den
+Gebühren regelt der Gemeinsame Bundesausschuss in seiner
+Verfahrensordnung.
 
 (1b) Für Versicherte, die eine kontinuierliche Versorgung mit einem
 bestimmten Arzneimittel benötigen, können Vertragsärzte Verordnungen
@@ -4254,7 +4364,7 @@ vereinbart oder nach § 125b Absatz 2 festgesetzt worden sind.
 
 
 ##### § 33 Hilfsmittel
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011616126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011617126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit Hörhilfen,
 Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, die im
@@ -4345,9 +4455,12 @@ Hilfsmittel anpassen oder sich in seinem Gebrauch ausbilden lassen.
 (5a) Eine vertragsärztliche Verordnung ist für die Beantragung von
 Leistungen nach den Absätzen 1 bis 4 nur erforderlich, soweit eine
 erstmalige oder erneute ärztliche Diagnose oder Therapieentscheidung
-medizinisch geboten ist. Abweichend von Satz 1 können die
-Krankenkassen eine vertragsärztliche Verordnung als Voraussetzung für
-die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
+medizinisch geboten ist. Einer vertragsärztlichen Verordnung nach Satz
+1 bedarf es nicht, wenn eine Pflegefachperson die Leistung nach § 15a
+Absatz 1 Nummer 2 verordnet hat. Abweichend von Satz 1 können die
+Krankenkassen eine vertragsärztliche Verordnung oder eine Verordnung
+einer Pflegefachperson nach § 15a Absatz 1 Nummer 2 als Voraussetzung
+für die Kostenübernahme verlangen, soweit sie auf die Genehmigung der
 beantragten Hilfsmittelversorgung verzichtet haben. § 18b Absatz 3 und
 § 40 Absatz 6 des Elften Buches sind zu beachten.
 
@@ -5453,22 +5566,24 @@ erteilen.
 
 
 ##### § 37 Häusliche Krankenpflege
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012016126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012017126)
 
 (1) Versicherte erhalten in ihrem Haushalt, ihrer Familie oder sonst
-an einem geeigneten Ort, insbesondere in betreuten Wohnformen, Schulen
-und Kindergärten, bei besonders hohem Pflegebedarf auch in Werkstätten
-für behinderte Menschen neben der ärztlichen Behandlung häusliche
-Krankenpflege durch geeignete Pflegekräfte, wenn Krankenhausbehandlung
-geboten, aber nicht ausführbar ist, oder wenn sie durch die häusliche
-Krankenpflege vermieden oder verkürzt wird. § 10 der
-Werkstättenverordnung bleibt unberührt. Die häusliche Krankenpflege
-umfaßt die im Einzelfall erforderliche Grund- und Behandlungspflege
-sowie hauswirtschaftliche Versorgung. Der Anspruch besteht bis zu vier
-Wochen je Krankheitsfall. In begründeten Ausnahmefällen kann die
-Krankenkasse die häusliche Krankenpflege für einen längeren Zeitraum
-bewilligen, wenn der Medizinische Dienst (§ 275) festgestellt hat, daß
-dies aus den in Satz 1 genannten Gründen erforderlich ist.
+an einem geeigneten Ort, insbesondere in betreuten Wohnformen,
+gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen
+Versorgung gemäß § 92c des Elften Buches, Schulen und Kindergärten,
+bei besonders hohem Pflegebedarf auch in Werkstätten für behinderte
+Menschen neben der ärztlichen Behandlung häusliche Krankenpflege durch
+geeignete Pflegekräfte, wenn Krankenhausbehandlung geboten, aber nicht
+ausführbar ist, oder wenn sie durch die häusliche Krankenpflege
+vermieden oder verkürzt wird. § 10 der Werkstättenverordnung bleibt
+unberührt. Die häusliche Krankenpflege umfaßt die im Einzelfall
+erforderliche Grund- und Behandlungspflege sowie hauswirtschaftliche
+Versorgung. Der Anspruch besteht bis zu vier Wochen je Krankheitsfall.
+In begründeten Ausnahmefällen kann die Krankenkasse die häusliche
+Krankenpflege für einen längeren Zeitraum bewilligen, wenn der
+Medizinische Dienst (§ 275) festgestellt hat, daß dies aus den in Satz
+1 genannten Gründen erforderlich ist.
 
 (1a) Versicherte erhalten an geeigneten Orten im Sinne von Absatz 1
 Satz 1 wegen schwerer Krankheit oder wegen akuter Verschlimmerung
@@ -5514,15 +5629,20 @@ Krankenkassen. Das Nähere zum Umlageverfahren und zur Zahlung an die
 Pflegeversicherung bestimmt der Spitzenverband Bund der Krankenkassen.
 
 (2b) Die häusliche Krankenpflege nach den Absätzen 1 und 2 umfasst
-auch die ambulante Palliativversorgung. Für Leistungen der ambulanten
-Palliativversorgung ist regelmäßig ein begründeter Ausnahmefall im
-Sinne von Absatz 1 Satz 5 anzunehmen. § 37b Absatz 4 gilt für die
-häusliche Krankenpflege zur ambulanten Palliativversorgung
-entsprechend.
+auch die ambulante Palliativversorgung sowie die nach § 15a Absatz 1
+Nummer 1 und 3 von Pflegefachpersonen erbrachten Leistungen. Für
+Leistungen der ambulanten Palliativversorgung ist regelmäßig ein
+begründeter Ausnahmefall im Sinne von Absatz 1 Satz 5 anzunehmen. §
+37b Absatz 4 gilt für die häusliche Krankenpflege zur ambulanten
+Palliativversorgung entsprechend.
 
 (3) Der Anspruch auf häusliche Krankenpflege besteht nur, soweit eine
 im Haushalt lebende Person den Kranken in dem erforderlichen Umfang
 nicht pflegen und versorgen kann.
+
+(3a) Ein Anspruch auf häusliche Krankenpflege besteht nicht für
+Versicherte, für die die Pflegekassen nach § 146a des Elften Buches
+die pflegebedingten Aufwendungen übernehmen.
 
 (4) Kann die Krankenkasse keine Kraft für die häusliche Krankenpflege
 stellen oder besteht Grund, davon abzusehen, sind den Versicherten die
@@ -5550,7 +5670,7 @@ Häuslichkeit von Versicherten erfolgen.
 Verordnung häuslicher Krankenpflege nach § 92 Absatz 1 Satz 2 Nummer 6
 bis zum 31. Juli 2022 Rahmenvorgaben zu einzelnen nach dem
 Leistungsverzeichnis der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6
-verordnungsfähigen Maßnahmen, bei denen Pflegefachkräfte, die die in
+verordnungsfähigen Maßnahmen, bei denen Pflegefachpersonen, die die in
 den Rahmenempfehlungen nach § 132a Absatz 1 Satz 4 Nummer 7 geregelten
 Anforderungen erfüllen, innerhalb eines vertragsärztlich
 festgestellten Verordnungsrahmens selbst über die erforderliche
@@ -5693,14 +5813,14 @@ Palliativversorgung.
 
 
 ##### § 37c Außerklinische Intensivpflege
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084900126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084901126)
 
 (1) Versicherte mit einem besonders hohen Bedarf an medizinischer
 Behandlungspflege haben Anspruch auf außerklinische Intensivpflege.
 Ein besonders hoher Bedarf an medizinischer Behandlungspflege liegt
-vor, wenn die ständige Anwesenheit einer geeigneten Pflegefachkraft
+vor, wenn die ständige Anwesenheit einer geeigneten Pflegefachperson
 zur individuellen Kontrolle und Einsatzbereitschaft oder ein
-vergleichbar intensiver Einsatz einer Pflegefachkraft erforderlich
+vergleichbar intensiver Einsatz einer Pflegefachperson erforderlich
 ist. Der Anspruch auf außerklinische Intensivpflege umfasst die
 medizinische Behandlungspflege, die zur Sicherung des Ziels der
 ärztlichen Behandlung erforderlich ist, sowie eine Beratung durch die
@@ -5820,9 +5940,9 @@ ihrer Satzung bestimmen, dass die Leistungen nach Satz 1 unter den in
 Satz 2 genannten Voraussetzungen auch über den in Satz 2 genannten
 Zeitraum hinaus weitergewährt werden.
 
-(4) Kann die Krankenkasse keine qualifizierte Pflegefachkraft für die
+(4) Kann die Krankenkasse keine qualifizierte Pflegefachperson für die
 außerklinische Intensivpflege stellen, sind dem Versicherten die
-Kosten für eine selbstbeschaffte Pflegefachkraft in angemessener Höhe
+Kosten für eine selbstbeschaffte Pflegefachperson in angemessener Höhe
 zu erstatten. Die Möglichkeit der Leistungserbringung im Rahmen eines
 persönlichen Budgets nach § 2 Absatz 2 Satz 2, § 11 Absatz 1 Nummer 5
 des Fünften Buches in Verbindung mit § 29 des Neunten Buches bleibt
@@ -6027,7 +6147,7 @@ sind auf die Zahlung nach Satz 1 anzurechnen.
 
 
 ##### § 39a Stationäre und ambulante Hospizleistungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043307126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043308126)
 
 (1) Versicherte, die keiner Krankenhausbehandlung bedürfen, haben im
 Rahmen der Verträge nach Satz 4 Anspruch auf einen Zuschuß zu
@@ -6080,12 +6200,12 @@ Förderung ist außerdem, dass der ambulante Hospizdienst
     zusammenarbeitet sowie
 
 
-2.  unter der fachlichen Verantwortung einer Krankenschwester, eines
-    Krankenpflegers oder einer anderen fachlich qualifizierten Person
-    steht, die über mehrjährige Erfahrung in der palliativ-medizinischen
-    Pflege oder über eine entsprechende Weiterbildung verfügt und eine
-    Weiterbildung als verantwortliche Pflegefachkraft oder in
-    Leitungsfunktionen nachweisen kann.
+2.  unter der fachlichen Verantwortung einer Pflegefachperson oder einer
+    anderen fachlich qualifizierten Person steht, die über mehrjährige
+    Erfahrung in der palliativ-medizinischen Pflege oder über eine
+    entsprechende Weiterbildung verfügt und eine Weiterbildung als
+    verantwortliche Pflegefachperson oder in Leitungsfunktionen nachweisen
+    kann.
 
 
 
@@ -6686,7 +6806,7 @@ Ersten Buches genannten Stellen übertragen.
 
 
 ##### § 44a Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058001119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058002126)
 
 Spender von Organen, Geweben oder Blut zur Separation von
 Blutstammzellen oder anderen Blutbestandteilen nach § 27 Absatz 1a
@@ -6701,10 +6821,10 @@ das ausgefallene Arbeitseinkommen im Sinne von Satz 2 aus demjenigen
 Arbeitseinkommen zu berechnen, das der Beitragsbemessung für die
 letzten zwölf Kalendermonate vor Beginn der Arbeitsunfähigkeit im
 Hinblick auf die Spende zugrunde gelegen hat. § 44 Absatz 3, § 47
-Absatz 2 bis 4, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche
-nach § 44 sind gegenüber Ansprüchen nach dieser Vorschrift
-ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch nicht
-gesetzlich krankenversicherte Personen.
+Absatz 2 bis 5, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche
+nach § 44 Absatz 1 und 4 sind gegenüber Ansprüchen nach dieser
+Vorschrift ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch
+nicht gesetzlich krankenversicherte Personen.
 
 
 ##### § 44b Krankengeld für eine bei stationärer Behandlung mitaufgenommene Begleitperson aus dem engsten persönlichen Umfeld
@@ -6779,7 +6899,7 @@ nicht Versicherte mit Anspruch auf Krankengeld nach Absatz 1 sind.
 
 
 ##### § 45 Krankengeld bei Erkrankung des Kindes
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012817126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012818126)
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn es nach
 ärztlichem Zeugnis erforderlich ist, daß sie zur Beaufsichtigung,
@@ -6824,15 +6944,14 @@ Arbeitsentgelt; es darf 70 Prozent der Beitragsbemessungsgrenze nach §
 Krankengeldes nach Absatz 1 oder Absatz 1a aus Arbeitseinkommen,
 beträgt dies 70 Prozent des erzielten regelmäßigen Arbeitseinkommens,
 soweit es der Beitragsberechnung unterliegt. § 47 Absatz 1 Satz 6 bis
-8, Absatz 4 Satz 3 bis 5 und § 47b gelten entsprechend.
+8, Absatz 4 Satz 3 bis 5, Absatz 5 und § 47b gelten entsprechend.
 
 (2a) Abweichend von Absatz 2 Satz 1 besteht der Anspruch auf
-Krankengeld nach Absatz 1 jeweils in dem Kalenderjahr 2024 und in dem
-Kalenderjahr 2025 für jedes Kind längstens für 15 Arbeitstage, für
-alleinerziehende Versicherte längstens für 30 Arbeitstage. Der
-Anspruch nach Satz 1 besteht für Versicherte für nicht mehr als 35
-Arbeitstage, für alleinerziehende Versicherte für nicht mehr als 70
-Arbeitstage.
+Krankengeld nach Absatz 1 in dem Kalenderjahr 2026 für jedes Kind
+längstens für 15 Arbeitstage, für alleinerziehende Versicherte
+längstens für 30 Arbeitstage. Der Anspruch nach Satz 1 besteht für
+Versicherte für nicht mehr als 35 Arbeitstage, für alleinerziehende
+Versicherte für nicht mehr als 70 Arbeitstage.
 
 (2b) (weggefallen)
 
@@ -6916,7 +7035,7 @@ Tarif nach § 53 Abs. 6 gewählt hat.
 
 
 ##### § 47 Höhe und Berechnung des Krankengeldes
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013020126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013022126)
 
 (1) Das Krankengeld beträgt 70 vom Hundert des erzielten regelmäßigen
 Arbeitsentgelts und Arbeitseinkommens, soweit es der
@@ -6992,7 +7111,15 @@ Künstlersozialversicherungsgesetz nicht bestand oder für die nach §
 234 Absatz 1 Satz 2 Arbeitseinkommen nicht zugrunde zu legen ist. Die
 Beträge nach § 226 Abs. 1 Satz 1 Nr. 2 und 3 bleiben außer Betracht.
 
-(5) (weggefallen)
+(5) Bei Personen, die nach einem Abkommen zur Vermeidung der
+Doppelbesteuerung nicht in der Bundesrepublik Deutschland ansässig
+sind und deren Ansässigkeitsstaat nach diesem Abkommen das
+Besteuerungsrecht für das Krankengeld zusteht, ist zur Berechnung des
+Krankengeldes anstelle des Nettoarbeitsentgelts nach Absatz 1 das
+Regelentgelt abzüglich der Beiträge zur Sozialversicherung zugrunde zu
+legen. Unterliegt das Krankengeld im Ansässigkeitsstaat nach dessen
+maßgebenden Vorschriften nicht der Steuer, ist entsprechend Absatz 1
+das Nettoarbeitsentgelt zugrunde zu legen.
 
 (6) Das Regelentgelt wird bis zur Höhe des Betrages der
 kalendertäglichen Beitragsbemessungsgrenze berücksichtigt.
@@ -7926,7 +8053,7 @@ enthalten.
 
 
 #### § 63 Grundsätze
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014617126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014618126)
 
 (1) Die Krankenkassen und ihre Verbände können im Rahmen ihrer
 gesetzlichen Aufgabenstellung zur Verbesserung der Qualität und der
@@ -7974,41 +8101,11 @@ des Versicherten hat sich auf Zweck, Inhalt, Art, Umfang und Dauer der
 Verarbeitung seiner personenbezogenen Daten sowie die daran
 Beteiligten zu erstrecken.
 
-(3b) Modellvorhaben nach Absatz 1 können vorsehen, dass Angehörige der
-im Pflegeberufegesetz, im Krankenpflegegesetz und im Altenpflegegesetz
-geregelten Berufe
+(3b) Modellvorhaben nach den Absätzen 3b oder 3c in der bis zum 29.
+Dezember 2025 geltenden Fassung, die bis zum 29. Dezember 2025
+begonnen wurden, können weitergeführt werden.
 
-1.  die Verordnung von Verbandsmitteln und Pflegehilfsmitteln sowie
-
-
-2.  die inhaltliche Ausgestaltung der häuslichen Krankenpflege
-    einschließlich deren Dauer
-
-
-
-vornehmen, soweit diese auf Grund ihrer Ausbildung qualifiziert sind
-und es sich bei der Tätigkeit nicht um selbständige Ausübung von
-Heilkunde handelt.
-
-(3c) Modellvorhaben nach Absatz 1 können eine Übertragung der
-ärztlichen Tätigkeiten, bei denen es sich um selbstständige Ausübung
-von Heilkunde handelt und für die die Angehörigen des im
-Pflegeberufegesetz geregelten Berufs auf Grundlage einer Ausbildung
-nach § 14 des Pflegeberufegesetzes qualifiziert sind, auf diese
-vorsehen. Die Krankenkassen und ihre Verbände sollen entsprechende
-Vorhaben spätestens bis zum Ablauf des 31. Dezember 2020 vereinbaren
-oder durchführen. Der Gemeinsame Bundesausschuss legt in Richtlinien
-fest, bei welchen Tätigkeiten eine Übertragung von Heilkunde auf die
-Angehörigen des in Satz 1 genannten Berufs im Rahmen von
-Modellvorhaben erfolgen kann. Vor der Entscheidung des Gemeinsamen
-Bundesausschusses ist der Bundesärztekammer sowie den maßgeblichen
-Verbänden der Pflegeberufe Gelegenheit zur Stellungnahme zu geben. Die
-Stellungnahmen sind in die Entscheidungen einzubeziehen. Durch den
-Gemeinsamen Bundesausschuss nach den Sätzen 2 bis 4 festgelegte
-Richtlinien gelten für die Angehörigen des in Satz 1 geregelten Berufs
-fort.
-
-(3d) Die Anwendung von Heilmitteln, die nach der Richtlinie des
+(3c) Die Anwendung von Heilmitteln, die nach der Richtlinie des
 Gemeinsamen Bundesausschusses gemäß § 92 Absatz 1 Satz 2 Nummer 6 zur
 Behandlung krankheitsbedingter Schädigungen nur verordnungsfähig sind,
 wenn die Schädigungen auf Grund bestimmter Grunderkrankungen
@@ -8246,37 +8343,43 @@ Vereinigungen aus wissenschaftlichen Gründen nicht erforderlich ist.
 
 
 #### § 64d Verpflichtende Durchführung von Modellvorhaben zur Übertragung ärztlicher Tätigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE086901126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE086902126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen führen
-gemeinsam in jedem Bundesland mindestens ein Modellvorhaben nach § 63
-zur Übertragung von ärztlichen Tätigkeiten, bei denen es sich um
-selbstständige Ausübung von Heilkunde handelt, auf Pflegefachkräfte
-mit einer Zusatzqualifikation nach § 14 des Pflegeberufegesetzes im
-Wege der Vereinbarung nach Maßgabe des Rahmenvertrages nach Satz 4
-durch. In den Modellvorhaben sind auch Standards für die
-interprofessionelle Zusammenarbeit zu entwickeln. Die Vorhaben
-beginnen spätestens am 1. Januar 2023. Die Spitzenorganisationen nach
-§ 132a Absatz 1 Satz 1 und die Kassenärztliche Bundesvereinigung legen
-in einem Rahmenvertrag die Einzelheiten bis zum 31. März 2022 fest.
-Bis zum 31. Dezember 2022 sind in dem Rahmenvertrag nach Satz 4 unter
+gemeinsam in jedem Land mindestens ein Modellvorhaben nach § 63 Absatz
+3c in der bis zum 29. Dezember 2025 geltenden Fassung zur Übertragung
+von ärztlichen Tätigkeiten, bei denen es sich um selbstständige
+Ausübung von Heilkunde handelt, auf Pflegefachpersonen mit einer
+Zusatzqualifikation nach § 14 des Pflegeberufegesetzes im Wege der
+Vereinbarung nach Maßgabe des Rahmenvertrags nach Satz 4 durch. In den
+Modellvorhaben sind auch Standards für die interprofessionelle
+Zusammenarbeit zu entwickeln. Die Vorhaben beginnen spätestens am 1.
+Januar 2023. Der Spitzenverband Bund der Krankenkassen, die für die
+Wahrnehmung der Interessen von Pflegediensten maßgeblichen
+Spitzenorganisationen auf Bundesebene und die Kassenärztliche
+Bundesvereinigung legen in einem Rahmenvertrag die Einzelheiten bis
+zum 31. März 2022 fest. In dem Rahmenvertrag nach Satz 4 sind unter
 vertraglicher Beteiligung der Vereinigungen der Träger von
 Pflegeheimen Regelungen für eine Durchführung von Modellvorhaben nach
 Satz 1 in Pflegeheimen im Sinne des § 71 Absatz 2 des Elften Buches zu
-treffen, die eine Teilnahme von Pflegeheimen an Modellvorhaben
-spätestens ab dem 1. April 2023 ermöglichen. Der Bundespflegekammer
-und den Verbänden der Pflegeberufe auf Bundesebene und der
-Bundesärztekammer ist vor Abschluss des Rahmenvertrages Gelegenheit
-zur Stellungnahme zu geben.
+treffen. Bis zum 30. September 2026 ist der Rahmenvertrag unter
+Berücksichtigung des Ergebnisses der Prüfung nach § 73d Absatz 1 Satz
+4 so anzupassen, dass die in Anlage 1 des Rahmenvertrags genannten
+Leistungen der ärztlichen Behandlung durch Pflegefachpersonen auch in
+der Regelversorgung erbracht werden können. Den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches und der Bundesärztekammer ist vor
+Abschluss oder Änderung des Rahmenvertrags Gelegenheit zur
+Stellungnahme zu geben.
 
 (2) In dem Rahmenvertrag nach Absatz 1 Satz 4 und 5 ist insbesondere
 folgendes festzulegen:
 
-1.  ein Katalog der ärztlichen Tätigkeiten, die von Pflegefachkräften nach
-    Absatz 1 Satz 1 unter Berücksichtigung der von der Fachkommission nach
-    § 53 des Pflegeberufegesetzes entwickelten, standardisierten Module
-    nach § 14 Absatz 4 des Pflegeberufegesetzes selbständig durchgeführt
-    werden können,
+1.  ein Katalog der ärztlichen Tätigkeiten, die von Pflegefachpersonen
+    nach Absatz 1 Satz 1 unter Berücksichtigung der von der Fachkommission
+    nach § 53 des Pflegeberufegesetzes entwickelten, standardisierten
+    Module nach § 14 Absatz 4 des Pflegeberufegesetzes selbständig
+    durchgeführt werden können,
 
 
 2.  Vereinbarungen zur ausgewogenen Berücksichtigung aller
@@ -9845,10 +9948,10 @@ der Krankenkassen.
 
 
 #### § 65d Förderung besonderer Therapieeinrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065902126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065903126)
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar
-2017 bis zum 31. Dezember 2025 mit insgesamt fünf Millionen Euro je
+2017 bis zum 31. Dezember 2027 mit insgesamt fünf Millionen Euro je
 Kalenderjahr im Rahmen von Modellvorhaben Leistungserbringer, die
 Patienten mit pädophilen Sexualstörungen behandeln. Förderungsfähig
 sind an der vertragsärztlichen Versorgung teilnehmende
@@ -10321,15 +10424,15 @@ Absatzes durch seine Mitglieder.
 
 
 #### § 70 Qualität, Humanität und Wirtschaftlichkeit
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015301308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015302126)
 
 (1) Die Krankenkassen und die Leistungserbringer haben eine
 bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der
-medizinischen Erkenntnisse entsprechende Versorgung der Versicherten
-zu gewährleisten. Die Versorgung der Versicherten muß ausreichend und
-zweckmäßig sein, darf das Maß des Notwendigen nicht überschreiten und
-muß in der fachlich gebotenen Qualität sowie wirtschaftlich erbracht
-werden.
+medizinischen und pflegewissenschaftlichen Erkenntnisse entsprechende
+Versorgung der Versicherten zu gewährleisten. Die Versorgung der
+Versicherten muß ausreichend und zweckmäßig sein, darf das Maß des
+Notwendigen nicht überschreiten und muß in der fachlich gebotenen
+Qualität sowie wirtschaftlich erbracht werden.
 
 (2) Die Krankenkassen und die Leistungserbringer haben durch geeignete
 Maßnahmen auf eine humane Krankenbehandlung ihrer Versicherten
@@ -10513,7 +10616,7 @@ Krankenkassen mitzuteilen.
 
 
 ##### § 73 Kassenärztliche Versorgung, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015648126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015649126)
 
 (1) Die vertragsärztliche Versorgung gliedert sich in die
 hausärztliche und die fachärztliche Versorgung. Die hausärztliche
@@ -10805,6 +10908,16 @@ Kassenärztlichen Bundesvereinigung für die vertragsärztliche
 Versorgung zugelassen sind. Das Nähere ist in den Verträgen nach § 82
 Absatz 1 zu vereinbaren.
 
+(10a) Vertragsärzte dürfen für die elektronische Verordnung von
+Leistungen zur medizinischen Rehabilitation, von Hilfsmitteln,
+häuslicher Krankenpflege und außerklinischer Intensivpflege,
+Soziotherapie sowie spezialisierter ambulanter Palliativversorgung nur
+solche elektronischen Programme nutzen, die von der Kassenärztlichen
+Bundesvereinigung für die vertragsärztliche Versorgung zugelassen
+sind. Das Nähere zu den fachlichen Anforderungen an die elektronischen
+Programme einschließlich Umsetzungsfristen kann in den Verträgen nach
+§ 82 Absatz 1 vereinbart werden.
+
 (11) Stellt ein Vertragsarzt bei einem Versicherten eine Diagnose nach
 § 125a und die Indikation für ein Heilmittel, sind Auswahl und Dauer
 der Therapie sowie die Frequenz der Behandlungseinheiten vom
@@ -11033,9 +11146,127 @@ Anhaltspunkte für eine Gefährdung ihres Wohls feststellen. Satz 1 gilt
 nicht für Kassenzahnärztliche Vereinigungen und Zahnärzte.
 
 
-##### § 73d (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052102308)
+##### § 73d Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der vertragsärztlichen Versorgung; eigenverantwortliche Verordnung häuslicher Krankenpflege durch Pflegefachpersonen, Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052103126)
 
+(1) Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der
+Krankenkassen, die für die Wahrnehmung der Interessen von
+Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene und
+die Vereinigungen der Träger von Pflegeheimen im Sinne des § 71 Absatz
+2 des Elften Buches vereinbaren bis zum 31. Dezember 2026 in einem
+Vertrag
+
+1.  einen Katalog an Leistungen der ärztlichen Behandlung, die
+    Pflegefachpersonen nach § 15a Absatz 1 Nummer 1 eigenverantwortlich
+    erbringen können,
+
+
+2.  einen Katalog an Leistungen im Rahmen der häuslichen Krankenpflege
+    nach § 37, einschließlich der für diese Leistungen benötigten
+    Hilfsmittel nach § 33, die Pflegefachpersonen jeweils nach § 15a
+    Absatz 1 Nummer 2 eigenverantwortlich verordnen können, sowie das
+    Nähere zum Verfahren und zu der Ausgestaltung der Verordnungen,
+
+
+3.  Rahmenvorgaben zur interprofessionellen Zusammenarbeit zwischen
+    Pflegefachpersonen und Ärzten bei der Erbringung der nach den Nummern
+    1 und 2 vereinbarten Leistungen.
+
+
+
+In dem Vertrag sind auch Vorgaben dazu zu vereinbaren, welche in dem
+nach Satz 1 Nummer 1 vereinbarten Katalog genannten Leistungen nach
+einer ärztlichen Diagnose und Indikationsstellung und welche dieser
+Leistungen nach einer pflegerischen Diagnose erbracht werden können.
+Diese Vorgaben können in Bezug auf einzelne Leistungen, je nachdem in
+welchem Versorgungsbereich sie erbracht werden, voneinander abweichen.
+Bis zum 31. Juli 2026 haben die in Satz 1 genannten Vertragspartner zu
+prüfen, ob Anpassungen des nach
+§ 64d Absatz 1 Satz 4 geschlossenen Rahmenvertrags erforderlich sind,
+damit die in Anlage 1 des Rahmenvertrags genannten Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen auch in der
+Regelversorgung erbracht werden können.
+
+(2) Die in Absatz 1 Satz 1 genannten Vertragspartner haben unter
+Beachtung der Vorgaben von § 15a Absatz 1 in dem Vertrag nach Absatz 1
+Satz 1 auch festzulegen, auf der Grundlage welcher Kompetenzen
+Pflegefachpersonen die nach Absatz 1 Satz 1 Nummer 1 und 2
+vereinbarten Leistungen und Hilfsmittel jeweils eigenverantwortlich
+erbringen oder verordnen können. Pflegefachpersonen können die nach
+Absatz 1 Satz 1 Nummer 1 und 2 vereinbarten Leistungen und Hilfsmittel
+bei an der vertragsärztlichen Versorgung teilnehmenden
+Leistungserbringern und bei den Leistungserbringern erbringen oder
+verordnen, mit denen Verträge nach § 132a Absatz 4 Satz 1
+abgeschlossen werden. Den maßgeblichen Organisationen der Pflegeberufe
+auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches,
+der Bundesärztekammer und der Deutschen Krankenhausgesellschaft ist
+vor Abschluss des Vertrags Gelegenheit zur Stellungnahme zu geben; sie
+haben das Recht, an den Sitzungen der in Absatz 1 Satz 1 genannten
+Vertragspartner teilzunehmen. Die Stellungnahmen sind beim
+Entscheidungsprozess der in Absatz 1 Satz 1 genannten Vertragspartner
+zu berücksichtigen. Wissenschaftliche Expertisen, die nach § 8 Absatz
+3c Satz 1 des Elften Buches gefördert wurden, sollen bei der
+Vereinbarung der Leistungen und Hilfsmittel nach Absatz 1 Satz 1
+Nummer 1 und 2 berücksichtigt werden.
+
+(3) Kommt der Vertrag nach Absatz 1 Satz 1 nicht innerhalb der in
+Absatz 1 Satz 1 genannten Frist zustande, wird der Inhalt des Vertrags
+auf Antrag eines der in Absatz 1 Satz 1 genannten Vertragspartner oder
+des Bundesministeriums für Gesundheit durch eine von den in Absatz 1
+Satz 1 genannten Vertragspartnern innerhalb eines Monats nach
+Antragstellung zu bestimmende unabhängige Schiedsperson innerhalb von
+drei Monaten nach ihrer Bestimmung festgelegt. Einigen sich die
+Vertragspartner nicht fristgerecht auf eine Schiedsperson, so wird
+diese vom Bundesamt für Soziale Sicherung bestimmt. Die Kosten des
+Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
+Klagen gegen die Bestimmung der Schiedsperson haben keine
+aufschiebende Wirkung. Ein Vorverfahren findet nicht statt. Klagen
+gegen die Festlegung des Vertragsinhalts sind gegen den
+Vertragspartner zu richten. Der von der Schiedsperson festgelegte
+Vertragsinhalt gilt bis zur gerichtlichen Feststellung der
+Unbilligkeit weiter.
+
+(4) Die in Absatz 1 Satz 1 genannten Vertragspartner evaluieren die
+Auswirkungen der eigenverantwortlichen Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen in der
+vertragsärztlichen Versorgung und durch Pflegefachpersonen, die in
+ambulanten und stationären Pflegeeinrichtungen beschäftigt sind, im
+Hinblick auf die Qualität und Wirtschaftlichkeit der Versorgung. Die
+Evaluation erfolgt im Einvernehmen mit dem Bundesministerium für
+Gesundheit. Das Bundesministerium für Gesundheit beteiligt das
+Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.
+Die in Absatz 1 Satz 1 genannten Vertragspartner legen dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2029 einen
+Bericht über das Ergebnis der Evaluation vor.
+
+(5) Das Bundesministerium für Gesundheit evaluiert unter Beteiligung
+des Bundesministeriums für Bildung, Familie, Senioren, Frauen und
+Jugend die Entwicklung und Umsetzung der eigenverantwortlichen
+Erbringung von Leistungen der ärztlichen Behandlung durch
+Pflegefachpersonen in der Versorgung, auch in Krankenhäusern und in
+Vorsorge- und Rehabilitationseinrichtungen sowie in
+Pflegeeinrichtungen, soweit die eigenverantwortliche Erbringung dieser
+Leistungen nicht bereits Gegenstand der Evaluation nach Absatz 4 oder
+der Evaluation nach § 112a Absatz 4 war. Die Ergebnisse der
+Evaluationen nach Absatz 4 und § 112a Absatz 4 sind zu
+berücksichtigen. Nach Abschluss der Evaluation nach Satz 1 prüft das
+Bundesministerium für Gesundheit unter Beteiligung des
+Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend
+sowie der maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
+im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches, ob und
+inwieweit die Vorgaben für die Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen in der Versorgung
+umgesetzt wurden und ob die bestehenden leistungsrechtlichen
+Regelungen zur eigenverantwortlichen Erbringung von Leistungen der
+ärztlichen Behandlung durch Pflegefachpersonen angepasst werden müssen
+oder erweitert werden können. Bei der Prüfung sind wissenschaftliche
+Expertisen, die nach § 8 Absatz 3c Satz 1 des Elften Buches gefördert
+wurden, zu berücksichtigen. Das Bundesministerium für Gesundheit
+berichtet den gesetzgebenden Körperschaften des Bundes unter
+Beteiligung des Bundesministeriums für Bildung, Familie, Senioren,
+Frauen und Jugend ein Jahr nachdem ihm beide Berichte nach Absatz 4
+und § 112a Absatz 4 vorgelegt wurden, über das Ergebnis dieser
+Prüfung.
 
 
 ##### § 74 Stufenweise Wiedereingliederung
@@ -12346,7 +12577,7 @@ stellvertretenden Vorsitzenden endet mit der Abberufung.
 
 
 ##### § 81 Satzung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016409126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016410126)
 
 (1) Die Satzung muss insbesondere Bestimmungen enthalten über
 
@@ -12422,6 +12653,13 @@ Anordnung des Ruhens der Zulassung oder der vertragsärztlichen
 Beteiligung bis zu zwei Jahren. Das Höchstmaß der Geldbußen kann bis
 zu fünfzigtausend Euro betragen. Ein Vorverfahren (§ 78 des
 Sozialgerichtsgesetzes) findet nicht statt.
+
+(6) Die Satzungen der Kassenärztlichen Vereinigungen sollen
+Bestimmungen über die Sicherstellung des Notdienstes enthalten. Sofern
+dies zum Zwecke der Sicherstellung des Notdienstes in einer Region
+erforderlich ist, können die Kassenärztlichen Vereinigungen die
+Gewährung von Sicherstellungspauschalen an die teilnehmenden Ärzte
+festlegen.
 
 
 ##### § 81a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
@@ -13012,7 +13250,7 @@ Telematikinfrastruktur für die Übermittlung der elektronischen
 
 
 ##### § 87 Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017067126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017068126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem
 Spitzenverband Bund der Krankenkassen durch Bewertungsausschüsse als
@@ -13231,7 +13469,12 @@ einem bestimmten Zeitraum erbracht werden, insgesamt so festgelegt
 werden, dass die Punkte, die im einheitlichen Bewertungsmaßstab für
 diese Leistungen vergeben werden, ab einem bestimmten Schwellenwert
 mit zunehmender Menge sinken. Die Bewertung der Sachkosten kann
-abweichend von Satz 1 in Eurobeträgen bestimmt werden.
+abweichend von Satz 1 in Eurobeträgen bestimmt werden. Die
+Bewertungsmaßstäbe sind regelmäßig daraufhin zu überprüfen, ob sie den
+besonderen Erfordernissen der Versorgung von behinderten Menschen
+angemessen Rechnung tragen und, soweit erforderlich, anzupassen; die
+Anpassung ist zum Zeitpunkt der Anpassung punktsummenneutral
+umzusetzen.
 
 (2a) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
 aufgeführten Leistungen sind entsprechend der in § 73 Abs. 1
@@ -13274,14 +13517,15 @@ Kooperationsvereinbarungen zum Kinder- und Jugendschutz nach § 73c
 angemessen vergütet werden kann; auf dieser Grundlage ist eine
 Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche
 Leistungen zu beschließen. In die Überprüfung nach Absatz 2 Satz 2 ist
-auch einzubeziehen, in welchem Umfang delegationsfähige Leistungen
-durch Personen nach § 28 Absatz 1 Satz 2 qualifiziert erbracht und
+auch einzubeziehen, in welchem Umfang nach § 28 Absatz 1 Satz 2
+delegationsfähige Leistungen und nach § 73d Absatz 1 Satz 1 Nummer 1
+vereinbarte Leistungen durch andere Personen qualifiziert erbracht und
 angemessen vergütet werden können; auf dieser Grundlage ist eine
 Anpassung des einheitlichen Bewertungsmaßstabes für ärztliche
 Leistungen unter Berücksichtigung der unterschiedlichen
-Versorgungsstrukturen bis zum 23. Januar 2016 zu beschließen. Nach
-Inkrafttreten der Bestimmungen nach § 27b Absatz 2 Satz 2 ist im
-einheitlichen Bewertungsmaßstab für ärztliche Leistungen durch den
+Versorgungsstrukturen zu beschließen. Nach Inkrafttreten der
+Bestimmungen nach § 27b Absatz 2 Satz 2 ist im einheitlichen
+Bewertungsmaßstab für ärztliche Leistungen durch den
 Bewertungsausschuss gemäß Absatz 5a eine Regelung zu treffen, nach der
 Leistungen und Kosten im Rahmen der Einholung der Zweitmeinungen nach
 § 27b abgerechnet werden können. Sofern drei Monate nach Inkrafttreten
@@ -15875,7 +16119,7 @@ der Bundesmantelverträge.
 
 
 ##### § 92a Innovationsfonds, Grundlagen der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041410126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041411126)
 
 (1) Der Gemeinsame Bundesausschuss fördert neue Versorgungsformen, die
 über die bisherige Regelversorgung hinausgehen. Gefördert werden
@@ -15949,46 +16193,54 @@ Leitlinien, für die in der Versorgung besonderer Bedarf besteht,
 eingesetzt werden.
 
 (3) Die Fördersumme für neue Versorgungsformen und
-Versorgungsforschung nach den Absätzen 1 und 2 beträgt jährlich 200
-Millionen Euro. Sie umfasst auch die für die Verwaltung der Mittel und
-die Durchführung der Förderung einschließlich der wissenschaftlichen
+Versorgungsforschung nach den Absätzen 1 und 2 beträgt im Jahr
+2026 100 Millionen Euro und ab dem Jahr 2027 jährlich 200 Millionen
+Euro. Sie umfasst auch die für die Verwaltung der Mittel und die
+Durchführung der Förderung einschließlich der wissenschaftlichen
 Auswertung nach Absatz 5 notwendigen Aufwendungen. Von der Fördersumme
 sollen 80 Prozent für die Förderung nach Absatz 1 und 20 Prozent für
-die Förderung nach Absatz 2 verwendet werden, wobei 20 Millionen Euro
-jährlich für neue Versorgungsformen mit kurzer Laufzeit und mindestens
-5 Millionen Euro jährlich für die in Absatz 2 Satz 4 genannte
-Entwicklung oder Weiterentwicklung ausgewählter medizinischer
-Leitlinien, für die in der Versorgung besonderer Bedarf besteht,
-aufgewendet werden sollen. Mittel, die im jeweiligen Haushaltsjahr
-nicht bewilligt wurden, und bewilligte Mittel für beendete Vorhaben,
-die nicht zur Auszahlung gelangt sind, werden jeweils in das folgende
-Haushaltsjahr übertragen. Die Laufzeit eines im Rahmen des einstufigen
-Verfahrens mit langer Laufzeit oder des zweistufigen Verfahrens nach
-Absatz 1 Satz 8 geförderten Vorhabens und eines nach Absatz 2
-geförderten Vorhabens kann bis zu vier Jahre betragen, wobei die
-Konzeptentwicklung im Rahmen der ersten Stufe der Förderung im
-zweistufigen Verfahren nicht zur Laufzeit eines Vorhabens zählt. Die
-Laufzeit eines im einstufigen Verfahren für neue Versorgungsformen mit
-kurzer Laufzeit geförderten Vorhabens kann bis zu zwei Jahre betragen.
+die Förderung nach Absatz 2 verwendet werden. Im Jahr 2026 sollen von
+der Fördersumme 10 Millionen Euro und ab dem Jahr 2027 jährlich 20
+Millionen Euro für neue Versorgungsformen mit kurzer Laufzeit
+aufgewendet werden. Für die Entwicklung oder Weiterentwicklung
+ausgewählter medizinischer Leitlinien, für die in der Versorgung
+besonderer Bedarf besteht, sollen von der Fördersumme im Jahr 2026
+mindestens 2,5 Millionen Euro und ab dem Jahr 2027 jährlich mindestens
+5 Millionen Euro verwendet werden. Mittel, die im jeweiligen
+Haushaltsjahr nicht bewilligt wurden, und bewilligte Mittel für
+beendete Vorhaben, die nicht zur Auszahlung gelangt sind, werden
+jeweils in das folgende Haushaltsjahr übertragen. Die Laufzeit eines
+im Rahmen des einstufigen Verfahrens mit langer Laufzeit oder des
+zweistufigen Verfahrens nach Absatz 1 Satz 8 geförderten Vorhabens und
+eines nach Absatz 2 geförderten Vorhabens kann bis zu vier Jahre
+betragen, wobei die Konzeptentwicklung im Rahmen der ersten Stufe der
+Förderung im zweistufigen Verfahren nicht zur Laufzeit eines Vorhabens
+zählt. Die Laufzeit eines im einstufigen Verfahren für neue
+Versorgungsformen mit kurzer Laufzeit geförderten Vorhabens kann bis
+zu zwei Jahre betragen.
 
-(4) Die Mittel nach Absatz 3, verringert um den Finanzierungsanteil
-der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3 Satz 1
-Nummer 1, werden durch den Gesundheitsfonds (Liquiditätsreserve) und
-die nach § 266 am Risikostrukturausgleich teilnehmenden Krankenkassen
-jeweils zur Hälfte getragen. Das Bundesamt für Soziale Sicherung
-erhebt und verwaltet die Mittel (Innovationsfonds) und zahlt die
-Fördermittel auf der Grundlage der Entscheidungen des
-Innovationsausschusses nach § 92b aus. Die dem Bundesamt für Soziale
-Sicherung im Zusammenhang mit dem Innovationsfonds entstehenden
-Ausgaben werden aus den Einnahmen des Innovationsfonds gedeckt. Das
-Nähere zur Erhebung der Mittel für den Innovationsfonds durch das
-Bundesamt für Soziale Sicherung bei den nach § 266 am
-Risikostrukturausgleich teilnehmenden Krankenkassen regelt die
-Rechtsverordnung nach § 266 Absatz 8 Satz 1; § 266 Absatz 7 Satz 7
-gilt entsprechend. Das Nähere zur Weiterleitung der Mittel an den
-Innovationsfonds und zur Verwaltung der Mittel des Innovationsfonds
-bestimmt das Bundesamt für Soziale Sicherung im Benehmen mit dem
-Innovationsausschuss und dem Spitzenverband Bund der Krankenkassen.
+(4) Im Jahr 2026 wird die Fördersumme nach Absatz 3, verringert um den
+Finanzierungsanteil der landwirtschaftlichen Krankenkasse nach § 221
+Absatz 3 Satz 1 Nummer 1, durch die Liquiditätsreserve des
+Gesundheitsfonds getragen. Ab dem Jahr 2027 wird die Fördersumme nach
+Absatz 3, verringert um den Finanzierungsanteil der
+landwirtschaftlichen Krankenkasse nach § 221 Absatz 3 Satz 1 Nummer 1,
+durch die Liquiditätsreserve des Gesundheitsfonds und die nach § 266
+am Risikostrukturausgleich teilnehmenden Krankenkassen jeweils zur
+Hälfte getragen. Das Bundesamt für Soziale Sicherung erhebt und
+verwaltet die Mittel (Innovationsfonds) und zahlt die Fördermittel auf
+der Grundlage der Entscheidungen des Innovationsausschusses nach § 92b
+aus. Die dem Bundesamt für Soziale Sicherung im Zusammenhang mit dem
+Innovationsfonds entstehenden Ausgaben werden aus den Einnahmen des
+Innovationsfonds gedeckt. Das Nähere zur Erhebung der Mittel für den
+Innovationsfonds durch das Bundesamt für Soziale Sicherung bei den
+nach § 266 am Risikostrukturausgleich teilnehmenden Krankenkassen
+regelt die Rechtsverordnung nach § 266 Absatz 8 Satz 1; § 266 Absatz 7
+Satz 7 gilt entsprechend. Das Nähere zur Weiterleitung der Mittel an
+den Innovationsfonds und zur Verwaltung der Mittel des
+Innovationsfonds bestimmt das Bundesamt für Soziale Sicherung im
+Benehmen mit dem Innovationsausschuss und dem Spitzenverband Bund der
+Krankenkassen.
 
 (5) Das Bundesministerium für Gesundheit veranlasst eine
 wissenschaftliche Auswertung der Förderung nach dieser Vorschrift im
@@ -16247,7 +16499,7 @@ Absatz 1 haben keine aufschiebende Wirkung.
 
 
 ##### § 95 Teilnahme an der vertragsärztlichen Versorgung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017818126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017819126)
 
 (1) An der vertragsärztlichen Versorgung nehmen zugelassene Ärzte und
 zugelassene medizinische Versorgungszentren sowie ermächtigte Ärzte
@@ -16400,6 +16652,12 @@ Absatz 2 Satz 1 zweiter Halbsatz, zu prüfen. Die Ergebnisse sowie eine
 Landes- und Zulassungsausschüssen sowie der für die jeweilige
 Kassenärztliche Vereinigung zuständigen Aufsichtsbehörde jeweils zum
 30\. Juni des Jahres zu übermitteln.
+
+(3a) Tätigkeiten im Notdienst, zu denen ein Vertragsarzt aufgrund
+seiner jeweiligen Zulassung verpflichtet ist, sind
+sozialversicherungsrechtlich entsprechend der
+sozialversicherungsrechtlichen Einordnung seiner Tätigkeit im Rahmen
+der vertragsärztlichen Versorgung zu bewerten.
 
 (4) Die Ermächtigung bewirkt, daß der ermächtigte Arzt oder die
 ermächtigte Einrichtung zur Teilnahme an der vertragsärztlichen
@@ -17695,7 +17953,7 @@ Zulassungsbeschränkungen bei vertragsärztlicher Überversorgung.
 
 
 ##### § 105 Förderung der vertragsärztlichen Versorgung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018820126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018821126)
 
 (1) Die Kassenärztlichen Vereinigungen haben mit Unterstützung der
 Kassenärztlichen Bundesvereinigungen entsprechend den Bedarfsplänen
@@ -17705,13 +17963,14 @@ zu verbessern oder zu fördern.
 
 (1a) Die Kassenärztliche Vereinigung hat zur Finanzierung von
 Fördermaßnahmen zur Sicherstellung der vertragsärztlichen Versorgung
-einen Strukturfonds zu bilden, für den sie mindestens 0,1 Prozent und
-höchstens 0,2 Prozent der nach § 87a Absatz 3 Satz 1 vereinbarten
-morbiditätsbedingten Gesamtvergütungen zur Verfügung stellt. Die
-Landesverbände der Krankenkassen und die Ersatzkassen haben zusätzlich
-einen Betrag in gleicher Höhe in den Strukturfonds zu entrichten.
-Mittel des Strukturfonds sollen insbesondere für folgende Maßnahmen
-verwendet werden:
+einen Strukturfonds zu bilden, in den sie einen Betrag in Höhe von
+mindestens 0,1 Prozent und höchstens 0,2 Prozent der nach § 87a Absatz
+3 Satz 1 vereinbarten morbiditätsbedingten Gesamtvergütungen einzahlt.
+Über die Aufbringung des Betrages entscheidet die Kassenärztliche
+Vereinigung. Die Landesverbände der Krankenkassen und die Ersatzkassen
+haben zusätzlich einen Betrag in gleicher Höhe in den Strukturfonds zu
+entrichten. Mittel des Strukturfonds sollen insbesondere für folgende
+Maßnahmen verwendet werden:
 
 1.  Zuschüsse zu den Investitionskosten bei der Neuniederlassung, bei
     Praxisübernahmen oder bei der Gründung von Zweigpraxen,
@@ -17753,8 +18012,8 @@ Strukturfonds. Auch die Kassenzahnärztliche Vereinigung kann zur
 Finanzierung von Fördermaßnahmen zur Sicherstellung der
 vertragszahnärztlichen Versorgung einen Strukturfonds bilden, für den
 sie bis zu 0,2 Prozent der nach § 85 vereinbarten Gesamtvergütungen
-zur Verfügung stellt. Die Sätze 2, 3 Nummer 1 bis 4 und 8 sowie die
-Sätze 4 und 5 gelten in diesem Fall entsprechend. Die
+zur Verfügung stellt. Die Sätze 3, 4 Nummer 1 bis 4 und 8 sowie die
+Sätze 5 und 6 gelten in diesem Fall entsprechend. Die
 Kassenzahnärztliche Vereinigung kann in den Jahren 2021 und 2022 aus
 Mitteln des Strukturfonds eine Förderung von in den Jahren 2019 bis
 2021 neu niedergelassenen Praxen vorsehen.
@@ -19159,6 +19418,68 @@ Nr. 5 getroffen werden, die Spitzenorganisationen der Vorsorge- und
 Rehabilitationseinrichtungen zu beteiligen.
 
 
+#### § 112a Eigenverantwortliche Erbringung von Leistungen durch Pflegefachpersonen im Rahmen der Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095400126)
+
+(1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
+Krankenhausentgeltgesetzes vereinbaren bis zum 31. Juli 2027 in einem
+Vertrag
+
+1.  einen Katalog an Leistungen der ärztlichen Behandlung, die
+    Pflegefachpersonen nach § 15a Absatz 1 Nummer 1 in zugelassenen
+    Krankenhäusern im Sinne des § 108 eigenverantwortlich erbringen
+    können,
+
+
+2.  Rahmenvorgaben zur interprofessionellen Zusammenarbeit im Krankenhaus
+    zwischen Pflegefachpersonen und Ärzten bei der Erbringung der nach
+    Nummer 1 vereinbarten Leistungen.
+
+
+
+In dem Vertrag sind auch Vorgaben dazu zu vereinbaren, welche in dem
+nach Satz 1 Nummer 1 vereinbarten Katalog genannten Leistungen nach
+einer ärztlichen Diagnose und Indikationsstellung und welche dieser
+Leistungen nach einer pflegerischen Diagnose erbracht werden können.
+
+(2) Die in Absatz 1 Satz 1 genannten Vertragsparteien haben unter
+Beachtung der Vorgaben von § 15a Absatz 1 in dem Vertrag nach Absatz 1
+Satz 1 auch festzulegen, auf der Grundlage welcher Kompetenzen
+Pflegefachpersonen die nach Absatz 1 Satz 1 Nummer 1 vereinbarten
+Leistungen jeweils eigenverantwortlich erbringen können. Soweit nicht
+aus sachlichen Gründen für die Krankenhausbehandlungen Abweichungen
+geboten sind, haben die in Absatz 1 Satz 1 genannten Vertragsparteien
+dieselben Festlegungen zu treffen, die von den in § 73d Absatz 1 Satz
+1 genannten Vertragspartnern nach § 73d Absatz 2 Satz 1 getroffen
+wurden. § 73d Absatz 2 Satz 3 bis 5 gilt entsprechend.
+
+(3) Kommt der Vertrag nach Absatz 1 Satz 1 nicht innerhalb der in
+Absatz 1 Satz 1 genannten Frist zustande, wird der Inhalt des Vertrags
+auf Antrag einer der in Absatz 1 Satz 1 genannten Vertragsparteien
+oder des Bundesministeriums für Gesundheit durch die Schiedsstelle
+nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes festgelegt.
+
+(4) Die in Absatz 1 Satz 1 genannten Vertragsparteien evaluieren die
+eigenverantwortliche Erbringung von Leistungen der ärztlichen
+Behandlung durch Pflegefachpersonen in Krankenhäusern insbesondere im
+Hinblick auf
+
+1.  die Qualität und Wirtschaftlichkeit der Versorgung,
+
+
+2.  den effizienten Einsatz der Pflegefachpersonen mit unterschiedlichen
+    Qualifikationen und
+
+
+3.  die Auswirkungen auf das Berufsbild der Pflegefachpersonen.
+
+
+
+Die in Absatz 1 Satz 1 genannten Vertragsparteien legen dem
+Bundesministerium für Gesundheit bis zum 31. Dezember 2029 einen
+Bericht über das Ergebnis der Evaluation vor.
+
+
 #### § 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019608119)
 
@@ -20338,7 +20659,7 @@ Deutschen Krankenhausgesellschaft gemeinsam.
 
 
 #### § 117 Hochschulambulanzen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020011126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020012126)
 
 (1) Ambulanzen, Institute und Abteilungen der Hochschulkliniken
 (Hochschulambulanzen) sind zur ambulanten ärztlichen Behandlung der
@@ -20436,11 +20757,12 @@ Eine Ermächtigung ist auf Antrag zu erteilen,
 
 (3b) Ambulanzen an Einrichtungen, die nach Landesrecht für die
 Weiterbildung von Psychotherapeuten oder Ärzten in
-psychotherapeutischen Fachgebieten zugelassen sind, sind vom
-Zulassungsausschuss auf Antrag zur ambulanten psychotherapeutischen
-Behandlung der Versicherten und der in § 75 Absatz 3 genannten
-Personen in Behandlungsverfahren, die vom Gemeinsamen Bundesausschuss
-nach § 92 Absatz 6a anerkannt sind, zu ermächtigen,
+psychotherapeutischen Fachgebieten zugelassen sind
+(Weiterbildungsambulanzen), sind vom Zulassungsausschuss auf Antrag
+zur ambulanten psychotherapeutischen Behandlung der Versicherten und
+der in § 75 Absatz 3 genannten Personen in Behandlungsverfahren, die
+vom Gemeinsamen Bundesausschuss nach § 92 Absatz 6a anerkannt sind, zu
+ermächtigen,
 
 1.  soweit die Ermächtigung notwendig ist, um eine ausreichende
     psychotherapeutische Versorgung der Versicherten sicherzustellen, und
@@ -20457,22 +20779,21 @@ Die Ermächtigung ist ohne Bedarfsprüfung zu erteilen, wenn die
 jeweilige Ambulanz bereits nach Absatz 3 oder Absatz 3a zur ambulanten
 psychotherapeutischen Behandlung ermächtigt war.
 
-(3c) Für die Vergütung der in den Ambulanzen nach den Absätzen 3 bis
-3b erbrachten Leistungen gilt § 120 Absatz 2 Satz 1 und 2 entsprechend
+(3c) Für die Vergütung der in den Ambulanzen nach den Absätzen 3 und
+3a erbrachten Leistungen gilt § 120 Absatz 2 Satz 1 und 2 entsprechend
 mit der Maßgabe, dass dabei eine Abstimmung mit Entgelten für
 vergleichbare Leistungen erfolgen soll. § 120 Absatz 3 Satz 2 und 3
 und Absatz 4 Satz 1 gilt entsprechend. Die Ambulanzen sind
 verpflichtet, von der Vergütung, die sie von den Krankenkassen für die
-durch einen Aus- oder Weiterbildungsteilnehmenden erbrachte Leistung
-erhalten, jeweils einen Anteil in Höhe von mindestens 40 Prozent an
-den jeweiligen Aus- oder Weiterbildungsteilnehmenden auszuzahlen. Sie
-haben die Auszahlung des Vergütungsanteils den Krankenkassen
-nachzuweisen. Die Ambulanzen haben der Bundespsychotherapeutenkammer
-die jeweils aktuelle Höhe der von den Aus- oder
-Weiterbildungsteilnehmern zu zahlenden Ausbildungskosten sowie des
-auszuzahlenden Vergütungsanteils, erstmalig bis zum 31. Juli 2021,
-mitzuteilen. Die Bundespsychotherapeutenkammer hat eine bundesweite
-Übersicht der nach Satz 5 mitgeteilten Angaben zu veröffentlichen.
+durch einen Ausbildungsteilnehmer erbrachte Leistung erhalten, jeweils
+einen Anteil in Höhe von mindestens 40 Prozent an den jeweiligen
+Ausbildungsteilnehmer auszuzahlen. Sie haben die Auszahlung des
+Vergütungsanteils den Krankenkassen nachzuweisen. Die Ambulanzen haben
+der Bundespsychotherapeutenkammer die jeweils aktuelle Höhe der von
+den Ausbildungsteilnehmern zu zahlenden Ausbildungskosten sowie des
+auszuzahlenden Vergütungsanteils mitzuteilen. Die
+Bundespsychotherapeutenkammer hat eine bundesweite Übersicht der nach
+Satz 5 mitgeteilten Angaben zu veröffentlichen.
 
 (4) Untersuchungs- und Behandlungsmethoden können Gegenstand des
 Leistungsumfangs der Hochschulambulanzen nach den Absätzen 1 und 2
@@ -20676,7 +20997,7 @@ Leistungserbringern eng zusammenarbeiten.
 
 
 #### § 119b Ambulante Behandlung in stationären Pflegeeinrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055106126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055107126)
 
 (1) Stationäre Pflegeeinrichtungen haben einzeln oder gemeinsam bei
 entsprechendem Bedarf unbeschadet des § 75 Abs. 1 Kooperationsverträge
@@ -20701,14 +21022,15 @@ der Versicherten in der Pflegeeinrichtung bleibt unberührt. Der in der
 Pflegeeinrichtung tätige Arzt ist bei seinen ärztlichen Entscheidungen
 nicht an Weisungen von Nichtärzten gebunden. Er soll mit den übrigen
 Leistungserbringern eng zusammenarbeiten. Stationäre
-Pflegeeinrichtungen benennen eine verantwortliche Pflegefachkraft für
+Pflegeeinrichtungen benennen eine verantwortliche Pflegefachperson für
 die Zusammenarbeit mit den vertragsärztlichen Leistungserbringern im
 Rahmen der Verträge nach Satz 1.
 
 (2) Die Vertragsparteien der Verträge nach § 82 Absatz 1 und § 87
 Absatz 1 vereinbaren im Benehmen mit den Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene sowie den Verbänden der
-Pflegeberufe auf Bundesebene insbesondere zur Verbesserung der
+Pflegeeinrichtungen auf Bundesebene sowie den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches insbesondere zur Verbesserung der
 Qualität der Versorgung Anforderungen an eine kooperative und
 koordinierte ärztliche und pflegerische Versorgung von
 pflegebedürftigen Versicherten in stationären Pflegeeinrichtungen.
@@ -20778,7 +21100,7 @@ Gesundheitsdienst eng zusammenarbeiten.
 
 
 #### § 120 Vergütung ambulanter Krankenhausleistungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020332126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020333126)
 
 (1) Die im Krankenhaus erbrachten ambulanten ärztlichen Leistungen der
 ermächtigten Krankenhausärzte, die in stationären Pflegeeinrichtungen
@@ -20829,24 +21151,24 @@ Krankenhausentgeltgesetzes ist die Summe der für das jeweilige Jahr
 erstmalig vereinbarten ambulanten Pauschalen ausgabenmindernd zu
 berücksichtigen.
 
-(2) Die Leistungen der Hochschulambulanzen, der psychiatrischen
-Institutsambulanzen, der sozialpädiatrischen Zentren und der
-medizinischen Behandlungszentren werden unmittelbar von der
-Krankenkasse vergütet. Die Vergütung wird von den Landesverbänden der
-Krankenkassen und den Ersatzkassen gemeinsam und einheitlich mit den
-Hochschulen oder Hochschulkliniken, den Krankenhäusern oder den sie
+(2) Die Leistungen der Hochschulambulanzen, der
+Weiterbildungsambulanzen, der psychiatrischen Institutsambulanzen, der
+sozialpädiatrischen Zentren und der medizinischen Behandlungszentren
+werden unmittelbar von der Krankenkasse vergütet. Die Vergütung wird
+von den Landesverbänden der Krankenkassen und den Ersatzkassen
+gemeinsam und einheitlich mit den Hochschulen oder Hochschulkliniken,
+den Weiterbildungsambulanzen, den Krankenhäusern oder den sie
 vertretenden Vereinigungen im Land vereinbart; die Höhe der Vergütung
 für die Leistungen der jeweiligen Hochschulambulanz gilt auch für
 andere Krankenkassen im Inland, wenn deren Versicherte durch diese
 Hochschulambulanz behandelt werden. Sie muss die Leistungsfähigkeit
-der Hochschulambulanzen, der psychiatrischen Institutsambulanzen, der
-sozialpädiatrischen Zentren und der medizinischen Behandlungszentren
-bei wirtschaftlicher Betriebsführung gewährleisten. Bei der Vergütung
-der Leistungen der Hochschulambulanzen sind die Grundsätze nach Absatz
-3 Satz 4 erstmals bis zum 1. Juli 2017 und danach jeweils innerhalb
-von sechs Monaten nach Inkrafttreten der Anpassung der Grundsätze nach
-Absatz 3 Satz 4 zu berücksichtigen. Bei den Vergütungsvereinbarungen
-für Hochschulambulanzen nach Satz 2 sind Vereinbarungen nach Absatz 1a
+der in Satz 1 genannten Leistungserbringer bei wirtschaftlicher
+Betriebsführung gewährleisten. Bei der Vergütung der Leistungen der
+Hochschulambulanzen sind die Grundsätze nach Absatz 3 Satz 4 erstmals
+bis zum 1. Juli 2017 und danach jeweils innerhalb von sechs Monaten
+nach Inkrafttreten der Anpassung der Grundsätze nach Absatz 3 Satz 4
+zu berücksichtigen. Bei den Vergütungsvereinbarungen für
+Hochschulambulanzen nach Satz 2 sind Vereinbarungen nach Absatz 1a
 Satz 1 zu berücksichtigen. Als Bestandteil der Vereinbarung nach Satz
 2 ist eine Vergütung für die telemedizinische Erbringung von
 Leistungen durch die Einrichtungen nach Satz 1 festzulegen. Abweichend
@@ -20855,7 +21177,15 @@ psychiatrischen Institutsambulanzen im Rahmen der Versorgung nach der
 Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 6b
 erbringen, nach den entsprechenden Bestimmungen im einheitlichen
 Bewertungsmaßstab für ärztliche Leistungen mit dem Preis der
-jeweiligen regionalen Euro-Gebührenordnung zu erfolgen.
+jeweiligen regionalen Euro-Gebührenordnung zu erfolgen. Bei der
+Vereinbarung der Vergütung der ambulanten psychotherapeutischen
+Behandlung in den Weiterbildungsambulanzen hat eine Abstimmung mit
+Entgelten für vergleichbare Leistungen zu erfolgen. Für die
+Beurteilung einer wirtschaftlichen Betriebsführung der
+Weiterbildungsambulanzen sind nur die Leistungen
+berücksichtigungsfähig, für die der Zulassungsausschuss eine
+Ermächtigung erteilt hat und die gegenüber Versicherten erbracht
+werden.
 
 (3) Die Vergütung der Leistungen der Hochschulambulanzen, der
 psychiatrischen Institutsambulanzen, der sozialpädiatrischen Zentren,
@@ -23843,7 +24173,7 @@ freien Wohlfahrtspflege, Rechnung zu tragen.
 
 
 #### § 132a Versorgung mit häuslicher Krankenpflege
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044314126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044315126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die für die
 Wahrnehmung der Interessen von Pflegediensten maßgeblichen
@@ -23870,6 +24200,13 @@ insbesondere zu regeln:
 2.  Maßnahmen zur Qualitätssicherung und Fortbildung,
 
 
+2a. Voraussetzungen für eine fachgerechte Wahrnehmung der
+    Pflegeprozessverantwortung im Sinne des § 4 Absatz 1 Satz 1 des
+    Pflegeberufegesetzes unter Berücksichtigung der ärztlichen
+    Indikationsstellung für den Bedarf an Leistungen der medizinischen
+    Behandlungspﬂege,
+
+
 3.  Inhalt und Umfang der Zusammenarbeit des Leistungserbringers mit dem
     verordnenden Vertragsarzt und dem Krankenhaus,
 
@@ -23880,21 +24217,28 @@ insbesondere zu regeln:
 
 5.  Grundsätze der Vergütungen und ihrer Strukturen einschließlich der
     Transparenzvorgaben für die Vergütungsverhandlungen zum Nachweis der
-    tatsächlich gezahlten Tariflöhne oder Arbeitsentgelte sowie erstmals
-    bis zum 30. Juni 2019 Grundsätze für die Vergütung von längeren
-    Wegezeiten, insbesondere in ländlichen Räumen, durch Zuschläge unter
-    Einbezug der ambulanten Pflege nach dem Elften Buch,
+    tatsächlich gezahlten Tariflöhne oder Arbeitsentgelte sowie Grundsätze
+    für die Vergütung von längeren Wegezeiten, insbesondere in ländlichen
+    Räumen, durch Zuschläge unter Einbezug der ambulanten Pflege nach dem
+    Elften Buch,
 
 
 6.  Grundsätze zum Verfahren der Prüfung der Leistungspflicht der
     Krankenkassen sowie zum Abrechnungsverfahren einschließlich der für
-    diese Zwecke jeweils zu übermittelnden Daten und
+    diese Zwecke jeweils zu übermittelnden Daten,
 
 
-7.  Anforderungen an die Eignung der Pflegefachkräfte, die Leistungen im
+7.  Anforderungen an die Eignung der Pflegefachpersonen, die Leistungen im
     Rahmen einer Versorgung nach § 37 Absatz 8 erbringen, sowie Maßnahmen
     zur Gewährleistung der Wirtschaftlichkeit der im Rahmen einer
-    Versorgung nach § 37 Absatz 8 erbrachten Leistungen.
+    Versorgung nach § 37 Absatz 8 erbrachten Leistungen und
+
+
+8.  Grundsätze der Vergütung von Verordnungen von in dem nach § 73d Absatz
+    1 Satz 1 Nummer 2 vereinbarten Katalog genannten Leistungen, soweit
+    die Leistungen von Leistungserbringern erbracht werden, mit denen
+    Verträge nach Absatz 4 Satz 1 abgeschlossen werden, erstmals bis zum
+    30\. April 2028.
 
 
 
@@ -23979,6 +24323,11 @@ erteilen dem Leistungserbringer hierüber einen Bescheid und setzen ihm
 darin zugleich eine angemessene Frist zur Beseitigung der
 festgestellten Mängel. Abweichend von Satz 1 kann die Krankenkasse zur
 Gewährung von häuslicher Krankenpflege geeignete Personen anstellen.
+
+(5) Die Versorgung mit Leistungen der häuslichen Krankenpflege in
+gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen
+Versorgung gemäß § 92c des Elften Buches erfolgt nach Maßgabe dieser
+Verträge.
 
 
 #### § 132b Versorgung mit Soziotherapie
@@ -24223,7 +24572,7 @@ zur arbeitsmedizinischen Vorsorge erbracht werden.
 
 
 #### § 132g Gesundheitliche Versorgungsplanung für die letzte Lebensphase
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063102126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063103126)
 
 (1) Zugelassene Pflegeeinrichtungen im Sinne des § 43 des Elften
 Buches und Einrichtungen der Eingliederungshilfe für behinderte
@@ -24262,10 +24611,11 @@ Nähere über die Inhalte und Anforderungen der Versorgungsplanung nach
 den Absätzen 1 und 2. Den Kassenärztlichen Bundesvereinigungen, der
 Deutschen Krankenhausgesellschaft, den für die Wahrnehmung der
 Interessen der Hospizdienste und stationären Hospize maßgeblichen
-Spitzenorganisationen, den Verbänden der Pflegeberufe auf Bundesebene,
-den maßgeblichen Organisationen für die Wahrnehmung der Interessen und
-der Selbsthilfe der pflegebedürftigen und behinderten Menschen, dem
-Medizinischen Dienst Bund, dem Verband der Privaten
+Spitzenorganisationen, den maßgeblichen Organisationen der
+Pflegeberufe auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des
+Elften Buches, den maßgeblichen Organisationen für die Wahrnehmung der
+Interessen und der Selbsthilfe der pflegebedürftigen und behinderten
+Menschen, dem Medizinischen Dienst Bund, dem Verband der Privaten
 Krankenversicherung e. V., der Bundesarbeitsgemeinschaft der
 überörtlichen Träger der Sozialhilfe sowie der Bundesvereinigung der
 kommunalen Spitzenverbände ist Gelegenheit zur Stellungnahme zu geben.
@@ -26547,7 +26897,7 @@ nach § 275a Absatz 1 Satz 1 unterstützen.
 
 
 #### § 137a Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044409126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044410126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich
 unabhängiges, wissenschaftliches Institut für Qualitätssicherung und
@@ -26669,7 +27019,8 @@ sollen, gilt § 299.
     Bundespsychotherapeutenkammer,
 
 
-6.  die Berufsorganisationen der Krankenpflegeberufe,
+6.  die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene im
+    Sinne des § 118a Absatz 1 Satz 1 des Elften Buches,
 
 
 7.  die wissenschaftlichen medizinischen Fachgesellschaften,
@@ -30757,7 +31108,7 @@ nach Absatz 3.
 
 
 ##### § 176 Bestandschutzregelung für Solidargemeinschaften
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE026007126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE026008126)
 
 (1) Die Mitgliedschaft in einer Solidargemeinschaft gilt nur dann als
 anderweitige Absicherung im Krankheitsfall im Sinne des § 5 Absatz 1
@@ -30769,7 +31120,8 @@ ihrer Gründung ununterbrochen fortgeführt wurde, sie beides dem
 Bundesministerium für Gesundheit nachweist und auf ihren alle fünf
 Jahre zu stellenden Antrag hin das Bundesministerium für Gesundheit
 jeweils das Vorliegen eines testierten Gutachtens über die dauerhafte
-Leistungsfähigkeit gemäß Absatz 3 bestätigt.
+Leistungsfähigkeit gemäß Absatz 3 bestätigt. Ein Antrag nach Satz 1
+kann erstmalig nur bis einschließlich 30. Juni 2026 gestellt werden.
 
 (2) Die in Absatz 1 genannten Solidargemeinschaften sind ihren
 Mitgliedern zur Gewährung von Leistungen verpflichtet, die der Art,
@@ -31805,17 +32157,17 @@ Internet.
 
 
 ##### § 197b Aufgabenerledigung durch Dritte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054000308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054001126)
 
 Krankenkassen können die ihnen obliegenden Aufgaben durch
 Arbeitsgemeinschaften oder durch Dritte mit deren Zustimmung
 wahrnehmen lassen, wenn die Aufgabenwahrnehmung durch die
 Arbeitsgemeinschaften oder den Dritten wirtschaftlicher ist, es im
-wohlverstandenen Interesse der Betroffenen liegt und Rechte der
-Versicherten nicht beeinträchtigt werden. Wesentliche Aufgaben zur
-Versorgung der Versicherten dürfen nicht in Auftrag gegeben werden. §
-88 Abs. 3 und 4 und die §§ 89, 90 bis 92 und 97 des Zehnten Buches
-gelten entsprechend.
+wohlverstandenen Interesse der Betroffenen liegt und Rechte und
+Interessen der Versicherten nicht beeinträchtigt werden. Wesentliche
+Aufgaben zur Versorgung der Versicherten dürfen nicht in Auftrag
+gegeben werden. § 88 Abs. 3 und 4 und die §§ 89 bis 92 und 97 des
+Zehnten Buches gelten entsprechend.
 
 
 ### Vierter Abschnitt - Meldungen
@@ -32058,7 +32410,7 @@ Sicherung.
 
 
 #### § 202 Meldepflichten bei Versorgungsbezügen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028611126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028613126)
 
 (1) Die Zahlstelle hat bei der erstmaligen Bewilligung von
 Versorgungsbezügen sowie bei Mitteilung über die Beendigung der
@@ -32098,15 +32450,16 @@ zusätzlich mitzuteilen, ob und in welcher Höhe der Freibetrag nach §
 (1a) Die Zahlstelle hat ab dem 1. Juli 2025 bei Beginn eines in der
 sozialen Pflegeversicherung beitragspflichtigen Versorgungsbezuges
 eine Meldung im Sinne des § 55a Absatz 3 des Elften Buches über die
-zentrale Stelle nach § 81 des Einkommensteuergesetzes an das
-Bundeszentralamt für Steuern zu richten. Bei Ende des
-beitragspflichtigen Versorgungsbezuges hat sie eine Meldung nach § 55a
-Absatz 6 des Elften Buches zu erstatten. Bei der erstmaligen
-Bewilligung von Versorgungsbezügen hat die Meldung innerhalb von
-sieben Tagen nach Eingang der Meldung der Krankenkasse nach Absatz 1
-Satz 5 zu erfolgen. Die Meldung zur Beendigung des Versorgungsbezuges
-ist zeitgleich mit der Meldung nach Absatz 1 Satz 1 zu erstatten. Bei
-Beendigung der Beitragsabführungspflicht während des
+Datenstelle der Rentenversicherung nach § 145 Absatz 1 Satz 1 des
+Sechsten Buches und über die zentrale Stelle nach § 81 des
+Einkommensteuergesetzes an das Bundeszentralamt für Steuern zu
+richten. Bei Ende des beitragspflichtigen Versorgungsbezuges hat sie
+eine Meldung nach § 55a Absatz 6 des Elften Buches zu erstatten. Bei
+der erstmaligen Bewilligung von Versorgungsbezügen hat die Meldung
+innerhalb von sieben Tagen nach Eingang der Meldung der Krankenkasse
+nach Absatz 1 Satz 5 zu erfolgen. Die Meldung zur Beendigung des
+Versorgungsbezuges ist zeitgleich mit der Meldung nach Absatz 1 Satz 1
+zu erstatten. Bei Beendigung der Beitragsabführungspflicht während des
 Versorgungsbezuges ist eine Abmeldung innerhalb von sechs Wochen
 vorzunehmen. In der Meldung sind insbesondere anzugeben:
 
@@ -32126,9 +32479,11 @@ vorzunehmen. In der Meldung sind insbesondere anzugeben:
 
 Bei Meldung des Beginns eines Versorgungsbezuges hat das
 Bundeszentralamt für Steuern über die zentrale Stelle nach § 81 des
-Einkommensteuergesetzes der Zahlstelle unverzüglich die auf den Tag
-des Beginns des Versorgungsbezuges bezogenen erforderlichen Daten zum
-Nachweis der Elterneigenschaft sowie zur Ermittlung der Anzahl der
+Einkommensteuergesetzes und über die Datenstelle der
+Rentenversicherung nach § 145 Absatz 1 Satz 1 des Sechsten Buches der
+Zahlstelle unverzüglich die auf den Tag des Beginns des
+Versorgungsbezuges bezogenen erforderlichen Daten zum Nachweis der
+Elterneigenschaft sowie zur Ermittlung der Anzahl der
 berücksichtigungsfähigen Kinder nach Maßgabe des § 55a Absatz 4 Satz 1
 und 2 des Elften Buches zu übermitteln. Änderungen bei der
 Elterneigenschaft oder der Anzahl der berücksichtigungsfähigen Kinder
@@ -33920,11 +34275,12 @@ Sicherung.
 
 
 ##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056309129)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056310126)
 
 (1) Zur Abgeltung der Aufwendungen der Krankenkassen nach § 8 Absatz
-11 Satz 1 des Krankenhausentgeltgesetzes leistet der Bund unbeschadet
-des § 221 Absatz 1 ergänzende Bundeszuschüsse an den Gesundheitsfonds
+11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1
+der Bundespflegesatzverordnung leistet der Bund unbeschadet des § 221
+Absatz 1 ergänzende Bundeszuschüsse an den Gesundheitsfonds
 
 1.  bis einschließlich 31. Oktober 2025 in Höhe von 1,5 Milliarden Euro
     und
@@ -33947,7 +34303,8 @@ Krankenkasse von den ihm nach Absatz 1 zufließenden Leistungen
 
 
 (3) Unterschreiten die Aufwendungen der Krankenkassen nach § 8 Absatz
-11 Satz 1 des Krankenhausentgeltgesetzes abzüglich der entsprechenden
+11 Satz 1 des Krankenhausentgeltgesetzes und nach § 8 Absatz 7 Satz 1
+der Bundespflegesatzverordnung abzüglich der entsprechenden
 Aufwendungen der Landwirtschaftlichen Krankenkasse die Summe der nach
 Absatz 1 geleisteten ergänzenden Bundeszuschüsse abzüglich der Summe
 der an die Landwirtschaftliche Krankenkasse nach Absatz 2 gezahlten
@@ -33957,13 +34314,14 @@ Gesundheitsfonds im Jahr 2028 zugeführt.
 
 (4) Unterschreiten die Aufwendungen der Landwirtschaftlichen
 Krankenkasse nach § 8 Absatz 11 Satz 1 des Krankenhausentgeltgesetzes
-die Summe der nach Absatz 2 an die Landwirtschaftliche Krankenkasse
-gezahlten Beträge, wird der Differenzbetrag von der
-Landwirtschaftlichen Krankenkasse nach Vorliegen der
-Jahresrechnungsergebnisse für das Jahr 2026 an die Liquiditätsreserve
-des Gesundheitsfonds geleistet und im Jahr 2028 aus der
-Liquiditätsreserve des Gesundheitsfonds dem Transformationsfonds nach
-§ 12b des Krankenhausfinanzierungsgesetzes zugeführt.
+und nach § 8 Absatz 7 Satz 1 der Bundespflegesatzverordnung die Summe
+der nach Absatz 2 an die Landwirtschaftliche Krankenkasse gezahlten
+Beträge, wird der Differenzbetrag von der Landwirtschaftlichen
+Krankenkasse nach Vorliegen der Jahresrechnungsergebnisse für das Jahr
+2026 an die Liquiditätsreserve des Gesundheitsfonds geleistet und im
+Jahr 2028 aus der Liquiditätsreserve des Gesundheitsfonds dem
+Transformationsfonds nach § 12b des Krankenhausfinanzierungsgesetzes
+zugeführt.
 
 
 ##### § 221b (weggefallen)
@@ -34037,7 +34395,7 @@ Versorgungsbezüge erhält. § 226 Abs. 2 gilt entsprechend.
 
 
 ##### § 226 Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031013311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031014126)
 
 (1) Bei versicherungspflichtig Beschäftigten werden der
 Beitragsbemessung zugrunde gelegt
@@ -34091,6 +34449,15 @@ bestimmt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz
 
 (5) Für Personen, für die § 7 Absatz 2 Anwendung findet, bestimmt sich
 die beitragspflichtige Einnahme nach § 134 des Vierten Buches.
+
+(6) Sind Personen, die nach § 5 Absatz 1 Nummer 11b
+versicherungspflichtig sind, durch Ableistung eines
+Freiwilligendienstes nach dem Bundesfreiwilligendienstgesetz oder dem
+Jugendfreiwilligendienstegesetz oder eines vergleichbaren anerkannten
+Freiwilligendienstes auch nach § 5 Absatz 1 Nummer 1
+versicherungspflichtig, sind die in § 5 Absatz 1 Nummer 11b und in §
+237 Satz 3 genannten Leistungen bis zum Erreichen der in § 10 Absatz 2
+Nummer 3 genannten Altersgrenzen beitragsfrei.
 
 
 ##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die  gesetzliche Krankenversicherung und bisher nicht Versicherter
@@ -36271,7 +36638,7 @@ Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
 
 #### § 271 Gesundheitsfonds
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035629129)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035630126)
 
 (1) Das Bundesamt für Soziale Sicherung verwaltet als Sondervermögen
 (Gesundheitsfonds) die eingehenden Beträge aus:
@@ -36373,7 +36740,11 @@ Den Einnahmen des Gesundheitsfonds nach Absatz 1 Satz 1 werden im Jahr
 dem Innovationsfonds aus der Liquiditätsreserve des Gesundheitsfonds
 ab dem Jahr 2020 jährlich 100 Millionen Euro, jeweils abzüglich der
 Hälfte des anteiligen Betrages der landwirtschaftlichen Krankenkasse
-gemäß § 221 Absatz 3 Satz 1 Nummer 1 zugeführt.
+nach § 221 Absatz 3 Satz 1 Nummer 1 zugeführt. Abweichend von Satz 1
+werden dem Innovationsfonds im Jahr 2026 aus der Liquiditätsreserve
+des Gesundheitsfonds 100 Millionen Euro abzüglich des anteiligen
+Betrages der landwirtschaftlichen Krankenkasse nach § 221 Absatz 3
+Satz 1 Nummer 1 zugeführt.
 
 (6) Zur Finanzierung der Fördermittel nach den §§ 12 und 12a des
 Krankenhausfinanzierungsgesetzes werden dem Strukturfonds aus der
@@ -36598,7 +36969,7 @@ Zusatzbeitrags im Jahr 2023.
 
 
 #### § 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035808126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035809126)
 
 (1) Das Bundesamt für Soziale Sicherung prüft im Rahmen der
 Durchführung des Risikostrukturausgleichs nach Maßgabe der Absätze 2
@@ -36674,15 +37045,18 @@ angefangenen Monat ein Zuschlag in Höhe von 0,5 Prozent des
 rückständigen Betrags zu zahlen.
 
 (7) Das Bundesamt für Soziale Sicherung führt die Prüfungen nach den
-Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Im Rahmen der Prüfung
-nach Absatz 4 oder Absatz 5 kann sich die Krankenkasse nicht darauf
-berufen, dass die zuständige Aufsichtsbehörde den Vertrag nicht
-innerhalb der Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3
-in der bis zum 22. Juli 2015 geltenden Fassung oder § 73b Absatz 9
-Satz 2 in der bis zum 22. Juli 2015 geltenden Fassung beanstandet hat.
-Satz 1 gilt nicht für abgeschlossene Einzelfallprüfungen nach § 273
-Absatz 3 Satz 1 und 2 in der bis zum 31. März 2020 geltenden Fassung;
-für die Ermittlung des Korrekturbetrags gilt Absatz 6.
+Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Die in Satz 1
+genannten Prüfungen sind spätestens bis zum Ablauf des 15.
+Kalenderjahres, das auf das Berichtsjahr folgt, auf das sich die
+jeweilige Prüfung bezieht, abzuschließen. Im Rahmen der Prüfung nach
+den Absätzen 4 oder 5 kann sich die Krankenkasse nicht darauf berufen,
+dass die zuständige Aufsichtsbehörde den Vertrag nicht innerhalb der
+Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3 in der bis zum
+22\. Juli 2015 geltenden Fassung oder § 73b Absatz 9 Satz 2 in der bis
+zum 22. Juli 2015 geltenden Fassung beanstandet hat. Satz 1 gilt nicht
+für abgeschlossene Einzelfallprüfungen nach § 273 Absatz 3 Satz 1 und
+2 in der bis zum 31. März 2020 geltenden Fassung; für die Ermittlung
+des Korrekturbetrags gilt Absatz 6.
 
 
 ### Fünfter Abschnitt - Prüfung der Krankenkassen und ihrer Verbände
@@ -37902,7 +38276,7 @@ enthalten.
 
 
 #### § 278 Medizinischer Dienst
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036305126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036306126)
 
 (1) In jedem Land wird ein Medizinischer Dienst als Körperschaft des
 öffentlichen Rechts errichtet. Für mehrere Länder kann durch Beschluss
@@ -37915,13 +38289,13 @@ jeweilige Aufteilung beibehalten werden. § 94 Absatz 1a bis 4 des
 Zehnten Buches gilt entsprechend.
 
 (2) Die Fachaufgaben des Medizinischen Dienstes werden von Ärztinnen
-und Ärzten, Pflegefachkräften sowie Angehörigen anderer geeigneter
+und Ärzten, Pflegefachpersonen sowie Angehörigen anderer geeigneter
 Berufe im Gesundheitswesen wahrgenommen. Die Medizinischen Dienste
 stellen sicher, dass bei der Beteiligung unterschiedlicher
 Berufsgruppen die Gesamtverantwortung bei der Begutachtung
 medizinischer Sachverhalte bei ärztlichen Gutachterinnen und
 Gutachtern und bei ausschließlich pflegefachlichen Sachverhalten bei
-Pflegefachkräften liegt. § 18 Absatz 7 des Elften Buches bleibt
+Pflegefachpersonen liegt. § 18 Absatz 7 des Elften Buches bleibt
 unberührt.
 
 (3) Bei jedem Medizinischen Dienst wird eine unabhängige Ombudsperson
@@ -38303,7 +38677,7 @@ Nähere regelt die Satzung nach Absatz 3 Satz 1 Nummer 1.
 
 
 #### § 283 Aufgaben des Medizinischen Dienstes Bund
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036812126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036813126)
 
 (1) Der Medizinische Dienst Bund koordiniert und fördert die
 Durchführung der Aufgaben und die Zusammenarbeit der Medizinischen
@@ -38380,8 +38754,9 @@ von der jeweiligen Richtlinie betroffen sind:
 
 
 2.  der Bundesärztekammer, der Bundespsychotherapeutenkammer und der
-    Bundeszahnärztekammer sowie den Verbänden der Pflegeberufe auf
-    Bundesebene und den für die Wahrnehmung der Interessen der
+    Bundeszahnärztekammer sowie den maßgeblichen Organisationen der
+    Pflegeberufe auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des
+    Elften Buches und den für die Wahrnehmung der Interessen der
     Patientinnen und Patienten und der Selbsthilfe chronisch kranker und
     behinderter Menschen maßgeblichen Organisationen,
 
@@ -38939,7 +39314,7 @@ Anwendungen und Dienste erforderlich ist.
 
 
 ##### § 291 Elektronische Gesundheitskarte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037624126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037625126)
 
 (1) Die Krankenkasse stellt für jeden Versicherten eine elektronische
 Gesundheitskarte aus.
@@ -39031,18 +39406,25 @@ und deren persönlicher Identifikationsnummer (PIN) an den Versicherten
 die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 5, 9 und 11 des
 Bundesmeldegesetzes aus dem Melderegister abrufen.
 
-(7) Spätestens ab dem 1. Januar 2022 stellen die Krankenkassen den
-Versicherten gemäß den Festlegungen der Gesellschaft für Telematik ein
-technisches Verfahren barrierefrei zur Verfügung, welches die
-Anforderungen nach § 336 Absatz 4 erfüllt. Spätestens ab dem 1.
-Februar 2024 stellen die Krankenkassen den Versicherten gemäß den
+(7) Die Krankenkassen stellen den Versicherten gemäß den Festlegungen
+der Gesellschaft für Telematik ein technisches Verfahren barrierefrei
+zur Verfügung, welches die Anforderungen nach § 336 Absatz 4 erfüllt.
+Mit Zustimmung des Versicherten sind die Krankenkassen hierbei befugt,
+zur Prüfung der Identität des Versicherten Daten entsprechend den
+Vorgaben des § 20 Absatz 3a Satz 1 des Personalausweisgesetzes, des
+§ 16a Absatz 3 Satz 1 des Passgesetzes und des § 78 Absatz 7 Satz 3
+des Aufenthaltsgesetzes zu den betroffenen Datenkategorien und deren
+Verarbeitung auszulesen und zu verwenden; Entsprechendes gilt für das
+Auslesen und Verwenden von Daten aus einem amtlichen Ausweis oder Pass
+eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland
+erfüllt wird. Die Krankenkassen stellen den Versicherten gemäß den
 Festlegungen der Gesellschaft für Telematik ein technisches und
 automatisiertes Verfahren barrierefrei zur Verfügung, um aus der
 Komponente nach § 360 Absatz 10 Satz 1 heraus die Nutzung von
 Verfahren zur Wahrnehmung der Zugriffsrechte nach § 336 Absatz 1 zu
 beantragen. Die Krankenkassen haben die Voraussetzungen dafür zu
 schaffen, dass Versicherte ein Identifizierungsverfahren spätestens am
-übernächsten Werktag nach der Beantragung nach Satz 2 nutzen können.
+übernächsten Werktag nach der Beantragung nach Satz 3 nutzen können.
 
 (7a) Ist eine Krankenkasse ihrer jeweiligen Verpflichtung nach Absatz
 7 nicht nachgekommen, so stellt der Spitzenverband Bund der
@@ -39052,72 +39434,94 @@ Krankenkassen veröffentlicht auf seiner Internetseite ab dem 15. März
 nach Absatz 7 nicht nachgekommen sind. Die Übersicht ist laufend zu
 aktualisieren.
 
-(8) Spätestens ab dem 1. Januar 2024 stellen die Krankenkassen den
-Versicherten ergänzend zur elektronischen Gesundheitskarte auf
-Verlangen eine sichere digitale Identität für das Gesundheitswesen
-barrierefrei zur Verfügung, die die Vorgaben nach Absatz 2 Nummer 1
-und 2 erfüllt und die Bereitstellung von Daten nach § 291a Absatz 2
-und 3 durch die Krankenkassen ermöglicht. Ab dem 1. Januar 2026 dient
-die digitale Identität nach Satz 1 in gleicher Weise wie die
-elektronische Gesundheitskarte zur Authentisierung des Versicherten im
-Gesundheitswesen und als Versicherungsnachweis nach § 291a Absatz 1.
-Die Gesellschaft für Telematik legt die Anforderungen an die
-Sicherheit und Interoperabilität der digitalen Identitäten fest. Die
-Festlegung der Anforderungen an die Sicherheit und den Datenschutz
-erfolgt dabei im Benehmen mit dem Bundesamt für Sicherheit in der
-Informationstechnik und der oder dem Bundesbeauftragen für den
-Datenschutz und die Informationsfreiheit auf Basis der jeweils
-gültigen Technischen Richtlinien des Bundesamts für Sicherheit in der
-Informationstechnik und unter Berücksichtigung der notwendigen
-Vertrauensniveaus der unterstützten Anwendungen. Eine digitale
-Identität kann über verschiedene Ausprägungen mit verschiedenen
-Sicherheits- und Vertrauensniveaus verfügen. Das Sicherheits- und
-Vertrauensniveau der Ausprägung einer digitalen Identität muss
-mindestens dem Schutzbedarf der Anwendung entsprechen, bei der diese
-eingesetzt wird. Abweichend von Satz 6 kann der Versicherte nach
-umfassender Information durch die Krankenkasse über die Besonderheiten
-des Verfahrens in die Nutzung einer digitalen Identität einwilligen,
-die einem anderen angemessenen Sicherheitsniveau entspricht. Die
+(8) Die Krankenkassen stellen den Versicherten ergänzend zur
+elektronischen Gesundheitskarte auf Verlangen eine digitale Identität
+für das Gesundheitswesen barrierefrei zur Verfügung, die die Vorgaben
+nach Absatz 2 Nummer 1 und 2 erfüllt und die Bereitstellung von Daten
+nach § 291a Absatz 2 und 3 durch die Krankenkassen ermöglicht. Mit
+Zustimmung des Versicherten sind die Krankenkassen hierbei befugt, zur
+Prüfung der Identität des Versicherten Daten entsprechend den Vorgaben
+des § 20 Absatz 3a Satz 1 des Personalausweisgesetzes, des § 16a
+Absatz 3 Satz 1 des Passgesetzes und des § 78 Absatz 7 Satz 3 des
+Aufenthaltsgesetzes zu den betroffenen Datenkategorien und deren
+Verarbeitung auszulesen und zu verwenden; Entsprechendes gilt für das
+Auslesen und Verwenden von Daten aus einem amtlichen Ausweis oder Pass
+eines anderen Staates, mit dem die Pass- und Ausweispflicht im Inland
+erfüllt wird. Ab dem 1. Januar 2027 dient die digitale Identität nach
+Satz 1 in gleicher Weise wie die elektronische Gesundheitskarte zur
+Authentisierung des Versicherten im Gesundheitswesen und als
+Versicherungsnachweis nach § 291a Absatz 1. Die Gesellschaft für
+Telematik legt die Anforderungen an die Sicherheit und
+Interoperabilität der digitalen Identitäten fest. Die Festlegung der
+Anforderungen an die Sicherheit und den Datenschutz erfolgt dabei im
+Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik
+und der oder dem Bundesbeauftragen für den Datenschutz und die
+Informationsfreiheit auf Basis der jeweils gültigen Technischen
+Richtlinien des Bundesamts für Sicherheit in der Informationstechnik
+und unter Berücksichtigung der notwendigen Vertrauensniveaus der
+unterstützten Anwendungen. Eine digitale Identität kann über
+verschiedene Ausprägungen mit verschiedenen Sicherheits- und
+Vertrauensniveaus verfügen. Das Sicherheits- und Vertrauensniveau der
+Ausprägung einer digitalen Identität muss mindestens dem Schutzbedarf
+der Anwendung entsprechen, bei der die digitale Identität eingesetzt
+wird. Abweichend von Satz 7 kann der Versicherte nach umfassender
+Information durch die Krankenkasse über die Besonderheiten des
+Verfahrens in die Nutzung einer digitalen Identität einwilligen, die
+einem anderen angemessenen Sicherheitsniveau entspricht. Die
 Anforderungen an die Sicherheit und Interoperabilität dieses
 Nutzungsweges der digitalen Identität werden von der Gesellschaft für
 Telematik festgelegt. Die Festlegung erfolgt hinsichtlich der
 Anforderungen an die Sicherheit und den Datenschutz im Benehmen mit
 dem Bundesamt für Sicherheit in der Informationstechnik und der oder
 dem Bundesbeauftragten für den Datenschutz und die
-Informationsfreiheit. Krankenkassen sind verpflichtet, spätestens ab
-dem 1. Oktober 2024 berechtigten Dritten die Nutzung der digitalen
-Identitäten nach Satz 1 zum Zwecke der Authentifizierung von
-Versicherten zu ermöglichen. Berechtigte Dritte nach Satz 10 sind
-Anbieter von Anwendungen nach § 306 Absatz 4 oder Anbieter, für die
-aufgrund eines Gesetzes oder einer Rechtsverordnung die Nutzung der
-digitalen Identität nach Satz 1 vorgeschrieben ist. Darüber hinaus
-kann die Gesellschaft für Telematik durch verbindlichen Beschluss nach
-§ 315 Absatz 1 Satz 1 Anbieter weiterer Dienste oder Anwendungen nach
-§ 306 Absatz 1 Nummer 2 Buchstabe a als berechtigte Dritte
-diskriminierungsfrei festlegen. Berechtigte Dritte dürfen zum Zweck
-der Authentifizierung von Versicherten mittels der digitalen
-Identitäten personenbezogene Daten des Versicherten verarbeiten,
-sofern diese für die Nutzung der digitalen Identität erforderlich sind
-und der Versicherte in die Nutzung der digitalen Identität durch die
-jeweilige Anwendung eingewilligt hat. Bei der Verarbeitung sind die
-Anforderungen des Datenschutzes einzuhalten. Spätestens ab dem 1. Juli
-2023 stellen die Krankenkassen zur Nutzung berechtigten Dritten
-Verfahren zur Erprobung der Integration der sicheren digitalen
-Identität nach Satz 1 zur Verfügung.
+Informationsfreiheit. Die Krankenkassen sind verpflichtet,
+berechtigten Dritten die Nutzung der digitalen Identitäten nach Satz 1
+zum Zwecke der Authentifizierung von Versicherten zu ermöglichen.
+Berechtigte Dritte nach Satz 11 sind Anbieter von Anwendungen nach §
+306 Absatz 4 oder Anbieter, für die auf Grund eines Gesetzes oder
+einer Rechtsverordnung die Nutzung der digitalen Identität nach Satz 1
+vorgeschrieben ist. Darüber hinaus kann die Gesellschaft für Telematik
+durch verbindlichen Beschluss nach § 315 Absatz 1 Satz 1 Anbieter
+weiterer Dienste oder Anwendungen nach § 306 Absatz 1 Nummer 2
+Buchstabe a als berechtigte Dritte diskriminierungsfrei festlegen.
+Berechtigte Dritte dürfen zum Zweck der Authentifizierung von
+Versicherten mittels der digitalen Identitäten personenbezogene Daten
+des Versicherten verarbeiten, sofern diese für die Nutzung der
+digitalen Identität erforderlich sind und der Versicherte in die
+Nutzung der digitalen Identität durch die jeweilige Anwendung
+eingewilligt hat. Bei der Verarbeitung sind die Anforderungen des
+Datenschutzes einzuhalten. Die Krankenkassen stellen den zur Nutzung
+berechtigten Dritten Verfahren zur Erprobung der Integration der
+digitalen Identität nach Satz 1 zur Verfügung.
 
-(9) Die Versicherten können über eine von ihrer Krankenkasse
-angebotene Benutzeroberfläche einen Nachweis der Berechtigung zur
-Inanspruchnahme von Leistungen im Rahmen der vertragsärztlichen
-Versorgung von ihrer gesetzlichen Krankenkasse für die Vorlage bei
-einem Leistungserbringer anfordern, der unmittelbar von der
-Krankenkasse über ein sicheres Übermittlungsverfahren nach § 311
-Absatz 6 an den Leistungserbringer übermittelt wird. Für die
-Mitteilung der durchgeführten Prüfung des Nachweises nach Satz 1 durch
-den Leistungserbringer gilt § 291b Absatz 3 entsprechend.
+(9) Die Versicherten können von ihrer Krankenkasse über eine von ihrer
+Krankenkasse angebotene Benutzeroberfläche einen Nachweis der
+Berechtigung zur Inanspruchnahme von Leistungen im Rahmen der
+vertragsärztlichen Versorgung für die Vorlage bei einem
+Leistungserbringer anfordern, der unmittelbar von der Krankenkasse
+über ein sicheres Übermittlungsverfahren nach § 311 Absatz 6 an den
+Leistungserbringer übermittelt wird. Mit Einwilligung des Versicherten
+kann ein Leistungserbringer den in Satz 1 genannten Nachweis auch
+unmittelbar über das sichere Übermittlungsverfahren nach § 311 Absatz
+6 anfordern. Die Einwilligung des Versicherten kann formlos erfolgen.
+Der Leistungserbringer hat die Einwilligung des Versicherten in seinem
+informationstechnischen System zu protokollieren. Voraussetzung für
+die Nutzung des Verfahrens nach Satz 2 ist, dass der Versicherte in
+der jeweiligen Leistungserbringerinstitution bekannt ist. Die
+Krankenkasse hat den Versicherten über die Ausstellung eines
+Nachweises der Berechtigung zur Inanspruchnahme von Leistungen im
+Rahmen der vertragsärztlichen Versorgung nach den Sätzen 2 bis 5 auf
+geeignete Weise zu benachrichtigen. Das Verfahren nach den Sätzen 2
+bis 6 soll nur in Ausnahmefällen genutzt werden. Das Weitere zur
+Durchführung des Verfahrens nach den Sätzen 2 bis 6 regelt der
+Spitzenverband Bund der Krankenkassen im Benehmen mit den Verbänden
+der Leistungserbringer. Für die Mitteilung der durchgeführten Prüfung
+des Nachweises nach Satz 1 durch den Leistungserbringer gilt § 291b
+Absatz 3 entsprechend.
 
 
 ##### § 291a Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050825126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050826126)
 
 (1) Die elektronische Gesundheitskarte dient mit den in den Absätzen 2
 bis 5 genannten Angaben dem Nachweis der Berechtigung zur
@@ -39126,7 +39530,7 @@ Versorgung (Versicherungsnachweis) sowie der Abrechnung mit den
 Leistungserbringern. Bei der Inanspruchnahme einer ärztlichen
 Behandlung bestätigt der Versicherte auf dem Abrechnungsschein des
 Arztes das Bestehen der Mitgliedschaft bei der Krankenkasse durch
-seine Unterschrift. Ab dem 1. Januar 2026 kann der
+seine Unterschrift. Ab dem 1. Januar 2027 kann der
 Versicherungsnachweis auch durch eine digitale Identität nach § 291
 Absatz 8 erbracht werden.
 
@@ -42316,7 +42720,7 @@ den Geschäftsanteilen ergebenden Stimmen.
 
 
 ##### § 311 Aufgaben der Gesellschaft für Telematik
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076204126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076205126)
 
 (1) Im Rahmen des Auftrags nach § 306 Absatz 1 hat die Gesellschaft
 für Telematik nach Maßgabe der Anforderungen gemäß § 306 Absatz 3
@@ -42454,6 +42858,27 @@ Trägern der gesetzlichen Unfallversicherung getragen. Die Träger der
 gesetzlichen Unfallversicherung legen die Einzelheiten der
 Kostenerstattung im Einvernehmen mit der Gesellschaft für Telematik
 fest.
+
+(1a) Die Aufgaben der Zulassung, der Festlegung und der Bestätigung
+nach Absatz 1 Satz 1 Nummer 4 bis 6 sowie der Erteilung von
+Anweisungen zur Abwehr von Gefahren für die Funktionsfähigkeit und
+Sicherheit der Telematikinfrastruktur und zur Vermeidung von Störungen
+nach § 329 Absatz 3 Satz 2 und zur Beseitigung von Sicherheitsmängeln
+nach § 333 Absatz 3 sowie die Beauftragung nach § 385 Absatz 1 Satz 2
+Nummer 2 und die Zertifizierung nach § 385 Absatz 1 Satz 2 Nummer 7
+werden als hoheitliche Aufgaben des Bundes durch die Gesellschaft für
+Telematik als Beliehene wahrgenommen. Die Zertifizierungsleistungen
+nach § 385 Absatz 1 Satz 2 Nummer 7 können als hoheitliche Aufgaben
+des Bundes neben der Gesellschaft für Telematik auch durch die Stellen
+nach § 385 Absatz 7 als Beliehene erbracht werden. Die Wahrnehmung der
+Aufgaben nach Satz 1 schließt die Befugnis zum Erlass von
+Verwaltungsakten und zu deren Vollstreckung, zur Rücknahme und zum
+Widerruf der erlassenen Verwaltungsakte sowie zum Erlass der
+Widerspruchsbescheide ein. Widerspruch und Anfechtungsklage gegen
+Entscheidungen der Beliehenen haben keine aufschiebende Wirkung. Die
+Gesellschaft für Telematik unterliegt bei der Wahrnehmung der ihr
+übertragenen hoheitlichen Aufgaben der Rechts- und Fachaufsicht des
+Bundesministeriums für Gesundheit.
 
 (2) Die Gesellschaft für Telematik hat Festlegungen und Maßnahmen nach
 Absatz 1 Nummer 1, die Fragen der Datensicherheit berühren, im
@@ -43024,7 +43449,7 @@ Wochen vor Beginn des jeweiligen Quartals, zu leisten.
 
 
 ##### § 317 Beirat der Gesellschaft für Telematik
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084700126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084701126)
 
 (1) Die Gesellschaft für Telematik hat einen Beirat einzurichten. Der
 Beirat hat eine Vorsitzende oder einen Vorsitzenden. Der Beirat
@@ -43055,8 +43480,9 @@ besteht aus
 
 
 7.  je einem Vertreter der Vereinigungen der Träger der
-    Pflegeeinrichtungen auf Bundesebene und der Verbände der Pflegeberufe
-    auf Bundesebene,
+    Pflegeeinrichtungen auf Bundesebene und der maßgeblichen
+    Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+    Absatz 1 Satz 1 des Elften Buches,
 
 
 8.  der oder dem Bundesbeauftragten für den Datenschutz und die
@@ -43403,29 +43829,11 @@ Herstellern und Anbietern von Komponenten und Diensten auf ihrer
 Internetseite.
 
 
-#### § 326 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068501126)
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
-Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
-das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I
-S. 1147) geändert worden ist, in Verbindung mit dem
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
-Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
-erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49
-Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 sowie Satz
-4, des § 62 Absatz 2 Satz 4 sowie Satz 5 Nummer 2, des § 192 Absatz 1
-Nummer 3, des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242
-Absatz 3 Satz 1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1
-Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
-
-
 #### § 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077800126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077801126)
 
 Anbieter von Betriebsleistungen oder von Komponenten und Diensten der
-Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325
+Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325
 Absatz 1 erforderliche Zulassung oder über die nach § 327 Absatz 2
 Satz 1 erforderliche Bestätigung verfügen, bevor sie die
 Telematikinfrastruktur nutzen.
@@ -44186,7 +44594,7 @@ elektronischer Signaturen verfügen.
 
 
 ##### § 340 Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079103126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079104126)
 
 (1) Die Länder bestimmen
 
@@ -44274,20 +44682,22 @@ selbst übernehmen.
 Leistungserbringerinstitutionen dürfen nur an
 Leistungserbringerinstitutionen ausgegeben werden, denen ein
 Leistungserbringer, der Inhaber eines elektronischen Heilberufs- oder
-Berufsausweises ist, zugeordnet werden kann.
+Berufsausweises ist, zugeordnet werden kann. Satz 1 findet keine
+Anwendung auf die Ausgabe von Komponenten zur Authentifizierung von
+Leistungserbringerinstitutionen an Hilfsmittelerbringer.
 
-(6) Spätestens ab dem 1. Januar 2025 haben die Stellen nach Absatz 1
+(6) Spätestens ab dem 1. Januar 2028 haben die Stellen nach Absatz 1
 Satz 1 Nummer 1 sowie den Absätzen 2 und 4 ergänzend zu den
 Heilberufs- und Berufsausweisen auf Verlangen des Leistungserbringers
 eine digitale Identität für das Gesundheitswesen zur Verfügung zu
 stellen, die nicht an eine Chipkarte gebunden ist.
 
-(7) Spätestens ab dem 1. Januar 2025 haben die Stellen nach Absatz 1
-Satz 1 Nummer 3 sowie den Absätzen 2 und 4 ergänzend zu den
-Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
-auf Verlangen der Leistungserbringerinstitution eine digitale
-Identität für das Gesundheitswesen zur Verfügung zu stellen, die nicht
-an eine Chipkarte gebunden ist.
+(7) Spätestens ab dem 1. Januar 2028 haben die Stellen nach Absatz 1
+Satz 1 Nummer 3 und den Absätzen 2 und 4 ergänzend zu den Komponenten
+zur Authentifizierung von Leistungserbringerinstitutionen auf
+Verlangen der Leistungserbringerinstitution eine digitale Identität
+für das Gesundheitswesen zur Verfügung zu stellen, die nicht an eine
+Chipkarte gebunden ist.
 
 (8) Die Gesellschaft für Telematik legt die jeweiligen Anforderungen
 an die Sicherheit und Interoperabilität der digitalen Identitäten nach
@@ -44303,6 +44713,22 @@ verschiedenen Sicherheits- und Vertrauensniveaus verfügen. Das
 Sicherheits- und Vertrauensniveau der Ausprägung einer digitalen
 Identität muss mindestens dem Schutzbedarf der Anwendung entsprechen,
 bei der diese eingesetzt wird.
+
+
+##### § 340a Sicherer Umgang mit Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095500126)
+
+(1) Eine Komponente zur Authentifizierung von
+Leistungserbringerinstitutionen darf von demjenigen, an den sie
+ausgegeben wurde, weder entgeltlich noch unentgeltlich unbefugt
+weitergegeben werden. Bei Aufgabe der Leistungserbringerinstitution
+hat derjenige, an den eine Komponente zur Authentifizierung von
+Leistungserbringerinstitutionen ausgegeben wurde, oder dessen
+Nachfolger deren Sperrung unverzüglich zu veranlassen.
+
+(2) Die Einrichtungsleitung einer ambulanten oder stationären
+Pflegeeinrichtung nach dem Elften Buch ist für die Einhaltung der
+Vorgaben nach Absatz 1 verantwortlich.
 
 
 #### Zweiter Titel - Elektronische Patientenakte
@@ -44501,7 +44927,7 @@ Telematikinfrastruktur nach § 306 umzusetzen.
 
 
 ###### § 342 Angebot und Nutzung der elektronischen Patientenakte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079304126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079305126)
 
 (1) Die Krankenkassen sind bis zum 14. Januar 2025 verpflichtet, jedem
 Versicherten auf Antrag und mit seiner Einwilligung eine nach § 325
@@ -44709,10 +45135,10 @@ gewährleisten, dass
     dem Register vornehmen können, und
 
 
-4.  zusätzlich spätestens sechs Monate nach Bereitstellung der
-    elektronischen Patientenakte gemäß Absatz 1 Satz 2 Daten, die in der
-    elektronischen Patientenakte gespeichert sind, nach § 363 zu
-    Forschungszwecken bereitgestellt werden können und
+4.  zusätzlich, sobald die hierfür erforderlichen Voraussetzungen
+    vorliegen, spätestens jedoch bis zum 30. Oktober 2026, die in der
+    elektronischen Patientenakte gespeicherten Daten nach § 363 zu
+    Forschungszwecken bereitgestellt werden können.
 
 
 
@@ -44720,39 +45146,39 @@ gewährleisten, dass
 die nach Absatz 1 Satz 2 bereitgestellte elektronische Patientenakte
 technisch insbesondere gewährleisten, dass
 
-1.  spätestens ab dem Zeitpunkt, zu dem die elektronische Patientenakte
-    gemäß Absatz 1 Satz 2 zur Verfügung steht, zur digitalen Unterstützung
+1.  sobald die hierfür erforderlichen Voraussetzungen vorliegen,
+    spätestens jedoch bis zum 31. März 2026, zur digitalen Unterstützung
     des Medikationsprozesses des Versicherten
 
     a)  Daten nach § 341 Absatz 2 Nummer 11 zu arzneimittelbezogenen
         Verordnungsdaten und Dispensierinformationen zur Darstellung der
         aktuell verordneten Medikation sowie Daten zu frei verkäuflichen
         Arzneimitteln und Nahrungsergänzungsmitteln in semantisch und
-        syntaktisch interoperabler Form in einem Informationsobjekt gemäß §
-        355 genutzt werden können und die Erstellung und Aktualisierung des
-        elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1 Buchstabe
+        syntaktisch interoperabler Form in einem Informationsobjekt nach § 355
+        genutzt werden können und die Erstellung und Aktualisierung des
+        elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1 Buchstabe
         b unterstützen;
 
 
     b)  Daten des elektronischen Medikationsplans nach § 341 Absatz 2 Nummer 1
-        Buchstabe b in einem Informationsobjekt gemäß § 355 in semantisch und
+        Buchstabe b in einem Informationsobjekt nach § 355 in semantisch und
         syntaktisch interoperabler Form in der elektronischen Patientenakte
         zur Verfügung gestellt werden können und Ergänzungen durch den
         Versicherten nach § 337 Absatz 1 Satz 1 vorgenommen werden können;
 
 
     c)  Daten zur Prüfung der Arzneimitteltherapiesicherheit nach § 334 Absatz
-        1 Satz 2 Nummer 4 in einem Informationsobjekt gemäß § 355 in
-        semantisch und syntaktisch interoperabler Form zur Verfügung gestellt
-        werden können und die Nutzung der Daten nach Buchstabe a sowie die
-        Erstellung und Aktualisierung des elektronischen Medikationsplans nach
-        Buchstabe b unterstützen können;
+        1 Satz 2 Nummer 4 in einem Informationsobjekt nach § 355 in semantisch
+        und syntaktisch interoperabler Form zur Verfügung gestellt werden
+        können und die Nutzung der Daten nach Buchstabe a sowie die Erstellung
+        und Aktualisierung des elektronischen Medikationsplans nach Buchstabe
+        b unterstützen können;
 
 
     d)  die Versicherten oder durch sie bestimmte Vertreter über die
         Benutzeroberfläche eines geeigneten Endgeräts einen Widerspruch
         gegenüber Zugriffsberechtigten nach § 352 gegen die Übermittlung und
-        Speicherung von Daten des Versicherten nach Buchstabe a, b und c
+        Speicherung von Daten des Versicherten nach den Buchstaben a bis c
         insgesamt barrierefrei erklären können und
 
 
@@ -45382,7 +45808,7 @@ möglich ist.
 
 
 ###### § 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079801126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079802126)
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden
 Leistungserbringer haben nach Maßgabe der §§ 346 und 339 Absatz 1
@@ -45499,9 +45925,21 @@ Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort
 gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5
 gilt entsprechend.
 
+(6) Die Verpflichtungen nach Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz
+4 Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und
+Speicherung von Daten in die elektronische Patientenakte erhebliche
+therapeutische Gründe oder sonstige erhebliche Rechte Dritter
+entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung
+des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des
+15\. Lebensjahres vorliegen und die Befüllung der elektronischen
+Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in
+Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und
+Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
+
 
 ###### § 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079901126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079902126)
 
 (1) Die Leistungserbringer in zugelassenen Krankenhäusern haben nach
 Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß
@@ -45567,7 +46005,7 @@ Erkrankungen und Schwangerschaftsabbrüchen, auf die Möglichkeit, die
 Verarbeitung dieser Daten zu beschränken, hinzuweisen. § 347 Absatz 1
 Satz 6 gilt entsprechend.
 
-(4) Über die Verpflichtung nach den Absätzen 1 und 2 hinaus haben die
+(4) Über die Verpflichtung nach den Absätzen 1 bis 3 hinaus haben die
 Leistungserbringer in zugelassenen Krankenhäusern auf Verlangen der
 Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis
 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln
@@ -45591,9 +46029,21 @@ Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs
 in die elektronische Patientenakte zu übermitteln und dort gemäß § 341
 Absatz 2 Nummer 15 zu speichern.
 
+(6) Die Verpflichtungen nach den Absätzen 1, 3 Satz 1, nach Absatz 4
+Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und
+Speicherung von Daten in die elektronische Patientenakte erhebliche
+therapeutische Gründe oder sonstige erhebliche Rechte Dritter
+entgegenstehen oder soweit gewichtige Anhaltspunkte für die Gefährdung
+des Wohles eines Kindes oder eines Jugendlichen bis zur Vollendung des
+15\. Lebensjahres vorliegen und die Befüllung der elektronischen
+Patientenakte den wirksamen Schutz des Kindes oder Jugendlichen in
+Frage stellen würde. Die Gründe für die Ablehnung der Übermittlung und
+Speicherung nach Satz 1 haben Leistungserbringer nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
+
 
 ###### § 349 Übertragung von Daten in die elektronische Patientenakte durch weitere Zugriffsberechtigte; Anspruch der Versicherten auf Übertragung des elektronischen Medikationsplans und der elektronischen Notfalldaten in die elektronische Patientenakte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080002126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080003126)
 
 (1) Über die in § 346 Absatz 2, in den §§ 347 und 348 genannten
 Leistungserbringer hinaus können weitere Zugriffsberechtigte nach
@@ -45684,6 +46134,18 @@ elektronischen Gesundheitskarte, sondern nach § 358 Absatz 8 in der
 elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b
 gespeichert wird, gilt der Anspruch des Versicherten nach Absatz 5 nur
 noch für Daten in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 5.
+
+(8) Die Verpflichtungen nach Absatz 3 Satz 1 und Absatz 4 Satz 1
+bestehen nicht, soweit der Übermittlung und Speicherung von Daten in
+die elektronische Patientenakte erhebliche therapeutische Gründe oder
+sonstige erhebliche Rechte Dritter entgegenstehen oder soweit
+gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes
+oder eines Jugendlichen bis zur Vollendung des 15. Lebensjahres
+vorliegen und die Befüllung der elektronischen Patientenakte den
+wirksamen Schutz des Kindes oder Jugendlichen in Frage stellen würde.
+Die Gründe für die Ablehnung der Übermittlung und Speicherung nach
+Satz 1 haben Zugriffsberechtigte nachprüfbar in ihrer
+Behandlungsdokumentation zu protokollieren.
 
 
 ###### § 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
@@ -45811,7 +46273,7 @@ Satz 1 zu erhalten.
 
 
 ###### § 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080304126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080305126)
 
 Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1
 Satz 1 dürfen, nach Maßgabe des § 339 Absatz 1 und 1a, ausschließlich
@@ -46083,7 +46545,9 @@ folgende Personen zugreifen:
 
 
 Die Zugriffsrechte nach Satz 1 gelten auch, soweit die jeweiligen
-Zugriffsberechtigten nach dem Siebten Buch tätig werden.
+Zugriffsberechtigten nach dem Siebten Buch tätig werden. Die
+Zugriffsrechte nach Satz 1 gelten nicht für Daten nach § 341 Absatz 2
+Nummer 8.
 
 
 ###### § 353 Erklärung des Widerspruchs; Erteilung der Einwilligung
@@ -47151,7 +47615,7 @@ unter Nutzung der Telematikinfrastruktur zur Verfügung steht.
 
 
 ##### § 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081104126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081105126)
 
 (1) Sobald die hierfür erforderlichen Dienste und Komponenten
 flächendeckend zur Verfügung stehen, ist für die elektronische
@@ -47292,7 +47756,8 @@ Krankenpflege nach § 37 sowie der außerklinischen Intensivpflege nach
 § 37c bis zum 1. Juli 2025, Erbringer von Leistungen der Soziotherapie
 nach § 37a bis zum 1. April 2027, Heil- und Hilfsmittelerbringer sowie
 Erbringer der weiteren in Absatz 7 Satz 1 genannten Leistungen bis zum
-1\. Januar 2026 an die Telematikinfrastruktur nach § 306 anzuschließen.
+1\. Oktober 2027 an die Telematikinfrastruktur nach § 306
+anzuschließen.
 
 (9) Versicherte können gegenüber den in Absatz 2 Satz 1 genannten
 Leistungserbringern sowie den in Absatz 4 Satz 1 genannten
@@ -47312,7 +47777,7 @@ Verfügung zu stellen.
 (10) Die Gesellschaft für Telematik ist verpflichtet, die Komponenten
 der Telematikinfrastruktur, die den Zugriff der Versicherten auf die
 elektronische ärztliche Verordnung nach § 334 Absatz 1 Satz 2 Nummer 6
-ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichem
+ermöglichen, als Dienstleistung von allgemeinem wirtschaftlichen
 Interesse zu entwickeln und zur Verfügung zu stellen. Die
 Funktionsfähigkeit und Interoperabilität der Komponenten sind durch
 die Gesellschaft für Telematik sicherzustellen. Die Sicherheit der
@@ -47321,8 +47786,8 @@ einschließlich der Zugriffsmöglichkeiten für Versicherte ist durch ein
 externes Sicherheitsgutachten nachzuweisen. Dabei ist abgestuft im
 Verhältnis zum Gefährdungspotential nachzuweisen, dass die
 Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der
-Komponente sichergestellt wird. Die Festlegung der Prüfverfahren und
-die Auswahl des Sicherheitsgutachters für das externe
+Komponenten sichergestellt werden. Die Festlegung der Prüfverfahren
+und die Auswahl des Sicherheitsgutachters für das externe
 Sicherheitsgutachten erfolgt durch die Gesellschaft für Telematik im
 Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik.
 Das externe Sicherheitsgutachten muss dem Bundesamt für Sicherheit in
@@ -47334,10 +47799,10 @@ Telematik zur Verfügung gestellt werden. Komponenten nach diesem
 Absatz, für die ein externes Sicherheitsgutachten vorliegt, das gemäß
 Satz 6 durch das Bundesamt für Sicherheit in der Informationstechnik
 bestätigt wurde, dürfen den Versicherten abweichend von Satz 7 auch
-durch die Krankenkassen und durch die Unternehmen der privaten
-Krankenversicherung über die Benutzeroberfläche gemäß § 342 zur
-Verfügung gestellt werden. § 11 Absatz 1 und 1a des Apothekengesetzes
-sowie § 31 Absatz 1 Satz 5 bis 7 bleiben unberührt.
+durch die Krankenkassen und durch die in § 362 Absatz 1 genannten
+Kostenträger über die Benutzeroberfläche gemäß § 342 zur Verfügung
+gestellt werden. § 11 Absatz 1 und 1a des Apothekengesetzes sowie § 31
+Absatz 1 Satz 5 bis 7 bleiben unberührt.
 
 (11) Verordnungsdaten und Dispensierinformationen sind mit Ablauf von
 100 Tagen nach Dispensierung der Verordnung zu löschen.
@@ -47452,7 +47917,7 @@ Krankenhäuser von den Regelungen in Satz 1 ausgenommen.
 
 
 ##### § 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081202126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081203126)
 
 (1) Auf Daten der Versicherten in vertragsärztlichen elektronischen
 Verordnungen dürfen ausschließlich folgende Personen zugreifen:
@@ -47527,63 +47992,18 @@ Verordnungen dürfen zugriffsberechtigte Leistungserbringer und andere
 zugriffsberechtigte Personen nach Absatz 1 und nach Maßgabe des § 339
 Absatz 2 nur zugreifen mit
 
-1.  einem ihrer Berufszugehörigkeit entsprechenden elektronischen
-    Heilberufsausweis in Verbindung mit einer Komponente zur
-    Authentifizierung von Leistungserbringerinstitutionen,
+1.  einer Komponente zur Authentifizierung von
+    Leistungserbringerinstitutionen oder
 
 
-2.  einem ihrer Berufszugehörigkeit entsprechenden elektronischen
-    Berufsausweis in Verbindung mit einer Komponente zur Authentifizierung
-    von Leistungserbringerinstitutionen oder
-
-
-3.  einer digitalen Identität nach § 340 Absatz 6 in Verbindung mit einer
-    Komponente zur Authentifizierung von Leistungserbringerinstitutionen.
+2.  einer digitalen Identität nach § 340 Absatz 7.
 
 
 
 Es ist nachprüfbar elektronisch zu protokollieren, wer auf die Daten
 zugegriffen hat.
 
-(3) Die in Absatz 1 genannten zugriffsberechtigten Personen, die weder
-über einen elektronischen Heilberufsausweis noch über einen
-elektronischen Berufsausweis verfügen, dürfen nach Maßgabe des Absatz
-1 nur zugreifen, wenn
-
-1.  sie für diesen Zugriff von Personen autorisiert sind, die verfügen
-    über
-
-    a)  einen ihrer Berufszugehörigkeit entsprechenden elektronischen
-        Heilberufsausweis oder
-
-
-    b)  einen ihrer Berufszugehörigkeit entsprechenden elektronischen
-        Berufsausweis und
-
-
-
-
-
-2.  nachprüfbar elektronisch protokolliert wird,
-
-    a)  wer auf die Daten zugegriffen hat und
-
-
-    b)  von welcher Person nach Nummer 1 die zugreifende Person autorisiert
-        wurde.
-
-
-
-
-
-
-
-(4) Der elektronische Heilberufsausweis und der elektronische
-Berufsausweis müssen über eine Möglichkeit zur sicheren
-Authentifizierung und zur Erstellung qualifizierter elektronischer
-Signaturen verfügen.
-
-(5) Die Übermittlung von Daten der elektronischen Verordnung nach §
+(3) Die Übermittlung von Daten der elektronischen Verordnung nach §
 360 Absatz 2 zum grenzüberschreitenden Austausch von Gesundheitsdaten
 zum Zweck der Unterstützung einer Behandlung des Versicherten an einen
 in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht
@@ -47595,7 +48015,7 @@ ist erforderlich, dass der Versicherte zum Zeitpunkt der Einlösung der
 Verordnung die Übermittlung an die nationale eHealth-Kontaktstelle des
 Mitgliedstaats, in dem die Verordnung eingelöst wird, durch eine
 eindeutige bestätigende Handlung technisch freigibt. Abweichend von
-den Absätzen 1 bis 4 sowie von § 339 finden für die Verarbeitung der
+den Absätzen 1 und 2 sowie von § 339 finden für die Verarbeitung der
 Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat
 der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung,
 in dem die Verordnung eingelöst wird. Hierbei finden die gemeinsamen
@@ -47763,19 +48183,21 @@ Krankenkasse.
 
 
 ##### § 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte, für sonstige heilfürsorgeberechtigte Beamte oder für Soldaten der Bundeswehr
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081302126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081303126)
 
 (1) Werden von Unternehmen der privaten Krankenversicherung, der
 Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
 der Bundespolizei, der Landespolizeien, von der Bundeswehr oder von
 Trägern der freien Heilfürsorge elektronische Gesundheitskarten oder
 digitale Identitäten für die Verarbeitung von Daten einer Anwendung
-nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an
+nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an
 Polizeivollzugsbeamte, an sonstige heilfürsorgeberechtigte Beamte oder
-an Soldaten zur Verfügung gestellt, sind § 291 Absatz 8 Satz 5 bis 9,
+an Soldaten zur Verfügung gestellt, sind § 291 Absatz 8 Satz 6 bis 10,
 § 291a Absatz 5 bis 7, die §§ 334 bis 337, 339, 341 Absatz 1 bis 4, §
-342 Absatz 2 bis 3, § 343 Absatz 1 und 1a, die §§ 344, 345, 352, 353,
-356 bis 359a und 361 entsprechend anzuwenden.
+342 Absatz 2 Nummer 1, 3 und 4 und Absatz 3, § 343 Absatz 1 und 1a,
+die §§ 344, 345, 352, 353, 356 bis 359a und 361 entsprechend
+anzuwenden. § 342 Absatz 2 Nummer 2 ist entsprechend anwendbar mit der
+Maßgabe, dass die Verpflichtung ab dem 1. Januar 2028 gilt.
 
 (2) Für den Einsatz elektronischer Gesundheitskarten oder digitaler
 Identitäten nach Absatz 1 können Unternehmen der privaten
@@ -47788,7 +48210,9 @@ Absatz 1 Satz 4 bis 7 ist entsprechend anzuwenden. Die Vergabe der
 Versichertennummer erfolgt durch die Vertrauensstelle nach § 290
 Absatz 2 Satz 2 und hat den Vorgaben der Richtlinien nach § 290 Absatz
 2 Satz 1 für den unveränderbaren Teil der Krankenversichertennummer zu
-entsprechen.
+entsprechen. Die Vertrauensstelle hat die vergebenen
+Versichertennummern in das von ihr nach § 290 Absatz 3 geführte
+Verzeichnis der Krankenversichertennummern aufzunehmen.
 
 (3) Die Kosten zur Bildung der Versichertennummer und, sofern die
 Vergabe einer Rentenversicherungsnummer erforderlich ist, zur Vergabe
@@ -48347,7 +48771,7 @@ Satz 2 Nummer 5.
 
 
 #### § 373 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082404126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082405126)
 
 (1) Für die in den zugelassenen Krankenhäusern eingesetzten
 informationstechnischen Systeme erstellt das Kompetenzzentrum für
@@ -48379,8 +48803,9 @@ Subsysteme auf Basis der bisher erarbeiteten Vorschläge zu treffen.
 (3) Für die informationstechnischen Systeme nach § 371 Absatz 2
 erstellt das Kompetenzzentrum für Interoperabilität im
 Gesundheitswesen im Benehmen mit den Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene sowie den Verbänden der
-Pflegeberufe auf Bundesebene und den für die Wahrnehmung der
+Pflegeeinrichtungen auf Bundesebene sowie den maßgeblichen
+Organisationen der Pflegeberufe auf Bundesebene im Sinne des § 118a
+Absatz 1 Satz 1 des Elften Buches und den für die Wahrnehmung der
 Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich
 der Informationstechnologie im Gesundheitswesen und in der
 pflegerischen Versorgung die erforderlichen Spezifikationen zu den
@@ -48415,20 +48840,22 @@ erfolgreich durchlaufen haben, ist wie folgt verpflichtend:
 
 
 #### § 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082501126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082502126)
 
 Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche
 Bundesvereinigung, die Deutsche Krankenhausgesellschaft, das
-Kompetenzzentrum für Interoperabilität im Gesundheitswesen und die
-Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie
-der Verbände der Pflegeberufe auf Bundesebene stimmen sich bei den
-Festlegungen für offene und standardisierte Schnittstellen nach den §§
-371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten der
-Schnittstellen sektorenübergreifende einheitliche Vorgaben zu treffen.
-Betreffen die Festlegungen nach Satz 1 pflegerelevante Inhalte, so
-sind die Vereinigungen der Träger der Pflegeeinrichtungen auf
-Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene mit
-einzubeziehen.
+Kompetenzzentrum für Interoperabilität im Gesundheitswesen, die
+Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene und
+die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene im
+Sinne des § 118a Absatz 1 Satz 1 des Elften Buches stimmen sich bei
+den Festlegungen für offene und standardisierte Schnittstellen nach
+den §§ 371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten
+der Schnittstellen sektorenübergreifende einheitliche Vorgaben zu
+treffen. Betreffen die Festlegungen nach Satz 1 pflegerelevante
+Inhalte, so sind die Vereinigungen der Träger der Pflegeeinrichtungen
+auf Bundesebene sowie die maßgeblichen Organisationen der Pflegeberufe
+auf Bundesebene im Sinne des § 118a Absatz 1 Satz 1 des Elften Buches
+mit einzubeziehen.
 
 
 #### § 374a Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten
@@ -49639,7 +50066,7 @@ Absatzes 3 durch den Dritten gewährleistet wird.
 
 
 ### § 393 Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084303126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084304126)
 
 (1) Leistungserbringer im Sinne des Vierten Kapitels und Kranken- und
 Pflegekassen sowie ihre jeweiligen Auftragsdatenverarbeiter dürfen
@@ -49687,16 +50114,20 @@ zu den Anforderungen des Absatzes 2
 (4) Bis zum 30. Juni 2025 gilt als aktuelles C5-Testat im Sinne des
 Absatzes 3 Nummer 2 ein C5-Typ1-Testat. Ab dem 1. Juli 2025 gilt als
 aktuelles C5-Testat im Sinne des Absatzes 3 Nummer 2 ein aktuelles
-C5-Typ2-Testat. Eine Verarbeitung nach Absatz 3 Nummer 2 ist ferner
-auch zulässig, soweit für die im Rahmen des Cloud-Computing-Dienstes
-eingesetzten Cloud-Systeme und die Cloud-Technik anstelle eines
-aktuellen C5-Testats ein Testat oder Zertifikat nach einem Standard
-vorliegt, dessen Befolgung ein im Vergleich zum C5-Standard
-vergleichbares oder höheres Sicherheitsniveau sicherstellt. Das
-Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit
-dem Bundesamt für Sicherheit in der Informationstechnik festzulegen,
-welche Standards die Anforderungen nach Satz 3 erfüllen.
+C5-Typ2-Testat. Wird ein informationstechnisches System nach dem 30.
+Juni 2025 erstmalig in Verkehr gebracht, gilt als aktuelles C5-Testat
+im Sinne des Absatzes 3 Nummer 2 für die ersten 18 Monate nach dem
+Inverkehrbringen ein C5-Typ1-Testat, ab dem 19. Monat nach dem
+Inverkehrbringen ein C5-Typ2-Testat. Eine Verarbeitung nach Absatz 3
+Nummer 2 ist ferner auch zulässig, soweit für die im Rahmen des Cloud-
+Computing-Dienstes eingesetzten Cloud-Systeme und die Cloud-Technik
+anstelle eines aktuellen C5-Testats ein Testat oder Zertifikat nach
+einem Standard vorliegt, dessen Befolgung ein im Vergleich zum
+C5-Standard vergleichbares oder höheres Sicherheitsniveau
+sicherstellt. Das Bundesministerium für Gesundheit wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen
+mit dem Bundesamt für Sicherheit in der Informationstechnik
+festzulegen, welche Standards die Anforderungen nach Satz 4 erfüllen.
 
 (5) Technische und organisatorische Maßnahmen gelten als angemessen im
 Sinne von Absatz 3 Nummer 1, wenn folgende Anforderungen erfüllt
@@ -49996,7 +50427,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 399 Strafvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051708126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051709126)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -50006,12 +50437,19 @@ bestraft, wer
     weitergibt,
 
 
-2.  entgegen § 64e Absatz 11b Satz 6 oder § 303e Absatz 5 Satz 4, auch in
-    Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet
-    oder
+2.  entgegen § 64e Absatz 11b Satz 5 oder § 303e Absatz 5 Satz 4, auch in
+    Verbindung mit § 363 Absatz 4 Satz 2, dort genannte Daten verarbeitet,
 
 
-3.  entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder
+3.  entgegen § 340a Absatz 1 Satz 1 eine dort genannte Komponente
+    weitergibt,
+
+
+4.  entgegen § 340a Absatz 1 Satz 2 eine Sperrung nicht oder nicht
+    rechtzeitig veranlasst oder
+
+
+5.  entgegen § 352, § 356 Absatz 1 oder 2, § 357 Absatz 1, 2 Satz 1 oder
     Absatz 3, § 359 Absatz 1 oder § 361 Absatz 1 auf dort genannte Daten
     zugreift.
 
@@ -50020,7 +50458,7 @@ bestraft, wer
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen Anderen zu bereichern oder einen Anderen zu schädigen, so ist
-die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (3) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind der
 Betroffene, der Bundesbeauftragte für den Datenschutz oder die
@@ -50905,6 +51343,20 @@ dem nach § 142 Absatz 1 Satz 1 berufenen Sachverständigenrat von den
 Krankenkassen, den Unternehmen der privaten Krankenversicherung, den
 Kassenärztlichen Vereinigungen, den Krankenhäusern und den
 Medizinischen Diensten in anonymisierter Form zu übermitteln.
+
+
+### § 428 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095600126)
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
+am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung
+erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49
+Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 und Satz 4,
+des § 62 Absatz 2 Satz 4 und 5 Nummer 2, des § 192 Absatz 1 Nummer 3,
+des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242 Absatz 3 Satz
+1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1 Satz 1 in der
+jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien
