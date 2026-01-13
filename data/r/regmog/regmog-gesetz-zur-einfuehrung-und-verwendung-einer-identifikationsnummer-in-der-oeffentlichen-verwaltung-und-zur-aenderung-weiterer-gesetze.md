@@ -14,7 +14,7 @@ Ausfertigungsdatum
 :   2021-03-28
 
 Fundstelle
-:   BGBl I: 2021, 591 (2023 I Nr. 230, Nr. 293) (2024 I Nr. 292) (2024 I Nr. 338) (2025 I Nr. 137) (2025 I Nr. 262)
+:   BGBl I: 2021, 591 (2023 I Nr. 230; 2023 I Nr. 293; 2024 I Nr. 292; 2024 I Nr. 338; 2025 I Nr. 137; 2025 I Nr. 262)
 
 Geändert durch
 :   Art. 17 G v. 28.6.2021 I 2250

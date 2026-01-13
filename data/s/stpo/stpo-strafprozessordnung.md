@@ -31,7 +31,7 @@ Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 349 mWv 23.12.2025 noch nicht berücksichtigt
+:   Art. 7 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
@@ -584,7 +584,7 @@ Bundesrates auf die zuständigen Bundesministerien übertragen.
 
 
 #### § 32a Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Gerichten; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074205125)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074206131)
 
 (1) Elektronische Dokumente können bei Strafverfolgungsbehörden und
 Gerichten nach Maßgabe der folgenden Absätze eingereicht werden.
@@ -595,7 +595,7 @@ Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates technische Rahmenbedingungen für die Übermittlung und die
 Eignung zur Bearbeitung durch die Strafverfolgungsbehörde oder das
 Gericht sowie das Nähere zur Verarbeitung von Daten der
-Postfachinhaber nach Absatz 4 Satz 1 Nummer 4 und 5 in einem sicheren
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
 elektronischen Verzeichnis.
 
 (3) Ein Dokument, das schriftlich abzufassen, zu unterschreiben oder
@@ -611,46 +611,40 @@ Rechtsanwalt nach Satz 1 übermittelt werden.
 
 (4) Sichere Übermittlungswege sind
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
-    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
-
-
-2.  der Übermittlungsweg zwischen den besonderen elektronischen
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
     Anwaltspostfächern nach den §§ 31a und 31b der
     Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
     Grundlage errichteten elektronischen Postfach und der elektronischen
     Poststelle der Behörde oder des Gerichts,
 
 
-3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
     einer juristischen Person des öffentlichen Rechts und der
     elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens eingerichteten elektronischen Postfach
     einer natürlichen oder juristischen Person oder einer sonstigen
     Vereinigung und der elektronischen Poststelle der Behörde oder des
     Gerichts,
 
 
-5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
     Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
     Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
     der elektronischen Poststelle der Behörde oder des Gerichts,
 
 
-6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
     Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
     festgelegt werden, bei denen die Authentizität und Integrität der
     Daten sowie die Barrierefreiheit gewährleistet sind.
 
 
 
-Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
 regelt die Rechtsverordnung nach Absatz 2 Satz 2.
 
 (5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für

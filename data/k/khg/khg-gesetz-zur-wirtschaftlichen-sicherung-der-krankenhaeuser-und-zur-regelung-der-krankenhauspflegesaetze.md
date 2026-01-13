@@ -29,7 +29,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 28.10.2025 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 371 noch nicht berücksichtigt
+:   Art. 11 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -1652,7 +1652,7 @@ Rechtsverordnung nach § 12 Absatz 3 auch das Nähere zu
 
 
 ### § 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung und Begleitforschung für die digitale Transformation im Rahmen des Krankenhauszukunftsfonds
-[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005802130)
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005803130)
 
 Das Bundesministerium für Gesundheit führt zur Evaluation des
 Krankenhauszukunftsfonds eine Auswertung hinsichtlich der
@@ -1667,21 +1667,19 @@ geeignete Weiterentwicklungsstrategien entwickelt werden. Im Rahmen
 einer Auswertung durch eine durch das Bundesministerium für Gesundheit
 beauftragte Forschungseinrichtung ist der Reifegrad aller
 Krankenhäuser hinsichtlich der Digitalisierung jeweils zum Stichtag
-30\. Juni 2021 und 30. Juni 2024 unter Berücksichtigung von
-Bewertungskriterien anerkannter Reifegradmodelle festzustellen. Das
-Bundesministerium für Gesundheit wird ermächtigt, in der
-Rechtsverordnung nach § 12 Absatz 3 einen weiteren Stichtag
-festzulegen. Die Empfänger von Fördermitteln nach § 14a übermitteln
-der vom Bundesministerium für Gesundheit mit der Reifegradmessung
-beauftragten Forschungseinrichtung auf deren Anforderung in
-elektronischer Form die für die Auswertung erforderlichen
-strukturierten Selbsteinschätzungen hinsichtlich des Umsetzungsstands
-digitaler Maßnahmen. Den teilnehmenden Krankenhäusern wird ein
-Teilnahmezertifikat durch die mit der Reifegradmessung beauftragte
-Forschungseinrichtung ausgestellt. Die Länder prüfen, ob diejenigen
-Krankenhäuser, die nach § 14a eine Förderung in dem jeweiligen Land
-erhalten, an der Reifegradmessung teilgenommen haben und bestätigen
-die Teilnahme gegenüber dem Bundesamt für Soziale Sicherung.
+30\. Juni 2021, 30. Juni 2024 und 1. März 2026 unter Berücksichtigung
+von Bewertungskriterien anerkannter Reifegradmodelle festzustellen.
+Die Empfänger von Fördermitteln nach § 14a übermitteln der vom
+Bundesministerium für Gesundheit mit der Reifegradmessung beauftragten
+Forschungseinrichtung auf deren Anforderung in elektronischer Form die
+für die Auswertung erforderlichen strukturierten Selbsteinschätzungen
+hinsichtlich des Umsetzungsstands digitaler Maßnahmen. Den
+teilnehmenden Krankenhäusern wird ein Teilnahmezertifikat durch die
+mit der Reifegradmessung beauftragte Forschungseinrichtung
+ausgestellt. Die Länder prüfen, ob diejenigen Krankenhäuser, die nach
+§ 14a eine Förderung in dem jeweiligen Land erhalten, an der
+Reifegradmessung teilgenommen haben und bestätigen die Teilnahme
+gegenüber dem Bundesamt für Soziale Sicherung.
 
 
 ### § 15 Beteiligung an Schließungskosten
