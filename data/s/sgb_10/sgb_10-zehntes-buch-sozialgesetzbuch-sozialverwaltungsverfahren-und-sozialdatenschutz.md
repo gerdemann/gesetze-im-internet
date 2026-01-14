@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 8d G v. 19.7.2024 I Nr. 245
-
-Änderung durch
-:   Art. 11 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.12.2025 I Nr. 355
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -3980,11 +3977,6 @@ Gerichte im Bereich der Strafverfolgung, an Polizeibehörden,
 Verfassungsschutzbehörden, den Bundesnachrichtendienst und den
 Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser
 Stellen zulässig.
-
-
-#### § 83a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017302126)
-
 
 
 #### § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch

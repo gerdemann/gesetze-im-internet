@@ -34,7 +34,7 @@ Mittelbare änderung durch
 :   Art. 7 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 369 mWv 30.12.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -2964,7 +2964,7 @@ vorgesehenen Empfänger abschriftlich mitzuteilen.
 
 
 #### § 100a Telekommunikationsüberwachung
-[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016463125)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016464131)
 
 (1) Auch ohne Wissen der Betroffenen darf die Telekommunikation
 überwacht und aufgezeichnet werden, wenn
@@ -3067,7 +3067,7 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
 
 
     q)  Vorenthalten und Veruntreuen von Arbeitsentgelt unter den in § 266a
-        Absatz 4 Satz 2 Nummer 4 genannten Voraussetzungen,
+        Absatz 4 Satz 2 Nummer 3 oder 4 genannten Voraussetzungen,
 
 
     r)  Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2
@@ -3236,11 +3236,16 @@ werden, wenn sie auch während des laufenden Übertragungsvorgangs im
     a)  Straftaten nach § 51 Abs. 1 bis 3,
 
 
-    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5
-        und 6.
+    b)  Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Absatz
+        5 und 6,
 
 
 
+
+
+12. aus dem Schwarzarbeitsbekämpfungsgesetz:
+
+    Straftaten nach § 9.
 
 
 

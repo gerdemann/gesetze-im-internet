@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 66 G v. 23.10.2024 I Nr. 323
-
-Mittelbare änderung durch
-:   Art. 4 G v. 2.12.2025 I Nr. 302 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
 :   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -8762,16 +8756,6 @@ reduzieren.
 Ländern, Kommunen und Feuerwehrverbänden in den
 Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der
 Versicherten und Unternehmen sicherzustellen.
-
-
-### § 224 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027406126)
-
-
-
-### § 225 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027603311)
-
 
 (zu § 114)
 
