@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 7.11.2024 I Nr. 351
+:   Art. 2 G v. 9.1.2026 I Nr. 3
 
 
 ## Allgemeiner Teil - 
@@ -310,7 +310,7 @@ folgende Taten, die im Ausland begangen werden:
 
 
 ##### § 6 Auslandstaten gegen international geschützte Rechtsgüter
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007316360)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007317129)
 
 Das deutsche Strafrecht gilt weiter, unabhängig vom Recht des Tatorts,
 für folgende Taten, die im Ausland begangen werden:
@@ -319,7 +319,7 @@ für folgende Taten, die im Ausland begangen werden:
 
 
 2.  Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der
-    §§ 307 und 308 Abs. 1 bis 4, des § 309 Abs. 2 und des § 310;
+    §§ 307 und 308 Absatz 1 bis 5, des § 309 Abs. 2 und des § 310;
 
 
 3.  Angriffe auf den Luft- und Seeverkehr (§ 316c);
@@ -4737,7 +4737,7 @@ nach dieser Vorschrift absehen.
 
 
 ##### § 89c Terrorismusfinanzierung
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067100144)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067101129)
 
 (1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung
 stellt mit dem Wissen oder in der Absicht, dass diese von einer
@@ -4758,7 +4758,7 @@ anderen Person zur Begehung
 
 3.  von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher
     Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3,
-    des § 308 Absatz 1 bis 4, des § 309 Absatz 1 bis 5, der §§ 313, 314
+    des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314
     oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des §
     316c Absatz 1 bis 3 oder des § 317 Absatz 1,
 
@@ -6164,7 +6164,7 @@ schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 #### § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027710130)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027711129)
 
 (1) Wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu
 stören,
@@ -6197,9 +6197,9 @@ stören,
 
 
 7.  ein gemeingefährliches Verbrechen in den Fällen der §§ 306 bis 306c
-    oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4,
-    der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs. 1
-    oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis
+    4, der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs.
+    1 oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
 
 
 8.  ein gemeingefährliches Vergehen in den Fällen des § 309 Abs. 6, des §
@@ -6408,7 +6408,7 @@ bestraft.
 
 
 #### § 129a Bildung terroristischer Vereinigungen
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028110123)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028111129)
 
 (1) Wer eine Vereinigung (§ 129 Absatz 2) gründet, deren Zwecke oder
 deren Tätigkeit darauf gerichtet sind,
@@ -6440,7 +6440,7 @@ oder deren Tätigkeit darauf gerichtet sind,
 
 2.  Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche
     Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3,
-    des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder
+    des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder
     315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1
     bis 3 oder des § 317 Abs. 1,
 
@@ -6799,7 +6799,7 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 
 #### § 138 Nichtanzeige geplanter Straftaten
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029114130)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029115129)
 
 (1) Wer von dem Vorhaben oder der Ausführung
 
@@ -6837,8 +6837,8 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 
 8.  einer gemeingefährlichen Straftat in den Fällen der §§ 306 bis 306c
-    oder 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 4, des § 309 Abs. 1 bis 5,
-    der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis
+    5, der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§
     316a oder 316c
 
 
@@ -13238,7 +13238,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 308 Herbeiführen einer Sprengstoffexplosion
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051003307)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051004129)
 
 (1) Wer anders als durch Freisetzen von Kernenergie, namentlich durch
 Sprengstoff, eine Explosion herbeiführt und dadurch Leib oder Leben
@@ -13250,20 +13250,26 @@ Gesundheitsschädigung eines anderen Menschen oder eine
 Gesundheitsschädigung einer großen Zahl von Menschen, so ist auf
 Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
 
-(3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
+(3) Wer die Sprengstoffexplosion zur Begehung eines Diebstahls (§
+242), eines Bandendiebstahls (§ 244 Absatz 1 Nummer 2) oder eines
+schweren Bandendiebstahls (§ 244a) herbeiführt, wird in den Fällen des
+Absatzes 1 mit Freiheitsstrafe nicht unter zwei Jahren, in den Fällen
+des Absatzes 2 mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
+
+(4) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
 eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe
 oder Freiheitsstrafe nicht unter zehn Jahren.
 
-(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe
-von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des
-Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
-erkennen.
+(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe
+von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der
+Absätze 2 und 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren
+zu erkennen.
 
-(5) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht,
+(6) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht,
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 bestraft.
 
-(6) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
+(7) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
 
@@ -13430,18 +13436,18 @@ bestraft.
 
 
 #### § 313 Herbeiführen einer Überschwemmung
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052203307)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052204129)
 
 (1) Wer eine Überschwemmung herbeiführt und dadurch Leib oder Leben
 eines anderen Menschen oder fremde Sachen von bedeutendem Wert
 gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
 bestraft.
 
-(2) § 308 Abs. 2 bis 6 gilt entsprechend.
+(2) § 308 Absatz 2 und 4 bis 7 gilt entsprechend.
 
 
 #### § 314 Gemeingefährliche Vergiftung
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052303307)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052304129)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer
@@ -13460,11 +13466,11 @@ vergiftete oder mit gesundheitsschädlichen Stoffen vermischte
 Gegenstände im Sinne der Nummer 2 verkauft, feilhält oder sonst in den
 Verkehr bringt.
 
-(2) § 308 Abs. 2 bis 4 gilt entsprechend.
+(2) § 308 Absatz 2, 4 und 5 gilt entsprechend.
 
 
 #### § 314a Tätige Reue
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063601307)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063602129)
 
 (1) Das Gericht kann die Strafe in den Fällen des § 307 Abs. 1 und des
 § 309 Abs. 2 nach seinem Ermessen mildern (§ 49 Abs. 2), wenn der
@@ -13484,7 +13490,7 @@ diesen Vorschriften absehen, wenn der Täter
     a)  § 307 Abs. 2,
 
 
-    b)  § 308 Abs. 1 und 5,
+    b)  § 308 Absatz 1 und 6,
 
 
     c)  § 309 Abs. 6,
@@ -13496,7 +13502,7 @@ diesen Vorschriften absehen, wenn der Täter
     e)  § 312 Abs. 1 und 6 Nr. 1,
 
 
-    f)  § 313, auch in Verbindung mit § 308 Abs. 5,
+    f)  § 313, auch in Verbindung mit § 308 Absatz 6,
 
 
 
@@ -13514,7 +13520,7 @@ diesen Vorschriften absehen, wenn der Täter
     a)  § 307 Abs. 4,
 
 
-    b)  § 308 Abs. 6,
+    b)  § 308 Absatz 7,
 
 
     c)  § 311 Abs. 3,
@@ -13523,7 +13529,7 @@ diesen Vorschriften absehen, wenn der Täter
     d)  § 312 Abs. 6 Nr. 2,
 
 
-    e)  § 313 Abs. 2 in Verbindung mit § 308 Abs. 6
+    e)  § 313 Abs. 2 in Verbindung mit § 308 Absatz 7
 
 
 
@@ -14053,11 +14059,12 @@ erreichen.
 
 
 #### § 321 Führungsaufsicht
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053704307)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053705129)
 
-In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs.
-1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs.
-1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308
+Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des §
+316c Abs. 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68
+Abs. 1).
 
 
 #### § 322 Einziehung

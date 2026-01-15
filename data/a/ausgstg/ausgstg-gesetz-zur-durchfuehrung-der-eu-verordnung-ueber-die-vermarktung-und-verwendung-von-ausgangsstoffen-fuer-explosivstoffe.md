@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2678
 
+Änderung durch
+:   Art. 7 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Zweck des Gesetzes
 [Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000100000)
@@ -316,7 +319,7 @@ in zusammengefasster Form die nach Artikel 19 Absatz 1 der Verordnung
 
 
 ## § 13 Strafvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001301128)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen Artikel 5 Absatz 1 der Verordnung (EU)
@@ -327,12 +330,12 @@ Aufhebung der Verordnung (EU) Nr. 98/2013 (ABl. L 186 vom 11.7.2019,
 S. 1; L 231 vom 6.9.2019, S. 30) einen beschränkten Ausgangsstoff für
 Explosivstoffe bereitstellt, verbringt, besitzt oder verwendet.
 
-(2) Der Versuch ist strafbar.
-
-(3) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird
+(2) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird
 bestraft, wer in den Fällen des Absatzes 1 gewerbsmäßig oder als
 Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung
 solcher Taten verbunden hat.
+
+(3) Der Versuch ist strafbar.
 
 
 ## § 14 Bußgeldvorschriften
@@ -390,8 +393,15 @@ verstößt, indem er vorsätzlich oder fahrlässig
 fünfzigtausend Euro geahndet werden.
 
 
-## § 15 Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001500000)
+## § 15 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001600128)
+
+Gegenstände, auf die sich eine Straftat nach § 13 bezieht, können
+eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
+
+
+## § 16 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001501128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten

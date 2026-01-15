@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1976, 2737
 
 Neugefasst durch
-:   Bek. v. 10.9.2002 I 3518;
+:   Bek. v. 10.9.2002 I 3518
 
 Zuletzt geändert durch
 :   Art. 3 G v. 17.7.2025 I Nr. 171
+
+Änderung durch
+:   Art. 1 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April
 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und
@@ -2274,13 +2277,14 @@ zuständigen Behörde anzuzeigen.
 
 
 ### § 15 Einfuhr, Durchfuhr und Verbringen
-[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002510128)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002511128)
 
 (1) Wer explosionsgefährliche Stoffe einführen, durchführen oder
 verbringen oder durch einen anderen einführen, durchführen oder
-verbringen lassen will, hat nachzuweisen, dass er zum Umgang mit
-explosionsgefährlichen Stoffen oder zum Erwerb dieser Stoffe
-berechtigt ist. Der Einführer oder Verbringer hat auf Verlangen der
+verbringen lassen will, muss zum Umgang mit explosionsgefährlichen
+Stoffen oder zum Erwerb dieser Stoffe berechtigt sein; er hat die
+Berechtigung auf Verlangen der nach Absatz 5 bestimmten Behörde
+nachzuweisen. Der Einführer oder Verbringer hat auf Verlangen der
 zuständigen Behörde nachzuweisen, dass für die explosionsgefährlichen
 Stoffe eine auf Grund einer Rechtsverordnung nach § 25 dieses Gesetzes
 vorgeschriebene Lager- und Verträglichkeitsgruppenzuordnung durch die
@@ -2935,13 +2939,13 @@ der Wirtschaftsakteur die Informationen der zuständigen Behörde zu
 
 
 ### § 17 Lagergenehmigung
-[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002702377)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002703128)
 
 (1) Der Genehmigung bedürfen
 
 1.  die Errichtung und der Betrieb von Lagern, in denen
-    explosionsgefährliche Stoffe zu gewerblichen Zwecken
-    , im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder
+    explosionsgefährliche Stoffe zu gewerblichen Zwecken, im Rahmen einer
+    wirtschaftlichen Unternehmung oder eines land- oder
     forstwirtschaftlichen Betriebes oder bei der Beschäftigung von
     Arbeitnehmern aufbewahrt werden sollen,
 
@@ -3435,12 +3439,12 @@ Rettungsübungen.
 
 
 ### § 28 Anwendbare Vorschriften
-[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003803118)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003804128)
 
 Für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in
 anderen als den in § 7 Abs. 1 bezeichneten Fällen gelten die §§ 13, 15
-Abs. 1, 3 und 6, § 16 Abs. 1, 1a und 2, §§ 17, 19 Abs. 1 Nr. 1 und
-Abs. 2, § 22 Abs. 1 bis 4, §§ 23, 24 Abs. 1 und 2 Nr. 4 sowie § 26
+Absatz 1, 3, 4 und 6, § 16 Abs. 1, 1a und 2, §§ 17, 19 Abs. 1 Nr. 1
+und Abs. 2, § 22 Abs. 1 bis 4, §§ 23, 24 Abs. 1 und 2 Nr. 4 sowie § 26
 Abs. 1 entsprechend. § 26 Abs. 2 gilt mit der Maßgabe, dass die dort
 vorgeschriebene Anzeige nur der zuständigen Behörde zu erstatten ist.
 
@@ -3997,7 +4001,7 @@ Vorliegen einer sprengstoffrechtlichen Erlaubnis gespeichert ist.
 
 
 ### § 40 Strafbarer Umgang und Verkehr sowie strafbare Einfuhr
-[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005006118)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005007128)
 
 (1) Wer ohne die erforderliche Erlaubnis
 
@@ -4017,23 +4021,29 @@ Vorliegen einer sprengstoffrechtlichen Erlaubnis gespeichert ist.
 
 (2) Ebenso wird bestraft, wer
 
-1.  entgegen § 15 Abs. 1 Satz 1 explosionsgefährliche Stoffe einführt,
-    durchführt oder verbringt oder durch einen anderen einführen,
-    durchführen oder verbringen lässt, ohne seine Berechtigung zum Umgang
-    mit explosionsgefährlichen Stoffen oder zu deren Erwerb nachgewiesen
-    zu haben,
+1.  entgegen
+
+    a)  § 15 Absatz 1 Satz 1 erster Halbsatz oder
 
 
-2.  ein Lager ohne Genehmigung nach § 17 Abs. 1 Satz 1 Nr. 1 oder nach
-    einer wesentlichen Änderung ohne Genehmigung nach § 17 Abs. 1 Satz 1
-    Nr. 2 betreibt,
+    b)  § 28 Satz 1 in Verbindung mit § 15 Absatz 1 Satz 1 erster Halbsatz
+
+
+
+    explosionsgefährliche Stoffe einführt, durchführt oder verbringt oder
+    durch einen anderen einführen, durchführen oder verbringen lässt,
+
+
+2.  ohne Genehmigung nach § 17 Absatz 1 Satz 1, auch in Verbindung mit §
+    28 Satz 1, ein Lager betreibt,
 
 
 3.  explosionsgefährliche Stoffe
 
-    a)  entgegen § 22 Abs. 1 Satz 2 an Personen vertreibt oder Personen
-        überlässt, die mit diesen Stoffen nicht umgehen oder den Verkehr mit
-        diesen Stoffen nicht betreiben dürfen,
+    a)  entgegen § 22 Absatz 1 Satz 2, auch in Verbindung mit § 28 Satz 1, an
+        Personen vertreibt oder Personen überlässt, die mit diesen Stoffen
+        nicht umgehen oder den Verkehr mit diesen Stoffen nicht betreiben
+        dürfen,
 
 
     b)  entgegen § 22 Abs. 1 Satz 3 innerhalb einer Betriebsstätte einer
@@ -4043,11 +4053,12 @@ Vorliegen einer sprengstoffrechtlichen Erlaubnis gespeichert ist.
         Voraussetzungen überlässt,
 
 
-    c)  entgegen § 22 Abs. 2 einer anderen als dort bezeichneten Person oder
-        Stelle überlässt,
+    c)  entgegen § 22 Absatz 2, auch in Verbindung mit § 28 Satz 1, einer
+        anderen als dort bezeichneten Person oder Stelle überlässt,
 
 
-    d)  entgegen § 22 Abs. 3 einer Person unter 18 Jahren überlässt oder
+    d)  entgegen § 22 Absatz 3, auch in Verbindung mit § 28 Satz 1, einer
+        Person unter 18 Jahren überlässt oder
 
 
     e)  entgegen § 22 Abs. 4 Satz 1 vertreibt oder anderen überlässt.
@@ -4063,19 +4074,29 @@ bezeichneten Handlungen Leib oder Leben eines anderen oder fremde
 Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu
 fünf Jahren oder mit Geldstrafe bestraft.
 
+(3a) Mit Freiheitstrafe von sechs Monaten bis zu fünf Jahren wird
+bestraft, wer in den Fällen des Absatzes 1 oder des Absatzes 2
+gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
+fortgesetzten Begehung solcher Taten verbunden hat.
+
+(3b) In den Fällen des Absatzes 1, des Absatzes 2 Nummer 1 oder Nummer
+3 Buchstabe a, c oder d, des Absatzes 3 oder des Absatzes 3a ist der
+Versuch strafbar.
+
 (4) Handelt der Täter in den Fällen des Absatzes 1 oder 2 fahrlässig,
 so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(5) Die Tat ist nicht nach Absatz 1 Nummer 3 oder Absatz 2 Nummer 3
-strafbar, wenn eine dort bezeichnete Handlung in Bezug auf einen nach
-§ 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2
-oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begangen wird.
-Satz 1 gilt nicht für einen pyrotechnischen Gegenstand nach § 3a
-Absatz 1 Nummer 1 Buchstabe d.
+(5) Die Tat ist nicht nach Absatz 1 Nummer 3 oder Absatz 2 Nummer 1
+Buchstabe b oder Nummer 3 strafbar, wenn eine dort bezeichnete
+Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1
+konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4
+zugelassenen pyrotechnischen Gegenstand begangen wird. Satz 1 gilt
+nicht für einen pyrotechnischen Gegenstand nach § 3a Absatz 1 Nummer 1
+Buchstabe d.
 
 
 ### § 41 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005108128)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005109128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4144,9 +4165,18 @@ Absatz 1 Nummer 1 Buchstabe d.
     richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 
-4a. entgegen § 15 Absatz 1 Satz 2 Halbsatz 1 in Verbindung mit einer
-    Rechtsverordnung nach § 25 Nummer 5 einen Nachweis nicht oder nicht
-    rechtzeitig erbringt,
+4a. entgegen
+
+    a)  § 15 Absatz 1 Satz 1 zweiter Halbsatz, auch in Verbindung mit § 28
+        Satz 1, oder
+
+
+    b)  § 15 Absatz 1 Satz 2 erster Halbsatz in Verbindung mit einer
+        Rechtsverordnung nach § 25 Nummer 5
+
+
+
+    einen Nachweis nicht oder nicht rechtzeitig erbringt,
 
 
 5.  entgegen § 15 Abs. 3 Satz 1 explosionsgefährliche Stoffe bei den
@@ -4160,8 +4190,8 @@ Absatz 1 Nummer 1 Buchstabe d.
 6.  gegen die Aufzeichnungspflicht nach § 16 Abs. 1 verstößt,
 
 
-7.  ohne Genehmigung nach § 17 Abs. 1 ein Lager errichtet oder wesentlich
-    ändert,
+7.  ohne Genehmigung nach § 17 Absatz 1, auch in Verbindung mit § 28 Satz
+    1, ein Lager errichtet oder wesentlich ändert,
 
 
 8.  als verantwortliche Person nach § 19 Abs. 1 Nr. 3 oder 4 Buchstabe a
@@ -4222,10 +4252,10 @@ Absatz 1 Nummer 1 Buchstabe d.
 
 
 (1a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine in §
-40 Absatz 1 Nummer 3 oder Absatz 2 Nummer 3 bezeichnete Handlung in
-Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder
-nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen
-Gegenstand begeht.
+40 Absatz 1 Nummer 3 oder Absatz 2 Nummer 1 Buchstabe b oder Nummer 3
+bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1
+konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4
+zugelassenen pyrotechnischen Gegenstand begeht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1,
 1b, 4, 6, 11 und 12 sowie 16, soweit sich die Rechtsverordnung auf

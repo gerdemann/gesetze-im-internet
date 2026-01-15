@@ -1,5 +1,7 @@
+Verordnung über die Berufsausbildung zum Schornsteinfeger und zur
+Schornsteinfegerin
 ---
-Title: Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
+Title: ''
 jurabk: SchfAusbV 2025
 layout: default
 origslug: BJNR02E0A0025
@@ -7,7 +9,7 @@ slug: schfausbv_2025
 
 ---
 
-# Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin (SchfAusbV 2025)
+#  (SchfAusbV 2025)
 
 Ausfertigungsdatum
 :   2025-02-18
