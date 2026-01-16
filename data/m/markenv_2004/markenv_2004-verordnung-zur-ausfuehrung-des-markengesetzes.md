@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 24.6.2024 I Nr. 215
 
+Änderung durch
+:   Art. 7 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000100000)
@@ -1528,10 +1531,11 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 #### § 48 Veröffentlichung des Antrags
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005004360)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005005129)
 
-(1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des
-Markengesetzes) sind mindestens anzugeben:
+(1) In der Veröffentlichung des Antrags (§ 130 Absatz 4 des
+Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung) sind
+mindestens anzugeben:
 
 1.  der Name und die Anschrift des Antragstellers,
 
@@ -1554,17 +1558,19 @@ Markengesetzes) sind mindestens anzugeben:
 
 
 (2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs
-nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 10
-Absatz 4 der Verordnung (EU) 2024/1143 hinzuweisen.
+nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026
+geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung
+(EU) 2024/1143 hinzuweisen.
 
 
 #### § 49 Nationaler Einspruch
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005104360)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005105129)
 
-(1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung
-mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 soll unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+(1) Der Einspruch nach § 130 Absatz 4 des Markengesetzes in der vor
+dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10
+Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom
+Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht
+werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1589,18 +1595,18 @@ Formblatts eingereicht werden.
 
 
 
-### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001702123)
+### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001703129)
 
 
 
 #### § 50 Einspruch
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005204360)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005205129)
 
-(1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit
-Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 soll unter
-Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen
-Formblatts eingereicht werden.
+(1) Der Einspruch nach § 131 des Markengesetzes in der vor dem 16.
+Januar 2026 geltenden Fassung in Verbindung mit Artikel 17 Absatz 2
+der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
+Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 (2) In der Einspruchsschrift sind anzugeben:
 
@@ -1749,18 +1755,9 @@ Verordnung eingereicht worden sind, gelten die Vorschriften dieser
 Verordnung in ihrer bis dahin geltenden Fassung.
 
 
-### § 57a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007400360)
+### § 57a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007401129)
 
-Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
-2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
-Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des
-Rates vom 21. November 2012 über Qualitätsregelungen für
-Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in
-der jeweils in Bezug genommenen Fassung weiterhin Anwendung finden,
-sind die Überschrift zu Teil 6, die §§ 47, 48 und § 49 Absatz 1, § 50
-Absatz 1 und 3, § 52 Absatz 1 und 3, § 53 Absatz 1 sowie § 54 in der
-bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten

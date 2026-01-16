@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 23.10.2024 I Nr. 327
 
+Änderung durch
+:   Art. 2 G v. 11.1.2026 I Nr. 8 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000101119)
@@ -1238,7 +1241,7 @@ Schutz von Geschäftsgeheimnissen verboten ist.
 
 
 ##### § 28 Befugnisse der Durchsetzungsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003503119)
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003504119)
 
 (1) Die Durchsetzungsbehörde hat die Befugnis,
 
@@ -1255,7 +1258,7 @@ Schutz von Geschäftsgeheimnissen verboten ist.
 
 
 3.  ihre nach Nummer 2 sowie nach § 55 Absatz 1 Nummer 1a und 1b gegenüber
-    Käufern getroffenen Entscheidungen nach Maßgabe der Absätze 5 bis 7 zu
+    Käufern getroffenen Entscheidungen nach Maßgabe der Absätze 3 bis 5 zu
     veröffentlichen und
 
 
@@ -1272,19 +1275,19 @@ bestimmten Frist für die Rückerstattung sind die bis zu diesem
 Zeitpunkt erwirtschafteten Vorteile entsprechend § 288 Absatz 2 und §
 289 Satz 1 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
-(2) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2
-mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-
+(2) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Satz 1
+Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-
 Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel
 für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel
 gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000
 Euro betragen.
 
 (3) Die Durchsetzungsbehörde veröffentlicht Entscheidungen nach Absatz
-1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter Nennung des
-Namens des Käufers auf ihrer Internetseite, soweit die Entscheidung
-nicht einen geringfügigen Verstoß betrifft. Ist die Entscheidung bei
-Veröffentlichung noch nicht bestandskräftig, weist die
-Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
+1 Satz 1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter
+Nennung des Namens des Käufers auf ihrer Internetseite, soweit die
+Entscheidung nicht einen geringfügigen Verstoß betrifft. Ist die
+Entscheidung bei Veröffentlichung noch nicht bestandskräftig, weist
+die Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
 
 (4) Wird ein Verstoß behoben, der Gegenstand einer veröffentlichten
 Entscheidung ist, macht die Durchsetzungsbehörde dies unverzüglich auf

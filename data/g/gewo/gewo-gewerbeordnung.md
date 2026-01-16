@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 4 G v. 22.12.2025 I Nr. 369
+:   Art. 5 G v. 11.1.2026 I Nr. 6
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -6984,7 +6984,7 @@ sie der Behörde unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028804128)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028805128)
 
 (1) Auskünfte aus dem Register werden für
 
@@ -7072,7 +7072,8 @@ bezeichneten Aufgaben obliegen.
 6.  den Verfassungsschutzbehörden des Bundes und der Länder, dem
     Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die
     diesen Behörden übertragenen Sicherheitsaufgaben nach dem
-    Sicherheitsüberprüfungsgesetz des Bundes,
+    Sicherheitsüberprüfungsgesetz des Bundes oder einer entsprechenden
+    landesrechtlichen Vorschrift,
 
 
 7.  der Zentralstelle für Sanktionsdurchsetzung,

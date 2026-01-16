@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 1982 (2022 I 1045)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 2.12.2025 I Nr. 301
+:   Art. 10 G v. 9.1.2026 I Nr. 7
 
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des
     Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
@@ -1012,7 +1012,7 @@ Einleitung des Verfahrens unterrichten.
 
 
 #### § 22 Auskunftsverfahren bei Bestandsdaten
-[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002301130)
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002302130)
 
 (1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Bestandsdaten nach
@@ -1271,12 +1271,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 7.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 8.  den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -1538,12 +1534,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 7.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 8.  den Bundesnachrichtendienst, soweit dies erforderlich ist
@@ -1644,7 +1636,7 @@ einem positiven Prüfergebnis freigegeben werden.
 
 
 #### § 24 Auskunftsverfahren bei Nutzungsdaten
-[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002501130)
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002502130)
 
 (1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Nutzungsdaten nach
@@ -1773,12 +1765,8 @@ Zulässigkeit der Auskunft tragen die um Auskunft ersuchenden Stellen.
 
 
 6.  den Militärischen Abschirmdienst, soweit dies aufgrund tatsächlicher
-    Anhaltspunkte im Einzelfall zur Aufklärung bestimmter Bestrebungen
-    oder Tätigkeiten nach § 1 Absatz 1 des MAD-Gesetzes oder zur Sicherung
-    der Einsatzbereitschaft der Truppe oder zum Schutz der Angehörigen,
-    der Dienststellen und Einrichtungen des Geschäftsbereichs des
-    Bundesministeriums der Verteidigung nach § 14 Absatz 1 des MAD-
-    Gesetzes erforderlich ist,
+    Anhaltspunkte im Einzelfall zur Wahrnehmung der Aufgaben nach § 2
+    Absatz 1, 4 oder 5 des MAD-Gesetzes erforderlich ist,
 
 
 7.  den Bundesnachrichtendienst zur Gewinnung von Erkenntnissen über das

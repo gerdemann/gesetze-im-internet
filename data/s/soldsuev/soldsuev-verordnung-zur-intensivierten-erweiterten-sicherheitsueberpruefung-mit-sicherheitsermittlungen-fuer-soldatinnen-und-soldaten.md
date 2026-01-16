@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 141
 
+Geändert durch
+:   Art. 6 G v. 9.1.2026 I Nr. 7
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000100000)

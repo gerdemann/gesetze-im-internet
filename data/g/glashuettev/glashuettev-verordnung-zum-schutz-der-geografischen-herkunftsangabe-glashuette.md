@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 218
 
+Änderung durch
+:   Art. 8 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F820773_01_BJNR021800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und
@@ -163,10 +166,17 @@ Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
 
 
-## § 6 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000700000)
+## § 6 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000701129)
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt an dem Tag außer Kraft, an dem das Amt der
+Europäischen Union für geistiges Eigentum auf der Grundlage eines
+gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten
+Antrags die hiernach geschützte Angabe in das Unionsregister nach der
+Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig
+abschließend entscheidet. Das Bundesministerium der Justiz und für
+Verbraucherschutz gibt den Tag des Außerkrafttretens im
+Bundesgesetzblatt bekannt.
 
 
 ## Schlussformel

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1614
 
 Zuletzt geändert durch
-:   Art. 11 G v. 28.10.2025 I Nr. 259
+:   Art. 13 G v. 9.1.2026 I Nr. 7
 
 Stand: Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)
 Dieses Gesetzes dient der Umsetzung der Richtlinie 2002/14/EG des
@@ -3211,7 +3211,7 @@ Absatz 3 gilt entsprechend.
 
 
 ##### § 117 Geschäftsbereich des Bundesministeriums der Verteidigung
-[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011800000)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011801130)
 
 (1) Dieses Gesetz gilt für die bei militärischen Dienststellen und
 Einrichtungen der Bundeswehr beschäftigten Beamtinnen und Beamten
@@ -3253,6 +3253,9 @@ von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
 
 
+(6) Die Mitgliedschaft in einem Personalrat beim Bundesamt für den
+Militärischen Abschirmdienst ruht bei Personen, die zu einer
+sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
 
 
 #### Abschnitt 2 - Dienststellen des Bundes im Ausland
