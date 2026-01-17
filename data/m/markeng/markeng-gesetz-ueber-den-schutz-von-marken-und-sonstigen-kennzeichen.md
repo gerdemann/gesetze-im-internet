@@ -359,8 +359,8 @@ weil sie in verschiedenen Klassen der Nizza-Klassifikation erscheinen.
 [Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001300000)
 
 (1) Von der Eintragung ausgeschlossen ist eine Marke, wenn sie mit
-einer im Inland im Sinne des Artikels
-6bis der Pariser Verbandsübereinkunft notorisch bekannten Marke mit
+einer im Inland im Sinne des Artikels 6
+bis der Pariser Verbandsübereinkunft notorisch bekannten Marke mit
 älterem Zeitrang identisch oder dieser ähnlich ist und die weiteren
 Voraussetzungen des § 9 Abs. 1 Nr. 1, 2 oder 3 gegeben sind.
 
