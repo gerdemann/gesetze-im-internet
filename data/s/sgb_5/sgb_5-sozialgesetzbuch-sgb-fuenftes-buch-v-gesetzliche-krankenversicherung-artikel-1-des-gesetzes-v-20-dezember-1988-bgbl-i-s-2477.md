@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2025 I Nr. 355
-
-Änderung durch
-:   Art. 19 Abs. 2 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370 ist berücksichtigt
+:   Art. 19 Abs. 3 G v. 22.12.2025 I Nr. 370
 
 Änderung durch
 :   Art. 3 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
