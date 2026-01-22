@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 33 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 6 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
 [Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000101377)

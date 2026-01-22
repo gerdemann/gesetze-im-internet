@@ -15,9 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 218
 
-Änderung durch
-:   Art. 8 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 8 G v. 11.1.2026 I Nr. 9
 
+Stand: Die V tritt gem. § 6 idF d. Art. 8 G v. 11.1.2026 I Nr. 9 an dem Tag außer Kraft, an dem das Amt der Europäischen Union für geistiges Eigentum auf der Grundlage eines gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten Antrags die hiernach geschützte Angabe in das Unionsregister nach der Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig abschließend entscheidet
 [^F820773_01_BJNR021800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und

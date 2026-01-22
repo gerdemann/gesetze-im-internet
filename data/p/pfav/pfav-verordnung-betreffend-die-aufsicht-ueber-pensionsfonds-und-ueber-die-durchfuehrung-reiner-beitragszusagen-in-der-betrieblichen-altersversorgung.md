@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 11.12.2024 I Nr. 414
 
+Änderung durch
+:   Art. 4 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
 ## Eingangsformel
@@ -813,7 +816,7 @@ Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuchs).
 
 
 #### § 17 Anlageformen
-[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001904128)
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001905128)
 
 (1) Das Sicherungsvermögen darf angelegt werden in
 
@@ -1056,7 +1059,7 @@ Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuchs).
         Kapitalanlagegesetzbuchs,
 
         aa) die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1
-            Nummer 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche
+            Nummer 2 und 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche
             Instrumente sowie andere Instrumente der Unternehmensfinanzierung
             investieren und
 
@@ -1918,8 +1921,8 @@ festgelegte Muster zu verwenden.
 (4) (weggefallen)
 
 
-### Kapitel 7 - Lebenslange Zahlungen im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
-[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000703118)
+### Kapitel 7 - Lebenslange Zahlungen und Raten einer Kapitalzahlung im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000704128)
 
 
 #### § 29 Anfängliche Höhe der lebenslangen Zahlung
@@ -1976,8 +1979,20 @@ hat er die an die Rentenempfänger des Pensionsplans zu erbringenden
 Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
 
+#### § 31a Kapitalzahlung in Raten
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005600128)
+
+Wird die Leistung als Kapitalzahlung in Raten erbracht, werden für die
+Ermittlung der Raten die §§ 29 bis 31 entsprechend angewendet. Dabei
+sind in den Barwerten die Zahlungsströme der Kapitalzahlung
+anzusetzen. Die Berechnung der Leistungen und ihrer Mindesthöhen wird
+getrennt für die Gruppe der Empfänger einer lebenslangen Zahlung und
+für die Gruppe der Empfänger von Raten einer Kapitalzahlung
+durchgeführt.
+
+
 #### § 32 Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
-[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003900118)
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003901128)
 
 (1) Der Nachweis der Zusage des Arbeitgebers, für die Erbringung der
 Mindesthöhe der lebenslangen Zahlung nach § 30 einzustehen, erfolgt
@@ -1999,6 +2014,10 @@ unter Angabe des Beginns und der Höhe zu informieren.
 (4) Der Pensionsfonds ist berechtigt, gegen Erstattung der Kosten die
 Funktion einer Zahlstelle zur Erfüllung der Einstandsverpflichtung der
 Arbeitgeber zu übernehmen.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die nach § 30 in
+Verbindung mit § 31a bestimmte Mindesthöhe der Rate einer
+Kapitalzahlung.
 
 
 ## Teil 2 - Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
@@ -2024,7 +2043,7 @@ dieser Beiträge sind die §§ 16 bis 20 entsprechend anzuwenden.
 
 
 ### § 35 Deckungsrückstellung
-[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004300124)
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004301128)
 
 (1) In der Ansparphase ist die Deckungsrückstellung das planmäßig
 zuzurechnende Versorgungskapital auf der Grundlage der gezahlten
@@ -2041,6 +2060,22 @@ Versorgungsanwärters entspricht.
 und daraus erzielten Erträgen kann eine zusätzliche
 Deckungsrückstellung gebildet werden, die den Versorgungsberechtigten
 insgesamt zugeordnet ist.
+
+(4) Der zusätzlichen Deckungsrückstellung nach Absatz 3 können
+Nettokapitalerträge aus der Vermögensanlage nach § 34 zugeführt
+werden, wenn die Vermögensanlage der reinen Beitragszusage für die
+Versorgungsanwärter und Versorgungsempfänger zusammen erfolgt und der
+Tarifvertrag, der der reinen Beitragszusage zugrunde liegt, die
+Zuführung zur zusätzlichen Deckungsrückstellung vorsieht. Zugeführt
+werden dürfen Nettokapitalerträge, die einen in Prozent der
+Vermögensanlage festgelegten Schwellenwert übersteigen. Der
+Prozentsatz muss mindestens doppelt so hoch sein wie der
+Rechnungszins, mit dem der in § 36 Absatz 1 angegebene Barwert
+berechnet wird. Der Prozentsatz ist in Abhängigkeit von der erwarteten
+Volatilität dieses Rechnungszinses festzulegen. Dem nach diesem Absatz
+finanzierten Teil der zusätzlichen Deckungsrückstellung dürfen keine
+Nettokapitalerträge zugeführt werden, wenn sie über einer angemessen
+festgelegten Obergrenze liegt.
 
 
 ### § 36 Kapitaldeckungsgrad

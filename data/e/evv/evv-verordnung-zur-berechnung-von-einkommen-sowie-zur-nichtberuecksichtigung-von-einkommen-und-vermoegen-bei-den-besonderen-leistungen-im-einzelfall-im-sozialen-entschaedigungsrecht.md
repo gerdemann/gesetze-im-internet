@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 302
 
+Änderung durch
+:   Art. 16 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000100000)
@@ -27,7 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Einkommen
-[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000201126)
 
 (1) Zum Einkommen nach Kapitel 16 des Vierzehnten Buches
 Sozialgesetzbuch gehören alle Einkünfte in Geld oder Geldeswert,
@@ -36,35 +39,22 @@ Sozialgesetzbuch und die Verordnung zur Durchführung des § 82 des
 Zwölften Buches Sozialgesetzbuch bestimmen, dass bestimmte Einkünfte
 nicht als Einkommen gelten.
 
-(2) Als Einkommen gelten nicht
+(2) Nicht als Einkommen gelten Weihnachts- und
+Neujahrsgratifikationen, die als solche ausgewiesen sind,
 
-1.  eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten
-    Buches Sozialgesetzbuch, die auf Grund des Todes einer geschädigten
-    Person gezahlt wird, soweit diese Rente bis zum Ende des dritten
-    Kalendermonats nach Ablauf des Monats, in dem die geschädigte Person
-    verstorben ist, die anschließende Hinterbliebenenrente überschreitet,
-    sowie
+1.  bis zu einem Zwölftel der jährlichen Einkünfte, mit dem diese
+    Leistungen im Zusammenhang stehen, oder
 
 
-2.  Weihnachts- und Neujahrsgratifikationen, die als solche ausgewiesen
-    sind,
-
-    a)  bis zu einem Zwölftel der jährlichen Einkünfte, mit dem diese
-        Leistungen im Zusammenhang stehen, oder
-
-
-    b)  bis zu dem Betrag, der den Einkünften für den Monat entspricht, der
-        bei der Berechnung der Leistungen zugrunde gelegt wird.
-
-
-
+2.  bis zu dem Betrag, der den Einkünften für den Monat entspricht, der
+    bei der Berechnung der Leistungen zugrunde gelegt wird.
 
 
 
 
 
 ## § 2 Absetzbeträge
-[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000301126)
 
 (1) Vom Einkommen sind zusätzlich zu den Beträgen nach dem Elften
 Kapitel des Zwölften Buches Sozialgesetzbuch und zu den Beträgen nach
@@ -144,7 +134,7 @@ abzusetzen. Von dem Nettoerwerbseinkommen, das diesen Absetzbetrag
 
 
 
-Liegen die Voraussetzungen für mehrere Absetzbeträge nach Satz 2 vor,
+Liegen die Voraussetzungen für mehrere Absetzbeträge nach Satz 3 vor,
 wird nur der höchste Absetzbetrag berücksichtigt.
 
 (4) Bei einem Aufenthalt in einer stationären oder teilstationären

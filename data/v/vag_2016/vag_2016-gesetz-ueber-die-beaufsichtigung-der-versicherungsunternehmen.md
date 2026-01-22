@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 27.12.2024 I Nr. 438
 
+Änderung durch
+:   Art. 3 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
 die Aufnahme und Ausübung der Versicherungs- und der
@@ -6311,7 +6314,7 @@ nicht ausländisches Recht Abweichendes vorschreibt.
 
 
 ##### § 125 Sicherungsvermögen
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012601123)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012602128)
 
 (1) Der Vorstand eines Erstversicherungsunternehmens hat schon im
 Laufe des Geschäftsjahres Beträge in solcher Höhe dem
@@ -6383,7 +6386,7 @@ den Bilanzwerten folgender Beträge entsprechen:
 
 
 6.  der als Prämie eingenommenen Beträge, die ein Versicherungsunternehmen
-    zu erstatten hat, wenn ein Versicherungsvertrag oder ein in § 2 Absatz
+    zu erstatten hat, wenn ein Versicherungsvertrag oder ein in § 1 Absatz
     2 genanntes Geschäft nicht zustande gekommen ist oder aufgehoben
     wurde.
 
@@ -6554,7 +6557,7 @@ Aufsichtsbehörde.
 
 
 ##### § 129 Sicherstellung des Sicherungsvermögens
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013000000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013001128)
 
 (1) Das Sicherungsvermögen ist so sicherzustellen, dass nur mit
 Zustimmung des Treuhänders darüber verfügt werden kann.
@@ -6579,9 +6582,9 @@ soll ein Gegenstand im Vermögensverzeichnis gelöscht werden, so genügt
 es, dass der Treuhänder neben oder unter den Löschungsvermerk seinen
 Namen schreibt.
 
-(4) Der Treuhänder kann jederzeit die Bücher und Schriften des
-Versicherungsunternehmens einsehen, soweit sie sich auf das
-Sicherungsvermögen beziehen.
+(4) Der Treuhänder kann jederzeit die elektronischen und schriftlichen
+Unterlagen des Versicherungsunternehmens einsehen, soweit sie sich auf
+das Sicherungsvermögen beziehen.
 
 
 ##### § 130 Entnahme aus dem Sicherungsvermögen
@@ -8594,12 +8597,18 @@ Vertretung zu bestimmen.
 
 
 #### § 193 Verlustrücklage
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019400000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019401128)
 
-Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen
-Verlusts aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage,
-Reservefonds) zu bilden ist, welche Beträge jährlich zurückzulegen
-sind und welchen Mindestbetrag die Rücklage erreichen muss.
+(1) Die Satzung hat zu bestimmen, dass zur Deckung eines
+außergewöhnlichen Verlusts aus dem Geschäftsbetrieb eine Rücklage
+(Verlustrücklage, Reservefonds) zu bilden ist, welche Beträge jährlich
+zurückzulegen sind und welchen Mindestbetrag die Rücklage erreichen
+muss.
+
+(2) Die Satzung kann vorsehen, dass die oberste Vertretung eine
+Entnahme aus der Verlustrücklage beschließen kann, die zugunsten der
+Mitglieder oder der Versicherten verwendet wird. Der Beschluss bedarf
+der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 194 Überschussverwendung
@@ -9199,7 +9208,7 @@ Solvabilitätskapitalanforderung gilt als Mindestkapitalanforderung.
 
 
 ##### § 214 Eigenmittel
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021502128)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021503128)
 
 (1) In die Ermittlung der Eigenmittel gehen ein
 
@@ -9404,7 +9413,7 @@ Eigenmitteln nur zuzurechnen, wenn
     werden muss,
 
 
-3.  es nur mit Zustimmung der Aufsicht zurückgezahlt werden kann,
+3.  es nur mit Zustimmung der Aufsichtsbehörde zurückgezahlt werden kann,
 
 
 4.  der Emissionsvertrag dem Versicherungsunternehmen jederzeit erlaubt,
@@ -10154,7 +10163,7 @@ des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
 
 
 ##### § 232 Pensionskassen
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023301118)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023302128)
 
 (1) Eine Pensionskasse ist ein rechtlich selbständiges
 Lebensversicherungsunternehmen, dessen Zweck die Absicherung
@@ -10166,9 +10175,12 @@ ist und das
 
 
 2.  Leistungen grundsätzlich erst ab dem Zeitpunkt des Wegfalls des
-    Erwerbseinkommens vorsieht; soweit das Erwerbseinkommen teilweise
-    wegfällt, können die allgemeinen Versicherungsbedingungen anteilige
-    Leistungen vorsehen,
+    Erwerbseinkommens oder der Inanspruchnahme einer Vollrente nach § 42
+    Absatz 1 des Sechsten Buches Sozialgesetzbuch gewährt, wobei die
+    allgemeinen Versicherungsbedingungen vorsehen können, dass Leistungen
+    bereits dann erbracht werden, wenn das Erwerbseinkommen teilweise
+    weggefallen ist oder eine Teilrente nach § 42 Absatz 1 des Sechsten
+    Buches Sozialgesetzbuch bezogen wird,
 
 
 3.  Leistungen im Todesfall nur an Hinterbliebene erbringen darf, wobei
@@ -10274,12 +10286,12 @@ Bescheid genannten Zeitpunkt in Kraft getreten sind, ist § 234 Absatz
 
 
 ##### § 234 Besonderheiten der Geschäftstätigkeit, die nicht die Geschäftsorganisation betreffen
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023502123)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023503128)
 
 (1) Für Pensionskassen gilt § 341k des Handelsgesetzbuchs; § 36 Absatz
 2 findet keine Anwendung. § 1 Absatz 2 Satz 4, § 35 Absatz 2, § 37
-Absatz 2, die §§ 40 bis 42 und 48 Absatz 2a, die §§ 52 bis 56, 141
-Absatz 5 Satz 2 und § 144 gelten nicht.
+Absatz 2, die §§ 40 bis 42 und 48 Absatz 2 Satz 1 und Absatz 2a, die
+§§ 52 bis 56, 141 Absatz 5 Satz 2 und § 144 gelten nicht.
 
 (2) Die allgemeinen Versicherungsbedingungen gehören zum Geschäftsplan
 als Bestandteil nach § 9 Absatz 2 Nummer 2. Das
@@ -10768,7 +10780,7 @@ Spätestens nach drei Jahren ist die Erklärung zu überprüfen.
 
 
 ##### § 234j Besondere Vorschriften zum Sicherungsvermögen
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038700118)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038701128)
 
 (1) Das Sicherungsvermögen darf nur angelegt werden in
 
@@ -10790,6 +10802,75 @@ Einzelfall auf Antrag vorübergehend gestattet.
 (3) Pensionskassen haben über ihre gesamten Vermögensanlagen,
 aufgegliedert in Neuanlagen und Bestände, zu berichten. Die Pflichten
 nach § 126 Absatz 2 bleiben unberührt.
+
+(4) Entgegen § 127 Absatz 1 Satz 1 ist eine vorübergehende
+Unterdeckung des Sicherungsvermögens zulässig, wenn
+
+1.  die Satzung eine Bestimmung enthält, die eine Unterdeckung gestattet,
+
+
+2.  die Unterdeckung 10 Prozent des Mindestumfangs des Sicherungsvermögens
+    nach § 125 Absatz 2 nicht übersteigt und
+
+
+3.  die Pensionskasse mit einem oder mehreren Arbeitgebern oder Dritten
+    einen Sicherungsvermögensplan nach Absatz 5 vereinbart hat und der
+    Sicherungsvermögensplan von der Aufsichtsbehörde genehmigt ist.
+
+
+
+Eine Bestimmung nach Satz 1 Nummer 1 kann nur dann in die Satzung
+aufgenommen werden, wenn diese eine Vorschrift enthält, nach der
+Versicherungsansprüche gekürzt werden dürfen. Die Bestimmung kann
+bestandswirksam in die Satzung aufgenommen werden.
+
+(5) Ein Plan zur Wiederherstellung der Bedeckung des Mindestumfangs
+des Sicherungsvermögens und zur Sicherstellung der Solvabilität
+(Sicherungsvermögensplan) muss darlegen, wie nach Eintritt einer
+Unterdeckung
+
+1.  die Bedeckung des Mindestumfangs des Sicherungsvermögens innerhalb
+    eines angemessenen Zeitraums, der zehn Jahre nicht überschreiten darf,
+    erreicht werden soll und
+
+
+2.  sichergestellt wird, dass die Solvabilitäts- und die
+    Mindestkapitalanforderung stets eingehalten werden.
+
+
+
+Außerdem muss der Sicherungsvermögensplan eine rechtsverbindliche
+Zusage der beteiligten Arbeitgeber und Dritten enthalten, dass sie die
+zur Durchführung des Sicherungsvermögensplans erforderlichen
+finanziellen Mittel zur Verfügung stellen. Bei der Erstellung des
+Sicherungsvermögensplans ist die besondere Situation der Pensionskasse
+zu berücksichtigen, insbesondere die Struktur ihrer Aktiva und
+Passiva, ihr Risikoprofil, ihr Liquiditätsplan, das Altersprofil der
+Versicherten sowie gegebenenfalls die Tatsache, dass es sich um ein
+neu geschaffenes System handelt. Der Sicherungsvermögensplan bedarf
+der Genehmigung durch die Aufsichtsbehörde.
+
+(6) Die Pensionskasse hat einen bestehenden Sicherungsvermögensplan
+mindestens jährlich zu überprüfen. Stellt sie fest, dass seine
+Durchführung gefährdet sein könnte, unterrichtet sie unverzüglich die
+Aufsichtsbehörde. Nach Eintritt einer Unterdeckung teilt die
+Pensionskasse der Aufsichtsbehörde mit, wie hoch die Unterdeckung ist
+sowie an welchen Stichtagen und in welcher Höhe Zahlungen der
+beteiligten Arbeitgeber und Dritten erfolgen, und berichtet regelmäßig
+über den Stand der Wiederherstellung der Bedeckung.
+
+(7) Führt die Pensionskasse Versorgungszusagen durch, die vom
+Versicherungsschutz des § 7 des Betriebsrentengesetzes erfasst sind,
+hat sie dem Träger der Insolvenzsicherung einen vereinbarten
+Sicherungsvermögensplan bei Eintritt einer Unterdeckung unverzüglich
+zur Kenntnis zu geben.
+
+(8) Die Aufsichtsbehörde kann insbesondere dann eine Änderung des
+Sicherungsvermögensplans verlangen oder dessen Genehmigung widerrufen,
+wenn die Erfüllbarkeit der Verpflichtungen der Pensionskasse nicht
+mehr als auf Dauer gewährleistet angesehen werden kann oder nicht
+länger die Annahme gerechtfertigt ist, dass die Solvabilitäts- und die
+Mindestkapitalanforderung stets eingehalten werden.
 
 
 #### Abschnitt 4 - Informationspflichten gegenüber Versorgungsanwärtern und Versorgungsempfängern
@@ -11131,7 +11212,7 @@ Bundesrates.
 
 
 #### § 236 Pensionsfonds
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023703118)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023704128)
 
 (1) Ein Pensionsfonds im Sinne dieses Gesetzes ist eine rechtsfähige
 Versorgungseinrichtung, die
@@ -11151,35 +11232,39 @@ Versorgungseinrichtung, die
 
 
 4.  verpflichtet ist, die Altersversorgungsleistung als lebenslange
-    Zahlung oder als Einmalkapitalzahlung zu erbringen.
+    Zahlung, als Einmalkapitalzahlung oder als Kapitalzahlung in Raten zu
+    erbringen.
 
 
 
 Eine lebenslange Zahlung im Sinne des Satzes 1 Nummer 4 kann mit einem
-teilweisen oder vollständigen Kapitalwahlrecht verbunden werden.
-Pensionsfonds dürfen auch Sterbegeldzahlungen an Hinterbliebene
-erbringen, wobei das Sterbegeld begrenzt ist auf die Höhe der
-gewöhnlichen Bestattungskosten.
+teilweisen oder vollständigen Kapitalwahlrecht verbunden werden; die
+Auszahlung des Kapitals kann als Einmalkapitalzahlung oder als
+Kapitalzahlung in Raten vorgesehen werden. Pensionsfonds dürfen auch
+Sterbegeldzahlungen an Dritte erbringen, wobei das Sterbegeld begrenzt
+ist auf die Höhe der gewöhnlichen Bestattungskosten.
 
 (2) Pensionsfonds können Altersversorgungsleistungen abweichend von
 Absatz 1 Satz 1 Nummer 4 erbringen, solange Beitragszahlungen durch
-den Arbeitgeber auch in der Rentenbezugszeit vorgesehen sind. Ein
-fester Termin für das Zahlungsende darf nicht vorgesehen werden. Satz
-1 gilt nicht für Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
+den Arbeitgeber auch in der Rentenbezugszeit oder während einer
+Kapitalzahlung in Raten vorgesehen sind. Ein fester Termin für das
+Ende der Beitragszahlungen darf nicht vorgesehen werden. Satz 1 gilt
+nicht für Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
 Betriebsrentengesetzes.
 
 (3) Bei Zusagen im Sinne des § 1 Absatz 2 Nummer 2 des
-Betriebsrentengesetzes können Pensionsfonds lebenslange Zahlungen als
-Altersversorgungsleistungen abweichend von Absatz 1 Satz 1 Nummer 4
-erbringen, wenn
+Betriebsrentengesetzes können Pensionsfonds lebenslange Zahlungen und
+Raten von Kapitalzahlungen als Altersversorgungsleistungen abweichend
+von Absatz 1 Satz 1 Nummer 4 erbringen, wenn
 
 1.  die zuständigen Tarifvertragsparteien zustimmen,
 
 
-2.  der Pensionsplan eine lebenslange Zahlung sowie eine Mindesthöhe
-    dieser lebenslangen Zahlung (Mindesthöhe) zur Auszahlung des nach § 1
-    Absatz 2 Nummer 2 des Betriebsrentengesetzes zur Verfügung zu
-    stellenden Versorgungskapitals vorsieht,
+2.  der Pensionsplan eine lebenslange Zahlung oder eine Kapitalzahlung in
+    Raten sowie eine Mindesthöhe der lebenslangen Zahlung oder der Raten
+    der Kapitalzahlung zur Auszahlung des nach § 1 Absatz 2 Nummer 2 des
+    Betriebsrentengesetzes zur Verfügung zu stellenden Versorgungskapitals
+    vorsieht,
 
 
 3.  eine planmäßige Verwendung dieses Versorgungskapitals sowie der darauf
@@ -11211,7 +11296,9 @@ erlassen zu
 
 
 2.  Vorschriften für die Ermittlung und Anpassung der lebenslangen Zahlung
-    sowie für die Ermittlung der Mindesthöhe,
+    oder der Raten einer Kapitalzahlung sowie für die Ermittlung der
+    Mindesthöhe der lebenslangen Zahlung oder der Raten der
+    Kapitalzahlung,
 
 
 3.  Form und Inhalt der Zusage des Arbeitgebers, selbst für die Erbringung
@@ -11226,7 +11313,7 @@ Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
 
 #### § 237 Anzuwendende Vorschriften
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023801118)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023802128)
 
 (1) Für Pensionsfonds gelten die auf Lebensversicherungsunternehmen,
 die Pensionskassen sind, anwendbaren Vorschriften entsprechend, soweit
@@ -11250,9 +11337,9 @@ Bedingungen zur planmäßigen Leistungserbringung im Versorgungsfall.
 
 (2) Nicht anwendbar sind § 8 Absatz 2, § 10 Absatz 4, § 13 Absatz 2, §
 125 Absatz 5 und 6, § 139 Absatz 3 und 4, die §§ 210, 232 und 233, 234
-Absatz 3 Satz 1, 2 und 4 sowie Absatz 5 und 6, die §§ 234i und 234j
-Absatz 1, die §§ 235 und 312 Absatz 4 Satz 1, 3 und 4 sowie Absatz 5
-Satz 2 und § 313.
+Absatz 3 Satz 1, 2 und 4 sowie Absatz 5 bis 7, die §§ 234i und 234j
+Absatz 1 und 4 bis 8, die §§ 235 und 312 Absatz 4 Satz 1, 3 und 4
+sowie Absatz 5 Satz 2 und § 313.
 
 (3) Die Erlaubnis zum Geschäftsbetrieb darf nur Aktiengesellschaften
 einschließlich der Europäischen Gesellschaft und Pensionsfondsvereinen
@@ -11365,7 +11452,7 @@ nicht überschreiten.
 
 
 #### § 240 Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024102128)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024103128)
 
 Das Bundesministerium der Finanzen wird ermächtigt, für Pensionsfonds,
 die nicht der Aufsicht durch die Aufsichtsbehörden der Länder
@@ -11425,8 +11512,7 @@ unterliegen, durch Rechtsverordnung Vorschriften zu erlassen über
     Nummer 1 bis 7 sowie weitere durch diese Verordnung zugelassene
     Anlageformen sowie die Festlegungen im Pensionsplan hinsichtlich des
     Anlagerisikos und des Trägers dieses Risikos zu berücksichtigen sind,
-    sowie über Beschränkungen von Anlagen beim Trägerunternehmen; Artikel
-    18 der Richtlinie 2003/41/EG ist zu beachten;
+    sowie über Beschränkungen von Anlagen beim Trägerunternehmen;
 
 
 9.  die Berechnung und die Höhe der Solvabilitätskapitalanforderung, den
@@ -11484,7 +11570,7 @@ Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist, sind die
 
 
 #### § 242 Grenzüberschreitende Geschäftstätigkeit von Pensionskassen und Pensionsfonds
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024301118)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024302128)
 
 (1) Pensionskassen und Pensionsfonds haben ihre Absicht, für ein
 Trägerunternehmen die betriebliche Altersversorgung im Wege der
@@ -11510,9 +11596,9 @@ Geschäftstätigkeit angemessen sind. Sie kann verlangen, dass für das
 zu betreibende Altersversorgungssystem ein gesondertes
 Sicherungsvermögen einzurichten ist. Auf die grenzüberschreitende
 Geschäftstätigkeit einer Pensionskasse ist § 232 Absatz 1 Nummer 2 und
-3 nicht anzuwenden. Im Fall eines Pensionsfonds sind § 236 Absatz 1
-Satz 1 Nummer 2 bis 4 und Satz 2 sowie Absatz 2 und § 239 Absatz 3 und
-4 nicht anzuwenden.
+3 sowie § 234j Absatz 4 bis 8 nicht anzuwenden. Im Fall eines
+Pensionsfonds sind § 236 Absatz 1 Satz 1 Nummer 2 bis 4 und Satz 2
+sowie Absatz 2 und § 239 Absatz 3 und 4 nicht anzuwenden.
 
 (2) Sobald die Anzeige nach Absatz 1 Satz 1 und 2 vollständig
 vorliegt, entscheidet die Aufsichtsbehörde innerhalb von drei Monaten,
@@ -12139,7 +12225,7 @@ Beaufsichtigung angeforderten Informationen zu geben.
 
 
 #### § 247 Oberstes Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024800000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024801128)
 
 (1) Ist das in § 245 Absatz 2 Nummer 1 genannte beteiligte
 Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte
@@ -12149,10 +12235,11 @@ Versicherungsunternehmens oder einer anderen Versicherungs-
 Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft mit
 Sitz in einem Mitglied- oder Vertragsstaat, so sind die §§ 250 bis 287
 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1 Nummer 1 und
-§ 306 Absatz 1 Nummer 1 nur auf Ebene der obersten Muttergesellschaft
-anzuwenden, die ein Versicherungsunternehmen oder eine Versicherungs-
-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft mit
-Sitz in einem Mitglied- oder Vertragsstaat ist.
+§ 306 Absatz 1 Satz 1 Nummer 1 nur auf Ebene der obersten
+Muttergesellschaft anzuwenden, die ein Versicherungsunternehmen oder
+eine Versicherungs-Holdinggesellschaft oder eine gemischte
+Finanzholding-Gesellschaft mit Sitz in einem Mitglied- oder
+Vertragsstaat ist.
 
 (2) Ist die in Absatz 1 genannte oberste Muttergesellschaft, die ein
 Versicherungsunternehmen oder eine Versicherungs-Holdinggesellschaft
@@ -12167,7 +12254,7 @@ der gruppeninternen Transaktionen gemäß § 274 oder von beidem absehen.
 
 
 #### § 248 Oberstes Mutterunternehmen auf nationaler Ebene
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024900000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024901128)
 
 (1) Hat das in § 245 Absatz 2 Nummer 1 genannte beteiligte
 Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte
@@ -12187,7 +12274,7 @@ Vertragsstaaten. Die Gruppenaufsichtsbehörde unterrichtet das
 Aufsichtskollegium (§ 283) gemäß Artikel 248 Absatz 1 Buchstabe a der
 Richtlinie 2009/138/EG. Vorbehaltlich der Absätze 2 bis 6 sind die §§
 250 bis 287 sowie § 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1
-Nummer 1 und § 306 Absatz 1 Nummer 1 entsprechend anzuwenden.
+Nummer 1 und § 306 Absatz 1 Satz 1 Nummer 1 entsprechend anzuwenden.
 
 (2) Die Aufsichtsbehörde kann eine Beschränkung der Gruppenaufsicht
 auf einzelne Vorschriften der §§ 250 bis 275 bei dem obersten
@@ -12264,11 +12351,11 @@ Mutterunternehmens im Sinne des § 248 keine Gruppenaufsicht statt.
 
 
 ##### § 250 Überwachung der Gruppensolvabilität
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025100000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025101128)
 
 (1) Die Solvabilität der Gruppe wird nach Maßgabe der Absätze 2 und 3,
 der §§ 275 bis 287 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305
-Absatz 1 Nummer 1 und § 306 Absatz 1 Nummer 1 überwacht.
+Absatz 1 Nummer 1 und § 306 Absatz 1 Satz 1 Nummer 1 überwacht.
 Vermögenswerte und Verbindlichkeiten werden nach § 74 bewertet.
 
 (2) In dem in § 245 Absatz 2 Nummer 1 genannten Fall haben die
@@ -13872,14 +13959,14 @@ Gruppenaufsichtsbehörde.
 
 
 #### § 289 Gleichwertigkeit
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029000000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029001128)
 
 (1) Ist im Überprüfungsverfahren nach § 288 die gleichwertige
 Beaufsichtigung festgestellt worden, erkennt die Aufsichtsbehörde die
 im Drittstaat durchgeführte Gruppenaufsicht als verbindlich an.
 
 (2) Die §§ 279 bis 287, 293 Absatz 1, § 298 Absatz 1, § 305 Absatz 1
-Nummer 1, § 306 Absatz 1 Nummer 1 und § 309 gelten bei der
+Nummer 1, § 306 Absatz 1 Satz 1 Nummer 1 und § 309 gelten bei der
 Zusammenarbeit mit den Aufsichtsbehörden des Drittstaats entsprechend.
 
 
@@ -16194,7 +16281,7 @@ ordnungsgemäße Bewertung möglich ist.
 
 
 ##### § 327 Zusammenarbeit bei örtlichen Prüfungen
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032800000)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032801128)
 
 (1) Soweit es zur Ausübung der Finanzaufsicht nach § 62 Absatz 1 oder
 § 169 Absatz 1 oder zur Prüfung eines im Inland ansässigen
@@ -16205,7 +16292,7 @@ Niederlassung durch eigenes Personal oder durch Beauftragte Prüfungen
 des Geschäftsbetriebs vorzunehmen; § 305 Absatz 5 und § 306 Absatz 5
 sind entsprechend anzuwenden. Die Bundesanstalt leistet auf Verlangen
 Amtshilfe. Die Bediensteten der Aufsichtsbehörde und von ihr
-entsprechend § 306 Absatz 1 Nummer 3 an der Prüfung beteiligte
+entsprechend § 306 Absatz 1 Satz 1 Nummer 3 an der Prüfung beteiligte
 Personen dürfen die Geschäftsräume des Versicherungsunternehmens
 betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13
 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
@@ -16246,14 +16333,14 @@ Bundesanstalt bewirkt.
 
 
 ##### § 329 Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
-[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033002128)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033003128)
 
 (1) Die Aufsichtsbehörde arbeitet gemäß der Verordnung (EU) Nr.
-1094/2010 für die Zwecke der Richtlinien 2009/138/EG und 2003/41/EG
-mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und
-die betriebliche Altersversorgung zusammen. Sie berücksichtigt so weit
-wie möglich deren Leitlinien und Empfehlungen und begründet eventuelle
-Abweichungen.
+1094/2010 für die Zwecke der Richtlinien 2009/138/EG und (EU)
+2016/2341 mit der Europäischen Aufsichtsbehörde für das
+Versicherungswesen und die betriebliche Altersversorgung zusammen. Sie
+berücksichtigt so weit wie möglich deren Leitlinien und Empfehlungen
+und begründet eventuelle Abweichungen.
 
 (2) Die Aufsichtsbehörde übermittelt jährlich folgende Angaben an die
 Europäische Aufsichtsbehörde für das Versicherungswesen und die
@@ -16324,7 +16411,7 @@ Jahre, der Behörde mit.
 das Versicherungswesen und die betriebliche Altersversorgung gemäß
 Artikel 35 der Verordnung (EU) Nr. 1094/2010 auf Verlangen
 unverzüglich alle für die Erfüllung ihrer Aufgaben auf Grund der
-Richtlinie 2003/41/EG und der Verordnung (EU) Nr. 1094/2010
+Richtlinie (EU) 2016/2341 und der Verordnung (EU) Nr. 1094/2010
 erforderlichen Informationen zur Verfügung. Unbeschadet des Artikels
 35 der Verordnung (EU) Nr. 1094/2010 stellt die Aufsichtsbehörde auf
 Ersuchen der Europäischen Aufsichtsbehörde für das Versicherungswesen

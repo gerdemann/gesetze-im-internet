@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1534 (2008 I 660, 1007)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.3.2024 I Nr. 107
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 340 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.12.2025 I Nr. 340
 
 Änderung durch
 :   Art. 6 G v. 22.12.2025 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

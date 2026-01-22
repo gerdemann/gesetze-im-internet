@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 22.12.2025 I Nr. 369
 
+Änderung durch
+:   Art. 8 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1842,7 +1845,7 @@ Verwaltungsverfahren über sie anhängig ist.
 
 
 #### § 60 Angabe von Tatsachen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007602308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007603126)
 
 (1) Wer Sozialleistungen beantragt oder erhält, hat
 
@@ -1865,8 +1868,11 @@ Verwaltungsverfahren über sie anhängig ist.
 Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten
 hat.
 
-(2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben
-Vordrucke vorgesehen sind, sollen diese benutzt werden.
+(2) Soweit für die in Absatz 1 Satz 1 Nummer 1 und 2 genannten Angaben
+Vordrucke vorgesehen sind, sollen diese benutzt werden. Soweit diese
+Vordrucke als elektronische Formulare über öffentlich zugängliche
+Netze oder in einem Eingabegerät zur Verfügung stehen, sollen diese
+vorrangig benutzt werden.
 
 
 #### § 61 Persönliches Erscheinen
@@ -1969,17 +1975,17 @@ notwendig anerkennt.
 
 
 #### § 66 Folgen fehlender Mitwirkung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008302308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008303126)
 
 (1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält,
-seinen Mitwirkungspflichten nach den §§ 60 bis 62, 65 nicht nach und
-wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert,
-kann der Leistungsträger ohne weitere Ermittlungen die Leistung bis
-zur Nachholung der Mitwirkung ganz oder teilweise versagen oder
-entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen
-sind. Dies gilt entsprechend, wenn der Antragsteller oder
-Leistungsberechtigte in anderer Weise absichtlich die Aufklärung des
-Sachverhalts erheblich erschwert.
+seinen Mitwirkungspflichten nach § 60 Absatz 1, den §§ 61, 62 und 65
+nicht nach und wird hierdurch die Aufklärung des Sachverhalts
+erheblich erschwert, kann der Leistungsträger ohne weitere
+Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder
+teilweise versagen oder entziehen, soweit die Voraussetzungen der
+Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der
+Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich
+die Aufklärung des Sachverhalts erheblich erschwert.
 
 (2) Kommt derjenige, der eine Sozialleistung wegen
 Pflegebedürftigkeit, wegen Arbeitsunfähigkeit, wegen Gefährdung oder
