@@ -19,6 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 20.7.2004 I 1716
 
+V aufgeh. durch
+:   § 9 idF d. Art. 2 V v. 14.1.2026 I Nr. 15 mWv 1.8.2026
+
+Ersetzt durch
+:   V 806-22-1-166 v. 14.1.2026 I Nr. 15 (MobVerkKflAusbV)
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000101308)
@@ -339,10 +345,10 @@ Prüfungsleistungen in einem Prüfungsfach mit "ungenügend" bewertet, so
 ist die Prüfung nicht bestanden.
 
 
-## § 9 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE001001308)
+## § 9 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE001002128)
 
-Diese Verordnung tritt am 1. August 1997 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 (zu § 4)
 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für

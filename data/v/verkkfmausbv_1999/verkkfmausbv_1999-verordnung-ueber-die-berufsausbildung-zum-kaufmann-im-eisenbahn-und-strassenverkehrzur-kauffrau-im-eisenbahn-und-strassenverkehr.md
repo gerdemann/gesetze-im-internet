@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1586
 
+V aufgeh. durch
+:   § 10 idF d. Art. 3 V v. 14.1.2026 I Nr. 15 mWv 1.8.2026
+
+Ersetzt durch
+:   V 806-22-1-166 v. 14.1.2026 I Nr. 15 (MobVerkKflAusbV)
+
 
 
 ## Eingangsformel
@@ -368,10 +374,10 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001100311)
+## § 10 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001101128)
 
-Diese Verordnung tritt am 1. August 1999 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 (zu § 4)
 
