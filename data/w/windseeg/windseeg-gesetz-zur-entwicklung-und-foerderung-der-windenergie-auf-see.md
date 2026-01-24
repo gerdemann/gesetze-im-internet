@@ -21,9 +21,6 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Änderung durch
-:   Art. 1 Nr. 11 G v. 22.12.2025 I Nr. 351 nicht ausführbar, da bereits durch Art. 5 Nr. 2 G v. 30.9.2025 I Nr. 231 erfolgt
-
 Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a dieses g durch
 :   Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).
 
@@ -2762,7 +2759,7 @@ nach § 54 erhalten hat.
 
 
 ##### § 57 Zweckbindung der Zahlungen
-[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011002128)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011003128)
 
 Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1
 Nummer 1 werden anteilig für den Bereich des Bundesministeriums für
