@@ -83,7 +83,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000405128)
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000406128)
 
 (Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -266,8 +266,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   3.12
 
     *   Durchführung der zentralen Voruntersuchungen der Fläche N-10.1 des
-        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
-        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter
+        zugutekommen, auch entsprechend im Fall des § 14 Absatz 2 Satz 4 des
+        Windenergie-auf-See-Gesetzes
 
     *   37 369 788,42
 
@@ -275,10 +277,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   3.13
 
     *   Durchführung der zentralen Voruntersuchungen der Fläche N-10.2 des
-        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
-        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter zugutekommen
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter
+        zugutekommen, auch entsprechend im Fall des § 14 Absatz 2 Satz 4 des
+        Windenergie-auf-See-Gesetzes
 
     *   9 847 416,55
+
+
+*    *   3.14
+
+    *   Durchführung der zentralen Voruntersuchungen der Fläche N-13.1 des
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter
+        zugutekommen, auch entsprechend im Fall des § 14 Absatz 2 Satz 4 des
+        Windenergie-auf-See-Gesetzes
+
+    *   20 112 739,34
+
+
+*    *   3.15
+
+    *   Durchführung der zentralen Voruntersuchungen der Fläche N-13.2 des
+        Flächenentwicklungsplans, deren Ergebnisse nach § 55 Absatz 1 Nummer 1
+        des Windenergie-auf-See-Gesetzes dem bezuschlagten Bieter
+        zugutekommen, auch entsprechend im Fall des § 14 Absatz 2 Satz 4 des
+        Windenergie-auf-See-Gesetzes
+
+    *   34 226 402,86
 
 
 *    *   4.
