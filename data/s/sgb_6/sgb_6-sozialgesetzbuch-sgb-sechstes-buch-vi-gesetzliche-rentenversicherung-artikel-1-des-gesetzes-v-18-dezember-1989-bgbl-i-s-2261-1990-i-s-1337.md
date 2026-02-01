@@ -12260,16 +12260,9 @@ mehr oder nur noch übergangsweise eintreten können.
 
 
 
-##### § 228b Maßgebende Werte in der Anpassungsphase
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043703119)
+##### § 228b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043704119)
 
-Bei der Festsetzung von Werten für Zeiten bis einschließlich 31.
-Dezember 2024 sind, soweit Vorschriften dieses Buches auf die
-Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2
-Satz 1) oder auf das Durchschnittsentgelt abstellen, die für das
-Bundesgebiet ohne das Beitrittsgebiet ermittelten Werte maßgebend,
-sofern nicht in den nachstehenden Vorschriften etwas anderes bestimmt
-ist.
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
@@ -19847,12 +19840,9 @@ folgt festgesetzt:
 
 
 
-###### § 287f Getrennte Abrechnung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049303119)
+###### § 287f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049304119)
 
-Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen
-für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland
-ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
 
 ###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027

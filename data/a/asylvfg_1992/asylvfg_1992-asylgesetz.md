@@ -533,7 +533,7 @@ Aufenthaltsgesetzes.
 
 
 ### § 7 Erhebung personenbezogener Daten
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002406311)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002407311)
 
 (1) Die mit der Ausführung dieses Gesetzes betrauten Behörden dürfen
 zum Zwecke der Ausführung dieses Gesetzes personenbezogene Daten
@@ -580,10 +580,10 @@ nichtöffentlichen Stellen dürfen Daten nur erhoben werden, wenn keine
 Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige
 Interessen der betroffenen Person beeinträchtigt werden.
 
-(3) Die Asylverfahrensakten des Bundesamtes sind spätestens zehn Jahre
-nach unanfechtbarem Abschluss des Asylverfahrens zu vernichten sowie
-in den Datenverarbeitungssystemen des Bundesamtes zu löschen. Die
-Fristen zur Vernichtung und Löschung aufgrund anderer Vorschriften
+(3) Die Asylverfahrensakten des Bundesamtes sind spätestens zwanzig
+Jahre nach unanfechtbarem Abschluss des Asylverfahrens zu vernichten
+sowie in den Datenverarbeitungssystemen des Bundesamtes zu löschen.
+Die Fristen zur Vernichtung und Löschung aufgrund anderer Vorschriften
 bleiben davon unberührt.
 
 
@@ -1425,16 +1425,16 @@ behandeln.
 
 
 #### § 18a Verfahren bei Einreise auf dem Luftwege
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013004377)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013005311)
 
-(1) Bei Ausländern aus einem sicheren Herkunftsstaat (§ 29a), die über
-einen Flughafen einreisen wollen und bei der Grenzbehörde um Asyl
-nachsuchen, ist das Asylverfahren vor der Entscheidung über die
-Einreise durchzuführen, soweit die Unterbringung auf dem
-Flughafengelände während des Verfahrens möglich oder lediglich wegen
-einer erforderlichen stationären Krankenhausbehandlung nicht möglich
-ist. Das Gleiche gilt für Ausländer, die bei der Grenzbehörde auf
-einem Flughafen um Asyl nachsuchen und sich dabei nicht mit einem
+(1) Bei Ausländern aus einem sicheren Herkunftsstaat (§ 29a oder §
+29b), die über einen Flughafen einreisen wollen und bei der
+Grenzbehörde um Asyl nachsuchen, ist das Asylverfahren vor der
+Entscheidung über die Einreise durchzuführen, soweit die Unterbringung
+auf dem Flughafengelände während des Verfahrens möglich oder lediglich
+wegen einer erforderlichen stationären Krankenhausbehandlung nicht
+möglich ist. Das Gleiche gilt für Ausländer, die bei der Grenzbehörde
+auf einem Flughafen um Asyl nachsuchen und sich dabei nicht mit einem
 gültigen Pass oder Passersatz ausweisen. Dem Ausländer ist
 unverzüglich Gelegenheit zur Stellung des Asylantrags bei der
 Außenstelle des Bundesamtes zu geben, die der Grenzkontrollstelle
@@ -2055,16 +2055,15 @@ Absatz 1a dafür geschulten Bediensteten anderer Behörden übertragen
 werden.
 
 
-#### § 29a Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013305116)
+#### § 29a Sichere Herkunftsstaaten im Sinne des Artikels 16a Absatz 3 des Grundgesetzes; Bericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013306311)
 
 (1) Der Asylantrag eines Ausländers aus einem Staat im Sinne des
-Artikels 16a Abs. 3 Satz 1 des Grundgesetzes (sicherer Herkunftsstaat)
-ist als offensichtlich unbegründet abzulehnen, es sei denn, die von
-dem Ausländer angegebenen Tatsachen oder Beweismittel begründen die
-Annahme, dass ihm abweichend von der allgemeinen Lage im
-Herkunftsstaat Verfolgung im Sinne des § 3 Absatz 1 oder ein
-ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
+Artikels 16a Abs. 3 Satz 1 des Grundgesetzes ist als offensichtlich
+unbegründet abzulehnen, es sei denn, die von dem Ausländer angegebenen
+Tatsachen oder Beweismittel begründen die Annahme, dass ihm abweichend
+von der allgemeinen Lage im Herkunftsstaat Verfolgung im Sinne des § 3
+Absatz 1 oder ein ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
 
 (2) Sichere Herkunftsstaaten sind die Mitgliedstaaten der Europäischen
 Union und die in Anlage II bezeichneten Staaten.
@@ -2081,6 +2080,57 @@ rechtlichen oder politischen Verhältnissen dieses Staates die Annahme
 begründen, dass die in Artikel 16a Abs. 3 Satz 1 des Grundgesetzes
 bezeichneten Voraussetzungen entfallen sind. Die Verordnung tritt
 spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
+
+
+#### § 29b Sichere Herkunftsstaaten im Sinne der Richtlinie 2013/32/EU; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017700311)
+
+(1) Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung
+des Bundesrates sichere Herkunftsstaaten im Sinne der Richtlinie
+2013/32/EU für den internationalen Schutz bestimmen, sofern sich
+anhand der dortigen Rechtslage, der Anwendung der Rechtsvorschriften
+in einem demokratischen System und der allgemeinen politischen Lage
+nachweisen lässt, dass dort weder eine Verfolgung noch Folter oder
+unmenschliche oder erniedrigende Behandlung oder Strafe noch Bedrohung
+infolge willkürlicher Gewalt im Rahmen eines internationalen oder
+innerstaatlichen bewaffneten Konflikts zu befürchten sind.
+
+(2) Die Bundesregierung berücksichtigt bei der Bestimmung nach Absatz
+1, inwieweit Schutz vor Verfolgung und Misshandlung geboten wird,
+insbesondere die einschlägigen Rechts- und Verwaltungsvorschriften des
+Staates und die Art und Weise ihrer Anwendung, die Wahrung der
+Menschenrechte, insbesondere die Einhaltung des Grundsatzes der Nicht-
+Zurückweisung nach dem Abkommen vom 28. Juli 1951 über die
+Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und die
+Möglichkeit eines wirksamen Rechtsbehelfs bei Verletzung dieser
+Rechte.
+
+(3) In Bezug auf den internationalen Schutz im Sinne des § 1 Absatz 1
+Nummer 2 ist der Asylantrag eines Ausländers aus einem Staat im Sinne
+des Absatzes 1 als offensichtlich unbegründet abzulehnen, es sei denn,
+die von dem Ausländer angegebenen Tatsachen oder Beweismittel
+begründen die Annahme, dass ihm abweichend von der allgemeinen Lage im
+Herkunftsstaat Verfolgung im Sinne des § 3 Absatz 1 oder ein
+ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
+
+(4) Die Bundesregierung teilt der Europäischen Kommission die Aufnahme
+eines Staates in die Rechtsverordnung nach Absatz 1 oder dessen
+Streichung mit.
+
+(5) Die Bundesregierung legt dem Deutschen Bundestag alle zwei Jahre
+erstmals zum 12. Juni 2027 einen Bericht darüber vor, ob die
+Voraussetzungen für die Bestimmung weiterhin vorliegen, soweit die
+sicheren Herkunftsstaaten nicht auch nach Artikel 62 Absatz 1 der
+Verordnung (EU) 2024/1348 bestimmt wurden.
+
+(6) Die Bundesregierung soll in der Rechtsverordnung die Anwendung des
+§ 61 Absatz 2 Satz 4 und des § 60a Absatz 6 Satz 1 Nummer 3 des
+Aufenthaltsgesetzes auf Ausländer aus einem sicheren Herkunftsstaat
+nach Absatz 1 ausschließen, die bis zum Zeitpunkt der Aufnahme des
+Herkunftsstaates in die Rechtsverordnung einen Asylantrag gestellt
+haben oder die sich bis zum Zeitpunkt der Aufnahme dieses
+Herkunftsstaates in die Rechtsverordnung geduldet in Deutschland
+aufgehalten haben, ohne einen Asylantrag gestellt zu haben.
 
 
 #### § 30 Offensichtlich unbegründete Asylanträge
@@ -2155,13 +2205,14 @@ keine Anwendung.
 
 
 #### § 30a Beschleunigte Verfahren
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017102311)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017103311)
 
 (1) Das Bundesamt kann das Asylverfahren in einer Außenstelle, die
 einer besonderen Aufnahmeeinrichtung (§ 5 Absatz 5) zugeordnet ist,
 beschleunigt durchführen, wenn der Ausländer
 
-1.  Staatsangehöriger eines sicheren Herkunftsstaates (§ 29a) ist,
+1.  Staatsangehöriger eines sicheren Herkunftsstaates (§ 29a oder § 29b)
+    ist,
 
 
 2.  die Behörden durch falsche Angaben oder Dokumente oder durch
@@ -2233,7 +2284,7 @@ bis zum Vollzug der Abschiebungsandrohung oder -anordnung bei
     a)  nach § 29 Absatz 1 Nummer 4 als unzulässig,
 
 
-    b)  nach § 29a oder § 30 als offensichtlich unbegründet oder
+    b)  nach den §§ 29a, 29b oder 30 als offensichtlich unbegründet oder
 
 
     c)  im Fall des § 71 Absatz 4.
@@ -2764,7 +2815,7 @@ Aufnahmeeinrichtungen verfügt.
 
 
 ### § 47 Aufenthalt in Aufnahmeeinrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007508311)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007509311)
 
 (1) Ausländer, die den Asylantrag bei einer Außenstelle des
 Bundesamtes zu stellen haben (§ 14 Abs. 1), sind verpflichtet, bis zur
@@ -2809,15 +2860,15 @@ Eltern oder anderen Sorgeberechtigten sowie ihren volljährigen,
 ledigen Geschwistern. Die §§ 48 bis 50 bleiben unberührt.
 
 (1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren
-Herkunftsstaat (§ 29a) verpflichtet, bis zur Entscheidung des
-Bundesamtes über den Asylantrag und im Falle der Ablehnung des
-Asylantrags nach § 29a als offensichtlich unbegründet oder nach § 29
-Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis zum Vollzug
-der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme
-zuständigen Aufnahmeeinrichtung zu wohnen. Satz 1 gilt nicht bei
-minderjährigen Kindern und ihren Eltern oder anderen Sorgeberechtigten
-sowie ihren volljährigen, ledigen Geschwistern. Die §§ 48 bis 50
-bleiben unberührt.
+Herkunftsstaat (§ 29a oder § 29b) verpflichtet, bis zur Entscheidung
+des Bundesamtes über den Asylantrag und im Falle der Ablehnung des
+Asylantrags nach § 29a oder § 29b als offensichtlich unbegründet oder
+nach § 29 Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis
+zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre
+Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Satz 1 gilt nicht
+bei minderjährigen Kindern und ihren Eltern oder anderen
+Sorgeberechtigten sowie ihren volljährigen, ledigen Geschwistern. Die
+§§ 48 bis 50 bleiben unberührt.
 
 (1b) Die Länder können regeln, dass Ausländer abweichend von Absatz 1
 verpflichtet sind, bis zur Entscheidung des Bundesamtes über den
@@ -3243,7 +3294,7 @@ Unterkunft liegt.
 
 
 ### § 61 Erwerbstätigkeit
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009811311)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009812311)
 
 (1) Für die Dauer der Pflicht, in einer Aufnahmeeinrichtung zu wohnen,
 darf der Ausländer keine Erwerbstätigkeit ausüben. Abweichend von Satz
@@ -3259,7 +3310,7 @@ darf der Ausländer keine Erwerbstätigkeit ausüben. Abweichend von Satz
 
 
 3.  der Ausländer nicht Staatsangehöriger eines sicheren Herkunftsstaates
-    (§ 29a) ist und
+    (§ 29a oder § 29b) ist und
 
 
 4.  der Asylantrag nicht als offensichtlich unbegründet oder als
@@ -3313,10 +3364,10 @@ ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Ein
 geduldeter oder rechtmäßiger Voraufenthalt wird auf die Wartezeit nach
 Satz 1 angerechnet. Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 und
 die §§ 41 und 42 des Aufenthaltsgesetzes gelten entsprechend. Einem
-Ausländer aus einem sicheren Herkunftsstaat gemäß § 29a, der nach dem
-31\. August 2015 einen Asylantrag gestellt hat, darf während des
-Asylverfahrens die Ausübung einer Beschäftigung nicht erlaubt werden.
-Absatz 1 Satz 2 bleibt unberührt.
+Ausländer aus einem sicheren Herkunftsstaat gemäß § 29a oder § 29b,
+der nach dem 31. August 2015 einen Asylantrag gestellt hat, darf
+während des Asylverfahrens die Ausübung einer Beschäftigung nicht
+erlaubt werden. Absatz 1 Satz 2 bleibt unberührt.
 
 
 ### § 62 Gesundheitsuntersuchung
@@ -4100,7 +4151,7 @@ Ernennung nicht Einzelrichter sein.
 
 
 ### § 77 Entscheidung des Gerichts
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011604311)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011605311)
 
 (1) In Streitigkeiten nach diesem Gesetz stellt das Gericht auf die
 Sach- und Rechtslage im Zeitpunkt der letzten mündlichen Verhandlung
@@ -4130,6 +4181,16 @@ ist, eine Abschrift des neuen Verwaltungsakts. Nimmt der Kläger die
 Klage daraufhin unverzüglich zurück, trägt das Bundesamt die Kosten
 des Verfahrens. Unterliegt der Kläger ganz oder teilweise, entscheidet
 das Gericht nach billigem Ermessen.
+
+(5) Hält ein Gericht die Bestimmung eines sicheren Herkunftsstaates
+durch eine Rechtsverordnung nach § 29b, auf deren Gültigkeit es bei
+der Entscheidung ankommt, für rechtswidrig, so ist das Klageverfahren
+auszusetzen und die Entscheidung des Bundesverwaltungsgerichts
+einzuholen. § 47 Absatz 5 Satz 1 und 2 der Verwaltungsgerichtsordnung
+findet entsprechende Anwendung. Das Bundesverwaltungsgericht kann von
+Amts wegen oder auf Antrag der Beteiligten eine einstweilige Anordnung
+erlassen, wenn dies zur Abwehr schwerer Nachteile oder aus anderen
+wichtigen Gründen dringend geboten ist.
 
 
 ### § 78 Rechtsmittel
