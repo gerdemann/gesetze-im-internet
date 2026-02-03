@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 3 G v. 7.4.2025 I Nr. 109
-
-Änderung durch
-:   Art. 7 G v. 8.12.2025 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 8.12.2025 I Nr. 318
 
 Änderung durch
 :   Art. 18 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

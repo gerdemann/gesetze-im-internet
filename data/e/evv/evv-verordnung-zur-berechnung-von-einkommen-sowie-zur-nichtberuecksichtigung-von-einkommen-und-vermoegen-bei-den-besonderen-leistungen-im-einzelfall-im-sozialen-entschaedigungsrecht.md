@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 302
 
-Änderung durch
-:   Art. 16 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 16 G v. 16.1.2026 I Nr. 14
 
 
 ## Eingangsformel
