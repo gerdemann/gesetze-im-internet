@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1383
 
 Zuletzt geändert durch
-:   Art. 3 V v. 25.3.2025 I Nr. 100
+:   Art. 9 G v. 3.2.2026 I Nr. 28
 
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des
     Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit
@@ -332,7 +332,7 @@ Zulassung durchzuführen waren.
 
 
 #### § 11 Dokumentationspflichten
-[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001201119)
 
 (1) Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat
 die für die Feststellung der Seediensttauglichkeit maßgeblichen
@@ -343,10 +343,9 @@ Daten unverzüglich in das Seediensttauglichkeitsverzeichnis zu
 bleibt unberührt.
 
 (2) Auf Verlangen der untersuchten Person hat der zugelassene Arzt ihr
-nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs unverzüglich
-Einsicht in die sie betreffenden Untersuchungsunterlagen zu gewähren
-und Abschriften der Unterlagen gegen Erstattung der Kosten
-herauszugeben.
+nach Maßgabe des § 630g des Bürgerlichen Gesetzbuchs Einsicht in die
+sie betreffenden Untersuchungsunterlagen zu gewähren und Abschriften
+der Untersuchungsunterlagen herauszugeben.
 
 (3) Ärztliche Aufzeichnungen über Seediensttauglichkeitsuntersuchungen
 sind für die Dauer von zehn Jahren nach Abschluss der Untersuchungen

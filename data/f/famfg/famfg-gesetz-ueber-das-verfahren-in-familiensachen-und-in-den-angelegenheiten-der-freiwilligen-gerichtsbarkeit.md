@@ -34,6 +34,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
@@ -9019,7 +9022,7 @@ Registersachen sind
 
 
 #### § 375 Unternehmensrechtliche Verfahren
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038114125)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038115131)
 
 Unternehmensrechtliche Verfahren sind die nach
 
@@ -9046,6 +9049,10 @@ Unternehmensrechtliche Verfahren sind die nach
 
 
 5.  § 26 Abs. 1 und 4 sowie § 206 Satz 2 und 3 des Umwandlungsgesetzes,
+
+
+5a. § 6b Absatz 1 bis 4 sowie den §§ 6d und 6e des
+    Außenwirtschaftsgesetzes,
 
 
 6.  § 66 Abs. 2, 3 und 5, § 71 Abs. 3 sowie § 74 Abs. 2 und 3 des Gesetzes

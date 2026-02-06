@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 10 G v. 16.1.2026 I Nr. 14 ist berücksichtigt
 
+Änderung durch
+:   Art. 28 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000100328)
@@ -3616,7 +3619,7 @@ der Maßnahmen nach den Absätzen 1 und 4.
 
 
 ##### § 27b Zweitmeinung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060802126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060803126)
 
 (1) Versicherte, bei denen die Indikation zu einem planbaren Eingriff
 gestellt wird, bei dem insbesondere im Hinblick auf die zahlenmäßige
@@ -3708,11 +3711,11 @@ vor dem geplanten Eingriff erfolgt. In jedem Fall hat die Aufklärung
 so rechtzeitig zu erfolgen, dass der Versicherte seine Entscheidung
 über die Einholung einer Zweitmeinung wohlüberlegt treffen kann. Der
 Arzt hat den Versicherten auf sein Recht auf Überlassung von
-Abschriften der Befundunterlagen aus der Patientenakte gemäß § 630g
-Absatz 2 des Bürgerlichen Gesetzbuchs, die für die Einholung der
-Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem Arzt
-durch die Zusammenstellung und Überlassung von Befundunterlagen für
-die Zweitmeinung entstehen, trägt die Krankenkasse.
+Abschriften der Befundunterlagen aus der Behandlungsakte nach § 630g
+Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs, die für die Einholung
+der Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem
+Arzt durch die Zusammenstellung und Überlassung von Befundunterlagen
+für die Zweitmeinung entstehen, trägt die Krankenkasse.
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur
 Einholung einer unabhängigen ärztlichen Zweitmeinung vorsehen. Sofern
@@ -44416,7 +44419,7 @@ Vorgaben nach Absatz 1 verantwortlich.
 
 
 ##### § 341 Elektronische Patientenakte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079204126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079205126)
 
 (1) Die elektronische Patientenakte ist eine versichertengeführte
 elektronische Akte, die den Versicherten von den Krankenkassen gemäß §
@@ -44533,8 +44536,8 @@ elektronische Patientenakte:
     Siebten Buches,
 
 
-15. elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz
-    1 des Bürgerlichen Gesetzbuchs und
+15. elektronische Abschriften der Behandlungsakte nach § 630g Absatz 1
+    Satz 3 des Bürgerlichen Gesetzbuchs und
 
 
 16. Daten zu Erklärungen zur Organ- und Gewebespende.
@@ -45487,7 +45490,7 @@ möglich ist.
 
 
 ###### § 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079802126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079803126)
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden
 Leistungserbringer haben nach Maßgabe der §§ 346 und 339 Absatz 1
@@ -45599,7 +45602,7 @@ entgegenstehen.
 
 (5) Auf Verlangen des Versicherten haben die an der vertragsärztlichen
 Versorgung teilnehmenden Leistungserbringer elektronische Abschriften
-der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen
+der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen
 Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort
 gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5
 gilt entsprechend.
@@ -45618,7 +45621,7 @@ Behandlungsdokumentation zu protokollieren.
 
 
 ###### § 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079902126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079903126)
 
 (1) Die Leistungserbringer in zugelassenen Krankenhäusern haben nach
 Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß
@@ -45704,9 +45707,9 @@ entgegenstehen.
 
 (5) Auf Verlangen des Versicherten haben die Leistungserbringer in
 zugelassenen Krankenhäusern elektronische Abschriften der
-Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs
-in die elektronische Patientenakte zu übermitteln und dort gemäß § 341
-Absatz 2 Nummer 15 zu speichern.
+Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen
+Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort
+gemäß § 341 Absatz 2 Nummer 15 zu speichern.
 
 (6) Die Verpflichtungen nach den Absätzen 1, 3 Satz 1, nach Absatz 4
 Satz 1 und Absatz 5 bestehen nicht, soweit der Übermittlung und
@@ -48335,17 +48338,19 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
 
 1.  zu den Anforderungen an die für die Versorgung der Versicherten im
-    Rahmen von strukturierten Behandlungsprammen mit digitalisierten
-    Versorgungsprozessen erforderliche technische Ausstattung und an die
-    Anwendungen der Leistungserbringer und Versicherten,
+    Rahmen von strukturierten
+    Behandlungsprammen mit digitalisierten Versorgungsprozessen
+    erforderliche technische Ausstattung und an die Anwendungen der
+    Leistungserbringer und Versicherten,
 
 
 2.  zu dem Nachweis, dass die für die Versorgung im Rahmen von
-    strukturierten Behandlungsprammen mit digitalisierten
-    Versorgungsprozessen erforderliche technische Ausstattung und die
-    Anwendungen der Leistungserbringer und Versicherten den Anforderungen
-    an den Datenschutz entsprechen und die Datensicherheit nach dem Stand
-    der Technik gewährleisten, und
+    strukturierten
+    Behandlungsprammen mit digitalisierten Versorgungsprozessen
+    erforderliche technische Ausstattung und die Anwendungen der
+    Leistungserbringer und Versicherten den Anforderungen an den
+    Datenschutz entsprechen und die Datensicherheit nach dem Stand der
+    Technik gewährleisten, und
 
 
 3.  zu den zusätzlichen technischen Anforderungen an digitale
@@ -48380,7 +48385,7 @@ standardisierte Schnittstellen zu integrieren:
 
 
 3.  Schnittstellen zum elektronischen Melde- und Informationssystem nach §
-    14 des Infektionsschutzgesetze, mit Ausnahme der
+    14 des Infektionsschutzgesetzes, mit Ausnahme der
     informationstechnischen Systeme von Vertragszahnärzten,
 
 
@@ -49149,7 +49154,7 @@ Im Sinne dieses Kapitels bezeichnet der Ausdruck
 
 
 
-### § 385 Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
+### § 385 Bedarfsidentifizierung und -priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083503126)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch

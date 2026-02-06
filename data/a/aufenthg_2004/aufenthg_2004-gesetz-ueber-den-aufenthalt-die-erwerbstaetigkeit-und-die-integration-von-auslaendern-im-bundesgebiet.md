@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 369
+:   Art. 5 G v. 3.2.2026 I Nr. 27
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -1498,7 +1498,7 @@ hat.
 
 
 #### § 14 Unerlaubte Einreise; Ausnahme-Visum
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001503116)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001505311)
 
 (1) Die Einreise eines Ausländers in das Bundesgebiet ist unerlaubt,
 wenn er
@@ -1526,6 +1526,14 @@ wenn er
 (2) Die mit der polizeilichen Kontrolle des grenzüberschreitenden
 Verkehrs beauftragten Behörden können Ausnahme-Visa und
 Passersatzpapiere ausstellen.
+
+(3) Es ist verboten, einem Ausländer, der in einem Beschluss des Rates
+der Europäischen Union über restriktive Maßnahmen aufgeführt ist, mit
+dem die Einreise von Personen in oder die Durchreise von Personen
+durch das Hoheitsgebiet eines Mitgliedstaats der Europäischen Union
+verhindert werden soll, die Einreise in oder die Durchreise durch das
+Bundesgebiet zu ermöglichen. Satz 1 dient der Umsetzung der Richtlinie
+(EU) 2024/1226 in der Fassung vom 24. April 2024.
 
 
 #### § 15 Zurückweisung
@@ -13169,6 +13177,22 @@ oder unvollständige Angaben erschlichenen Aufenthaltstitels gleich.
 einer dort genannten zuständigen Stelle verfolgt.
 
 
+### § 95a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE023300311)
+
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird
+bestraft, wer entgegen § 14 Absatz 3 Satz 1 einem dort genannten
+Ausländer die Einreise in oder die Durchreise durch das Bundesgebiet
+ermöglicht.
+
+(2) Der Versuch ist strafbar.
+
+(3) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in
+den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande
+handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden
+hat.
+
+
 ### § 96 Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet
 [Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010508311)
 
@@ -13302,7 +13326,7 @@ Zeitpunkt von Anordnungen nach § 82 Absatz 4 Satz 1.
 
 
 ### § 98 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010729311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010731311)
 
 (1) Ordnungswidrig handelt, wer eine in § 95 Abs. 1 Nr. 1 oder 2 oder
 Abs. 2 Nr. 1 Buchstabe b bezeichnete Handlung fahrlässig begeht.
@@ -13438,6 +13462,16 @@ Geldbuße bis zu tausend Euro geahndet werden.
 
 (6) Artikel 31 Abs. 1 des Abkommens über die Rechtsstellung der
 Flüchtlinge bleibt unberührt.
+
+(7) Abweichend von § 30 Absatz 2 Satz 1 Nummer 1 des Gesetzes über
+Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer
+Straftat nach § 95a Absatz 1 dieses Gesetzes vierzig Millionen Euro.
+
+(8) Abweichend von § 30 Absatz 2 Satz 2 des Gesetzes über
+Ordnungswidrigkeiten beträgt das Höchstmaß der Geldbuße im Falle einer
+Ordnungswidrigkeit nach § 130 Absatz 1 des Gesetzes über
+Ordnungswidrigkeiten in Verbindung mit § 95a Absatz 1 dieses Gesetzes
+vierzig Millionen Euro.
 
 
 ## Kapitel 9a - Rechtsfolgen bei illegaler Beschäftigung
