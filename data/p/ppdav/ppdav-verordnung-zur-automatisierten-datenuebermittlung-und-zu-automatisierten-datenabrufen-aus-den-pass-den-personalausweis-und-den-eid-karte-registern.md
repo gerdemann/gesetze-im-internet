@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 30.10.2023 I Nr. 290
 
+Änderung durch
+:   Art. 2 V v. 30.1.2026 I Nr. 31 mWv 7.2.2026 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich und Verfahrensgrundsätze
 [Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000101130)

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2189
 
 Zuletzt geändert durch
-:   Art. 12 V v. 30.10.2023 I Nr. 290
+:   Art. 7 V v. 30.1.2026 I Nr. 31
 
 
 ## § 1 Antrag auf Zulassung als Klassifizierungsunternehmen
@@ -194,7 +194,7 @@ gesonderte Sachkundeprüfung erforderlich.
 
 
 ## § 6 Zulassungsantrag
-[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000603119)
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000604119)
 
 (1) Der Antrag auf Zulassung als Klassifizierer ist bei der
 zuständigen Behörde schriftlich oder elektronisch einzureichen.
@@ -210,8 +210,8 @@ Muster verlangen.
 1.  Name und Anschrift des Antragstellers,
 
 
-2.  zwei aktuelle Lichtbilder, die den in § 4 Satz 1, 2 und 4 der
-    Passverordnung festgelegten Anforderungen entsprechen,
+2.  zwei aktuelle Lichtbilder, die den in § 16 Absatz 2 der Passverordnung
+    festgelegten Anforderungen entsprechen,
 
 
 3.  die Angabe, für welche Tierarten und im Falle der Klassifizierung von
