@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 240
 
+Geändert durch
+:   Art. 62 Abs. 11 G v. 4.2.2026 I Nr. 33
+
 Stand: Ersetzt G 310-24 v. 19.10.2012 I 2182 (KapMuG 2012)
 
 ## Abschnitt 1 - Musterverfahrensantrag; Vorlageverfahren
@@ -22,7 +25,7 @@ Stand: Ersetzt G 310-24 v. 19.10.2012 I 2182 (KapMuG 2012)
 
 
 ### § 1 Anwendungsbereich; Verhältnis zum Verbraucherrechtedurchsetzungsgesetz
-[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000201131)
 
 (1) Dieses Gesetz ist anwendbar in bürgerlichen Rechtsstreitigkeiten,
 in denen einer der folgenden Ansprüche geltend gemacht wird:
@@ -38,9 +41,7 @@ in denen einer der folgenden Ansprüche geltend gemacht wird:
 
 
 3.  ein Erfüllungsanspruch aus einem Vertrag, der auf einem Angebot nach
-    dem Wertpapiererwerbs- und Übernahmegesetz, einschließlich eines
-    Anspruchs nach § 39 Absatz 3 Satz 3 und 4 des Börsengesetzes, beruht,
-    oder
+    dem Wertpapiererwerbs- und Übernahmegesetz beruht, oder
 
 
 4.  ein Schadensersatzanspruch nach Artikel 75 Absatz 8 der Verordnung

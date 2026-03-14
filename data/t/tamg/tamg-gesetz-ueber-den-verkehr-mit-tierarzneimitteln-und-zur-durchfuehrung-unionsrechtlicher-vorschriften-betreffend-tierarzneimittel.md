@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl I: 2021, 4530
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.3.2024 I Nr. 97
+:   Art. 2 G v. 22.12.2025 I Nr. 356
 
 Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
@@ -97,7 +94,7 @@ Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union.
 
 
 ### § 3 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000401125)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000402360)
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen gelten für
@@ -115,20 +112,25 @@ Rechtsverordnungen gelten für
 2.  Tierarzneimittel, die nicht in den Anwendungsbereich der Verordnung
     (EU) 2019/6 fallen; hierunter fallen insbesondere
 
-    a)  Tierarzneimittel im Sinne von Artikel 2 Absatz 6 Buchstabe b oder c
+    a)  inaktivierte immunologische Tierarzneimittel im Sinne von Artikel 2
+        Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November
+        2022,
+
+
+    b)  Tierarzneimittel im Sinne von Artikel 2 Absatz 6 Buchstabe b oder c
         der Verordnung (EU) 2019/6,
 
 
-    b)  Tierarzneimittel im Sinne von Artikel 2 Absatz 7 Buchstabe a, b oder d
+    c)  Tierarzneimittel im Sinne von Artikel 2 Absatz 7 Buchstabe a, b oder d
         der Verordnung (EU)
         2019/6,
 
 
-    c)  Tierarzneimittel, die aus Stoffen oder Stoffzusammenstellungen in
+    d)  Tierarzneimittel, die aus Stoffen oder Stoffzusammenstellungen in
         unverarbeitetem Zustand bestehen, und
 
 
-    d)  Tierarzneimittel, die im Rahmen ihrer Herstellung keinen industriellen
+    e)  Tierarzneimittel, die im Rahmen ihrer Herstellung keinen industriellen
         Prozess durchlaufen haben, und
 
 
@@ -242,24 +244,7 @@ Gesetzes auch für folgende veterinärmedizintechnischen Produkte:
 
 (4) Dieses Gesetz ist nicht anzuwenden auf
 
-1.  immunologische Tierarzneimittel nach Artikel 4 Nummer 5 der Verordnung
-    (EU) 2019/6, die unter Verwendung von Krankheitserregern oder auf
-    biotechnischem, biochemischem oder synthetischem Weg hergestellt
-    werden und bestimmt sind zur
-
-    a)  Vorbeugung vor Tierseuchen oder Heilung von Tierseuchen,
-
-
-    b)  Erkennung von Tierseuchen oder
-
-
-    c)  Erzeugung einer unspezifischen Reaktion des Immunsystems,
-
-
-
-
-
-2.  Testsysteme zur In-vitro-Diagnostik, die, ohne am oder im Tier
+1.  Testsysteme zur In-vitro-Diagnostik, die, ohne am oder im Tier
     angewendet zu werden,
 
     a)  unter Verwendung von Tierseuchenerregern oder auf biotechnischem,
@@ -274,11 +259,11 @@ Gesetzes auch für folgende veterinärmedizintechnischen Produkte:
 
 
 
-3.  die Gewinnung und das Bereitstellen von Keimzellen zur künstlichen
+2.  die Gewinnung und das Bereitstellen von Keimzellen zur künstlichen
     Befruchtung bei Tieren sowie
 
 
-4.  Arzneifuttermittel und Zwischenerzeugnisse nach Artikel 3 Absatz 2
+3.  Arzneifuttermittel und Zwischenerzeugnisse nach Artikel 3 Absatz 2
     Buchstabe a und b der Verordnung (EU) 2019/4 des Europäischen
     Parlaments und des Rates vom 11. Dezember 2018 über die Herstellung,
     das Inverkehrbringen und die Verwendung von Arzneifuttermitteln, zur
@@ -288,7 +273,6 @@ Gesetzes auch für folgende veterinärmedizintechnischen Produkte:
 
 
 
-Satz 1 Nummer 1 gilt nicht für § 63.
 
 
 ## Abschnitt 2 - Tierarzneimittel im Anwendungsbereich der Verordnung (EU) 2019/6
@@ -413,7 +397,7 @@ Freistellung zu beantragen.
 
 
 #### § 5 Kennzeichnung und Packungsbeilage freigestellter Tierarzneimittel
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000601360)
 
 (1) Die nach § 4 Absatz 1 freigestellten Tierarzneimittel dürfen im
 Geltungsbereich dieses Gesetzes nur bereitgestellt werden, wenn ihre
@@ -427,11 +411,12 @@ entsprechend gestaltet sind:
 
 
 3.  Artikel 10 Absatz 1, Artikel 11 Absatz 1, Artikel 12 Absatz 1 und
-    Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 sowie
+    Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 in der Fassung
+    vom 23. November 2022 sowie
 
 
 4.  den sonstigen Vorschriften des Kapitels II Abschnitt 4 der Verordnung
-    (EU) 2019/6.
+    (EU) 2019/6 in der Fassung vom 23. November 2022.
 
 
 
@@ -494,23 +479,24 @@ wenn sich nach Erteilung der Freistellung herausstellt, dass
 
 
 #### § 7 Kennzeichnung und Packungsbeilage von nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 zulassungspflichtigen Tierarzneimitteln
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000801360)
 
-(1) Die nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6
-zulassungspflichtigen Tierarzneimittel dürfen im Geltungsbereich
-dieses Gesetzes nur bereitgestellt werden, wenn ihre Kennzeichnung und
-ihre Packungsbeilage den folgenden Vorgaben entsprechend gestaltet
-sind:
+(1) Die nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 in der
+Fassung vom 23. November 2022 zulassungspflichtigen Tierarzneimittel
+dürfen im Geltungsbereich dieses Gesetzes nur bereitgestellt werden,
+wenn ihre Kennzeichnung und ihre Packungsbeilage den folgenden
+Vorgaben entsprechend gestaltet sind:
 
 1.  der Papierform der Packungsbeilage nach § 8,
 
 
 2.  Artikel 10 Absatz 1, Artikel 11 Absatz 1, Artikel 12 Absatz 1 und
-    Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 sowie
+    Artikel 14 Absatz 1 Satz 2 der Verordnung (EU) 2019/6 in der Fassung
+    vom 23. November 2022 sowie
 
 
 3.  den sonstigen Vorschriften des Kapitels II Abschnitt 4 der Verordnung
-    (EU) 2019/6.
+    (EU) 2019/6 in der Fassung vom 23. November 2022.
 
 
 
@@ -538,7 +524,7 @@ Verfügung zu stellen.
 
 
 #### § 9 Durchführungsvorschriften für die Zulassung von Tierarzneimitteln; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001001360)
 
 (1) Die zuständige Bundesoberbehörde bestimmt die Frist nach Artikel
 31 Satz 2 der Verordnung (EU) 2019/6 für die Vorlage zusätzlicher
@@ -574,20 +560,49 @@ schriftlicher oder elektronischer Form erklärten Verzicht des
 Zulassungsinhabers.
 
 (6) Das Bundesministerium für Gesundheit wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung und
-Landwirtschaft durch Rechtsverordnung ohne Zustimmung des Bundesrates
-weitere Vorschriften für Zulassungsverfahren zu regeln, soweit diese
-zur Ergänzung der Regelungen der Verordnung (EU) 2019/6 erforderlich
-sind.
+Einvernehmen mit dem Bundesministerium für Landwirtschaft, Ernährung
+und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates
+weitere Vorschriften für Zulassungsverfahren zu erlassen, soweit
 
-(7) Das Bundesministerium für Gesundheit wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung und
-Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vorschriften über das Verfahren bei Ruhen, Widerruf oder Änderung der
-Zulassungsbedingungen nach Artikel 130 Absatz 5 der Verordnung (EU)
-2019/6 zu erlassen.
+1.  diese zur Ergänzung der Regelungen der Verordnung (EU) 2019/6 in der
+    Fassung vom 23. November 2022 erforderlich sind und
 
-(8) Auf Antrag der zuständigen Behörde eines Landes entscheidet die
+
+2.  es sich nicht um immunologische Tierarzneimittel nach Artikel 4 Nummer
+    5 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+    handelt.
+
+
+
+
+(7) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates weitere Vorschriften für das Zulassungsverfahren bei
+immunologischen Tierarzneimitteln nach Artikel 4 Nummer 5 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 zu
+erlassen, soweit diese Vorschriften zur Ergänzung der Regelungen der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+erforderlich sind.
+
+(8) Das Bundesministerium für Gesundheit wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium für Landwirtschaft, Ernährung
+und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates
+Vorschriften über das Verfahren bei Ruhen oder Widerruf der Zulassung
+oder Änderung der Zulassungsbedingungen nach Artikel 130 Absatz 5 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 zu
+erlassen, soweit es sich nicht um immunologische Tierarzneimittel nach
+Artikel 4 Nummer 5 der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022 handelt.
+
+(9) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Vorschriften über das Verfahren bei Ruhen oder Widerruf der Zulassung
+oder Änderung der Zulassungsbedingungen nach Artikel 130 Absatz 5 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 bei
+immunologischen Tierarzneimitteln nach Artikel 4 Nummer 5 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 zu regeln.
+
+(10) Auf Antrag der zuständigen Behörde eines Landes entscheidet die
 zuständige Bundesoberbehörde über das Bestehen einer Zulassungspflicht
 eines Tierarzneimittels nach der Verordnung (EU) 2019/6. Dem Antrag
 hat die zuständige Behörde des Landes eine begründete Stellungnahme
@@ -599,7 +614,7 @@ beizufügen.
 
 
 #### § 10 Genehmigung von Anträgen zur Durchführung einer klinischen Prüfung und einer Rückstandsprüfung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001101125)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001102360)
 
 (1) Die zuständige Bundesoberbehörde erteilt auf Antrag die
 Genehmigung zur Durchführung einer klinischen Prüfung und einer
@@ -744,10 +759,7 @@ Tierarzneimitteln,
 
     c)  einem Verfahren auf der Basis von Hybridomen und monoklonalen
         Antikörpern, die unter die Nummer 1 des Anhangs der Verordnung (EG)
-        Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März
-        2004 (ABl. L 136 vom 30.4.2004, S. 1; L 201 vom 27.7.2012, S. 138),
-        die zuletzt durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019,
-        S. 24) geändert worden ist, fallen sowie
+        Nr. 726/2004 in der Fassung vom 11. Dezember 2018 fallen,
 
 
 
@@ -854,7 +866,7 @@ nähere Einzelheiten des Verfahrens nach Absatz 1 zu regeln.
 
 
 #### § 13 Registrierung, Kennzeichnung und Packungsbeilage homöopathischer Tierarzneimittel; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001401360)
 
 (1) Die zuständige Bundesoberbehörde registriert homöopathische
 Tierarzneimittel auf Antrag schriftlich oder elektronisch nach Artikel
@@ -869,7 +881,8 @@ unbefristet.
 darf im Geltungsbereich dieses Gesetzes nur bereitgestellt werden,
 wenn die Kennzeichnung auf der Primärverpackung und, sofern vorhanden,
 auf der äußeren Umhüllung unter Beachtung von Artikel 86 Absatz 1
-Buchstabe c der Verordnung (EU) 2019/6 folgende Angaben enthält:
+Buchstabe c der Verordnung (EU) 2019/6 in der Fassung vom 23. November
+2022 folgende Angaben enthält:
 
 1.  den Namen des homöopathischen Tierarzneimittels,
 
@@ -881,7 +894,7 @@ Buchstabe c der Verordnung (EU) 2019/6 folgende Angaben enthält:
 
 
 3.  die Angaben nach Artikel 16 Buchstabe b bis j der Verordnung (EU)
-    2019/6,
+    2019/6 in der Fassung vom 23. November 2022,
 
 
 4.  die Chargenbezeichnung und
@@ -917,12 +930,13 @@ wenn auf der Packungsbeilage folgende Angaben gemacht werden:
 
 
 3.  die Angaben nach Artikel 16 Buchstabe b bis j der Verordnung (EU)
-    2019/6 und
+    2019/6 in der Fassung vom 23. November 2022 und
 
 
 4.  die Angabe der Einstufung des homöopathischen Tierarzneimittels als
     verschreibungspflichtig oder nicht verschreibungspflichtig
-    entsprechend Artikel 34 der Verordnung (EU) 2019/6.
+    entsprechend Artikel 34 der Verordnung (EU) 2019/6 in der Fassung vom
+    23\. November 2022.
 
 
 
@@ -944,17 +958,19 @@ Registrierung nach Absatz 1 zu treffen.
 
 
 #### § 14 Ausnahmen von der Herstellungserlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001501130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001502360)
 
 (1) Die zuständige Behörde des Landes, in dem die Betriebsstätte liegt
 oder liegen soll, erteilt auf Antrag für die im Geltungsbereich dieses
 Gesetzes liegenden Produktionsstätten eine Herstellungserlaubnis nach
 Artikel 88 Absatz 1 der Verordnung (EU) 2019/6.
 
-(2) Folgende Personen bedürfen keiner Herstellungserlaubnis nach
-Absatz 1, sofern die Voraussetzungen der Artikel 103 und 104 der
-Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 erfüllt
-sind:
+(2) Sofern es sich nicht um ein immunologisches Tierarzneimittel nach
+Artikel 4 Nummer 5 der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022 handelt und die Voraussetzungen der Artikel 103 und 104
+der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+erfüllt sind, bedürfen folgende Personen keiner Herstellungserlaubnis
+nach Absatz 1:
 
 1.  eine Inhaberin oder ein Inhaber einer Apotheke für die Zubereitung,
     die Aufteilung oder die Änderung der Verpackung oder der Darbietung
@@ -1005,6 +1021,28 @@ Absatz 1, 2 und 3a des Arzneimittelgesetzes nur, sofern
 
 
 
+
+(3) Eine Tierärztin oder ein Tierarzt bedarf im Rahmen des Betriebes
+einer tierärztlichen Hausapotheke keiner Herstellungserlaubnis für
+immunologische Tierarzneimittel nach Artikel 4 Nummer 5 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022 für die Aufteilung
+oder die Änderung der Verpackung oder die Änderung der Darbietung des
+immunologischen Tierarzneimittels, sofern
+
+1.  die Voraussetzungen der Artikel 103 und 104 der Verordnung (EU) 2019/6
+    in der Fassung vom 23. November 2022 erfüllt sind,
+
+
+2.  der Vorgang allein für die von ihr oder ihm behandelten Tiere erfolgt
+    und
+
+
+3.  das Tierarzneimittel ausschließlich durch die Tierärztin oder den
+    Tierarzt selbst oder unter deren oder dessen Aufsicht angewendet wird.
+
+
+
+§ 95a bleibt unberührt.
 
 
 #### § 15 Ergänzende Vorschriften zur Erteilung der Herstellungserlaubnis
@@ -1432,9 +1470,9 @@ regelt die Apothekenbetriebsordnung.
 
 
 #### § 26 Kennzeichnung und Packungsbeilage von nach § 22 zulassungspflichtigen Tierarzneimitteln und veterinärmedizintechnischen Produkten
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002701130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002702360)
 
-Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und
+Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und
 veterinärmedizintechnischen Produkte dürfen im Geltungsbereich dieses
 Gesetzes nur bereitgestellt werden, wenn ihre Kennzeichnung und ihre
 Packungsbeilage den folgenden Vorgaben entsprechend gestaltet sind:
@@ -1579,6 +1617,292 @@ Für die Überwachung der Einhaltung der Vorschriften dieses Gesetzes
 Kapitel VIII der Verordnung (EU) 2019/6 entsprechend anzuwenden.
 
 
+### Unterabschnitt 4 - Vorschriften für inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG003100360)
+
+
+#### § 35a Verschreibungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010400360)
+
+(1) Inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz
+3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 sind
+stets verschreibungspflichtig.
+
+(2) Die in Absatz 1 genannten Tierarzneimittel dürfen von der
+Tierärztin oder dem Tierarzt für die in Artikel 2 Absatz 3 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 genannten
+Tiere nur verschrieben werden, wenn
+
+1.  außergewöhnliche Umstände vorliegen und
+
+
+2.  kein immunologisches Tierarzneimittel für diese Zieltierart und dieses
+    Anwendungsgebiet zugelassen ist.
+
+
+
+
+
+#### § 35b Herstellungserlaubnis; Ruhen und Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010500360)
+
+(1) Wer inaktivierte immunologische Tierarzneimittel nach Artikel 2
+Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November
+2022 herstellt, bedarf der Erlaubnis der zuständigen Behörde.
+
+(2) Inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz
+3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+dürfen nur nach Anforderung durch eine Tierärztin oder einen Tierarzt
+hergestellt werden.
+
+(3) Für jede einzelne der folgenden Tätigkeiten ist eine
+Herstellungserlaubnis erforderlich:
+
+1.  die Herstellung von inaktivierten immunologischen Tierarzneimitteln
+    nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom
+    23\. November 2022 oder
+
+
+2.  die Beteiligung an der Herstellung oder der Endbearbeitung eines
+    solchen Tierarzneimittels, insbesondere auch für die Beteiligung an
+    der Verarbeitung, Zusammenfügung, Verpackung oder Neuverpackung,
+    Kennzeichnung oder Neukennzeichnung, Lagerung, Sterilisierung,
+    Untersuchung oder Freigabe des Tierarzneimittels für die Anwendung.
+
+
+
+
+(4) Die Erlaubnis nach Absatz 1 ist zu erteilen, wenn
+
+1.  eine verantwortliche Person benannt wurde, unter deren Leitung
+    inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3
+    der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+    hergestellt werden sollen, die die erforderliche Zuverlässigkeit und
+    Sachkunde besitzt,
+
+
+2.  eine Produktionsstätte benannt wird, in der geeignete Räume und
+    Einrichtungen für die beabsichtigte Herstellung, Untersuchung und
+    Lagerung vorhanden sind,
+
+
+3.  mindestens eine Inspektion der Produktionsstätte erfolgt ist und
+
+
+4.  im Ergebnis der Inspektion nach Nummer 3 das Zertifikat nach Artikel
+    94 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+    ausgestellt wurde.
+
+
+
+Hinsichtlich der in Satz 1 Nummer 1 geforderten Sachkunde gilt Artikel
+97 Absatz 2 und 3 der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022 entsprechend.
+
+(5) Die Erlaubnis nach Absatz 1 wird von der zuständigen Behörde des
+Landes, in dem die Betriebsstätte liegt, im Benehmen mit der
+zuständigen Bundesoberbehörde erteilt. Die §§ 15 und 17 sind
+entsprechend anzuwenden.
+
+(6) Liegen die Voraussetzungen für eine Erlaubnis nach Absatz 4 nach
+der Erteilung nicht mehr vor, ist das Ruhen oder der Widerruf der
+Herstellungserlaubnis von der zuständigen Behörde anzuordnen.
+
+
+#### § 35c Anzeige der Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010600360)
+
+(1) Wer als Herstellerin oder Hersteller ein inaktiviertes
+immunologisches Tierarzneimittel nach Artikel 2 Absatz 3 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 aufgrund
+einer tierärztlichen Anforderung abgibt, hat dies der zuständigen
+Behörde nach Maßgabe des Satzes 2 einmal jährlich anzuzeigen. Die
+Anzeige umfasst die Mitteilung
+
+1.  des betreffenden Seuchenerregers nach Artikel 4 Nummer 17 der
+    Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018,
+
+
+2.  der insgesamt hergestellten Menge,
+
+
+3.  der Anzahl der hergestellten Chargen sowie deren Größe.
+
+
+
+
+(2) Die zuständige Behörde teilt der zuständigen Bundesoberbehörde die
+Herstellerin oder den Hersteller sowie die von dieser oder diesem
+jeweils übermittelten Angaben nach Absatz 1 Satz 2 Nummer 1 bis 3
+einmal jährlich mit.
+
+
+#### § 35d Einfuhr, Ausfuhr und Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010700360)
+
+(1) Die Einfuhr von inaktivierten immunologischen Tierarzneimitteln
+nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom
+23\. November 2022 ist verboten.
+
+(2) Für die Ausfuhr von inaktivierten immunologischen
+Tierarzneimitteln nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+in der Fassung vom 23. November 2022 gilt Artikel 88 Absatz 1
+Buchstabe a und b der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022 entsprechend. Die zuständige Behörde des Landes, in dem
+die Betriebsstätte liegt oder liegen soll, erteilt auf Antrag die
+Erlaubnis in einem Kapitel VI der Verordnung (EU) 2019/6 in der
+Fassung vom 23. November 2022 entsprechenden Verfahren. Die §§ 15 und
+17 sind entsprechend anzuwenden.
+
+(3) Das innergemeinschaftliche Verbringen sowie der Empfang von
+inaktivierten immunologischen Tierarzneimitteln nach Artikel 2 Absatz
+3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 ist
+nur durch Tierärztinnen und Tierärzte zulässig, die diese
+Tierarzneimittel zur Behandlung von Tieren im Sinne des Artikels 2
+Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November
+2022 angefordert haben. § 35c Absatz 1 und 2 gilt für die behandelnde
+Tierärztin oder den behandelnden Tierarzt, die oder der inaktivierte
+immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022 empfängt,
+entsprechend.
+
+
+#### § 35e Kennzeichnung der Verpackung und Packungsbeilage
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010800360)
+
+(1) Die Herstellerin oder der Hersteller hat die Primärverpackung und,
+soweit vorhanden, die äußere Umhüllung eines inaktivierten
+immunologischen Tierarzneimittels nach Artikel 2 Absatz 3 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 bei der
+Bereitstellung auf dem Markt wie folgt zu kennzeichnen:
+
+1.  mit dem Hinweis „autogener Impfstoff für Tiere“,
+
+
+2.  mit den Angaben zur qualitativen und quantitativen Zusammensetzung des
+    Wirkstoffs oder der Wirkstoffe, der Hilfsstoffe und sonstigen
+    Bestandteile unter Angabe ihres gebräuchlichen Namens oder ihrer
+    chemischen Beschreibung, je Einheit oder Darreichungsform, bezogen auf
+    ein bestimmtes Volumen oder Gewicht,
+
+
+3.  mit der Zieltierart,
+
+
+4.  mit dem Namen oder der Firma und der Anschrift der Herstellerin oder
+    des Herstellers,
+
+
+5.  mit der Art der Aufbewahrung, gegebenenfalls besondere
+    Lagerungshinweise,
+
+
+6.  gegebenenfalls mit der empfohlenen Wartezeit, auch wenn dieser
+    Zeitraum gleich null ist, und
+
+
+7.  mit dem Verfalldatum, berechnet als der Tag nach Ablauf von maximal
+    sechs Monaten seit der Abfüllung.
+
+
+
+
+(2) Die Herstellerin oder der Hersteller hat für jedes inaktivierte
+immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022 bei der
+Bereitstellung auf dem Markt eine Packungsbeilage nach Satz 2 zur
+Verfügung zu stellen. Diese Packungsbeilage hat zusätzlich zu den
+Angaben nach Absatz 1 mindestens die folgenden Angaben zu enthalten:
+
+1.  Dosierung, Verabreichungsart und den Verabreichungsweg sowie
+    erforderlichenfalls Hinweise für die richtige Verabreichung,
+
+
+2.  Gegenanzeigen, Wechselwirkungen und Nebenwirkungen sowie
+
+
+3.  gegebenenfalls weitere Angaben und sonstige Warnhinweise.
+
+
+
+
+
+#### § 35f Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE010900360)
+
+Ein inaktiviertes immunologisches Tierarzneimittel nach Artikel 2
+Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November
+2022 darf von der Herstellerin oder dem Hersteller nur an diejenige
+behandelnde Tierärztin oder denjenigen behandelnden Tierarzt abgegeben
+werden, die oder der das Tierarzneimittel angefordert hat.
+
+
+#### § 35g Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE011000360)
+
+Die behandelnde Tierärztin oder der behandelnde Tierarzt hat bei der
+Festlegung der Wartezeit nach Artikel 105 Absatz 5 Buchstabe j der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 für ein
+inaktiviertes immunologisches Tierarzneimittel nach Artikel 2 Absatz 3
+in Verbindung mit Artikel 106 Absatz 5 der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 zur Anwendung bei Tieren, die der
+Gewinnung von Lebensmitteln dienen, Folgendes zu berücksichtigen:
+
+1.  die nach § 35e Absatz 1 Nummer 6 empfohlene Wartezeit und
+
+
+2.  die Rückstandshöchstwerte nach der Tabelle 1 des Anhangs der
+    Verordnung (EU) Nr. 37/2010 in der Fassung vom 24. September 2025.
+
+
+
+Die behandelnde Tierärztin oder der behandelnde Tierarzt hat über die
+Ermittlung der Wartezeit Aufzeichnungen zu machen.
+
+
+#### § 35h Verordnungsermächtigungen für inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE011100360)
+
+(1) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+weitere Vorschriften zu erlassen über
+
+1.  das Verfahren zur Erteilung der Herstellungserlaubnis sowie über das
+    Verfahren bei deren Ruhen, Widerruf oder Änderung (§ 35b),
+
+
+2.  das innergemeinschaftliche Verbringen (§ 35d), es erforderlichenfalls
+    zu verbieten oder von der Erteilung einer Genehmigung abhängig zu
+    machen,
+
+
+3.  das Verfahren der Anzeige (§ 35c) und
+
+
+4.  weitere Einzelheiten der Kennzeichnung der Verpackung (§ 35e) und
+    Einzelheiten der Verpackung.
+
+
+
+
+(2) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, zur Sicherung der erforderlichen Qualität von
+inaktivierten immunologischen Tierarzneimitteln nach Artikel 2 Absatz
+3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
+erlassen über
+
+1.  die Herstellung, die Verpackung und die Abgabe sowie
+
+
+2.  die Kennzeichnung der Verpackung und die Packungsbeilage sowie über
+    die Verwendung, Beschaffenheit und Kennzeichnung bestimmter
+    Behältnisse.
+
+
+
+
+
 ## Abschnitt 4 - Gemeinsame Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001600000)
 
@@ -1633,12 +1957,16 @@ zu veröffentlichen.
 
 
 #### § 37 Verbot des Bereitstellens
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003800000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003801360)
 
 (1) Es ist verboten, ein Tierarzneimittel oder ein
 veterinärmedizintechnisches Produkt ohne die erforderliche Zulassung,
 Registrierung oder Freistellung in den Verkehr zu bringen oder im
 Geltungsbereich dieses Gesetzes auf dem Markt bereitzustellen.
+Inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3
+der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 dürfen
+über § 35f hinaus nicht im Geltungsbereich dieses Gesetzes auf dem
+Markt bereitgestellt werden.
 
 (2) Ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt,
 das keiner Zulassung oder Registrierung bedarf, darf nicht in den
@@ -1700,7 +2028,7 @@ ist, auf dem Markt bereitzustellen oder anzuwenden.
 
 
 #### § 39 Verbot der Anwendung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004001125)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004002360)
 
 (1) Es ist verboten, ein Tierarzneimittel oder ein
 veterinärmedizintechnisches Produkt entgegen den Zulassungsbedingungen
@@ -1717,8 +2045,9 @@ genannten Tierarten anzuwenden.
 Tierarzneimittel oder veterinärmedizintechnisches Produkt, das keiner
 Zulassung oder Registrierung bedarf, bei Tieren anzuwenden.
 
-(4) Es ist verboten, Stoffe oder Stoffzusammenstellungen bei Tieren
-anzuwenden oder zu verabreichen, um
+(4) Vorbehaltlich des Satzes 2 ist es verboten, Stoffe oder
+Stoffzusammenstellungen bei Tieren anzuwenden oder Tieren zu
+verabreichen, um
 
 1.  Tierkrankheiten zu heilen oder zu verhüten,
 
@@ -1731,7 +2060,7 @@ anzuwenden oder zu verabreichen, um
 3.  eine medizinische Diagnose zu erstellen oder
 
 
-4.  eine Tötung durch das Einschläfern eines Tieres durchzuführen.
+4.  die Tötung durch das Einschläfern eines Tieres durchzuführen.
 
 
 
@@ -1742,10 +2071,14 @@ Satz 1 gilt nicht, wenn der Stoff oder die Stoffzusammenstellung
 
 
 2.  als Tierarzneimittel nach § 4 Absatz 1 von der Zulassung freigestellt
-    ist oder
+    ist,
 
 
-3.  in einem Tierarzneimittel enthalten ist, das in einem Betrieb
+3.  als inaktiviertes immunologisches Tierarzneimittel nach § 35b
+    hergestellt wurde oder
+
+
+4.  in einem Tierarzneimittel enthalten ist, das in einem Betrieb
     hergestellt wurde, der der allgemeinen Anzeigepflicht nach § 79 Absatz
     1 unterliegt.
 
@@ -1754,13 +2087,8 @@ Satz 1 gilt nicht, wenn der Stoff oder die Stoffzusammenstellung
 
 (5) Es ist verboten, einem der Gewinnung von Lebensmitteln dienenden
 Tier pharmakologisch wirksame Stoffe zu verabreichen, wenn diese
-Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 der
-Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe
-und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in
-Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1;
-L 293 vom 11.11.2010, S. 72), die zuletzt durch die
-Durchführungsverordnung (EU) 2023/2203 (ABl. L, 2023/2203, 23.10.2023)
-geändert worden ist, aufgeführt sind.
+Stoffe in Tabelle 2 des Anhangs der Verordnung (EU) Nr. 37/2010 in der
+Fassung vom 24. September 2025 aufgeführt sind.
 
 
 ### Unterabschnitt 2 - Kategorisierung
@@ -1768,18 +2096,21 @@ geändert worden ist, aufgeführt sind.
 
 
 #### § 40 Kategorisierung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004100000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004101360)
 
 (1) Tierarzneimittel und veterinärmedizintechnische Produkte werden
 als apothekenpflichtig oder als frei verkäuflich kategorisiert.
 
-(2) Nach der Verordnung (EU) 2019/6 oder nach den Vorschriften dieses
-Gesetzes verschreibungspflichtige Tierarzneimittel und
-veterinärmedizintechnische Produkte sind stets apothekenpflichtig.
-Tierarzneimittel und veterinärmedizintechnische Produkte, die keiner
-Pflicht zur Zulassung oder zur Registrierung unterliegen oder die von
-der Pflicht zur Zulassung nach § 4 freigestellt sind, sind stets frei
-verkäuflich.
+(2) Verschreibungspflichtige Tierarzneimittel und
+veterinärmedizintechnische Produkte nach der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 oder nach den Vorschriften dieses
+Gesetzes sind stets apothekenpflichtig. Tierarzneimittel und
+veterinärmedizintechnische Produkte, die keiner Pflicht zur Zulassung
+oder zur Registrierung unterliegen oder die von der Pflicht zur
+Zulassung nach § 4 freigestellt sind, sind stets frei verkäuflich. Die
+Sätze 1 und 2 gelten nicht für inaktivierte immunologische
+Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -1805,42 +2136,48 @@ der Zulassung und passt sie dem Stand von Wissenschaft und Technik an.
 
 
 #### § 42 Grundsatz
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004300000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004301360)
 
-Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6 oder
-nach § 24 Absatz 1 oder 2 verschreibungspflichtiges Tierarzneimittel
-oder veterinärmedizintechnisches Produkt darf im Geltungsbereich
-dieses Gesetzes nur gemäß den Festlegungen der tierärztlichen
-Verschreibung abgegeben werden.
+Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6 in der
+Fassung vom 23. November 2022 oder nach § 24 Absatz 1 oder 2 oder
+§ 35a verschreibungspflichtiges Tierarzneimittel oder
+veterinärmedizintechnisches Produkt darf im Geltungsbereich dieses
+Gesetzes nur gemäß den Festlegungen der tierärztlichen Verschreibung
+abgegeben werden.
 
 
 #### § 43 Apothekenpflicht
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004400000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004401360)
 
-Ein nach § 41 Absatz 1 als apothekenpflichtig kategorisiertes
+Ein nach § 41 Absatz 1 als apothekenpflichtig kategorisiertes
 Tierarzneimittel oder veterinärmedizintechnisches Produkt darf im
 Geltungsbereich dieses Gesetzes im Einzelhandel nur durch Apotheken
 auf dem Markt bereitgestellt werden; das Nähere regelt das
-Apothekengesetz.
+Apothekengesetz. Satz 1 gilt nicht für inaktivierte immunologische
+Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022.
 
 
 #### § 44 Tierärztliches Dispensierrecht
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004500000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004501360)
 
-(1) Abweichend von § 43 darf eine Tierärztin oder ein Tierarzt im
+(1) Abweichend von § 43 darf eine Tierärztin oder ein Tierarzt im
 Rahmen des Betriebes einer tierärztlichen Hausapotheke ein als
 apothekenpflichtig kategorisiertes Tierarzneimittel oder
 veterinärmedizintechnisches Produkt im Geltungsbereich dieses Gesetzes
-im Einzelhandel auf dem Markt bereitstellen. Dies gilt auch für nach §
-49 Absatz 1 Nummer 2 durch die Tierärztin oder den Tierarzt bezogene
+im Einzelhandel auf dem Markt bereitstellen. Satz 1 gilt auch für nach
+§ 49 Absatz 1 Nummer 2 durch die Tierärztin oder den Tierarzt bezogene
 Arzneimittel im Sinne von § 2 Absatz 1, 2 und 3a des
-Arzneimittelgesetzes. Die Einzelhandelstätigkeit nach Satz 1 umfasst
+Arzneimittelgesetzes und für nach § 35f bezogene inaktivierte
+immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022. Die
+Einzelhandelstätigkeit nach Satz 1 umfasst
 
 1.  die Abgabe durch eine Tierärztin oder einen Tierarzt an Halterinnen
     und Halter der von ihr oder ihm behandelten Tiere,
 
 
-2.  das Vorrätighalten zu diesem Zweck,
+2.  das Vorrätighalten zu dem Zweck nach Nummer 1,
 
 
 3.  die Abgabe durch eine Tierärztin oder einen Tierarzt an Halterinnen
@@ -1851,13 +2188,19 @@ Arzneimittelgesetzes. Die Einzelhandelstätigkeit nach Satz 1 umfasst
 
 4.  die Abgabe durch eine Tierärztin oder einen Tierarzt an
     Hofmischerinnen und Hofmischer nach Artikel 3 Absatz 2 Buchstabe g der
-    Verordnung (EU) 2019/4 zum Zweck der Herstellung von
-    Arzneifuttermitteln oder Zwischenerzeugnissen im Sinne dieser
-    Verordnung für die von ihr oder ihm behandelten Tiere; dies gilt nur
-    dann, wenn ein Tierarzneimittel für diesen Zweck zugelassen ist.
+    Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember 2018 zum Zweck
+    der Herstellung von Arzneifuttermitteln oder Zwischenerzeugnissen im
+    Sinne der Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember 2018
+    für die von ihnen behandelten Tiere; dies gilt nur dann, wenn ein
+    Tierarzneimittel für diesen Zweck zugelassen ist.
 
 
 
+Abweichend von Satz 3 umfasst die Einzelhandelstätigkeit nach Satz 1
+nicht die Abgabe von inaktivierten immunologischen Tierarzneimitteln
+nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6 in der Fassung vom
+23\. November 2022 durch eine Tierärztin oder einen Tierarzt an
+Hofmischerinnen und Hofmischer.
 
 (2) Der Umfang der Abgabe darf den auf Grund der tierärztlichen
 Indikation festgestellten Bedarf nicht überschreiten. Mit der Abgabe
@@ -1866,9 +2209,9 @@ schriftliche oder elektronische Anweisung über Art, Zeitpunkt und
 Dauer der Anwendung (tierärztliche Behandlungsanweisung)
 auszuhändigen.
 
-(3) Die Abgabe von verschreibungspflichtigen Tierarzneimitteln oder
-veterinärmedizintechnischen Produkten zur Anwendung bei Tieren, die
-der Gewinnung von Lebensmitteln dienen, darf nur erfolgen, wenn
+(3) Die Abgabe eines verschreibungspflichtigen Tierarzneimittels oder
+veterinärmedizintechnischen Produkts zur Anwendung bei Tieren, die der
+Gewinnung von Lebensmitteln dienen, darf nur erfolgen, wenn
 
 1.  die abgegebene Menge bestimmt ist zur Anwendung innerhalb der auf die
     Abgabe folgenden
@@ -1879,16 +2222,20 @@ der Gewinnung von Lebensmitteln dienen, darf nur erfolgen, wenn
         lokalen Anwendung vorgesehen ist, oder
 
 
-    b)  31 Tage im Übrigen, und
+    b)  31 Tage in allen anderen Fällen als denen nach Buchstabe a und
 
 
 
 
 
-2.  die Zulassungsbedingungen nicht eine längere Anwendungsdauer vorsehen.
+2.  die Zulassungsbedingungen nicht eine längere Anwendungsdauer als die
+    nach Nummer 1 vorsehen.
 
 
 
+Satz 1 gilt nicht für immunologische Tierarzneimittel, einschließlich
+inaktivierter immunologischer Tierarzneimittel nach Artikel 2 Absatz 3
+der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022.
 
 (4) Ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt
 darf im Rahmen der Übergabe einer tierärztlichen Praxis an die Person
@@ -1963,24 +2310,25 @@ vom 23. November 2022 bleibt unberührt.
 
 
 #### § 45 Weitere Vorschriften zur Abgabe; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004602130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004603360)
 
 (1) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis
-dürfen Tierarzneimittel und veterinärmedizintechnische Produkte, deren
-Abgabe durch Apotheken oder tierärztliche Hausapotheken vorgesehen
-ist, im Geltungsbereich dieses Gesetzes außer an Apotheken oder
-tierärztliche Hausapotheken nur abgeben an
+dürfen Tierarzneimittel, deren Abgabe durch Apotheken oder
+tierärztliche Hausapotheken vorgesehen ist, im Geltungsbereich dieses
+Gesetzes außer an Apotheken oder tierärztliche Hausapotheken nur
+abgeben an
 
-1.  Herstellerinnen, Hersteller sowie andere Inhaberinnen und Inhaber
+1.  Herstellerinnen und Hersteller sowie andere Inhaberinnen und Inhaber
     einer Großhandelsvertriebserlaubnis,
 
 
-2.  nach der Verordnung (EU) 2019/4 zugelassene Futtermittelunternehmer
-    zum Zwecke der Herstellung von Arzneifuttermitteln oder
-    Zwischenerzeugnissen im Sinne dieser Verordnung, wenn die
-    Tierarzneimittel für diesen Zweck zugelassen sind; ausgenommen hiervon
-    sind mobile Mischerinnen und Mischer sowie Hofmischerinnen und
-    Hofmischer nach der Verordnung (EU) 2019/4,
+2.  nach der Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember 2018
+    zugelassene Futtermittelunternehmer zum Zwecke der Herstellung von
+    Arzneifuttermitteln oder Zwischenerzeugnissen im Sinne dieser
+    Verordnung, wenn die Tierarzneimittel für diesen Zweck zugelassen
+    sind; ausgenommen hiervon sind mobile Mischerinnen und Mischer sowie
+    Hofmischerinnen und Hofmischer nach der Verordnung (EU) 2019/4 in der
+    Fassung vom 11. Dezember 2018,
 
 
 3.  Veterinärbehörden, soweit es sich um Tierarzneimittel handelt, die zur
@@ -1988,28 +2336,33 @@ tierärztliche Hausapotheken nur abgeben an
 
 
 4.  die auf einer gesetzlichen Grundlage eingerichteten oder im Benehmen
-    mit dem Bundesministerium von der zuständigen Behörde anerkannten
-    zentralen Beschaffungsstellen für Tierarzneimittel,
+    mit dem Bundesministerium für Landwirtschaft, Ernährung und Heimat von
+    der zuständigen Behörde anerkannten zentralen Beschaffungsstellen für
+    Tierarzneimittel,
 
 
-5.  Hochschulen, soweit es sich um Zwecke der Ausbildung der Studierenden
-    der Pharmazie und der Veterinärmedizin handelt,
+5.  Hochschulen, soweit es sich um Zwecke der Ausbildung von Studierenden
+    der Pharmazie oder der Veterinärmedizin handelt,
 
 
 6.  staatlich anerkannte Lehranstalten für veterinärmedizinisch-technische
-    Assistentinnen und Assistenten und pharmazeutisch-technische
+    Assistentinnen und Assistenten oder pharmazeutisch-technische
     Assistentinnen und Assistenten, soweit es sich um Zwecke der
-    Ausbildung handelt.
+    Ausbildung handelt,
+
+
+7.  Einrichtungen von Forschung und Wissenschaft, sofern diesen
+    Einrichtungen eine Erlaubnis nach § 3 des Betäubungsmittelgesetzes
+    erteilt worden ist, die zum Erwerb des betreffenden Tierarzneimittels
+    berechtigt.
 
 
 
-Ferner dürfen Inhaberinnen und Inhaber einer
-Großhandelsvertriebserlaubnis Tierarzneimittel, deren Abgabe durch
-Apotheken oder tierärztliche Hausapotheken vorgesehen ist, im
-Geltungsbereich dieses Gesetzes an Einrichtungen von Forschung und
-Wissenschaft abgeben, sofern diesen Einrichtungen eine Erlaubnis nach
-§ 3 des Betäubungsmittelgesetzes erteilt worden ist, die zum Erwerb
-des betreffenden Tierarzneimittels berechtigt.
+Satz 1 Nummer 1 bis 6 gilt für veterinärmedizintechnische Produkte,
+deren Abgabe durch Apotheken oder tierärztliche Hausapotheken
+vorgesehen ist, entsprechend. Satz 1 gilt nicht für inaktivierte
+immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022.
 
 (2) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis
 dürfen Tierarzneimittel und veterinärmedizintechnische Produkte erst
@@ -2045,9 +2398,9 @@ der Tierhalterin oder dem Tierhalter eine schriftliche oder
 elektronische Anweisung über Art, Zeitpunkt und Dauer der Anwendung
 auszuhändigen.
 
-(5) Die in Absatz 1 Satz 1 Nummer 4 bis 6 und Satz 2 bezeichneten
-Empfänger dürfen die Tierarzneimittel nur für den Bedarf im Rahmen der
-Erfüllung ihrer Aufgaben beziehen.
+(5) Die in Absatz 1 Satz 1 Nummer 4 bis 7 bezeichneten Empfänger
+dürfen die Tierarzneimittel nur für den Bedarf im Rahmen der Erfüllung
+ihrer Aufgaben beziehen.
 
 (6) Herstellerinnen, Hersteller sowie Inhaberinnen und Inhaber einer
 Großhandelsvertriebserlaubnis haben bis zum 31. März jedes
@@ -2184,14 +2537,17 @@ Herstellungserlaubnis innehaben.
 
 
 #### § 47 Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004800000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004801360)
 
-(1) Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6
-oder nach § 24 Absatz 1 oder 2 verschreibungspflichtiges
-Tierarzneimittel oder veterinärmedizintechnisches Produkt darf im
-Geltungsbereich dieses Gesetzes nur im Rahmen des Betriebes einer
-tierärztlichen Hausapotheke oder durch Apotheken auf tierärztliche
-Verschreibung auf dem Markt bereitgestellt werden.
+(1) Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 oder nach § 24 Absatz 1 oder 2
+verschreibungspflichtiges Tierarzneimittel oder
+veterinärmedizintechnisches Produkt darf im Geltungsbereich dieses
+Gesetzes nur im Rahmen des Betriebes einer tierärztlichen Hausapotheke
+oder durch Apotheken auf tierärztliche Verschreibung auf dem Markt
+bereitgestellt werden. Satz 1 gilt nicht für inaktivierte
+immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+(EU) 2019/6 in der Fassung vom 23. November 2022.
 
 (2) Die Abgabe eines verschreibungspflichtigen Tierarzneimittels oder
 veterinärmedizintechnischen Produkts ist auf die jeweils verschriebene
@@ -2283,21 +2639,27 @@ nach Satz 3 umfasst
 
 
 #### § 49 Bezug von Arzneimitteln und veterinärmedizintechnischen Produkten
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005001130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005002360)
 
 (1) Tierärztinnen und Tierärzte dürfen zum Zweck der Abgabe und
 Anwendung im Rahmen des Betriebes einer tierärztlichen Hausapotheke
 beziehen:
 
 1.  apothekenpflichtige Tierarzneimittel und veterinärmedizintechnische
-    Produkte von Herstellerinnen, Herstellern sowie Inhaberinnen und
-    Inhabern einer Großhandelsvertriebserlaubnis von Tierarzneimitteln
-    sowie
+    Produkte von Herstellerinnen und Herstellern sowie Inhaberinnen und
+    Inhabern einer Großhandelsvertriebserlaubnis von Tierarzneimitteln,
 
 
 2.  Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes von
-    pharmazeutischen Unternehmerinnen und Unternehmern sowie
-    Großhändlerinnen und Großhändlern im Sinne des Arzneimittelgesetzes.
+    pharmazeutischen Unternehmern im Sinne des § 4 Absatz 18 des
+    Arzneimittelgesetzes sowie von Personen, die Großhandel mit
+    Arzneimitteln im Sinne des § 4 Absatz 22 des Arzneimittelgesetzes
+    betreiben, und
+
+
+3.  inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz 3
+    der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 von
+    Herstellerinnen und Herstellern von Tierarzneimitteln.
 
 
 
@@ -2321,11 +2683,11 @@ Inhaberinnen und Inhabern einer Großhandelsvertriebserlaubnis oder von
 Apotheken beziehen.
 
 (5) Hofmischerinnen und Hofmischer nach Artikel 3 Absatz 2 Buchstabe g
-der Verordnung (EU) 2019/4 dürfen apothekenpflichtige Tierarzneimittel
-zum Zweck der Herstellung von Arzneifuttermitteln oder
-Zwischenerzeugnissen nur in Apotheken oder von einer Tierärztin oder
-einem Tierarzt beziehen, wenn die Tierarzneimittel für diesen Zweck
-zugelassen sind.
+der Verordnung (EU) 2019/4 in der Fassung vom 11. Dezember 2018 dürfen
+apothekenpflichtige Tierarzneimittel zum Zweck der Herstellung von
+Arzneifuttermitteln oder Zwischenerzeugnissen nur in Apotheken oder
+von einer Tierärztin oder einem Tierarzt beziehen, wenn die
+Tierarzneimittel für diesen Zweck zugelassen sind.
 
 (6) Zugelassene Futtermittelunternehmerinnen und
 Futtermittelunternehmer nach Artikel 13 der Verordnung (EU) 2019/4,
@@ -2358,23 +2720,37 @@ betreffende veterinärmedizintechnische Produkt eine
 Herstellungserlaubnis innehaben.
 
 
-#### § 50 Anwendung von Tierarzneimitteln
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005101130)
+#### § 50 Anwendung von Tierarzneimitteln; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005102360)
 
-(1) Nach der Verordnung (EU) 2019/6 oder nach den Vorschriften dieses
-Gesetzes verschreibungspflichtige Tierarzneimittel oder
-veterinärmedizintechnische Produkte dürfen vom Tierhalter nur gemäß
-den Festlegungen der tierärztlichen Verschreibung angewandt werden.
+(1) Verschreibungspflichtige immunologische Tierarzneimittel nach
+Artikel 4 Nummer 5 der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022, die unter Verwendung von Krankheitserregern oder auf
+biotechnischem, biochemischem oder synthetischem Weg hergestellt
+werden, dürfen an Tieren nur von einer Tierärztin oder einem Tierarzt
+angewandt werden, wenn sie zu folgenden Zwecken bestimmt sind:
+
+1.  Vorbeugung vor Seuchen oder Heilung von Seuchen,
+
+
+2.  Erkennung von Seuchen oder
+
+
+3.  Erzeugung einer unspezifischen Reaktion des Immunsystems.
+
+
+
 
 (2) Tierhalterinnen und Tierhalter sowie andere Personen, die nicht
-Tierärztinnen oder Tierärzte sind, dürfen verschreibungspflichtige
-Tierarzneimittel und veterinärmedizintechnische Produkte sowie
-Arzneimittel nach § 2 Absatz 1, 2 und 3a des Arzneimittelgesetzes bei
-Tieren nur anwenden, soweit
+Tierärztinnen oder Tierärzte sind, dürfen andere als die in Absatz 1
+genannten verschreibungspflichtigen Tierarzneimittel und
+veterinärmedizintechnischen Produkte sowie Arzneimittel nach § 2
+Absatz 1, 2 und 3a des Arzneimittelgesetzes an Tieren nur anwenden,
+sofern
 
-1.  diese von einer Tierärztin oder einem Tierarzt verschrieben oder
-    abgegeben worden sind, bei der oder dem sich die Tiere in Behandlung
-    befinden, und
+1.  diese von der Tierärztin oder dem Tierarzt, bei der oder dem sich die
+    Tiere in Behandlung befinden, verschrieben oder abgegeben worden sind,
+    und
 
 
 2.  die Anwendung gemäß einer tierärztlichen Behandlungsanweisung, die die
@@ -2383,10 +2759,15 @@ Tieren nur anwenden, soweit
 
 
 
-Satz 1 gilt nicht für nicht verschreibungspflichtige registrierte
-homöopathische Arzneimittel nach § 2 Absatz 1, 2 und 3a des
-Arzneimittelgesetzes, soweit diese bei Tieren, die nicht der Gewinnung
-von Lebensmitteln dienen, angewendet werden.
+Die Anwendung der nach der Verordnung (EU) 2019/6 in der Fassung vom
+23\. November 2022 oder nach den Vorschriften dieses Gesetzes
+verschreibungspflichtigen Tierarzneimittel oder
+veterinärmedizintechnischen Produkte darf nur gemäß den Festlegungen
+der tierärztlichen Verschreibung erfolgen. Satz 1 gilt nicht für nicht
+verschreibungspflichtige nach § 38 Absatz 1 des Arzneimittelgesetzes
+registrierte homöopathische Arzneimittel im Sinne des § 4 Absatz 26
+des Arzneimittelgesetzes, soweit diese an Tieren, die nicht der
+Gewinnung von Lebensmitteln dienen, angewendet werden.
 
 (3) Tierhalterinnen und Tierhalter sowie andere Personen, die nicht
 Tierärztinnen oder Tierärzte sind, dürfen andere als in Absatz 2
@@ -2426,6 +2807,12 @@ tierseuchenrechtlicher Maßnahmen bestimmt und nicht
 verschreibungspflichtig sind, dürfen bei Tieren, die der Gewinnung von
 Lebensmitteln dienen, nur gemäß der entsprechenden
 veterinärbehördlichen Anweisung angewendet werden.
+
+(6) Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Ausnahmen von Absatz 1 vorzusehen, soweit dies zur Vorbeugung vor oder
+Heilung und Erkennung von Seuchen gerechtfertigt ist und der Schutz
+der Gesundheit von Mensch und Tier gewahrt bleibt.
 
 
 #### § 51 Befugnisse tierärztlicher Bildungsstätten
@@ -2805,7 +3192,7 @@ Nennung des Dritten der zuständigen Behörde angezeigt hat.
 
 
 #### § 57 Ermittlung der Therapiehäufigkeit
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005802130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005804360)
 
 (1) Die zuständige Behörde hat für jedes Halbjahr die
 durchschnittliche Anzahl der Behandlungen mit den in § 56 Absatz 1
@@ -2839,12 +3226,11 @@ Therapiehäufigkeit vom 21. Februar 2013 (BAnz AT 22.2.2013 B2)
 
 (betriebliche halbjährliche Therapiehäufigkeit).
 
-(2) Enthält ein verabreichtes zugelassenes Arzneimittel eine der
-folgenden Kombinationen, so gilt diese Kombination für die Berechnung
-nach Absatz 1 Satz 3 Nummer 1 als ein einziger Wirkstoff:
+(2) Für die Berechnung nach Absatz 1 Satz 3 Nummer 1 gelten bei der
+Verabreichung eines zugelassenen Arzneimittels folgende Kombinationen
+als ein einziger Wirkstoff:
 
-1.  eine Wirkstoffkombination von Sulfonamiden und Trimethoprim,
-    einschließlich der Derivate von Trimethoprim, oder
+1.  eine Kombination antibiotischer Wirkstoffe oder
 
 
 2.  eine Kombination verschiedener chemischer Verbindungen eines einzigen
@@ -3619,15 +4005,16 @@ veterinärmedizintechnischen Produkten und beabsichtigte Maßnahmen
 informieren.
 
 
-#### § 65 Zuständige Bundesoberbehörde, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006601130)
+#### § 65 Zuständige Bundesoberbehörde; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006602360)
 
 (1) Zuständige Bundesoberbehörde im Sinne dieses Gesetzes ist
 
 1.  das Paul-Ehrlich-Institut
 
-    a)  für immunologische Tierarzneimittel im Anwendungsbereich dieses
-        Gesetzes,
+    a)  für immunologische Tierarzneimittel und für inaktivierte
+        immunologische Tierarzneimittel nach Artikel 2 Absatz 3 der Verordnung
+        (EU) 2019/6 in der Fassung vom 23. November 2022,
 
 
     b)  im Bereich Immuntherapie für
@@ -4095,17 +4482,18 @@ die zuständige Bundesoberbehörde.
 
 
 #### § 72 Durchführung der Überwachung
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007300000)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007301360)
 
 (1) Die mit der Überwachung beauftragten Personen müssen diese
 Tätigkeit hauptberuflich ausüben. Die zuständige Behörde kann
 Sachverständige beiziehen. Sie soll Angehörige der zuständigen
 Bundesoberbehörde als Sachverständige beteiligen, soweit es sich um
-Tierarzneimittel im Sinne von Artikel 2 Absatz 7 Buchstabe a oder b
-oder Artikel 4 Nummer 43 der Verordnung (EU) 2019/6, gentechnisch
-hergestellte Tierarzneimittel, Allergene, oder um Wirkstoffe oder
-andere Stoffe handelt, die menschlicher, tierischer oder mikrobieller
-Herkunft sind oder die auf gentechnischem Wege hergestellt werden.
+Tierarzneimittel im Sinne von Artikel 2 Absatz 3 oder Absatz 7
+Buchstabe a oder b oder Artikel 4 Nummer 43 der Verordnung (EU)
+2019/6, gentechnisch hergestellte Tierarzneimittel, Allergene, oder um
+Wirkstoffe oder andere Stoffe handelt, die menschlicher, tierischer
+oder mikrobieller Herkunft sind oder die auf gentechnischem Wege
+hergestellt werden.
 
 (2) Der Überwachung unterliegen
 
@@ -4129,12 +4517,13 @@ und Probennahmen durch, um die Einhaltung der Vorschriften zu
 überwachen. Dazu sind die der Überwachung unterliegenden Personen,
 Betriebe und Einrichtungen risikoorientiert zu kontrollieren.
 
-(4) Unbeschadet des Artikels 123 der Verordnung (EU) 2019/6 und soweit
-es zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes,
-der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und der
-unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder
-der Europäischen Union erforderlich ist, sind die mit der Überwachung
-beauftragten Personen, bei Gefahr im Verzug auch die Polizei, befugt,
+(4) Unbeschadet des Artikels 123 der Verordnung (EU) 2019/6 in der
+Fassung vom 23. November 2022 und soweit es zur Überwachung der
+Einhaltung der Vorschriften dieses Gesetzes, der aufgrund dieses
+Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden
+Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+erforderlich ist, sind die mit der Überwachung beauftragten Personen,
+bei Gefahr im Verzug auch die Polizei, befugt,
 
 1.  Grundstücke, Betriebsräume und Transportmittel, die im Zusammenhang
     stehen mit
@@ -4163,8 +4552,8 @@ beauftragten Personen, bei Gefahr im Verzug auch die Polizei, befugt,
 
 
 
-    das Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13 des
-    Grundgesetzes wird insoweit eingeschränkt;
+    das Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13
+    Absatz 1 des Grundgesetzes wird insoweit eingeschränkt;
 
 
 3.  alle geschäftlichen Schrift- und Datenträger, insbesondere
@@ -4544,7 +4933,7 @@ Katastrophenschutzes berührt.
 
 
 #### § 79 Allgemeine Anzeigepflicht
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008001116)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008002360)
 
 (1) Betriebe und Einrichtungen, die Tierarzneimittel und
 veterinärmedizintechnische Produkte entwickeln, herstellen, einer
@@ -4582,15 +4971,16 @@ zuständigen Behörde anzuzeigen. Nachträgliche Änderungen in Bezug auf
 anzeigepflichtige Tätigkeiten oder in Bezug auf die verantwortlichen
 Personen sind unverzüglich anzuzeigen.
 
-(7) Wer ein nicht nach den Bestimmungen der Verordnung (EU) 2019/6
-oder dieses Gesetzes zulassungspflichtiges Tierarzneimittel oder
+(7) Wer ein nicht nach den Bestimmungen der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 oder dieses Gesetzes
+zulassungspflichtiges Tierarzneimittel oder
 veterinärmedizintechnisches Produkt auf dem Markt bereitstellen will,
 hat dies zuvor der zuständigen Bundesoberbehörde und der zuständigen
 Behörde des Landes anzuzeigen, in dem die Betriebsstätte liegt oder
-liegen soll. In der Anzeige sind der Hersteller, die verwendete
-Bezeichnung, die Bestandteile und die tatsächliche Zusammensetzung des
-Tierarzneimittels anzugeben. Nachträgliche Änderungen und die
-Beendigung des Bereitstellens sind anzuzeigen.
+liegen soll. In der Anzeige sind die Herstellerin oder der Hersteller,
+die verwendete Bezeichnung, die Bestandteile und die tatsächliche
+Zusammensetzung des Tierarzneimittels anzugeben. Nachträgliche
+Änderungen und die Beendigung des Bereitstellens sind anzuzeigen.
 
 
 ### Unterabschnitt 12 - Sonstige Durchführungsbestimmungen
@@ -4766,7 +5156,7 @@ bestraft, wer
 
 
 ### § 89 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009004130)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009005360)
 
 (1) Ordnungswidrig handelt, wer eine in § 88 bezeichnete Handlung
 fahrlässig begeht.
@@ -4788,6 +5178,33 @@ fahrlässig begeht.
 
 4.  entgegen § 29 Absatz 1 ein Tierarzneimittel oder ein
     veterinärmedizintechnisches Produkt handelt,
+
+
+4a. ohne Erlaubnis nach § 35b Absatz 1 ein dort genanntes Tierarzneimittel
+    herstellt,
+
+
+4b. entgegen § 35b Absatz 2 ein dort genanntes Tierarzneimittel herstellt,
+
+
+4c. entgegen § 35c Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erstattet,
+
+
+4d. entgegen § 35e Absatz 1 eine Primärverpackung oder eine Umhüllung
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    kennzeichnet,
+
+
+4e. entgegen § 35e Absatz 2 Satz 1 eine Packungsbeilage nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
+    stellt,
+
+
+4f. entgegen § 35f ein dort genanntes Tierarzneimittel abgibt,
+
+
+4g. entgegen § 35g Satz 1 eine Wartezeit nicht richtig festlegt,
 
 
 5.  entgegen § 39 Absatz 2 oder § 50 Absatz 2 oder 3 ein Tierarzneimittel
@@ -4858,14 +5275,9 @@ fahrlässig begeht.
 
 
 
-(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 des
-Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
-Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
-vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020,
-S. 15; L 241 vom 8.7.2021, S. 17; L 151 vom 2.6.2022, S. 74), die
-zuletzt durch die Delegierte Verordnung (EU) 2023/183 (ABl. L 26 vom
-30\.1.2023, S. 7) geändert worden ist, verstößt, indem er vorsätzlich
-oder fahrlässig
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 verstößt, indem er vorsätzlich oder
+fahrlässig
 
 1.  entgegen Artikel 14 Absatz 1 Satz 1, auch in Verbindung mit Artikel
     16, eine Packungsbeilage nicht oder nicht zum Zeitpunkt des
@@ -4991,10 +5403,10 @@ Tatbestand auf diese Bußgeldvorschrift verweist.
 Großhandelsvertriebserlaubnis vorsätzlich oder fahrlässig ein
 Tierarzneimittel auf dem Markt bereitstellt, dessen Fachinformation
 nicht die Angaben nach Artikel 35 Absatz 1 der Verordnung (EU) 2019/6
-aufweist.
+in der Fassung vom 23. November 2022 aufweist.
 
 (6) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-dreißigtausend Euro geahndet werden.
+fünfzigtausend Euro geahndet werden.
 
 
 ### § 90 Einziehung
@@ -5096,6 +5508,122 @@ erstmalig bis zu dem folgenden Zeitpunkt zu machen:
 
 
 
+
+
+### § 95a Übergangsvorschriften aus Anlass des Gesetzes zur Änderung des Tiergesundheitsgesetzes, des Tierarzneimittelgesetzes und des Tiergesundheitsrechtlichen Bußgeldgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE011200360)
+
+(1) Abweichend von § 50 Absatz 1 dürfen die dort genannten
+immunologischen Tierarzneimittel bis zum Inkrafttreten einer
+Rechtsverordnung nach § 50 Absatz 6 für die dort genannten Zwecke von
+einer oder einem gewerbsmäßigen oder berufsmäßigen Tierhalterin oder
+Tierhalter oder einer von dieser oder diesem beauftragten Person
+angewendet werden, sofern die folgenden Anforderungen erfüllt werden:
+
+1.  das immunologische Tierarzneimittel wurde von der Tierärztin oder dem
+    Tierarzt, bei der oder dem sich die Tiere in Behandlung befinden,
+    verschrieben oder abgegeben,
+
+
+2.  die Anwendung des immunologischen Tierarzneimittels darf nur gemäß den
+    Festlegungen der tierärztlichen Verschreibung erfolgen,
+
+
+3.  die Tierhalterin oder der Tierhalter oder die von dieser oder diesem
+    beauftragte Person wurde durch die Tierärztin oder den Tierarzt in der
+    Anwendung des immunologischen Tierarzneimittels einschließlich der
+    Überprüfung der Impfreaktionen unterwiesen und über die Risiken und
+    möglichen Nebenwirkungen der Anwendung des immunologischen
+    Tierarzneimittels unterrichtet und
+
+
+4.  die tierärztliche Verschreibung nach Artikel 105 Absatz 5 der
+    Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 enthält
+    folgende zusätzliche Angaben:
+
+    a)  Angaben über die Indikation,
+
+
+    b)  Lagerungs- und Anwendungshinweise für die oder den das immunologische
+        Tierarzneimittel anwendende Tierhalterin oder anwendenden Tierhalter
+        oder die von ihr oder ihm beauftragte Person,
+
+
+    c)  den Anwendungszeitpunkt oder den Anwendungszeitraum sowie
+
+
+    d)  Hinweise zur unschädlichen Beseitigung von Resten.
+
+
+
+
+
+
+Satz 1 gilt nicht für
+
+1.  immunologische Tierarzneimittel
+
+    a)  gegen Seuchen nach Anhang I der Durchführungsverordnung (EU) 2020/2002
+        in der Fassung vom 13. Juli 2023, ausgenommen solche bei Geflügel oder
+        bei Wassertieren, sowie
+
+
+    b)  gegen die Bovine Genitale Campylobakteriose und Trichomonadose sowie
+
+
+
+
+
+2.  amtlich angeordnete oder aufgrund seuchenrechtlicher Vorschriften
+    vorgeschriebene Anwendungen von immunologischen Tierarzneimitteln, die
+    mittels Injektion vorzunehmen sind.
+
+
+
+
+(2) In den Fällen des Absatzes 1 haben Tierhalterinnen und Tierhalter
+von der Lebensmittelgewinnung dienenden Tieren die Aufzeichnungen nach
+Artikel 108 Absatz 1 der Verordnung (EU) 2019/6 in der Fassung vom 23.
+November 2022 um den Namen der Person, die das verschriebene
+immunologische Tierarzneimittel verabreicht hat, zu ergänzen.
+
+(3) In den Fällen des Absatzes 1 haben Tierhalterinnen und Tierhalter
+von der Lebensmittelgewinnung dienenden Tieren die Aufzeichnungen nach
+Absatz 2 in Verbindung mit Artikel 108 Absatz 1 der Verordnung (EU)
+2019/6 in der Fassung vom 23. November 2022 sowie die tierärztliche
+Verschreibung nach Absatz 1 Satz 1 in Verbindung mit Artikel 105 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022
+
+1.  mindestens fünf Jahre vom 1. Januar des Jahres an, das auf das Jahr
+    der Aushändigung der Verschreibung folgt, aufzubewahren und
+
+
+2.  der zuständigen Behörde auf Verlangen unverzüglich vorzulegen.
+
+
+
+
+(4) Bis zum Inkrafttreten einer Rechtsverordnung nach § 50 Absatz 6
+dürfen abweichend von § 50 Absatz 1 über das Trinkwasser zu
+verabreichende immunologische Tierarzneimittel zur Impfung gegen die
+Newcastle-Krankheit auch von einer oder einem nicht gewerbsmäßigen
+oder nicht berufsmäßigen Halterin oder Halter von Geflügel angewendet
+werden, wenn die Anforderungen nach Absatz 1 Satz 1 erfüllt sind. Die
+Absätze 2 und 3 gelten entsprechend.
+
+(5) Für die Herstellung von inaktivierten immunologischen
+Tierarzneimitteln nach Artikel 2 Absatz 3 der Verordnung (EU) 2019/6
+in der Fassung vom 23. November 2022 ist § 8 Absatz 4 und 5 der
+Tierimpfstoff-Verordnung in seiner bis zum Ablauf des 9. März 2026
+geltenden Fassung bis zum Ablauf des 31. Dezember 2026 anzuwenden.
+
+(6) Inaktivierte immunologische Tierarzneimittel nach Artikel 2 Absatz
+3 der Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022, die
+nach den Vorschriften der Tierimpfstoff-Verordnung in ihrer bis zum
+Ablauf des 9. März 2026 geltenden Fassung hergestellt und
+gekennzeichnet wurden, dürfen unbeschadet der Vorschriften dieses
+Gesetzes bis zum Ablauf des 9. September 2026 auf dem Markt
+bereitgestellt werden.
 
 
 ### § 96 Evaluierung
@@ -5349,7 +5877,8 @@ Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes
 ### Anlage 2 Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
 [Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009801130)
 
-(Fundstelle: BGBl. I 2022, 2860)
+(Fundstelle: BGBl. I 2022, 2860; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 
 1.  Pseudonymisierte Angabe der Registriernummer des Tierhaltungsbetriebs

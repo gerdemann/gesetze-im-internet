@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1499
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 7 G v. 30.9.2025 I Nr. 233
+:   Art. 61 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -42,7 +42,7 @@ Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 (zu § 1)
 
 ## Anlage Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
-[Direktlink](https://www.gesetze-im-internet.de/findasav/BJNR149900002.html#BJNR149900002BJNE000501128)
+[Direktlink](https://www.gesetze-im-internet.de/findasav/BJNR149900002.html#BJNR149900002BJNE000502128)
 
 (Text der Satzung siehe: FinDASa)
 

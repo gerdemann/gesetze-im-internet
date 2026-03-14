@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2025 I Nr. 371
+:   Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33
 
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 [Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG000100000)
@@ -3829,7 +3830,7 @@ eingetreten sind.
 
 
 #### § 96 Fälligkeit, Auszahlung und Berechnungsgrundsätze
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009908126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009909126)
 
 (1) Laufende Geldleistungen mit Ausnahme des Verletzten- und
 Übergangsgeldes werden am Ende des Monats fällig, zu dessen Beginn die
@@ -3857,12 +3858,14 @@ ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
 zur Festlegung der technischen Vorschriften und der
 Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
 zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Unfallversicherungsträger zurückzuüberweisen, wenn diese sie als zu
-Unrecht erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung
-besteht nicht, soweit über den entsprechenden Betrag bei Eingang der
-Rückforderung bereits anderweitig verfügt wurde, es sei denn, daß die
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
+(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt, überwiesen
+wurden, gelten als unter Vorbehalt erbracht. Das Geldinstitut hat sie
+der überweisenden Stelle oder dem Unfallversicherungsträger
+zurückzuüberweisen, wenn diese sie als zu Unrecht erbracht
+zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht nicht,
+soweit über den entsprechenden Betrag bei Eingang der Rückforderung
+bereits anderweitig verfügt wurde, es sei denn, daß die
 Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
 darf den überwiesenen Betrag nicht zur Befriedigung eigener
 Forderungen verwenden.
@@ -5421,7 +5424,7 @@ vorliegt.
 
 
 ##### § 136a Unternehmernummer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032605126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032606126)
 
 (1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer
 unternehmerischen Tätigkeit eine Unternehmernummer. Die
@@ -5453,11 +5456,12 @@ entsprechend.
 
 (3) Der Unternehmer hat für die Vergabe der Unternehmernummer
 einschließlich des Anhangs nach Absatz 1 Satz 4 die dazu notwendigen
-Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum
-und die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das
-Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
-Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.,
-in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
+Angaben, insbesondere den Namen, den Geburtsnamen, das Geburtsdatum,
+die Identifikationsnummer nach dem Identifikationsnummerngesetz und
+die aktuelle Wohnanschrift, elektronisch zu übermitteln. Das Nähere
+zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen
+regelt die Deutsche Gesetzliche Unfallversicherung e. V., in
+Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft, in
 Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
 zu genehmigen sind.
 

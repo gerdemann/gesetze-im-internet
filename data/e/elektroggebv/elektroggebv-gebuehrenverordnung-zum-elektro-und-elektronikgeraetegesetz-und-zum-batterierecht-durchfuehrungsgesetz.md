@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1776
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.8.2025 I Nr. 187
-
-Änderung durch
-:   Art. 9 Abs. 5 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 Abs. 5 G v. 30.9.2025 I Nr. 233
 
 Stand: Ersetzt V 2129-43-1 v. 6.7.2005 I 2020 (ElektroGKostV)
 
@@ -155,7 +152,8 @@ geändert worden ist, außer Kraft.
 ## Anlage Gebührenverzeichnis
 [Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000611130)
 
-(Fundstelle: BGBl. 2025 I Nr. 187, S. 2 – 5)
+(Fundstelle: BGBl. 2025 I Nr. 187, S. 2 – 5;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nr.
 

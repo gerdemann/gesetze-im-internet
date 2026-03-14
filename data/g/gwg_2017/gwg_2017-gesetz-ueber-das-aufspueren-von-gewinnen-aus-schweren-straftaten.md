@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 8 G v. 27.12.2024 I Nr. 438
+:   Art. 53 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
@@ -1256,7 +1256,7 @@ Kündigungsfrist berechtigt ist.
 
 
 ### § 8 Aufzeichnungs- und Aufbewahrungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000904128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000905128)
 
 (1) Vom Verpflichteten aufzuzeichnen und aufzubewahren sind
 
@@ -1313,15 +1313,16 @@ aufgetreten sind, aufzuzeichnen.
 (2) Zur Erfüllung der Pflicht nach Absatz 1 Satz 1 Nummer 1 Buchstabe
 a sind in den Fällen des § 12 Absatz 1 Satz 1 Nummer 1 auch die Art,
 die Nummer und die Behörde, die das zur Überprüfung der Identität
-vorgelegte Dokument ausgestellt hat, aufzuzeichnen. Soweit zur
-Überprüfung der Identität einer natürlichen Person Dokumente nach § 12
-Absatz 1 Satz 1 Nummer 1, 4 oder 5 oder zur Überprüfung der Identität
-einer juristischen Person Unterlagen nach § 12 Absatz 2 vorgelegt
-werden oder soweit Dokumente, die aufgrund einer Rechtsverordnung nach
-§ 12 Absatz 3 bestimmt sind, vorgelegt oder herangezogen werden, haben
-die Verpflichteten das Recht und die Pflicht, Kopien dieser Dokumente
-oder Unterlagen anzufertigen oder sie optisch digitalisiert zu
-erfassen oder, bei einem Vor-Ort-Auslesen nach § 18a des
+vorgelegte Dokument ausgestellt hat, oder, wenn diese nicht erkennbar
+ist, der ausstellende Staat aufzuzeichnen. Soweit zur Überprüfung der
+Identität einer natürlichen Person Dokumente nach § 12 Absatz 1 Satz 1
+Nummer 1, 4 oder 5 oder zur Überprüfung der Identität einer
+juristischen Person Unterlagen nach § 12 Absatz 2 vorgelegt werden
+oder soweit Dokumente, die aufgrund einer Rechtsverordnung nach § 12
+Absatz 3 bestimmt sind, vorgelegt oder herangezogen werden, haben die
+Verpflichteten das Recht und die Pflicht, Kopien dieser Dokumente oder
+Unterlagen anzufertigen oder sie optisch digitalisiert zu erfassen
+oder, bei einem Vor-Ort-Auslesen nach § 18a des
 Personalausweisgesetzes, nach § 78 Absatz 5 Satz 2 des
 Aufenthaltsgesetzes oder nach § 13 des eID-Karte-Gesetzes, das
 dienste- und kartenspezifische Kennzeichen sowie die Tatsache
@@ -1485,7 +1486,7 @@ Erfüllung sonstiger geldwäscherechtlicher Vorschriften.
 
 
 ### § 10 Allgemeine Sorgfaltspflichten
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001103128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001104128)
 
 (1) Die allgemeinen Sorgfaltspflichten sind:
 
@@ -1571,8 +1572,8 @@ erfüllen:
 2.  bei Transaktionen, die außerhalb einer Geschäftsbeziehung durchgeführt
     werden, wenn es sich handelt um
 
-    a)  Geldtransfers nach Artikel 3 Nummer 9 der Verordnung (EU) 2015/847 des
-        Europäischen Parlaments und des Rates vom 20. Mai 2015 über die
+    a)  Geldtransfers nach Artikel 3 Nummer 9 der Verordnung (EU) 2023/1113
+        des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die
         Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der
         Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) und
         dieser Geldtransfer einen Betrag von 1 000 Euro oder mehr ausmacht,
@@ -1890,7 +1891,7 @@ zurückgreift.
 
 
 ### § 12 Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001306128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001307128)
 
 (1) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum
 Vertragspartner und gegebenenfalls für diesen auftretende Personen hat
@@ -1921,10 +1922,15 @@ bei natürlichen Personen zu erfolgen anhand
     Identifizierungssystems oder
 
 
-5.  von Dokumenten nach § 1 Absatz 1 der Verordnung über die Bestimmung
-    von Dokumenten, die zur Identifizierung einer nach dem
-    Geldwäschegesetz zu identifizierenden Person zum Zwecke des
-    Abschlusses eines Zahlungskontovertrags zugelassen werden.
+5.  von Dokumenten nach § 1 Absatz 1 der Zahlungskonto-
+    Identitätsprüfungsverordnung, wobei im Falle des § 1 Absatz 1 Nummer 1
+    der Zahlungskonto-Identitätsprüfungsverordnung zur Identifizierung der
+    minderjährigen Person eine elektronisch oder auf dem Postweg
+    übersandte Kopie der Geburtsurkunde dieser Person ausreicht, sofern
+    der Verpflichtete die Steueridentifikationsnummer der zu
+    identifizierenden Person zu erheben hat und die Identitätsüberprüfung
+    des gesetzlichen Vertreters anhand eines Dokuments oder Verfahrens
+    gemäß § 12 Absatz 1 Satz 1 Nummer 1 bis 4 erfolgt ist.
 
 
 
@@ -2058,7 +2064,7 @@ Sicherheitsniveau festgestellt hat.
 
 
 ### § 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001502123)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001503128)
 
 (1) Verpflichtete müssen nur vereinfachte Sorgfaltspflichten erfüllen,
 soweit sie unter Berücksichtigung der in den Anlagen 1 und 2 genannten
@@ -2106,7 +2112,7 @@ vereinfachte Sorgfaltspflichten in Bezug auf Kunden erfüllen müssen.
 Bei der Festlegung sind die in den Anlagen 1 und 2 genannten
 Risikofaktoren zu berücksichtigen.
 
-(5) Die Verordnung (EU) 2015/847 findet keine Anwendung auf
+(5) Die Verordnung (EU) 2023/1113 findet keine Anwendung auf
 Inlandsgeldtransfers auf ein Zahlungskonto eines Begünstigten, auf das
 ausschließlich Zahlungen für die Lieferung von Gütern oder
 Dienstleistungen vorgenommen werden können, wenn
@@ -3391,7 +3397,7 @@ Sicherstellung von Datenschutz und Datensicherheit zu regeln.
 
 
 ### § 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002404125)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002405128)
 
 (1) Bei Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen
 nach § 21 ist die Einsichtnahme gestattet:
@@ -3406,7 +3412,8 @@ nach § 21 ist die Einsichtnahme gestattet:
     der in § 10 Absatz 3 und 3a genannten Fälle erfolgt, und
 
 
-3.  allen Mitgliedern der Öffentlichkeit.
+3.  jedem, der der registerführenden Stelle ein berechtigtes Interesse
+    nachweisen kann.
 
 
 
@@ -5959,8 +5966,8 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
 
 
-### § 51 Aufsicht
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005203128)
+### § 51 Aufsicht, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005204128)
 
 (1) Die Aufsichtsbehörden üben die Aufsicht über die Verpflichteten
 aus.
@@ -5981,10 +5988,9 @@ Wirkung.
 
 (2a) Die Aufsichtsbehörde nach § 50 Nummer 1 übt, unbeschadet der
 Aufsicht nach Absatz 1, die Aufsicht über die Einhaltung der
-Verordnung (EU) 2023/1113 durch Anbieter von Kryptowerte-
-Dienstleistungen aus. Sie kann die erforderlichen Anordnungen treffen,
-um die Einhaltung der Verordnung (EU) 2023/1113 durch Anbieter von
-Kryptowerte-Dienstleistungen sicherzustellen.
+Verordnung (EU) 2023/1113 aus. Sie kann die erforderlichen Anordnungen
+treffen, um die Einhaltung der Verordnung (EU) 2023/1113
+sicherzustellen.
 
 (3) Die Aufsichtsbehörde nach § 50 Nummer 1, soweit sich die
 Aufsichtstätigkeit auf die in § 50 Nummer 1 Buchstabe g und h
@@ -6200,6 +6206,57 @@ oder der Anwendung der in § 15 Absatz 5a genannten Maßnahmen durch die
 zuständigen Aufsichtsbehörden sowie über den Erlass einer
 Rechtsverordnung nach § 15 Absatz 10 Satz 1 Nummer 2.
 
+(11) Die Aufsichtsbehörden sind jeweils befugt, im Wege einer
+Allgemeinverfügung festzulegen,
+
+1.  welche Meldungen, Anzeigen, Berichte, Anträge und sonstigen
+    Informationen mit den hierzu notwendigen Unterlagen, die den
+    Aufsichtsbehörden nach diesem Gesetz oder nach anderen Gesetzen, nach
+    den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und nach
+    den aufgrund dieses Gesetzes ergangenen Auskunftsersuchen vorzulegen
+    sind, elektronisch eingereicht werden müssen und
+
+
+2.  welches elektronische Kommunikationsverfahren für die jeweilige
+    Vorlagepflicht bei den Aufsichtsbehörden zu nutzen ist und welche
+    Bestimmungen für die Nutzung des jeweiligen elektronischen
+    Kommunikationsverfahrens gelten.
+
+
+
+Die Allgemeinverfügung kann nähere Bestimmungen über Art, Umfang,
+Zeitpunkt, Form und Datenformat der Einreichung gemäß Satz 1 Nummer 1
+treffen.
+
+(12) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates festzulegen,
+
+1.  welche Meldungen, Anzeigen, Berichte, Anträge und sonstigen
+    Informationen mit den hierzu notwendigen Unterlagen, die der
+    Aufsichtsbehörde nach § 50 Nummer 1 und 2, soweit die Bundesanstalt
+    für Finanzdienstleistungsaufsicht zuständige Aufsichtsbehörde ist,
+    nach diesem Gesetz oder nach anderen Gesetzen, nach den aufgrund
+    dieses Gesetzes erlassenen Rechtsverordnungen und nach den aufgrund
+    dieses Gesetzes ergangenen Auskunftsersuchen vorzulegen sind,
+    elektronisch eingereicht werden müssen und
+
+
+2.  welches elektronische Kommunikationsverfahren für die jeweilige
+    Vorlagepflicht bei der Aufsichtsbehörde nach § 50 Nummer 1 und 2,
+    soweit die Bundesanstalt für Finanzdienstleistungsaufsicht zuständige
+    Aufsichtsbehörde ist, zu nutzen ist und welche Bestimmungen für die
+    Nutzung des jeweiligen elektronischen Kommunikationsverfahrens gelten,
+    einschließlich der Verpflichtung zu einem Zugang zu einem
+    elektronischen Kommunikationsverfahren im Sinne der §§ 4f und 4g des
+    Finanzdienstleistungsaufsichtsgesetzes.
+
+
+
+Absatz 11 Satz 2 gilt entsprechend. Das Bundesministerium der Finanzen
+kann die Ermächtigung nach Satz 1 durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt für
+Finanzdienstleistungsaufsicht übertragen.
+
 
 ### § 51a Verarbeitung personenbezogener Daten durch Aufsichtsbehörden
 [Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006600311)
@@ -6265,8 +6322,8 @@ bedient, zulassen, sofern diese nicht einer weitergehenden Auskunft
 zustimmt.
 
 
-### § 52 Mitwirkungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005301311)
+### § 52 Mitwirkungspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005302128)
 
 (1) Ein Verpflichteter, die Mitglieder seiner Organe und seine
 Beschäftigten haben der nach § 50 Nummer 1 zuständigen
@@ -6320,6 +6377,28 @@ unentgeltlich Auskunft über alle Geschäftsangelegenheiten zu erteilen
 und Unterlagen vorzulegen, soweit dies für die Feststellung der
 Verpflichteteneigenschaft erforderlich ist. Absatz 1 Satz 2 sowie die
 Absätze 4 und 5 gelten entsprechend.
+
+(7) Verpflichtete haben der Bundesanstalt für
+Finanzdienstleistungsaufsicht, soweit diese zuständige
+Aufsichtsbehörde im Sinne des § 50 ist, jährlich die für die Zwecke
+des Artikels 40 Absatz 1 Unterabsatz 2 Buchstabe a und b der
+Richtlinie (EU) 2024/1640 und des Artikels 12 Absatz 2 in Verbindung
+mit Artikel 15 der Verordnung (EU) 2024/1620 erforderlichen
+Informationen zu melden. Nähere Bestimmungen zu den im Einzelnen zu
+übermittelnden Informationen ergeben sich insbesondere aus den von der
+Kommission nach Artikel 40 Absatz 2 der Richtlinie (EU) 2024/1640
+sowie Artikel 12 Absatz 7 und Artikel 15 Absatz 3 der Verordnung (EU)
+2024/1620 zu erlassenden technischen Regulierungs- und
+Durchführungsstandards in der jeweils geltenden Fassung. Das
+Bundesministerium der Finanzen kann durch Rechtsverordnung bestimmen,
+dass ergänzend zu den Informationen nach den Sätzen 1 und 2 von den
+Verpflichteten Informationen, die für die risikobasierte Wahrnehmung
+der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht
+erforderlich sind, zu melden sind sowie Form, Umfang und Zeitpunkt der
+Meldung bestimmen. Das Bundesministerium der Finanzen kann die
+Ermächtigung nach Satz 3 durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, auf die Bundesanstalt für
+Finanzdienstleistungsaufsicht übertragen.
 
 
 ### § 53 Hinweise auf Verstöße
@@ -6419,7 +6498,7 @@ Absätze 3 bis 7 finden insoweit keine Anwendung.
 
 
 ### § 54 Verschwiegenheitspflicht
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005501311)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005502128)
 
 (1) Soweit Personen, die bei den zuständigen Aufsichtsbehörden nach §
 50 beschäftigt sind oder für diese Aufsichtsbehörden tätig sind,
@@ -6462,7 +6541,8 @@ der Weitergabe keine anderen Rechtsvorschriften entgegenstehen,
     c)  an die Europäische Zentralbank, soweit sie im Einklang mit der
         Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur
         Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über
-        Kreditinstitute auf die Europäische Zentralbank tätig wird,
+        Kreditinstitute auf die Europäische Zentralbank tätig wird, sowie an
+        die Europäische Bankenaufsichtsbehörde,
 
 
     d)  an die zentralen Meldestellen im Sinne von Artikel 32 Absatz 1 der
@@ -6629,7 +6709,7 @@ Erfüllung der aufsichtsrechtlichen Aufgaben dieser Behörden dienen. §
 
 
 ### § 56 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE008000128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE008001128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -6996,14 +7076,19 @@ Erfüllung der aufsichtsrechtlichen Aufgaben dieser Behörden dienen. §
 73. entgegen § 52 Absatz 1 und 6
 
     a)  Auskünfte nicht, nicht richtig, nicht vollständig oder nicht
-        rechtzeitig erteilt oder
+        rechtzeitig erteilt,
 
 
     b)  Unterlagen nicht, nicht richtig, nicht vollständig oder nicht
-        rechtzeitig vorlegt oder
+        rechtzeitig vorlegt,
 
 
 
+
+
+73a. entgegen § 52 Absatz 7 Satz 1 und 2 oder nach einer Rechtsverordnung
+    nach Satz 3 und 4 Informationen nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig übermittelt oder
 
 
 74. entgegen § 52 Absatz 3 eine Prüfung nicht duldet.
@@ -7053,8 +7138,42 @@ Geldbuße bis zu einhundertfünfzigtausend Euro, bei leichtfertiger
 Begehung mit einer Geldbuße bis zu einhunderttausend Euro, im Übrigen
 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
+(2a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1113
+in der Fassung vom 31. Mai 2023 verstößt, indem er vorsätzlich oder
+fahrlässig
+
+1.  entgegen Artikel 14 Absatz 1, 2 oder 3 nicht sicherstellt, dass eine
+    dort genannte Angabe übermittelt wird,
+
+
+2.  entgegen Artikel 17 Absatz 1 Unterabsatz 1, Artikel 20 oder 21 Absatz
+    1 Unterabsatz 1 ein dort genanntes Verfahren nicht oder nicht vor
+    Durchführung eines Kryptowertetransfers einrichtet,
+
+
+3.  entgegen Artikel 17 Absatz 1 Unterabsatz 2 oder Artikel 21 Absatz 1
+    Unterabsatz 2 einen Transfer nicht oder nicht rechtzeitig zurückweist,
+    einen Kryptowert nicht oder nicht rechtzeitig zurücküberweist und eine
+    dort genannte Angabe nicht oder nicht rechtzeitig anfordert,
+
+
+4.  entgegen Artikel 19 nicht dafür sorgt, dass eine dort genannte
+    Übermittlung erfolgt oder dass eine dort genannte Angabe zur Verfügung
+    gestellt wird, oder
+
+
+5.  entgegen Artikel 26 Absatz 1 Satz 2 eine dort genannte Aufzeichnung
+    nicht oder nicht mindestens fünf Jahre nach Durchführung des
+    Kryptowertetransfers aufbewahrt.
+
+
+
+Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+zweihunderttausend Euro geahndet werden.
+
 (3) Die Ordnungswidrigkeit nach Absatz 1 und bei vorsätzlicher oder
-leichtfertiger Begehung nach Absatz 2 kann geahndet werden mit einer
+leichtfertiger Begehung nach Absatz 2 oder 2a kann geahndet werden mit
+einer
 
 1.  Geldbuße bis zu einer Million Euro oder
 
@@ -7169,20 +7288,21 @@ Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 über
 
 
 ### § 57 Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005801311)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005802128)
 
 (1) Die zuständigen Aufsichts- und Verwaltungsbehörden und die Behörde
 nach § 56 Absatz 5 Satz 2 haben bestandskräftige Maßnahmen und
 unanfechtbare Bußgeldentscheidungen, die sie wegen eines Verstoßes
-gegen dieses Gesetz oder die auf seiner Grundlage erlassenen
-Rechtsverordnungen verhängt haben, nach Unterrichtung des Adressaten
-der Maßnahme oder Bußgeldentscheidung auf ihrer Internetseite oder auf
-einer gemeinsamen Internetseite bekannt zu machen. Dies gilt auch für
-gerichtliche Entscheidungen, soweit diese unanfechtbar geworden sind
-und die Verhängung eines Bußgeldes zum Gegenstand haben. In der
-Bekanntmachung sind Art und Charakter des Verstoßes und die für den
-Verstoß verantwortlichen natürlichen Personen und juristischen
-Personen oder Personenvereinigungen zu benennen.
+gegen dieses Gesetz, die auf seiner Grundlage erlassenen
+Rechtsverordnungen oder die Bestimmungen der Verordnung (EU) 2023/1113
+verhängt haben, nach Unterrichtung des Adressaten der Maßnahme oder
+Bußgeldentscheidung auf ihrer Internetseite oder auf einer gemeinsamen
+Internetseite bekannt zu machen. Dies gilt auch für gerichtliche
+Entscheidungen, soweit diese unanfechtbar geworden sind und die
+Verhängung eines Bußgeldes zum Gegenstand haben. In der Bekanntmachung
+sind Art und Charakter des Verstoßes und die für den Verstoß
+verantwortlichen natürlichen Personen und juristischen Personen oder
+Personenvereinigungen zu benennen.
 
 (2) Die Bekanntmachung nach Absatz 1 ist aufzuschieben, solange die
 Bekanntmachung

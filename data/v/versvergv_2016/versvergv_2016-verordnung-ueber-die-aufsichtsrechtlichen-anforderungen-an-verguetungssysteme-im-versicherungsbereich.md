@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 763
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.12.2018 I 2672
+:   Art. 57 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel

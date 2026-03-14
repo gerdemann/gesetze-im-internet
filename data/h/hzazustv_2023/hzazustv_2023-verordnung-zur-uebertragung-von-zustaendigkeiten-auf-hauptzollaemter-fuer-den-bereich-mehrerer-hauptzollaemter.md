@@ -38,7 +38,7 @@ Bundesministerium der Finanzen:
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000301123)
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000302123)
 
 (1) Die in Abschnitt 2 dieser Verordnung aufgeführten
 Zuständigkeitsübertragungen für die Festsetzung und die Erhebung der
@@ -123,6 +123,11 @@ umfassen
 
 
 
+
+(12) Unabhängig von der in § 14 Nummer 4 und 5 geregelten
+Zuständigkeitsübertragung gelten im Bereich der Luftverkehrsteuer im
+Übrigen die in Abschnitt 2 getroffenen Zuständigkeitsübertragungen
+unverändert fort.
 
 
 ## Abschnitt 2 - Zuständigkeitsübertragungen
@@ -441,7 +446,7 @@ des Hauptzollamts Dresden übertragen.
 
 
 ### § 14 Hauptzollamt Frankfurt am Main
-[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001501123)
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001502123)
 
 Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten
 übertragen für
@@ -457,13 +462,23 @@ Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten
     Hauptzollämter bundesweit,
 
 
-2.  die Straf- und Bußgeldsachen des Hauptzollamts Gießen sowie
+2.  die Straf- und Bußgeldsachen des Hauptzollamts Gießen,
 
 
 3.  die Durchführung von Ermittlungsverfahren der Finanzkontrolle
     Schwarzarbeit im Zusammenhang mit Organisierter Kriminalität und
     Schwerer struktureller Kriminalität der Hauptzollämter Darmstadt und
-    Gießen.
+    Gießen,
+
+
+4.  die Festsetzung und Erhebung der Luftverkehrsteuer einschließlich der
+    Anordnung und Auswertung der betreffenden Außenprüfungen sowie der
+    Auswertung der betreffenden Steueraufsichtsmaßnahmen aller
+    Hauptzollämter bundesweit sowie
+
+
+5.  die Erteilung einer Erlaubnis nach § 8 Absatz 2
+    Luftverkehrsteuergesetz aller Hauptzollämter bundesweit.
 
 
 

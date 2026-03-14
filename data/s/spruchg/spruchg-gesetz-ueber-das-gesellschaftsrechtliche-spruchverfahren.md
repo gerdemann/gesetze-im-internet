@@ -16,11 +16,11 @@ Fundstelle
 :   BGBl I: 2003, 838
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.12.2023 I Nr. 354
+:   Art. 1 G v. 4.2.2026 I Nr. 33
 
 
 ## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000105125)
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000106131)
 
 Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die
 Bestimmung
@@ -58,7 +58,13 @@ Bestimmung
 
 
 7.  der Zuzahlung an Mitglieder bei der Gründung einer Europäischen
-    Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
+    Genossenschaft (§ 7 des SCE-Ausführungsgesetzes);
+
+
+8.  der Höhe der Gegenleistung aus einem Vertrag, der auf einem Angebot
+    beim Widerruf der Zulassung von Wertpapieren zum Handel auf Antrag des
+    Emittenten nach § 39 Absatz 2 Satz 2 Nummer 1 des Börsengesetzes
+    beruht.
 
 
 
@@ -120,7 +126,7 @@ an Stelle der Kammer entscheiden.
 
 
 ## § 3 Antragsberechtigung
-[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000304125)
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000305131)
 
 Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
@@ -143,7 +149,12 @@ Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
 
 6.  der Nummer 7 jedes in der dort angeführten Vorschrift des SCE-
-    Ausführungsgesetzes bezeichnete Mitglied.
+    Ausführungsgesetzes bezeichnete Mitglied;
+
+
+7.  der Nummer 8 jeder, der ein Angebot beim Widerruf der Zulassung von
+    Wertpapieren zum Handel auf Antrag des Emittenten nach § 39 Absatz 2
+    Satz 2 Nummer 1 des Börsengesetzes angenommen hat.
 
 
 
@@ -156,7 +167,7 @@ Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 
 
 ## § 4 Antragsfrist und Antragsbegründung
-[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000406125)
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000407131)
 
 (1) Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach §
 1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in
@@ -178,10 +189,13 @@ den Fällen
 5.  der Nummer 5 die Umwandlung;
 
 
-6.  der Nummer 6 die Gründung oder Sitzverlegung der SE oder
+6.  der Nummer 6 die Gründung oder Sitzverlegung der SE;
 
 
-7.  der Nummer 7 die Gründung der Europäischen Genossenschaft
+7.  der Nummer 7 die Gründung der Europäischen Genossenschaft oder
+
+
+8.  der Nummer 8 der Antrag auf Widerruf der Zulassung
 
 
 
@@ -219,7 +233,7 @@ Antragsteller gehaltenen Anteile ergeben.
 
 
 ## § 5 Antragsgegner
-[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000504125)
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000505131)
 
 Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1
 ist in den Fällen
@@ -244,7 +258,10 @@ ist in den Fällen
     Ausführungsgesetzes gegen die die Gründung anstrebende Gesellschaft;
 
 
-7.  der Nummer 7 gegen die Europäische Genossenschaft
+7.  der Nummer 7 gegen die Europäische Genossenschaft;
+
+
+8.  der Nummer 8 gegen den Bieter
 
 
 
@@ -632,7 +649,7 @@ wurde.
 
 
 ## § 14 Bekanntmachung der Entscheidung
-[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001403125)
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001404131)
 
 Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne
 Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
@@ -657,11 +674,14 @@ Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
 
 6.  der Nummer 6 durch die gesetzlichen Vertreter der SE, aber im Fall des
     § 9 des SE-Ausführungsgesetzes durch die gesetzlichen Vertreter der
-    die Gründung anstrebenden Gesellschaft, und
+    die Gründung anstrebenden Gesellschaft;
 
 
 7.  der Nummer 7 durch die gesetzlichen Vertreter der Europäischen
-    Genossenschaft
+    Genossenschaft und
+
+
+8.  der Nummer 8 durch die gesetzlichen Vertreter des Emittenten
 
 
 

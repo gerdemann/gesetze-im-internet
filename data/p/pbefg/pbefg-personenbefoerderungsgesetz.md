@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119
 
+Änderung durch
+:   Art. 2 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000101305)
@@ -289,7 +292,7 @@ sind einzuhalten.
 
 
 ### § 3b Datenverarbeitung
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012100119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012101123)
 
 (1) Der Nationale Zugangspunkt ist befugt, die Daten nach § 3a Absatz
 1 zu erheben, zu speichern, zu verwenden und auf Anfrage nach Maßgabe
@@ -332,10 +335,10 @@ die folgenden Empfänger zu übermitteln:
 
 
 4.  Daten im Sinne von § 3a Absatz 1 Nummer 1 und 2 Buchstabe a an das
-    Bundesministerium für Verkehr und digitale Infrastruktur zur Erfüllung
-    seiner Aufgaben, insbesondere seiner Berichtspflichten nach § 66,
-    sowie zur Fortentwicklung von Maßnahmen im Zusammenhang mit der
-    Entwicklung intelligenter Verkehrssysteme nach § 4 des Intelligente
+    Bundesministerium für Verkehr zur Erfüllung seiner Aufgaben,
+    insbesondere seiner Berichtspflichten nach § 66, sowie zur
+    Fortentwicklung von Maßnahmen im Zusammenhang mit der Entwicklung
+    intelligenter Verkehrssysteme nach § 4 des Intelligente
     Verkehrssysteme Gesetzes sowie zur Erfüllung der Berichtspflicht aus
     Artikel 10 Absatz 2 der Delegierten Verordnung (EU) 2017/1926;
 
@@ -388,10 +391,9 @@ nach § 3a Absatz 1 zu erheben, zu speichern und zu verwenden, soweit
 dies zur Erbringung ihrer Dienste gegenüber Endnutzern erforderlich
 ist.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur ist
-befugt, Daten nach § 3a Absatz 1 Nummer 1 und 2 Buchstabe a zu
-erheben, zu speichern und zu verwenden, soweit dies jeweils
-erforderlich ist
+(5) Das Bundesministerium für Verkehr ist befugt, Daten nach § 3a
+Absatz 1 Nummer 1 und 2 Buchstabe a zu erheben, zu speichern und zu
+verwenden, soweit dies jeweils erforderlich ist
 
 1.  zur Erfüllung der Berichtspflichten nach § 66,
 
@@ -415,7 +417,7 @@ Verkehrsstatistikgesetzes erforderlich ist.
 
 
 ### § 3c Datenlöschung
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012200119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012201123)
 
 (1) Der Nationale Zugangspunkt und Behörden nach § 8 Absatz 3 sowie §§
 11 und 29 haben personenbezogene Daten unverzüglich zu löschen, wenn
@@ -475,9 +477,9 @@ jedoch wenn
 
 
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur hat
-personenbezogene Daten zu löschen, wenn diese nicht mehr für die in §
-3b Absatz 5 genannten Zwecke erforderlich sind, spätestens jedoch
+(3) Das Bundesministerium für Verkehr hat personenbezogene Daten zu
+löschen, wenn diese nicht mehr für die in § 3b Absatz 5 genannten
+Zwecke erforderlich sind, spätestens jedoch
 
 1.  ein Jahr nach Erfüllung der jeweiligen Berichtspflicht oder
 
@@ -857,7 +859,7 @@ zuständige, von der Landesregierung bestimmte Behörde.
 
 
 ### § 11 Genehmigungsbehörden
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002607119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002608123)
 
 (1) Die Genehmigung erteilt die von der Landesregierung bestimmte
 Behörde.
@@ -897,12 +899,11 @@ Satz 1, 2 und 4 entsprechend anzuwenden. Bestehen zwischen den
 beteiligten Ländern Zweifel über die Zuständigkeit und kommt eine
 Einigung der obersten Landesverkehrsbehörden darüber nicht zustande,
 so entscheidet auf Antrag einer beteiligten obersten
-Landesverkehrsbehörde das Bundesministerium für Verkehr und digitale
-Infrastruktur. Das gleiche gilt, wenn über die Entscheidung eines
-Genehmigungsantrags zwischen den Genehmigungsbehörden der beteiligten
-Länder ein Einvernehmen nicht hergestellt und auch ein Einvernehmen
-zwischen den obersten Landesverkehrsbehörden darüber nicht erzielt
-werden kann.
+Landesverkehrsbehörde das Bundesministerium für Verkehr. Das gleiche
+gilt, wenn über die Entscheidung eines Genehmigungsantrags zwischen
+den Genehmigungsbehörden der beteiligten Länder ein Einvernehmen nicht
+hergestellt und auch ein Einvernehmen zwischen den obersten
+Landesverkehrsbehörden darüber nicht erzielt werden kann.
 
 
 ### § 12 Antragstellung
@@ -1355,9 +1356,11 @@ ist nicht anzuwenden.
 
 
 ### § 15 Erteilung und Versagung der Genehmigung
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003005305)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003006123)
 
-(1) Die Entscheidung über den Antrag erfolgt schriftlich; sie ist den
+(1) Die Entscheidung über den Antrag erfolgt schriftlich oder in
+elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach §
+37 Absatz 4 des Verwaltungsverfahrensgesetzes; sie ist den
 Antragstellern und, soweit diese Einwendungen erhoben haben, auch den
 in § 14 Abs. 1 Nr. 1 und 2 genannten Personen und Stellen zuzustellen.
 Über den Antrag ist innerhalb von 3 Monaten nach Eingang bei der
@@ -1394,32 +1397,33 @@ von der Erteilung der Genehmigung zu unterrichten.
 
 
 ### § 16 Geltungsdauer der Genehmigung
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003106305)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003107123)
 
 (1) Die Geltungsdauer der Genehmigung für Straßenbahn-und Obusverkehr
 beträgt höchstens 15 Jahre. Sie kann unter den Voraussetzungen des
-Artikels 4 Absatz 3 Satz 2 und Absatz 4 der Verordnung (EG) Nr.
-1370/2007 für einen längeren Zeitraum festgelegt werden. Bei
-Wiedererteilung der Genehmigung ist die Geltungsdauer so zu bemessen,
-dass die Genehmigung mit Vereinbarungen und Entscheidungen über die
-Benutzung öffentlicher Straßen nach § 31 Absatz 2 und 5 in Einklang
-steht. Ist die beantragte Verkehrsleistung Gegenstand eines
-öffentlichen Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1
-der Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der
-Genehmigung die Laufzeit des öffentlichen Dienstleistungsauftrages
-nicht überschreiten.
+Artikels 4 Absatz 4 der Verordnung (EG) Nr. 1370/2007 für einen
+längeren Zeitraum festgelegt werden. Bei Wiedererteilung der
+Genehmigung ist die Geltungsdauer so zu bemessen, dass die Genehmigung
+mit Vereinbarungen und Entscheidungen über die Benutzung öffentlicher
+Straßen nach § 31 Absatz 2 und 5 in Einklang steht. Ist die beantragte
+Verkehrsleistung Gegenstand eines öffentlichen
+Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1 der
+Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der Genehmigung
+die Laufzeit des öffentlichen Dienstleistungsauftrages nicht
+überschreiten.
 
 (2) Die Geltungsdauer der Genehmigung für Linienverkehr mit
 Kraftfahrzeugen ist unter Berücksichtigung der öffentlichen
 Verkehrsinteressen zu bemessen. Sie beträgt höchstens zehn Jahre. Die
 Genehmigung kann unter den Voraussetzungen des Artikels 4 Absatz 3
-Satz 2 der Verordnung (EG) Nr. 1370/2007 für einen längeren Zeitraum
-festgelegt werden. Ist die beantragte Verkehrsleistung Gegenstand
-eines öffentlichen Dienstleistungsauftrages im Sinne von Artikel 3
-Absatz 1 der Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der
-Genehmigung die Laufzeit des öffentlichen Dienstleistungsauftrages
-nicht überschreiten. Im öffentlichen Personennahverkehr ist § 8 Absatz
-3 zu beachten.
+Satz 2 oder Absatz 4 der Verordnung (EG) Nr. 1370/2007 für einen
+längeren Zeitraum festgelegt werden. Ist die beantragte
+Verkehrsleistung Gegenstand eines öffentlichen
+Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1 der
+Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der Genehmigung
+die Laufzeit des öffentlichen Dienstleistungsauftrages nicht
+überschreiten. Im öffentlichen Personennahverkehr ist § 8 Absatz 3 zu
+beachten.
 
 (3) Weicht im öffentlichen Personennahverkehr ein Genehmigungsantrag
 für einen eigenwirtschaftlichen Verkehr wesentlich vom bisherigen
@@ -1573,7 +1577,7 @@ werden.
 
 
 ### § 20 Einstweilige Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003504119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003505123)
 
 (1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche
 Änderung eines Straßenbahn-, Obusverkehrs oder Linienverkehrs mit
@@ -1584,10 +1588,9 @@ erteilen; die Voraussetzungen des § 13 Abs. 1 oder Absatz 1a müssen
 vorliegen. Die Erteilung ist auch den in § 14 Abs. 1 Nr. 1 genannten
 Unternehmern bekanntzugeben.
 
-(2) Die einstweilige Erlaubnis wird schriftlich erteilt. Sie muß
-enthalten
+(2) Die einstweilige Erlaubnis muss enthalten
 
-1.  den Hinweis auf diese Vorschrift mit einem Zusatz, daß die
+1.  den Hinweis auf diese Vorschrift mit einem Zusatz, dass die
     einstweilige Erlaubnis einen Anspruch auf Erteilung einer Genehmigung
     nicht begründet,
 
@@ -1767,7 +1770,7 @@ Satz 2 gilt entsprechend.
 
 
 ### § 25a Untersagung von Personenkraftverkehrsgeschäften
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010800308)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010801123)
 
 Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit
 Kraftomnibussen der Unternehmer oder der Verkehrsleiter die
@@ -1779,11 +1782,21 @@ Verfahren auf Widerruf der Genehmigung durchgeführt werden. Auf Antrag
 ist dem Unternehmer oder dem Verkehrsleiter die Führung von
 Personenkraftverkehrsgeschäften von der Behörde, die die Führung von
 Personenkraftverkehrsgeschäften untersagt hat, wieder zu gestatten,
-wenn Tatsachen die Annahme rechtfertigen, dass eine Unzuverlässigkeit
-im Sinne des Satzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres
-nach Bestandskraft der Untersagungsverfügung kann die Wiederaufnahme
-der Führung von Personenkraftverkehrsgeschäften nur gestattet werden,
-wenn hierfür besondere Gründe vorliegen.
+wenn
+
+1.  Tatsachen die Annahme rechtfertigen, dass eine Unzuverlässigkeit im
+    Sinne des Satzes 1 nicht mehr vorliegt, und
+
+
+2.  der Betroffene eine Prüfung nach Artikel 14 Absatz 1 Unterabsatz 2 der
+    Verordnung (EG) Nr. 1071/2009 in der Fassung vom 15. Juli 2020
+    bestanden hat.
+
+
+
+Die Wiederaufnahme der Führung von Personenkraftverkehrsgeschäften
+kann nicht vor Ablauf eines Jahres nach Bestandskraft der
+Untersagungsverfügung gestattet werden.
 
 
 ### § 26 Erlöschen der Genehmigung
@@ -2030,7 +2043,7 @@ der Zugänglichmachung hinzuweisen.
 
 
 #### § 29 Planfeststellungsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004510119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004511123)
 
 (1) Planfeststellungsbehörde ist die Genehmigungsbehörde nach § 11.
 Diese stellt den Plan nach § 28 Absatz 1 fest, erteilt die
@@ -2065,7 +2078,7 @@ Behörden, die im Auftrag des Bundes tätig werden, beeinträchtigt
 werden und kommt eine Einigung zwischen der Planfeststellungsbehörde
 und den genannten Behörden nicht zustande, entscheidet die
 Planfeststellungsbehörde im Benehmen mit dem Bundesministerium für
-Verkehr und digitale Infrastruktur.
+Verkehr.
 
 (3) Kommt eine Einigung über Einwendungen nichtbundeseigener
 Eisenbahnen oder von Bergbahnunternehmen nicht zustande, hat die
@@ -3079,7 +3092,7 @@ Höchstbeförderungsentgelte nicht überschritten werden dürfen.
 
 
 ### § 52 Grenzüberschreitender Verkehr
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006911305)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006912123)
 
 (1) Für die Beförderung von Personen im grenzüberschreitenden Verkehr
 mit Kraftfahrzeugen durch Unternehmer, die ihren Betriebssitz im
@@ -3100,10 +3113,10 @@ haben, sind nicht anzuwenden
 (2) Die nach diesem Gesetz erforderliche Genehmigung eines
 grenzüberschreitenden Linienverkehrs erteilt für die deutsche
 Teilstrecke die von der Landesregierung bestimmte Behörde im Benehmen
-mit dem Bundesministerium für Verkehr und digitale Infrastruktur. § 11
-Abs. 2 bis 4 ist entsprechend anzuwenden. Während der Herstellung des
-Benehmens ruht die Frist für die Entscheidung über den Antrag nach §
-15 Absatz 1 Satz 2 bis 5.
+mit dem Bundesministerium für Verkehr. § 11 Abs. 2 bis 4 ist
+entsprechend anzuwenden. Während der Herstellung des Benehmens ruht
+die Frist für die Entscheidung über den Antrag nach § 15 Absatz 1 Satz
+2 bis 5.
 
 (3) Einer Genehmigung für den grenzüberschreitenden
 Gelegenheitsverkehr von Unternehmern, die ihren Betriebssitz im
@@ -3111,30 +3124,30 @@ Ausland haben, bedarf es nicht, soweit entsprechende Übereinkommen mit
 dem Ausland bestehen. Besteht ein solches Übereinkommen nicht oder
 soll abweichend von den Bedingungen des Übereinkommens
 grenzüberschreitender Gelegenheitsverkehr ausgeführt werden, so kann
-das Bundesministerium für Verkehr und digitale Infrastruktur oder eine
-von ihm beauftragte Behörde entsprechenden Anträgen stattgeben. Die
-Genehmigung für grenzüberschreitende Ferienziel-Reisen erteilt für die
-deutsche Teilstrecke die von der Landesregierung bestimmte Behörde, in
-deren Gebiet die Ferienziel-Reise endet. Abweichend von § 9 Abs. 1 Nr.
-4 wird die Genehmigung für den grenzüberschreitenden
-Gelegenheitsverkehr mit Kraftomnibussen auch für die Form des
-Gelegenheitsverkehrs erteilt.
+das Bundesministerium für Verkehr oder eine von ihm beauftragte
+Behörde entsprechenden Anträgen stattgeben. Die Genehmigung für
+grenzüberschreitende Ferienziel-Reisen erteilt für die deutsche
+Teilstrecke die von der Landesregierung bestimmte Behörde, in deren
+Gebiet die Ferienziel-Reise endet. Abweichend von § 9 Abs. 1 Nr. 4
+wird die Genehmigung für den grenzüberschreitenden Gelegenheitsverkehr
+mit Kraftomnibussen auch für die Form des Gelegenheitsverkehrs
+erteilt.
 
 (4) Die Grenzpolizei und die Zollstellen an den Grenzen sind
 berechtigt, Kraftfahrzeuge zurückzuweisen, wenn nicht die
 erforderliche Genehmigung vorgelegt wird, deren Mitführung
-vorgeschrieben ist. Das Bundesministerium für Verkehr und digitale
-Infrastruktur kann Unternehmen mit Betriebssitz außerhalb des
-Geltungsbereichs dieses Gesetzes bei wiederholten oder schweren
-Verstößen gegen Vorschriften dieses Gesetzes und der auf diesem Gesetz
-beruhenden Verordnungen sowie gegen Vorschriften der Verordnungen der
-Europäischen Gemeinschaften und internationalen Übereinkommen über den
-grenzüberschreitenden Verkehr dauernd oder vorübergehend vom Verkehr
-in oder durch die Bundesrepublik Deutschland ausschließen.
+vorgeschrieben ist. Das Bundesministerium für Verkehr kann Unternehmen
+mit Betriebssitz außerhalb des Geltungsbereichs dieses Gesetzes bei
+wiederholten oder schweren Verstößen gegen Vorschriften dieses
+Gesetzes und der auf diesem Gesetz beruhenden Verordnungen sowie gegen
+Vorschriften der Verordnungen der Europäischen Gemeinschaften und
+internationalen Übereinkommen über den grenzüberschreitenden Verkehr
+dauernd oder vorübergehend vom Verkehr in oder durch die
+Bundesrepublik Deutschland ausschließen.
 
 
 ### § 53 Transit-(Durchgangs-)Verkehr
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007009119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007010123)
 
 (1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr
 mit Kraftfahrzeugen, der das Gebiet des Geltungsbereichs dieses
@@ -3158,8 +3171,8 @@ anzuwenden sind
 (2) Die Genehmigung eines Transitlinienverkehrs erteilt die von der
 Landesregierung bestimmte Behörde, in deren Gebiet der erste
 Grenzübergang bei der Einfahrt stattfindet, im Benehmen mit dem
-Bundesministerium für Verkehr und digitale Infrastruktur. § 11 Abs. 3
-und 4 ist entsprechend anzuwenden.
+Bundesministerium für Verkehr. § 11 Abs. 3 und 4 ist entsprechend
+anzuwenden.
 
 (3) § 52 Abs. 3 ist auf den Gelegenheitsverkehr vom Ausland durch das
 Gebiet des Geltungsbereichs dieses Gesetzes entsprechend anzuwenden,
@@ -3243,14 +3256,14 @@ nach § 45a Abs. 2 zur Festlegung der Kostensätze befugte Behörde.
 
 
 ### § 54b Risikoeinstufung
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010900308)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010901123)
 
 Die Aufsichtsbehörden führen ein Risikoeinstufungssystem im Sinne des
 Artikels 12 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1071/2009 ein.
 Dabei sind die Häufigkeit und die Intensität der Kontrollen abhängig
 von der Anzahl und dem Ausmaß der Rechtsverstöße, wie dies in den
-Durchführungsbestimmungen zu Artikel 6 Absatz 2 Buchstabe b der
-Verordnung (EG) Nr. 1071/2009 konkretisiert wird.
+Durchführungsbestimmungen zu Artikel 6 Absatz 2a der Verordnung (EG)
+Nr. 1071/2009 konkretisiert wird.
 
 
 ### § 54c Verkehrsunternehmensdatei
@@ -3268,12 +3281,12 @@ Personenverkehrs mit Kraftomnibussen geführt.
 
 
 ### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007307126)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007308123)
 
 Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt
 angefochten wird, den eine oberste Landesverkehrsbehörde oder das
-Bundesministerium für Verkehr und digitale Infrastruktur erlassen hat.
-§ 28 Absatz 3a Satz 9 und § 29 Absatz 6 Satz 1 bleiben unberührt.
+Bundesministerium für Verkehr erlassen hat. § 28 Absatz 3a Satz 9 und
+§ 29 Absatz 6 Satz 1 bleiben unberührt.
 
 
 ### § 56 Gebühren
@@ -3297,13 +3310,13 @@ August 2013 geltenden Fassung Anwendung.
 
 
 ### § 57 Rechtsverordnungen
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007515119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007516123)
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
-erläßt mit Zustimmung des Bundesrates durch Rechtsverordnung die zur
-Durchführung dieses Gesetzes, internationaler Abkommen sowie der
-Verordnungen des Rates oder der Kommission der Europäischen
-Gemeinschaften erforderlichen Vorschriften
+(1) Das Bundesministerium für Verkehr erläßt mit Zustimmung des
+Bundesrates durch Rechtsverordnung die zur Durchführung dieses
+Gesetzes, internationaler Abkommen sowie der Verordnungen des Rates
+oder der Kommission der Europäischen Gemeinschaften erforderlichen
+Vorschriften
 
 1.  über Straßenbahnen und Obusse; diese regeln
 
@@ -3428,10 +3441,9 @@ Immissionsschutzgesetzes enthalten; dabei können Immissionsgrenzwerte
 unter Berücksichtigung der technischen Entwicklung auch für einen
 Zeitpunkt nach Inkrafttreten der Rechtsverordnung festgesetzt werden.
 Vorschriften nach Satz 1 werden vom Bundesministerium für Verkehr und
-digitale Infrastruktur und vom Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit erlassen. Die Ermächtigung nach
-Satz 1 gilt nicht, soweit § 43 des Bundes-Immissionsschutzgesetzes
-Anwendung findet.
+vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit erlassen. Die Ermächtigung nach Satz 1 gilt nicht,
+soweit § 43 des Bundes-Immissionsschutzgesetzes Anwendung findet.
 
 (3) Rechtsverordnungen nach Absatz 1 Nr. 1 können auch festlegen, wie
 der Nachweis für die Erfüllung dieser Vorschriften zu erbringen ist,
@@ -3447,14 +3459,13 @@ Nr. 8 erlassene Rechtsverordnung Befreiung erteilt wird.
 (5) (weggefallen)
 
 (6) Im Bereich der Gebühren der Landesbehörden übt das
-Bundesministerium für Verkehr und digitale Infrastruktur die
-Ermächtigung nach Absatz 1 Nummer 10 auf der Grundlage eines Antrags
-oder einer Stellungnahme von mindestens fünf Ländern beim
-Bundesministerium für Verkehr und digitale Infrastruktur aus. Der
+Bundesministerium für Verkehr die Ermächtigung nach Absatz 1 Nummer 10
+auf der Grundlage eines Antrags oder einer Stellungnahme von
+mindestens fünf Ländern beim Bundesministerium für Verkehr aus. Der
 Antrag oder die Stellungnahme sind mit einer Schätzung des Personal-
-und Sachaufwands zu begründen. Das Bundesministerium für Verkehr und
-digitale Infrastruktur kann die übrigen Länder ebenfalls zur
-Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
+und Sachaufwands zu begründen. Das Bundesministerium für Verkehr kann
+die übrigen Länder ebenfalls zur Beibringung einer Schätzung des
+Personal- und Sachaufwands auffordern.
 
 
 ### § 58 Allgemeine Verwaltungsvorschriften
@@ -3766,13 +3777,12 @@ gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
 
 
 ### § 66 Berichtspflichten
-[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008806119)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008807123)
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt
-mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur
-Modernisierung des Personenbeförderungsrechts vom 16. April 2021
-(BGBl. I S. 822) dem Deutschen Bundestag einen Bericht in
-nichtpersonenbezogener Form vor:
+(1) Das Bundesministerium für Verkehr legt mit Ablauf von fünf Jahren
+nach Inkrafttreten des Gesetzes zur Modernisierung des
+Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem
+Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form vor:
 
 1.  zur Umsetzung der nach § 57 Absatz 1 Nummer 12 erlassenen Verordnung,
     insbesondere
@@ -3802,14 +3812,13 @@ nichtpersonenbezogener Form vor:
 
 
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-insbesondere Vorschläge zur Verbesserung der Nutzung der Daten
-unterbreiten. Den Ländern, Kommunen, den Verbraucherschutzverbänden,
-Verbänden für Menschen mit Behinderungen, dem oder der Beauftragten
-der Bundesregierung für Menschen mit Behinderungen, dem oder der
-Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-sowie den betroffenen Wirtschaftskreisen wird Gelegenheit zur
-Stellungnahme gegeben.
+Das Bundesministerium für Verkehr kann insbesondere Vorschläge zur
+Verbesserung der Nutzung der Daten unterbreiten. Den Ländern,
+Kommunen, den Verbraucherschutzverbänden, Verbänden für Menschen mit
+Behinderungen, dem oder der Beauftragten der Bundesregierung für
+Menschen mit Behinderungen, dem oder der Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit sowie den betroffenen
+Wirtschaftskreisen wird Gelegenheit zur Stellungnahme gegeben.
 
 (2) Die Bundesregierung legt mit Ablauf von fünf Jahren nach
 Inkrafttreten des Gesetzes zur Modernisierung des

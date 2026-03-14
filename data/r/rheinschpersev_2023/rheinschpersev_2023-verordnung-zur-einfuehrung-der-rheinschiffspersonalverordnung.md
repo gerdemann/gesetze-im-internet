@@ -15,20 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2023, Nr. 105
 
-Änderung durch
-:   Art. 1 Nr. 2 iVm Anlage 6 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 3 V v. 5.8.2025 II Nr. 216 ist berücksichtigt
-
-Änderung durch
-:   Art. 4 V v. 17.12.2025 I Nr. 381 mWv 31.12.2025 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 4 V v. 17.12.2025 I Nr. 381
 
 
 ## § 1 Inkraftsetzung
@@ -89,10 +77,10 @@ Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S.
 genannten Verordnung ergangenen Rechtsverordnungen entsprechend.
 
 
-## § 3 Ausnahmen von der Patentpflicht
-[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000300000)
+## § 3 Ausnahmen von der Patentpflicht; Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000301119)
 
-Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der
+(1) Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der
 Rheinschiffspersonalverordnung ist ein Befähigungszeugnis für
 Schiffsführer nach der Rheinschiffspersonalverordnung nicht
 erforderlich. Das erforderliche Befähigungszeugnis bestimmt sich nach
@@ -100,6 +88,16 @@ der Binnenschiffspersonalverordnung oder der
 Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016,
 4043), die zuletzt durch Artikel 7 der Verordnung vom 5. April 2023
 (BGBl. 2023 II Nr. 105) geändert worden ist.
+
+(2) Von der Pflicht aus § 18.01 Nummer 3 Satz 1 Buchstabe a der
+Rheinschiffspersonalverordnung befreit sind Fahrzeuge der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
+Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des
+Bundeskriminalamtes, der Streitkräfte, der Zollverwaltung, der
+Feuerwehr, des Zivil- und Katastrophenschutzes, der
+Wasserwirtschaftsverwaltungen und der Fischereiaufsicht der Länder,
+soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung
+der öffentlichen Sicherheit und Ordnung erforderlich ist.
 
 
 ## § 4 Zuständige Behörden
@@ -279,8 +277,8 @@ Rheinschiffspersonalverordnung ist
 
 
 
-## § 7 Ausbildungsprogramme, Lehrgänge, Prüfungen
-[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000700000)
+## § 7 Ausbildungsprogramme, Lehrgänge, Prüfungen, Sicherheitsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000701119)
 
 (1) Ausbildungsprogramme im Sinne des
 § 10.01 Nummer 2 Buchstabe b der Rheinschiffspersonalverordnung sind
@@ -325,6 +323,19 @@ Nummer 5 in Verbindung mit der Anlage 5 der
 Rheinschiffspersonalverordnung besteht aus Antwort-Wahl-Aufgaben,
 sofern sich aus der Prüfungsordnung nach § 76 der
 Binnenschiffspersonalverordnung nichts anderes ergibt.
+
+(9) Grundlegende Sicherheitsausbildung im Sinne des § 10.01 Nummer 1
+Buchstabe b der Rheinschiffspersonalverordnung ist eine grundlegende
+Sicherheitsausbildung, die zugelassen wurde
+
+1.  nach § 53 der Binnenschiffspersonalverordnung oder
+
+
+2.  von der zuständigen Behörde eines anderen Mitgliedstaates der
+    Zentralkommission für die Rheinschifffahrt.
+
+
+
 
 
 ## § 8 Pflichten der Eigentümer, Ausrüster, Schiffsführer und Besatzungsmitglieder

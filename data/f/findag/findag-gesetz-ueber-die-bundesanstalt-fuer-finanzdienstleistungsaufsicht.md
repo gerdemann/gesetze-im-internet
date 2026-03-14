@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 8 G v. 30.9.2025 I Nr. 233
+:   Art. 40 G v. 4.2.2026 I Nr. 33
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
@@ -605,23 +605,8 @@ ernannte Stellvertreter die Aufgaben. Die Absätze 1 bis 8 finden auf
 die stellvertretenden Mitglieder entsprechende Anwendung.
 
 
-### § 8 Fachbeirat
-[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000801128)
-
-(1) Bei der Bundesanstalt wird ein Fachbeirat gebildet. Er berät die
-Bundesanstalt bei der Erfüllung ihrer Aufgaben. Er kann auch
-Empfehlungen zur allgemeinen Weiterentwicklung der Aufsichtspraxis
-einbringen.
-
-(2) Der Fachbeirat besteht aus 24 Mitgliedern. Die Mitglieder des
-Fachbeirats werden durch die Bundesanstalt im Einvernehmen mit dem
-Bundesministerium bestellt. Im Fachbeirat sollen die
-Finanzwissenschaft, die Kredit- und Versicherungswirtschaft, die
-Deutsche Bundesbank und die Verbraucherschutzvereinigungen angemessen
-vertreten sein.
-
-(3) Der Fachbeirat wählt aus seinem Kreis einen Vorsitzenden. Der
-Fachbeirat gibt sich eine Geschäftsordnung.
+### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000802128)
 
 
 ### § 8a Verbraucherbeirat
@@ -3443,7 +3428,7 @@ geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
 
 
 ### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
-[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006500123)
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006501128)
 
 (1) § 17a und § 17d sowie die Vorschriften der Bilanzkontrollkosten-
 Umlageverordnung sind letztmals auf die Umlageerhebung und
@@ -3456,15 +3441,31 @@ Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember
 2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung
 erforderlich sind und nach dem 31. Dezember 2021 anfallen, sind Kosten
 des Aufgabenbereiches Bilanzkontrolle im Sinne des § 16b in der ab dem
-1\. Juli 2021 geltenden Fassung. Eine vorhandene Investitionsrücklage
-im Sinne des § 17a in Verbindung mit § 12 Absatz 4 Satz 2 bei der nach
-§ 342b Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31.
-Dezember 2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung
-ist zum 31. Dezember 2021 aufzulösen.
+1\. Juli 2021 geltenden Fassung. Für die Umlageabrechnung zieht die
+Bundesanstalt die durch sie an die nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannte Einrichtung nach Absatz 3
+Satz 3 geleistete Vorschusszahlung, welche mit der zu leistenden
+Ausgleichszahlung nach Absatz 5 oder 6 aus dem Vorjahr verrechnet
+wird, als angefallene Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung im Sinne des
+§ 16b heran. Abweichend von Satz 2 erfolgt für das Umlagejahr 2025 zur
+Ermittlung der Kosten im Sinne des § 16b eine Verrechnung der durch
+die Bundesanstalt an die nach § 342b Absatz 1 des Handelsgesetzbuchs
+in der bis einschließlich 31. Dezember 2021 geltenden Fassung als
+Prüfstelle anerkannte Einrichtung nach Absatz 3 Satz 3 geleisteten
+Vorschusszahlung nur mit solchen Ausgleichszahlungen aus den
+Vorjahren, welche bei den vorangegangenen Umlageabrechnungen noch
+keine Berücksichtigung gefunden haben. Eine vorhandene
+Investitionsrücklage im Sinne des § 17a in Verbindung mit § 12 Absatz
+4 Satz 2 bei der nach § 342b Absatz 1 des Handelsgesetzbuchs in der
+bis einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
+anerkannten Einrichtung ist zum 31. Dezember 2021 aufzulösen.
 
 (3) Die nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis
 einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
-anerkannte Einrichtung hat über die zur Finanzierung der Kosten nach
+anerkannte Einrichtung hat über die zur Finanzierung ihrer Kosten nach
 Absatz 2 Satz 1 erforderlichen Mittel einen Wirtschaftsplan für das
 Folgejahr im Einvernehmen mit der Bundesanstalt aufzustellen. Der
 Wirtschaftsplan ist dem Bundesministerium der Finanzen zur Genehmigung
@@ -3475,24 +3476,29 @@ Umlagevorauszahlung vor. § 342d Satz 1 bis 3 des Handelsgesetzbuchs in
 der bis einschließlich 31. Dezember 2021 geltenden Fassung ist für das
 Haushaltsjahr 2022 nicht anzuwenden.
 
-(4) Nach Ende des Haushaltsjahres hat die nach § 342b Absatz 1 des
+(4) Nach Ende des Haushaltsjahres hat die nach § 342b Absatz 1 des
 Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
-geltenden Fassung als Prüfstelle anerkannte Einrichtung ihren
-Jahresabschluss sowie eine von einem Wirtschaftsprüfer zu prüfende
-Einnahmen- und Ausgabenrechnung aufzustellen. Diese enthält die Kosten
-nach Absatz 2 Satz 1. Die Entlastung erteilt das zuständige Organ der
-nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis einschließlich
-31\. Dezember 2021 geltenden Fassung als Prüfstelle anerkannten
-Einrichtung mit Zustimmung des Bundesministeriums der Finanzen.
+geltenden Fassung als Prüfstelle anerkannte Einrichtung eine von einem
+Wirtschaftsprüfer zu prüfende Einnahmen- und Ausgabenrechnung
+aufzustellen und der BaFin bis zum 30. April des auf das Umlagejahr
+folgenden Jahres vorzulegen. Diese enthält die Kosten der nach § 342b
+Absatz 1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember
+2021 geltenden Fassung als Prüfstelle anerkannten Einrichtung nach
+Absatz 2 Satz 1.
 
 (5) Ergibt sich, dass die gemäß Absatz 3 Satz 3 geleistete
-Vorschusszahlung nicht die Kosten gemäß Absatz 2 Satz 1 deckt, so hat
-die Bundesanstalt den insoweit entstandenen Fehlbetrag aus der von ihr
-eingezogenen Umlage gegenüber der Einrichtung, die nach § 342b Absatz
-1 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
-geltenden Fassung als Prüfstelle anerkannt war, auszugleichen. Die
-Kosten nach Absatz 2 Satz 1 ergeben sich aus der gemäß Absatz 4 Satz 1
-und 2 zu erstellenden Einnahmen- und Ausgabenrechnung.
+Vorschusszahlung nicht die Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung gemäß Absatz
+2 Satz 1 deckt, so hat die Bundesanstalt den insoweit entstandenen
+Fehlbetrag aus der von ihr eingezogenen Umlage gegenüber der
+Einrichtung, die nach § 342b Absatz 1 des Handelsgesetzbuchs in der
+bis einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle
+anerkannt war, auszugleichen. Die Kosten der nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2021
+geltenden Fassung als Prüfstelle anerkannten Einrichtung nach Absatz 2
+Satz 1 ergeben sich aus der gemäß Absatz 4 Satz 1 und 2 zu
+erstellenden Einnahmen- und Ausgabenrechnung.
 
 (6) Die nach § 342b Absatz 1 des Handelsgesetzbuchs in der bis
 einschließlich 31. Dezember 2021 geltenden Fassung als Prüfstelle

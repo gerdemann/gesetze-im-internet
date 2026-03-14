@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.5.2024 I Nr. 152
-
-Änderung durch
-:   Art. 5 G v. 30.1.2026 I Nr. 31 mWv 1.11.2025 bzw. 7.2.2025 bzw 1.5.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 8 G v. 30.1.2026 I Nr. 31 mWv 7.2.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt
+:   Art. 8 G v. 30.1.2026 I Nr. 31
 
 
 ## Eingangsformel
@@ -506,12 +497,12 @@ Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 
 ### § 9 Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001304311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001305311)
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
 an die jeweils ersuchende Stelle übermitteln und weitergeben darf,
-ergibt sich aus den Spalten A und D der Abschnitte I und II der Anlage
-zu dieser Verordnung.
+ergibt sich aus den Spalten A und D der Abschnitte I bis III der
+Anlage zu dieser Verordnung.
 
 (2) Die Registerbehörde hat vor der Übermittlung festzustellen, ob die
 ersuchende Stelle generell berechtigt ist, Daten aus dem Register zu
@@ -764,7 +755,7 @@ Gesetzes nur der Hinweis auf die Einschränkung der Verarbeitung
 
 
 ### § 18 Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002410311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002412311)
 
 (1) Im allgemeinen Datenbestand des Registers ist der Datensatz eines
 Ausländers, der das Inland verlassen hat, spätestens zehn Jahre nach
@@ -824,7 +815,7 @@ hat, wenn einer der folgenden Sachverhalte gespeichert ist:
 
 
     e)  Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2c des
-        AZR-Gesetzes, sofern nicht Nummer 5 einschlägig ist,
+        AZR-Gesetzes, sofern nicht Nummer 6 einschlägig ist,
 
 
 
@@ -1006,7 +997,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003667311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003681311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1773,8 +1764,8 @@ Abschnitt I
 
 *    *   § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2
         Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu
-        Buchstabe c bis f und h bis i, § 3 Absatz 3e in Verbindung mit § 2
-        Absatz 2 Nummer 2
+        Buchstabe d, e, g und h, § 3 Absatz 3c in Verbindung mit § 2 Absatz 2
+        Nummer 2 zu Buchstabe i
 
     *   (1)
 
@@ -1816,7 +1807,7 @@ Abschnitt I
         –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis i
 
 
-        –   Jugendämter zu Spalte A Buchstabe j
+        –   Jugendämter zu Spalte A Buchstabe i
 
 
 
@@ -2798,10 +2789,9 @@ Abschnitt I
 
 
 *    *
-        a)  gegenwärtige
-            Anschrift
+        a)  gegenwärtige Anschrift
 
-            eingezogen am
+            eingezogen/aufgenommen am
 
 
 
@@ -2813,9 +2803,7 @@ Abschnitt I
 *    *
         b)  frühere Anschriften
 
-            ausgezogen am
-
-            aufgenommen am
+            ausgezogen/entlassen am
 
 
 
@@ -5272,7 +5260,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003667311]
+    *[^F829919_01_BJNR069500995BJNE003681311]
    (1)
 
     *
@@ -7003,7 +6991,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   ii)
 
-    *   § 16d Absatz 4 Nummer 1 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 1 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei reglementierten Berufen im Pflege- und
         Gesundheitsbereich)
@@ -7029,7 +7017,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   jj)
 
-    *   § 16d Absatz 4 Nummer 2 AufenthG
+    *   § 16d Absatz 4 Satz 1 Nummer 2 AufenthG
         (Anerkennung der Berufsqualifikation aufgrund einer Absprache der
         Bundesagentur für Arbeit bei sonstigen Berufen)
 
@@ -7785,7 +7773,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   eee)
 
     *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV,
-        internationaler Personalaustausch
+        Auslandsprojekte
 
     *
     *   (2)\*
@@ -8582,7 +8570,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   ddd)
 
-    *   § 19d Absatz 4 AufenthG
+    *   § 19d Absatz 4 in Verbindung mit Absatz 1 AufenthG
         (Aufenthaltserlaubnis nach Aufenthaltserlaubnis nach Kapitel 2
         Abschnitt 5 AufenthG)
 
@@ -8629,7 +8617,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *
     *
-    *   widerrufen am
+    *   befristet bis
 
     *
     *
@@ -9110,8 +9098,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   hh)
 
     *   § 25 Absatz 1 AufenthG
-        (Asyl)
-        anerkannt am
+        (Asylberechtigung)
+        erteilt am
 
     *
     *   (2)\*
@@ -9128,8 +9116,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   ii)
 
     *   § 25 Absatz 2 AufenthG
-        (GFK)
-        gewährt am
+        (Flüchtlingseigenschaft)
+        erteilt am
 
     *
     *   (2)\*
@@ -9147,7 +9135,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   § 25 Absatz 2 AufenthG
         (subsidiärer Schutz)
-        gewährt am
+        erteilt am
 
     *
     *   (2)\*
@@ -9394,6 +9382,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   (2)\*
 
+
+*    *
+    *
+    *   befristet bis
+
+    *
+    *
 
 *    *   d)
 
@@ -10393,8 +10388,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *
     *   tt)
 
-    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis eines
-        drittstaatsangehörigen Elternteils eines deutschen Kindes)
+    *   Artikel 20 AEUV (Unionsrechtliches Aufenthaltsrecht sui generis)
 
     *
     *   (2)
@@ -10478,7 +10472,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 *    *
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -10495,7 +10489,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   Aufenthaltserlaubnis
 
-        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe vv –
+        –   wie vorstehend ohne Buchstabe e Doppelbuchstabe tt bis vv –
 
 
 
@@ -11155,9 +11149,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
 
-*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger
-        ausgestellt am
-        gültig bis
+*    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger ausgestellt am
 
     *   (3)
 
@@ -11330,7 +11322,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11366,7 +11358,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11404,7 +11396,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   (1)
 
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11440,7 +11432,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11477,7 +11469,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11513,7 +11505,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
         (5)
         (7)
         (7)
@@ -11528,7 +11520,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   h)
@@ -11539,7 +11531,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   i)
@@ -11550,7 +11542,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   j)
@@ -11561,7 +11553,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   k)
@@ -11575,7 +11567,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   l)
@@ -11589,7 +11581,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   m)
@@ -11603,7 +11595,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   n)
@@ -11614,7 +11606,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   o)
@@ -11625,7 +11617,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   p)
@@ -11636,7 +11628,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   q)
@@ -11649,7 +11641,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         noch nicht vollziehbar
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   r)
@@ -11662,7 +11654,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         sofort vollziehbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   s)
@@ -11675,7 +11667,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         unanfechtbar seit
 
     *
-    *   (3)
+    *   (2)
 
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
@@ -15635,7 +15627,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003667311]
+    *[^f756180_08_BJNR069500995BJNE003681311]
    (7)
 
     *
@@ -15644,15 +15636,17 @@ Abschnitt II
 
 
 
-    *   Angaben zum Verpflichtungsgeber (§ 29 Absatz 1 Nummer 10) werden nur
-        an die Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz
-        1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere
-        mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+    *   Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als
+        Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die
+        Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des
+        Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit
+        der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
         beauftragte Behörden, die deutschen Auslandsvertretungen, das
         Bundesamt für Auswärtige Angelegenheiten und andere öffentliche
-        Stellen im Visaverfahren, die Träger der Sozialhilfe und die für die
-        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
-        übermittelt.
+        Stellen im Visumverfahren, die Träger der Sozialhilfe, die für die
+        Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen und
+        die für die Durchführung der Grundsicherung für Arbeitsuchende
+        zuständigen Stellen übermittelt.
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
         Asylgesetzes
@@ -15906,7 +15900,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003667311]
+    *[^f756180_09_BJNR069500995BJNE003681311]
    (2)
 
     *
@@ -16439,8 +16433,9 @@ Abschnitt III
 
 
         c)  aufenthaltsrechtliche
-            Entscheidungen, die eine vollziehbare Ausreisepflicht begründen zu den
-            Tabellen 13, 14, 14a, 16, 20 im Abschnitt I
+            Entscheidungen im Zusammenhang mit einer Ausweisung, Abschiebung,
+            Zurückweisung oder Zurückschiebung zu den Tabellen 13, 14, 14a, 16, 20
+            im Abschnitt I
 
 
         d)  Einschränkung oder
@@ -16528,8 +16523,9 @@ Abschnitt III
 
     *
         *   Dokumente zu Spalte A Buchstabe b werden nur an die Ausländerbehörden,
-            die Bundespolizei und andere mit der polizeilichen Kontrolle des
-            grenzüberschreitenden Verkehrs beauftragte Behörden sowie an sonstige
+            das Bundesamt für Migration und Flüchtlinge, die Bundespolizei und
+            andere mit der polizeilichen Kontrolle des grenzüberschreitenden
+            Verkehrs beauftragte Behörden sowie an sonstige
             Polizeivollzugsbehörden des Bundes und der Länder übermittelt.
 
 
@@ -16596,11 +16592,12 @@ Abschnitt III
 
 
         –   Zollkriminalamt zu Spalte A
-            Buchstabe b, d, e und g
+            Buchstabe c, d, e, und g
 
 
         –   die Zentralstelle für
-            Finanztransaktionsuntersuchungen zu Spalte A Buchstaben a bis e und g
+            Finanztransaktionsuntersuchungen zu Spalte A Buchstabe a, c bis e und
+            g
 
 
 
@@ -16664,7 +16661,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003667311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003667311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003681311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003681311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003667311]: 
+[^F829919_01_BJNR069500995BJNE003681311]: 

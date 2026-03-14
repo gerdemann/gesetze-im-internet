@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 776
 
-Geändert durch
-:   Art. 6 Abs. 8 G v. 19.12.2018 I 2672
+Zuletzt geändert durch
+:   Art. 62 Abs. 1 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -32,7 +32,7 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000201128)
 
 (1) Diese Verordnung gilt für
 
@@ -69,6 +69,8 @@ kleinerer Verein, sind die §§ 2 bis 4 nicht anzuwenden.
 
 (3) Für Unternehmen gemäß Absatz 1 Nummer 3 und 4 gelten nur die §§ 2,
 3 und 7.
+
+(4) Für Unternehmen nach Absatz 1 Nummer 6 gilt nicht § 6 Absatz 2.
 
 
 ## § 2 Versicherungsmathematische Bestätigung

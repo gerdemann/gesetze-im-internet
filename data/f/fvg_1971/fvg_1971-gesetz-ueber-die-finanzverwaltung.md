@@ -19,10 +19,13 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2025 I Nr. 352
+:   Art. 2 G v. 22.12.2025 I Nr. 353
 
 Änderung durch
-:   Art. 2 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 60 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -167,7 +170,7 @@ Bundesministerium beauftragt werden.
 
 
 ### § 5 Aufgaben des Bundeszentralamtes für Steuern
-[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE005503123)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE005505123)
 
 (1) Das Bundeszentralamt für Steuern hat unbeschadet des § 4 Abs. 2
 und 3 folgende Aufgaben:
@@ -251,13 +254,11 @@ und 3 folgende Aufgaben:
 
 
 5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der
-    Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen
+    Grundlage von § 117a der Abgabenordnung ergangenen Rechtsverordnungen
     und die Durchführung von Bußgeldverfahren in den Fällen des § 379
-    Absatz 2 Nummer 1b der Abgabenordnung und in den Fällen der auf
-    Grundlage von § 117c Absatz 1 Satz 1 Nummer 5 der Abgabenordnung
-    ergangenen Rechtsverordnung sowie die Auswertung dieser Meldungen im
-    Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen
-    Aufgaben;
+    Absatz 2 Nummer 1b und des § 383a der Abgabenordnung sowie die
+    Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für
+    Steuern gesetzlich übertragenen Aufgaben;
 
 
 5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im
@@ -655,7 +656,7 @@ und 3 folgende Aufgaben:
     Finanzbehörden der Länder;
 
 
-33. die Registrierung eines Vor-REIT nach § 2 des REIT-Gesetzes;
+33. (weggefallen)
 
 
 34. die Zertifizierung von Altersvorsorge- und Basisrentenverträgen nach

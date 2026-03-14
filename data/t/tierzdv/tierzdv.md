@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2904
 
+Geändert durch
+:   Art. 3 V v. 10.3.2026 I Nr. 61
+
     § 7 dieser Verordnung dient der Umsetzung der Richtlinie 90/428/EWG
     des Rates vom 26. Juni 1990 über den Handel mit Sportpferden und zur
     Festlegung der Bedingungen für die Teilnahme an pferdesportlichen
@@ -609,7 +612,7 @@ sind.
 
 
 #### § 11 Anforderungen an den Betrieb einer nationalen Besamungsstation
-[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001301119)
 
 Der Betreiber einer nationalen Besamungsstation hat sicherzustellen,
 dass
@@ -632,13 +635,11 @@ dass
     Station gehaltenen Tiere durch den Tierarzt oder die Tierärztin, der
     oder die nach § 18 Absatz 2 Nummer 1 des Tierzuchtgesetzes benannt
     ist, wöchentlich auf klinische Anzeichen aller meldepflichtigen
-    Krankheiten und anzeigepflichtigen Tierseuchen, die durch den
-    gewonnenen Samen übertragen werden können, untersucht werden und
-    Tiere, bei denen sich Anzeichen von meldepflichtigen Krankheiten und
-    anzeigepflichtigen Tierseuchen zeigen oder bei denen aus anderen
-    Gründen der Verdacht auf Ausbruch einer meldepflichtigen Krankheit und
-    anzeigepflichtigen Tierseuche besteht, unverzüglich von der Gewinnung
-    von Samen ausgeschlossen werden;
+    Seuchen, die durch den gewonnenen Samen übertragen werden können,
+    untersucht werden und Tiere, bei denen sich Anzeichen von
+    meldepflichtigen Seuchen zeigen oder bei denen aus anderen Gründen der
+    Verdacht auf Ausbruch einer meldepflichtigen Seuche besteht,
+    unverzüglich von der Gewinnung von Samen ausgeschlossen werden;
 
 
 5.  die in Anlage 2 Spalte 1 genannten Tiere vor der Aufnahme in den
@@ -688,8 +689,7 @@ dass
     zusätzlich im Natursprung oder zum Abprobieren verwendet werden,
 
     a)  zwischen dem Natursprung oder dem Abprobieren und der Samengewinnung
-        eine
-        30-tägige Karenzzeit eingehalten wird und
+        eine 30-tägige Karenzzeit eingehalten wird und
 
 
     b)  14 Tage vor der nächsten Samengewinnung, die auf einen Natursprung
@@ -760,7 +760,9 @@ dass
 
 
 
-§ 4 des Tiergesundheitsgesetzes bleibt unberührt.
+Die Regelungen einer aufgrund des § 4 des Tiergesundheitsgesetzes
+erlassenen Rechtsverordnung bleiben unberührt soweit diese
+Rechtsverordnung nichts anderes bestimmt.
 
 
 #### § 12 Kennzeichnungsnummer der nationalen Besamungsstation
@@ -1222,22 +1224,20 @@ vorhanden sind.
 
 
 #### § 18 Anforderungen an den Betrieb einer Embryo-Entnahme- oder Erzeugungseinheit
-[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002001119)
 
 (1) Der Betreiber einer nationalen Embryo-Entnahmeeinheit hat
 sicherzustellen, dass
 
 1.  Tiere, die zur Gewinnung von Embryonen vorgesehen sind, vor der
-    Gewinnung von Embryonen frei von meldepflichtigen Krankheiten und
-    anzeigepflichtigen Tierseuchen sind, die durch Eizellen oder Embryonen
-    übertragen werden können;
+    Gewinnung von Embryonen frei von meldepflichtigen Seuchen sind, die
+    durch Eizellen oder Embryonen übertragen werden können;
 
 
-2.  Tiere, bei denen sich Anzeichen von meldepflichtigen Krankheiten und
-    anzeigepflichtigen Tierseuchen zeigen, die durch Embryonen übertragen
-    werden können, oder bei denen aus anderen Gründen der Verdacht auf
-    Ausbruch einer meldepflichtigen Krankheit und anzeigepflichtigen
-    Tierseuche besteht, die durch Embryonen übertragen werden können,
+2.  Tiere, bei denen sich Anzeichen von meldepflichtigen Seuchen zeigen,
+    die durch Embryonen übertragen werden können, oder bei denen aus
+    anderen Gründen der Verdacht auf Ausbruch einer meldepflichtigen
+    Seuche besteht, die durch Embryonen übertragen werden kann,
     unverzüglich von der Gewinnung von Embryonen ausgeschlossen werden
     sowie ihre Embryonen, mit Ausnahme derjenigen, die vor der letzten
     Untersuchung der Tiere mit negativem Befund gewonnen worden sind,
@@ -1254,8 +1254,8 @@ sicherzustellen, dass
     Erzeugungseinheit abgegeben werden;
 
 
-5.  der Tierarzt oder die Tierärztin, der oder die in § 18 Absatz 2 Nummer
-    1 des Tierzuchtgesetzes benannt ist,
+5.  der Tierarzt oder die Tierärztin, der oder die nach § 18 Absatz 2
+    Nummer 1 des Tierzuchtgesetzes benannt ist,
 
     a)  die Einhaltung der nach den Nummern 1 bis 3 vorgeschriebenen
         Tätigkeiten überwacht und
@@ -1939,7 +1939,7 @@ mitzuteilen.
 
 
 ### § 34 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003600000)
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003601119)
 
 Ordnungswidrig im Sinne des § 23 Absatz 1 Nummer 6 des
 Tierzuchtgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1988,8 +1988,7 @@ Tierzuchtgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 10. entgegen § 18 Absatz 1 Nummer 1 nicht sicherstellt, dass ein dort
-    genanntes Tier frei von meldepflichtigen Krankheiten oder
-    anzeigepflichtigen Tierseuchen ist,
+    genanntes Tier frei von meldepflichtigen Seuchen ist,
 
 
 11. entgegen § 18 Absatz 1 Nummer 2 nicht sicherstellt, dass ein dort

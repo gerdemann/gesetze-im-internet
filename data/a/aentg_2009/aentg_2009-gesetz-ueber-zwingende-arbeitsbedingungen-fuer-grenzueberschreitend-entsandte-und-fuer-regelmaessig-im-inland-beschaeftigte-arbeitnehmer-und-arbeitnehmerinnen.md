@@ -1897,13 +1897,13 @@ Ersuchens.
 
 
 ### § 31 Leistungsanspruch
-[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003602126)
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003603126)
 
 (1) Der Deutsche Gewerkschaftsbund hat für den Aufbau und die
 Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen
 Themen sowie für die in diesem Zusammenhang erfolgende Entwicklung und
 Bereitstellung von Fortbildungsangeboten und Informationsmaterialien
-einen kalenderjährlichen Anspruch in Höhe von bis zu 3,996 Millionen
+einen kalenderjährlichen Anspruch in Höhe von bis zu 4,2 Millionen
 Euro aus Mitteln des Bundes.
 
 (2) Der Anspruch besteht nur, wenn die Beratung

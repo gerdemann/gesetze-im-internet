@@ -228,3 +228,9 @@ anzuwenden.
 
 Diese Verordnung tritt am 1. Januar 2026 in Kraft.
 
+
+## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sozkigabv/BJNR1760A0025.html#BJNR1760A0025BJNE000700000)
+
+Der Bundesrat hat zugestimmt.
+

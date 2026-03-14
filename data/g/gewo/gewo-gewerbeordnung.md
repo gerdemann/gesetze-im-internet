@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.1.2026 I Nr. 6
+:   Art. 34 G v. 4.2.2026 I Nr. 33
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -6944,7 +6944,7 @@ wird nur auf den Sperrvermerk hingewiesen.
 
 
 ### § 150 Auskunft auf Antrag der betroffenen Person
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021110311)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021111128)
 
 (1) Auf Antrag erteilt die Registerbehörde einer Person Auskunft über
 den sie betreffenden Inhalt des Registers. Das Auskunftsrecht nach
@@ -6979,8 +6979,10 @@ Unternehmung, auf öffentliche Bestellung und Vereidigung nach § 36,
 auf Erteilung eines Befähigungsscheins nach § 20 des
 Sprengstoffgesetzes oder zur Überprüfung der Zuverlässigkeit nach § 38
 Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt
-werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist
-sie der Behörde unmittelbar zu übersenden.
+werden. Dies gilt auch für Zwecke einer Zuverlässigkeitsüberprüfung
+durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Wird die
+Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde
+unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber

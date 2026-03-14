@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 438, 2
 
-Geändert durch
-:   Art. 2 G v. 27.12.2024 I Nr. 438
+Zuletzt geändert durch
+:   Art. 49 G v. 4.2.2026 I Nr. 33
 
 
 ## Kapitel 1 - Allgemeine Maßnahmen
@@ -116,7 +116,7 @@ Begriffsbestimmungen des Artikels 3 Absatz 1 der Verordnung (EU)
 
 
 #### § 3 Aufgaben der Bundesanstalt
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000401128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000402128)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 93
 Absatz 1 der Verordnung (EU) 2023/1114. Sie übt die Aufsicht aus
@@ -154,30 +154,25 @@ und 27 der Verordnung (EU) 2022/2554 wahr. § 6 Absatz 3 und 4 gilt
 entsprechend.
 
 (3) Die Bundesanstalt überwacht die Einhaltung der in der Verordnung
-(EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai
-2015 über die Übermittlung von Angaben bei Geldtransfers und zur
-Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015,
-S. 1), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom
-27\.12.2019, S. 1) geändert worden ist, in der Verordnung (EU) Nr.
-2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021
-über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom
-30\.7.2021, S. 20), in der Verordnung (EU) Nr. 260/2012 des
-Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung
-der technischen Vorschriften und der Geschäftsanforderungen für
-Überweisungen und Lastschriften in Euro und zur Änderung der
-Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die
-zuletzt durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom
-20\.3.2014, S. 1) geändert worden ist, und in der Verordnung (EU)
-2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015
-über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L
-123 vom 19.5.2015, S. 1) enthaltenen Pflichten durch die Institute.
-Sie kann gegenüber einem Institut und den Mitgliedern seines
-Leitungsorgans Anordnungen treffen, die geeignet und erforderlich
-sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Satz
-1 zu verhindern oder zu unterbinden. Satz 2 gilt nicht für CRR-
-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-
-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung
-(EU) 2023/1114.
+(EU) 2023/1113, in der Verordnung (EU) Nr. 2021/1230 des Europäischen
+Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende
+Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), in der
+Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates
+vom 14. März 2012 zur Festlegung der technischen Vorschriften und der
+Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
+zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 248/2014
+(ABl. L 84 vom 20.3.2014, S. 1) geändert worden ist, und in der
+Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom
+29\. April 2015 über Interbankenentgelte für kartengebundene
+Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) enthaltenen
+Pflichten durch die Institute. Sie kann gegenüber einem Institut und
+den Mitgliedern seines Leitungsorgans Anordnungen treffen, die
+geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach
+den Verordnungen nach Satz 1 zu verhindern oder zu unterbinden. Satz 2
+gilt nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von
+Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der
+Verordnung (EU) 2023/1114.
 
 
 #### § 4 Allgemeine Befugnisse der Bundesanstalt
@@ -2374,7 +2369,7 @@ Bundesanstalt einen nach Satz 1 bestellten Abschlussprüfer abberufen.
 
 
 ### § 40 Besondere Pflichten des Abschlussprüfers; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004102128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004103128)
 
 (1) Als Teil der Prüfung des Jahresabschlusses hat der Abschlussprüfer
 auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei
@@ -2399,8 +2394,8 @@ prüfen, ob das Institut seinen Verpflichtungen
 
 5.  nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45
     Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer
-    Delegierten Verordnung nach den Artikeln 15 und 20 der Verordnung (EU)
-    2022/2554
+    Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel
+    30 der Verordnung (EU) 2022/2554
 
 
 
@@ -2775,7 +2770,7 @@ juristischen Person für die Mitglieder eines gesetzlichen
 
 
 ### § 47 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004801128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004802128)
 
 (1) Ordnungswidrig handelt, wer eine in § 46 Absatz 1 Nummer 4 bis 6
 bezeichnete Handlung fahrlässig begeht.
@@ -3810,7 +3805,7 @@ digitale operationale Resilienz im Finanzsektor und zur Änderung der
 Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
 (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
-Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
 werden.
 
 (13) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des

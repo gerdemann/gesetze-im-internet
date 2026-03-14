@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3631
 
 Zuletzt geändert durch
-:   Art. 7 V v. 31.3.2020 I 752
+:   Art. 2 V v. 10.3.2026 I Nr. 61
 
 
 ## § 1 Überwachungsprogramm
@@ -124,7 +124,7 @@ erfolgen, dass diese deutlich zu erkennen ist.
 
 
 ## Anlage (zu § 1 Absatz 1a und 2, § 1a Absatz 2)
-[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000506119)
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000507119)
 
 (Fundstelle: BGBl. I 2010, 190;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -159,6 +159,8 @@ Malta
 
 Niederlande
 
+Nordirland
+
 Österreich
 
 Polen
@@ -176,8 +178,6 @@ Spanien
 Tschechische Republik
 
 Ungarn
-
-Vereinigtes Königreich sowie die Kanalinseln und die Insel Man
 
 Zypern
 

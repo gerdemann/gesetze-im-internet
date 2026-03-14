@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.10.2025 I Nr. 260
-
-Änderung durch
-:   Art. 6 G v. 30.2.2026 I Nr. 31 mWv 7.2.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 30.1.2026 I Nr. 31
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -3914,7 +3911,7 @@ Verantwortung auf die Bundesrepublik Deutschland zu erfolgen.
 
 
 #### § 60 Lichtbild
-[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006107311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006108311)
 
 (1) Lichtbilder müssen den in § 4 der Passverordnung vom 19. Oktober
 2007 in der jeweils geltenden Fassung festgelegten Anforderungen
@@ -3953,17 +3950,15 @@ Aufenthaltsgesetzes oder dieser Verordnung zulässig.
 Stelle gemäß § 65 Nummer 7 ein
 
 1.  das übermittelte Pseudonym, wenn ein Lichtbild entsprechend den
-    Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a
-    Absatz 2 Nummer 1 der Passdatenerfassungs- und Übermittlungsverordnung
-    gefertigt wurde,
+    Vorgaben nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4
+    Absatz 2 Nummer 1 der Passverordnung gefertigt wurde,
 
 
 2.  den Namen des Dienstleisters, der das Lichtbildaufnahmegerät zur
     Verfügung gestellt hat, sowie die Kennung des verwendeten
     Lichtbildaufnahmegeräts, wenn ein Lichtbild entsprechend den Vorgaben
-    nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 1a Absatz 2
-    Nummer 2 der Passdatenerfassungs- und Übermittlungsverordnung
-    gefertigt wurde, oder
+    nach § 6 Absatz 2 Satz 3 Nummer 1 des Passgesetzes und § 4 Absatz 2
+    Nummer 2 der Passverordnung gefertigt wurde, oder
 
 
 3.  die jeweilige Ausländerbehörde, wenn ein Lichtbild entsprechend den
@@ -5193,7 +5188,7 @@ Bundesvertriebenengesetzes mit.
 
 
 ##### § 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007501126)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007502311)
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -5218,7 +5213,10 @@ Bundesvertriebenengesetzes mit.
 2.  die Verlegung in eine andere Justizvollzugsanstalt,
 
 
-3.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der
+3.  den Zeitpunkt der hälftigen Vollstreckung einer Freiheitsstrafe,
+
+
+4.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der
     Haft und das Ende der Unterbringung in einem psychiatrischen
     Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in
     einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der

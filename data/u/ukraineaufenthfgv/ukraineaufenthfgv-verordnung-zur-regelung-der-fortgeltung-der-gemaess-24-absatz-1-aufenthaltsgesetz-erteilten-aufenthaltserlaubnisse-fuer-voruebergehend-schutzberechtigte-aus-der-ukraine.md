@@ -24,7 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000101311)
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000102311)
 
 Auf Grund des § 99 Absatz 1 Nummer 1 des Aufenthaltsgesetzes in der
 Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162) in
@@ -35,7 +35,7 @@ Innern und für Heimat:
 
 
 ## § 1 Gegenstand
-[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000201311)
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000202311)
 
 Diese Verordnung regelt die Fortgeltung der Aufenthaltserlaubnisse
 gemäß § 24 Absatz 1 AufenthG für anlässlich des Krieges in der Ukraine
@@ -91,7 +91,7 @@ Aufenthaltsverordnung entfällt.
 
 
 ## Schlussformel
-[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000501311)
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000502311)
 
 Der Bundesrat hat zugestimmt.
 

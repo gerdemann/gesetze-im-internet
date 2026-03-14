@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2025 I Nr. 364
-
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 4.2.2026 I Nr. 33
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -4964,7 +4961,7 @@ Erfordernisse im Voraus vereinbaren.
 
 
 #### § 305a Einbeziehung in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259602377)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259603129)
 
 Auch ohne Einhaltung der in § 305 Abs. 2 Nr. 1 und 2 bezeichneten
 Erfordernisse werden einbezogen, wenn die andere Vertragspartei mit
@@ -4993,10 +4990,14 @@ ihrer Geltung einverstanden ist,
         Telekommunikationsdienstleistung in einem Mal erbracht werden, wenn
         die Allgemeinen Geschäftsbedingungen der anderen Vertragspartei nur
         unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss
-        zugänglich gemacht werden können.
+        zugänglich gemacht werden können,
 
 
 
+
+
+3.  die genehmigten Anlagebedingungen von
+    Kapitalverwaltungsgesellschaften.
 
 
 

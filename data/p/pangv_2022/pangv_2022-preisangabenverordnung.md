@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4921
 
-Änderung durch
-:   Art. 6 G v. 3.2.2026 I Nr. 28 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 6 G v. 3.2.2026 I Nr. 28
 
 Stand: Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)
 

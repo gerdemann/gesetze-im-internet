@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 149
 
-Änderung durch
-:   Art. 5 G v. 3.2.2026 I Nr. 29 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 5 G v. 3.2.2026 I Nr. 29
 
 [^F829870_01_BJNR0950B0024]:     Die §§ 1, 2, 3, 4, 5, 6 und 23 dienen der Umsetzung der Richtlinie
     2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000
@@ -554,7 +554,7 @@ zulassungs- und anmeldefrei.
 
 
 ### § 5 Allgemeine Informationspflichten
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000501128)
 
 (1) Diensteanbieter haben für geschäftsmäßige, in der Regel gegen
 Entgelt angebotene digitale Dienste folgende Informationen, die leicht
@@ -622,7 +622,7 @@ halten:
 
 8.  bei Anbietern von audiovisuellen Mediendiensten die Angabe
 
-    a)  des Mitgliedstaats, der für sie Sitzland ist oder als Sitzland gilt
+    a)  des Mitgliedstaats, der für sie Sitzland ist oder als Sitzland gilt,
         sowie
 
 
@@ -1718,7 +1718,7 @@ sofern diese nach § 22 zuständig ist.
 
 
 ### § 33 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003300000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003301128)
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Absatz 2 Satz
 1 den Absender oder den kommerziellen Charakter der Nachricht
@@ -1764,11 +1764,9 @@ verschleiert oder verheimlicht.
 
 
 
-(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/1150
-des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur
-Förderung von Fairness und Transparenz für gewerbliche Nutzer von
-Online-Vermittlungsdiensten (ABl. L 186 vom 11.7.2019, S. 57)
-verstößt, indem er vorsätzlich oder fahrlässig
+(3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/1150 in
+der Fassung vom 20. Juni 2019 verstößt, indem er vorsätzlich oder
+fahrlässig
 
 1.  entgegen Artikel 3 Absatz 5 nicht sicherstellt, dass die dort genannte
     Identität erkennbar ist,
@@ -1844,15 +1842,13 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 (4) Ordnungswidrig handelt, wer entgegen Artikel 16 Absatz 6 Satz 1
-der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des
-Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste
-und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale
-Dienste) (ABl. L 277 vom 27.10.2022, S. 1; L 310 vom 1.12.2022, S. 17)
-eine Entscheidung nicht frei von Willkür oder nicht objektiv trifft
-und eine solche Handlung wiederholt.
+der Verordnung (EU) 2022/2065 in der Fassung vom 19. Oktober 2022 eine
+Entscheidung nicht frei von Willkür oder nicht objektiv trifft und
+eine solche Handlung wiederholt.
 
-(5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2022/2065
-verstößt, indem er vorsätzlich oder fahrlässig
+(5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2022/2065 in
+der Fassung vom 19. Oktober 2022 verstößt, indem er vorsätzlich oder
+fahrlässig
 
 1.  entgegen Artikel 9 Absatz 1 oder Absatz 5 Satz 1, Artikel 10 Absatz 1,
     Artikel 14 Absatz 2 oder Artikel 32 Absatz 1 eine Information nicht,
@@ -2005,15 +2001,33 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 
+(5a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/988 in
+der Fassung vom 10. Mai 2023 verstößt, indem er vorsätzlich oder
+fahrlässig
+
+1.  entgegen Artikel 22 Absatz 7 nicht mindestens das Safety-Gate-Portal
+    verwendet,
+
+
+2.  entgegen Artikel 22 Absatz 8 eine Meldung nicht oder nicht rechtzeitig
+    bearbeitet oder
+
+
+3.  entgegen Artikel 22 Absatz 9 eine Online-Schnittstelle nicht richtig
+    gestaltet oder nicht richtig strukturiert.
+
+
+
 
 (6) Die Ordnungswidrigkeit kann geahndet werden
 
-1.  in den Fällen der
+1.  in den Fällen des
 
-    a)  Absätze 1 und 3 Nummer 1, 3, 4, 9, 10 und 11 und
+    a)  Absatzes 1 und 3 Nummer 1, 3, 4, 9, 10 und 11 und des Absatzes 5a
+        Nummer 1 und 3 und
 
 
-    b)  Absätze 4 und 5 Nummer 8, 10 bis 12, 14, 16, 18, 20 bis 30 und 32
+    b)  Absatzes 4 und 5 Nummer 8, 10 bis 12, 14, 16, 18, 20 bis 30 und 32
 
 
 
@@ -2022,7 +2036,8 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 2.  in den Fällen des
 
-    a)  Absatzes 3 Nummer 2, 5 bis 8, 12 bis 14 und 15 und
+    a)  Absatzes 3 Nummer 2, 5 bis 8, 12 bis 14 und 15 und des Absatzes 5a
+        Nummer 2 und
 
 
     b)  Absatzes 5 Nummer 1 bis 7, 9, 13, 15, 17, 19, 31 und 33
@@ -2038,30 +2053,32 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 
-(7) Bei einer juristischen Person oder Personenvereinigung mit einem
-Jahresumsatz von mehr als
+(7) Gegenüber einer juristischen Person oder Personenvereinigung mit
+einem Gesamtumsatz von mehr als 5 Millionen Euro kann abweichend von
+Absatz 6 Nummer 1 Buchstabe b in Verbindung mit § 30 Absatz 2 Satz 2
+des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit in den
+Fällen der Absätze 4 und 5 Nummer 8, 10 bis 12, 14, 16, 18, 20 bis 30
+und 32 mit einer Geldbuße bis zu 6 Prozent des Gesamtumsatzes geahndet
+werden.
 
-1.  5 Millionen Euro kann abweichend von Absatz 6 Nummer 1 Buchstabe b
-    eine dort genannte Ordnungswidrigkeit mit einer Geldbuße bis zu 6
-    Prozent,
+(8) Gegenüber einer juristischen Person oder Personenvereinigung mit
+einem Gesamtumsatz von mehr als 10 Millionen Euro kann abweichend von
+Absatz 6 Nummer 2 Buchstabe b in Verbindung mit § 30 Absatz 2 Satz 2
+des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit in den
+Fällen des Absatzes 5 Nummer 1 bis 7, 9, 13, 15, 17, 19, 31 und 33 mit
+einer Geldbuße bis zu 1 Prozent des Gesamtumsatzes geahndet werden.
 
+(9) Gesamtumsatz im Sinne der Absätze 7 und 8 ist die Summe aller
+Umsatzerlöse, die die juristische Person oder Personenvereinigung in
+dem der Behördenentscheidung vorausgegangenen Geschäftsjahr weltweit
+erzielt hat. Der Gesamtumsatz kann geschätzt werden.
 
-2.  10 Millionen Euro kann abweichend von Absatz 6 Nummer 2 Buchstabe b
-    eine dort genannte Ordnungswidrigkeit mit einer Geldbuße bis zu 1
-    Prozent
-
-
-
-des Jahresumsatzes geahndet werden, der von der juristischen Person
-oder Personenvereinigung weltweit in dem Geschäftsjahr erzielt wurde,
-das der Behördenentscheidung vorausgeht.
-
-(8) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+(10) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
-1.  des Absatzes 2 Nummer 3 Buchstabe a und Nummer 4 Buchstabe a und des
-    Absatzes 5 Nummer 1 bis 5, 7 bis 22, 24, 25 und 27 bis 33 die
-    Koordinierungsstelle für digitale Dienste,
+1.  des Absatzes 2 Nummer 3 Buchstabe a und Nummer 4 Buchstabe a, der
+    Absätze 4 und 5 Nummer 1 bis 5, 7 bis 22, 24, 25 und 27 bis 33 und des
+    Absatzes 5a die Koordinierungsstelle für digitale Dienste,
 
 
 2.  des Absatzes 2 Nummer 3 Buchstabe b und Nummer 4 Buchstabe b und des

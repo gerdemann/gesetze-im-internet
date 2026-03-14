@@ -16,7 +16,10 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.12.2025 I Nr. 369
+:   Art. 4 G v. 4.2.2026 I Nr. 33
+
+Mittelbare änderung durch
+:   Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
 
 
 ## Erstes Buch - Handelsstand

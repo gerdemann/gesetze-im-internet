@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 562 (688)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.11.2025 I Nr. 277
+:   Art. 39 G v. 4.2.2026 I Nr. 33
 
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
     2007/44/EG des Europäischen Parlaments und des Rates vom 5. September
@@ -487,7 +487,7 @@ beizufügen:
 
 
 ### § 9 Erklärungen und Unterlagen zur Zuverlässigkeit
-[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000904128)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000905128)
 
 (1) Der Anzeigepflichtige hat zu jeder Anzeige das Formular „Angaben
 zur Zuverlässigkeit“ nach Anlage 3 einzureichen. Darin hat er
@@ -648,11 +648,14 @@ Anzeigepflichtigen einen maßgeblichen Einfluss ausüben können, haben,
 wenn sie in den letzten zehn Jahren in der Bundesrepublik Deutschland
 einen Wohnsitz hatten oder in den letzten zehn Jahren in der
 Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt haben,
-bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde
-einen Auszug aus dem Gewerbezentralregister gemäß § 150 der
-Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des
-Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist
-das Ausstellungsdatum des Dokuments.
+einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der
+Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen oder
+bei der zuständigen Landesaufsichtsbehörde einen Auszug aus dem
+Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Der
+bei der zuständigen Landesaufsichtsbehörde einzureichende
+Registerauszug darf zum Zeitpunkt des Einreichens nicht älter als drei
+Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum des
+Dokuments.
 
 
 ### § 10 Lebenslauf

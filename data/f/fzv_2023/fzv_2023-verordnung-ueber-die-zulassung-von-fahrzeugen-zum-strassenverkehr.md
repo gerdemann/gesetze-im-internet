@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
 Zuletzt geändert durch
-:   Art. 23 V v. 11.12.2024 I Nr. 411
+:   Art. 1 V v. 19.12.2025 I Nr. 382
 
 Änderung durch
-:   Art. 1 V v. 19.12.2025 I Nr. 382 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 5.3.2026 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 
@@ -3945,7 +3945,7 @@ Zulassungsbescheinigung Teil II ist fortzuschreiben. Die Absätze 1 bis
 
 
 ### § 46 Vorübergehende Teilnahme am Straßenverkehr in der Bundesrepublik Deutschland
-[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004701123)
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004702123)
 
 (1) Ein in einem anderen Mitgliedstaat oder einem anderen
 Vertragsstaat zugelassenes Fahrzeug darf vorübergehend am Verkehr in
@@ -3970,9 +3970,9 @@ Richtlinie 2006/1/EG des Europäischen Parlamentes und des Rates vom
 Fahrzeugen im Güterkraftverkehr (ABl. L 33 vom 4.2.2006, S. 82) in der
 jeweils geltenden Fassung, die von einem Kraftverkehrsunternehmen mit
 Niederlassung in der Bundesrepublik Deutschland gemietet wurden, für
-die Dauer von bis zu 30 Tagen am Verkehr in der Bundesrepublik
-Deutschland teilnehmen, sofern das Mietfahrzeug gemäß den
-Rechtsvorschriften eines anderen Mitgliedstaats zugelassen oder in
+die Dauer von bis zu 30 Tagen am gewerblichen Güterkraftverkehr in der
+Bundesrepublik Deutschland teilnehmen, sofern das Mietfahrzeug gemäß
+den Rechtsvorschriften eines anderen Mitgliedstaats zugelassen oder in
 Betrieb genommen wurde und für das Mietfahrzeug von einer zuständigen
 Stelle des anderen Mitgliedstaates eine gültige
 Zulassungsbescheinigung ausgestellt ist.
@@ -4014,9 +4014,9 @@ durch eine vom Bundesministerium für Verkehr bestimmte Stelle
 verbunden sein.
 
 (6) Die das Fahrzeug führende Person hat die ausländische
-Zulassungsbescheinigung nach Absatz 1 Satz 1 bis 3 oder Absatz 3 Satz
-1 und 2 sowie die nach Absatz 5 erforderliche Übersetzung oder den
-Internationalen Zulassungsschein nach Absatz 3 Satz 1 und 2
+Zulassungsbescheinigung nach Absatz 1 Satz 1 bis 3 oder 6 oder Absatz
+3 Satz 1 und 2 sowie die nach Absatz 5 erforderliche Übersetzung oder
+den Internationalen Zulassungsschein nach Absatz 3 Satz 1 und 2
 mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
 auszuhändigen.
 

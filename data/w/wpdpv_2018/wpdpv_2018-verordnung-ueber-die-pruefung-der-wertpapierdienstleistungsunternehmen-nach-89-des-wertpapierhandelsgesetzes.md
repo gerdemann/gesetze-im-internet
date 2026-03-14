@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 140
 
-Geändert durch
-:   Art. 6 G v. 12.12.2019 I 2637
+Zuletzt geändert durch
+:   Art. 12 G v. 4.2.2026 I Nr. 33
 
 Stand: Ersetzt V 4110-4-10 v. 16.12.2004 I 3515 (WpDPV 2005)
 
@@ -373,7 +373,7 @@ Prüfungsbericht darzustellen.
 
 
 ### § 11 Verhaltenspflichten, Organisationspflichten und Aufzeichnungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001201129)
 
 (1) Im Prüfungsbericht sind im Einzelnen, sofern nach der Art der
 erbrachten Wertpapierdienstleistungen oder
@@ -462,9 +462,9 @@ Wertpapiernebendienstleistungen zutreffend, darzustellen:
 
 13. die Erfüllung der Mitteilungspflicht nach § 79 des
     Wertpapierhandelsgesetzes und die Erfüllung der Anforderungen nach den
-    Artikeln 14, 15, 17 und 18 der Verordnung (EU) Nr. 600/2014 durch
+    Artikeln 14, 15 und 17 der Verordnung (EU) Nr. 600/2014 durch
     systematische Internalisierer im Sinne des § 2 Absatz 8 Satz 1 Nummer
-    2 Buchstabe b in Verbindung mit § 2 Absatz 8 Satz 3 bis 5 des
+    2 Buchstabe b in Verbindung mit § 2 Absatz 8 Satz 3 und 4 des
     Wertpapierhandelsgesetzes;
 
 
@@ -579,28 +579,12 @@ Wertpapiernebendienstleistungen zutreffend, darzustellen:
 
 
 27. die Einhaltung der Anforderungen nach § 87 des
-    Wertpapierhandelsgesetzes, insbesondere im Hinblick darauf, dass
-
-    a)  die mit der Anlageberatung betrauten Mitarbeiter, die
-        Vertriebsmitarbeiter, die mit der Finanzportfolioverwaltung betrauten
-        Mitarbeiter, die Vertriebsbeauftragten und die Compliance-Beauftragten
-        gemäß § 87 Absatz 1 Satz 1, Absatz 2, 3, 4 Satz 1 und Absatz 5 Satz 1
-        des Wertpapierhandelsgesetzes sachkundig sind und über die für die
-        Tätigkeit erforderliche Zuverlässigkeit verfügen,
-
-
-    b)  die mit der Anlageberatung betrauten Mitarbeiter, die
-        Vertriebsbeauftragten und die Compliance-Beauftragten gegenüber der
-        Bundesanstalt gemäß § 87 Absatz 1 Satz 2 und 3, Absatz 4 Satz 2 und 3
-        sowie Absatz 5 Satz 2 und 3 des Wertpapierhandelsgesetzes angezeigt
-        werden und
-
-
-    c)  Beschwerden nach § 87 Absatz 1 Satz 4 des Wertpapierhandelsgesetzes
-        gegenüber der Bundesanstalt angezeigt werden;
-
-
-
+    Wertpapierhandelsgesetzes, insbesondere im Hinblick darauf, dass die
+    mit der Anlageberatung betrauten Mitarbeiter, die
+    Vertriebsmitarbeiter, die mit der Finanzportfolioverwaltung betrauten
+    Mitarbeiter, die Vertriebsbeauftragten und die Compliance-Beauftragten
+    nach § 87 Absatz 1 bis 5 des Wertpapierhandelsgesetzes sachkundig sind
+    und über die für die Tätigkeit erforderliche Zuverlässigkeit verfügen;
 
 
 28. die Erfüllung der sich aus Artikel 4 Absatz 1 Unterabsatz 1 sowie
@@ -957,7 +941,7 @@ worden ist, außer Kraft.
 
 
 ### Anlage (zu § 18 Absatz 1)
-[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002401360)
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002402129)
 
 
 (Fundstelle: BGBl. I 2018, 148 - 153; bzgl. einzelner Änderungen vgl.
@@ -1329,33 +1313,12 @@ Prüfungsfeststellungen:
 
 *    *   22
 
-    *   Einsatz von Mitarbeitern in der Anlageberatung, als
-        Vertriebsmitarbeiter, von Mitarbeitern in der
-        Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als
-        Compliance-Beauftragte
-
-
-*    *   22a
-
-    *   § 87 Abs. 1 S. 1, Abs. 2 − 4 S. 1, Abs. 5 S. 1 WpHG;
-        §§ 1, 1a, 1b, 2, 3, 6 WpHGMaAnzV
+    *   § 87 Abs. 1 – 5 WpHG; §§ 14 – 18, 21 WpDVerOV
 
     *   Erforderliche Sachkunde und Zuverlässigkeit der Mitarbeiter in der
         Anlageberatung, der Vertriebsmitarbeiter, der Mitarbeiter in der
         Finanzportfolioverwaltung, der Vertriebsbeauftragten und der
         Compliance-Beauftragten
-
-    *
-    *
-
-*    *   22b
-
-    *   § 87 Abs. 1 S. 2 − 4, Abs. 4 S. 2, 3, Abs. 5 S. 2, 3 WpHG;
-        §§ 7, 8, 10 WpHGMaAnzV
-
-    *   Anzeigen der Mitarbeiter in der Anlageberatung, der
-        Vertriebsbeauftragten und der Compliance-Beauftragten; Anzeigen der
-        Beschwerden
 
     *
     *
@@ -1447,15 +1410,15 @@ Prüfungsfeststellungen:
 
     *   Art. 27 VO (EU) Nr. 600/2014
 
-    *   Bereitstellung von Referenzdaten durch systematische Internalisierer
+    *   Bereitstellung durch benannte veröffentlichende Einrichtungen
 
     *
     *
 
 *    *   31
 
-    *   Art. 14, 15, 17, 18 VO (EU) Nr. 600/2014; Art. 6 − 14
-        Del. VO (EU) 2017/567 und Art. 9 Del. VO (EU) 2017/587
+    *   Art. 14, 15, 17 VO (EU) Nr. 600/2014; Art. 6 – 14 Del. VO (EU)
+        2017/567 und Art. 9 Del. VO (EU) 2017/587
 
     *   Transparenzanforderungen an systematische Internalisierer
 

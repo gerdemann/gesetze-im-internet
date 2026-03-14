@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.1.2026 I Nr. 3
+:   Art. 1 G v. 23.2.2026 I Nr. 46
 
 
 ## Allgemeiner Teil - 
@@ -6244,7 +6244,7 @@ Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 127 Betreiben krimineller Handelsplattformen im Internet
-[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027904130)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027905129)
 
 (1) Wer eine Handelsplattform im Internet betreibt, deren Zweck darauf
 ausgerichtet ist, die Begehung von rechtswidrigen Taten zu
@@ -6298,7 +6298,7 @@ Sinne des Satzes 1 sind
         Kulturgutschutzgesetzes,
 
 
-    k)  den §§ 143, 143a und 144 des Markengesetzes sowie
+    k)  den §§ 143 und 144 des Markengesetzes sowie
 
 
     l)  den §§ 51 und 65 des Designgesetzes.

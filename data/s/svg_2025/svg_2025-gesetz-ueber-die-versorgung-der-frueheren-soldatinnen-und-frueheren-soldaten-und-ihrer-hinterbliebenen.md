@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 3932, 3958
 
 Zuletzt geändert durch
-:   Art. 9 G v. 27.2.2025 I Nr. 72
-
-Änderung durch
-:   Art. 7 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.12.2025 I Nr. 370
 
 Stand: Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 990
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.12.2024 I Nr. 438
+:   Art. 45 G v. 4.2.2026 I Nr. 33
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -35,7 +35,7 @@ Inland anzuwenden.
 
 
 #### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000303128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000304128)
 
 (1) Ein Wertpapierinstitut ist ein Unternehmen, das gewerbsmäßig oder
 in einem Umfang, der einen in kaufmännischer Weise eingerichteten
@@ -111,13 +111,14 @@ erbringt.
         unter Einsatz des eigenen Kapitals (Market-Making),
 
 
-    b)  häufige organisierte und systematische Betreiben von Handel für eigene
-        Rechnung in erheblichem Umfang außerhalb eines organisierten Marktes
-        oder eines multilateralen oder organisierten Handelssystems, wenn
-        Kundenaufträge außerhalb eines geregelten Marktes oder eines
-        multilateralen oder organisierten Handelssystems ausgeführt werden,
-        ohne dass ein multilaterales Handelssystem betrieben wird
-        (systematische Internalisierung),
+    b)  häufige organisierte und systematische Betreiben von Handel mit
+        Aktien, Aktienzertifikaten, börsengehandelten Fonds, Zertifikaten und
+        anderen vergleichbaren Finanzinstrumenten für eigene Rechnung
+        außerhalb eines organisierten Marktes oder eines multilateralen oder
+        organisierten Handelssystems, wenn Kundenaufträge außerhalb eines
+        geregelten Marktes oder eines multilateralen oder organisierten
+        Handelssystems ausgeführt werden, ohne dass ein multilaterales
+        Handelssystem betrieben wird (systematische Internalisierung),
 
 
     c)  Anschaffen oder Veräußern von Finanzinstrumenten für eigene Rechnung
@@ -159,25 +160,15 @@ erbringt.
 
 
         auch ohne dass eine Dienstleistung für andere vorliegt
-        (Hochfrequenzhandel). Ob ein häufiger systematischer Handel im Sinne
-        der Nummer 10 Buchstabe b vorliegt, bemisst sich nach der Anzahl der
-        Geschäfte außerhalb eines Handelsplatzes im Sinne des § 2 Absatz 22
-        des Wertpapierhandelsgesetzes (OTC-Handel) mit einem Finanzinstrument
-        zur Ausführung von Kundenaufträgen, die für eigene Rechnung
-        durchgeführt werden. Ob ein Handel in erheblichem Umfang im Sinne der
-        Nummer 10 Buchstabe b vorliegt, bemisst sich entweder nach dem Anteil
-        des OTC-Handels an dem Gesamthandelsvolumen des Unternehmens in einem
-        bestimmten Finanzinstrument oder nach dem Verhältnis des OTC-Handels
-        des Unternehmens zum Gesamthandelsvolumen in einem bestimmten
-        Finanzinstrument in der Europäischen Union. Die Voraussetzungen der
-        systematischen Internalisierung sind erst dann erfüllt, wenn sowohl
-        die in den Artikeln 12 bis 17 der Delegierten Verordnung (EU) 2017/565
-        bestimmte Obergrenze für häufigen systematischen Handel als auch die
-        dort bestimmte einschlägige Obergrenze für den Handel in erheblichem
-        Umfang überschritten wird oder wenn ein Unternehmen sich freiwillig
-        den für die systematische Internalisierung geltenden Regelungen
-        unterworfen und einen entsprechenden Erlaubnisantrag bei der
-        Bundesanstalt gestellt hat.
+        (Hochfrequenzhandel). Die Voraussetzungen der systematischen
+        Internalisierung nach Satz 1 Nummer 10 Buchstabe b sind auch dann
+        erfüllt, wenn ein Unternehmen sich freiwillig den für die
+        systematische Internalisierung geltenden Regelungen unterworfen und
+        eine Erlaubnis zum Betreiben der systematischen Internalisierung bei
+        der Bundesanstalt beantragt hat. Dies gilt auch für die systematische
+        Internalisierung von Schuldverschreibungen, strukturierten
+        Finanzprodukten und Emissionszertifikaten sowie von den in Artikel 8a
+        Absatz 2 Satz 1 der Verordnung (EU) Nr. 600/2014 genannten Derivaten.
 
 
 
@@ -1245,7 +1236,7 @@ Bundesbank übertragen.
 
 
 #### § 6 Sofortige Vollziehbarkeit
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000702128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000703128)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
@@ -1255,10 +1246,9 @@ und Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2,
 25 und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2,
 Absatz 4 und 5 Satz 2, § 39 Absatz 3, des § 40 Absatz 3, des § 43
 Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz
-2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 71
-Absatz 3, des § 77 Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2,
-des § 80 Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine
-aufschiebende Wirkung.
+2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 77
+Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80 Absatz 1
+und 2 sowie des § 81 Absatz 2 haben keine aufschiebende Wirkung.
 
 
 #### § 7 Grenzüberschreitende Auskünfte und Prüfungen
@@ -1485,7 +1475,7 @@ Betreiben von Geschäften nach § 2 Absatz 2 in einem Drittstaat haben.
 
 
 #### § 11 Zusammenarbeit mit zuständigen Behörden und Stellen
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001201128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001202128)
 
 (1) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig
 wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über
@@ -1622,15 +1612,16 @@ geändert worden ist, Verwaltungsvereinbarungen über den
 Informationsaustausch mit den zuständigen Behörden aus Drittstaaten
 abschließen, die für die nachstehenden Aufgaben zuständig sind:
 
-1.  die Beaufsichtigung von Wertpapierinstituten und Finanzmärkten,
-    einschließlich der Beaufsichtigung von Finanzunternehmen, die für die
-    Tätigkeit als zentrale Gegenparteien zugelassen sind, sofern die
-    zentralen Gegenparteien nach Artikel 25 der Verordnung (EU) Nr.
-    648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012
-    über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister
-    (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom 30.11.2013, S. 6), die
-    zuletzt durch die Verordnung (EU) 2019/2099 (ABl. L 322 vom
-    12\.12.2019, S. 1) geändert worden ist, anerkannt wurden,
+1.  die Beaufsichtigung von Wertpapierinstituten, Finanzinstituten und
+    Finanzmärkten, einschließlich der Beaufsichtigung von
+    Finanzunternehmen, die für die Tätigkeit als zentrale Gegenparteien
+    zugelassen sind, sofern die zentralen Gegenparteien nach Artikel 25
+    der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des
+    Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
+    Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom
+    30\.11.2013, S. 6), die zuletzt durch die Verordnung (EU) 2019/2099
+    (ABl. L 322 vom 12.12.2019, S. 1) geändert worden ist, anerkannt
+    wurden,
 
 
 2.  Abwicklungen, Insolvenzverfahren und ähnliche Verfahren bei
@@ -1642,12 +1633,13 @@ abschließen, die für die nachstehenden Aufgaben zuständig sind:
     Stellen,
 
 
-4.  die Durchführung von Pflichtprüfungen bei Wertpapierinstituten oder
-    Einrichtungen, die Sicherungssysteme verwalten,
+4.  die Durchführung von Pflichtprüfungen bei Wertpapierinstituten,
+    Finanzinstituten oder Einrichtungen, die Sicherungssysteme verwalten,
 
 
 5.  die Beaufsichtigung der Personen, die die Pflichtprüfung der
-    Rechnungslegungsunterlagen von Wertpapierinstituten vornehmen,
+    Rechnungslegungsunterlagen von Wertpapierinstituten oder
+    Finanzinstituten vornehmen,
 
 
 6.  die Beaufsichtigung der an den Märkten für Emissionszertifikate
@@ -2027,7 +2019,7 @@ Spitzenverbände der Wertpapierinstitute anzuhören.
 
 
 #### § 15 Erlaubnis für das Erbringen von Wertpapierdienstleistungen und -nebendienstleistungen
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001604128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001605128)
 
 (1) Wer im Inland Wertpapierdienstleistungen im Sinne des § 2 Absatz 2
 Satz 1 Nummer 1 bis 10, die Wertpapiernebendienstleistungen des § 2
@@ -2122,6 +2114,15 @@ schreibender Zugriff auf die für dieses Unternehmen einzurichtende
 Seite des Registers gestattet werden. Wird der schreibende Zugriff
 gestattet, ist das Unternehmen für die Richtigkeit und Aktualität der
 Seite verantwortlich.
+
+(5a) Ein Unternehmen mit Sitz in einem Drittstaat bedarf für das
+Betreiben des Eigenhandels im Sinne des § 2 Absatz 2 Nummer 10
+Buchstabe a keiner schriftlichen Erlaubnis nach Absatz 1, wenn es den
+Eigenhandel als Mitglied einer Börse oder als Teilnehmer eines
+Handelsplatzes betreibt; dies gilt bis zu einer Entscheidung der
+Europäischen Wertpapier- und Marktaufsichtsbehörde über eine
+Eintragung des Unternehmens in das Register nach Artikel 48 der
+Verordnung (EU) Nr. 600/2014.
 
 (6) Einer Erlaubnis der Bundesanstalt bedarf es auch, wenn ein
 Wertpapierinstitut, dem eine Erlaubnis nach Absatz 1 erteilt wurde,
@@ -3389,11 +3390,11 @@ Einem Wertpapierinstitut sind verboten:
 
 
 #### § 38 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003900000)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003901128)
 
 (1) Abschnitt 1 dieses Kapitels findet mit Ausnahme der §§ 38, 40, 41
 Nummer 1 bis 3, von § 43 Absatz 1, § 45 Absatz 1 Satz 1, 2 und 3
-Nummer 1 und 4 auf Kleine Wertpapierinstitute keine Anwendung.
+Nummer 1, 3 und 4 auf Kleine Wertpapierinstitute keine Anwendung.
 
 (2) War ein Kleines Wertpapierinstitut zuvor als Mittleres
 Wertpapierinstitut eingestuft, kommen die ausschließlich für Mittlere
@@ -5211,7 +5212,7 @@ einer Zweimonatsfrist seine Tätigkeit in dem anderen Staat aufnehmen.
 
 
 #### § 71 Grenzüberschreitender Dienstleistungsverkehr durch inländische Wertpapierinstitute
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007201128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007202128)
 
 (1) Ein Wertpapierinstitut, das beabsichtigt,
 Wertpapierdienstleistungen grenzüberschreitend in einem anderen
@@ -5239,18 +5240,11 @@ mindestens einer Wertpapierdienstleistung angezeigt werden. Nähere
 Bestimmungen ergeben sich aus der Delegierten Verordnung (EU)
 2017/1018 und der Durchführungsverordnung (EU) 2017/2382.
 
-(3) Hat die Bundesanstalt keine Anhaltspunkte, die Zweifel an der
-Angemessenheit der Organisationsstruktur und der Finanzlage des
-Wertpapierinstituts begründen, übermittelt sie die Angaben nach Absatz
-1 innerhalb eines Monats nach Eingang der Anzeige der zuständigen
-Stelle des Aufnahmevertragsstaates. Das Wertpapierinstitut hat die
-Unterrichtung der zuständigen Stelle des Aufnahmemitgliedstaates
-innerhalb dieser Frist abzuwarten, bevor es seine Tätigkeit in dem
-Aufnahmevertragsstaat aufnimmt. Leitet die Bundesanstalt die Angaben
-nach Absatz 1 nicht an die zuständigen Stellen des
-Aufnahmevertragsstaates weiter, teilt die Bundesanstalt dem
-Wertpapierinstitut innerhalb von einem Monat nach Eingang sämtlicher
-Angaben nach Absatz 1 die Gründe dafür mit.
+(3) Die Bundesanstalt leitet diese Angaben innerhalb eines Monats nach
+Erhalt an die zuständige Stelle des Aufnahmevertragsstaates weiter.
+Das Wertpapierinstitut kann dann im Aufnahmemitgliedstaat die
+betreffenden Wertpapierdienstleistungen und Anlagetätigkeiten
+erbringen.
 
 (4) Beabsichtigt der Betreiber eines multilateralen oder organisierten
 Handelssystems, Handelsteilnehmern in anderen Staaten einen
@@ -5726,14 +5720,16 @@ Erlaubnis nach § 15 Absatz 4 Satz 1.
 
 
 ### § 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009100128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009101128)
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU)
 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie
 sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache
 vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder
 Teile davon ausschließlich in englischer Sprache erstellt und
-vorgelegt werden.
+vorgelegt werden. Sofern die Bundesanstalt eine Vorlage in beiden
+Sprachen verlangt, ist allein die deutschsprachige Fassung rechtlich
+maßgeblich.
 
 (2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt
 elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von
@@ -5946,7 +5942,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 ### § 83 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008402128)
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008403128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6075,10 +6071,10 @@ er
 (4a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des
 Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die
 digitale operationale Resilienz im Finanzsektor und zur Änderung der
-Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
+Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014,
 (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1)
 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56
-Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet
+Absatz 5e und 6 Nummer 1 und 2 des Kreditwesengesetzes geahndet
 werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3

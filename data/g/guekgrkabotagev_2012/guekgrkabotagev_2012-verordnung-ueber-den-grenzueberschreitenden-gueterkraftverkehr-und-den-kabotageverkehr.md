@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 29 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000100000)
@@ -37,7 +40,7 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ### § 1 Erteilung und Entziehung der Gemeinschaftslizenz
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000201123)
 
 (1) Für die Gemeinschaftslizenz im Sinne der Verordnung (EG) Nr.
 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober
@@ -46,17 +49,16 @@ grenzüberschreitenden Güterkraftverkehrs (ABl. L 300 vom 14.11.2009,
 S. 72) gelten folgende Bestimmungen des Güterkraftverkehrsgesetzes
 entsprechend:
 
-1.  § 3 Absatz 3 und 5,
+1.  (weggefallen)
 
 
-2.  § 3 Absatz 5a und 5b,
+2.  (weggefallen)
 
 
-3.  § 4 (Unterrichtung der Berufsgenossenschaft), wenn dem Unternehmer
-    keine Erlaubnis nach § 3 des Güterkraftverkehrsgesetzes erteilt ist,
+3.  (weggefallen)
 
 
-4.  § 8 (vorläufige Weiterführung der Güterkraftverkehrsgeschäfte) und
+4.  (weggefallen)
 
 
 5.  § 21a (Aufsicht).
@@ -104,7 +106,7 @@ nach Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
 
 
 ### § 4 Geltungsbereich, Erteilung und Entziehung der CEMT-Genehmigung
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000501305)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000502123)
 
 (1) Die CEMT-Genehmigung nach der Resolution des Ministerrates der
 Europäischen Konferenz der Verkehrsminister (CEMT) über das
@@ -113,9 +115,10 @@ Straßengüterverkehr vom 14. Juni 1973 (BGBl. 1974 II S. 298) in der
 jeweils geltenden Fassung wird einem Unternehmer mit Sitz des
 Unternehmens in Deutschland erteilt, der
 
-1.  Inhaber einer Erlaubnis im Sinne des § 3 des
-    Güterkraftverkehrsgesetzes oder einer Gemeinschaftslizenz im Sinne des
-    Artikels 4 der Verordnung (EG) Nr. 1072/2009 ist und
+1.  Inhaber einer Erlaubnis nach § 3 Absatz 2 des
+    Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden
+    Fassung oder einer Gemeinschaftslizenz im Sinne des Artikels 4 der
+    Verordnung (EG) Nr. 1072/2009 ist und
 
 
 2.  die Voraussetzungen dafür erfüllt, dass die Genehmigung hinreichend
@@ -133,22 +136,25 @@ des Kalenderjahres, in dem die Erteilung erfolgt.
 schriftlich bis zum 1. Oktober des Antragsjahres bei der Außenstelle
 des Bundesamtes zu stellen, in deren Bezirk der Unternehmer den Sitz
 seines Unternehmens hat. Der Antragsteller hat seinem Antrag eine
-Kopie der Erlaubnis oder Gemeinschaftslizenz beizufügen. Die weiteren
-Einzelheiten des Erteilungsverfahrens (öffentliche Ausschreibung),
-insbesondere zu den Voraussetzungen einer hinreichenden Nutzung der
-Genehmigung, werden durch eine Richtlinie geregelt, die das
-Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen
-mit den obersten Verkehrsbehörden der Länder erlässt. Liegen zwingende
-betriebliche oder persönliche Belange eines Bewerbers vor, zum
-Beispiel im Erbfall oder wenn ein Unternehmen oder ein
-selbstständiger, abgrenzbarer Unternehmensteil weitergeführt werden
-soll, so kann im Einzelfall von einer öffentlichen Ausschreibung
-abgesehen werden.
+Kopie der Erlaubnis nach § 3 Absatz 2 des Güterkraftverkehrsgesetzes
+in der am 26. Februar 2026 geltenden Fassung oder Gemeinschaftslizenz
+beizufügen. Die weiteren Einzelheiten des Erteilungsverfahrens
+(öffentliche Ausschreibung), insbesondere zu den Voraussetzungen einer
+hinreichenden Nutzung der Genehmigung, werden durch eine Richtlinie
+geregelt, die das Bundesministerium für Verkehr und digitale
+Infrastruktur im Benehmen mit den obersten Verkehrsbehörden der Länder
+erlässt. Liegen zwingende betriebliche oder persönliche Belange eines
+Bewerbers vor, zum Beispiel im Erbfall oder wenn ein Unternehmen oder
+ein selbstständiger, abgrenzbarer Unternehmensteil weitergeführt
+werden soll, so kann im Einzelfall von einer öffentlichen
+Ausschreibung abgesehen werden.
 
 (3) Die CEMT-Genehmigung wird auf den Namen des Unternehmers
 ausgestellt und ist nicht übertragbar. Sie ersetzt auf dem
-Streckenteil im Inland die nach § 3 des Güterkraftverkehrsgesetzes
-erforderliche Erlaubnis.
+Streckenteil im Inland die erforderliche Gemeinschaftslizenz nach § 3
+Absatz 1 des Güterkraftverkehrsgesetzes oder Erlaubnis nach § 3 Absatz
+2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026 geltenden
+Fassung.
 
 (4) Die CEMT-Genehmigung kann unter Bedingungen, Auflagen oder mit
 verkehrsmäßigen Beschränkungen erteilt werden.
@@ -159,7 +165,7 @@ Güterkraftverkehrsgesetzes entsprechend:
 1.  § 3 Absatz 2 (Anforderungen an die Berufszugangsbedingungen),
 
 
-2.  § 3 Absatz 5 (Rücknahme und Widerruf der Erlaubnis) und
+2.  § 3 Absatz 4 und
 
 
 3.  § 8 (vorläufige Weiterführung der Güterkraftverkehrsgeschäfte).
@@ -226,7 +232,7 @@ beide Urkunden dem Bundesamt unverzüglich zurückzugeben.
 
 
 ### § 7 CEMT-Umzugsgenehmigung
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000801123)
 
 (1) Die CEMT-Umzugsgenehmigung im Sinne des Kapitels III Abschnitt 3.4
 der Gesamtresolution des Ministerrates der Europäischen Konferenz der
@@ -234,13 +240,16 @@ Verkehrsminister (CEMT) zum Straßengüterverkehr vom 27. Mai 1994
 (BGBl. 1998 II S. 32) wird einem Unternehmer erteilt, der die
 Voraussetzungen des § 4 Absatz 1 Satz 1 Nummer 1 erfüllt. Sie gilt für
 jeweils fünf Jahre. Zuständige Erteilungsbehörde ist das Bundesamt.
-Der Unternehmer hat seinem Antrag eine Kopie der Erlaubnis oder
-Gemeinschaftslizenz beizufügen.
+Der Unternehmer hat seinem Antrag eine Kopie der Erlaubnis nach § 3
+Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026
+geltenden Fassung oder Gemeinschaftslizenz beizufügen.
 
 (2) Die CEMT-Umzugsgenehmigung wird auf den Namen des Unternehmers
 ausgestellt und ist nicht übertragbar. Sie ersetzt auf dem
-Streckenteil im Inland die nach § 3 des Güterkraftverkehrsgesetzes
-erforderliche Erlaubnis.
+Streckenteil im Inland die nach erforderliche Gemeinschaftslizenz nach
+§ 3 Absatz 1 des Güterkraftverkehrsgesetzes oder Erlaubnis nach § 3
+Absatz 2 des Güterkraftverkehrsgesetzes in der am 26. Februar 2026
+geltenden Fassung.
 
 (3) Die CEMT-Umzugsgenehmigung kann unter Bedingungen, Auflagen oder
 mit verkehrsmäßigen Beschränkungen erteilt werden.
@@ -251,7 +260,7 @@ Güterkraftverkehrsgesetzes entsprechend:
 1.  § 3 Absatz 2 (Anforderungen an die Berufszugangsbedingungen),
 
 
-2.  § 3 Absatz 5 (Rücknahme und Widerruf der Erlaubnis) und
+2.  § 3 Absatz 4 und
 
 
 3.  § 8 (vorläufige Weiterführung der Güterkraftverkehrsgeschäfte).
@@ -307,7 +316,7 @@ Voraussetzungen:
 
 
 ### § 8 Geltung der bilateralen Genehmigung auf dem inländischen Streckenteil
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001001123)
 
 (1) Die zuständige inländische Behörde stellt einem Unternehmer,
 dessen Unternehmen seinen Sitz im Inland hat, die bilaterale
@@ -317,8 +326,8 @@ weder Mitglied der Europäischen Union noch anderer Vertragsstaat des
 Abkommens über den Europäischen Wirtschaftsraum ist, wenn der
 Unternehmer die Berufszugangsvoraussetzungen nach § 3 des
 Güterkraftverkehrsgesetzes erfüllt. Diese Genehmigung ersetzt auf dem
-Streckenteil im Inland die nach § 3 des Güterkraftverkehrsgesetzes
-erforderliche Erlaubnis.
+Streckenteil im Inland die erforderliche Gemeinschaftslizenz nach § 3
+Absatz 1 des Güterkraftverkehrsgesetzes.
 
 (2) Ändert sich der Name des Unternehmers oder der Sitz des
 Unternehmens, so hat der Unternehmer die bilaterale Genehmigung der
@@ -332,7 +341,7 @@ der ausstellenden Behörde unverzüglich zurückzugeben.
 
 
 ### § 9 Geltungsbereich der Drittstaatengenehmigung
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001101123)
 
 Ein Unternehmer, dessen Unternehmen seinen Sitz nicht im Inland hat,
 muss Inhaber einer Drittstaatengenehmigung sein, wenn er im
@@ -340,8 +349,9 @@ grenzüberschreitenden gewerblichen Güterkraftverkehr von oder nach
 einem oder durch einen Staat, der weder Mitglied der Europäischen
 Union noch anderer Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum ist, auf dem inländischen Streckenteil keine dafür
-erforderliche Berechtigung nach § 6 Satz 2 Nummer 1 bis 3a des
-Güterkraftverkehrsgesetzes verwendet.
+erforderliche in § 5 Absatz 1 Nummer 1 bis 3 des
+Güterkraftverkehrsgesetzes genannte güterkraftverkehrsrechtliche
+Berechtigung verwendet.
 
 
 ### § 10 Erteilung der Drittstaatengenehmigung
@@ -778,9 +788,9 @@ schriftlich mit.
 
 
 ### § 25 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002801305)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002802123)
 
-Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des
+Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 Buchstabe a des
 Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht

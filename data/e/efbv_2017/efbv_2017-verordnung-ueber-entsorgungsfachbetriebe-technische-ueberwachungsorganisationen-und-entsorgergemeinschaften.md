@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 2770
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.12.2022 I 2240
-
-Änderung durch
-:   Art. 9 Abs. 1 G v. 30.9.2025 I Nr. 233 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 Abs. 1 G v. 30.9.2025 I Nr. 233
 
 Stand: Ersetzt V 2129-27-2-5 v. 10.9.1996 I 1421 (EfbV)
 
@@ -1551,7 +1548,8 @@ Vordrucks nach Anlage 3 entsprechen.
 ### Anlage 1 Lehrgangsinhalte
 [Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003302130)
 
-(Fundstelle: BGBl. I 2016, 2782 - 2783)
+(Fundstelle: BGBl. I 2016, 2782 - 2783;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Lehrgänge sollen Kenntnisse insbesondere über folgende Bereiche
 vermitteln:

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 220
 
-Geändert durch
-:   Art. 1 G v. 17.7.2025 I Nr. 165
+Zuletzt geändert durch
+:   Art. 1 G v. 4.2.2026 I Nr. 34
 
 [^F827016_01_BJNR0DC0A0023]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -1763,7 +1763,7 @@ anzuwenden.
 
 
 ### § 40 Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004201119)
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004202119)
 
 (1) Abweichend von § 12 Absatz 1 sind Haltungseinrichtungen, in denen
 am 24. August 2023 Tiere gehalten werden, von denen nach § 3 Absatz 1
@@ -1773,7 +1773,7 @@ August 2024 mitzuteilen. Auf die Mitteilung ist § 12 Absatz 2 bis 5
 anzuwenden.
 
 (2) Nach Maßgabe dieses Gesetzes kennzeichnungspflichtige
-Lebensmittel, die vor dem 1. März 2026 in Verkehr gebracht oder
+Lebensmittel, die vor dem 1. Januar 2027 in Verkehr gebracht oder
 gekennzeichnet werden und die den Anforderungen dieses Gesetzes nicht
 entsprechen, dürfen weiterhin in Verkehr gebracht werden, bis die
 jeweiligen Bestände aufgebraucht sind.

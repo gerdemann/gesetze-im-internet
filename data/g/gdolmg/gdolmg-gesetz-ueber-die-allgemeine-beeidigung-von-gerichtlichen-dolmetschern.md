@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2121, 2124
 
-Geändert durch
-:   Art. 7 G v. 25.6.2021 I 2099
-
-Änderung durch
-:   Art. 35 G v. 8.12.2025 I Nr. 319 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 35 G v. 8.12.2025 I Nr. 319
 
 Mittelbare änderung durch
 :   Art. 8 G v. 7.11.2022 I 1982 ist berücksichtigt

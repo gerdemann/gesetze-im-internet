@@ -25,10 +25,13 @@ Mittelbare änderung durch
 :   Art. 52 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 363 ist berücksichtigt
 
 Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
+
+Änderung durch
+:   Art. 62 Abs. 7 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
@@ -1276,7 +1279,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 
-2.  die Umsätze für die Seeschiffahrt und für die Luftfahrt (§ 8);
+2.  die Umsätze für die Seeschifffahrt und für die Luftfahrt (§ 8);
 
 
 3.  die folgenden sonstigen Leistungen:
@@ -1393,7 +1396,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
     e)  die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle im
-        Verkehr mit Wasserfahrzeugen für die Seeschiffahrt zwischen einem
+        Verkehr mit Wasserfahrzeugen für die Seeschifffahrt zwischen einem
         inländischen und ausländischen Seehafen und zwischen zwei
         ausländischen Seehäfen. Inländische Seehäfen im Sinne des Satzes 1
         sind auch die Freihäfen und Häfen auf der Insel Helgoland;
@@ -2901,17 +2904,17 @@ Unternehmer die Nachweise zu führen hat.
 Sinne des § 3 Abs. 9a Nr. 2.
 
 
-### § 8 Umsätze für die Seeschiffahrt und für die Luftfahrt
+### § 8 Umsätze für die Seeschifffahrt und für die Luftfahrt
 [Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002510140)
 
-(1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
+(1) Umsätze für die Seeschifffahrt (§ 4 Nr. 2) sind:
 
 1.  die Lieferungen, Umbauten, Instandsetzungen, Wartungen,
     Vercharterungen und Vermietungen von Wasserfahrzeugen für die
-    Seeschiffahrt, die dem Erwerb durch die Seeschiffahrt oder der Rettung
-    Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901 und 8902
-    00, aus Unterposition 8903 92 10, aus Position 8904 00 und aus
-    Unterposition 8906 90 10 des Zolltarifs);
+    Seeschifffahrt, die dem Erwerb durch die Seeschifffahrt oder der
+    Rettung Schiffbrüchiger zu dienen bestimmt sind (aus Positionen 8901
+    und 8902 00, aus Unterposition 8903 92 10, aus Position 8904 00 und
+    aus Unterposition 8906 90 10 des Zolltarifs);
 
 
 2.  die Lieferungen, Instandsetzungen, Wartungen und Vermietungen von
@@ -7030,7 +7033,7 @@ Datenübermittlungsverfahren nach Absatz 4 Satz 1 zu erlassen.
 
 
 ### § 22g Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012601123)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012602123)
 
 (1) Zahlungsdienstleister haben bei grenzüberschreitenden Zahlungen
 Folgendes aufzuzeichnen:
@@ -7206,8 +7209,9 @@ ausgeführt wurde, aufzubewahren.
     und des Rates vom 14. März 2012 zur Festlegung der technischen
     Vorschriften und der Geschäftsanforderungen für Überweisungen und
     Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr.
-    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), geändert durch die
-    Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1);
+    924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die
+    Verordnung (EU) 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden
+    ist;
 
 
 8.  „BIC“ eine internationale Bankleitzahl gemäß der Definition in Artikel

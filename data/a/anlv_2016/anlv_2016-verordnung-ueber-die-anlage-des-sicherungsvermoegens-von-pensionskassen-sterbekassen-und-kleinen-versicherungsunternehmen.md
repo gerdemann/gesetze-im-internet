@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 769
 
 Zuletzt geändert durch
-:   Art. 1 V v. 31.1.2025 I Nr. 31
+:   Art. 62 Abs. 9 G v. 4.2.2026 I Nr. 33
 
 
 ## Eingangsformel
@@ -93,7 +93,7 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
 
 
 ## § 2 Anlageformen
-[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000303129)
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000304128)
 
 (1) Das Sicherungsvermögen kann angelegt werden in
 
@@ -393,9 +393,11 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
         inländischen geschlossenen Publikums-AIF im Sinne des § 1 Absatz 3 in
         Verbindung mit Absatz 6 Satz 2 des Kapitalanlagegesetzbuchs,
 
-        aa) die direkt oder indirekt in Vermögensgegenstände nach § 231 Absatz 1
-            Satz 1 Nummer 1 bis 6 sowie § 235 Absatz 1 des
-            Kapitalanlagegesetzbuchs investieren und
+        aa) die direkt oder indirekt investieren in Vermögensgegenstände nach §
+            231 Absatz 1 Satz 1 Nummer 1 bis 6, 8 und Absatz 3 sowie § 235 Absatz
+            1 des Kapitalanlagegesetzbuchs und in Liquiditätsanlagen, die
+            näherungsweise den Anforderungen des § 253 Absatz 1 Satz 1 des
+            Kapitalanlagegesetzbuchs entsprechen, und
 
 
         bb) die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die

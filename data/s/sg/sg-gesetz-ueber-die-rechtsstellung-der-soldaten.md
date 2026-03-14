@@ -18,18 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 30.5.2005 I 1482;
 
-Zuletzt geändert durch
-:   Art. 6 G v. 27.2.2025 I Nr. 72
-
-Änderung durch
-:   Art. 3 G v. 22.12.2025 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 11.1.2026 I Nr. 6 ist berücksichtigt
-
-Änderung durch
-:   Art. 5 G v. 9.1.2026 I Nr. 7 ist berücksichtigt
-
+Stand: zuletzt geändert Art. 5 G v. 9.1.2026 I Nr. 7
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000103310)
@@ -4770,10 +4759,10 @@ vorbehalten.
 [Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008509311)
 
 (1) Bis 2035 ist der Aufwuchs der Streitkräfte auf 460 000 Soldatinnen
-und Soldaten, davon bis zu
-260 000 aktive Soldatinnen und Soldaten und mindestens 200 000
-Reservistinnen und Reservisten zur Erfüllung der NATO-Fähigkeitsziele,
-vorgesehen. Dem liegt folgender Aufwuchspfad zugrunde:
+und Soldaten, davon bis zu 260 000 aktive Soldatinnen und Soldaten und
+mindestens 200 000 Reservistinnen und Reservisten zur Erfüllung der
+NATO-Fähigkeitsziele, vorgesehen. Dem liegt folgender Aufwuchspfad
+zugrunde:
 
 *    *   Jahr
 

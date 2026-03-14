@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 9
 
+Geändert durch
+:   Art. 47 G v. 4.2.2026 I Nr. 33
+
 [^F828485_01_BJNR0090A0024]:     Diese Verordnung dient der weiteren Umsetzung von Artikel 4 Absatz 3
     und 5 der Richtlinie (EU) 2019/2034 des Europäischen Parlaments und
     des Rates vom 27. November 2019 über die Beaufsichtigung von
@@ -215,7 +218,7 @@ der Bundesanstalt vollständig eingegangen ist.
 
 
 ### § 6 Erfüllung unionsrechtlicher Vorgaben
-[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000701128)
 
 (1) Zum Nachweis der Angaben nach Artikel 3 Absatz 1 Buchstabe a und
 Artikel 6 Buchstabe a der Delegierten Verordnung (EU) 2017/1946 haben
@@ -336,11 +339,13 @@ Bundeszentralregistergesetzes ausreichend.
 
 (5) Personen nach Absatz 4 Satz 1, die innerhalb der letzten zehn
 Jahre einen Wohnsitz in Deutschland innehatten oder eine berufliche
-Tätigkeit in Deutschland ausgeübt haben, haben zusätzlich einen Auszug
-aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung
-einzureichen. Der Registerauszug darf zum Zeitpunkt des Einreichens
-nicht älter als drei Monate sein. Maßgeblich hierfür ist das
-Ausstellungsdatum des Dokuments.
+Tätigkeit in Deutschland ausgeübt haben, haben zusätzlich beim
+Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach
+§ 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu
+beantragen. Sofern der Bundesanstalt bereits ein Auszug aus dem
+Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung
+vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt,
+ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
 (6) Für die Zwecke des Artikel 5 Absatz 1 Buchstabe a der Delegierten
 Verordnung (EU) 2017/1946 gilt Absatz 5 für anzeigepflichtige nicht

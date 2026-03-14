@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 397
 
-Geändert durch
-:   Art. 39 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 353 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 G v. 22.12.2025 I Nr. 353
 
 
 ## Teil 1 - Allgemeine Vorschriften

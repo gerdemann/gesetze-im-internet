@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3245
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.11.2025 I Nr. 277
+:   Art. 38 G v. 4.2.2026 I Nr. 33
 
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie
 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006
@@ -731,22 +731,20 @@ Unterlagen in englischer Sprache verzichten.
 
 
 ## § 5d Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
-[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003001128)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003002128)
 
-(1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
+Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
 nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer
-15 des Kreditwesengesetzes genannten Personen haben bei der
-Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150
-der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person
-weder in den letzten zehn Jahren in der Bundesrepublik Deutschland
-einen Wohnsitz hatte noch in den letzten zehn Jahren in der
-Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat.
-
-(2) Der Registerauszug darf zum Zeitpunkt der Erstattung der Anzeige
-nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach §
-24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei
-Monate sein. Maßgeblich ist das Datum der Ausstellung des
-Registerauszuges.
+15 des Kreditwesengesetzes genannten Personen haben beim Bundesamt für
+Justiz einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5
+der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen.
+Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in
+der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den
+letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche
+Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits ein Auszug
+aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung
+vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt,
+ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
 
 ## § 5e Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)

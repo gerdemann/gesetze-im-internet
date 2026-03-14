@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 405
 
+Änderung durch
+:   Art. 4 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000200000)
@@ -784,9 +787,9 @@ Ordnungswidrig handelt, wer gegen die Durchführungsverordnung (EU)
 
 
 ## § 13 Höhe der Geldbuße
-[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001401119)
 
-Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu vierzigtausend
+Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend
 Euro geahndet werden.
 
 

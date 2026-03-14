@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 4 G v. 1.12.2025 I Nr. 295 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 Abs. 4 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Autobahn- und Bundesstraßenmaut
 [Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000112123)
@@ -911,7 +914,7 @@ zuständig.
 
 
 ## § 7 Kontrolle
-[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000708123)
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000709123)
 
 (1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung
 der Vorschriften dieses Gesetzes. Das Bundesamt für Logistik und
@@ -1053,14 +1056,14 @@ Kontrolle befugten Personen zur Prüfung auszuhändigen. Er hat darüber
 hinaus den Fahrzeugschein oder die Zulassungsbescheinigung Teil I, die
 vorgeschriebenen Beförderungspapiere und den Führerschein den zur
 Kontrolle befugten Personen zur Prüfung auszuhändigen. Sofern für
-Fahrten eine Berechtigung (Erlaubnis nach dem Güterkraftverkehrsgesetz
-und Nachweise über die Beschäftigung und die Tätigkeiten des
-Fahrpersonals auf Kraftfahrzeugen, Gemeinschaftslizenz, CEMT-, CEMT-
-Umzugs- oder Drittstaatengenehmigung) oder ein Nachweis der Erfüllung
-bestimmter Technik-, Sicherheits- und Umweltanforderungen für das
-Kraftfahrzeug vorgeschrieben ist, gilt Satz 2 entsprechend. Der
-Fahrzeugführer hat auf Verlangen Auskunft über alle Tatsachen zu
-erteilen, die für die Durchführung der Kontrolle von Bedeutung sind.
+Fahrten eine güterkraftverkehrsrechtliche Berechtigung im Sinne des
+§ 1 Absatz 5 des Güterkraftverkehrsgesetzes, ein Nachweis über die
+Beschäftigung und die Tätigkeiten des Fahrpersonals auf
+Kraftfahrzeugen oder ein Nachweis der Erfüllung bestimmter Technik-,
+Sicherheits- und Umweltanforderungen für das Kraftfahrzeug
+vorgeschrieben ist, gilt Satz 2 entsprechend. Der Fahrzeugführer hat
+auf Verlangen Auskunft über alle Tatsachen zu erteilen, die für die
+Durchführung der Kontrolle von Bedeutung sind.
 
 (6) Es ist verboten, als Mautschuldner nach § 2 Nummer 1 oder 2
 anzuordnen oder zuzulassen, dass der Fahrzeugführer

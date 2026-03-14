@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1037
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.2.2024 I Nr. 50
+:   Art. 1 V v. 2.3.2026 I Nr. 55
 
 Diese Verordnung dient der Umsetzung der Richtlinie 1999/94/EG des
 Europäischen Parlaments und des Rates vom 13. Dezember 1999 über die
@@ -976,9 +976,10 @@ Der Bundesrat hat zugestimmt.
 Hinweis über den Energieverbrauch und die CO
 
 ## Anlage 1 -Emissionen neuer Personenkraftwagen
-[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001203128)
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001204128)
 
-(Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17)
+(Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Teil I
 ## Inhalt und Gestaltung des Hinweises
@@ -1360,11 +1361,12 @@ Kraftstoffkombinationen. Die Abbildungen sind verkleinert dargestellt.
 
 4.  Muster 4 für Personenkraftwagen mit rein elektrischem Antrieb:
 
-    ![bgbl1_2024_j00500_0040.jpg](bgbl1_2024_j00500_0040.jpg)
+    ![bgbl1_2026_j00550_0010.jpg](bgbl1_2026_j00550_0010.jpg)
 
 5.  Muster 5 für ein Brennstoffzellenfahrzeug:
 
-    ![bgbl1_2024_j00500_0050.jpg](bgbl1_2024_j00500_0050.jpg)
+    ![bgbl1_2026_j00550_0020.jpg](bgbl1_2026_j00550_0020.jpg)
+
 
 
 
@@ -1372,7 +1374,7 @@ Kraftstoffkombinationen. Die Abbildungen sind verkleinert dargestellt.
 Aushang am Verkaufsort über den Energieverbrauch und die CO
 
 ## Anlage 2 -Emissionen neuer Personenkraftwagen
-[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001302128)
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001303128)
 
 (Fundstelle: BGBl. I 2004, 1042;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1583,9 +1585,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
     Nummer 9 aufgeführten Hinweise ständig sichtbar sind.
 
 
-4.  Die Angaben sind mindestens alle drei Monate zu aktualisieren. Die
-    Angaben sind mindestens alle drei Monate zu aktualisieren. Das Datum
-    der letzten Aktualisierung ist anzugeben.
+4.  Die Angaben sind mindestens alle drei Monate zu aktualisieren. Das
+    Datum der letzten Aktualisierung ist anzugeben.
 
 
 

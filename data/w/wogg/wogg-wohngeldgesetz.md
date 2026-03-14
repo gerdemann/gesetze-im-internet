@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 361
+:   Art. 62 Abs. 6 G v. 4.2.2026 I Nr. 33
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
@@ -1706,7 +1706,7 @@ Erhöhung der Miete oder Belastung folgt.
 
 
 ### § 26 Zahlung des Wohngeldes
-[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002702305)
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002703126)
 
 (1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es
 kann mit schriftlicher Einwilligung der wohngeldberechtigten Person
@@ -1723,10 +1723,12 @@ Haushaltsmitgliedes bei einem Geldinstitut, für das die Verordnung
 März 2012 zur Festlegung der technischen Vorschriften und der
 Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
 zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt (Geldinstitut), zu zahlen. Ist ein solches
-Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der
-wohngeldberechtigten Person übermittelt werden; die dadurch
-veranlassten Kosten sollen vom Wohngeld abgezogen werden.
+30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
+(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt
+(Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann
+das Wohngeld an den Wohnsitz der wohngeldberechtigten Person
+übermittelt werden; die dadurch veranlassten Kosten sollen vom
+Wohngeld abgezogen werden.
 
 
 ### § 26a Vorläufige Zahlung des Wohngeldes

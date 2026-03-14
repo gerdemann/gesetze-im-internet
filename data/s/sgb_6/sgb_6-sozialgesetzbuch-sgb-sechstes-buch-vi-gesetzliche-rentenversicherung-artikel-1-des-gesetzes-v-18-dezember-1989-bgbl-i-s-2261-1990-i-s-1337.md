@@ -20,20 +20,21 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2025 I Nr. 345
-
-Änderung durch
-:   Art. 1 G v. 22.12.2025 I Nr. 355 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
 :   Art. 1 G v. 22.12.2025 I Nr. 362 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 13 G v. 22.12.2025 I Nr. 369 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
 
 Änderung durch
-:   Art. 12 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 16.1.2026 I Nr. 14 ist berücksichtigt
 
+Änderung durch
+:   Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
+
+Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -4503,7 +4504,6 @@ ständigen Arbeiten unter Tage zu gleichen Teilen zugeordnet.
 ###### § 86 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019005308)
 
--
 
 
 ###### § 86a Zugangsfaktor
@@ -4932,7 +4932,6 @@ verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 ##### § 94 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019805301)
 
--
 
 
 ##### § 95 (weggefallen)
@@ -6202,7 +6201,7 @@ Versicherung entschieden werden.
 
 
 ##### § 118 Fälligkeit und Auszahlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022213130)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022214130)
 
 (1) Laufende Geldleistungen mit Ausnahme des Übergangsgeldes werden am
 Ende des Monats fällig, zu dessen Beginn die Anspruchsvoraussetzungen
@@ -6242,19 +6241,15 @@ von ihm mit der Zahlung beauftragten Geldinstitut.
 
 (3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
 ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
-260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
-zur Festlegung der technischen Vorschriften und der
-Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
-zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
-erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
-Träger der Rentenversicherung zurückzuüberweisen, wenn diese sie als
-zu Unrecht erbracht zurückfordern. Eine Verpflichtung zur
-Rücküberweisung besteht nicht, soweit über den entsprechenden Betrag
-bei Eingang der Rückforderung bereits anderweitig verfügt wurde, es
-sei denn, dass die Rücküberweisung aus einem Guthaben erfolgen kann.
-Das Geldinstitut darf den überwiesenen Betrag nicht zur Befriedigung
-eigener Forderungen verwenden.
+260/2012 gilt, überwiesen wurden, gelten als unter Vorbehalt erbracht.
+Das Geldinstitut hat sie der überweisenden Stelle oder dem Träger der
+Rentenversicherung zurückzuüberweisen, wenn diese sie als zu Unrecht
+erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht
+nicht, soweit über den entsprechenden Betrag bei Eingang der
+Rückforderung bereits anderweitig verfügt wurde, es sei denn, dass die
+Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
+darf den überwiesenen Betrag nicht zur Befriedigung eigener
+Forderungen verwenden.
 
 (4) Soweit Geldleistungen für die Zeit nach dem Tod des Berechtigten
 zu Unrecht erbracht worden sind, sind sowohl die Personen, die die
@@ -7976,10 +7971,9 @@ Bundesamt für Soziale Sicherung übertragen.
 (5) (weggefallen)
 
 
-##### § 146
+##### § 146 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025006308)
 
-(weggefallen)
 
 
 ### Zweiter Abschnitt - Datenschutz und Datensicherheit
@@ -8258,7 +8252,7 @@ einer Leistung entschieden.
 
 
 #### § 150 Dateisysteme bei der Datenstelle
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025436130)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025437130)
 
 (1) Bei der Datenstelle darf eine Stammsatzdatei geführt werden,
 soweit dies erforderlich ist, um
@@ -8346,7 +8340,13 @@ enthalten:
 7.  Betriebsnummer des Arbeitgebers,
 
 
-8.  Tag der Beschäftigungsaufnahme.
+8.  Tag der Beschäftigungsaufnahme,
+
+
+9.  Geburtsdatum,
+
+
+10. die Identifikationsnummer nach dem Identifikationsnummerngesetz.
 
 
 
@@ -11126,11 +11126,6 @@ zuständigen Träger der Rentenversicherung weiterzuleiten.
 (4) (weggefallen)
 
 
-###### § 196a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063402124)
-
-
-
 ##### Dritter Titel - Wirksamkeit der Beitragszahlung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006601308)
 
@@ -11860,10 +11855,9 @@ Nachhaltigkeitsrücklage nicht ausreichen, die Zahlungsverpflichtungen
 zu erfüllen.
 
 
-##### § 218
+##### § 218 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032306308)
 
-(weggefallen)
 
 
 ##### § 219 Finanzverbund in der allgemeinen Rentenversicherung
@@ -12253,16 +12247,6 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des
 Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht
 mehr oder nur noch übergangsweise eintreten können.
-
-
-##### § 228a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043611119)
-
-
-
-##### § 228b (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043704119)
-
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
@@ -17140,11 +17124,6 @@ Zusatzrentenversicherung nicht gezahlt werden konnten.
 anzuwenden.
 
 
-##### § 256d (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054202308)
-
-
-
 ##### § 257 Entgeltpunkte für Berliner Beitragszeiten
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036202308)
 
@@ -17309,12 +17288,6 @@ Sozialpflichtversicherung oder in der freiwilligen
 Zusatzrentenversicherung zurückgelegt worden sind, wenn diese Zeiten,
 hätte das Versorgungssystem bereits bestanden, im Versorgungssystem
 zurückgelegt worden wären.
-
-
-##### § 259c
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046101308)
-
-(weggefallen)
 
 
 ##### § 260 Beitragsbemessungsgrenzen
@@ -17859,11 +17832,6 @@ ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die
 in den Absätzen 5 und 6 genannten Zeiten.
 
 
-##### § 263a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046202119)
-
-
-
 ##### § 264 Zuschläge oder Abschläge beim Versorgungsausgleich
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036901308)
 
@@ -18378,17 +18346,6 @@ angegebenen Lebensalters maßgebend:
 35 Jahre treten.
 
 
-##### § 265a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046505119)
-
-
-
-##### § 265b
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046602308)
-
-(weggefallen)
-
-
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008103308)
 
@@ -18735,12 +18692,6 @@ gleichgestellt sind, gegeben ist, entscheidet in Zweifelsfällen das
 Bundesamt für Soziale Sicherung.
 
 
-###### § 273b
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052102308)
-
-(weggefallen)
-
-
 ##### Zweiter Titel - Datenverarbeitung und Datenschutz
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010502308)
 
@@ -18934,11 +18885,6 @@ Rentenversicherung besteht und beschließt die erforderlichen
 Maßnahmen.
 
 
-###### § 274d (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060301119)
-
-
-
 #### Elfter Unterabschnitt - Finanzierung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008601308)
 
@@ -18956,22 +18902,7 @@ Maßnahmen.
 
 
 ##### Zweiter Titel - Beiträge
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008801308)
-
-
-
-###### § 275a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047007119)
-
-
-
-###### § 275b (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047102119)
-
-
-
-###### § 275c (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058701308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008802126)
 
 
 
@@ -19019,12 +18950,6 @@ werden von den Arbeitgebern in Höhe der Hälfte des Betrages getragen,
 der sich ergibt, wenn der Beitragssatz auf das der Beschäftigung
 zugrundeliegende Arbeitsentgelt angewendet wird, im Übrigen von den
 Beschäftigten.
-
-
-###### § 276c (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059201301)
-
--
 
 
 ###### § 277 Beitragsrecht bei Nachversicherung
@@ -19386,12 +19311,6 @@ aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten
 nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung
 einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig, wenn
 der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
-
-
-###### § 284a
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048102308)
-
-(weggefallen)
 
 
 ###### § 285 Nachzahlung bei Nachversicherung
@@ -20213,11 +20132,6 @@ für die Berechnung von Renten jeweils maßgebenden aktuellen
 Rentenwerts.
 
 
-##### § 295a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049906119)
-
-
-
 ##### § 296 Beginn und Ende
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040201308)
 
@@ -20232,12 +20146,6 @@ Kalendermonat, zu dessen Beginn der Wegfall wirksam ist.
 
 (4) Die Leistung wird bis zum Ende des Kalendermonats gezahlt, in dem
 die Berechtigte gestorben ist.
-
-
-##### § 296a
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050002308)
-
-(weggefallen)
 
 
 ##### § 297 Zuständigkeit
@@ -20398,11 +20306,6 @@ Leistungen zur medizinischen Rehabilitation aufgrund von
 Vereinbarungen mit einem Träger der Rentenversicherung erbracht haben,
 gilt eine Zulassungsentscheidung als erteilt, sofern die Anforderungen
 nach § 15 Absatz 3 erfüllt sind.
-
-
-##### § 301a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056702130)
-
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -21950,10 +21853,9 @@ wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen
 Betrages weitergeleistet.
 
 
-##### § 316
+##### § 316 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042202308)
 
-(weggefallen)
 
 
 #### Siebter Unterabschnitt - Leistungen an Berechtigte im Ausland
@@ -21996,11 +21898,6 @@ oder hätte sie berücksichtigt werden können, gilt dies auch weiterhin.
 sie auf diese Rente bereits für die Zeit, in der sie ihren
 gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch
 hatten.
-
-
-##### § 317a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063103130)
-
 
 
 ##### § 318 (weggefallen)
@@ -22184,11 +22081,6 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
-
-
-### § 322 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE065201126)
-
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
@@ -50560,10 +50452,9 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 (weggefallen)
 
 
-### Anlage 18
+### Anlage 18 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053203308)
 
-(weggefallen)
 
 
 ### Anlage 19
@@ -52768,24 +52659,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
 
 
-
-
-### Anlage 21 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053503301)
-
--
-
-
-### Anlage 22 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055405301)
-
--
-
-
-### Anlage 23 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055504301)
-
--
 
 Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
 (BGBl. II 1990, 889, 1060)
