@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 85
 
+Änderung durch
+:   Art. 2 Abs. 18 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000100000)
@@ -55,7 +58,7 @@ Diese Verordnung regelt den Aufstieg
 
 
 ### § 2 Zulassung zum Aufstieg
-[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000401311)
 
 (1) Zum Aufstieg in den höheren technischen Verwaltungsdienst des
 Bundes – Fachrichtung Informationstechnik – über den Masterstudiengang
@@ -72,7 +75,7 @@ eine Beamtin oder ein Beamter zugelassen werden, wenn sie oder er
     Bundeswehr München erfüllt und
 
 
-3.  an einem Auswahlverfahren nach § 36 der Bundeslaufbahnverordnung
+3.  an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung
     erfolgreich teilgenommen hat.
 
 
@@ -94,7 +97,7 @@ werden, wenn sie oder er
     Bundeswehr München erfüllt und
 
 
-3.  an einem Auswahlverfahren nach § 36 der Bundeslaufbahnverordnung
+3.  an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung
     erfolgreich teilgenommen hat.
 
 
@@ -466,10 +469,10 @@ den Aufgaben der höheren Laufbahn bewährt hat.
 
 
 ### § 17 Verlängerung des Aufstiegsverfahrens
-[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001900000)
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001901311)
 
 (1) Das Aufstiegsverfahren kann wegen Unterbrechungen verlängert
-werden, höchstens jedoch insgesamt um drei Jahre. § 15 Absatz 1 und 2
+werden, höchstens jedoch insgesamt um drei Jahre. § 18 Absatz 1 und 2
 der Bundeslaufbahnverordnung gilt entsprechend.
 
 (2) Die Entscheidung über die Verlängerung trifft die zuständige

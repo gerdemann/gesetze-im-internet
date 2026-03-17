@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 301, 2
 
+Geändert durch
+:   Art. 4 G v. 11.3.2026 I Nr. 66
+
 Stand: Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -33,7 +36,7 @@ wissenschaftlich-technischer Erkenntnisse durch.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000301130)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -224,10 +227,8 @@ Im Sinne dieses Gesetzes ist oder sind
     ausschließlich in deren eigener Zuständigkeit betrieben wird;
 
 
-22. „kritische Anlage“ eine Anlage, die für die Erbringung einer
-    kritischen Dienstleistung erheblich ist; die kritischen Anlagen im
-    Sinne dieses Gesetzes werden durch die Rechtsverordnung nach § 56
-    Absatz 4 näher bestimmt;
+22. „kritische Anlage“ eine Anlage im Sinne des § 2 Nummer 3 des KRITIS-
+    Dachgesetzes;
 
 
 23. „kritische Komponenten“ IKT-Produkte, die in einer Rechtsverordnung
@@ -235,14 +236,8 @@ Im Sinne dieses Gesetzes ist oder sind
     werden.
 
 
-24. „kritische Dienstleistung“ eine Dienstleistung zur Versorgung der
-    Allgemeinheit in den Sektoren Energie, Transport und Verkehr,
-    Finanzwesen, Leistungen der Sozialversicherung sowie der
-    Grundsicherung für Arbeitsuchende, Gesundheitswesen, Wasser,
-    Ernährung, Informationstechnik und Telekommunikation, Weltraum oder
-    Siedlungsabfallentsorgung, deren Ausfall oder Beeinträchtigung zu
-    erheblichen Versorgungsengpässen oder zu Gefährdungen der öffentlichen
-    Sicherheit führen würde;
+24. „kritische Dienstleistung“ eine Dienstleistung im Sinne des § 2 Nummer
+    4 des KRITIS-Dachgesetzes;
 
 
 25. „Managed Security Service Provider“ oder „MSSP“ ein Managed Service
@@ -1183,7 +1178,7 @@ entsprechend.
 
 
 #### § 11 Wiederherstellung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001201130)
 
 (1) Handelt es sich bei einer Beeinträchtigung der Sicherheit oder
 Funktionsfähigkeit eines informationstechnischen Systems einer
@@ -1226,6 +1221,10 @@ weitergeben, es sei denn, die Informationen lassen keine Rückschlüsse
 auf die Identität des Ersuchenden zu oder die Informationen können
 entsprechend § 8 Absatz 6 und 7 übermittelt werden. Zugang zu den in
 Verfahren nach Absatz 1 geführten Akten wird Dritten nicht gewährt.
+Hiervon sind erforderliche Informationsaustausche zwischen dem
+Bundesamt und dem Bundesamt für Bevölkerungsschutz und
+Katastrophenhilfe nach § 3 Absatz 7 des KRITIS-Dachgesetzes
+ausgenommen.
 
 (5) Das Bundesamt kann sich bei Maßnahmen nach Absatz 1 mit der
 Einwilligung des Ersuchenden der Hilfe qualifizierter Dritter
@@ -1901,7 +1900,7 @@ Interessen, Rechte und Freiheiten der betroffenen Person überwiegen.
 
 
 #### § 28 Besonders wichtige Einrichtungen und wichtige Einrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002900000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002901130)
 
 (1) Als besonders wichtige Einrichtung gelten
 
@@ -2048,17 +2047,7 @@ darstellt, findet dieser Absatz keine Anwendung.
 (7) § 32 gilt nicht für Betreiber kritischer Anlagen, soweit sie eine
 Anlage für Unternehmen nach Absatz 6 Nummer 1 betreiben.
 
-(8) Ein Betreiber kritischer Anlagen ist eine natürliche oder
-juristische Person oder eine rechtlich unselbstständige
-Organisationseinheit einer Gebietskörperschaft, die unter
-Berücksichtigung der rechtlichen, wirtschaftlichen und tatsächlichen
-Umstände bestimmenden Einfluss auf eine oder mehrere kritische Anlagen
-ausübt. Abweichend von Satz 1 hat im Sektor Finanzwesen bestimmenden
-Einfluss auf eine Anlage, wer die tatsächliche Sachherrschaft ausübt.
-Die rechtlichen und wirtschaftlichen Umstände bleiben insoweit
-unberücksichtigt.
-
-(9) Dieses Gesetz findet keine Anwendung auf rechtlich
+(8) Dieses Gesetz findet keine Anwendung auf rechtlich
 unselbstständige Organisationseinheiten von Gebietskörperschaften und
 auf juristische Personen, an denen ausschließlich
 Gebietskörperschaften, ausgenommen der Bund, beteiligt sind, wenn sie
@@ -2375,7 +2364,7 @@ Sicherheitsvorfalls machen.
 
 
 #### § 33 Registrierungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003400000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003401130)
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sowie
 Domain-Name-Registry-Diensteanbieter sind verpflichtet, spätestens
@@ -2408,15 +2397,8 @@ Registrierungsmöglichkeit folgende Angaben zu übermitteln:
 
 
 
-(2) Betreiber kritischer Anlagen übermitteln mit den Angaben nach
-Absatz 1 die kritische Dienstleistung, die bei ihnen zum Einsatz
-kommenden Typen von kritischen Komponenten, die öffentlichen IP-
-Adressbereiche der von ihnen betriebenen Anlagen sowie die für die von
-ihnen betriebenen kritischen Anlagen ermittelte Anlagenkategorie und
-die ermittelten Versorgungskennzahlen gemäß der Rechtsverordnung nach
-§ 56 Absatz 4 sowie den Standort der Anlagen und eine Kontaktstelle.
-Die Betreiber stellen sicher, dass sie über ihre in Satz 1 genannte
-Kontaktstelle jederzeit erreichbar sind.
+(2) Die Registrierung von Betreibern kritischer Anlagen erfolgt gemäß
+§ 8 des KRITIS-Dachgesetzes.
 
 (3) Die Registrierung von besonders wichtigen Einrichtungen und
 wichtigen Einrichtungen und Domain-Name-Registry-Diensteanbietern kann
@@ -2620,7 +2602,7 @@ der Einrichtung erbrachten Dienste beurteilen zu können.
 
 
 #### § 39 Nachweispflichten für Betreiber kritischer Anlagen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004000000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004001130)
 
 (1) Betreiber kritischer Anlagen haben die Umsetzung der Maßnahmen in
 Bezug auf kritische Anlagen nach § 30 Absatz 1 Satz 1 in Verbindung
@@ -2678,6 +2660,10 @@ Gesetzes vom 23. Juni 2021 (BGBl. I S. 1982) geändert worden ist,
 innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes
 abgelaufen wäre, können in diesem Zeitraum einen Nachweis nach den
 bisher geltenden Vorgaben erbringen.
+
+(4) Die Verpflichtung nach Absatz 1 Satz 1 gilt nicht für Betreiber
+kritischer Anlagen, die auf Grundlage von § 5 Absatz 7 des KRITIS-
+Dachgesetzes als solche bestimmt wurden.
 
 
 #### § 40 Nationale Verbindungsstelle sowie zentrale Melde- und Anlaufstelle für besonders wichtige und wichtige Einrichtungen
@@ -3675,7 +3661,7 @@ Befugnis des Bundesamtes zur Warnung nach § 13 bleibt davon unberührt.
 
 
 ### § 56 Ermächtigung zum Erlass von Rechtsverordnungen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005700000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005701130)
 
 (1) Das Bundesministerium des Innern bestimmt nach Anhörung der
 betroffenen Wirtschaftsverbände im Einvernehmen mit dem
@@ -3718,27 +3704,7 @@ Ausmaß der Risikoexposition der Einrichtung einen verpflichtenden
 Einsatz von zertifizierten Produkten, Diensten oder Prozessen in
 diesem Bereich erforderlich machen.
 
-(4) Das Bundesministerium des Innern bestimmt durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Energie, dem
-Bundesministerium der Finanzen, dem Bundesministerium der Justiz und
-für Verbraucherschutz, dem Bundesministerium für Arbeit und Soziales,
-dem Bundesministerium der Verteidigung, dem Bundesministerium für
-Landwirtschaft, Ernährung und Heimat, dem Bundesministerium für
-Gesundheit, dem Bundesministerium für Verkehr, dem Bundesministerium
-für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit, dem
-Bundesministerium für Forschung, Technologie und Raumfahrt und dem
-Bundesministerium für Digitales und Staatsmodernisierung unter
-Festlegung der in § 2 Nummer 24 genannten Sektoren wegen ihrer
-Bedeutung als kritisch anzusehenden Dienstleistungen und deren als
-bedeutend anzusehenden Versorgungsgrads, welche Anlagen als kritische
-Anlagen im Sinne dieses Gesetzes gelten. Der als bedeutend anzusehende
-Versorgungsgrad ist anhand branchenspezifischer Schwellenwerte für
-jede als kritisch anzusehende Dienstleistung zu bestimmen. Zugang zu
-Akten, die die Erstellung oder Änderung dieser Verordnung betreffen,
-wird nicht gewährt.
-
-(5) Das Bundesministerium des Innern kann im Einvernehmen mit dem
+(4) Das Bundesministerium des Innern kann im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie und im Benehmen mit dem
 Bundesministerium der Justiz und für Verbraucherschutz, dem
 Bundesministerium der Finanzen, dem Bundesministerium für Arbeit und
@@ -3761,7 +3727,7 @@ NIS-2-Richtlinie, die die Voraussetzungen eines erheblichen
 Sicherheitsvorfalls bestimmen, gehen der Rechtsverordnung nach den
 Sätzen 1 und 2 insoweit vor.
 
-(6) Das Bundesministerium des Innern kann durch Rechtsverordnung, die
+(5) Das Bundesministerium des Innern kann durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem
 Bundesministerium für Gesundheit bestimmen, dass das Bundesamt
 gegenüber zugelassenen Krankenhäusern nach § 108 des Fünften Buches
@@ -3770,7 +3736,7 @@ genannten Zeitpunkt die Vorlage von Nachweisen über die Erfüllung
 einzelner oder aller der in § 61 Absatz 1 genannten Verpflichtungen
 anordnen kann.
 
-(7) Das Bundesministerium des Innern kann durch Rechtsverordnungen,
+(6) Das Bundesministerium des Innern kann durch Rechtsverordnungen,
 die nicht der Zustimmung des Bundesrates bedürfen, für jeweils einen
 der in § 2 Nummer 24 aufgeführten Sektoren im Einvernehmen mit dem in
 § 41 Absatz 1 für den jeweiligen Sektor genannten Bundesministerium
@@ -3796,7 +3762,7 @@ bestimmt werden, wenn
 
 
 
-(8) Die in § 41 Absatz 1 genannten Bundesministerien können dem
+(7) Die in § 41 Absatz 1 genannten Bundesministerien können dem
 Bundesministerium des Innern einen Vorschlag für den Erlass einer
 Rechtsverordnung im Sinne des Absatzes 7 vorlegen. Das Vorschlagsrecht
 betrifft nur den Sektor im Sinne des § 2 Nummer 24, für den das
@@ -4118,7 +4084,7 @@ Durchsetzung.
 
 
 ### § 65 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006600000)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006601130)
 
 (1) Ordnungswidrig handelt, wer entgegen § 39 Absatz 1 Satz 1 in
 Verbindung mit einer Rechtsverordnung nach § 56 Absatz 4 Satz 1 einen
@@ -4128,8 +4094,8 @@ Nachweis nicht richtig oder nicht vollständig erbringt.
 
 1.  einer vollziehbaren Anordnung nach
 
-    a)  § 11 Absatz 6, § 16 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit
-        Absatz 3, Nummer 2, § 17 Satz 1 oder § 39 Absatz 1 Satz 5,
+    a)  § 11 Absatz 6, § 16 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4,
+        § 17 Satz 1 oder § 39 Absatz 1 Satz 5,
 
 
     b)  § 14 Absatz 2 Satz 1,
@@ -4329,6 +4295,20 @@ für einen Verstoß nach diesem Gesetz, der sich aus demselben Verhalten
 ergibt wie jener Verstoß, der Gegenstand der Geldbuße nach Artikel 58
 Absatz 2 Buchstabe i der Verordnung (EU) 2016/679 war, nicht verhängt
 werden.
+
+
+## Teil 9 - Anwendungsbestimmungen; Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG001400130)
+
+
+### § 66 Anwendungsbestimmungen und Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006900130)
+
+§ 2 Nummer 22 und 24 und § 33 Absatz 2 sind erst anzuwenden, wenn eine
+auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
+Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser
+Rechtsverordnung ist § 2 Nummer 22 und 24 in der bis einschließlich
+16\. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### Anlage 1 Sektoren besonders wichtiger und wichtiger Einrichtungen

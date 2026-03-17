@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 282
 
+Änderung durch
+:   Art. 2 Abs. 33 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-8-5-7 v. 2.6.2016 I 1322 (GntZollDVDV)
 
 ## Abschnitt 1 - Allgemeines
@@ -1856,22 +1859,15 @@ an der Prüfung gesonderte Erst- und Zweitprüfende zu bestellen sind.
 
 
 #### § 50 Wiederholung von Modulprüfungen
-[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005100000)
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005101311)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt
 werden. Ein reflektierter Praxisbericht wird wiederholt, indem er
 nachgebessert wird.
 
-(2) Abweichend von Absatz 1 können ein zweites Mal wiederholt werden:
-
-1.  eine Prüfung in einem der Pflichtmodule und
-
-
-2.  eine Prüfung in einem der Wahlpflichtmodule.
-
-
-
+(2) Abweichend von Absatz 1 Satz 1 können zwei nicht bestandene
+Modulprüfungen ein zweites Mal wiederholt werden.
 
 (3) Das weitere Studium wird wegen der Wiederholung nicht ausgesetzt.
 

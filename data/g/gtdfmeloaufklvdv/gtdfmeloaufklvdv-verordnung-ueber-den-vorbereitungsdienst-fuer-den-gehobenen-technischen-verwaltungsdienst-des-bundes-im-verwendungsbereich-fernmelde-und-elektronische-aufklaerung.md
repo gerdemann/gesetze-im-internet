@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst
-  der Fernmelde- und Elektronischen Aufklärung des Bundes
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst
+  des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung
 jurabk: GtDFmEloAufklVDV
 layout: default
 origslug: BJNR096200021
@@ -8,13 +8,16 @@ slug: gtdfmeloaufklvdv
 
 ---
 
-# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes (GtDFmEloAufklVDV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung (GtDFmEloAufklVDV)
 
 Ausfertigungsdatum
 :   2021-05-03
 
 Fundstelle
 :   BGBl I: 2021, 962
+
+Änderung durch
+:   Art. 2 Abs. 28 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 2030-7-14-2 v. 22.8.2006 I 2057 (LAP-gDFm/EloAufklBundV)
 
@@ -38,46 +41,48 @@ worden ist, verordnet das Bundesministerium der Verteidigung:
 
 
 ### § 1 Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000301311)
 
-Der Vorbereitungsdienst für den gehobenen technischen Dienst der
-Fernmelde- und Elektronischen Aufklärung des Bundes besteht aus der
-berufspraktischen Studienzeit und der Laufbahnprüfung nach dieser
-Verordnung.
+Der Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung besteht aus der berufspraktischen Studienzeit
+und der Laufbahnprüfung nach dieser Verordnung.
 
 
 ### § 2 Ziel und Inhalt des Vorbereitungsdienstes
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000401311)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und
 Anwärter zu befähigen, in den Dienststellen der Bundeswehr und des
 Bundesnachrichtendienstes die Aufgaben des gehobenen technischen
-Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes zu
-erfüllen.
+Verwaltungsdienstes des Bundes im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung zu erfüllen.
 
 (2) Die berufspraktische Studienzeit vermittelt den Anwärterinnen und
 Anwärtern in enger Verbindung von Theorie und Praxis die Kenntnisse
 und die berufspraktischen Fähigkeiten, die zur Aufgabenerfüllung in
-ihrer Laufbahn erforderlich sind. Insbesondere werden
+ihrer Laufbahn erforderlich sind. Insbesondere
 
-1.  ihnen die erforderlichen fachbezogenen technischen Kenntnisse für die
-    Laufbahn des gehobenen technischen Dienstes der Fernmelde- und
-    Elektronischen Aufklärung des Bundes vermittelt,
-
-
-2.  ihr Verständnis für technische, wirtschaftliche und verwaltungsmäßige
-    Zusammenhänge sowie ihre Fähigkeiten zur Kommunikation, Zusammenarbeit
-    und zum kritischen Überprüfen des eigenen Handelns gefördert,
+1.  werden ihnen die erforderlichen fachbezogenen technischen Kenntnisse
+    für die Laufbahn des gehobenen Verwaltungsdienstes des Bundes im
+    Verwendungsbereich Fernmelde- und Elektronische Aufklärung des Bundes
+    vermittelt,
 
 
-3.  ihnen die Kenntnis der einschlägigen allgemeinen und spezifischen
+2.  wird ihr Verständnis für technische, wirtschaftliche und
+    verwaltungsmäßige Zusammenhänge sowie ihre Fähigkeiten zur
+    Kommunikation, Zusammenarbeit und zum kritischen Überprüfen des
+    eigenen Handelns gefördert,
+
+
+3.  wird ihnen die Kenntnis der einschlägigen allgemeinen und spezifischen
     Rechtsgrundlagen, der erforderlichen Grundlagen der
     Betriebswirtschaft, des Managements und der Mitarbeiterführung und die
     Fähigkeit zur Anwendung dieser Kenntnisse vermittelt,
 
 
-4.  ihnen Dienstleistungsorientierung und die Fähigkeit zur Zusammenarbeit
-    im föderalen und internationalen Raum vermittelt.
+4.  werden ihnen Dienstleistungsorientierung und die Fähigkeit zur
+    Zusammenarbeit im föderalen und internationalen Raum vermittelt.
 
 
 
@@ -90,10 +95,11 @@ und der Überblick über digitale Technologien.
 (4) Die Anwärterinnen und Anwärter lernen, ihre Kompetenzen
 weiterzuentwickeln und selbstständig neue Kompetenzen zu erwerben, um
 den sich ständig wandelnden Anforderungen im gehobenen technischen
-Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes gerecht
-zu werden. Sie sind zum Selbststudium verpflichtet. Das Selbststudium
-ist zu fördern. Die gesamte Ausbildung weist Praxisbezug auf und soll
-in einer aufgabenbezogenen Handlungskompetenz münden.
+Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung gerecht zu werden. Sie sind zum Selbststudium
+verpflichtet. Das Selbststudium ist zu fördern. Die gesamte Ausbildung
+weist Praxisbezug auf und soll in einer aufgabenbezogenen
+Handlungskompetenz münden.
 
 (5) Die Anwärterinnen und Anwärter werden auf ihre Verantwortung im
 demokratischen und sozialen Rechtsstaat vorbereitet.
@@ -113,15 +119,15 @@ gewährt werden.
 
 
 ### § 5 Einstellungsbehörden
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000701311)
 
 (1) Einstellungsbehörden sind das Bundesamt für das Personalmanagement
 der Bundeswehr und der Bundesnachrichtendienst.
 
 (2) Die Einstellungsbehörden sind zuständig für die Einstellung und
 die Betreuung der Anwärterinnen und Anwärter. Sie entscheiden über
-Verlängerung und Verkürzungen des Vorbereitungsdienstes nach den §§ 15
-und 16 der Bundeslaufbahnverordnung.
+Verlängerung und Verkürzungen des Vorbereitungsdienstes nach den §§ 18
+und 19 der Bundeslaufbahnverordnung.
 
 (3) Die Einstellungsbehörden sind die personalbearbeitenden
 Dienststellen der Anwärterinnen und Anwärter. Im Rahmen des
@@ -166,7 +172,7 @@ Anforderungen herabgesetzt werden.
 
 
 ### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000901311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheiden die
 Einstellungsbehörden auf der Grundlage eines Auswahlverfahrens. In dem
@@ -174,8 +180,8 @@ Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
 auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden frühere
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden frühere
 Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder
 Zulassungsschein sowie schwerbehinderte Menschen und diesen
 gleichgestellte behinderte Menschen zusätzlich und ohne Beschränkung
@@ -420,11 +426,11 @@ der Rangfolge vor anderen Bewerberinnen und Bewerbern geführt.
 
 
 ### § 17 Einstellung in den Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001900000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001901311)
 
-(1) In den Vorbereitungsdienst für den gehobenen technischen Dienst
-der Fernmelde- und Elektronischen Aufklärung des Bundes kann
-eingestellt werden, wer
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung kann eingestellt werden, wer
 
 1.  über einen der folgenden Abschlüsse verfügt:
 
@@ -433,11 +439,12 @@ eingestellt werden, wer
         Kenntnisse vermittelt, oder
 
 
-    b)  einen gleichwertigen Abschluss, insbesondere als Diplom-Ingenieurin
-        oder Diplom-Ingenieur der Elektrotechnik oder Informationstechnik,
-        Diplom-Informatikerin oder Diplom-Informatiker, Diplom-Mathematikerin
-        oder Diplom-Mathematiker, Dolmetscherin oder Dolmetscher oder als
-        Übersetzerin oder Übersetzer,
+    b)  einen mit dem in Buchstabe a genannten Abschluss gleichwertigen
+        Abschluss, insbesondere als Diplom-Ingenieurin oder Diplom-Ingenieur
+        der Elektrotechnik oder Informationstechnik, Diplom-Informatikerin
+        oder Diplom-Informatiker, Diplom-Mathematikerin oder Diplom-
+        Mathematiker, Dolmetscherin oder Dolmetscher oder als Übersetzerin
+        oder Übersetzer,
 
 
 
@@ -447,14 +454,14 @@ eingestellt werden, wer
 
 
 3.  nach amtsärztlichem Gutachten die gesundheitlichen Anforderungen des
-    gehobenen technischen Dienstes der Fernmelde- und Elektronischen
-    Aufklärung des Bundes erfüllt,
+    gehobenen technischen Verwaltungsdienstes des Bundes im
+    Verwendungsbereich Fernmelde- und Elektronische Aufklärung erfüllt,
 
 
 4.  als Bewerberin oder Bewerber für den Geschäftsbereich des
     Bundesministeriums der Verteidigung
 
-    a)  erklärt, für Einsätze und Übungen außerhalb des Bundesgebiets zur
+    a)  erklärt, auch für Einsätze und Übungen außerhalb des Bundesgebiets zur
         Verfügung zu stehen, sowie
 
 
@@ -491,24 +498,24 @@ Satz 2 bis 4 entsprechend.
 
 
 ### § 18 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002001311)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
 Persönlichkeit geeignet ist.
 
 (2) In den Einstellungsbehörden werden Beamtinnen und Beamte des
-höheren oder gehobenen Dienstes als Ausbildungsleitung bestellt. Die
-Ausbildungsleitung lenkt und überwacht die Ausbildung der
-Anwärterinnen und Anwärter. Sie ist für die ordnungsgemäße Gestaltung
-und Organisation der Ausbildung verantwortlich.
+höheren oder gehobenen Verwaltungsdienstes als Ausbildungsleitung
+bestellt. Die Ausbildungsleitung lenkt und überwacht die Ausbildung
+der Anwärterinnen und Anwärter. Sie ist für die ordnungsgemäße
+Gestaltung und Organisation der Ausbildung verantwortlich.
 
 (3) Das Bundesamt für das Personalmanagement der Bundeswehr bestellt
 beim Kommando Strategische Aufklärung eine Beamtin oder einen Beamten
-des gehobenen technischen Dienstes der Fernmelde- und Elektronischen
-Aufklärung des Bundes oder einer vergleichbaren Laufbahn als
-hauptamtliche Ausbildungsbeauftragte oder hauptamtlichen
-Ausbildungsbeauftragten.
+des gehobenen technischen Verwaltungsdienstes des Bundes im
+Verwendungsbereich Fernmelde- und Elektronische Aufklärung oder einer
+vergleichbaren Laufbahn als hauptamtliche Ausbildungsbeauftragte oder
+hauptamtlichen Ausbildungsbeauftragten.
 
 (4) Die oder der Ausbildungsbeauftragte unterstützt die Lenkung und
 Überwachung der Ausbildung der Anwärterinnen und Anwärter, arbeitet
@@ -532,7 +539,7 @@ Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig
 
 
 ### § 19 Ausbildungsabschnitte der berufspraktischen Studienzeit
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002100000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002101311)
 
 (1) Die berufspraktische Studienzeit besteht aus den folgenden
 Ausbildungsabschnitten:
@@ -547,8 +554,8 @@ Ausbildungsabschnitten:
 
 
 4.  dem Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen
-    technischen Dienst der Fernmelde- und Elektronischen Aufklärung des
-    Bundes“,
+    technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und
+    Elektronische Aufklärung“,
 
 
 5.  dem Lehrgang „Auswertung Technische Aufklärung Bundeswehr“,
@@ -568,9 +575,9 @@ Exkursionen ergänzt werden.
 
 (3) Die Lehrgänge und die praktische Ausbildung vermitteln
 berufspraktische Fähigkeiten und Kenntnisse, die für den gehobenen
-technischen Dienst der Fernmelde- und Elektronischen Aufklärung des
-Bundes erforderlich sind und über die im Studium vermittelten
-Kenntnisse hinausgehen.
+technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung erforderlich sind und über die im Studium
+vermittelten Kenntnisse hinausgehen.
 
 
 ### § 20 Ausbildungsrahmenplan
@@ -623,7 +630,7 @@ Bundeskanzleramt.
 
 
 ### § 22 Ausbildungsplan
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002400000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002401311)
 
 (1) Vor Beginn der Ausbildung erstellt die oder der
 Ausbildungsbeauftragte im Einvernehmen mit der jeweiligen
@@ -637,16 +644,17 @@ Bundesnachrichtendienst“ (§ 25 zweite Alternative) und „Auswertung
 Technische Aufklärung Bundesnachrichtendienst“ (§ 27 zweite
 Alternative) sind im Einvernehmen mit der Schule des
 Bundesnachrichtendienstes festzulegen. Der Zeitraum des Lehrgangs
-„Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst
-der Fernmelde- und Elektronischen Aufklärung des Bundes“ (§ 26) ist im
-Einvernehmen mit dem Bildungszentrum der Bundeswehr festzulegen.
+„Rechtsgrundlagen in der Praxis für den gehobenen technischen
+Verwaltungsdienst im Verwendungsbereich Fernmelde- und Elektronische
+Aufklärung“ (§ 26) ist im Einvernehmen mit dem Bildungszentrum der
+Bundeswehr festzulegen.
 
 (3) Die Anwärterin oder der Anwärter erhält ein Exemplar des
 Ausbildungsplans.
 
 
 ### § 23 Lehrpläne; Durchführung der Lehrgänge
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002500000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002501311)
 
 (1) Auf Grundlage des Rahmenlehrplans werden für die Lehrgänge nach
 § 19 Absatz 1 Nummer 1 bis 6 Lehrpläne erstellt.
@@ -685,8 +693,8 @@ obliegen
 Ausbildungs- und Lehreinrichtungen nach Absatz 3 regelmäßig in
 Abstimmung mit den fachlich zuständigen Stellen auf Aktualität geprüft
 und an die sich wandelnden Anforderungen an Beamtinnen und Beamte des
-gehobenen technischen Dienstes der Fernmelde- und Elektronischen
-Aufklärung des Bundes angepasst.
+gehobenen technischen Verwaltungsdienstes des Bundes im
+Verwendungsbereich Fernmelde- und Elektronische Aufklärung angepasst.
 
 
 ### § 24 Lehrgang „Technische Aufklärung I“
@@ -714,14 +722,14 @@ Bundeswehr beziehungsweise des Bundesnachrichtendienstes vermittelt.
 erworbenen Kenntnisse in der täglichen Arbeit anzuwenden.
 
 
-### § 26 Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002800000)
+### § 26 Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und Elektronische Aufklärung“
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002801311)
 
 (1) Im Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen
-technischen Dienst der Fernmelde- und Elektronischen Aufklärung des
-Bundes“ werden den Anwärterinnen und Anwärter die für ihre spätere
-Aufgabenwahrnehmung erforderlichen Kenntnisse in folgenden Bereichen
-vermittelt:
+technischen Verwaltungsdienst im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung“ werden den Anwärterinnen und Anwärter die
+für ihre spätere Aufgabenwahrnehmung erforderlichen Kenntnisse in
+folgenden Bereichen vermittelt:
 
 1.  Staatsrecht, Verwaltungsrecht, Personalrecht, Zivilrecht,
 
@@ -803,7 +811,7 @@ den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ### § 29 Klausuren in den Lehrgängen
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003100000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003101311)
 
 (1) Die Anwärterinnen und Anwärter schreiben jeweils eine Klausur in
 den Lehrgängen
@@ -815,8 +823,9 @@ den Lehrgängen
     Aufklärung II Bundesnachrichtendienst“,
 
 
-3.  „Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst
-    der Fernmelde- und Elektronischen Aufklärung des Bundes“ und
+3.  „Rechtsgrundlagen in der Praxis für den gehobenen technischen
+    Verwaltungsdienst im Verwendungsbereich Fernmelde- und Elektronische
+    Aufklärung“ und
 
 
 4.  „Auswertung Technische Aufklärung Bundesnachrichtendienst“.
@@ -984,7 +993,7 @@ eingerichtet.
 
 
 ### § 41 Einrichtung von Prüfungskommissionen
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004300000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004301311)
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung
 mindestens eine Prüfungskommission ein.
@@ -994,19 +1003,19 @@ und ist eine herausgehobene Tätigkeit.
 
 (3) Werden für einen Teil der Laufbahnprüfung mehrere
 Prüfungskommissionen eingerichtet, kann das Prüfungsamt eine Beamtin
-oder einen Beamten des höheren oder gehobenen Dienstes mit der Leitung
-dieses Teils der Prüfung beauftragen.
+oder einen Beamten des höheren oder gehobenen Verwaltungsdienstes mit
+der Leitung dieses Teils der Prüfung beauftragen.
 
 
 ### § 42 Mitglieder der Prüfungskommissionen
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004400000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004401311)
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der
 schriftlichen Prüfung sind
 
 1.  im Prüfungsgebiet „Rechtsgrundlagen in der Praxis für den gehobenen
-    technischen Dienst der Fernmelde- und Elektronischen Aufklärung des
-    Bundes“
+    technischen Verwaltungsdienst des Bundes im Verwendungsbereich
+    Fernmelde- und Elektronische Aufklärung“
 
     a)  eine Beamtin oder ein Beamter des höheren nichttechnischen
         Verwaltungsdienstes als Vorsitzende oder Vorsitzender und
@@ -1020,17 +1029,17 @@ schriftlichen Prüfung sind
 
 
 
-2.  in den übrigen Prüfungsgebieten
+2.  in den nicht in Nummer 1 genannten Prüfungsgebieten
 
-    a)  jeweils eine Beamtin oder ein Beamter des höheren technischen
-        Verwaltungsdienstes oder des gehobenen technischen Dienstes der
-        Fernmelde- und Elektronischen Aufklärung des Bundes als Vorsitzende
-        oder Vorsitzender und
+    a)  jeweils eine Beamtin oder ein Beamter des höheren oder des gehobenen
+        technischen Verwaltungsdienstes des Bundes im Verwendungsbereich
+        Fernmelde- und Elektronische Aufklärung als Vorsitzende oder
+        Vorsitzender und
 
 
-    b)  jeweils mindestens eine Beamtin oder ein Beamter des höheren
-        technischen Verwaltungsdienstes oder des gehobenen technischen
-        Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes als
+    b)  jeweils mindestens eine Beamtin oder ein Beamter des höheren oder des
+        gehobenen technischen Verwaltungsdienstes des Bundes im
+        Verwendungsbereich Fernmelde- und Elektronische Aufklärung als
         Beisitzende oder Beisitzender.
 
 
@@ -1041,14 +1050,14 @@ schriftlichen Prüfung sind
 
 (2) Mitglieder einer Prüfungskommission für die mündliche Prüfung sind
 
-1.  eine Beamtin oder ein Beamter des höheren nichttechnischen oder des
-    höheren technischen Verwaltungsdienstes als Vorsitzende oder
-    Vorsitzender,
+1.  eine Beamtin oder ein Beamter des höheren nichttechnischen
+    Verwaltungsdienstes oder des höheren technischen Verwaltungsdienstes
+    als Vorsitzende oder Vorsitzender,
 
 
-2.  zwei Beamtinnen oder Beamte des gehobenen technischen Dienstes der
-    Fernmelde- und Elektronischen Aufklärung des Bundes als Beisitzende
-    und
+2.  zwei Beamtinnen oder Beamte des gehobenen technischen
+    Verwaltungsdienstes des Bundes im Verwendungsbereich Fernmelde- und
+    Elektronische Aufklärung als Beisitzende und
 
 
 3.  eine Beamtin oder ein Beamter des gehobenen nichttechnischen
@@ -1058,10 +1067,10 @@ schriftlichen Prüfung sind
 
 Wird mit dem Vorsitz der mündlichen Prüfung eine Beamtin oder ein
 Beamter des höheren nichttechnischen Verwaltungsdienstes beauftragt,
-tritt an die Stelle der oder des Beisitzenden nach Satz 1 Nummer 3
+so tritt an die Stelle der oder des Beisitzenden nach Satz 1 Nummer 3
 eine weitere Beamtin oder ein weiterer Beamter des gehobenen
-technischen Dienstes der Fernmelde- und Elektronischen Aufklärung des
-Bundes.
+technischen Verwaltungsdienstes des Bundes im Verwendungsbereich
+Fernmelde- und Elektronische Aufklärung.
 
 (3) Arbeitnehmerinnen und Arbeitnehmer sowie Soldatinnen und Soldaten
 können als Mitglieder der Prüfungskommissionen bestellt werden, wenn
@@ -1104,7 +1113,7 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 44 Nichtöffentlichkeit der Laufbahnprüfung
-[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004600000)
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004601311)
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -1112,9 +1121,10 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 Angehörige des Prüfungsamts anwesend sein.
 
 (3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder Prüfung
-von Anwärterinnen und Anwärtern für den gehobenen technischen Dienst
-der Fernmelde- und Elektronischen Aufklärung des Bundes befasst sind,
-die Anwesenheit bei der mündlichen Prüfung gestatten.
+von Anwärterinnen und Anwärtern für den gehobenen technischen
+Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und
+Elektronische Aufklärung befasst sind, die Anwesenheit bei der
+mündlichen Prüfung gestatten.
 
 (4) Die Schwerbehindertenvertretung kann bei der mündlichen Prüfung
 von schwerbehinderten und diesen gleichgestellten behinderten

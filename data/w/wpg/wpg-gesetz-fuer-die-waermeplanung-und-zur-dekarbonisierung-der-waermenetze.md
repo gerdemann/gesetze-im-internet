@@ -24,6 +24,9 @@ Geändert durch
 Änderung durch
 :   Art. 9 G v. 22.12.2025 I Nr. 348 ist berücksichtigt
 
+Änderung durch
+:   Art. 8 G v. 11.3.2026 I Nr. 66 ist berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000100000)
@@ -775,7 +778,7 @@ insbesondere zur
 
 
 #### § 11 Auskunftspflicht und Form der Auskunftserteilung
-[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001202128)
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001203128)
 
 (1) Auskunftspflichtig für Erhebungen nach § 10 Absatz 1 durch die
 planungsverantwortliche Stelle ist oder sind
@@ -835,17 +838,16 @@ Länder können von den Sätzen 1 und 2 abweichende Rechtsvorschriften
 erlassen.
 
 (4) Daten, die Betriebs- oder Geschäftsgeheimnisse oder vertrauliche
-Informationen zu kritischen Anlagen nach § 2 Nummer 22 des BSI-
-Gesetzes vom 2. Dezember 2025 (BGBl. I 2025 Nr. 301, S. 2) in der
-jeweils geltenden Fassung, in Verbindung mit der BSI-Kritisverordnung
-vom 22. April 2016 (BGBl. I S. 958), die zuletzt durch Artikel 1 der
-Verordnung vom 23. Februar 2023 (BGBl. 2023 I Nr. 53) geändert worden
-ist, enthalten, sind von den nach Absatz 1 Auskunftspflichtigen bei
-der Übermittlung als vertraulich zu kennzeichnen. Sonstige gesetzliche
-Regelungen zum Geheimnisschutz, gesetzliche Übermittlungshindernisse
-und Übermittlungsregelungen bleiben unberührt. Als vertraulich
-gekennzeichnete Daten dürfen von der planungsverantwortlichen Stelle
-nicht veröffentlicht werden.
+Informationen zu kritischen Anlagen nach § 2 Nummer 3 des KRITIS-
+Dachgesetzes in der jeweils geltenden Fassung, in Verbindung mit der
+BSI-Kritisverordnung vom 22. April 2016 (BGBl. I S. 958), die zuletzt
+durch Artikel 1 der Verordnung vom 23. Februar 2023 (BGBl. 2023 I Nr.
+53) geändert worden ist, enthalten, sind von den nach Absatz 1
+Auskunftspflichtigen bei der Übermittlung als vertraulich zu
+kennzeichnen. Sonstige gesetzliche Regelungen zum Geheimnisschutz,
+gesetzliche Übermittlungshindernisse und Übermittlungsregelungen
+bleiben unberührt. Als vertraulich gekennzeichnete Daten dürfen von
+der planungsverantwortlichen Stelle nicht veröffentlicht werden.
 
 (5) Daten, die die Bundeswehr, verbündete Streitkräfte oder von diesen
 Stellen beauftragte Stellen einschließlich deren Liegenschaften
@@ -1859,6 +1861,16 @@ Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer
 Kombination aus beidem ausgewiesen. Die Länder sind verpflichtet, dem
 Bundesministerium für Wirtschaft und Energie hierzu auf Anforderung
 die erforderlichen Informationen mitzuteilen.
+
+
+### § 34a Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE004000128)
+
+§ 11 Absatz 4 Satz 1 ist erst anzuwenden, wenn eine auf der Grundlage
+von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene
+Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung ist §
+11 Absatz 4 Satz 1 in der bis einschließlich 16. März 2026 geltenden
+Fassung weiter anzuwenden.
 
 
 ### § 35 Evaluation

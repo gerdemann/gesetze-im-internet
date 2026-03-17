@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 325
 
+Änderung durch
+:   Art. 2 Abs. 30 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-8-5-9 v. 12.1.2017 I 78 (MStDVDV)
 
 ## Eingangsformel
@@ -38,7 +41,7 @@ Bundesministerium der Finanzen:
 
 
 ### § 1 Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/mstdvdv_2024/BJNR1450A0023.html#BJNR1450A0023BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/mstdvdv_2024/BJNR1450A0023.html#BJNR1450A0023BJNE000201311)
 
 (1) Die Ausbildung nach dieser Verordnung ist der Vorbereitungsdienst
 für den mittleren Steuerdienst des Bundes.
@@ -47,7 +50,7 @@ für den mittleren Steuerdienst des Bundes.
 fachtheoretische und berufspraktische Abschnitte.
 
 (3) Über eine Verlängerung oder Verkürzung des Vorbereitungsdienstes
-nach § 15 oder § 16 der Bundeslaufbahnverordnung entscheidet das
+nach § 18 oder § 19 der Bundeslaufbahnverordnung entscheidet das
 Bundeszentralamt für Steuern im Benehmen mit der zuständigen
 Landesfinanzbehörde. Die Verlängerung des Vorbereitungsdienstes kann
 darauf ausgerichtet werden, dass die Anwärterin oder der Anwärter

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.1.2025 I Nr. 18
 
+Änderung durch
+:   Art. 2 Abs. 8 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-6-31 v. 2.2.2015 I 98, 100 (GKrimDVDV)
 
 ## Teil 1 - Allgemeines
@@ -637,10 +640,10 @@ Das Studium hat insbesondere zum Ziel,
 
 
 ##### § 10 Dauer des Studiums
-[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001101311)
 
-(1) Das Studium dauert nach § 13 Absatz 1 Satz 1 der
-Bundeslaufbahnverordnung in der Regel sechs Semester.
+(1) Das Studium dauert nach § 16 Absatz 1 der Bundeslaufbahnverordnung
+in der Regel sechs Semester.
 
 (2) Das Studium ist so zu konzipieren, dass die Studierenden je
 Semester 30 Leistungspunkte nach dem Europäischen System zur

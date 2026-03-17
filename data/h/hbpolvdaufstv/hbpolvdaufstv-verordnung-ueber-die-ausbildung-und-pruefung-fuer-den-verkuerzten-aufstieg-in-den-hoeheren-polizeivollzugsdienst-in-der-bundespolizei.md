@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 727
 
+Änderung durch
+:   Art. 2 Abs. 9 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeines
 [Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNG000100000)
@@ -284,10 +287,10 @@ schriftlichen oder elektronischen Bescheid.
 
 
 ### § 8 Auswahlkommission
-[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000901311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet abweichend von
-§ 36 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das
+§ 44 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das
 Bundespolizeipräsidium eine Auswahlkommission bei der
 Bundespolizeiakademie ein. Bei Bedarf können mehrere
 Auswahlkommissionen eingerichtet werden. In diesem Fall ist
@@ -371,13 +374,13 @@ Mindestpunktzahl ist die Hälfte der insgesamt vergebenen Punkte.
 
 
 ### § 12 Gesamtergebnis und Rangfolge
-[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001301311)
 
 (1) Für jede Bewerberin und jeden Bewerber, die oder der am
 Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das
 Gesamtergebnis des Auswahlverfahrens.
 
-(2) Nach § 36 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die
+(2) Nach § 44 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die
 Auswahlkommission anhand der ermittelten Gesamtergebnisse eine
 Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest. Sind
 mehrere Auswahlkommissionen eingerichtet worden, wird eine Rangfolge

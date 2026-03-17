@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 284
 
+Änderung durch
+:   Art. 2 Abs. 34 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-8-5-2 v. 8.12.2012 I 2622 (GVIDVDV)
 
 ## Eingangsformel
@@ -1647,22 +1650,15 @@ bestellen sind.
 
 
 #### § 46 Wiederholung von Modulprüfungen
-[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004800000)
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004801311)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt
 werden. Ein reflektierter Praxisbericht wird wiederholt, indem er
 nachgebessert wird.
 
-(2) Abweichend von Absatz 1 können ein zweites Mal wiederholt werden:
-
-1.  eine Prüfung in einem der Pflichtmodule und
-
-
-2.  eine Prüfung in einem der Wahlpflichtmodule.
-
-
-
+(2) Abweichend von Absatz 1 Satz 1 können zwei nicht bestandene
+Modulprüfungen ein zweites Mal wiederholt werden.
 
 (3) Das weitere Studium wird wegen der Wiederholung nicht ausgesetzt.
 

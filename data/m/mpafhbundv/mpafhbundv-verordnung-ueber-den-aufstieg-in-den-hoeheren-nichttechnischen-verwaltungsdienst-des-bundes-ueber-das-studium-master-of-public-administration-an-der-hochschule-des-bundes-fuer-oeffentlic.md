@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 6.1.2016 I 27
 
+Änderung durch
+:   Art. 2 Abs. 16 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000100000)
@@ -62,14 +65,14 @@ Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 
 
 ### § 4 Zulassung
-[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000601116)
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000602311)
 
 Zum Studium können Beamtinnen und Beamte zugelassen werden, die die
 Laufbahnbefähigung für den gehobenen nichttechnischen
 Verwaltungsdienst des Bundes und einen Bachelor- oder einen
 Diplomabschluss, einen Abschluss eines akkreditierten
 Bachelorausbildungsgangs an einer Berufsakademie oder einen
-gleichwertigen Abschluss besitzen. § 36 der Bundeslaufbahnverordnung
+gleichwertigen Abschluss besitzen. § 44 der Bundeslaufbahnverordnung
 bleibt unberührt.
 
 
@@ -78,12 +81,12 @@ bleibt unberührt.
 
 
 ### § 5 Dauer des Studiums, Freistellung
-[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000701116)
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000702311)
 
 (1) Die Regelstudienzeit beträgt fünf Semester. Für das erfolgreich
 abgeschlossene Studium werden 120 Leistungspunkte vergeben.
 
-(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 15
+(2) Für Verlängerungen und Unterbrechungen des Studiums gilt § 18
 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Insgesamt
 soll das Studium um nicht mehr als drei Jahre verlängert werden.
 Entscheidungen nach den Sätzen 1 und 2 treffen die zuständigen
@@ -667,7 +670,7 @@ Einsicht in ihre Prüfungsakten nehmen.
 
 
 ### § 22 Berufspraktische Einführung
-[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002400000)
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002401311)
 
 (1) In einer berufspraktischen Einführung sollen die Beamtinnen und
 Beamten nachweisen, dass sie die Eignung und Befähigung für den
@@ -675,7 +678,7 @@ höheren nichttechnischen Verwaltungsdienst des Bundes besitzen. Die
 berufspraktische Einführung dauert ein Jahr und kann studienbegleitend
 durchgeführt werden. Während dieser Zeit nehmen die Beamtinnen und
 Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes
-wahr. § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt
+wahr. § 18 Absatz 1 und 2 der Bundeslaufbahnverordnung gilt
 entsprechend. Die Beamtinnen und Beamten sollen in mindestens zwei
 Verwendungsbereichen eingesetzt werden, wenn dienstliche Gründe dem
 nicht entgegenstehen.

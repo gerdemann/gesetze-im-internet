@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst
-  in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+Title: Verordnung über den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst
+  in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 jurabk: HtDBWVAPrV
 layout: default
 origslug: BJNR036600010
@@ -8,7 +8,7 @@ slug: htdbwvaprv
 
 ---
 
-# Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (HtDBWVAPrV)
+# Verordnung über den Vorbereitungsdienst für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik (HtDBWVAPrV)
 
 Ausfertigungsdatum
 :   2010-03-31
@@ -18,6 +18,9 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 3 V v. 4.7.2024 I Nr. 227
+
+Änderung durch
+:   Art. 2 Abs. 13 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -35,10 +38,10 @@ Verteidigung:
 
 
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000301311)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000302311)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
-Verwendung in der Fachrichtung Wehrtechnik des höheren technischen
+Verwendung im Verwendungsbereich Wehrtechnik des höheren technischen
 Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und
 wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
@@ -162,7 +165,7 @@ Bundeswehr.
 
 
 ### § 6 Auswahlverfahren und Zulassung zum Auswahlverfahren
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000801311)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000802311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -170,7 +173,7 @@ Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
 aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der
 am Auswahlverfahren Teilnehmenden beschränkt, so werden
 schwerbehinderte Menschen und gleichgestellte behinderte Menschen
 zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn
@@ -429,11 +432,11 @@ anderen Bewerbers liegende Gründe überwiegen.
 
 
 ### § 8h Einstellung in den Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004700311)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004701311)
 
-(1) In den Vorbereitungsdienst für den höheren technischen Dienst in
-der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
-werden, wer
+(1) In den Vorbereitungsdienst für den höheren technischen
+Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich
+Wehrtechnik kann eingestellt werden, wer
 
 1.  ein mit einem Master abgeschlossenes Hochschulstudium oder einen
     gleichwertigen Abschluss in einer Fachrichtung besitzt, die einem der
@@ -466,7 +469,7 @@ Auswahlverfahren.
 
 
 ### § 9 Gliederung des Vorbereitungsdienstes
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001101311)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001102311)
 
 (1) Der Vorbereitungsdienst gliedert sich in Lehrveranstaltungen und
 eine praktische Ausbildung. Im Einzelnen sind folgende
@@ -475,7 +478,7 @@ Ausbildungsabschnitte vorzusehen:
 1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
 
 
-2.  Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung
+2.  Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich
     Wehrtechnik des höheren technischen Verwaltungsdienstes,
 
 
@@ -552,8 +555,8 @@ zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt.
 Einzelheiten regelt der Lehrplan.
 
 
-### § 11 Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001300000)
+### § 11 Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des höheren technischen Verwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001301311)
 
 Die Referendarinnen und Referendare werden bei verschiedenen
 Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und
@@ -737,7 +740,7 @@ regelmäßig über den erreichten Ausbildungsstand.
 
 
 ### § 19 Oberprüfungsamt
-[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002101311)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002102311)
 
 (1) Das Oberprüfungsamt für das technische Referendariat beim
 Bundesministerium für Digitales und Verkehr führt die Große
@@ -760,9 +763,9 @@ Entscheidungen der Prüfungskommissionen.
 
 (4) Die Direktorin oder der Direktor des Oberprüfungsamts sorgt für
 einen ordnungsgemäßen Prüfungsablauf. Sie oder er stellt sicher, dass
-in allen Fachrichtungen und in den wehrtechnischen Fachgebieten der
-Fachrichtung Wehrtechnik gleich hohe Prüfungsanforderungen gestellt
-und gleiche Bewertungsmaßstäbe angelegt werden.
+in allen Fachrichtungen und in den wehrtechnischen Fachgebieten des
+Verwendungsbereichs Wehrtechnik gleich hohe Prüfungsanforderungen
+gestellt und gleiche Bewertungsmaßstäbe angelegt werden.
 
 (5) Die Leitung des Prüfungsausschusses Wehrtechnik unterstützt die
 Direktorin oder den Direktor bei der Wahrnehmung der Aufgaben.

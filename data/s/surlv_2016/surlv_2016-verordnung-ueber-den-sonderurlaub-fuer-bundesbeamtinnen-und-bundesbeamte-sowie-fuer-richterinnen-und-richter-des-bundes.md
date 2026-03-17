@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 3.3.2026 I Nr. 57
 
+Änderung durch
+:   Art. 2 Abs. 3 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
 ## Eingangsformel
@@ -130,12 +133,12 @@ zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 
 
 ## § 8 Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
-[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001002311)
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001003311)
 
 Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
 Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des
-gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der
+gehobenen oder des höheren Dienstes nach § 47 der
 Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen
 des Bundes teilnehmen.
 

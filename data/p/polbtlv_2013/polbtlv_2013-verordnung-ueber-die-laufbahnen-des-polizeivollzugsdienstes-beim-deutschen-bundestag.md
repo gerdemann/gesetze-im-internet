@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.7.2025 I Nr. 180
 
+Änderung durch
+:   Art. 2 Abs. 6 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000100000)
@@ -149,7 +152,7 @@ entsprechend.
 
 
 ## § 8 Laufbahnbefähigung
-[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001001311)
 
 (1) Als Befähigung für die jeweilige Laufbahn des
 Polizeivollzugsdienstes beim Deutschen Bundestag soll anerkannt werden
@@ -177,7 +180,7 @@ Befähigung zum Richteramt besitzt.
 Unterweisungszeit von in der Regel sechs, mindestens aber drei Monaten
 zu durchlaufen.
 
-(4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
+(4) Im Übrigen gilt § 53 der Bundeslaufbahnverordnung.
 
 
 ## § 9 Erhaltung der körperlichen Leistungsfähigkeit
@@ -190,7 +193,7 @@ regelmäßig überprüft werden.
 
 
 ## § 10 Aufstieg
-[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001201311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
@@ -216,10 +219,10 @@ Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
 
 
 
-Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
+Im Übrigen gilt § 21 Absatz 3 der Bundeslaufbahnverordnung.
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1, 5 und 6 der
-Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1, 5 und 6 der
+Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der
 Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das
 Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der
 Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt
@@ -242,11 +245,11 @@ Police Management)“ an der Deutschen Hochschule der Polizei. Das
 Aufstiegsverfahren richtet sich nach der Prüfungsordnung für diesen
 Studiengang.
 
-(5) Im Übrigen gilt § 41 der Bundeslaufbahnverordnung.
+(5) Im Übrigen gilt § 49 der Bundeslaufbahnverordnung.
 
 
 ## § 11 Fachspezifische Qualifizierung
-[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001301311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen
@@ -273,12 +276,12 @@ dafür ein besonderes dienstliches Bedürfnis besteht und sie
 
 
 
-(2) Für das Auswahlverfahren gilt § 36 Absatz 1 und 6 der
-Bundeslaufbahnverordnung. § 36 Absatz 3 und 4 der
+(2) Für das Auswahlverfahren gilt § 44 Absatz 1 und 6 der
+Bundeslaufbahnverordnung. § 44 Absatz 3 und 4 der
 Bundeslaufbahnverordnung gilt mit der Maßgabe, dass das
 Auswahlverfahren auch in Zusammenarbeit mit einer Behörde der
 Bundespolizei oder einer Polizeibehörde eines Landes durchgeführt
-werden kann. § 36 Absatz 5 der Bundeslaufbahnverordnung gilt mit der
+werden kann. § 44 Absatz 5 der Bundeslaufbahnverordnung gilt mit der
 Maßgabe, dass zu den sonstigen Anforderungen insbesondere die
 erfolgreiche Wahrnehmung von Führungsaufgaben gehört.
 
@@ -302,16 +305,16 @@ des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag bewährt
 hat.
 
 (6) Für die Feststellung, ob die fachspezifische Qualifizierung
-erfolgreich abgeschlossen ist, gilt § 38 Absatz 4 der
+erfolgreich abgeschlossen ist, gilt § 46 Absatz 5 der
 Bundeslaufbahnverordnung entsprechend.
 
-(7) Für die Kostenerstattung gilt § 41 der Bundeslaufbahnverordnung.
+(7) Für die Kostenerstattung gilt § 49 der Bundeslaufbahnverordnung.
 
 
 ## § 12 Übertragung eines Amtes der neuen Laufbahn
-[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001401311)
 
-§ 40 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
+§ 48 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer
 Polizeioberkommissarin beim Deutschen Bundestag oder eines
 Polizeioberkommissars beim Deutschen Bundestag übertragen werden kann,

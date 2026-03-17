@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 1084
 
+Änderung durch
+:   Art. 2 Abs. 29 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-7-12-2 v. 28.11.2001 I 3327 (LAP-mntDBWVV)
 
 ## Eingangsformel
@@ -119,9 +122,9 @@ Der Vorbereitungsdienst dauert in der Regel 24 Monate.
 
 
 ### § 4 Bestandteile des Vorbereitungsdienstes
-[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE000601311)
 
-(1) Der Vorbereitungsdienst besteht nach § 12 Satz 2 der
+(1) Der Vorbereitungsdienst besteht nach § 15 Absatz 2 der
 Bundeslaufbahnverordnung aus einer fachtheoretischen und einer
 berufspraktischen Ausbildung.
 
@@ -364,7 +367,7 @@ Einstellungsverfahrens obliegen, auf eine nachgeordnete Behörde
 
 
 ### § 9 Auswahlverfahren und Zulassung zum Auswahlverfahren
-[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE001101311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -372,8 +375,8 @@ Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
 auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
 schwerbehinderte Menschen und gleichgestellte behinderte Menschen
 sowie frühere Soldatinnen und Soldaten auf Zeit mit Eingliederungs-
 oder Zulassungsschein zusätzlich und ohne Beschränkung zum
@@ -483,9 +486,9 @@ Ministerialblatt veröffentlicht.
 
 
 ### § 13 Bestandteile des Auswahlverfahrens
-[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE001501311)
 
-Das Auswahlverfahren besteht nach § 10a Absatz 4 Satz 1 der
+Das Auswahlverfahren besteht nach § 12 Absatz 1 Satz 1 der
 Bundeslaufbahnverordnung aus einem schriftlichen und einem mündlichen
 Teil.
 
@@ -1512,9 +1515,9 @@ Die Zwischenprüfung hat bestanden,
 
 
 #### § 58 Wiederholung der Zwischenprüfung
-[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE006000000)
+[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE006001311)
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
@@ -2090,9 +2093,9 @@ anzugeben.
 
 
 ##### § 86 Wiederholung der Laufbahnprüfung
-[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE008800000)
+[Direktlink](https://www.gesetze-im-internet.de/mntdbwvvdv/BJNR108400022.html#BJNR108400022BJNE008801311)
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und
+(1) Wird die Laufbahnprüfung wiederholt (§ 20 Absatz 3 Nummer 1 und
 Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 

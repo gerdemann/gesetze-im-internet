@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst
-  in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –
+Title: Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst
+  in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik
 jurabk: MtDBwVVDV
 layout: default
 origslug: BJNR0E30B0024
@@ -8,13 +8,16 @@ slug: mtdbwvvdv
 
 ---
 
-# Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – (MtDBwVVDV)
+# Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik (MtDBwVVDV)
 
 Ausfertigungsdatum
 :   2024-07-04
 
 Fundstelle
 :   BGBl. I: 2024, Nr. 227, 2
+
+Änderung durch
+:   Art. 2 Abs. 32 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 2030-7-17-3 v. 17.4.2002 I 1444 (LAP-mtDBWVV)
 
@@ -23,11 +26,11 @@ Stand: Ersetzt V 2030-7-17-3 v. 17.4.2002 I 1444 (LAP-mtDBWVV)
 
 
 ### § 1 Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000201311)
 
 Die Ausbildung und die Laufbahnprüfung nach dieser Verordnung sind der
-Vorbereitungsdienst für den mittleren technischen Dienst in der
-Bundeswehrverwaltung – Fachrichtung Wehrtechnik –.
+Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in
+der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik.
 
 
 ### § 2 Dauer des Vorbereitungsdienstes
@@ -327,7 +330,7 @@ Bundeswehr.
 
 
 ### § 11 Auswahlverfahren und Zulassung zum Auswahlverfahren
-[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001201311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -335,7 +338,7 @@ Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
 aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für den Vorbereitungsdienst geeignet und befähigt sind.
 
-(2) Wird nach § 10a Absatz 3 der Bundeslaufbahnverordnung die Zahl der
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der
 am Auswahlverfahren Teilnehmenden beschränkt, so werden
 schwerbehinderte und gleichgestellte behinderte Menschen sowie frühere
 Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit Eingliederungs-
@@ -598,11 +601,11 @@ der anderen Bewerberin oder des anderen Bewerbers liegende Gründe
 
 
 ### § 21 Einstellung in den Vorbereitungsdienst
-[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002200000)
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002201311)
 
-(1) In den Vorbereitungsdienst für den mittleren technischen Dienst in
-der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
-werden, wer
+(1) In den Vorbereitungsdienst für den mittleren technischen
+Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich
+Wehrtechnik kann eingestellt werden, wer
 
 1.  mindestens eine Hauptschule erfolgreich besucht hat,
 
@@ -1590,7 +1593,7 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 #### § 56 Nichtöffentlichkeit der Laufbahnprüfung
-[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005700000)
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005701311)
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -1599,9 +1602,9 @@ Angehörige des Prüfungsamts anwesend sein.
 
 (3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder der
 Prüfung von Anwärterinnen und Anwärtern für den Vorbereitungsdienst
-für den mittleren technischen Dienst in der Bundeswehrverwaltung –
-Fachrichtung Wehrtechnik – befasst sind, die Anwesenheit bei der
-mündlichen Prüfung gestatten.
+für den mittleren technischen Verwaltungsdienst in der
+Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik befasst sind,
+die Anwesenheit bei der mündlichen Prüfung gestatten.
 
 (4) Wenn eine schwerbehinderte Person oder eine gleichgestellte
 behinderte Person an der mündlichen Prüfung teilnimmt, kann die
@@ -1983,9 +1986,9 @@ Ausbildung und die Ausbildungsinhalte anzugeben.
 
 
 #### § 77 Wiederholung der Laufbahnprüfung
-[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007800000)
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007801311)
 
-(1) Im Wiederholungsfall (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1
+(1) Im Wiederholungsfall (§ 20 Absatz 3 Nummer 1 und Absatz 5 Satz 1
 Nummer 1 der Bundeslaufbahnverordnung) ist die Laufbahnprüfung
 vollständig zu wiederholen.
 
