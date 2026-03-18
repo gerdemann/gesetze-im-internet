@@ -15,17 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 394
 
-Geändert durch
-:   Art. 20 G v. 2.12.2025 I Nr. 301
-
-Änderung durch
-:   Art. 26 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 348 ist berücksichtigt
-
-Änderung durch
-:   Art. 8 G v. 11.3.2026 I Nr. 66 ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 9 G v. 22.12.2025 I Nr. 348
 
 
 ## Teil 1 - Allgemeine Bestimmungen

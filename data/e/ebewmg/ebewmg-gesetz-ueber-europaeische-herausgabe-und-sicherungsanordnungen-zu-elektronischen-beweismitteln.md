@@ -329,7 +329,7 @@ ergriffen und welche Sanktionen gegen sie verhängt wurden.
     mit einer Geldbuße bis zu fünfhunderttausend Euro und
 
 
-2.  (zukünftig in Kraft)
+2.  (zukünftig in Kraft).
 
 
 
@@ -348,7 +348,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 1.  in den Fällen des Absatzes 1 das Bundesamt für Justiz,
 
 
-2.  (zukünftig in Kraft)
+2.  (zukünftig in Kraft).
 
 
 

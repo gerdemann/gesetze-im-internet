@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 1237, 1272
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.2.2025 I Nr. 51
-
-Änderung durch
-:   Art. 25 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 18.12.2025 I Nr. 347
 
 
 ## Teil 1 - Allgemeine Bestimmungen

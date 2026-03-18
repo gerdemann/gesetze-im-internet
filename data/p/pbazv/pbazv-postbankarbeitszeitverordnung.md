@@ -19,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 2 V v. 28.11.2018 I 2271
 
 
-
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000100000)
 
