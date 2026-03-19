@@ -3325,11 +3325,6 @@ von § 2 Nummer 22 als wirtschaftlich durchführbar,
 
 
 
-
-### § 68 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE007003128)
-
-
 (zu § 2)
 
 ### Anlage 1 Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs

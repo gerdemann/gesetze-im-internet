@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 127 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 1 G v. 13.3.2026 I Nr. 70 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Zielsetzung
 [Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000100305)
