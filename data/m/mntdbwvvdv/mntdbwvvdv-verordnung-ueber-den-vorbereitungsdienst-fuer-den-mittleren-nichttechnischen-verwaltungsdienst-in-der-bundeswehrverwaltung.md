@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 1084
 
-Änderung durch
-:   Art. 2 Abs. 29 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 29 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-12-2 v. 28.11.2001 I 3327 (LAP-mntDBWVV)
 

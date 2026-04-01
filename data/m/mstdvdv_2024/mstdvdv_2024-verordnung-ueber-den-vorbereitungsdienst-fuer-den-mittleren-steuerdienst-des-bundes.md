@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 325
 
-Änderung durch
-:   Art. 2 Abs. 30 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 30 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-8-5-9 v. 12.1.2017 I 78 (MStDVDV)
 

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 2035, 2051
 
 Zuletzt geändert durch
-:   Art. 3 G v. 26.7.2023 I Nr. 202
-
-Änderung durch
-:   Art. 18 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 18.12.2025 I Nr. 347
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen, Beauftragter und Internetadressen

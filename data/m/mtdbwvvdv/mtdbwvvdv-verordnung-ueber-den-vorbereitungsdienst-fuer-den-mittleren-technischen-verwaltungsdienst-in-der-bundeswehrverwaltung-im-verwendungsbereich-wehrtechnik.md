@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 227, 2
 
-Änderung durch
-:   Art. 2 Abs. 32 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 32 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-7-17-3 v. 17.4.2002 I 1444 (LAP-mtDBWVV)
 

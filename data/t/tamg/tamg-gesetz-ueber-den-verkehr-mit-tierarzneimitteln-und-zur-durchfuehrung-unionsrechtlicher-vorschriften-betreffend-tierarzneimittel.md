@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 4530
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 356
-
-Änderung durch
-:   Art. 2 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 4.3.2026 I Nr. 60
 
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über

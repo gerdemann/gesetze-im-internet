@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 284
 
-Änderung durch
-:   Art. 2 Abs. 34 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 34 V v. 11.3.2026 I Nr. 67
 
 Stand: Ersetzt V 2030-8-5-2 v. 8.12.2012 I 2622 (GVIDVDV)
 

@@ -17541,6 +17541,11 @@ verlangen, soweit sie gemäß einer Verordnung auf Grund von Artikel 244
 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.
 
 
+###### § 651 (jetzt § 650)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066403123)
+
+
+
 ##### Untertitel 4 - Pauschalreisevertrag, Reisevermittlung und Vermittlung verbundener Reiseleistungen
 [Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005804123)
 

@@ -1203,7 +1203,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 [Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000502119)
 
 
-### § 13 Verbringungs-,Eingangs-, Ausfuhr- und Durchfuhrverbote
+### § 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote
 [Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001502119)
 
 (1) Verboten sind die Verbringung aus einem anderen Mitgliedstaat in
@@ -2684,8 +2684,8 @@ Hersteller oder einen anderen auf Grund dieses Gesetzes, der auf Grund
 dieses Gesetzes erlassenen Rechtsvorschriften oder der unmittelbar
 geltenden Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union im Anwendungsbereich dieses Gesetzes
-Verantwortlichen (sonstiger Verantwortlicher). Die Angaben zufür die
-Verbringung verantwortlichen Personen, Herstellern und sonstigen
+Verantwortlichen (sonstiger Verantwortlicher). Die Angaben zu den für
+die Verbringung verantwortlichen Personen, Herstellern und sonstigen
 Verantwortlichen umfassen deren Name, Anschrift und
 Telekommunikationsdaten, soweit den Zollbehörden die Angaben im Rahmen
 ihrer Mitwirkung bei der Überwachung vorliegen. Die Übermittlung der

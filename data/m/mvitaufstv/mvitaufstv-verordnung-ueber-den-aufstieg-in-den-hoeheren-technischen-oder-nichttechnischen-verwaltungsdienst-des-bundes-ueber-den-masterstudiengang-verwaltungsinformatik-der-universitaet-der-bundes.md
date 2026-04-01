@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 85
 
-Änderung durch
-:   Art. 2 Abs. 18 V v. 11.3.2026 I Nr. 67 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 2 Abs. 18 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel

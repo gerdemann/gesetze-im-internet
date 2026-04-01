@@ -19,19 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 28.2.2025 I Nr. 69, dieser geändert durch 59 Nr. 2 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 6 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 4.2.2026 I Nr. 33 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 27 Abs. 2 G v. 25.3.2026 I Nr. 81
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -9153,22 +9141,23 @@ entsprechen:
 
 
 #### § 107 Einleitung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
-[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009111360)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009112129)
 
 (1) Die Bundesanstalt leitet eine Prüfung der Rechnungslegung ein,
 soweit konkrete Anhaltspunkte für einen Verstoß gegen
 Rechnungslegungsvorschriften vorliegen; die Einleitung unterbleibt,
 wenn ein öffentliches Interesse an der Klärung offensichtlich nicht
 besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch
-dann einleiten, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 2 des
-Kreditwesengesetzes, nach § 14 Satz 2 des Kapitalanlagegesetzbuchs,
-nach § 5 Absatz 4 Satz 2 des Wertpapierinstitutsgesetzes, nach § 19
-Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes oder nach § 306
-Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes durchführt oder
-durchgeführt hat und die Prüfungen denselben Gegenstand betreffen. Die
-Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne
-besonderen Anlass einleiten (stichprobenartige Prüfung). Geprüft
-werden nur folgende Abschlüsse und Berichte:
+dann einleiten, wenn sie eine Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes, nach § 14 Absatz 2 Satz 2 des
+Kapitalanlagegesetzbuches, nach § 5 Absatz 4 Satz 2 des
+Wertpapierinstitutsgesetzes, nach § 19 Absatz 1 Satz 2 des
+Zahlungsdiensteaufsichtsgesetzes oder nach § 306 Absatz 1 Nummer 1 des
+Versicherungsaufsichtsgesetzes durchführt oder durchgeführt hat und
+die Prüfungen denselben Gegenstand betreffen. Die Bundesanstalt kann
+eine Prüfung der Rechnungslegung auch ohne besonderen Anlass einleiten
+(stichprobenartige Prüfung). Geprüft werden nur folgende Abschlüsse
+und Berichte:
 
 1.  der zuletzt festgestellte Jahresabschluss und der zugehörige
     Lagebericht,

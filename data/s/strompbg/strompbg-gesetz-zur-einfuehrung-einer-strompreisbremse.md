@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 2512
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.12.2025 I Nr. 317
-
-Änderung durch
-:   Art. 19 G v. 18.12.2025 I Nr. 347 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 G v. 18.12.2025 I Nr. 347
 
 Stand: Das G ist gem. Art. 12 Abs. 1 G v. 20.12.2022 I 2512 am 24.12.2022 in Kraft getreten
 [^F824779_01_BJNR251210022]:     Dieses Gesetz dient der Umsetzung der Verordnung (EU) 2022/1854 des
