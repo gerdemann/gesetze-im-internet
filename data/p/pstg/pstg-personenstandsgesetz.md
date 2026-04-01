@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 24.6.2024 I Nr. 212
 
+Änderung durch
+:   Art. 2 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -1256,14 +1259,14 @@ Erklärungen.
 
 
 #### § 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004502116)
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004503129)
 
 (1) Die Erklärung, durch welche die Vaterschaft zu einem Kind
 anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch
 von den Standesbeamten beurkundet werden. Gleiches gilt für die etwa
 erforderliche Zustimmung des Kindes, des gesetzlichen Vertreters oder
-des Ehemannes der Mutter zu einer solchen Erklärung sowie für den
-Widerruf der Anerkennung.
+des Mannes, der dem Kind bislang als Vater zugeordnet war, zu einer
+solchen Erklärung.
 
 (2) Die Erklärung, durch welche die Mutterschaft zu einem Kind
 anerkannt wird, und die etwa erforderliche Zustimmungserklärung des
@@ -1274,6 +1277,16 @@ beurkundet werden.
 beglaubigte Abschrift der Erklärungen zu übersenden. Ist die Geburt
 des Kindes nicht im Inland beurkundet, so ist die beglaubigte
 Abschrift dem Standesamt I in Berlin zu übersenden.
+
+
+#### § 44a Nachweise nach einer Anerkennung trotz bestehender Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008700129)
+
+Zur Prüfung der leiblichen Abstammung des Kindes von dem anerkennenden
+Mann nach § 1595a Absatz 1 des Bürgerlichen Gesetzbuchs verlangt das
+Standesamt die Vorlage des Ergebnisses einer genetischen
+Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes, dem
+zufolge der anerkennende Mann der leibliche Vater des Kindes ist.
 
 
 #### § 45 Erklärungen zur Namensführung des Kindes
@@ -1455,7 +1468,7 @@ entsprechenden Angaben unter Hinweis auf die Grundlagen zu ändern.
 
 
 #### § 47 Berichtigung nach Abschluss der Beurkundung
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004805116)
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004806129)
 
 (1) In einem abgeschlossenen Registereintrag sind offenkundige
 Schreibfehler zu berichtigen. Auf Grund öffentlicher Urkunden oder
@@ -1494,6 +1507,10 @@ festgestellt wird durch
 
 
 
+Eintragungen auf Grund einer Anerkennung, die nach § 1594 Absatz 5
+Satz 1 des Bürgerlichen Gesetzbuchs nicht wirksam war, sind zu
+berichtigen, wenn die Vaterschaft des anderen Mannes durch
+Gerichtsbeschluss festgestellt wird.
 
 (2) Gehen dem Standesamt berichtigende Mitteilungen oder Anzeigen zu,
 so sind außerdem zu berichtigen
@@ -1920,7 +1937,7 @@ Lebenspartnerschaftsregister die Lebenspartner.
 
 
 #### § 63 Benutzung in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006402360)
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006403129)
 
 (1) Ist ein Kind angenommen, so darf abweichend von § 62 ein
 beglaubigter Registerausdruck aus dem Geburtseintrag nur den
@@ -1952,6 +1969,14 @@ Geschlechtseintrag bleibt unberührt.
 (3) Die Absätze 1 und 2 gelten entsprechend für Auskunft aus einem und
 Einsicht in einen Registereintrag sowie Auskunft aus den und Einsicht
 in die Sammelakten.
+
+(4) Ist die Anerkennung trotz bestehender Vaterschaft erfolgt, so darf
+abweichend von § 62 Auskunft aus einem und Einsicht in ein in die
+Sammelakten aufgenommenes Ergebnis einer genetischen
+Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes nur dem
+Anerkennenden, der Mutter, dem Kind und dem anderen Mann, dessen
+Zustimmung nach § 1595a des Bürgerlichen Gesetzbuchs erforderlich ist,
+erteilt werden.
 
 
 #### § 64 Sperrvermerke

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 15 G v. 12.5.2021 I 990
 
+Änderung durch
+:   Art. 26 Abs. 5 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000100000)
@@ -1978,7 +1981,7 @@ falls
 
 
 #### § 50 Aufsicht über Einlagensicherungssysteme
-[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005100000)
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005101128)
 
 (1) Einlagensicherungssysteme unterliegen der Aufsicht der
 Bundesanstalt.
@@ -1998,7 +2001,7 @@ ihre Abberufung verlangen und ihnen die Ausübung ihrer Tätigkeit
 untersagen.
 
 (3) Der Bundesanstalt stehen gegenüber den Einlagensicherungssystemen
-die Auskunfts- und Prüfungsrechte nach § 44 Absatz 1, 4 und 5 des
+die Auskunfts- und Prüfungsrechte nach § 44 Absatz 1, 4 und 7 des
 Kreditwesengesetzes zu.
 
 (4) Sofern die Bundesanstalt Kenntnis von Umständen bei einem CRR-

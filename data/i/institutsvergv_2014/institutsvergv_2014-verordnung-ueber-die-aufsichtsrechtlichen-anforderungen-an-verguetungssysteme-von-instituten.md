@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.2.2023 I Nr. 41
 
+Änderung durch
+:   Art. 11 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 25.3.2026 I Nr. 81 mWv 1.4.2026 noch nicht berücksichtigt
+
 Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
 [^F1_783652_BJNR427000013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
@@ -48,7 +54,7 @@ Bundesbank und nach Anhörung der Spitzenverbände der Institute:
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000304130)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000305128)
 
 (1) Diese Verordnung gilt vorbehaltlich des Absatzes 3 für alle
 Institute gemäß § 1 Absatz 1b und § 53 Absatz 1 des
@@ -59,7 +65,11 @@ Unternehmen mit Sitz in einem anderen Staat des Europäischen
 Wirtschaftsraums gemäß § 53b Absatz 1 und 7 des Kreditwesengesetzes
 und auf Unternehmen, die ausschließlich Finanzdienstleistungen gemäß §
 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 des Kreditwesengesetzes
-erbringen, ist sie nicht anzuwenden.
+erbringen, ist sie nicht anzuwenden. § 27 Absatz 1 bis 5 ist zudem von
+übergeordneten Unternehmen, bei denen es sich um eine
+Mutterfinanzholding-Gesellschaft, gemischte Mutterfinanzholding-
+Gesellschaft, EU-Mutterfinanzholding-Gesellschaft oder eine gemischte
+EU-Mutterfinanzholding-Gesellschaft handelt, anzuwenden.
 
 (2) § 5 Absatz 6 und § 16 sind nicht anzuwenden auf Institute, die
 weder ein CRR-Kreditinstitut gemäß § 1 Absatz 3d Satz 1 des
@@ -103,8 +113,8 @@ Kreditwesengesetzes sind, wenn
 
     c)  ihr Gesamtwert an Derivatepositionen, die mit Handelsabsicht gehalten
         werden, übersteigt zum Abschluss des letzten Geschäftsjahres 2 Prozent
-        der gesamten bilanziellen und außerbilanziellen Vermögenswerte und ihr
-        Gesamtwert an allen Derivatepositionen übersteigt 5 Prozent, wobei
+        der gesamten bilanziellen und außerbilanziellen Vermögenswerte oder
+        ihr Gesamtwert an allen Derivatepositionen übersteigt 5 Prozent, wobei
         beide Werte gemäß Artikel 273a Absatz 3 der Verordnung (EU) Nr.
         575/2013 berechnet werden.
 
@@ -355,7 +365,7 @@ Erreichen der strategischen Ziele unterstützen.
 
 
 ### § 5 Angemessenheit der Vergütung und der Vergütungssysteme
-[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000704128)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000705128)
 
 (1) Die Vergütungssysteme sind angemessen ausgestaltet, wenn
 
@@ -470,7 +480,7 @@ Kreditwesengesetzes nicht berücksichtigt werden:
 
 
     b)  die aufgrund eines Sozialplans gemäß § 112 Absatz 1 des
-        Betriebsverfassungsgesetzes oder gemäß § 75 Absatz 3 Nummer 13 des
+        Betriebsverfassungsgesetzes oder gemäß § 79 Absatz 1 Nummer 5 des
         Bundespersonalvertretungsgesetzes oder gemäß den entsprechenden
         landesrechtlichen Regelungen geleistet werden,
 
@@ -749,7 +759,7 @@ die Zulagen
 
 
 ### § 12 Überprüfung und Anpassung der Vergütungssysteme
-[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001403128)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001404128)
 
 (1) Die Vergütungssysteme und die zugrunde gelegten
 Vergütungsparameter sind von dem Institut zumindest einmal jährlich
@@ -758,10 +768,10 @@ Geschäfts- und Risikostrategien, zu überprüfen. Dabei sind zumindest
 die diesbezüglichen Berichte der Internen Revision, der
 Prüfungsbericht des Abschlussprüfers gemäß § 26 Absatz 1 des
 Kreditwesengesetzes sowie in bedeutenden Instituten gemäß § 1 Absatz
-3c des Kreditwesengesetzes dieser Verordnung der
-Vergütungskontrollbericht gemäß § 24 Absatz 3 heranzuziehen. Die
-Überprüfung ist schriftlich oder elektronisch zu dokumentieren und das
-Überprüfungsergebnis dem Verwaltungs- oder Aufsichtsorgan vorzulegen.
+3c des Kreditwesengesetzes der Vergütungskontrollbericht gemäß § 24
+Absatz 3 heranzuziehen. Die Überprüfung ist schriftlich oder
+elektronisch zu dokumentieren und das Überprüfungsergebnis dem
+Verwaltungs- oder Aufsichtsorgan vorzulegen.
 
 (2) Werden bei der Überprüfung Mängel festgestellt, ist zeitnah ein
 Maßnahmenplan zu erstellen und umzusetzen. Die ergriffenen Maßnahmen

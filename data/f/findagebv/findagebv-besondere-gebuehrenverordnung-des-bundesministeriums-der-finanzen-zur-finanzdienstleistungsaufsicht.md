@@ -316,7 +316,7 @@ tritt am 1. Januar 2022 in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000804130)
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000805130)
 
 (Fundstelle: BGBl. I 2021, 4079 - 4109;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1217,16 +1217,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.3.4.1.1
 
-    *   von Personen, die die Geschäfte einer Finanzholding-Gesellschaft
-        tatsächlich führen
+    *   von Geschäftsleitern einer Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
 
 *    *   5.1.3.4.1.2
 
-    *   von Personen, die die Geschäfte einer gemischten Finanzholding-
-        Gesellschaft tatsächlich führen
+    *   von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
@@ -1239,16 +1237,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1.3.4.2.1
 
-    *   von Personen, die die Geschäfte einer Finanzholding-Gesellschaft
-        tatsächlich führen
+    *   von Geschäftsleitern einer Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
 
 *    *   5.1.3.4.2.2
 
-    *   von Personen, die die Geschäfte einer gemischten Finanzholding-
-        Gesellschaft tatsächlich führen
+    *   von Geschäftsleitern einer gemischten Finanzholding-Gesellschaft
 
     *   nach Zeitaufwand
 
@@ -1269,6 +1265,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   5.1.3.4.3.2
+
+    *   Erteilung einer Befreiung von der Zulassungspflicht durch die
+        Aufsichtsbehörde auf Grundlage eines Befreiungsantrags
+        (§ 2f Absatz 4 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.3.4.3.3
 
     *   Maßnahmen nach § 2f Absatz 6 Satz 1 Nummer 1 bis 6 oder Satz 2 KWG
 
@@ -1316,6 +1321,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   5.1.4.4
 
     *   Anordnung nach § 10a KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.4.5
+
+    *   Ausnahme einzelner Finanzholding-Gesellschaften oder gemischter
+        Finanzholding-Gesellschaften, die von der Zulassungspflicht nach § 2f
+        Absatz 1 befreit wurden, aus dem Konsolidierungskreis
+        (§ 10a Absatz 3 KWG)
 
     *   nach Zeitaufwand
 

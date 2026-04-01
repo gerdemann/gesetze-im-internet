@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 10.2.2026 I Nr. 40
+:   Art. 2 G v. 27.3.2026 I Nr. 82
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -866,6 +866,33 @@ Satzes 1 nicht berücksichtigt werden. Die §§ 19 und 20 bleiben
 unberührt.
 
 
+#### § 29a Kraftstoffmärkte
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031800128)
+
+(1) Einem Anbieter von Kraftstoffen ist es verboten, auf einem der
+Abgabe von Kraftstoffen an Letztverbraucher vorgelagerten Markt, auf
+dem er allein oder zusammen mit anderen Anbietern von Kraftstoffen
+eine marktbeherrschende Stellung innehat oder über relative Marktmacht
+verfügt, diese missbräuchlich auszunutzen, indem er Kraftstoffpreise
+fordert, die die Kosten in unangemessener Weise überschreiten. Dabei
+trägt der Anbieter in Verfahren vor der Kartellbehörde die Darlegungs-
+und Beweislast für die Zuordnung und Höhe der Kosten und, soweit die
+Höhe der Kosten das Marktübliche erheblich überschreitet, auch die
+Angemessenheit der Kosten.
+
+(2) Kraftstoffe im Sinne dieser Vorschrift sind Ottokraftstoffe und
+Dieselkraftstoffe.
+
+(3) Kosten, die sich ihrem Umfang nach im Wettbewerb nicht einstellen
+würden, dürfen bei der Feststellung eines Missbrauchs im Sinne des
+Absatzes 1 nicht berücksichtigt werden. Die §§ 19 und 20 bleiben
+unberührt.
+
+(4) Das Bundesministerium für Wirtschaft und Energie berichtet den
+gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1.
+April 2026 über die Erfahrung mit dieser Regelung.
+
+
 #### § 30 Presse
 [Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003606118)
 
@@ -1279,7 +1306,7 @@ nach Absatz 6 für vier Monate ausgeschlossen.
 
 
 ##### § 32f Maßnahmen nach einer Sektoruntersuchung
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031601125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031602128)
 
 (1) Nach der Veröffentlichung eines Berichts nach § 32e Absatz 4 zu
 einer Sektoruntersuchung nach § 32e Absatz 1 hat das Bundeskartellamt
@@ -1307,28 +1334,16 @@ fortbestehen, kann das Bundeskartellamt die Anmeldeverpflichtung um
 drei Jahre verlängern; wiederholte Verlängerungen um jeweils drei
 Jahre sind bis zu dreimal zulässig.
 
-(3) Das Bundeskartellamt kann durch Verfügung feststellen, dass eine
-erhebliche und fortwährende Störung des Wettbewerbs auf mindestens
-einem mindestens bundesweiten Markt, mehreren einzelnen Märkten oder
-marktübergreifend vorliegt, soweit die Anwendung der sonstigen
-Befugnisse nach Teil 1 nach den im Zeitpunkt der Entscheidung beim
-Bundeskartellamt vorliegenden Erkenntnissen voraussichtlich nicht
-ausreichend erscheint, um die Störung des Wettbewerbs wirksam und
-dauerhaft zu beseitigen. Die Verfügung nach Satz 1 ergeht gegenüber
-einem oder mehreren Unternehmen, die als Adressaten von Maßnahmen nach
-Satz 6 oder Absatz 4 in Betracht kommen. Adressaten von Maßnahmen
-können Unternehmen sein, die durch ihr Verhalten und ihre Bedeutung
-für die Marktstruktur zur Störung des Wettbewerbs wesentlich
-beitragen. Bei der Auswahl der Adressaten und der Abhilfemaßnahmen ist
-insbesondere auch die Marktstellung des Unternehmens zu
-berücksichtigen. Das Bundeskartellamt kann die Verfügung nach Satz 1
-durch Beschluss zu einem späteren Zeitpunkt auf weitere Unternehmen im
-Sinne der Sätze 2 und 3 ausdehnen. Das Bundeskartellamt kann im Falle
-einer Feststellung nach Satz 1 den betroffenen Unternehmen alle
-Abhilfemaßnahmen verhaltensorientierter oder struktureller Art
-vorschreiben, die zur Beseitigung oder Verringerung der Störung des
-Wettbewerbs erforderlich sind. Die Abhilfemaßnahmen können
-insbesondere Folgendes zum Gegenstand haben:
+(3) Wenn eine erhebliche und fortwährende Störung des Wettbewerbs auf
+mindestens einem mindestens bundesweiten Markt, mehreren einzelnen
+Märkten oder marktübergreifend vorliegt, kann das Bundeskartellamt,
+soweit die Anwendung der sonstigen Befugnisse nach Teil 1 nach den im
+Zeitpunkt der Entscheidung beim Bundeskartellamt vorliegenden
+Erkenntnissen voraussichtlich nicht ausreichend erscheint, gegenüber
+Unternehmen alle Abhilfemaßnahmen verhaltensorientierter oder
+struktureller Art vorschreiben, die zur Beseitigung oder Verringerung
+der Störung des Wettbewerbs erforderlich sind. Die Abhilfemaßnahmen
+können insbesondere Folgendes zum Gegenstand haben:
 
 1.  die Gewährung des Zugangs zu Daten, Schnittstellen, Netzen oder
     sonstigen Einrichtungen,
@@ -1365,7 +1380,7 @@ oder Vermögen zu veräußern, wenn zu erwarten ist, dass durch diese
 Maßnahme die erhebliche und fortwährende Störung des Wettbewerbs
 beseitigt oder erheblich verringert wird. Abhilfemaßnahmen nach Satz 1
 dürfen nur angeordnet werden, wenn Abhilfemaßnahmen nach Absatz 3 Satz
-6 nicht möglich sind, nicht von gleicher Wirksamkeit oder im Vergleich
+1 nicht möglich sind, nicht von gleicher Wirksamkeit oder im Vergleich
 zu Abhilfemaßnahmen nach Satz 1 mit einer größeren Belastung für das
 Unternehmen verbunden wären. Vor Erlass der Verfügung ist der
 Monopolkommission und den nach § 48 Absatz 1 zuständigen obersten
@@ -1480,6 +1495,10 @@ berücksichtigen.
 gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach
 Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die
 Erfahrungen mit der Vorschrift.
+
+(10) Das Bundesministerium für Wirtschaft und Energie berichtet den
+gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1.
+April 2026 über die Erfahrung mit dem neuen Absatz 3 Satz 1.
 
 
 ##### § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
@@ -3764,7 +3783,7 @@ Betroffenen und der Markttransparenzstelle zuzuordnen sind.
 
 
 ##### § 47k Marktbeobachtung im Bereich Kraftstoffe
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021805125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021806128)
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für
 Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der
@@ -3798,12 +3817,19 @@ an öffentlich zugänglichen Orten befinden und die ohne Beschränkung
 des Personenkreises aufgesucht werden können.
 
 (4) Bestehen Anhaltspunkte dafür, dass ein Unternehmen gegen die in
-Absatz 1 genannten gesetzlichen Bestimmungen verstößt, muss die
-Markttransparenzstelle für Kraftstoffe umgehend die zuständige
-Kartellbehörde informieren und den Vorgang an sie abgeben. Hierzu oder
-auf Anfrage einer Kartellbehörde leitet sie alle von dieser für deren
-Aufgaben nach diesem Gesetz benötigten oder angeforderten
-Informationen und Daten unverzüglich an diese weiter. Die
+Absatz 1 genannten gesetzlichen Bestimmungen oder gegen § 2 Absatz 1
+des Kraftstoffpreisanpassungsgesetzes verstößt, muss die
+Markttransparenzstelle für Kraftstoffe in den Fällen eines Verstoßes
+gegen die in Absatz 1 genannten Bestimmungen umgehend die zuständige
+Kartellbehörde und in den Fällen eines Verstoßes gegen § 2 Absatz 1
+des Kraftstoffpreisanpassungsgesetzes umgehend die Landesbehörde, die
+für die Verfolgung und Ahndung einer Ordnungswidrigkeit nach § 3
+Absatz 1 des Kraftstoffpreisanpassungsgesetzes zuständig ist,
+informieren und den Vorgang an sie abgeben. In den Fällen des Satzes 1
+leitet die Markttransparenzstelle für Kraftstoffe alle bei ihr
+vorhandenen und von der jeweils zuständigen Behörde für deren Aufgaben
+nach diesem Gesetz oder nach dem Kraftstoffpreisanpassungsgesetz
+benötigten Informationen und Daten unverzüglich an diese weiter. Die
 Markttransparenzstelle für Kraftstoffe stellt die von ihr nach Absatz
 2 erhobenen Daten ferner den folgenden Behörden und Stellen zur
 Verfügung:
@@ -4592,7 +4618,7 @@ Zuständigkeit zu Unrecht angenommen hat.
 
 
 ##### § 56 Anhörung, Akteneinsicht, mündliche Verhandlung
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006812125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006813128)
 
 (1) Die Kartellbehörde hat den Beteiligten Gelegenheit zur
 Stellungnahme zu geben. Über die Form der Anhörung entscheidet die
@@ -4644,15 +4670,15 @@ die Verhandlung oder für einen Teil davon ist die Öffentlichkeit
 auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung,
 insbesondere des Wohls des Bundes oder eines Landes, oder eine
 Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses
-besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4
+besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4
 hat das Bundeskartellamt nach Einleitung des Verfahrens eine
 öffentliche mündliche Verhandlung durchzuführen. In den Fällen des §
 42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine
 öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis
-der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 6 und
+der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 1 und
 Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden.
 In der öffentlichen mündlichen Verhandlung hat die Monopolkommission
-in den Fällen des § 32f Absatz 3 Satz 6 und Absatz 4 sowie des § 42
+in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42
 das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht,
 die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu
 erläutern.
@@ -5166,13 +5192,13 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 
 
 ##### § 66 Aufschiebende Wirkung
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007812125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007813128)
 
 (1) Rechtsbehelfe haben aufschiebende Wirkung, soweit durch die
 angefochtene Verfügung
 
 1.  eine Verfügung nach § 26 Absatz 4, § 30 Absatz 3, § 31b Absatz 3, § 32
-    Absatz 2a Satz 1, § 32f Absatz 3 Satz 6 und Absatz 4 oder § 34 Absatz
+    Absatz 2a Satz 1, § 32f Absatz 3 Satz 1 und Absatz 4 oder § 34 Absatz
     1 getroffen wird oder
 
 
@@ -5729,7 +5755,7 @@ zugrunde zu legen.
 
 
 ##### § 81 Bußgeldtatbestände
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009417125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009418128)
 
 (1) Ordnungswidrig handelt, wer gegen den Vertrag über die
 Arbeitsweise der Europäischen Union in der Fassung der Bekanntmachung
@@ -5749,21 +5775,23 @@ vorsätzlich oder fahrlässig
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  einer Vorschrift der §§ 1, 19, 20 Absatz 1 bis 3 Satz 1, Absatz 3a
-    oder Absatz 5, des § 21 Absatz 3 oder 4, des § 29 Satz 1 oder des § 41
-    Absatz 1 Satz 1 über das Verbot einer dort genannten Vereinbarung,
-    eines dort genannten Beschlusses, einer aufeinander abgestimmten
-    Verhaltensweise, des Missbrauchs einer marktbeherrschenden Stellung,
-    des Missbrauchs einer Marktstellung oder einer überlegenen Marktmacht,
-    einer unbilligen Behinderung oder unterschiedlichen Behandlung, der
-    Ablehnung der Aufnahme eines Unternehmens, der Ausübung eines Zwangs,
-    der Zufügung eines wirtschaftlichen Nachteils oder des Vollzugs eines
-    Zusammenschlusses zuwiderhandelt,
+    oder Absatz 5, des § 21 Absatz 3 oder 4, des § 29 Satz 1, des § 29a
+    Absatz 1 Satz 1 oder des § 41 Absatz 1 Satz 1 über das Verbot einer
+    dort genannten Vereinbarung, eines dort genannten Beschlusses, einer
+    aufeinander abgestimmten Verhaltensweise, des Missbrauchs einer
+    marktbeherrschenden Stellung, des Missbrauchs einer Marktstellung oder
+    einer überlegenen Marktmacht, einer unbilligen Behinderung oder
+    unterschiedlichen Behandlung, der Ablehnung der Aufnahme eines
+    Unternehmens, der Ausübung eines Zwangs, der Zufügung eines
+    wirtschaftlichen Nachteils, der missbräuchlichen Ausnutzung einer
+    marktbeherrschenden Stellung oder relativer Marktmacht oder des
+    Vollzugs eines Zusammenschlusses zuwiderhandelt,
 
 
 2.  einer vollziehbaren Anordnung nach
 
     a)  § 19a Absatz 2, § 30 Absatz 3, § 31b Absatz 3 Nummer 1 und 3, § 32
-        Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1, § 32f Absatz 3 Satz 6
+        Absatz 1, § 32a Absatz 1, § 32b Absatz 1 Satz 1, § 32f Absatz 3 Satz 1
         oder Absatz 4 Satz 1, § 41 Absatz 4 Nummer 2, auch in Verbindung mit §
         40 Absatz 3a Satz 2, auch in Verbindung mit § 41 Absatz 2 Satz 3 oder
         § 42 Absatz 2 Satz 2, oder § 60 oder
@@ -6433,7 +6461,7 @@ Kronzeugenbehandlung.
 
 
 ##### § 82 Zuständigkeiten in Kartellbußgeldsachen
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009506125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009507128)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
@@ -6459,6 +6487,15 @@ Gesetzes über Ordnungswidrigkeiten sind
 
 
 
+
+(1a) Abweichend von Absatz 1 Nummer 2 ist Verwaltungsbehörde im Sinne
+des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten in
+den Fällen des § 81 Absatz 2 Nummer 5b dieses Gesetzes, soweit die
+Ordnungswidrigkeit im Zusammenhang mit einer Ordnungswidrigkeit nach
+§ 3 Absatz 1 des Kraftstoffpreisanpassungsgesetzes steht, die
+Landesbehörde, die für die Verfolgung und Ahndung einer
+Ordnungswidrigkeit nach § 3 Absatz 1 des
+Kraftstoffpreisanpassungsgesetzes zuständig ist.
 
 (2) Die Kartellbehörde ist für Verfahren wegen der Festsetzung einer
 Geldbuße gegen eine juristische Person oder Personenvereinigung nach §
@@ -10814,7 +10851,7 @@ machen.
 
 
 ### § 187 Übergangs- und Schlussbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027906125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027907128)
 
 (1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
 
@@ -11009,4 +11046,8 @@ des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger
 als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7
 mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu
 laufen beginnt.
+
+(13) Verfahren nach § 32f Absatz 3, die vor dem 1. April 2026
+eingeleitet wurden, werden nach dem Recht zu Ende geführt, das zum
+Zeitpunkt des Erlasses der Verfügung nach § 32f Absatz 3 gilt.
 

@@ -34,30 +34,25 @@ I S. 902) verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Nationale Anlaufstelle für Terrorismusfragen
-[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000203125)
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000204126)
 
 Der Generalbundesanwalt beim Bundesgerichtshof ist nationale Eurojust-
-Anlaufstelle für Terrorismusfragen nach Artikel 20 Absatz 3 Buchstabe
-c der Verordnung (EU) 2018/1727 des Europäischen Parlaments und des
-Rates vom 14. November 2018 betreffend die Agentur der Europäischen
-Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und zur
-Ersetzung und Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L
-295 vom 21.11.2018, S. 138 – Eurojust-Verordnung) und Artikel 2 Abs. 2
-des Beschlusses 2005/671/JI des Rates vom 20. September 2005 über den
-Informationsaustausch und die Zusammenarbeit betreffend terroristische
-Straftaten (ABl. EU Nr. L 253 S. 22) (nationale Anlaufstelle).
+Anlaufstelle für Terrorismusfragen nach Artikel 20 Absatz 2a und 3
+Buchstabe c der Verordnung (EU) 2018/1727 (Eurojust-Verordnung) in der
+Fassung vom 4. Oktober 2023 (nationale Anlaufstelle).
 
 
 ## § 2 Verarbeitung der durch den Generalbundesanwalt erhobenen Informationen
-[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000303125)
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000304126)
 
 (1) In seiner Eigenschaft als nationale Anlaufstelle verarbeitet der
 Generalbundesanwalt diejenigen Informationen über terroristische
-Straftaten im Sinne von Artikel 2 Abs. 3 und 5 des Beschlusses
-2005/671/JI, die er im Rahmen der Erfüllung seiner nach dem
-Gerichtsverfassungsgesetz und der Strafprozessordnung zugewiesenen
-Aufgaben als Strafverfolgungsbehörde erhoben hat, in einer gesonderten
-Datei. § 490 der Strafprozessordnung bleibt unberührt.
+Straftaten im Sinne von Artikel 21a Absatz 1 und 4 der Eurojust-
+Verordnung in der Fassung vom 4. Oktober 2023, die er im Rahmen der
+Erfüllung seiner nach dem Gerichtsverfassungsgesetz und der
+Strafprozessordnung zugewiesenen Aufgaben als Strafverfolgungsbehörde
+erhoben hat, in einer gesonderten Datei. § 490 der Strafprozessordnung
+bleibt unberührt.
 
 (2) Terroristische Straftaten nach Absatz 1 sind die in den Titeln II
 und III der Richtlinie (EU) 2017/541 des Europäischen Parlaments und
@@ -74,26 +69,26 @@ unberührt.
 
 
 ## § 3 Übermittlung von Informationen durch die Staatsanwaltschaften der Länder und deren Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000401301)
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000402126)
 
 (1) Soweit die Informationen nach dem Kenntnisstand der
 Staatsanwaltschaften der Länder nicht bereits beim Generalbundesanwalt
 vorhanden sind, übermitteln sie nach eigener Sachprüfung dem
 Generalbundesanwalt die Informationen über terroristische Straftaten
-im Sinne von Artikel 2 Abs. 3 und 5 des Beschlusses 2005/671/JI, die
-sie im Rahmen der Erfüllung ihrer nach dem Gerichtsverfassungsgesetz
-und der Strafprozessordnung zugewiesenen Aufgaben als
-Strafverfolgungsbehörden erhoben haben.
+im Sinne von Artikel 21a Absatz 1 und 4 der Eurojust-Verordnung in der
+Fassung vom 4. Oktober 2023, die sie im Rahmen der Erfüllung ihrer
+nach dem Gerichtsverfassungsgesetz und der Strafprozessordnung
+zugewiesenen Aufgaben als Strafverfolgungsbehörden erhoben haben.
 
 (2) Der Generalbundesanwalt prüft unverzüglich, ob die nach Absatz 1
-übermittelten Informationen den Anforderungen des Artikels 2 Abs. 3
-und 5 des Beschlusses 2005/671/JI entsprechen. Soweit die Daten diesen
-Anforderungen entsprechen, speichert er sie in der Datei nach § 2 Abs.
-1 Satz 1.
+übermittelten Informationen den Anforderungen des Artikels 21a Absatz
+1 und 4 der Eurojust-Verordnung in der Fassung vom 4. Oktober 2023
+entsprechen. Soweit die Daten diesen Anforderungen entsprechen,
+speichert er sie in der Datei nach § 2 Abs. 1 Satz 1.
 
 
 ## § 4 Befugnisse des Generalbundesanwalts in seiner Eigenschaft als nationale Anlaufstelle, Zweckbindung
-[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000501125)
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000502126)
 
 (1) Der Generalbundesanwalt führt die in den §§ 2 und 3 bezeichneten
 Informationen in der Datei nach § 2 Abs. 1 Satz 1 zu einheitlich
@@ -109,11 +104,12 @@ Zusammenführung von Informationen gemäß Absatz 1 erfolgen, damit die
 Informationen an Eurojust nach Absatz 3 übermittelt werden.
 
 (3) Die Übermittlung von Informationen an Eurojust erfolgt nach
-Artikel 21 der Eurojust-Verordnung.
+Artikel 21a der Eurojust-Verordnung in der Fassung vom 4. Oktober
+2023\.
 
 
 ## § 5 Schutz personenbezogener Informationen
-[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000604125)
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000605126)
 
 (1) Auf die Verwendung der nach § 3 Abs. 1 übermittelten und der in
 der Datei nach § 2 Abs. 1 Satz 1 gespeicherten Informationen finden §
@@ -133,6 +129,14 @@ Terrorismus vom 27. Dezember 2001 (ABl. EG Nr. L 344 S. 93) gestrichen
 worden ist. Satz 3 gilt nicht, wenn sich die Informationen auf eine
 terroristische Vereinigung im Sinne von Artikel 2 Nummer 3 der
 Richtlinie (EU) 2017/541 beziehen.
+
+(3) Die nach § 3 Absatz 1 übermittelnde Stelle informiert den
+Generalbundesanwalt, wenn die nach § 3 Absatz 1 übermittelten
+Informationen nach Abschluss des Verfahrens von Eurojust zu löschen
+sind. Der Generalbundesanwalt unterrichtet Eurojust unverzüglich, wenn
+die nach § 4 übermittelten Informationen zu löschen sind. Für
+Entscheidungen nach den Sätzen 1 und 2 gilt § 489 der
+Strafprozessordnung entsprechend.
 
 
 ## § 6 Aufsicht

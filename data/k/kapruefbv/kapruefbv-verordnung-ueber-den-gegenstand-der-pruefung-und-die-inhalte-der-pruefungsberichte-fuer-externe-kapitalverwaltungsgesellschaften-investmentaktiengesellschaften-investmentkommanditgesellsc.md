@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 Abs. 4 G v. 3.6.2021 I 1498
 
+Änderung durch
+:   Art. 26 Abs. 6 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000100000)
@@ -71,7 +74,7 @@ Risikogehalt der betriebenen Geschäfte zu berücksichtigen.
 
 
 ### § 3 Allgemeine Prüfungs- und Berichtsgrundsätze
-[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000501123)
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000502128)
 
 (1) Der Prüfungsbericht muss vollständig und übersichtlich gegliedert
 sein. Bei den Beurteilungen im Prüfungsbericht sind die
@@ -81,15 +84,13 @@ Kapitalverwaltungsgesellschaft bedeutsame Ereignisse, die nach dem
 Bilanzstichtag der Gesellschaft eingetreten und dem Abschlussprüfer
 bekannt geworden sind.
 
-(2) Wurde im Berichtszeitraum eine Prüfung gemäß § 14 des
-Kapitalanlagegesetzbuches in Verbindung mit § 44 Absatz 1 Satz 2 des
-Kreditwesengesetzes durchgeführt, so hat der Abschlussprüfer die
-Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen
+(2) Wurde im Berichtszeitraum eine Prüfung gemäß § 14 Absatz 2 Satz 2
+des Kapitalanlagegesetzbuches durchgeführt, so hat der Abschlussprüfer
+die Ergebnisse dieser Prüfung bei der Prüfung der aufsichtlichen
 Sachverhalte zu verwerten. Bei Sachverhalten, die Gegenstand der
-Prüfung gemäß § 14 des Kapitalanlagegesetzbuches in Verbindung mit §
-44 Absatz 1 Satz 2 des Kreditwesengesetzes waren, kann sich die
-aufsichtsrechtliche Berichterstattung auf Veränderungen bis zum
-Bilanzstichtag der Gesellschaft beschränken.
+Prüfung gemäß § 14 Absatz 2 Satz 2 des Kapitalanlagegesetzbuches
+waren, kann sich die aufsichtsrechtliche Berichterstattung auf
+Veränderungen bis zum Bilanzstichtag der Gesellschaft beschränken.
 
 (3) Soweit die Bundesanstalt für Finanzdienstleistungsaufsicht
 (Bundesanstalt) gegenüber der Kapitalverwaltungsgesellschaft
@@ -104,7 +105,7 @@ Ermessen des Abschlussprüfers und hat der Bedeutung der dargestellten
 Vorgänge zu entsprechen. Über bedeutsame Veränderungen gegenüber dem
 letzten Berichtszeitraum ist stets zu berichten.
 
-[^F816665_01_BJNR277700013BJNE000501123]
+[^F816665_01_BJNR277700013BJNE000502128]
 (5) Der Prüfungsbericht ist vom Abschlussprüfer eigenhändig zu
 unterzeichnen. Eine Kopie des unterzeichneten Exemplars, die
 insbesondere keine weiteren Zusätze wie etwa die Lesbarkeit
@@ -116,7 +117,7 @@ Bundesanstalt nur einzureichen, wenn diese das verlangt.
 
     Amtlicher Hinweis: Im Internet abrufbar unter
     https://portal.mvp.bafin.de/MvpPortalWeb/app/login.html
-[^F816665_01_BJNR277700013BJNE000501123]: 
+[^F816665_01_BJNR277700013BJNE000502128]: 
 
 ### § 4 Anlagen und Unzulässigkeit von Verweisungen
 [Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000600000)

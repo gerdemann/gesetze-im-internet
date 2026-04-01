@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4834
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.11.2023 I Nr. 335
+:   Art. 3 G v. 29.3.2026 I Nr. 83
 
 
 ## Eingangsformel
@@ -224,7 +224,7 @@ Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage Aufbewahrungs- und Speicherungsfristen
-[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001302125)
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001303129)
 
 (Fundstelle: BGBl. I 2021, 4837 - 4898;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -797,9 +797,9 @@ Staatsanwaltschaften der Länder
         festgestellt worden ist oder der Mann vor diesem Zeitpunkt in einer
         öffentlichen Urkunde seine Vaterschaft anerkannt oder in einem
         vollstreckbaren Schuldtitel sich zur Erfüllung der Ansprüche
-        verpflichtet hat, Anfechtungen der Vaterschaft nach § 1600 Abs. 1 BGB
-        und Artikel 12 § 3 Abs. 2 des Gesetzes über die rechtliche Stellung
-        der nichtehelichen Kinder
+        verpflichtet hat, Anfechtungen der Vaterschaft nach § 1600 Absatz 1
+        Satz 1 BGB und Artikel 12 § 3 Absatz 2 des Gesetzes über die
+        rechtliche Stellung der nichtehelichen Kinder
 
     *   70 Jahre
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 49 G v. 4.2.2026 I Nr. 33
 
+Änderung durch
+:   Art. 21 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Maßnahmen
 [Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000100000)
@@ -471,12 +474,12 @@ gelten in Bezug auf die Aufsicht nach Titel VI der Verordnung (EU)
 
 
 #### § 8 Verschwiegenheitspflicht
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000901128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000902128)
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
 nach § 23 Absatz 6 bestellten Sonderbeauftragten, die nach § 25 Absatz
-7 bestellten Treuhänder, die nach § 9 Absatz 1 Satz 2 Nummer 2, § 13
+9 bestellten Treuhänder, die nach § 9 Absatz 1 Satz 2 Nummer 2, § 13
 Absatz 2 Satz 2 oder § 28 Absatz 3 bestellten Abwickler sowie die im
 Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur
 Durchführung der Verordnung (EU) 2023/1114, der Verordnung (EU)
@@ -1244,7 +1247,7 @@ beim Erwerb kannte.
 
 
 #### § 20 Auskünfte und Prüfungen
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002100000)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002101128)
 
 (1) Ein Institut, die Mitglieder seiner Organe und seine Beschäftigten
 haben der Bundesanstalt, den Personen und Einrichtungen, derer sich
@@ -1255,10 +1258,13 @@ Form vorzulegen und erforderlichenfalls Kopien anzufertigen und
 auszuhändigen; dies gilt auch für Auslagerungsunternehmen, für die
 Mitglieder von deren Organen und für deren Beschäftigte, soweit
 Aktivitäten und Prozesse betroffen sind, die ein Institut ausgelagert
-hat. Die Bundesanstalt sowie die Deutsche Bundesbank können bei
-Auskunfts- und Vorlageersuchen eine elektronische Einreichung
-verlangen und nähere Bestimmungen über Art und Weise der Übermittlung
-treffen.
+hat. Mitglieder eines Organs und Beschäftigte der Institute oder
+Auslagerungsunternehmen haben auf Verlangen auch nach ihrem
+Ausscheiden aus dem Organ, dem Institut oder dem Unternehmen Auskunft
+zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt sowie die
+Deutsche Bundesbank können bei Auskunfts- und Vorlageersuchen eine
+elektronische Einreichung verlangen und nähere Bestimmungen über Art
+und Weise der Übermittlung treffen.
 
 (2) Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den
 Instituten und Auslagerungsunternehmen Prüfungen vornehmen und die
@@ -1266,11 +1272,58 @@ Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die
 Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die
 sonstigen Personen und Einrichtungen, derer sich die Bundesanstalt bei
 der Durchführung der Prüfungen bedient, insbesondere Wirtschaftsprüfer
-oder Sachverständige, können hierzu die Geschäftsräume des Instituts
-oder des Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
-Geschäftszeiten betreten und besichtigen.
+oder Sachverständige, können hierzu die Räume des Instituts oder des
+Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
+Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender
+Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume
+auch außerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten
+und zu besichtigen sowie auch Räume, die auch als Wohnung dienen, zu
+betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der
+Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit
+eingeschränkt.
 
-(3) Die Betroffenen haben Maßnahmen nach den Absätzen 1 und 2 zu
+(3) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen die Räume der nach Absatz 1 auskunfts- und
+vorlegungspflichtigen Unternehmen sowie von deren Organmitgliedern
+auch nach ihrem Ausscheiden durchsuchen, wenn Tatsachen die Annahme
+rechtfertigen, dass das Unternehmen oder das Organmitglied entgegen
+einer Bestimmung dieses Gesetzes oder einer vollziehbaren
+Einzelfallregelung auf Grundlage dieses Gesetzes die Aufklärung eines
+für die Aufsicht nach Maßgabe dieses Gesetzes entscheidungsrelevanten
+Sachverhalts beeinträchtigt, gefährdet oder verzögert, dadurch dass es
+
+1.  Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    macht oder
+
+
+2.  Unterlagen nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt.
+
+
+
+Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter
+anzuordnen. Bei Gefahr im Verzug kann die Einsatzleitung der
+Bundesanstalt die Anordnung treffen, soweit nicht lediglich mit einer
+nur unerheblichen Verzögerung zu rechnen ist. Durchsuchungen von
+Räumen, die als Wohnung dienen, sind immer durch den Richter
+anzuordnen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel
+13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Zuständig
+ist das Amtsgericht, in dessen Bezirk sich die Räume befinden. Gegen
+die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306
+bis 310 und 311a der Strafprozessordnung gelten entsprechend. Über die
+Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die
+verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und
+ihr Ergebnis und, falls keine richterliche Anordnung ergangen ist,
+auch die Tatsachen, welche die Annahme einer Gefahr im Verzug
+begründet haben, enthalten.
+
+(4) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen Gegenstände sicherstellen, die als Beweismittel für die
+Ermittlung des Sachverhalts von Bedeutung sein können. Werden die
+Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so
+werden diese an den letzten Gewahrsamsinhaber herausgegeben.
+
+(5) Die Betroffenen haben Maßnahmen nach den Absätzen 1 bis 4 zu
 dulden. Wer zur Auskunft verpflichtet ist, kann die Auskunft auf
 solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der
 in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
@@ -1594,7 +1647,7 @@ die für den Verstoß verantwortlich ist.
 
 
 #### § 25 Ergänzende Bestimmungen zur Übernahme von Instituten
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002601128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002602128)
 
 (1) Die Verpflichtung nach § 20 Absatz 1 gegenüber der Bundesanstalt
 und der Deutschen Bundesbank gilt auch für
@@ -1617,6 +1670,10 @@ und der Deutschen Bundesbank gilt auch für
 
 4.  Personen und Unternehmen, die mit einer Person oder einem Unternehmen
     nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind.
+    Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für
+    die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder
+    Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs,
+    jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.
 
 
 
@@ -1626,16 +1683,30 @@ Verordnung (EU) 2023/1114 in Verbindung mit den technischen
 Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4
 der Verordnung (EU) 2023/1114 auf seine Kosten durch einen von der
 Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. § 20
-Absatz 3 gilt entsprechend.
+Absatz 5 gilt entsprechend.
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können Maßnahmen
 nach § 20 Absatz 2 gegenüber den in Absatz 1 genannten Personen und
-Unternehmen ergreifen, wenn Anhaltspunkte dafür vorliegen, dass der
-interessierte Erwerber aufgrund der Kriterien nach Artikel 42 Absatz 1
-oder Artikel 84 Absatz 1 der Verordnung (EU) 2023/1114 nicht geeignet
-ist. § 20 Absatz 3 gilt entsprechend.
+Unternehmen ergreifen, wenn Anhaltspunkte dafür vorliegen, dass sie
+aufgrund der Kriterien nach Artikel 42 Absatz 1 oder Artikel 84 Absatz
+1 der Verordnung (EU) 2023/1114 nicht geeignet sind. § 20 Absatz 5
+gilt entsprechend.
 
-(3) Eine natürliche oder juristische Person oder eine
+(3) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen die Räume der nach Absatz 1 auskunfts- und
+vorlegungspflichtigen Personen, Unternehmen sowie von deren
+Organmitgliedern auch nach ihrem Ausscheiden durchsuchen. § 20 Absatz
+3 gilt entsprechend. Die Betroffenen haben Maßnahmen nach Satz 1 zu
+dulden.
+
+(4) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank
+dürfen Gegenstände sicherstellen, die als Beweismittel für die
+Ermittlung des Sachverhalts von Bedeutung sein können. Werden die
+Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so
+werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die
+Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
+
+(5) Eine natürliche oder juristische Person oder eine
 Personengesellschaft gilt als unzuverlässig, wenn nach einem im
 Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union
 veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen
@@ -1655,7 +1726,7 @@ Aufsichts- oder Verwaltungsrates oder eines vergleichbaren
 Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1
 fällt.
 
-(4) Die Bundesanstalt kann in den Fällen des Artikels 42 Absatz 2 oder
+(6) Die Bundesanstalt kann in den Fällen des Artikels 42 Absatz 2 oder
 des Artikels 84 Absatz 2 der Verordnung (EU) 2023/1114, statt den
 beabsichtigten Erwerb der qualifizierten Beteiligung oder ihre
 beabsichtigte Erhöhung zu untersagen, innerhalb des
@@ -1665,11 +1736,11 @@ treffen, die geeignet und erforderlich sind, um das Eintreten der in
 Artikel 42 Absatz 1 der Verordnung (EU) 2023/1114 genannten
 Untersagungsgründe auszuschließen.
 
-(5) Die Bundesanstalt kann eine Frist setzen, innerhalb derer der
+(7) Die Bundesanstalt kann eine Frist setzen, innerhalb derer der
 interessierte Erwerber anzuzeigen hat, ob der beabsichtigte Erwerb
 oder die Erhöhung vollzogen worden ist.
 
-(6) Wer unabsichtlich eine qualifizierte Beteiligung an einem Institut
+(8) Wer unabsichtlich eine qualifizierte Beteiligung an einem Institut
 erwirbt oder eine qualifizierte Beteiligung so erhöht, dass die
 Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte
 oder des Kapitals erreicht oder überschritten werden, oder eine
@@ -1681,7 +1752,7 @@ die Beteiligung so zurückzuführen, dass sie erneut unter eine der
 Schwellen fällt, sofern die Beteiligung nicht unverzüglich nach
 Kenntnis von dem Erwerb oder der Erhöhung zurückgeführt wird.
 
-(7) Die Bundesanstalt kann dem Inhaber einer qualifizierten
+(9) Die Bundesanstalt kann dem Inhaber einer qualifizierten
 Beteiligung sowie den seine qualifizierte Beteiligung begründenden
 Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, dass
 über die Anteile nur mit ihrer Zustimmung verfügt werden darf, wenn
@@ -1707,7 +1778,7 @@ Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, dass
 
 
 5.  der Inhaber der qualifizierten Beteiligung eine vollziehbare Anordnung
-    nach Absatz 2 nicht erfüllt.
+    nach Absatz 2 bis 4 nicht erfüllt.
 
 
 
@@ -1738,14 +1809,14 @@ Handelt es sich um eine Aktiengesellschaft, deren Aktien zum Handel im
 regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht
 auf 50 Millionen Euro.
 
-(8) Die Bundesanstalt kann in den Fällen des Absatzes 7 auch gegenüber
-einem die qualifizierte Beteiligung begründenden Unternehmen anordnen,
-Weisungen des Inhabers einer qualifizierten Beteiligung, der an dem
-begründenden Unternehmen beteiligt ist, nicht zu befolgen.
+(10) Die Bundesanstalt kann in den Fällen des Absatzes 9 auch
+gegenüber einem die qualifizierte Beteiligung begründenden Unternehmen
+anordnen, Weisungen des Inhabers einer qualifizierten Beteiligung, der
+an dem begründenden Unternehmen beteiligt ist, nicht zu befolgen.
 
 
 #### § 26 Digitale operationale Resilienz
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002701000)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002702128)
 
 (1) Die Bundesanstalt kann unbeschadet sonstiger in diesem Gesetz
 geregelter Befugnisse bei Verstößen gegen die Verordnung (EU)
@@ -1780,7 +1851,7 @@ Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu
 einer Befragung vorladen, damit diese mündliche oder schriftliche
 Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit
 Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die
-mündlichen Erklärungen aufzeichnen. § 20 Absatz 3 gilt entsprechend.
+mündlichen Erklärungen aufzeichnen. § 20 Absatz 5 gilt entsprechend.
 Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche
 Bundesbank übertragen.
 
@@ -2770,25 +2841,44 @@ juristischen Person für die Mitglieder eines gesetzlichen
 
 
 ### § 47 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004802128)
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004803128)
 
 (1) Ordnungswidrig handelt, wer eine in § 46 Absatz 1 Nummer 4 bis 6
 bezeichnete Handlung fahrlässig begeht.
 
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 4 Absatz 6 Satz 1, 2 oder Satz 3 oder
-Absatz 7, § 9 Absatz 1 Satz 1 oder Satz 2, jeweils auch in Verbindung
-mit Satz 5, nach § 9 Absatz 1 Satz 4, § 10 Absatz 1 oder Absatz 8 Satz
-1 bis 3 oder Satz 4, jeweils auch in Verbindung mit Satz 5, nach § 13
-Absatz 1 Satz 1, Absatz 2 Satz 1, auch in Verbindung mit § 13 Absatz
-4, nach § 15 Absatz 2 oder Absatz 4, § 16 Absatz 1 oder Absatz 2, § 17
-Absatz 1, § 23 Absatz 2, 3 oder Absatz 4, den §§ 27, 29 Absatz 1 Satz
-1 Nummer 2 oder Nummer 3 oder Absatz 3, den §§ 30, 31 Absatz 4 Satz 1,
-Absatz 5 Satz 1, Absatz 6 oder Absatz 7, § 34 Absatz 2 Satz 1, Absatz
-3 Satz 1 oder Absatz 4 Satz 1 Nummer 2, auch in Verbindung mit Satz 2
-oder Satz 3, nach § 35 Absatz 1 Satz 2, § 39 Absatz 2 erster Halbsatz
-oder Absatz 3, § 41 Absatz 2, § 42 Absatz 1 oder Absatz 2 oder § 43
-Absatz 1 Satz 2 oder Absatz 2 zuwiderhandelt.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  einer vollziehbaren Anordnung nach § 4 Absatz 6 Satz 1, 2 oder 3 oder
+    Absatz 7, § 9 Absatz 1 Satz 1 oder 2, jeweils auch in Verbindung mit
+    Satz 5, nach § 9 Absatz 1 Satz 4, § 10 Absatz 1 oder 8 Satz 1 bis 3
+    oder 4, jeweils auch in Verbindung mit Satz 5, nach § 13 Absatz 1 Satz
+    1, Absatz 2 Satz 1, auch in Verbindung mit § 13 Absatz 4, nach § 15
+    Absatz 2 oder 4, § 16 Absatz 1 oder 2, § 17 Absatz 1, § 23 Absatz 2, 3
+    oder 4, den §§ 27, 29 Absatz 1 Satz 1 Nummer 2 oder 3 oder Absatz 3,
+    den §§ 30, 31 Absatz 4 Satz 1, Absatz 5 Satz 1, Absatz 6 oder 7, § 34
+    Absatz 2 Satz 1, Absatz 3 Satz 1 oder Absatz 4 Satz 1 Nummer 2, auch
+    in Verbindung mit Satz 2 oder 3, nach § 35 Absatz 1 Satz 2, § 39
+    Absatz 2 erster Halbsatz oder Absatz 3, § 41 Absatz 2, § 42 Absatz 1
+    oder 2 oder § 43 Absatz 1 Satz 2 oder Absatz 2 zuwiderhandelt,
+
+
+2.  entgegen § 20 Absatz 1 Satz 1, auch in Verbindung mit § 25 Absatz 1
+    Satz 1 oder 2, eine Auskunft nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+
+3.  entgegen § 20 Absatz 5 Satz 1, auch in Verbindung mit § 25 Absatz 1
+    Satz 4 oder Absatz 2 Satz 2, entgegen § 22 Absatz 1 Satz 7 oder Absatz
+    2 Satz 5 oder § 25 Absatz 3 Satz 3 oder Absatz 4 Satz 3 eine Maßnahme
+    nicht duldet oder
+
+
+4.  entgegen § 22 Absatz 2 Satz 1 eine dort genannte Maßnahme nicht oder
+    nicht rechtzeitig vornimmt.
+
+
+
 
 (3) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1114
 verstößt, indem er vorsätzlich oder fahrlässig

@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 3.2.2026 I Nr. 29
 
+Änderung durch
+:   Art. 26 Abs. 2 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F829870_01_BJNR0950B0024]:     Die §§ 1, 2, 3, 4, 5, 6 und 23 dienen der Umsetzung der Richtlinie
     2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000
     über bestimmte rechtliche Aspekte der Dienste der
@@ -342,7 +345,7 @@ Kommission unverzüglich zur Kenntnis.
 
 
 ### § 3 Herkunftslandprinzip
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000301128)
 
 (1) Diensteanbieter und ihre digitalen Dienste, die nach § 2 in
 Deutschland niedergelassen sind, unterliegen den Anforderungen des
@@ -424,16 +427,17 @@ wird vorbehaltlich der Absätze 5 bis 7 nicht eingeschränkt.
 
 
 9.  Bereiche, die erfasst sind von den §§ 39, 57 bis 59, 61 bis 65, 146,
-    241 bis 243b, 305 und 306 des Versicherungsaufsichtsgesetzes vom 1.
-    April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 9 des Gesetzes
-    vom 31. Mai 2023 (BGBl. 2023 I Nr. 140) geändert worden ist, für
-    Bereiche, die erfasst sind von den Vorschriften der
+    241 bis 243b, 305, 306 bis 306b des Versicherungsaufsichtsgesetzes vom
+    1\. April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 11 des
+    Gesetzes vom 27. Dezember 2024 (BGBl. 2024 I Nr. 438) geändert worden
+    ist, für Bereiche, die erfasst sind von den Vorschriften der
     Versicherungsberichterstattungs-Verordnung vom 19. Juli 2017 (BGBl. I
-    S. 2858), die durch Artikel 7 des Gesetzes vom 17. August 2017 (BGBl.
-    I S. 3214) geändert worden ist, für die Regelungen über das auf
-    Versicherungsverträge anwendbare Recht sowie für Bedingungen, die für
-    das Angebot und den Abschluss von Versicherungen zur Erfüllung einer
-    in einem Mitgliedstaat vorgeschriebenen Versicherungspflicht gelten.
+    S. 2858), die zuletzt durch Artikel 1 der Verordnung vom 11. Dezember
+    2024 (BGBl. 2024 I Nr. 414) geändert worden ist, für die Regelungen
+    über das auf Versicherungsverträge anwendbare Recht sowie für
+    Bedingungen, die für das Angebot und den Abschluss von Versicherungen
+    zur Erfüllung einer in einem Mitgliedstaat vorgeschriebenen
+    Versicherungspflicht gelten.
 
 
 

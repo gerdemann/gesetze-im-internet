@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 41 G v. 12.5.2021 I 990
 
+Änderung durch
+:   Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 § 9 dieser Verordnung dient der Umsetzung von Artikel 5 und 6 der
 Richtlinie 2000/46/EG des Europäischen Parlaments und des Rates vom
 18\. September 2000 über die Aufnahme, Ausübung und Beaufsichtigung der
@@ -538,7 +541,7 @@ Festgelder mit eintägiger Laufzeit behandelt.
 
 
 ## § 10 Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001102124)
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001103128)
 
 (1) Zur Beurteilung der ausreichenden Liquidität darf das Institut
 nach dauerhafter Wahl mit Zustimmung der Bundesanstalt anstelle der §§
@@ -553,9 +556,9 @@ Voraussetzungen nach Absatz 3 nicht mehr erfüllt.
 (2) Die Eignung eines institutseigenen Liquiditätsrisikomess- und
 -steuerungsverfahrens wird auf der Grundlage einer von der
 Bundesanstalt in Zusammenarbeit mit der Deutschen Bundesbank
-durchgeführten Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes
-beurteilt und nach erteilter Eignungsbestätigung durch
-Nachschauprüfungen überprüft. Wesentliche Änderungen des
+durchgeführten Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes beurteilt und nach erteilter Eignungsbestätigung
+durch Nachschauprüfungen überprüft. Wesentliche Änderungen des
 Liquiditätsrisikomess- und -steuerungsverfahrens bedürfen einer
 erneuten Eignungsbestätigung nach Absatz 1.
 

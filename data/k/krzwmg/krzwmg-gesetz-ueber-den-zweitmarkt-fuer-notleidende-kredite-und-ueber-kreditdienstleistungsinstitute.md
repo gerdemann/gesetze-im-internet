@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 411, 2
 
+Änderung durch
+:   Art. 20 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000100000)
@@ -804,7 +807,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 #### § 11 Erlaubnisfreie Erbringung von Kreditdienstleistungen
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001201128)
 
 Keiner Erlaubnis nach § 10 Absatz 1 Satz 1 bedarf die Erbringung von
 Kreditdienstleistungen durch
@@ -818,13 +821,21 @@ Kreditdienstleistungen durch
     registrierte Kapitalverwaltungsgesellschaften, EU-
     Verwaltungsgesellschaften und intern verwaltete
     Investmentgesellschaften im Sinne des § 1 Absatz 12 des
-    Kapitalanlagegesetzbuchs sowie
+    Kapitalanlagegesetzbuchs,
 
 
 3.  Nichtkreditinstitute, die der Beaufsichtigung durch eine zuständige
     Behörde eines Vertragsstaats nach Artikel 20 der Richtlinie 2008/48/EG
-    oder Artikel 35 der Richtlinie 2014/17/EU unterliegen, wenn sie in
-    diesem Vertragsstaat tätig sind.
+    in der Fassung vom 24. November 2021 oder Artikel 35 der Richtlinie
+    2014/17/EU in der Fassung vom 24. November 2021 unterliegen, wenn sie
+    in diesem Vertragsstaat tätig sind, sowie
+
+
+4.  Unternehmen, die Kreditdienstleistungen ausschließlich für einen
+    Kreditkäufer mit Sitz in einem Vertragsstaat und im Zusammenhang mit
+    einem notleidenden Kreditvertrag erbringen, der nicht mit einer in § 7
+    Absatz 1 Nummer 1 genannten Person oder einem in § 7 Absatz 1 Nummer 2
+    genannten Unternehmen geschlossen wurde.
 
 
 
@@ -945,7 +956,7 @@ nicht anzuwenden.
 
 
 #### § 14 Organisationspflichten
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001501128)
 
 (1) Ein Kreditdienstleistungsinstitut muss über eine ordnungsgemäße
 Geschäftsorganisation verfügen, die die Einhaltung der vom
@@ -963,10 +974,11 @@ geregelten Organisationspflichten.
 Zeitpunkt der Erteilung der Erlaubnis von der Geschäftsleitung
 beschlossene und schriftlich oder elektronisch niedergelegte
 Regelungen für die Unternehmensführung und Verfahren der internen
-Kontrolle zum Zweck der Achtung der Rechte der Kreditnehmer und des
-Schutzes personenbezogener Daten schaffen. Die Regelungen haben die
-mit der Verarbeitung der Daten der Kreditnehmer, der Kommunikation mit
-den Kreditnehmern oder Maßnahmen gegenüber den Kreditnehmern befassten
+Kontrolle, darunter Risikomanagement- und Rechnungslegungsverfahren,
+zum Zweck der Achtung der Rechte der Kreditnehmer und des Schutzes
+personenbezogener Daten schaffen. Die Regelungen haben die mit der
+Verarbeitung der Daten der Kreditnehmer, der Kommunikation mit den
+Kreditnehmern oder Maßnahmen gegenüber den Kreditnehmern befassten
 Unternehmensbereiche zu identifizieren und bezogen auf die einzelnen
 dortigen Unternehmensabläufe Verhaltensmaßregeln für die dort
 Beschäftigten sowie für deren Unterweisung und Beaufsichtigung zu
@@ -1523,7 +1535,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 #### § 25 Beaufsichtigung grenzüberschreitend tätiger Kreditdienstleistungsinstitute
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002600000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002601128)
 
 (1) Die Bundesanstalt beaufsichtigt Kreditdienstleistungsinstitute,
 die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen, im
@@ -1541,8 +1553,7 @@ der Tätigkeit im Aufnahmemitgliedstaat stehen.
 (3) Die Bundesanstalt ersucht bei Kreditdienstleistungsinstituten im
 Sinne des Absatzes 1 die zuständigen Behörden des
 Aufnahmemitgliedstaats um Amtshilfe, soweit eine Prüfung in dortigen
-Geschäftsräumen zur Wahrnehmung ihrer Aufsichtsaufgaben erforderlich
-ist.
+Räumen zur Wahrnehmung ihrer Aufsichtsaufgaben erforderlich ist.
 
 (4) Erhält die Bundesanstalt von den zuständigen Behörden eines
 Aufnahmemitgliedstaats eine Aufforderung, Maßnahmen gegen ein
@@ -1571,12 +1582,12 @@ Ergebnisse dieser Prüfungen.
 (6) Die Bundesanstalt prüft in den Fällen des Absatzes 5 Satz 1 auf
 ein Amtshilfeersuchen der zuständigen Behörde eines
 Herkunftsmitgliedstaats, ob sie eine Prüfung in den inländischen
-Geschäftsräumen einer Zweigniederlassung eines
-Kreditdienstleistungsinstituts oder eines Auslagerungsunternehmens
-durchführt. Die Amtshilfe leistet die Bundesanstalt im Rahmen ihrer
-gesetzlichen Befugnisse und im eigenen Ermessen. Die Bundesanstalt
-teilt den zuständigen Behörden des Herkunftsmitgliedstaats
-unverzüglich die Ergebnisse dieser Prüfung mit.
+Räumen einer Zweigniederlassung eines Kreditdienstleistungsinstituts
+oder eines Auslagerungsunternehmens durchführt. Die Amtshilfe leistet
+die Bundesanstalt im Rahmen ihrer gesetzlichen Befugnisse und im
+eigenen Ermessen. Die Bundesanstalt teilt den zuständigen Behörden des
+Herkunftsmitgliedstaats unverzüglich die Ergebnisse dieser Prüfung
+mit.
 
 (7) Werden der Bundesanstalt Hinweise bekannt, aus denen sich ergibt,
 dass ein Kreditdienstleistungsinstitut in den Fällen des Absatzes 5
@@ -1829,7 +1840,7 @@ festgelegten Angaben ebenfalls aufzunehmen.
 
 
 ### § 31 Auskunftspflichten
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003200000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003201128)
 
 (1) Kreditkäufer oder deren Vertreter, Kreditdienstleister,
 Auslagerungsunternehmen sowie Kreditnehmer haben der Bundesanstalt und
@@ -1847,14 +1858,20 @@ ihren Zweigniederlassungen und Auslagerungsunternehmen Prüfungen
 vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank
 übertragen. Die Bediensteten der Bundesanstalt, der Deutschen
 Bundesbank sowie die sonstigen Personen, derer sich die Bundesanstalt
-bei der Durchführung der Prüfungen bedient, können hierzu die
-Geschäftsräume des Kreditkäufers oder von dessen Vertreter sowie des
+bei der Durchführung der Prüfungen bedient, können hierzu die Räume
+des Kreditkäufers oder von dessen Vertreter sowie des
 Kreditdienstleisters, der Zweigniederlassung oder des
 Auslagerungsunternehmens innerhalb der üblichen Betriebs- und
-Geschäftszeiten betreten und besichtigen. Die Betroffenen haben
-Maßnahmen nach den Sätzen 1 und 2 zu dulden.
+Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender
+Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume
+auch außerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten
+und zu besichtigen sowie auch Räume, die auch als Wohnung dienen, zu
+betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der
+Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit
+eingeschränkt. Die Betroffenen haben Maßnahmen nach den Sätzen 1 bis 3
+zu dulden.
 
-(3) § 44 Absatz 4 und 5 und § 44b des Kreditwesengesetzes sind
+(3) § 44 Absatz 4 bis 8 und § 44b des Kreditwesengesetzes sind
 entsprechend anzuwenden.
 
 (4) Wer zur Auskunft verpflichtet ist, kann die Auskunft auf solche
@@ -2425,7 +2442,7 @@ Mitbestimmungsgesetze.
 
 
 ### § 38 Untersagung unerlaubter Kreditdienstleistungen
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003900000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003901128)
 
 (1) Werden ohne die nach § 10 Absatz 1 Satz 1 erforderliche Erlaubnis
 Kreditdienstleistungen erbracht, kann die Bundesanstalt die sofortige
@@ -2456,8 +2473,13 @@ juristischen Personen und Personenhandelsgesellschaften auch die in §
 1 Satz 3 gilt entsprechend.
 
 (3) Der Abwickler ist berechtigt, die Eröffnung eines
-Insolvenzverfahrens über das Vermögen des Unternehmens zu beantragen,
-sofern die Voraussetzungen für einen Insolvenzantrag vorliegen.
+Insolvenzverfahrens über das Vermögen des Unternehmens zu beantragen.
+Die vorangehende Tätigkeit als Abwickler und die Stellung des
+Insolvenzantrags durch den Abwickler stellen keine die Unabhängigkeit
+des Insolvenzverwalters ausschließende Vorbefassung dar. Soll der
+Abwickler nicht als Insolvenzverwalter bestellt werden, hat das
+zuständige Insolvenzgericht der Bundesanstalt Gelegenheit zur
+Stellungnahme zu geben.
 
 (4) Der Abwickler erhält von der Bundesanstalt eine angemessene
 Vergütung und Ersatz seiner Aufwendungen. Die gezahlten Beträge sind
@@ -2633,7 +2655,7 @@ Geldstrafe.
 
 
 ### § 44 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004500000)
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004501128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2746,22 +2768,27 @@ Geldstrafe.
     Maßnahme nicht oder nicht rechtzeitig dokumentiert,
 
 
-21. entgegen § 31 Absatz 1 oder § 40 Absatz 1 Satz 1 oder Satz 2 eine
+21. entgegen § 31 Absatz 1 oder § 39 Absatz 1 Satz 1 oder Satz 2 eine
     Übermittlung nicht, nicht richtig oder nicht rechtzeitig vornimmt,
     eine Auskunft nicht, nicht richtig oder nicht rechtzeitig erteilt oder
     eine Unterlage nicht, nicht richtig oder nicht rechtzeitig vorlegt,
 
 
-22. entgegen § 31 Absatz 2 Satz 3 oder § 40 Absatz 5 Satz 1, auch in
+22. entgegen § 31 Absatz 2 Satz 4 oder § 39 Absatz 5 Satz 1, auch in
     Verbindung mit Absatz 6, eine Maßnahme nicht duldet,
 
 
-23. entgegen § 31 Absatz 3 in Verbindung mit § 44 Absatz 5 Satz 1 des
+23. entgegen § 31 Absatz 3 in Verbindung mit § 44 Absatz 4 Satz 6, Absatz
+    5 Satz 10, Absatz 6 Satz 3 oder Absatz 7 Satz 5 des
+    Kreditwesengesetzes eine Maßnahme nicht duldet,
+
+
+24. entgegen § 31 Absatz 3 in Verbindung mit § 44 Absatz 7 Satz 1 des
     Kreditwesengesetzes eine Maßnahme nicht oder nicht rechtzeitig
     vornimmt oder
 
 
-24. entgegen § 32 Absatz 1 Satz 1 oder Satz 3 einen Jahresabschluss, einen
+25. entgegen § 32 Absatz 1 Satz 1 oder Satz 3 einen Jahresabschluss, einen
     Lagebericht oder einen Prüfungsbericht nicht, nicht richtig oder nicht
     rechtzeitig einreicht.
 
