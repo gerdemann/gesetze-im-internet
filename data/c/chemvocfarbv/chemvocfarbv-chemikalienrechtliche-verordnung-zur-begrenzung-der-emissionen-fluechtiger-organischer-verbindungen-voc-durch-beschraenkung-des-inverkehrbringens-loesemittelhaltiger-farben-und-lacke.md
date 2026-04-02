@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 297 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 2 Abs. 1 G v. 29.3.2026 I Nr. 86 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000100000)
@@ -148,7 +151,7 @@ Im Übrigen gelten die Begriffsbestimmungen des Chemikaliengesetzes.
 
 
 ## § 3 Verbote
-[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000402308)
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000403126)
 
 (1) In Anhang I aufgeführte
 
@@ -164,7 +167,9 @@ mit einem Gehalt an flüchtigen organischen Verbindungen des
 gebrauchsfertigen Produkts oberhalb der in Anhang II festgelegten
 Grenzwerte dürfen ab den in Anhang II genannten Zeitpunkten nicht in
 den Verkehr gebracht werden. Satz 1 gilt nicht für den Export in
-Staaten außerhalb der Europäischen Union.
+Staaten außerhalb der Europäischen Union oder für den Transitverkehr
+unter zollamtlicher Überwachung, bei dem keine Be- oder Verarbeitung
+erfolgt.
 
 (2) Zur Überprüfung der Einhaltung der in Anhang II festgelegten
 Grenzwerte für den Gehalt an flüchtigen organischen Verbindungen sind
@@ -199,7 +204,7 @@ Verkehr gebracht werden.
 
 
 ## § 4 Kennzeichnung
-[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000501126)
 
 Der Hersteller oder Einführer hat die in Anhang I aufgeführten
 gebrauchsfertigen Produkte vor dem Inverkehrbringen, unbeschadet
@@ -212,7 +217,9 @@ a)  die Produktkategorie des gebrauchsfertigen Produktes und die
 
 
 b)  der maximale Gehalt an flüchtigen organischen Verbindungen des
-    gebrauchsfertigen Produktes in g/l.
+    gebrauchsfertigen Produktes in g/l. Satz 1 gilt nicht, soweit ein
+    Einführer lediglich einen Transitverkehr unter zollamtlicher
+    Überwachung durchführt, bei dem keine Be- oder Verarbeitung erfolgt.
 
 
 

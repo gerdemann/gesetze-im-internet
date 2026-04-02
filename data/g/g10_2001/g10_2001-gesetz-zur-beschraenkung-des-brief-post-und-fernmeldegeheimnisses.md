@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1254 (2298) (2017 I 154)
 
 Zuletzt geändert durch
-:   Art. 2 G v. 11.1.2026 I Nr. 6
+:   Art. 2 Abs. 5 G v. 20.3.2026 I Nr. 95
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -180,7 +180,7 @@ Sicherheitsüberprüfung abgesehen werden.
 
 
 ### § 3 Voraussetzungen
-[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000312125)
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000313125)
 
 (1) Beschränkungen nach § 1 Abs. 1 Nr. 1 dürfen unter den dort
 bezeichneten Voraussetzungen angeordnet werden, wenn tatsächliche
@@ -191,8 +191,8 @@ Anhaltspunkte für den Verdacht bestehen, dass jemand
 
 
 2.  Straftaten der Gefährdung des demokratischen Rechtsstaates (§§ 84 bis
-    86, 87 bis 89b, 89c Absatz 1 bis 4 des Strafgesetzbuches, § 20 Abs. 1
-    Nr. 1 bis 4 des Vereinsgesetzes),
+    86, 87 bis 89b, 89c Absatz 1 bis 4 und 8 des Strafgesetzbuches, § 20
+    Abs. 1 Nr. 1 bis 4 des Vereinsgesetzes),
 
 
 3.  Straftaten des Landesverrats und der Gefährdung der äußeren Sicherheit

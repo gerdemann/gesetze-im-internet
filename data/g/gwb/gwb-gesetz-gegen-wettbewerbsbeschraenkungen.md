@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.3.2026 I Nr. 82
+:   Art. 2 Abs. 9 G v. 20.3.2026 I Nr. 95
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -8665,7 +8665,7 @@ Interessensbestätigung aufzuführen.
 
 
 ###### § 123 Zwingende Ausschlussgründe
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017108125)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017109128)
 
 (1) Öffentliche Auftraggeber schließen ein Unternehmen zu jedem
 Zeitpunkt des Vergabeverfahrens von der Teilnahme aus, wenn sie
@@ -8682,11 +8682,7 @@ Straftat nach:
 
 
 2.  § 89c des Strafgesetzbuchs (Terrorismusfinanzierung) oder wegen der
-    Teilnahme an einer solchen Tat oder wegen der Bereitstellung oder
-    Sammlung finanzieller Mittel in Kenntnis dessen, dass diese
-    finanziellen Mittel ganz oder teilweise dazu verwendet werden oder
-    verwendet werden sollen, eine Tat nach § 89a Absatz 2 Nummer 2 des
-    Strafgesetzbuchs zu begehen,
+    Teilnahme an einer solchen Tat,
 
 
 3.  § 261 des Strafgesetzbuchs (Geldwäsche),

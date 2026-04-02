@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 3.2.2026 I Nr. 27
+:   Art. 2 Abs 4 G v. 20.3.2026 I Nr. 95
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -4717,7 +4717,7 @@ entsprechend angewandt werden.
 
 
 #### § 27 Grundsatz des Familiennachzugs
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003009311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003010311)
 
 (1) Die Aufenthaltserlaubnis zur Herstellung und Wahrung der
 familiären Lebensgemeinschaft im Bundesgebiet für ausländische
@@ -4760,8 +4760,8 @@ Familiennachzug stattfinden soll,
     Vereinigung angehört oder angehört hat, die den Terrorismus
     unterstützt oder er eine derartige Vereinigung unterstützt oder
     unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuches
-    bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2
-    des Strafgesetzbuches vorbereitet oder vorbereitet hat,
+    bezeichnete terroristische Straftat nach § 89a Absatz 2 des
+    Strafgesetzbuches vorbereitet oder vorbereitet hat,
 
 
 2.  zu den Leitern eines Vereins gehörte, der unanfechtbar verboten wurde,
@@ -4808,8 +4808,6 @@ Familiennachzug stattfindet, eine Aufenthaltserlaubnis nach den §§
 eine Mobiler-ICT-Karte besitzt oder sich gemäß § 18e berechtigt im
 Bundesgebiet aufhält. Im Übrigen ist die Aufenthaltserlaubnis erstmals
 für mindestens ein Jahr zu erteilen.
-
-(5) (weggefallen)
 
 
 #### § 28 Familiennachzug zu Deutschen
@@ -7156,7 +7154,7 @@ abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
 
 
 #### § 54 Ausweisungsinteresse
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005811311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005812311)
 
 (1) Das Ausweisungsinteresse im Sinne von § 53 Absatz 1 wiegt
 besonders schwer, wenn der Ausländer
@@ -7254,9 +7252,9 @@ besonders schwer, wenn der Ausländer
     Vereinigung angehört oder angehört hat, die den Terrorismus
     unterstützt oder er eine derartige Vereinigung unterstützt oder
     unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuchs
-    bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2
-    des Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn,
-    der Ausländer nimmt erkennbar und glaubhaft von seinem
+    bezeichnete terroristische Straftat nach § 89a Absatz 2 des
+    Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn, der
+    Ausländer nimmt erkennbar und glaubhaft von seinem
     sicherheitsgefährdenden Handeln Abstand,
 
 

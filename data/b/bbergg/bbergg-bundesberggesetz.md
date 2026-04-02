@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2025 I Nr. 348
+:   Art. 4 G v. 29.3.2026 I Nr. 84
 
 
 ## Eingangsformel
@@ -141,7 +141,7 @@ Absatzes 1 Nr. 1
 
 
 ### § 3 Bergfreie und grundeigene Bodenschätze
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005102125)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005103125)
 
 (1) Bodenschätze sind mit Ausnahme von Wasser alle mineralischen
 Rohstoffe in festem oder flüssigem Zustand und Gase, die in
@@ -171,7 +171,7 @@ Stein- und Braunkohle nebst den im Zusammenhang mit ihrer Gewinnung
 auftretenden Gasen; Graphit;
 Stein-, Kali-, Magnesia- und Borsalze nebst den mit diesen Salzen in
 der gleichen Lagerstätte auftretenden Salzen; Sole;
-Flußspat und Schwerspat.
+Flußspat und Schwerspat; Helium und Wasserstoff.
 Als bergfreie Bodenschätze gelten:
 
 1.  alle Bodenschätze im Bereich des Festlandsockels und,

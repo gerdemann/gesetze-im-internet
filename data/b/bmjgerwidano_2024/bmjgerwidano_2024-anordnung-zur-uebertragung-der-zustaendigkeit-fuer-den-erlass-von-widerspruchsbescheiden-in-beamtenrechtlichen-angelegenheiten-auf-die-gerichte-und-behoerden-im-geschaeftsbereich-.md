@@ -17,6 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 308
 
+Ano aufgeh. durch
+:   Ziff III Satz 2 AnO 2030-14-255 v. 11.3.2026 I Nr. 94 mWv 1.7.2026
+
+Stand: Ersetzt AnO 2030-14-158 v. 9.3.2008 I 415 (BMJGerWidAnO)
 
 ## I.
 [Direktlink](https://www.gesetze-im-internet.de/bmjgerwidano_2024/BJNR1340A0023.html#BJNR1340A0023BJNE000100000)

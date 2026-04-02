@@ -27,6 +27,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 4 G v. 9.1.2026 I Nr. 3 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Titel - Gerichtsbarkeit
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000100666)
@@ -2987,7 +2990,7 @@ Vereinbarung nach Absatz 2 Satz 1.
 
 
 ### § 120
-[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013920131)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013921131)
 
 (1) In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die
 Landesregierungen ihren Sitz haben, für das Gebiet des Landes
@@ -3021,10 +3024,14 @@ zuständig für die Verhandlung und Entscheidung im ersten Rechtszug
 
 7.  bei Nichtanzeige von Straftaten nach § 138 des Strafgesetzbuches, wenn
     die Nichtanzeige eine Straftat betrifft, die zur Zuständigkeit der
-    Oberlandesgerichte gehört und
+    Oberlandesgerichte gehört,
 
 
-8.  bei Straftaten nach dem Völkerstrafgesetzbuch.
+8.  bei Straftaten nach dem Völkerstrafgesetzbuch und
+
+
+9.  bei Straftaten nach § 87a des Strafgesetzbuches, wenn die in Auftrag
+    gegebene Straftat zur Zuständigkeit der Oberlandesgerichte gehört.
 
 
 

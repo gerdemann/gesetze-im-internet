@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 15 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 Änderung durch
-:   Art. 16 G v. 25.3.2026 I Nr. 81 mWv 1.7.2026 noch nicht berücksichtigt
+:   Art. 16 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben

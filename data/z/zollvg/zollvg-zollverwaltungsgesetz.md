@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.2.2026 I Nr. 39
+:   Art. 2 Abs. 8 G v. 20.3.2026 I Nr. 95
 
 
 ## Teil I - Erfassung des Warenverkehrs
@@ -696,7 +696,7 @@ Sätze 1 und 2 eingeschränkt.
 
 
 ### § 12a Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln
-[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004214123)
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004215123)
 
 (1) Auf Verlangen der Zollbediensteten müssen natürliche Personen
 Barmittel und gleichgestellte Zahlungsmittel im Gesamtwert von 10 000
@@ -774,8 +774,7 @@ Verwendungszweck aufzuklären, wenn
     a)  zum Zweck der Geldwäsche nach § 261 des Strafgesetzbuchs,
 
 
-    b)  zum Zweck der Terrorismusfinanzierung nach § 89a Absatz 2a, § 89c des
-        Strafgesetzbuchs,
+    b)  zum Zweck der Terrorismusfinanzierung nach § 89c des Strafgesetzbuchs,
 
 
     c)  zum Zweck der Finanzierung einer terroristischen Vereinigung nach §

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 13.2.2024 I Nr. 43
 
+Änderung durch
+:   Art. 2 Abs. 2 G v. 29.3.2026 I Nr. 86 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
@@ -85,7 +88,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Verbote und Beschränkungen des Inverkehrbringens
-[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000301124)
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000302126)
 
 (1) Beschränkungen des Inverkehrbringens bestimmter Stoffe, Gemische
 und Erzeugnisse ergeben sich insbesondere aus Artikel 67 in Verbindung
@@ -110,7 +113,9 @@ Spalte 3 aufgeführten Ausnahmen verboten.
 (3) Sofern in Anlage 1 Spalte 3 nicht etwas anderes bestimmt ist, gilt
 Absatz 2 nicht für das Inverkehrbringen
 
-1.  von Stoffen, Gemischen oder Erzeugnissen, die den Ausnahmen nach § 2
+1.  von Stoffen, Gemischen oder Erzeugnissen, soweit es sich lediglich um
+    einen Transitverkehr unter zollamtlicher Überwachung, bei dem keine
+    Be- oder Verarbeitung erfolgt, handelt oder die den Ausnahmen nach § 2
     Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 des Chemikaliengesetzes
     unterliegen,
 
