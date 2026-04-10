@@ -58,7 +58,7 @@ Broschat, Berlin.
 Der Bundesminister der Finanzen
 
 
-## (XXXX)
+## Anlage
 [Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2009-11/BJNR388200009.html#BJNR388200009BJNE000300000)
 
 (Fundstelle: BGBl. I 2009, 3882)

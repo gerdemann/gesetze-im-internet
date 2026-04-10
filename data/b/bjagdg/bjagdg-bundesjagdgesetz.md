@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.9.1976 I 2849;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 25.10.2024 I Nr. 332
-
-Änderung durch
-:   Art. 1 G v. 29.3.2026 I Nr. 87 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 29.3.2026 I Nr. 87
 
 
 ## I. Abschnitt - Das Jagdrecht
@@ -930,10 +927,8 @@ mitzuteilen.
 [Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000901123)
 
 
-
 ### 1. - Regelungen für alle Tierarten
 [Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000301123)
-
 
 
 #### § 19 Sachliche Verbote
@@ -1195,7 +1190,6 @@ Vorschriften über die Wildfolge ergänzen oder erweitern.
 
 ### 2. - Zusätzliche Regelungen für die Tierart Wolf
 [Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG002000123)
-
 
 
 #### § 22b Maßnahmen nach Artikel 14 der Richtlinie 92/43/EWG in Bezug auf die Tierart Wolf; Verordnungsermächtigung
