@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1500
 
 Zuletzt geändert durch
-:   Art. 61 G v. 4.2.2026 I Nr. 33
+:   Art. 1 V v. 10.4.2026 I Nr. 96
 
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung
@@ -25,11 +25,10 @@ Zuletzt geändert durch
 
 
 ### § 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt
-[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000106119)
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000107123)
 
 (1) Die Bundesanstalt trägt die Bezeichnung "Bundesanstalt für
-Finanzdienstleistungsaufsicht" (Bundesanstalt). Im Geschäftsverkehr
-kann zusätzlich die Abkürzung "BaFin" verwendet werden.
+Finanzdienstleistungsaufsicht" (Bundesanstalt).
 
 (2) Zur Wahrnehmung der gesetzlichen Aufgaben der Bundesanstalt werden
 Geschäftsbereiche eingerichtet. Die Geschäftsbereiche bestehen aus

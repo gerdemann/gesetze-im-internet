@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   1998-07-06
 
 Fundstelle
-:   BGBl I: 1998, 1778; II 1998, 3004
+:   BGBl I: 1998, 1778; 1998 II 3004
 
 Zuletzt geändert durch
 :   Art. 27 V v. 31.8.2015 I 1474
