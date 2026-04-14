@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 25.3.2026 I Nr. 81 mWv 11.1.2027 noch nicht berücksichtigt
+:   Art. 3 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
