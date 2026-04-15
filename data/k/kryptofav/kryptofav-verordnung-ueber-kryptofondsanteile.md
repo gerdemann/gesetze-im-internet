@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 868
 
+Änderung durch
+:   Art. 13 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt
+
 [^F821894_01_BJNR086800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
     Informationsverfahren auf dem Gebiet der technischen Vorschriften und

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 113
 
+Änderung durch
+:   Art. 4 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000100000)
@@ -43,21 +46,23 @@ Krankenhausfinanzierungsgesetzes förderfähig sind.
 
 
 ## § 2 Förderfähigkeit
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000301130)
 
 (1) Ein Vorhaben ist förderfähig, wenn die Voraussetzungen eines
-Fördertatbestandes nach § 12b Absatz 1 Satz 4 des
+Fördertatbestandes nach § 12b Absatz 1 Satz 3 des
 Krankenhausfinanzierungsgesetzes nach Maßgabe des § 3 vorliegen und es
 dem in § 1 Absatz 1 Satz 1 genannten Ziel der Transformation dient.
 Ein Vorhaben ist nur förderfähig, wenn es mit dem deutschen und
 europäischen Wettbewerbsrecht und dem Beihilferecht der Europäischen
 Union vereinbar ist. Ein Vorhaben ist nicht förderfähig, wenn es
 aufgrund anderer Gesetze als dem Krankenhausfinanzierungsgesetz oder
-aufgrund anderer Förderprogramme gefördert wird; ausgenommen sind die
-Landeskrankenhausgesetze sowie Förderprogramme der Länder. Abweichend
-von Satz 3 sind einzelne Vorhaben, die selbstständige Abschnitte eines
-Gesamtvorhabens darstellen und die nicht im Rahmen des Gesamtvorhabens
-aufgrund anderer Gesetze als dem Krankenhausfinanzierungsgesetz oder
+aufgrund anderer Förderprogramme gefördert wird; ausgenommen sind
+Förderungen aufgrund des Länder-und-Kommunal-
+Infrastrukturfinanzierungsgesetzes, der Landeskrankenhausgesetze oder
+aufgrund von Förderprogrammen der Länder. Abweichend von Satz 3 sind
+einzelne Vorhaben, die selbstständige Abschnitte eines Gesamtvorhabens
+darstellen und die nicht im Rahmen des Gesamtvorhabens aufgrund
+anderer Gesetze als dem Krankenhausfinanzierungsgesetz oder
 Förderprogramme gefördert werden, förderfähig.
 
 (2) Bei der Förderung von Vorhaben sind nur die Kosten zu
@@ -95,17 +100,18 @@ legen.
 
 
 
-## § 3 Regelungen zu den einzelnen Fördertatbeständen nach § 12b Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000400000)
+## § 3 Regelungen zu den einzelnen Fördertatbeständen nach § 12b Absatz 1 Satz 3 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000401130)
 
 (1) Förderfähig sind Vorhaben zur standortübergreifenden Konzentration
-akutstationärer Versorgungskapazitäten, insbesondere
+akutstationärer Versorgungskapazitäten, auch soweit Hochschulkliniken
+an diesen Vorhaben beteiligt sind, insbesondere
 
-1.  zur Erfüllung der für diese Leistungsgruppen nach § 135e Absatz 2 des
+1.  zur Erfüllung der für die Leistungsgruppen nach § 135e Absatz 2 des
     Fünften Buches Sozialgesetzbuch maßgeblichen Qualitätskriterien oder
 
 
-2.  zur Erfüllung der für diese Leistungsgruppen geltenden
+2.  zur Erfüllung der für die Leistungsgruppen geltenden
     Mindestvorhaltezahlen im Sinne des § 135f Absatz 1 Satz 1 des Fünften
     Buches Sozialgesetzbuch.
 
@@ -147,11 +153,11 @@ zur Verbesserung der informationstechnischen Sicherheit des
 Krankenhauses handelt.
 
 (3) Förderfähig sind Vorhaben zur Bildung telemedizinischer
-Netzwerkstrukturen zwischen Krankenhäusern, einschließlich der
-Schaffung der Voraussetzungen für die Durchführung robotergestützter
-Telechirurgie; förderfähig sind auch Vorhaben, an denen
-Hochschulkliniken beteiligt sind. Förderfähige Kosten eines in Satz 1
-genannten Vorhabens sind
+Netzwerkstrukturen nach bundeseinheitlichen Vorgaben zwischen
+Krankenhäusern, einschließlich der Schaffung der Voraussetzungen für
+die Durchführung robotergestützter Telechirurgie; förderfähig sind
+auch Vorhaben, an denen Hochschulkliniken beteiligt sind. Förderfähige
+Kosten eines in Satz 1 genannten Vorhabens sind
 
 1.  die Kosten für die Beschaffung, Errichtung, Erweiterung oder
     Entwicklung interoperabler und sicherer informationstechnischer oder
@@ -179,14 +185,22 @@ Telematikinfrastruktur noch nicht zur Verfügung stehen, ist zu
 gewährleisten, dass die Dienste und Anwendungen, die stattdessen
 verwendet werden, in Dienste und Anwendungen der
 Telematikinfrastruktur überführt werden können, sobald diese zur
-Verfügung stehen.
+Verfügung stehen. Das Bundesministerium für Gesundheit legt bis zum
+30\. September 2026 als bundeseinheitliche Vorgaben verbindliche
+Mindestanforderungen an telemedizinische Netzwerkstrukturen und
+Interoperabilitätsstandards fest. Die bundeseinheitlichen Vorgaben
+sind durch das Bundesministerium für Gesundheit im Bundesanzeiger
+bekanntzumachen. Das Bundesamt für Soziale Sicherung kann zu den
+Bestätigungen nach § 4 Absatz 4 Nummer 3 Anforderungen festlegen und
+sich dafür der Unterstützung Dritter bedienen. Werden Anforderungen
+nach Satz 7 festgelegt, veröffentlicht das Bundesamt für Soziale
+Sicherung diese auf seiner Internetseite.
 
 (4) Förderfähig sind wettbewerbsrechtlich zulässige Vorhaben zur
 Bildung und zum Ausbau von Zentren zur Behandlung von seltenen,
-komplexen oder schwerwiegenden Erkrankungen an Hochschulkliniken,
-soweit Hochschulkliniken und Krankenhäuser, die keine
-Hochschulkliniken sind, an diesen Vorhaben gemeinsam beteiligt sind.
-Förderfähige Kosten eines in Satz 1 genannten Vorhabens sind
+komplexen oder schwerwiegenden Erkrankungen insbesondere an
+Hochschulkliniken. Förderfähige Kosten eines in Satz 1 genannten
+Vorhabens sind
 
 1.  die Kosten für die Schließung von Teilen eines Krankenhauses,
 
@@ -205,13 +219,15 @@ Bildung und Fortentwicklung von regional begrenzten
 Krankenhausverbünden mit mindestens zwei Krankenhäusern zum Abbau von
 Doppelstrukturen bei der Erbringung von Leistungen einer oder mehrerer
 der nach § 135e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch
-maßgeblichen Leistungsgruppen. Förderfähige Kosten eines in Satz 1
-genannten Vorhabens sind die Kosten für die erforderlichen
-Baumaßnahmen sowie Kosten für weitere Maßnahmen, soweit sie für die
-Umsetzung des Vorhabens zwingend erforderlich sind.
+maßgeblichen Leistungsgruppen, auch soweit Hochschulkliniken an diesen
+Vorhaben beteiligt sind. Förderfähige Kosten eines in Satz 1 genannten
+Vorhabens sind die Kosten für die erforderlichen Baumaßnahmen sowie
+Kosten für weitere Maßnahmen, soweit sie für die Umsetzung des
+Vorhabens zwingend erforderlich sind.
 
 (6) Förderfähig sind Vorhaben zur Bildung integrierter
-Notfallstrukturen. Förderfähige Kosten eines in Satz 1 genannten
+Notfallstrukturen, auch soweit Hochschulkliniken an diesen Vorhaben
+beteiligt sind. Förderfähige Kosten eines in Satz 1 genannten
 Vorhabens sind die Kosten für die erforderlichen Baumaßnahmen sowie
 Kosten für weitere Maßnahmen, soweit sie für die Umsetzung des
 Vorhabens zwingend erforderlich sind.
@@ -237,13 +253,22 @@ Vorhabens sind
 
 (8) Förderfähig sind Vorhaben zur Schaffung zusätzlicher
 Ausbildungskapazitäten in staatlich anerkannten Einrichtungen an einem
-Krankenhaus, das Träger oder Mitträger der Ausbildungsstätte ist, zur
-Ausbildung für die Berufe Pflegefachfrau, Pflegefachmann, Gesundheits-
-und Kinderkrankenpflegerin, Gesundheits- und Kinderkrankenpfleger, und
+Krankenhaus, das Träger oder Mitträger der jeweiligen
+Ausbildungsstätte ist, für die Berufe Ergotherapeut, Ergotherapeutin,
+Diätassistent, Diätassistentin, Hebamme, Physiotherapeut,
+Physiotherapeutin, Pflegefachfrau, Pflegefachmann, Gesundheits- und
+Kinderkrankenpflegerin, Gesundheits- und Kinderkrankenpfleger,
+medizinischer Technologe für Laboratoriumsanalytik, medizinische
+Technologin für Laboratoriumsanalytik, medizinischer Technologe für
+Radiologie, medizinische Technologin für Radiologie, Logopäde,
+Logopädin, Orthoptist, Orthoptistin, medizinischer Technologe für
+Funktionsdiagnostik, medizinische Technologin für Funktionsdiagnostik,
+Anästhesietechnische Assistentin, Anästhesietechnischer Assistent,
+Operationstechnische Assistentin, Operationstechnischer Assistent und
 im Bereich der Pflegehilfe und -assistenz, insbesondere für die Berufe
 Krankenpflegehelferin, Krankenpflegehelfer, Pflegehelferin,
 Pflegehelfer, Pflegeassistentin, Pflegeassistent,
-Pflegefachassistentin und Pflegefachassistent. Die Schaffung von
+Pflegefachassistentin, Pflegefachassistent. Die Schaffung von
 zusätzlichen Ausbildungskapazitäten nach Satz 1 ist nur förderfähig,
 soweit diese auf einem Vorhaben nach Absatz 1 oder Absatz 5 beruht.
 Förderfähige Kosten eines in Satz 1 genannten Vorhabens sind
@@ -273,43 +298,30 @@ Ausbildungsfinanzierungsverordnung sind nicht förderfähig.
 
 
 ## § 4 Antragstellung
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000501130)
 
 (1) Die Länder können Anträge auf Auszahlung von Fördermitteln nach §
 12b Absatz 2 Satz 2 bis 5 des Krankenhausfinanzierungsgesetzes aus dem
-Transformationsfonds für jedes der Kalenderjahre 2026 bis 2035 bis zum
-30\. September des jeweils vorhergehenden Kalenderjahres stellen.
-Abweichend von Satz 1 können die Länder die Anträge bis zum 31.
-Dezember des jeweils vorhergehenden Kalenderjahres stellen, wenn sie
-zuvor bis zum 30. September dem Bundesamt für Soziale Sicherung über
-das elektronische Verwaltungsportal nach § 8 Absatz 1 die Höhe der
-Fördermittel, die bis zum 31. Dezember desselben Kalenderjahres
-beantragt werden sollen, sowie die Anzahl der zu fördernden Vorhaben
-getrennt nach den in § 3 genannten Fördertatbeständen angezeigt haben.
-Für jedes der in § 12b Absatz 1 Satz 4 des
+Transformationsfonds für jedes der Kalenderjahre 2026 bis 2035
+stellen. Für jedes der in § 12b Absatz 1 Satz 3 des
 Krankenhausfinanzierungsgesetzes genannten Vorhaben ist ein
 gesonderter Antrag zu stellen. Der Antrag ist durch das an dem
 Vorhaben beteiligte Land, im Fall von länderübergreifenden Vorhaben
 durch die an dem Vorhaben beteiligten Länder, über das in § 8 Absatz 1
 Satz 1 genannte elektronische Verwaltungsportal an das Bundesamt für
 Soziale Sicherung zu stellen. Ein Land kann für ein Kalenderjahr
-insgesamt die Auszahlung von Fördermitteln in der in § 12b Absatz 2
-Satz 2 in Verbindung mit Satz 4 des Krankenhausfinanzierungsgesetzes
-genannten Höhe beantragen, zuzüglich des Betrags der in den
-vorangegangenen Kalenderjahren zurückgezahlten Fördermittel und der in
-den vorangegangenen Kalenderjahren abgeführten Zinserträge.
-Fördermittel für länderübergreifende Vorhaben können für das jeweilige
-Kalenderjahr in der in § 12b Absatz 2 Satz 3 in Verbindung mit Satz 5
-des Krankenhausfinanzierungsgesetzes genannten Höhe, zuzüglich des
-Betrags der in den vorangegangenen Kalenderjahren zurückgezahlten
-Fördermittel und der in den vorangegangenen Kalenderjahren abgeführten
-Zinserträge, beantragt werden. Die Länder können bei der in Satz 1
-oder Satz 2 genannten Antragstellung die Auszahlung der Fördermittel
-in jährlichen Teilbeträgen beantragen. Die Länder treffen gemäß § 13
-des Krankenhausfinanzierungsgesetzes die Entscheidung, für welche
-Vorhaben ein Antrag nach Satz 1 oder Satz 2 gestellt werden soll, im
-Einvernehmen mit den Landesverbänden der Krankenkassen und den
-Ersatzkassen.
+insgesamt die Auszahlung von Fördermitteln in der in § 12b Absatz 2
+Satz 2 des Krankenhausfinanzierungsgesetzes genannten Höhe beantragen,
+zuzüglich des Betrags der in den vorangegangenen Kalenderjahren
+zurückgezahlten Fördermittel und der in den vorangegangenen
+Kalenderjahren abgeführten Zinserträge. Fördermittel für
+länderübergreifende Vorhaben können für ein Kalenderjahr insgesamt in
+der in § 12b Absatz 2 Satz 3 des Krankenhausfinanzierungsgesetzes
+genannten Höhe, zuzüglich des Betrags der in den vorangegangenen
+Kalenderjahren zurückgezahlten Fördermittel und der in den
+vorangegangenen Kalenderjahren abgeführten Zinserträge, beantragt
+werden. Die Länder können bei der Antragstellung die Auszahlung der
+Fördermittel in jährlichen Teilbeträgen beantragen.
 
 (2) Mit dem Antrag sind über das in § 8 Absatz 1 Satz 1 genannte
 elektronische Verwaltungsportal zu übermitteln:
@@ -330,46 +342,44 @@ elektronische Verwaltungsportal zu übermitteln:
 
 
 4.  wenn durch das Land eine Auszahlung in jährlichen Teilbeiträgen nach
-    Absatz 1 Satz 7 beantragt wird, die Angabe der Höhe der jährlich
+    Absatz 1 Satz 6 beantragt wird, die Angabe der Höhe der jährlich
     auszuzahlenden Fördermittel,
 
 
 5.  ein Nachweis, dass das Land den nach § 12b Absatz 3 Satz 1 Nummer 3
     des Krankenhausfinanzierungsgesetzes erforderlichen Anteil an den
-    förderungsfähigen Kosten trägt und die Bestätigung, dass die in § 12b
-    Absatz 3 Satz 4 des Krankenhausfinanzierungsgesetzes genannten Beträge
+    förderfähigen Kosten trägt, und die Bestätigung, dass die in § 12b
+    Absatz 3 Satz 3 des Krankenhausfinanzierungsgesetzes genannten Beträge
     nicht auf den vom Land nach § 12b Absatz 3 Satz 1 Nummer 3 des
     Krankenhausfinanzierungsgesetzes zu tragenden Anteil an den
-    förderungsfähigen Kosten angerechnet wurden,
+    förderfähigen Kosten angerechnet wurden,
 
 
 6.  die Erklärung, dass sich das jeweilige Land zu der nach § 12b Absatz 3
     Satz 1 Nummer 4 Buchstabe a des Krankenhausfinanzierungsgesetzes
-    erforderlichen Bereitstellung von Haushaltsmitteln für die
-    Investitionskostenförderung nach § 9 Absatz 1 des
+    erforderlichen Bereitstellung von Mitteln für die
+    Investitionskostenförderung nach § 9 des
     Krankenhausfinanzierungsgesetzes verpflichtet, und der Nachweis, dass
-    das Land Haushaltsmittel zur Investitionskostenförderung nach § 9
-    Absatz 1 des Krankenhausfinanzierungsgesetzes in der in § 12b Absatz 3
-    Satz 1 Nummer 4 Buchstabe b des Krankenhausfinanzierungsgesetzes
-    genannten Höhe bereitgestellt hat sowie die Bestätigung, dass die in
-    § 12b Absatz 3 Satz 4 des Krankenhausfinanzierungsgesetzes genannten
-    Beträge nicht auf die bereitzustellenden oder bereitgestellten
-    Haushaltsmittel angerechnet werden oder wurden,
+    das Land Mittel zur Investitionskostenförderung nach § 9 des
+    Krankenhausfinanzierungsgesetzes in der in § 12b Absatz 3 Satz 1
+    Nummer 4 Buchstabe b des Krankenhausfinanzierungsgesetzes genannten
+    Höhe bereitgestellt hat, sowie die Bestätigung, dass die in § 12b
+    Absatz 3 Satz 3 des Krankenhausfinanzierungsgesetzes genannten Beträge
+    nicht auf die bereitzustellenden oder bereitgestellten Mittel
+    angerechnet werden oder wurden,
 
 
-7.  ein Nachweis darüber, dass das Insolvenzrisiko der an dem Vorhaben
-    beteiligten Krankenhäuser mit einem vom jeweiligen Krankenhausträger
-    beauftragten Testat einer Wirtschaftsprüferin oder eines
-    Wirtschaftsprüfers geprüft wurde und das bestätigt, dass in der
-    Betrachtung der Jahresprognose keine Insolvenzgründe nach
-    Insolvenzordnung vorliegen,
+7.  in dem Fall, dass das zu fördernde Vorhaben eine Hochschulklinik
+    betrifft, eine Erklärung darüber, dass die beantragten Fördermittel
+    ausschließlich für die Finanzierung krankenhausbezogener
+    Strukturmaßnahmen eingesetzt werden,
 
 
-8.  in dem in § 12b Absatz 3 Satz 6 des Krankenhausfinanzierungsgesetzes
+8.  in dem in § 12b Absatz 3 Satz 4 des Krankenhausfinanzierungsgesetzes
     genannten Fall die Erklärung, aus der sich ergibt, dass ein Land auf
     eine verpflichtende Rückzahlung von Mitteln der Investitionsförderung
     verzichtet hat oder voraussichtlich verzichten wird und dass der
-    Verzicht aus dem in § 12b Absatz 3 Satz 6 des
+    Verzicht aus dem in § 12b Absatz 3 Satz 4 des
     Krankenhausfinanzierungsgesetzes genannten Grund erforderlich war,
     sowie die Angabe der Höhe der Mittel, auf die das Land verzichtet hat,
     oder die geschätzte Höhe der Mittel, auf die das Land voraussichtlich
@@ -384,7 +394,7 @@ elektronische Verwaltungsportal zu übermitteln:
 10. den Nachweis darüber, dass mit den Landesverbänden der Krankenkassen
     und den Ersatzkassen das Einvernehmen über die Förderung des Vorhabens
     und die Beantragung von Fördermitteln aus dem Transformationsfonds
-    herbeigeführt worden ist, und
+    herbeigeführt oder angestrebt worden ist, und
 
 
 11. bei länderübergreifenden Vorhaben zusätzlich die Erklärung der jeweils
@@ -418,7 +428,7 @@ elektronische Verwaltungsportal zu bestätigen, dass
 1.  die Umsetzung des Vorhabens am 1. Juli 2025 noch nicht begonnen hat,
 
 
-2.  voraussichtlich keine in § 12b Absatz 3 Satz 5 des
+2.  voraussichtlich keine in § 12b Absatz 3a Satz 3 des
     Krankenhausfinanzierungsgesetzes genannte Rückzahlungsverpflichtung
     des Trägers des Krankenhauses, auf das sich das Vorhaben bezieht,
     vorliegt,
@@ -463,14 +473,18 @@ elektronische Verwaltungsportal Folgendes zu übermitteln:
     bestimmt wird,
 
 
-3.  bei Vorhaben nach § 3 Absatz 3 die Bestätigung, dass die Dienste und
+3.  bei Vorhaben nach § 3 Absatz 3 die Bestätigung, dass die Dienste und
     Anwendungen der Telematikinfrastruktur nach dem Fünften Buch
     Sozialgesetzbuch genutzt werden, sobald diese zur Verfügung stehen,
+    und die Bestätigung eines am Vorhaben nicht beteiligten, unabhängigen
+    Dritten, dass die bundeseinheitlichen Vorgaben nach § 3 Absatz 3 Satz
+    1 eingehalten werden.
 
 
 4.  bei Vorhaben nach § 3 Absatz 4 die Bestätigung, dass es sich bei den
-    zu bildenden Zentren um Zentren zur Behandlung seltener, komplexer
-    oder schwerwiegender Erkrankungen an Hochschulkliniken handelt,
+    zu bildenden oder den auszubauenden Zentren um Zentren zur Behandlung
+    seltener, komplexer oder schwerwiegender Erkrankungen an
+    Hochschulkliniken handelt,
 
 
 5.  bei Vorhaben nach § 3 Absatz 5 die Bestätigung, dass die Träger der an
@@ -483,7 +497,7 @@ elektronische Verwaltungsportal Folgendes zu übermitteln:
 
 
 6.  bei Vorhaben nach § 3 Absatz 8 die Erklärung, dass die Schaffung
-    zusätzlicher Ausbildungskapazitäten auf einem in § 12b Absatz 1 Satz 4
+    zusätzlicher Ausbildungskapazitäten auf einem in § 12b Absatz 1 Satz 3
     Nummer 1 oder Nummer 5 des Krankenhausfinanzierungsgesetzes genannten
     Vorhaben beruht und, soweit für das zugrundeliegende Vorhaben keine
     Bewilligung vorliegt, die Erklärung, dass die Voraussetzungen des
@@ -521,8 +535,7 @@ bekannt wird, dass
 
 In dem in Satz 1 Nummer 3 genannten Fall informiert das jeweilige Land
 das Bundesamt für Soziale Sicherung fortlaufend und auf Nachfrage über
-den Stand des Insolvenzverfahrens und über das Bestehen einer
-Fortführungsperspektive des Krankenhausbetriebes.
+den Stand des Insolvenzverfahrens.
 
 (7) Die Länder können, unabhängig davon, ob ihr Antrag bereits durch
 das Bundesamt für Soziale Sicherung bewilligt wurde, innerhalb der in
@@ -535,7 +548,7 @@ Anforderungen an einen Antrag nach Satz 1 im Einzelfall fest.
 
 
 ## § 5 Auszahlung der Fördermittel
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000601130)
 
 (1) Das Bundesamt für Soziale Sicherung entscheidet über die Anträge
 durch Bescheid und zahlt die bewilligten Fördermittel an das
@@ -556,10 +569,6 @@ das in § 8 Absatz 1 Satz 1 genannte elektronische Verwaltungsportal
 sowie den Landesverbänden der Krankenkassen und den Ersatzkassen
 unverzüglich, spätestens jedoch 20 Monate nach der Bekanntgabe des
 Auszahlungsbescheids ihren Förderbescheid zu dem jeweiligen Vorhaben.
-Im Fall einer finanziellen Beteiligung der Unternehmen der privaten
-Krankenversicherung an dem Transformationsfonds ist der in Satz 1
-genannte Förderbescheid auch dem jeweiligen Landesausschuss des
-Verbandes der Privaten Krankenversicherung zu übermitteln.
 
 (3) Die Auszahlung der bewilligten Fördermittel kann in jährlichen
 Teilbeträgen erfolgen, wenn das jeweilige Land dies nach § 4 Absatz 1
@@ -567,7 +576,7 @@ Satz 7 beantragt hat.
 
 
 ## § 6 Verwendung der Fördermittel
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000701130)
 
 (1) Die vom Bundesamt für Soziale Sicherung aus dem
 Transformationsfonds ausgezahlten Fördermittel werden als Einnahmen in
@@ -584,7 +593,14 @@ deutschen und europäischen Wettbewerbsrecht und dem Beihilferecht der
 Europäischen Union vereinbar ist. Die zuständigen Landesbehörden
 entscheiden in Übereinstimmung mit ihrem Landeshaushaltsrecht, ob und
 inwieweit Erlöse, die ein Krankenhausträger für den Verkauf eines
-Grundstücks erzielt, auf die Fördermittel anzurechnen sind.
+Grundstücks erzielt, auf die Fördermittel anzurechnen sind. Die Länder
+stellen sicher, dass die Förderung aus dem Sondervermögen des Bundes
+Infrastruktur und Klimaneutralität bei der Durchführung und am
+Standort der Vorhaben in geeigneter und öffentlichkeitswirksamer Weise
+kenntlich gemacht wird; maßgeblich sind die Vorgaben der zwischen Bund
+und Ländern nach § 9 des Länder-und-Kommunal-
+Infrastrukturfinanzierungsgesetzes geschlossenen
+Verwaltungsvereinbarung.
 
 (2) Fördermittel dürfen nur dem Förderzweck entsprechend verwendet
 werden. Die Länder überprüfen durch geeignete Maßnahmen die
@@ -595,11 +611,7 @@ erforderlich ist, sind die für die Krankenhausplanung zuständigen
 Landesbehörden befugt, Unterlagen einzusehen und zu den üblichen
 Geschäfts- und Betriebszeiten die Geschäftsräume des geförderten
 Krankenhauses nach Ankündigung zu betreten und zu besichtigen. Die
-Länder teilen dem Bundesamt für Soziale Sicherung sowie den
-Landesverbänden der Krankenkassen und den Ersatzkassen, im Fall einer
-finanziellen Beteiligung der Unternehmen der privaten
-Krankenversicherung am Transformationsfonds auch dem Landesausschuss
-des Verbandes der Privaten Krankenversicherung, Prüfungsbemerkungen
+Länder teilen dem Bundesamt für Soziale Sicherung Prüfungsbemerkungen
 ihrer obersten Rechnungsprüfungsbehörden mit.
 
 (3) Die Länder übermitteln dem Bundesamt für Soziale Sicherung über
@@ -612,38 +624,37 @@ bewilligt hat, aussagekräftige Unterlagen, aus denen sich ergibt, dass
 die in § 12b Absatz 3 Satz 1 Nummer 3 und 4 des
 Krankenhausfinanzierungsgesetzes genannten Pflichten betreffend die
 Kofinanzierung und die Investitionskostenförderung eingehalten worden
-sind. Im Fall einer finanziellen Beteiligung der Unternehmen der
-privaten Krankenversicherung an dem Transformationsfonds sind die
-Unterlagen nach Satz 1 auch dem Landesausschuss des Verbandes der
-Privaten Krankenversicherung zur Verfügung zu übermitteln.
+sind.
 
 (4) Innerhalb von 20 Monaten nach Abschluss der Umsetzung eines
 geförderten Vorhabens übersenden die Länder dem Bundesamt für Soziale
 Sicherung sowie den Landesverbänden der Krankenkassen und den
-Ersatzkassen den Verwendungsnachweis. Das Bundesamt für Soziale
-Sicherung kann die in Satz 1 genannte Frist in begründeten
-Ausnahmefällen einmalig verlängern. Im Fall einer finanziellen
-Beteiligung der Unternehmen der privaten Krankenversicherung an dem
-Transformationsfonds ist der Verwendungsnachweis auch dem jeweiligen
-Landesausschuss des Verbandes der Privaten Krankenversicherung zu
-übermitteln. Das Bundesamt für Soziale Sicherung kann die Vorlage
-weiterer Nachweise verlangen, sofern dies für die Prüfung der
-zweckentsprechenden Verwendung der Fördermittel erforderlich ist. Als
-Abschluss der Umsetzung eines geförderten Vorhabens gilt die
-Fertigstellung der Baumaßnahme, im Fall eines
+Ersatzkassen den Verwendungsnachweis. Ist an dem geförderten Vorhaben
+eine Hochschulklinik beteiligt, übermitteln die Länder dem Bundesamt
+für Soziale Sicherung über das in § 8 Absatz 1 Satz 1 genannte
+elektronische Verwaltungsportal mit dem in Satz 1 genannten
+Verwendungsnachweis aussagekräftige Unterlagen, aus denen sich ergibt,
+dass die ausgezahlten Fördermittel ausschließlich für
+krankenhausbezogene Strukturmaßnahmen eingesetzt werden. Das Bundesamt
+für Soziale Sicherung kann die in Satz 1 genannte Frist in begründeten
+Ausnahmefällen einmalig verlängern. Das Bundesamt für Soziale
+Sicherung kann die Vorlage weiterer Nachweise verlangen, sofern dies
+für die Prüfung der zweckentsprechenden Verwendung der Fördermittel
+erforderlich ist. Als Abschluss der Umsetzung eines geförderten
+Vorhabens gilt die Fertigstellung der Baumaßnahme, im Fall eines
 Umstrukturierungsvorhabens die erfolgte Umstrukturierung und im Fall
 einer Digitalisierungsmaßnahme die Fertigstellung dieser Maßnahme.
 
 
 ## § 7 Rückforderung von Fördermitteln
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000801130)
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des
 Bundesamtes für Soziale Sicherung und für die Erstattung von
 Fördermitteln gelten die §§ 44 bis 51 des Zehnten Buches
 Sozialgesetzbuch.
 
-(2) Das Bundesamt für Soziale Sicherung kann für ein Vorhaben
+(2) Das Bundesamt für Soziale Sicherung soll für ein Vorhaben
 ausgezahlte Fördermittel durch Bescheid gegenüber dem jeweiligen Land
 ganz oder teilweise zu Gunsten des Transformationsfonds zurückfordern,
 wenn
@@ -792,24 +803,12 @@ Liquiditätsreserve des Gesundheitsfonds zugeführt, sofern sie
 
 
 
-Im Fall einer finanziellen Beteiligung der Unternehmen der privaten
-Krankenversicherung an dem Transformationsfonds sind die nach Satz 1
-der Liquiditätsreserve des Gesundheitsfonds zuzuführenden Mittel um
-den Anteil zu reduzieren, der auf die finanzielle Beteiligung von
-Unternehmen der privaten Krankenversicherung entfällt.
 
-(8) Nicht für das Vorhaben verausgabte Fördermittel, die binnen 12
-Monaten nach Abschluss des Vorhabens erneut als Investition in das
-Krankenhaus zur Verbesserung der Versorgung in Abstimmung mit den
-Landesverbänden der Krankenkasse verwendet werden, werden nicht
-zurückgefordert. Ein entsprechender Nachweis der Abstimmung mit den
-Landesverbänden der Krankenkassen ist vom Land zu erbringen. Dies gilt
-nur, sofern sich Kosteneinsparungen während der Umsetzung des
-Vorhabens ergeben.
+(8) (weggefallen)
 
 
 ## § 8 Aufgaben des Bundesamtes für Soziale Sicherung
-[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000901130)
 
 (1) Das Bundesamt für Soziale Sicherung richtet ein elektronisches
 Verwaltungsportal ein, das den Ländern die Antragstellung sowie die
@@ -817,11 +816,12 @@ Verwaltungsportal ein, das den Ländern die Antragstellung sowie die
 ermöglicht. Es trifft zum Zweck einer einheitlichen und
 wirtschaftlichen Durchführung des Förderverfahrens nähere Bestimmungen
 zur Durchführung des Förderverfahrens und zur Übermittlung der in den
-§§ 4 und 6 genannten Angaben und Unterlagen in einem einheitlichen
-Format oder in einer maschinell auswertbaren Form und erlässt eine
-Förderrichtlinie. Vor Erlass einer Förderrichtlinie sind die Länder zu
-den Regelungen anzuhören und ist das Einvernehmen der Mehrheit der
-Länder erforderlich.
+§§ 4 und 6 genannten Angaben und Unterlagen in einem einheitlichen
+Format oder in einer maschinell auswertbaren Form, erlässt eine
+Förderrichtlinie und aktualisiert diese bei Bedarf. Vor Erlass oder
+Aktualisierung der Förderrichtlinie sind die Länder zu den Regelungen
+anzuhören und ist das Einvernehmen der Mehrheit der Länder
+erforderlich.
 
 (2) Das Bundesamt für Soziale Sicherung schätzt die Aufwendungen, die
 ihm bis zum 31. Dezember 2035 voraussichtlich für die Verwaltung des

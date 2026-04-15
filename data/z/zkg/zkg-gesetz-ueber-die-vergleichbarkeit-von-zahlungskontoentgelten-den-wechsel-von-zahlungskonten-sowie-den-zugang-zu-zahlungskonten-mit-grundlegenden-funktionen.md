@@ -14,10 +14,13 @@ Ausfertigungsdatum
 :   2016-04-11
 
 Fundstelle
-:   BGBl I: 2016, 720
+:   BGBl I: 2016, 720; 2018, 668
 
 Zuletzt geändert durch
 :   Art. 26 G v. 11.12.2023 I Nr. 354
+
+Änderung durch
+:   Art. 15 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -446,7 +449,7 @@ den Verbraucher entgeltfrei vergleicht. Diese trägt die Bezeichnung
 
 
 #### § 17 Anforderungen an die Vergleichswebsite für Zahlungskonten, Meldepflicht für Zahlungsdienstleister
-[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001803128)
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001804128)
 
 (1) Die Vergleichswebsite muss das Angebot verschiedener
 Zahlungsdienstleister, die Zahlungskontendienste anbieten und
@@ -474,13 +477,13 @@ vergleichen:
 
 (2) Zahlungsdienstleister sind verpflichtet, der Bundesanstalt die
 Daten zu Kriterien nach Absatz 1 in Verbindung mit einer
-Rechtsverordnung nach § 19 Absatz 1 Nummer 1 und Absatz 3 zu melden.
-Änderungen und Aktualisierungen der gemeldeten Daten sowie Daten zu
-den Kriterien nach Absatz 1 in Verbindung mit einer Rechtsverordnung
-nach § 19 Absatz 1 Nummer 1 für neu angebotene Zahlungskonten sind der
-Bundesanstalt innerhalb von drei Geschäftstagen ab deren Gültigkeit zu
-melden. Für das Kriterium Geldautomatennetz ist eine halbjährliche
-Änderung und Aktualisierung der gemeldeten Daten ausreichend.
+Rechtsverordnung nach § 19 Absatz 1 und 3 zu melden. Änderungen und
+Aktualisierungen der gemeldeten Daten sowie Daten zu den Kriterien
+nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 19
+Absatz 1 für neu angebotene Zahlungskonten sind der Bundesanstalt
+innerhalb von drei Geschäftstagen ab deren Gültigkeit zu melden. Für
+das Kriterium Geldautomatennetz ist eine halbjährliche Änderung und
+Aktualisierung der gemeldeten Daten ausreichend.
 
 
 #### § 18 Weitere Anforderungen an die Vergleichswebsite
@@ -524,28 +527,25 @@ Die Vergleichswebsite muss
 
 
 #### § 19 Verordnungsermächtigung; Verwaltungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002003128)
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002004128)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
-Einvernehmen mit dem Bundesministerium der Justiz und dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz nähere Bestimmungen zu erlassen über die
 Konkretisierung und Ergänzung der in den §§ 17 und 18 genannten
 Anforderungen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
-Einvernehmen mit dem Bundesministerium der Justiz und dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz die für die Ausführung dieses Unterabschnittes und
 der auf ihm beruhenden Rechtsvorschriften zuständigen Behörden und
 Stellen zu bestimmen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
-Einvernehmen mit dem Bundesministerium der Justiz und dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
+Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz zur Erfüllung der in den §§ 16 bis 18 genannten
 Vorgaben für die Vergleichswebsite nähere Bestimmungen zu erlassen
 über Art und Form der Bereitstellung oder Übermittlung der nach § 17
@@ -553,8 +553,7 @@ Absatz 2 zu meldenden Daten einschließlich der Zeitpunkte, der
 zulässigen Datenträger, Datenformate und Übertragungswege.
 
 (4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz und dem Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz
+Bundesministerium der Justiz und für Verbraucherschutz
 Verwaltungsvorschriften erlassen, die für die Ausführung dieses
 Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften durch
 die zuständigen Behörden und Stellen erforderlich sind.
@@ -563,9 +562,8 @@ die zuständigen Behörden und Stellen erforderlich sind.
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
 Ermächtigungen nach den Absätzen 1 und 3 auf die Bundesanstalt mit der
 Maßgabe zu übertragen, dass die Rechtsverordnung der Bundesanstalt im
-Einvernehmen mit dem Bundesministerium der Finanzen, dem
-Bundesministerium der Justiz und dem Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz ergeht.
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium der Justiz und für Verbraucherschutz ergeht.
 
 
 ## Abschnitt 3 - Kontenwechselhilfe
@@ -1675,7 +1673,7 @@ Bezugnahme auf die Bestimmungen dieses Gesetzes erfolgt.
 
 
 ### § 53 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005401128)
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005402128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1701,7 +1699,7 @@ Bezugnahme auf die Bestimmungen dieses Gesetzes erfolgt.
 6.  entgegen
 
     a)  § 17 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung nach §
-        19 Absatz 3 Nummer 1 oder
+        19 Absatz 3 oder
 
 
     b)  § 17 Absatz 2 Satz 2,
@@ -1709,7 +1707,7 @@ Bezugnahme auf die Bestimmungen dieses Gesetzes erfolgt.
 
 
     jeweils auch in Verbindung mit einer Rechtsverordnung nach § 19 Absatz
-    1 Nummer 1, auch in Verbindung mit einer Rechtsverordnung nach § 19
+    1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 19
     Absatz 5, eine Meldung nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig macht,
 

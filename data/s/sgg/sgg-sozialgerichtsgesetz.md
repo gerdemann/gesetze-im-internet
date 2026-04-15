@@ -33,6 +33,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 14 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1a G v. 9.4.2026 I Nr. 98 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -677,7 +680,7 @@ errichten.
 
 
 #### § 29
-[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005017125)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005018131)
 
 (1) Die Landessozialgerichte entscheiden im zweiten Rechtszug über die
 Berufung gegen die Urteile und die Beschwerden gegen andere
@@ -739,12 +742,7 @@ Rechtszug über
 
 4.  Streitigkeiten über Entscheidungen des Bundeskartellamts, die die
     freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften
-    Buches Sozialgesetzbuch betreffen,
-
-
-5.  Streitigkeiten betreffend die Veröffentlichung des
-    Transparenzverzeichnisses nach § 135d des Fünften Buches
-    Sozialgesetzbuch.
+    Buches Sozialgesetzbuch betreffen.
 
 
 
@@ -794,7 +792,12 @@ Rechtszug über
     Qualitätsausschuss sowie über Klagen, welche die Mitwirkung an den
     Richtlinien des Medizinischen Dienstes Bund betreffen (§ 17 Absatz 1
     und 1c, § 112a Absatz 2, § 114a Absatz 7 und § 114c Absatz 1 des
-    Elften Buches Sozialgesetzbuch).
+    Elften Buches Sozialgesetzbuch),
+
+
+5.  Streitigkeiten betreffend die Veröffentlichung des
+    Transparenzverzeichnisses nach § 135d des Fünften Buches
+    Sozialgesetzbuch.
 
 
 

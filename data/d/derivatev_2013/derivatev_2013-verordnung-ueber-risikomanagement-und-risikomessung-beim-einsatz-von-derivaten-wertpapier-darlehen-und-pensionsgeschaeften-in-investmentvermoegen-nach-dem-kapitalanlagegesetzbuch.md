@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 Abs. 1 G v. 3.6.2021 I 1498
 
+Änderung durch
+:   Art. 11 G v. 9.4.2026 I Nr. 97 mWv 25.6.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000100000)

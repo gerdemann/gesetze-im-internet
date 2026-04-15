@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2494
 
 Zuletzt geändert durch
-:   Art. 11a G v. 23.10.2024 I Nr. 324
+:   Art. 7b G v. 9.4.2026 I Nr. 98
 
 
 ## Abschnitt 1 - Zweck; Begriffsbestimmungen
@@ -1194,7 +1194,7 @@ enthalten.
 
 
 ### § 29 Datenübermittlung durch die Registerstelle
-[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003000000)
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003001128)
 
 (1) Die Registerstelle übermittelt
 
@@ -1236,7 +1236,7 @@ enthalten.
 4.  dem Gemeinsamen Bundesausschuss nach § 91 des Fünften Buches
     Sozialgesetzbuch die Daten, die zur Weiterentwicklung von Richtlinien
     und Beschlüssen zur Qualitätssicherung für implantationsmedizinische
-    Leistungen nach den §§ 136 bis 136c des Fünften Buches
+    Leistungen nach den §§ 136 bis 136b des Fünften Buches
     Sozialgesetzbuch und zur Umsetzung dieser Richtlinien und Beschlüsse
     erforderlich sind,
 

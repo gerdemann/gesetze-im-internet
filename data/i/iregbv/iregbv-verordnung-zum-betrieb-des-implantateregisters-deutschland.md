@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4344
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.1.2026 I Nr. 20
+:   Art. 7c G v. 9.4.2026 I Nr. 98
 
 
 ## Eingangsformel
@@ -265,7 +265,7 @@ verlangen.
 
 
 ### § 9 Auswertungsbericht
-[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001101128)
 
 (1) Der Auswertungsbericht nach § 11 Nummer 3 des
 Implantateregistergesetzes soll insbesondere folgendes enthalten:
@@ -314,7 +314,7 @@ beigefügten Stellungnahmen weiter
 
 2.  an den Gemeinsamen Bundesausschuss zur Weiterentwicklung von
     Richtlinien und Beschlüssen zur Qualitätssicherung für
-    implantationsmedizinische Leistungen nach den §§ 136 bis 136c des
+    implantationsmedizinische Leistungen nach den §§ 136 bis 136b des
     Fünften Buches Sozialgesetzbuch und zur Umsetzung dieser Richtlinien
     und Beschlüsse.
 

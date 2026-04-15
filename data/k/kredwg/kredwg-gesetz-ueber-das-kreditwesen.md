@@ -27,6 +27,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
+Änderung durch
+:   Art. 6 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 G v. 9.4.2026 I Nr. 97 mWv 15.4.2026 bzw. 25.6.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000104377)
@@ -3948,7 +3954,7 @@ unberührt.
 
 
 #### § 6b Aufsichtliche Überprüfung und Beurteilung
-[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029103128)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029104128)
 
 (1) Im Rahmen der Beaufsichtigung beurteilt die Aufsichtsbehörde
 
@@ -3991,7 +3997,12 @@ ESG-Risiken berücksichtigt sie dabei insbesondere
 
 3.  das Ausmaß, in dem ein Institut Risikokonzentrationen ausgesetzt ist,
     und deren Steuerung durch das Institut, einschließlich der Erfüllung
-    der aufsichtlichen Anforderungen;
+    der aufsichtlichen Anforderungen, insbesondere hinsichtlich des
+    Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen
+    Gegenparteien erwächst, einschließlich der gemäß § 25c Absatz 4a
+    Nummer 7 ausgearbeiteten Pläne, sowie der Fortschritte bei der
+    Anpassung der Geschäftsmodelle der Institute an die in Artikel 7a der
+    Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen;
 
 
 4.  die Auswirkung von Diversifikationseffekten und auf welche Art und
@@ -19112,7 +19123,7 @@ nach der Verordnung (EU) 2022/858 betroffen sind.
 
 
 ### § 54 Verbotene Geschäfte, Handeln ohne Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009313128)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009314128)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -19132,26 +19143,21 @@ bestraft, wer
 
 
 
-(1a) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 14 Absatz 1
-der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des
-Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und
-Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) eine
-Clearingdienstleistung erbringt.
+(2) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 14 Absatz 1
+der Verordnung (EU) Nr. 648/2012 in der Fassung vom 27. November 2024
+eine Clearingdienstleistung erbringt.
 
-(1b) Ebenso wird bestraft, wer ohne die erforderliche Zulassung nach
-Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 eine
-Zentralverwahrertätigkeit ausübt.
+(3) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 16 Absatz 1
+der Verordnung (EU) Nr. 909/2014 in der Fassung vom 13. Dezember 2023
+eine Zentralverwahrertätigkeit ausübt.
 
-(1c) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 12 Absatz 1
-der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des
-Rates vom 7. Oktober 2020 über Europäische
-Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der
-Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L
-347 vom 20.10.2020, S. 1) eine Schwarmfinanzierungsdienstleistung
-erbringt.
+(4) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 12 Absatz 1
+der Verordnung (EU) 2020/1503 in der Fassung vom 7. Oktober 2020 eine
+Schwarmfinanzierungsdienstleistung erbringt.
 
-(2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
-bis zu drei Jahren oder Geldstrafe.
+(5) Handelt der Täter in den Fällen der Absätze 1 bis 3 oder 4
+fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder
+Geldstrafe.
 
 
 ### § 54a Strafvorschriften

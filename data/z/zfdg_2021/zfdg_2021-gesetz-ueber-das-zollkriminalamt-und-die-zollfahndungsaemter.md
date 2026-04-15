@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
-:   Art. 5 G v. 10.2.2026 I Nr. 39
+:   Art. 14 G v. 9.4.2026 I Nr. 97
 
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
@@ -1378,7 +1378,7 @@ Rechtsvorschriften zulässig.
 
 
 ##### § 21 Datenübermittlung im innerstaatlichen Bereich
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002201123)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002202123)
 
 (1) Das Zollkriminalamt kann personenbezogene Daten an andere
 Dienststellen der Zollverwaltung übermitteln, soweit dies zur
@@ -1389,7 +1389,7 @@ Empfängers erforderlich ist.
 in Absatz 1 genannten Behörden und sonstige öffentliche Stellen
 übermitteln, soweit dies
 
-1.  in anderen Rechtsvorschriften vorgesehen ist oder
+1.  in anderen Vorschriften vorgesehen ist oder
 
 
 2.  zulässig und erforderlich ist
@@ -1412,10 +1412,16 @@ in Absatz 1 genannten Behörden und sonstige öffentliche Stellen
 
 
 
+    und Zwecke des Strafverfahrens nicht entgegenstehen. § 30 der
+    Abgabenordnung steht einer Übermittlung personenbezogener Daten in den
+    Fällen des Satzes 1 Nummer 2 Buchstabe a bis c nicht entgegen, soweit
+    die Übermittlung im Rahmen des polizeilichen Informationsverbundes
+    nach den §§ 2, 29 und 30 des Bundeskriminalamtgesetzes erfolgt.
+    Sonstige Übermittlungsverbote und Verweigerungsgründe aus § 24 bleiben
+    unberührt.
 
 
 
-und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 (3) Das Zollkriminalamt kann dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle personenbezogene Daten übermitteln, wenn tatsächliche
@@ -3353,7 +3359,7 @@ Tätigkeit dies zulassen.
 
 
 ##### § 65 Datenübermittlung im innerstaatlichen Bereich
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006601123)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006602123)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten an andere Dienststellen der Zollverwaltung übermitteln, soweit
@@ -3383,10 +3389,16 @@ Daten an andere als die in Absatz 1 genannten Behörden und sonstige
 
 
 
+    und Zwecke des Strafverfahrens nicht entgegenstehen. § 30 der
+    Abgabenordnung steht einer Übermittlung personenbezogener Daten in den
+    Fällen des Satzes 1 Nummer 2 Buchstabe a bis c nicht entgegen, soweit
+    die Übermittlung im Rahmen des polizeilichen Informationsverbundes
+    nach den §§ 2, 29 und 30 des Bundeskriminalamtgesetzes erfolgt.
+    Sonstige Übermittlungsverbote und Verweigerungsgründe aus § 68 bleiben
+    unberührt.
 
 
 
-und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 (3) Unbeschadet des Absatzes 2 übermitteln die Behörden des
 Zollfahndungsdienstes dem Bundeskriminalamt die zur Erfüllung seiner

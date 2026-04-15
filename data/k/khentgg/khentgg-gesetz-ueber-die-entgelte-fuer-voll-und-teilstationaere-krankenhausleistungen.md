@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13a G v. 22.12.2025 I Nr. 371
 
+Änderung durch
+:   Art. 3 G v. 9.4.2026 I Nr. 98 mWv 15.4.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG000600000)
