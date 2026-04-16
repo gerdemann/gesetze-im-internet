@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 27 Abs. 2 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 4 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 9.4.2026 I Nr. 97
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei
@@ -8159,18 +8153,16 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 86 Anzeigepflicht
-[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008803123)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008804129)
 
-(1) Andere Personen als Wertpapierdienstleistungsunternehmen,
-Kapitalverwaltungsgesellschaften, EU-Verwaltungsgesellschaften oder
-Investmentgesellschaften, die in Ausübung ihres Berufes oder im Rahmen
-ihrer Geschäftstätigkeit für die Erstellung von
-Anlagestrategieempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 34
-der Verordnung (EU) Nr. 596/2014 oder von Anlageempfehlungen im Sinne
-des Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014
-oder deren Weitergabe verantwortlich sind, haben dies der
-Bundesanstalt vor Erstellung oder Weitergabe der Empfehlungen
-anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
+(1) Andere Personen als Wertpapierdienstleistungsunternehmen, die in
+Ausübung ihres Berufes oder im Rahmen ihrer Geschäftstätigkeit für die
+Erstellung von Anlagestrategieempfehlungen im Sinne des Artikels 3
+Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 oder von
+Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35 der
+Verordnung (EU) Nr. 596/2014 oder deren Weitergabe verantwortlich
+sind, haben dies der Bundesanstalt vor Erstellung oder Weitergabe der
+Empfehlungen anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
 
 1.  bei einer natürlichen Person Name, Geburtsort, Geburtsdatum, Wohn- und
     Geschäftsanschrift sowie telefonische und elektronische Kontaktdaten,
@@ -8206,7 +8198,7 @@ oder der Hauptniederlassung.
 
 
 ### § 87 Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsbeauftragte, in der Finanzportfolioverwaltung oder als Compliance-Beauftragte; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020502129)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020503129)
 
 (1) Ein Wertpapierdienstleistungsunternehmen darf einen Mitarbeiter
 nur dann mit der Anlageberatung betrauen, wenn dieser sachkundig ist
@@ -8300,11 +8292,11 @@ gegen Maßnahmen nach Satz 1 haben keine aufschiebende Wirkung.
 
 (7) (wegegfallen)
 
-(8) Die Absätze 1 bis 6 sind nicht anzuwenden auf diejenigen
+(8) Die Absätze 1 bis 7 sind nicht anzuwenden auf diejenigen
 Mitarbeiter eines Wertpapierdienstleistungsunternehmens, die
 ausschließlich in einer Zweigniederlassung im Sinne des § 24a des
-Kreditwesengesetzes oder in mehreren solcher Zweigniederlassungen
-tätig sind.
+Kreditwesengesetzes, des § 70 des Wertpapierinstitutsgesetzes oder in
+mehreren solcher Zweigniederlassungen tätig sind.
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, die näheren

@@ -319,7 +319,7 @@ tritt am 1. Januar 2022 in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000805130)
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000806131)
 
 (Fundstelle: BGBl. I 2021, 4079 - 4109;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3214,16 +3214,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung
         des Wechsels einer Verwahrstelle oder Prüfung der Benennung eines
         Treuhänders
-        (§ 69 Absatz 1 und 2 KAGB;
-        § 87 in Verbindung mit § 69 Absatz 1 und 2 KAGB;
-        § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB)
+        (§ 69 Absatz 1 und 2 KAGB;
+        § 87 Satz 1 in Verbindung mit § 69 Absatz 1 und 2 KAGB;
+        § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB)
 
     *
 
 *    *   15.1.3.1.1
 
-    *   wenn die Verwahrstelle oder der Treuhänder bereits Gegenstand einer
-        Genehmigung oder Prüfung war
+    *   wenn die OGAW-Verwahrstelle bereits Gegenstand einer Genehmigung oder
+        Prüfung war
 
     *   302
 
