@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 169
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.6.2024 I Nr. 183
+:   Art. 2 V v. 1.4.2026 I Nr. 101
 
 [^f801540_01_BJNR016900018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
     Rates vom 20. April 2015 zur Festlegung von Berechnungsverfahren und
@@ -276,7 +276,7 @@ Ausgabe Mai 2020.
 
 
 #### § 7 Antrag auf Zustimmung
-[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000902130)
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000903130)
 
 (1) Vor Beginn einer Projekttätigkeit stellt der Projektträger einen
 Antrag auf Erteilung der Zustimmung zu der Projekttätigkeit beim
@@ -394,10 +394,9 @@ benennen. Diese empfangsberechtigte Person tritt auch ein als
 Schuldner für festgesetzte und vom Projektträger geschuldete Gebühren
 nach dieser Verordnung beziehungsweise nach § 1 Absatz 1 Nummer 7 in
 Verbindung mit Abschnitt 7 der Anlage zu der Besonderen
-Gebührenverordnung BMUV vom 30. Juni 2021 (BGBl. I S. 2334), die
-zuletzt durch Artikel 1 Nummer 1 der Verordnung vom 5. September 2023
-(BGBl. 2023 I Nr. 247) geändert worden ist, in der jeweils geltenden
-Fassung.
+Gebührenverordnung BMUKN vom 30. Juni 2021 (BGBl. I S. 2334), die
+zuletzt durch Artikel 1 der Verordnung vom 1. April 2026 (BGBl. 2026 I
+Nr. 101) geändert worden ist, in der jeweils geltenden Fassung.
 
 (4) Ist der Antrag unvollständig, so teilt das Umweltbundesamt dem
 Projektträger mit, welche Unterlagen und Angaben fehlen. Anträge, die
@@ -1322,7 +1321,7 @@ ist Artikel 19 Absatz 1 und 2 der Delegierten Verordnung (EU)
 
 
 ##### § 31 Kontosperrung
-[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003301130)
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003302130)
 
 (1) Das Umweltbundesamt kann den Zugang einer kontobevollmächtigten
 Person zum UER-Register sperren, wenn Tatsachen die Annahme
@@ -1356,7 +1355,7 @@ für alle kontobevollmächtigte Personen sperren, wenn
 2.  der Kontoinhaber oder die empfangsberechtigte Person nach § 7 Absatz 2
     Satz 1 Nummer 1 und Absatz 3 Satz 1 und 2 fällige Gebühren nach dieser
     Verordnung beziehungsweise nach § 1 Absatz 1 Nummer 7 in Verbindung
-    mit Abschnitt 7 der Anlage zu der Besonderen Gebührenverordnung BMUV
+    mit Abschnitt 7 der Anlage zu der Besonderen Gebührenverordnung BMUKN
     in der jeweils geltenden Fassung nicht oder nicht vollständig bezahlt
     hat,
 
