@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 868
 
 Änderung durch
-:   Art. 13 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt
+:   Art. 13 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F821894_01_BJNR086800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
@@ -48,11 +48,11 @@ eingetragen sind.
 
 
 ## § 2 Anwendbare Vorschriften
-[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000301128)
 
-Auf Kryptofondsanteile sind § 4 Absatz 11, § 8 Absatz 2, die §§ 16 bis
-23 mit Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie die §§ 30 und
-31 Absatz 1 und 2 Nummer 13 bis 15 des Gesetzes über elektronische
+Auf Kryptofondsanteile sind § 4 Absatz 11, § 8, die §§ 16 bis 23 mit
+Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie die §§ 30 und 31
+Absatz 1 und 2 Nummer 13 bis 15 des Gesetzes über elektronische
 Wertpapiere entsprechend anzuwenden mit der Maßgabe, dass
 
 1.  an die Stelle des Kryptowertpapiers oder der Schuldverschreibung der
@@ -69,13 +69,15 @@ Wertpapiere entsprechend anzuwenden mit der Maßgabe, dass
 
 
 ## § 3 Registerführende Stelle
-[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000401128)
 
 Abweichend von § 16 Absatz 2 des Gesetzes über elektronische
 Wertpapiere ist registerführende Stelle bei Kryptofondsanteilen die
 Verwahrstelle oder ein anderes von der Verwahrstelle beauftragtes
 Unternehmen, das gemäß § 1 Absatz 1a Satz 2 Nummer 8 in Verbindung mit
-§ 32 Absatz 1 Satz 1 des Kreditwesengesetzes über eine Erlaubnis zur
+§ 32 Absatz 1 Satz 1 des Kreditwesengesetzes oder gemäß § 2 Absatz 4
+Nummer 4 in Verbindung mit § 15 Absatz 1 des
+Wertpapierinstitutsgesetzes über eine Erlaubnis zur
 Kryptowertpapierregisterführung verfügt. Beauftragt die Verwahrstelle
 gemäß Satz 1 ein anderes Unternehmen, muss sie sicherstellen, dass sie
 ihren Aufgaben und Verpflichtungen gemäß den §§ 70 bis 78 Absatz 1 und

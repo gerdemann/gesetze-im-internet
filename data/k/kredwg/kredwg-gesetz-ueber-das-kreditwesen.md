@@ -28,10 +28,10 @@ Zuletzt geändert durch
 :   Art. 3 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 G v. 9.4.2026 I Nr. 97 mWv 15.4.2026 bzw. 25.6.2026 noch nicht berücksichtigt
+:   Art. 7 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -1269,7 +1269,7 @@ fällt.
 
 
 #### § 2 Ausnahmen
-[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033114128)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033115128)
 
 (1) Als Kreditinstitut gelten vorbehaltlich der Absätze 2 und 3 nicht
 
@@ -1348,6 +1348,11 @@ fällt.
     oder EU-AIF an professionelle Anleger nach § 330 des
     Kapitalanlagegesetzbuchs gilt nicht als zulässiger Vertrieb im Sinne
     dieser Vorschrift;
+
+
+3e. Kreditvergabezweckgesellschaften im Sinne des § 1 Absatz 19 Nummer 24c
+    des Kapitalanlagegesetzbuchs, sofern sie als Bankgeschäfte nur die
+    Gewährung von Gelddarlehen betreiben;
 
 
 4.  private und öffentlich-rechtliche Versicherungsunternehmen;
