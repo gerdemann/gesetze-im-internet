@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 366
 
+Geändert durch
+:   Art. 1 V v. 27.3.2026 I Nr. 105
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000100000)
@@ -346,7 +349,7 @@ zuständigen Stelle zur Verfügung gestellt wird.
 
 
 #### § 12 Erforderliche Unterlagen für den Antrag auf Zulassung
-[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001402131)
 
 (1) Dem Antrag auf Zulassung zur Abschlussprüfung sind die folgenden
 Unterlagen beizufügen:
@@ -358,8 +361,8 @@ Unterlagen beizufügen:
 
 
     b)  den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
-        Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und
-        von dem oder der Auszubildenden unterzeichnet sein muss,
+        Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+        schriftlich oder elektronisch vorgelegt werden muss,
 
 
 
@@ -368,8 +371,8 @@ Unterlagen beizufügen:
 2.  in den Fällen, in denen die Abschlussprüfung aus zwei Teilen besteht,
 
     a)  für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
-        Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und
-        von dem oder der Auszubildenden unterzeichnet sein muss, und
+        Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+        schriftlich oder elektronisch vorgelegt werden muss, und
 
 
     b)  für Teil 2:
@@ -377,13 +380,13 @@ Unterlagen beizufügen:
         aa) entweder die Bescheinigung über die Ablegung von Teil 1 der
             Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von
             Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in
-            der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 2b
+            der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 3
             des Berufsbildungsgesetzes getroffen worden ist, und
 
 
         bb) den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
-            Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und
-            von der oder dem Auszubildenden unterzeichnet sein muss.
+            Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+            schriftlich oder elektronisch vorgelegt werden muss.
 
 
 
@@ -437,9 +440,9 @@ Unterlagen beizufügen:
 
 
 
-2.  den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
-    Berufsbildungsgesetzes, der vom Ausbilder oder von der Ausbilderin und
-    von der oder dem Auszubildenden unterzeichnet sein muss.
+2.  den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
+    Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+    schriftlich oder elektronisch vorgelegt werden muss.
 
 
 
@@ -465,6 +468,14 @@ beizufügen:
 
 
 
+(6) Wer im Rahmen eines Verfahrens nach § 1 Absatz 6 des
+Berufsbildungsgesetzes das Zeugnis der vollständigen Vergleichbarkeit
+seiner individuellen beruflichen Handlungsfähigkeit mit der für die
+Ausübung des im Antrag bestimmten anerkannten Ausbildungsberufs
+erforderlichen beruflichen Handlungsfähigkeit erhalten hat, hat dem
+Antrag das Zeugnis über die Feststellung der vollständigen
+Vergleichbarkeit der beruflichen Handlungsfähigkeit nach § 50c Absatz
+3 Satz 2 des Berufsbildungsgesetzes beizufügen.
 
 
 #### § 13 Entscheidung über die Zulassung
@@ -515,10 +526,13 @@ Ausbildungsordnung.
 
 
 #### § 16 Leitung der Abschlussprüfung
-[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001800000)
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001801131)
 
 Die Abschlussprüfung wird unter der Leitung des Vorsitzes vom gesamten
-Prüfungsausschuss durchgeführt.
+Prüfungsausschuss durchgeführt. Dessen unbeschadet können die Abnahme
+und die abschließende Bewertung von einzelnen Prüfungsleistungen auf
+Prüferdelegationen, auf zwei Mitglieder des Prüfungsausschusses oder
+auf zwei Mitglieder einer Prüferdelegation übertragen werden.
 
 
 #### § 17 Prüfungsaufgaben
@@ -1193,7 +1207,7 @@ aktenkundig zu machen.
 
 
 #### § 43 Prüfungszeugnis
-[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004500000)
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004501131)
 
 (1) Das Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des
 Berufsbildungsgesetzes wird von der zuständigen Stelle ausgestellt.
@@ -1236,7 +1250,7 @@ Berufsbildungsgesetzes wird von der zuständigen Stelle ausgestellt.
 
 
 (3) Sieht die Ausbildungsordnung aufgrund des § 5 Absatz 2 Satz 1
-Nummer 2a des Berufsbildungsgesetzes vor, dass bei einer
+Nummer 2 des Berufsbildungsgesetzes vor, dass bei einer
 Abschlussprüfung, die in zwei zeitlich auseinanderfallenden Teilen
 durchgeführt wird, bei nicht bestandener Abschlussprüfung in einem
 dreijährigen oder dreieinhalbjährigen Ausbildungsberuf, der auf einem
