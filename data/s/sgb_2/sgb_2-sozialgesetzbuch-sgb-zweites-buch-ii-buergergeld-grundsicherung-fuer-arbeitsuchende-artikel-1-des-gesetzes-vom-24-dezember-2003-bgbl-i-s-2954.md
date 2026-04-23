@@ -22,6 +22,21 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 363
 
+Änderung durch
+:   Art. 1 G v. 16.4.2026 I Nr. 107 mWv 23.4.2026 bzw. 1.7.2026 bzw. 1.8.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1a G v. 16.4.2026 I Nr. 107 mWv 1.1.2029 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 1b G v. 16.4.2026 I Nr. 107 noch nicht berücksichtigt
+
+Stand: Zukünftige Überschrift: Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende (ab 1.7.2026; 2026 I Nr. 107)
+[^BJNR295500003]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 G v.
+    16\.4.2026 I Nr. 107 mWv 1.7.2026 wie folgt gefasst:
+    **Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für
+    Arbeitsuchende**
+
 
 ## Kapitel 1 - Fördern und Fordern
 [Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000101308)

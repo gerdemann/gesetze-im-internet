@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 7 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 8 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000100307)
@@ -232,8 +235,6 @@ nach Eintritt der Pflegebedürftigkeit ihre Leistungen zur
 medizinischen Rehabilitation und ergänzenden Leistungen in vollem
 Umfang einzusetzen und darauf hinzuwirken, die Pflegebedürftigkeit zu
 überwinden, zu mindern sowie eine Verschlimmerung zu verhindern.
-
-(7) (weggefallen)
 
 
 ### § 6 Eigenverantwortung
@@ -3231,9 +3232,6 @@ Buches gilt entsprechend.
 3.  Kombination von Geldleistung und Sachleistung (§ 38),
 
 
-3a. (weggefallen)
-
-
 4.  Verhinderungspflege (§ 39 in Verbindung mit § 42a),
 
 
@@ -5327,8 +5325,6 @@ Verbände der Menschen mit Behinderungen, der Pflegebedürftigen und
 ihrer Angehörigen und vergleichbar Nahestehenden auf Bundesebene vor
 dem Beschluss anzuhören.
 
-(9) (weggefallen)
-
 
 #### § 45d Förderung der Selbsthilfe in der Pflege, Verordnungsermächtigung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019206130)
@@ -5374,8 +5370,8 @@ Fördermaßnahme insgesamt geleistet werden.
 (4) Von den in Absatz 1 Satz 1 genannten Fördermitteln werden Mittel
 im Umfang von 0,05 Euro pro Versichertem zur Verfügung gestellt, um
 bundesweite Tätigkeiten und Strukturen von Selbsthilfegruppen,
-‑organisationen und ‑kontaktstellen zu fördern sowie um
-Gründungszuschüsse für neue Selbsthilfegruppen, ‑organisationen und
+-organisationen und -kontaktstellen zu fördern sowie um
+Gründungszuschüsse für neue Selbsthilfegruppen, -organisationen und
 -kontaktstellen zu gewähren, ohne dass es einer Mitfinanzierung durch
 ein Land oder durch eine kommunale Gebietskörperschaft bedarf; die
 Gewährung insbesondere von Gründungszuschüssen im Rahmen einer
@@ -6404,12 +6400,6 @@ Eintritt eines vergleichbaren Ereignisses erbracht werden. Ansonsten
 wirkt der Nachweis ab Beginn des Monats, der dem Monat folgt, in dem
 der Nachweis erbracht wird. Die beitragsabführenden Stellen und die
 Pflegekassen sind berechtigt, entsprechende Nachweise anzufordern.
-
-(3b) (weggefallen)
-
-(3c) (weggefallen)
-
-(3d) (weggefallen)
 
 (4) Zu den Eltern im Sinne des Absatzes 3 Satz 3 gehören nicht
 
@@ -12056,6 +12046,75 @@ orientieren. Die Grundlagen des Berichts nach den Sätzen 3 und 4 legt
 der Spitzenverband Bund der Pflegekassen bis zum 31. März 2024 fest.
 Die Grundlagen des Berichts bedürfen der Zustimmung des
 Bundesministeriums für Gesundheit.
+
+
+### § 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE030500130)
+
+Die maßgeblichen Organisationen der Pflegeberufe auf Bundesebene
+beauftragen gemeinsam mit den Vertragsparteien nach § 113 Absatz 1
+Satz 1 bis zum 31. Dezember 2026 eine unabhängige qualifizierte
+Geschäftsstelle mit der Begleitung und Unterstützung einer fachlich
+fundierten Personal- und Organisationsentwicklung von
+Pflegeeinrichtungen. Die beauftragte Geschäftsstelle soll insbesondere
+die folgenden Zielgruppen und Maßnahmen unterstützen:
+
+1.  Pflegefachpersonen und Pflegeeinrichtungen bei der fachgerechten
+    Wahrnehmung der Pflegeprozessverantwortung,
+
+
+2.  Pflegefachpersonen und Pflegeeinrichtungen bei der Umsetzung von
+    Pflegedokumentationskonzepten, die den Anforderungen des § 113 Absatz
+    1 Satz 3 bis 5 entsprechen,
+
+
+3.  Pflegeeinrichtungen bei der Umsetzung von personzentrierten und
+    kompetenzorientierten Personal- und
+    Organisationsentwicklungsmaßnahmen, für vollstationäre
+    Pflegeeinrichtungen auch nach § 113c Absatz 3 Satz 1 Nummer 1,
+
+
+4.  Pflegeeinrichtungen bei der Umsetzung pflegerischer Aufgaben auf der
+    Grundlage der wissenschaftlichen Expertisen nach § 8 Absatz 3c sowie
+    bei der Entwicklung und Umsetzung von Führungs- und
+    Delegationskonzepten und
+
+
+5.  Pflegefachpersonen und Pflegeeinrichtungen bei der Umsetzung eines
+    ganzheitlichen, personzentrierten Pflegeverständnisses, das die
+    Stärkung der Selbständigkeit und der Fähigkeiten der pflegebedürftigen
+    Menschen in den Mittelpunkt stellt.
+
+
+
+Die Unterstützung nach Satz 2 soll insbesondere erfolgen durch
+
+1.  die Entwicklung und Durchführung von Schulungsmaßnahmen zu den
+    Maßnahmen nach Satz 2, insbesondere für Multiplikatorinnen und
+    Multiplikatoren, um entsprechende Schulungsmaßnahmen bundesweit in
+    geeigneter regionaler Dichte und Häufigkeit anbieten zu können, sowie
+
+
+2.  die Entwicklung und Bewertung fachlicher Informationen, von
+    Assessmentinstrumenten und Konzepten zur Nutzung durch
+    Pflegefachpersonen und Leitungskräfte in der Pflege zu den Maßnahmen
+    nach Satz 2 und die öffentliche Bereitstellung dieser Informationen,
+    Assessmentinstrumente und Konzepte im Internet.
+
+
+
+Der Medizinische Dienst Bund und die maßgeblichen Organisationen für
+die Wahrnehmung der Interessen und der Selbsthilfe der
+pflegebedürftigen und behinderten Menschen nach Maßgabe von § 118
+sowie weitere relevante Fachorganisationen sind bei der Entwicklung
+der Maßnahmen nach Satz 2 zu beteiligen. Näheres zur Zusammensetzung
+und Arbeitsweise der Geschäftsstelle, insbesondere zur Auswahl und
+Qualifikation der Multiplikatorinnen und Multiplikatoren, regeln die
+maßgeblichen Organisationen der Pflegeberufe auf Bundesebene und die
+Vertragsparteien nach § 113 Absatz 1 Satz 1 in einer Geschäftsordnung.
+Die Geschäftsstelle ist bis zum 31. Dezember 2029 befristet. Sie legt
+der oder dem Bevollmächtigten der Bundesregierung für Pflege jährlich,
+erstmals zum 31. März 2028, einen Bericht über ihre Arbeit vor.
 
 
 ### § 113d Geschäftsstelle zur Begleitung und Unterstützung der fachlich fundierten Personal- und Organisationsentwicklung von Pflegeeinrichtungen

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 19 G v. 22.12.2025 I Nr. 355
 
+Änderung durch
+:   Art. 10 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Leistungen
 [Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNG000107308)

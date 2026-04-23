@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 29.3.2026 I Nr. 85
 
+Änderung durch
+:   Art. 7 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000105140)

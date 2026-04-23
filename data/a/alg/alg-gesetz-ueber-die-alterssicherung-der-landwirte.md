@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369
 
+Änderung durch
+:   Art. 11 Abs. 11 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Versicherter Personenkreis
 [Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000100320)

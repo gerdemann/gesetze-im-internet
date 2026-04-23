@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 207
 
+Änderung durch
+:   Art. 11 Abs. 15 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000100000)

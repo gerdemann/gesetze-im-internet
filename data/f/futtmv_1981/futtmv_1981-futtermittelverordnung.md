@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.08.2016 I 2004;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 1 V v. 2.12.2025 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 2.12.2025 I Nr. 304
 
 Die Verordnung dient in der bis zum 24. März 2007 geltenden Fassung
 der Umsetzung der in der Fassung der Bekanntmachung der
@@ -1795,7 +1792,8 @@ Verfolgung von Ordnungswidrigkeiten weiter anzuwenden.
 ### Anlage 2 Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
 [Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE005419119)
 
-(Fundstelle: BGBl. I 2016, 2026)
+(Fundstelle: BGBl. I 2016, 2026;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Verwendete Abkürzungen
 
@@ -2158,7 +2156,8 @@ DLG-Verlag, Frankfurt/Main.
 ### Anlage 4 Anforderungen und Pflichten für Betriebe gemäß § 17 Absatz 2
 [Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE007810119)
 
-(Fundstelle: BGBl. I 2016, 2028)
+(Fundstelle: BGBl. I 2016, 2028;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Anforderungen an Räume und Einrichtungen

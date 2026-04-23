@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 139, 2287
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2024 I Nr. 396
-
-Änderung durch
-:   Art. 1 V v. 10.12.2025 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.12.2025 I Nr. 322
 
 Stand: Gem. § 28 Abs. 2 F. 24.1.2022 iVm Bek. v. 9.12.2022 I 2287 ist diese V im Übrigen am 22.11.2022 in Kraft getreten
 
@@ -2010,7 +2007,8 @@ Dezember 2024 angelegt werden.
 ### Anlage 3 Indikative Mittelzuweisungen in Euro für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003403119)
 
-(Fundstelle: BGBl. I 2022, 155)
+(Fundstelle: BGBl. I 2022, 155;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
