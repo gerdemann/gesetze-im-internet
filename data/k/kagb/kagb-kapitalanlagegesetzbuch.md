@@ -19367,7 +19367,7 @@ der Bundesanstalt einzureichen:
     a)  den Antrag auf Genehmigung der Änderung der Anlagebedingungen,
 
 
-    b)  die vorgenommenen Änderungen des Verkaufsprospekts des
+    b)  die vorgenommenen Änderungen des Verkaufsprospekts und des
         Basisinformationsblattes gemäß Verordnung (EU) Nr. 1286/2014.
 
 

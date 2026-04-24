@@ -8244,11 +8244,12 @@ Aufnahme der digitalen Pflegeanwendung in das Verzeichnis nach Absatz
 3 einen Vergütungsbetrag sowie technische und vertragliche
 Rahmenbedingungen für die Zurverfügungstellung der digitalen
 Pflegeanwendungen nach § 40a Absatz 4. Die Vereinbarungen gelten ab
-dem darin vereinbarten Zeitpunkt. Kommt innerhalb der Frist nach Satz
-1 keine Einigung zustande, entscheidet die Schiedsstelle nach § 134
-Absatz 3 des Fünften Buches mit der Maßgabe, dass an die Stelle der
-zwei Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und
-an die Stelle der zwei Vertreter der Hersteller digitaler
+dem Zeitpunkt der Aufnahme in das Verzeichnis für digitale
+Pflegeanwendungen. Kommt innerhalb der Frist nach Satz 1 keine
+Einigung zustande, entscheidet die Schiedsstelle nach § 134 Absatz 3
+des Fünften Buches mit der Maßgabe, dass an die Stelle der zwei
+Vertreter der Krankenkassen zwei Vertreter der Pflegekassen und an die
+Stelle der zwei Vertreter der Hersteller digitaler
 Gesundheitsanwendungen zwei Vertreter der Hersteller von digitalen
 Pflegeanwendungen treten. An den Sitzungen der Schiedsstelle können
 anstelle der Vertreter der Patientenorganisationen nach § 140f des
@@ -8311,7 +8312,7 @@ Antrag Nachweise darüber beizufügen, dass die digitale Pflegeanwendung
 
 
 3.  im Sinne der Rechtsverordnung nach Absatz 6 Nummer 2 einen
-    pflegerischen Nutzen im Sinne des § 40a Absatz 1 oder 1a aufweist.
+    pflegerischen Nutzen aufweist.
 
 
 
@@ -8356,17 +8357,19 @@ verlängert werden. Legt der Hersteller unvollständige
 Antragsunterlagen vor, fordert ihn das Bundesinstitut für Arzneimittel
 und Medizinprodukte auf, den Antrag innerhalb von einer Frist von drei
 Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen
-Antragsunterlagen vor und hat der Hersteller keine Erprobung nach
-Absatz 6a beantragt, ist der Antrag abzulehnen. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte berät die Hersteller digitaler
+Antragsunterlagen vor, ist der Antrag abzulehnen. Das Bundesinstitut
+für Arzneimittel und Medizinprodukte berät die Hersteller digitaler
 Pflegeanwendungen zu den Antrags- und Anzeigeverfahren sowie zu den
 Voraussetzungen, die erfüllt sein müssen, damit die Versorgung mit der
 jeweiligen digitalen Pflegeanwendung nach den §§ 40a und 40b zu Lasten
 der Pflegeversicherung erbracht werden kann. Im Übrigen gilt § 139e
-Absatz 6 bis 8 des Fünften Buches entsprechend. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte informiert die Vertragsparteien nach
-§ 75 Absatz 1, die an Rahmenverträgen über ambulante Pflege beteiligt
-sind, über die erforderlichen ergänzenden Unterstützungsleistungen.
+Absatz 6 bis 8 des Fünften Buches entsprechend. In seiner Entscheidung
+stellt das Bundesinstitut für Arzneimittel und Medizinprodukte fest,
+welche ergänzenden Unterstützungsleistungen für die Nutzung der
+digitalen Pflegeanwendung erforderlich sind, und informiert die
+Vertragsparteien nach § 75 Absatz 1, die an Rahmenverträgen über
+ambulante Pflege beteiligt sind, zeitgleich mit der Aufnahme der
+digitalen Pflegeanwendung in das Verzeichnis nach Absatz 3 hierüber.
 Das Bundesinstitut für Arzneimittel und Medizinprodukte informiert
 unverzüglich den Spitzenverband Bund der Pflegekassen über die
 Aufnahme einer digitalen Pflegeanwendung in das Verzeichnis nach
@@ -8417,54 +8420,6 @@ Soziales ohne Zustimmung des Bundesrates das Nähere zu regeln zu
 
 
 
-
-(6a) Ist dem Hersteller noch nicht möglich, einen pflegerischen Nutzen
-im Sinne des § 40a Absatz 1 oder 1a nachzuweisen, so kann er nach
-Absatz 4 auch beantragen, dass die digitale Pflegeanwendung ab dem in
-Absatz 1 Satz 2 zwischen den Vertragspartnern vereinbarten Zeitpunkt
-für bis zu zwölf Monate in das Verzeichnis nach Absatz 3 zur Erprobung
-aufgenommen wird. Der Hersteller hat dem Antrag folgende Unterlagen
-beizufügen:
-
-1.  Nachweise nach Absatz 4 Satz 3 Nummer 1 und 2,
-
-
-2.  eine plausible Begründung für den pflegerischen Nutzen und
-
-
-3.  ein von einer herstellerunabhängigen Institution erstelltes
-    wissenschaftliches Evaluationskonzept zum Nachweis des pflegerischen
-    Nutzens.
-
-
-
-Über die Aufnahme der digitalen Pflegeanwendung in das Verzeichnis
-nach Absatz 3 zur Erprobung entscheidet das Bundesinstitut für
-Arzneimittel und Medizinprodukte durch Bescheid. Die Erprobung und
-ihre Dauer sind im Verzeichnis für digitale Pflegeanwendungen
-kenntlich zu machen. Der Hersteller hat dem Bundesinstitut für
-Arzneimittel und Medizinprodukte spätestens nach Ablauf des
-Erprobungszeitraums den Nachweis des pflegerischen Nutzens der
-erprobten digitalen Pflegeanwendung vorzulegen. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte entscheidet über die endgültige
-Aufnahme der erprobten digitalen Pflegeanwendung in das Verzeichnis
-innerhalb von drei Monaten nach Eingang der vollständigen Nachweise
-durch Bescheid. Ist der pflegerische Nutzen nicht hinreichend belegt,
-besteht aber aufgrund der vorgelegten Erprobungsergebnisse eine
-überwiegende Wahrscheinlichkeit einer späteren Nachweisführung, so
-kann das Bundesinstitut für Arzneimittel und Medizinprodukte den
-Zeitraum der vorläufigen Aufnahme in das Verzeichnis zur Erprobung um
-bis zu zwölf Monate verlängern. Lehnt das Bundesinstitut für
-Arzneimittel und Medizinprodukte eine Aufnahme in das Verzeichnis
-endgültig ab, so hat es die zur Erprobung vorläufig aufgenommene
-digitale Pflegeanwendung aus dem Verzeichnis zu streichen. Eine
-erneute Antragstellung nach Absatz 4 ist frühestens zwölf Monate nach
-dem ablehnenden Bescheid des Bundesinstituts für Arzneimittel und
-Medizinprodukte und auch nur dann zulässig, wenn neue Nachweise
-vorgelegt werden. Eine wiederholte vorläufige Aufnahme in das
-Verzeichnis zur Erprobung ist nicht zulässig. Soweit in diesem Absatz
-nichts anderes bestimmt ist, gelten die Absätze 1 bis 6 und 7 bis 9
-entsprechend.
 
 (7) Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Einvernehmen mit dem Bundesinstitut für Arzneimittel und
