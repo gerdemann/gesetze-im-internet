@@ -13522,6 +13522,10 @@ auf das er sich bezieht, mindestens folgende Angaben enthalten:
 42. Informationen zur Funktionsweise der Abspaltung illiquider Anlagen.
 
 
+42. die in den Artikeln 6 bis 9 der Verordnung (EU) 2019/2088 und in den
+    Artikeln 5 bis 7 der Verordnung (EU) 2020/852 genannten Informationen.
+
+
 
 
 (3) Der Verkaufsprospekt hat in Bezug auf die Kosten einschließlich

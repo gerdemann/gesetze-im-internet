@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 94 (2018 I 1389)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 29.3.2026 I Nr. 86
-
-Änderung durch
-:   Art. 2 V v. 21.4.2026 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 21.4.2026 I Nr. 108
 
 Stand: Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)
 

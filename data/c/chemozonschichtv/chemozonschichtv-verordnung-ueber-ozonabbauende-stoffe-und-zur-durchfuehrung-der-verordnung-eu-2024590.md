@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 15.2.2012 I 409;
 
 Zuletzt geändert durch
-:   Art. 298 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 21.4.2026 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 21.4.2026 I Nr. 108
 
 
 ## § 1 Anzeige der Verwendung von Halonen
