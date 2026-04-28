@@ -17,19 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 21 G v. 8.12.2025 I Nr. 319
-
-Änderung durch
-:   Art. 4 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 3.2.2026 I Nr. 27 ist berücksichtigt
-
-Änderung durch
-:   Art. 26 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Änderung durch
-:   Art. 27 Abs. 1 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
+:   Art. 27 Abs. 1 G v. 25.3.2026 I Nr. 81
 
 Mittelbare änderung durch
 :   Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
