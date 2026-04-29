@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2025 I Nr. 364
 
+Änderung durch
+:   Art. 1 Nr. 1 bis 92 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 Nr. 93 u. 94 G v. 23.4.2026 I Nr. 111 mWv 29.4.2026 sind berücksichtigt
+
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -4729,26 +4735,40 @@ Asylantrag gestellt haben.
 
 
 ### § 88 Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012711126)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012712311)
 
-(1) Das Bundesministerium des Innern, für Bau und Heimat kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates die zuständigen
-Behörden für die Ausführung von Rechtsvorschriften der Europäischen
-Gemeinschaft und völkerrechtlichen Verträgen über die Zuständigkeit
-für die Durchführung von Asylverfahren bestimmen, insbesondere für
+(1) Das Bundesministerium des Innern kann durch Rechtsverordnung mit
+Zustimmung des Bundesrates die zuständigen Behörden für die Ausführung
+von Rechtsvorschriften der Europäischen Union und völkerrechtlichen
+Verträgen über die Zuständigkeit für die Durchführung von
+Asylverfahren, über die Gewährung vorübergehenden Schutzes und zur
+Feststellung der Identität illegal aufhältiger Drittstaatsangehöriger
+oder Staatenloser und für die Ausführung der Aufnahme
+schutzbedürftiger Personen bestimmen, insbesondere für
 
-1.  Auf- und Wiederaufnahmeersuchen an andere Staaten,
+1.  Aufnahmegesuche und Wiederaufnahmemitteilungen an andere Staaten,
 
 
-2.  Entscheidungen über Auf- und Wiederaufnahmeersuchen anderer Staaten,
+2.  Entscheidungen über Aufnahmegesuche und Bestätigungen von
+    Wiederaufnahmemitteilungen anderer Staaten,
 
 
 3.  den Informationsaustausch mit anderen Staaten und der Europäischen
-    Gemeinschaft sowie Mitteilungen an die betroffenen Ausländer und
+    Union sowie Mitteilungen an die betroffenen Ausländer,
 
 
-4.  die Erfassung, Übermittlung und den Vergleich von Fingerabdrücken der
-    betroffenen Ausländer.
+4.  die Erfassung, Übermittlung und den Vergleich von biometrischen Daten
+    der betroffenen Ausländer und
+
+
+5.  die Eintragung und die Löschung der Tatsache, dass die Person als
+    Ergebnis der in der Verordnung (EU) 2024/1356 genannten
+    Sicherheitskontrolle oder einer Prüfung nach Artikel 16 Absatz 4 der
+    Verordnung (EU) 2024/1351 oder nach Artikel 9 Absatz 5 der Verordnung
+    (EU) 2024/1348 eine Gefahr oder Bedrohung für die innere Sicherheit
+    darstellen könnte, in Eurodac sowie den Informationsaustausch mit
+    anderen Staaten und der Europäischen Union einschließlich der
+    Konsultation gemäß Artikel 17 Absatz 4 der Verordnung (EU) 2024/1358.
 
 
 
@@ -4773,16 +4793,26 @@ abgewichen werden.
 
 
 ### § 89 Einschränkung von Grundrechten
-[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012804377)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012805311)
 
 (1) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2
 Satz 1 des Grundgesetzes) und der Freiheit der Person (Artikel 2 Abs.
 2 Satz 2 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes
 eingeschränkt.
 
-(2) Das Verfahren bei Freiheitsentziehungen richtet sich nach Buch 7
-des Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit.
+(2) Das Verfahren bei Freiheitsentziehungen richtet sich nach den
+Büchern 1 und 7 des Gesetzes über das Verfahren in Familiensachen und
+in den Angelegenheiten der freiwilligen Gerichtsbarkeit, soweit in
+diesem Gesetz oder in der Verordnung (EU) 2024/1349 nichts anderes
+geregelt ist. Ist über die Fortdauer der Asylverfahrenshaft oder der
+Haft im Rückkehrgrenzverfahren zu entscheiden, so kann das Amtsgericht
+das Verfahren durch unanfechtbaren Beschluss an das Gericht abgeben,
+in dessen Bezirk die Asylverfahrenshaft oder die Haft im
+Rückkehrgrenzverfahren jeweils vollzogen wird. Wird die Haft im Wege
+der Amtshilfe in Justizvollzugsanstalten vollzogen, gelten die §§ 171,
+173 bis 175 und 178 Absatz 2 und 3 des Strafvollzugsgesetzes
+entsprechend, soweit in diesem Gesetz oder der Verordnung (EU)
+2024/1349 nichts Abweichendes bestimmt ist.
 
 
 ### § 90 (weggefallen)

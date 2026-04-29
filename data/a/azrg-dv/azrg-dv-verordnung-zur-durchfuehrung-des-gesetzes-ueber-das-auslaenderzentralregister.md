@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 30.1.2026 I Nr. 31
 
+Änderung durch
+:   Art. 2 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 bzw. 1.11.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000100000)

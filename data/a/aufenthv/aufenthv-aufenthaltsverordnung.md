@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 30.1.2026 I Nr. 31
 
+Änderung durch
+:   Art. 7 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000100000)

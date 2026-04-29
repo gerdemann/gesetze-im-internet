@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 16.4.2026 I Nr. 107
+:   Art. 9 G v. 23.4.2026 I Nr. 111
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -3486,7 +3486,7 @@ Aufgabe erforderlich ist.
 
 
 ### § 64 Datenübermittlung und -nutzung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009011126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009012126)
 
 (1) Sozialdaten dürfen zu dem Zweck übermittelt oder genutzt werden,
 zu dem sie erhoben worden sind.
@@ -3516,6 +3516,13 @@ Personenbezogene Daten sind zu anonymisieren. Die Übermittlung und
 Verarbeitung erfolgt in pseudonymisierter Form, wenn anonymisierte
 Daten nicht gleich geeignet zur Aufgabenerfüllung sind und die
 Aufgabenerfüllung von erheblichem öffentlichem Interesse ist.
+
+(2d) Abweichend von Absatz 1 dürfen das Ergebnis der
+Altersfeststellung aus dem Verfahren nach § 42f sowie, soweit der
+Vertreter der betroffenen Person einwilligt, die auf Grundlage von §
+42f Absatz 1 Satz 1 erlangten Erkenntnisse dem Bundesamt für Migration
+und Flüchtlinge auf Ersuchen für die Erfüllung von Aufgaben nach § 5
+Absatz 1 des Asylgesetzes übermittelt werden.
 
 (3) Sozialdaten dürfen beim Träger der öffentlichen Jugendhilfe zum
 Zwecke der Planung im Sinne des § 80 gespeichert oder genutzt werden;
