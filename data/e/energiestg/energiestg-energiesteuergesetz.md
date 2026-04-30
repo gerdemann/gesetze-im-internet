@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2025 I Nr. 341
 
+Änderung durch
+:   Art. 1 G v. 24.4.2026 I Nr. 116 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: § 66 ist gem. Art. 3 Abs. 2 G v. 15.7.2006 I 1534 am 20.7.2006 in Kraft getreten
 Stand: § 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4.2008 I 660 am 1.4.2008 in Kraft getreten
 § 58 ist gem. art. 3 abs. 3 satz 1 g v. 15.7.2006 i 1534 ivm bek. v. 8.5.2008 i 838, diese ersetzt durch

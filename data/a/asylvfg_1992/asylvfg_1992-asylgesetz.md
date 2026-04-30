@@ -22,10 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2025 I Nr. 364
 
 Änderung durch
-:   Art. 1 Nr. 1 bis 92 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 1 Nr. 93 u. 94 G v. 23.4.2026 I Nr. 111 mWv 29.4.2026 sind berücksichtigt
+:   Art. 1 G v. 23.4.2026 I Nr. 111 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2025 I Nr. 341
 
+Änderung durch
+:   Art. 2 G v. 24.4.2026 I Nr. 116 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## - - Allgemeines
 [Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000100000)
