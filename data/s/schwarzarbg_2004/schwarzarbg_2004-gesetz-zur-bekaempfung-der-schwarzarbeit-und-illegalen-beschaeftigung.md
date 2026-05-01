@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 20 G v. 20.12.2025 I Nr. 369
+:   Art. 3 G v. 27.4.2026 I Nr. 119
 
 
 ## Abschnitt 1 - Zweck
@@ -144,7 +144,7 @@ insbesondere eine Tätigkeit, die gegen geringes Entgelt erbracht wird.
 
 
 ### § 2 Prüfungsaufgaben
-[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000319129)
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000320129)
 
 (1) Die Behörden der Zollverwaltung prüfen, ob
 
@@ -336,6 +336,10 @@ Absatz 1 unterstützt von
 17. den nach Landesrecht für die Überprüfung der Einhaltung der Vergabe-
     und Tariftreuegesetze der Länder zuständigen Prüfungs- oder
     Kontrollstellen,
+
+
+17a. der Prüfstelle Bundestariftreue nach § 8 Absatz 1 des
+    Bundestariftreuegesetzes,
 
 
 18. den nach Landesrecht für die Entgegennahme der Anmeldung von
@@ -815,7 +819,7 @@ das Betreten eines Ortes verbieten.
 
 
 ### § 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum
-[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000709129)
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000710129)
 
 (1) Die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4
 unterstützenden Stellen sind verpflichtet, einander die für deren
@@ -958,10 +962,13 @@ nach diesem Gesetz Anhaltspunkte ergeben für Verstöße gegen
 13. das Mindestlohngesetz,
 
 
-14. die Arbeitsschutzgesetze oder
+14. die Arbeitsschutzgesetze,
 
 
-15. die Vergabe- und Tariftreuegesetze der Länder.
+15. die Vergabe- und Tariftreuegesetze der Länder oder
+
+
+16. das Bundestariftreuegesetz.
 
 
 

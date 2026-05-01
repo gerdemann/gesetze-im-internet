@@ -120,7 +120,7 @@ verantwortlich.
 
 
 ### § 4 Allgemeine Regelungen
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000708311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000709311)
 
 (1) Die öffentlichen Stellen, die nach dem AZR-Gesetz verpflichtet
 oder berechtigt sind, an die Registerbehörde Daten zu übermitteln, die
@@ -182,6 +182,15 @@ Datenschutzes ein entsprechendes Niveau aufweist. Die Gleichwertigkeit
 ist durch die verantwortliche Stelle zu dokumentieren. Die
 Möglichkeiten zur sicheren Verschlüsselung und Signatur sind bei der
 Übertragung zu nutzen.
+
+(8) Für die Datenübermittlung durch Ausländerbehörden und andere
+öffentliche Stellen an die Registerbehörde wird der Datensatz für das
+Ausländerwesen (DSAusländer) in der durch das Bundesministerium des
+Innern im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet.
+
+(9) Die öffentlichen Stellen, an die nach dem AZR-Gesetz Daten
+übermittelt werden, ergeben sich aus Spalte D der Abschnitte I bis III
+der Anlage zu dieser Verordnung.
 
 
 ### § 5 Verfahren der Datenübermittlung
@@ -503,7 +512,7 @@ Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 
 ### § 9 Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001305311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001306311)
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
 an die jeweils ersuchende Stelle übermitteln und weitergeben darf,
@@ -530,7 +539,7 @@ Grunddaten nur abgerufen werden können, wenn die abrufende Stelle
 einen Verarbeitungszweck nach § 8 Absatz 3 angibt, zu dem die Daten
 übermittelt werden dürfen.
 
-(5) § 4 Absatz 7 gilt für die Datenübermittlung durch die
+(5) § 4 Absatz 7 und 8 gilt für die Datenübermittlung durch die
 Registerbehörde an öffentliche Stellen entsprechend.
 
 
@@ -761,7 +770,7 @@ Gesetzes nur der Hinweis auf die Einschränkung der Verarbeitung
 
 
 ### § 18 Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002412311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002413311)
 
 (1) Im allgemeinen Datenbestand des Registers ist der Datensatz eines
 Ausländers, der das Inland verlassen hat, spätestens zehn Jahre nach
@@ -862,7 +871,7 @@ hat, wenn einer der folgenden Sachverhalte gespeichert ist:
     604/2013,
 
 
-6.  nach neun Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in
+6.  nach zwölf Monaten Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in
     Verbindung mit § 2 Absatz 2c des AZR-Gesetzes, sofern bis zu diesem
     Zeitpunkt noch keine Einreise der Person erfolgt ist.
 
@@ -1003,7 +1012,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003681311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003682311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1012,17 +1021,18 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der
 größtmögliche Umfang der Daten – ohne Nennung gesetzlicher
 Zweckbestimmungen – angegeben, den die jeweilige Stelle nach dem AZR-
 Gesetz erhalten darf. Beschränkungen ergeben sich aus den einzelnen
-Vorschriften des AZR-Gesetzes. Insbesondere ist die Übermittlung der
-Daten von Unionsbürgern, für die eine Feststellung des Nichtbestehens
-oder des Verlusts des Freizügigkeitsrechts nicht vorliegt, nur an die
-mit ausländer- oder asylrechtlichen Aufgaben betrauten Behörden und
-nur zur Durchführung solcher Aufgaben zulässig. Soweit in Spalte C und
-Spalte D der Tabelle zu Personenkreis (1) eine Unterteilung der die
-Daten übermittelnden oder empfangenden Stellen nach römischen Ziffern
-vorgenommen wurde, dient dies dazu, innerhalb der Zeilen für die
-Personenkreise (2) und (3) einfacher auf die jeweiligen Stellen zu
-verweisen. Das Statistische Bundesamt erhält alle Daten ohne
-Namensbezug. In einer Dienstvorschrift wird geregelt, welche Daten die
+Vorschriften des AZR-Gesetzes und der Spalte D der Abschnitte I bis
+III. Insbesondere ist die Übermittlung der Daten von Unionsbürgern,
+für die eine Feststellung des Nichtbestehens oder des Verlusts des
+Freizügigkeitsrechts nicht vorliegt, nur an die mit ausländer- oder
+asylrechtlichen Aufgaben betrauten Behörden und nur zur Durchführung
+solcher Aufgaben zulässig. Soweit in Spalte C und Spalte D der Tabelle
+zu Personenkreis (1) eine Unterteilung der die Daten übermittelnden
+oder empfangenden Stellen nach römischen Ziffern vorgenommen wurde,
+dient dies dazu, innerhalb der Zeilen für die Personenkreise (2) und
+(3) einfacher auf die jeweiligen Stellen zu verweisen. Das
+Statistische Bundesamt erhält alle Daten ohne Namensbezug. In einer
+Dienstvorschrift wird geregelt, welche Daten die
 Verfassungsschutzbehörden des Bundes und der Länder, der BND und der
 MAD nach § 20 des AZR-Gesetzes erhalten.
 
@@ -3616,12 +3626,12 @@ Abschnitt I
     *
     *
         –   Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a bis f,
-            h bis k, m bis x
+            h bis k, m bis v
 
 
         –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher
             Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a, g,
-            l, o, p, t bis v, y, z
+            l, o, p, r bis t, w und x
 
 
         –   Aufnahmeeinrichtungen zu Spalte A Buchstabe a
@@ -3637,11 +3647,14 @@ Abschnitt I
 
 
     *
-        I)  Die Daten zu Spalte A Buchstabe d, f, h, k, n, p und w jeweils
-            Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in
-            seiner Funktion als SIRENE-Büro übermittelt.
+        *   Die Daten zu Spalte A Buchstabe d und h jeweils Doppelbuchstabe cc und
+            dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-
+            Büro übermittelt.
 
 
+
+
+        I)
             –   Ausländerbehörden
 
 
@@ -3726,7 +3739,7 @@ Abschnitt I
 
 
             –   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-
-                Gesetzes zu Spalte A Buchstabe t und u
+                Gesetzes zu Spalte A Buchstabe r und s
 
 
             –   die für die Durch-
@@ -3833,30 +3846,10 @@ Abschnitt I
         bb) unanfechtbar seit
 
 
-        cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-            Informationssystem (Schengen-ID-Nummer)
-
-
-        dd) Art der der Ausschreibung zugrundeliegenden Straftat
-
-            –   Strafvorschrift
-
-
-            –   rechtliche Bezeichnung der Tat
-
-
-            –   Art und Höhe der Strafe
-
-
-
-
-
 
 
     *   (5)
         (6)
-        (7)
-        (7)
 
 
 *    *   g)
@@ -3938,30 +3931,10 @@ Abschnitt I
         bb) unanfechtbar seit
 
 
-        cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-            Informationssystem (Schengen-ID-Nummer)
-
-
-        dd) Art der der Ausschreibung zugrundeliegenden Straftat
-
-            –   Strafvorschrift
-
-
-            –   rechtliche Bezeichnung der Tat
-
-
-            –   Art und Höhe der Strafe
-
-
-
-
-
 
 
     *   (5)
         (6)
-        (7)
-        (7)
 
 
 *    *   l)
@@ -3998,30 +3971,10 @@ Abschnitt I
         bb) unanfechtbar seit
 
 
-        cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-            Informationssystem (Schengen-ID-Nummer)
-
-
-        dd) Art der der Ausschreibung zugrundeliegenden Straftat
-
-            –   Strafvorschrift
-
-
-            –   rechtliche Bezeichnung der Tat
-
-
-            –   Art und Höhe der Strafe
-
-
-
-
-
 
 
     *   (5)
         (6)
-        (7)
-        (7)
 
 
 *    *   o)
@@ -4055,68 +4008,50 @@ Abschnitt I
         bb) unanfechtbar seit
 
 
-        cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-            Informationssystem (Schengen-ID-Nummer)
-
-
-        dd) Art der der Ausschreibung zugrundeliegenden Straftat
-
-            –   Strafvorschrift
-
-
-            –   rechtliche Bezeichnung der Tat
-
-
-            –   Art und Höhe der Strafe
-
-
-
-
-
 
 
     *   (5)
         (6)
-        (7)
-        (7)
 
 
 *    *   q)
 
-    *   Asylantrag vor Einreise gestellt am
+    *   Asylantrag vor Einreise
 
     *   (1)
+        (1)
+        (1)
+
+
+*    *
+    *
+        aa) gestellt am
+
+
+        bb) erneut gestellt am
+
+
+        cc) abgelehnt am
+
+
+
 
 
 *    *   r)
-
-    *   Asylantrag vor Einreise erneut gestellt am
-
-    *   (1)
-
-
-*    *   s)
-
-    *   Asylantrag vor Einreise abgelehnt am
-
-    *   (1)
-
-
-*    *   t)
 
     *   Aufenthaltsgestattung seit
 
     *   (6)
 
 
-*    *   u)
+*    *   s)
 
     *   Aufenthaltsgestattung erloschen am
 
     *   (6)
 
 
-*    *   v)
+*    *   t)
 
     *   Nummer der Bescheinigung über die Aufenthaltsgestattung
 
@@ -4125,7 +4060,7 @@ Abschnitt I
 
     *
 
-*    *   w)
+*    *   u)
 
     *   über Überstellung an (Staatsangehörigkeitsschlüssel des Dubliner
         Vertragsstaats) entschieden am
@@ -4167,7 +4102,7 @@ Abschnitt I
         (7)
 
 
-*    *   x)
+*    *   v)
 
     *   Überstellung an (Staatsangehörigkeitsschlüssel des Dubliner
         Vertragsstaats) erfolgt am
@@ -4181,7 +4116,7 @@ Abschnitt I
 
 *    *
 
-*    *   y)
+*    *   w)
 
     *   Räumliche Beschränkung nach
         aa)   § 56 Absatz 1 oder Absatz 2 AsylG
@@ -4206,7 +4141,7 @@ Abschnitt I
 
     *
 
-*    *   z)
+*    *   x)
 
     *   Wohnsitzauflage nach
         aa)    § 60 Absatz 1 AsylG
@@ -4269,8 +4204,8 @@ Abschnitt I
         Aufgabenerfüllung nach § 23a des AZR-Gesetzes –
 
 
-*    *   – wie vorstehend ohne die Buchstaben a und u bis w sowie d, h, f, k, n
-        und p jeweils ohne Doppelbuchstabe cc und dd –
+*    *   – wie vorstehend ohne die Buchstaben r bis x sowie d und h jeweils
+        ohne Doppelbuchstabe cc und dd –
 
 
 *    *   § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 2
@@ -4298,8 +4233,8 @@ Abschnitt I
 
 
 
-*    *   – wie vorstehend ohne die Buchstaben a und u bis w sowie d, h, f, k, n
-        und p jeweils ohne Doppelbuchstabe cc und dd –
+*    *   – wie vorstehend ohne die Buchstaben r bis x sowie d und h jeweils
+        ohne Doppelbuchstabe cc und dd –
 
 
 
@@ -5266,7 +5201,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003681311]
+    *[^F829919_01_BJNR069500995BJNE003682311]
    (1)
 
     *
@@ -7778,8 +7713,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   eee)
 
-    *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV,
-        Auslandsprojekte
+    *   § 10 Absatz 1 Nummer 2 und Absatz 2 BeschV, Auslandsprojekte
 
     *
     *   (2)\*
@@ -11785,8 +11719,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
         Vorschriften betraute öffentliche Stellen
-        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und
-        e
+        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe b
+        Doppelbuchstabe bb und Buchstabe c und e
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
         Buchstabe b
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
@@ -11836,22 +11770,35 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   a)
 
-    *   Frist zur freiwilligen Ausreise
-        gesetzt am
-        zugestellt am
+    *   Frist zur freiwilligen Ausreise gesetzt am
         Frist bis
+        zugestellt am
 
     *
-    *   (3)
+    *   (2)
+        (5)
 
 
 *    *   b)
 
-    *   Ausreisepflicht
-        vollziehbar seit
+    *
+        *   Ausreisepflicht
+
+            aa) vollziehbar seit
+
+
+            bb) Verfahren Passersatzbeschaffung eingeleitet am
+
+
+
+
+
+
 
     *
-    *
+    *   (6)
+        (6)
+
 
 *    *   c)
 
@@ -11888,7 +11835,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
     *
-    *   (5)
+    *   (2)
+        (5)
+        (3)
         (7)
         (7)
 
@@ -11928,7 +11877,9 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
     *
-    *   (5)
+    *   (2)
+        (5)
+        (3)
         (7)
         (7)
 
@@ -11936,22 +11887,19 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 *    *   e)
 
     *
-        *   Abschiebungsanordnung gemäß § 34a AsylG
+        *   Abschiebungsanordnung gemäß § 34a AsylG erlassen am
 
-            aa) erlassen am
-
-
-            bb) zugestellt am
+            aa) zugestellt am
 
 
-            cc) vollziehbar seit
+            bb) vollziehbar seit
 
 
-            dd) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
+            cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
                 Informationssystem (Schengen-ID-Nummer)
 
 
-            ee) Art der der Ausschreibung zugrundeliegenden Straftat
+            dd) Art der der Ausschreibung zugrundeliegenden Straftat
 
                 –   Strafvorschrift
 
@@ -11972,30 +11920,30 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *   (1)
 
-    *   (5)
+    *   (2)
+        (5)
+        (3)
         (7)
         (7)
 
+    *
 
 *    *   f)
 
     *
-        *   Abschiebungsanordnung gemäß § 58a AufenthG
+        *   Abschiebungsanordnung gemäß § 58a AufenthG erlassen am
 
-            aa) erlassen am
-
-
-            bb) zugestellt am
+            aa) zugestellt am
 
 
-            cc) vollziehbar seit
+            bb) vollziehbar seit
 
 
-            dd) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
-                Informationssystem (Schengen-ID-Nummer)
+            cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener
+                Informationssystem (Schengen-ID-Nummer)t
 
 
-            ee) Art der der Ausschreibung zugrundeliegenden Straftat
+            dd) Art der der Ausschreibung zugrundeliegenden Straftat
 
                 –   Strafvorschrift
 
@@ -12015,10 +11963,13 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
     *
-    *   (5)
+    *   (2)
+        (5)
+        (3)
         (7)
         (7)
 
+    *
 
 *    *   g)
 
@@ -12030,13 +11981,12 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   (5)
 
+    *
 
 *    *   h)
 
     *
-        *   Abschiebung aufgrund Ausweisung
-
-            vollzogen am
+        *   Abschiebung aufgrund Ausweisung vollzogen am
 
             Wirkung befristet bis
 
@@ -12044,48 +11994,58 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
     *
-    *   (4)
+    *   (5)
 
+    *
+    *
 
 *    *   i)
 
-    *   Abschiebung
-        vollzogen am
+    *   Abschiebung vollzogen am
         Wirkung befristet bis
 
     *
-    *   (4)
+    *   (5)
 
+    *
+    *
+    *
     *
 
 *    *   j)
 
-    *   Abschiebung
-        vollzogen am
+    *   Abschiebung vollzogen am
         Wirkung unbefristet
 
     *
-    *   (4)
+    *   (5)
 
+    *
+    *
+    *
+    *
 
 *    *   § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
 
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   – wie vorstehend ohne die Buchstaben e und f sowie c und d jeweils
+        ohne Doppelbuchstabe cc und dd
+
     *   (2)
 
-    *   – wie vorstehend –
+    *   – wie vorstehend –
 
-    *   – wie vorstehend –
+    *
+    *   – wie vorstehend –
 
-    *   – wie vorstehend –
-
-
-*    *   Abschiebung
-        (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und
-        1b AufenthG)
-
-
-*    *   – wie vorstehend ohne die Buchstaben e und f sowie c und d jeweils
-        ohne Doppelbuchstabe cc und dd –
+    *
+    *   – wie vorstehend –
 
 
 
@@ -13732,8 +13692,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher
-        Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe e bis
-        h
+        Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe e und
+        f
         – mit grenzpolizeilichen Aufgaben betraute Behörden
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
@@ -13884,24 +13844,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 *    *   f)
 
-    *   zurückgeschoben am
-        Wirkung unbefristet
-
-    *   (4)
-
-
-*    *   g)
-
     *   abgeschoben am
         Wirkung befristet bis
-
-    *   (4)
-
-
-*    *   h)
-
-    *   abgeschoben am
-        Wirkung unbefristet
 
     *   (4)
 
@@ -13917,7 +13861,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
 
 *    *   Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71
-        Absatz 3 Nummer 1 bis 1b AufenthG und Hinweis auf Begründungstext
+        Absatz 3 Nummer 1 bis 1b AufenthG
 
     *   – wie vorstehend –
 
@@ -15633,7 +15577,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003681311]
+    *[^f756180_08_BJNR069500995BJNE003682311]
    (7)
 
     *
@@ -15688,6 +15632,7 @@ Abschnitt II
 
     *
     *
+    *
 
 *    *   – Visumaktenzeichen der Registerbehörde
 
@@ -15700,6 +15645,7 @@ Abschnitt II
 
 
 
+    *
 
 *    *   § 29 Absatz 1 Nummer 2
 
@@ -15739,9 +15685,11 @@ Abschnitt II
 
 
 
+    *
 
 *    *   Visa erteilende Behörde
 
+    *
     *
 
 *    *   a)
@@ -15750,6 +15698,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   b)
 
@@ -15760,15 +15709,18 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   § 29 Absatz 1 Nummer 3
         in Verbindung mit § 3 Absatz 1 Nummer 4
         und 5
 
     *
+    *
 
 *    *   Grundpersonalien
 
+    *
     *
 
 *    *   a)
@@ -15777,6 +15729,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   b)
 
@@ -15784,6 +15737,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   c)
 
@@ -15791,6 +15745,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   d)
 
@@ -15800,6 +15755,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   e)
 
@@ -15807,6 +15763,7 @@ Abschnitt II
 
     *   (7)
 
+    *
 
 *    *   f)
 
@@ -15906,7 +15863,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003681311]
+    *[^f756180_09_BJNR069500995BJNE003682311]
    (2)
 
     *
@@ -16606,6 +16563,11 @@ Abschnitt III
             g
 
 
+        –   die Zentralstelle für
+            Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben nach dem
+            Sanktionsdurchsetzungsgesetz zu Spalte A Buchstabe g
+
+
 
         hinsichtlich freizügigkeitsberechtigter Unionsbürger:
 
@@ -16667,7 +16629,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003681311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003681311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003682311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003682311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003681311]: 
+[^F829919_01_BJNR069500995BJNE003682311]: 

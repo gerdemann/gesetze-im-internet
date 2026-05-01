@@ -533,7 +533,7 @@ entsprechend.
 
 
 ## § 7 Abruf einer beschränkten Selbstauskunft aus dem Melderegister
-[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000706130)
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000707130)
 
 (1) Die Verwaltungsportale können für die elektronische Erteilung
 einer Selbstauskunft aus dem Melderegister durch die zuständige
@@ -661,6 +661,14 @@ Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
     *   0915,
 
 
+*    *
+    *   h)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2709,
+
+
 *    *   9.
 
     *   derzeitige Staatsangehörigkeiten
@@ -780,6 +788,14 @@ Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
     *   1516, 1532,
 
 
+*    *
+    *   i)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2703, 2707,
+
+
 *    *   15.
 
     *   zu minderjährigen Kindern
@@ -833,6 +849,14 @@ Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
     *   Sterbedatum
 
     *   1605,
+
+
+*    *
+    *   g)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2704,
 
 
 *    *   16.
@@ -899,11 +923,9 @@ Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
 
 *    *   21.
 
-    *   die Identifikationsnummer nach § 139b der Abgabenordnung und bis zu
-        deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal
-        nach § 139b Absatz 6 Satz 2 der Abgabenordnung
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
 
-    *   2701, 2702,
+    *   2701,
 
 
 *    *   22.
@@ -917,9 +939,11 @@ Nebenwohnung zuständigen Meldebehörde die folgenden Daten abrufen:
 
 *    *   23.
 
-    *   (weggefallen)
+    *   das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2
+        der Abgabenordnung
 
-    *
+    *   2702, 2705, 2706, 2708,
+
 
 *    *   24.
 
@@ -1036,7 +1060,7 @@ zuständige Meldebehörde übermitteln.
 
 
 ## § 9 Elektronische Anmeldung
-[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000904130)
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000905130)
 
 (1) Die Verwaltungsportale können für die elektronische Anmeldung auf
 Antrag der meldepflichtigen Person bei der für die alleinige Wohnung
@@ -1155,6 +1179,14 @@ Bundesmeldegesetzes die folgenden Daten abrufen:
     *   0917,
 
 
+*    *
+    *   g)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2709,
+
+
 *    *   10.
 
     *   derzeitige Staatsangehörigkeiten
@@ -1260,6 +1292,14 @@ Bundesmeldegesetzes die folgenden Daten abrufen:
         1200 bis 1213a,
 
 
+*    *
+    *   h)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2703, 2707,
+
+
 *    *   16.
 
     *   zu minderjährigen Kindern:
@@ -1305,6 +1345,14 @@ Bundesmeldegesetzes die folgenden Daten abrufen:
     *   Anschrift im Inland
 
     *   1200 bis 1212,
+
+
+*    *
+    *   f)
+
+    *   Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2704,
 
 
 *    *   17.

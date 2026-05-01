@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.4.2026 I Nr. 107
+:   Art. 9 G v. 27.4.2026 I Nr. 119
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
@@ -21971,8 +21971,8 @@ b, § 175 Absatz 1 und § 301 Absatz 1 Satz 2 gilt das
 Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
 
 
-## Sechstes Kapitel - Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010201308)
+## Sechstes Kapitel - Bußgeldvorschriften, Unterrichtung von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010202126)
 
 
 
@@ -22066,6 +22066,23 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
+
+
+### § 322 Unterrichtung durch die Träger der Rentenversicherung zum Zwecke der Sicherung der Tariftreue
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE065202126)
+
+Die Träger der Rentenversicherung unterrichten die jeweils zuständigen
+Stellen, wenn sich konkrete Anhaltspunkte für Verstöße gegen das
+Bundestariftreuegesetz oder die Tariftreuegesetze der Länder ergeben.
+Die jeweils zuständigen Stellen können, sofern konkrete Anhaltspunkte
+für einen Verstoß vorliegen, bei den Trägern der Rentenversicherung
+anfragen, ob auch dort Erkenntnisse für Verstöße vorliegen. Zuständige
+Stellen sind die Prüfstelle Bundestariftreue bei der Deutschen
+Rentenversicherung Knappschaft-Bahn-See nach § 8 des
+Bundestariftreuegesetzes sowie die jeweils nach landesrechtlichen
+Bestimmungen zuständigen Stellen für die Prüfung der Einhaltung des
+jeweils nach landesgesetzlichen Regelungen normierten
+Tariftreueversprechens.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM

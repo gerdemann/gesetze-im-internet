@@ -116,7 +116,7 @@ der Anwendung anzugeben.
 
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
-[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000511130)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000512130)
 
 (1) Gemäß § 23 Absatz 2 und 3 des Bundesmeldegesetzes sind die
 Meldebehörden verpflichtet, für die Anmeldung mit vorausgefülltem
@@ -192,12 +192,13 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
-        Bundesmeldegesetzes
+        Bundesmeldegesetzes sowie die Identifikationsnummer nach § 139b der
+        Abgabenordnung
 
     *   0001,
         0902a bis 0907a,
         0917 bis 0919,
-        1200 bis 1212, 1801a,
+        1200 bis 1212, 1801a, 2709,
 
 
 *    *   10.
@@ -253,12 +254,13 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
         derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie
         Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb
         der Zuständigkeit der Meldebehörde, Auskunftssperren nach § 51 und
-        bedingte Sperrvermerke nach § 52 des Bundesmeldegesetzes
+        bedingte Sperrvermerke nach § 52 des Bundesmeldegesetzes sowie die
+        Identifikationsnummer nach § 139b der Abgabenordnung
 
     *   1501a bis 1508,
         1516a bis 1524,
         1533, 1534,
-        1200 bis 1213a, 1801a,
+        1200 bis 1213a, 1801a, 2703, 2707,
 
 
 *    *   16.
@@ -266,11 +268,12 @@ automatisierten Verfahren zum Abruf bereitzuhalten:
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum,
         Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
-        Bundesmeldegesetzes
+        Bundesmeldegesetzes sowie die Identifikationsnummer nach § 139b der
+        Abgabenordnung
 
     *   1601a bis 1604a,
         1606, 1607,
-        1200 bis 1212, 1801a,
+        1200 bis 1212, 1801a, 2704,
 
 
 *    *   17.
@@ -412,7 +415,7 @@ Löschungsfrist. Der Zeitraum bis zum Abschluss der Prüfung nach Absatz
 
 
 ## § 6 Rückmeldung
-[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000710130)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000711130)
 
 (1) Hat sich eine Person bei einer Meldebehörde angemeldet, so hat
 diese gemäß § 33 Absatz 1 des Bundesmeldegesetzes die
@@ -490,11 +493,12 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
-        Bundesmeldegesetzes
+        Bundesmeldegesetzes sowie die Identifikationsnummer nach § 139b der
+        Abgabenordnung
 
     *   0001,
         0902a bis 0907a, 0916 bis 0919,
-        1200 bis 1212, 1801a,
+        1200 bis 1212, 1801a, 2709,
 
 
 *    *   10.
@@ -552,12 +556,13 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
         Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb
         der Zuständigkeit der Meldebehörde,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
-        Bundesmeldegesetzes
+        Bundesmeldegesetzes sowie die Identifikationsnummer nach § 139b der
+        Abgabenordnung
 
     *   1501a bis 1508,
         1516a bis 1524,
         1533, 1534,
-        1200 bis 1213a, 1801a,
+        1200 bis 1213a, 1801a, 2703, 2707,
 
 
 *    *   16.
@@ -565,11 +570,12 @@ spätestens jedoch drei Werktage nach der Anmeldung zu übermitteln
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum,
         Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des
-        Bundesmeldegesetzes
+        Bundesmeldegesetzes sowie die Identifikationsnummer nach § 139b der
+        Abgabenordnung
 
     *   1601a bis 1604a,
         1606, 1607,
-        1200 bis 1212, 1801a,
+        1200 bis 1212, 1801a, 2704,
 
 
 *    *   17.
@@ -701,7 +707,7 @@ Anschluss an das Rückmeldeverfahren gemäß Absatz 1 folgende Daten:
 
 
 ## § 7 Auswertung der Rückmeldung
-[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000811130)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000812130)
 
 (1) Die Auswertung der Rückmeldung erfolgt
 
@@ -724,7 +730,7 @@ Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach
 Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer
 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes
 vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603,
-2604, 2702 bis 2708, 2801 und 2802). Sie übermittelt der
+2604, 2702, 2705, 2706, 2708, 2801 und 2802). Sie übermittelt der
 Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das
 Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-
 Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern

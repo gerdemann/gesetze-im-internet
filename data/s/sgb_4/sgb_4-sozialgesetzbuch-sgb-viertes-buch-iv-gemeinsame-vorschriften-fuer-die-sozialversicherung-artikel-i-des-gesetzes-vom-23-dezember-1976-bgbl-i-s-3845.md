@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.4.2026 I Nr. 107
+:   Art. 8 G v. 27.4.2026 I Nr. 119
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
