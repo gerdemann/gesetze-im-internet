@@ -605,9 +605,3 @@ die den Bestimmungen der Beschussverordnung vom 13. Juli 2006 (BGBl. I
 S. 1474) entsprechen, dürfen noch bis zum 28. Juni 2011 auf dem Markt
 bereitgestellt und in Betrieb genommen werden.
 
-
-## § 10 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE001100131)
-
-Diese Verordnung tritt mit Ablauf des 19. Januar 2027 außer Kraft.
-

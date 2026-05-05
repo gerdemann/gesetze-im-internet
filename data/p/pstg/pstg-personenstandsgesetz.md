@@ -1255,37 +1255,6 @@ Verzeichnis der nach den Sätzen 3 und 4 entgegengenommenen
 Erklärungen.
 
 
-#### § 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004503129)
-
-(1) Die Erklärung, durch welche die Vaterschaft zu einem Kind
-anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch
-von den Standesbeamten beurkundet werden. Gleiches gilt für die etwa
-erforderliche Zustimmung des Kindes, des gesetzlichen Vertreters oder
-des Mannes, der dem Kind bislang als Vater zugeordnet war, zu einer
-solchen Erklärung.
-
-(2) Die Erklärung, durch welche die Mutterschaft zu einem Kind
-anerkannt wird, und die etwa erforderliche Zustimmungserklärung des
-gesetzlichen Vertreters der Mutter können auch von den Standesbeamten
-beurkundet werden.
-
-(3) Dem Standesamt, das den Geburtseintrag des Kindes führt, ist eine
-beglaubigte Abschrift der Erklärungen zu übersenden. Ist die Geburt
-des Kindes nicht im Inland beurkundet, so ist die beglaubigte
-Abschrift dem Standesamt I in Berlin zu übersenden.
-
-
-#### § 44a Nachweise nach einer Anerkennung trotz bestehender Vaterschaft
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008700129)
-
-Zur Prüfung der leiblichen Abstammung des Kindes von dem anerkennenden
-Mann nach § 1595a Absatz 1 des Bürgerlichen Gesetzbuchs verlangt das
-Standesamt die Vorlage des Ergebnisses einer genetischen
-Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes, dem
-zufolge der anerkennende Mann der leibliche Vater des Kindes ist.
-
-
 #### § 45 Erklärungen zur Namensführung des Kindes
 [Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004603125)
 
@@ -1462,81 +1431,6 @@ Angaben unrichtig oder unvollständig und ist der richtige oder
 vollständige Sachverhalt durch öffentliche Urkunden oder auf Grund
 eigener Ermittlungen des Standesamts festgestellt, so sind die
 entsprechenden Angaben unter Hinweis auf die Grundlagen zu ändern.
-
-
-#### § 47 Berichtigung nach Abschluss der Beurkundung
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004806129)
-
-(1) In einem abgeschlossenen Registereintrag sind offenkundige
-Schreibfehler zu berichtigen. Auf Grund öffentlicher Urkunden oder
-eigener Ermittlungen des Standesamts sind außerdem zu berichtigen
-
-1.  die in den Personenstandsregistern eingetragenen Hinweise,
-
-
-2.  fehlerhafte Übertragungen aus Urkunden, die der Eintragung zugrunde
-    gelegen haben,
-
-
-3.  im Sterberegister die Angaben über den letzten Wohnsitz des
-    Verstorbenen,
-
-
-4.  in allen Personenstandsregistern die Registrierungsdaten eines
-    Personenstandseintrags,
-
-
-5.  in allen Personenstandsregistern die Elementbezeichnungen und
-    Leittextangaben.
-
-
-
-Ferner können sonstige unrichtige oder unvollständige Eintragungen
-berichtigt werden, wenn der richtige oder vollständige Sachverhalt
-festgestellt wird durch
-
-1.  Personenstandsurkunden,
-
-
-2.  Dokumente des Heimatstaates, die zum Grenzübertritt berechtigen,
-    soweit dadurch ein erläuternder Zusatz zur Identität oder zur
-    Namensführung im Personenstandsregister gestrichen werden soll.
-
-
-
-Eintragungen auf Grund einer Anerkennung, die nach § 1594 Absatz 5
-Satz 1 des Bürgerlichen Gesetzbuchs nicht wirksam war, sind zu
-berichtigen, wenn die Vaterschaft des anderen Mannes durch
-Gerichtsbeschluss festgestellt wird.
-
-(2) Gehen dem Standesamt berichtigende Mitteilungen oder Anzeigen zu,
-so sind außerdem zu berichtigen
-
-1.  im Geburtenregister die Angaben über Zeitpunkt und Ort der Geburt
-    sowie das Geschlecht des Kindes, wenn die Geburt schriftlich angezeigt
-    worden ist,
-
-
-2.  im Sterberegister die Angaben über Zeitpunkt und Ort des Todes, wenn
-    der Sterbefall schriftlich angezeigt worden ist,
-
-
-3.  in allen Personenstandsregistern die Angaben über die Rechtskraft
-    gerichtlicher Entscheidungen.
-
-
-
-
-(3) Bei Berichtigungen sind die Beteiligten vor der Änderung zu hören.
-Eine Anhörung unterbleibt in den Fällen des Absatzes 1 Satz 2 Nummer
-1, 4 und 5 sowie des Absatzes 1 Satz 3 Nummer 2.
-
-(4) Die Berichtigung fehlerhafter Registrierungsdaten eines Eintrags
-erfolgt durch Kennzeichnung des entsprechenden Registereintrags und
-erneute Beurkundung. Die nach Satz 1 gekennzeichneten Registereinträge
-gelten als stillgelegt und dürfen nicht mehr verarbeitet werden. Die
-Registrierungsdaten eines stillgelegten Eintrags können wieder
-verwendet werden.
 
 
 ### Abschnitt 2 - Gerichtliches Verfahren
@@ -1931,49 +1825,6 @@ wenn seit dem Tod des zuletzt verstorbenen Beteiligten 30 Jahre
 vergangen sind; Beteiligte sind beim Geburtenregister die Eltern und
 das Kind, beim Eheregister die Ehegatten und beim
 Lebenspartnerschaftsregister die Lebenspartner.
-
-
-#### § 63 Benutzung in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006403129)
-
-(1) Ist ein Kind angenommen, so darf abweichend von § 62 ein
-beglaubigter Registerausdruck aus dem Geburtseintrag nur den
-Annehmenden, deren Eltern, dem gesetzlichen Vertreter des Kindes und
-dem über 16 Jahre alten Kind selbst erteilt werden. Diese Beschränkung
-entfällt mit dem Tod des Kindes; § 1758 des Bürgerlichen Gesetzbuchs
-bleibt unberührt.
-
-(2) Ist der Geschlechtseintrag einer Person nach § 2 Absatz 1 des
-Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
-und sind die Vornamen einer Person nach § 2 Absatz 3 des Gesetzes über
-die Selbstbestimmung in Bezug auf den Geschlechtseintrag geändert
-worden, so gilt abweichend von § 62:
-
-1.  eine Personenstandsurkunde aus dem Geburtseintrag darf nur der
-    betroffenen Person selbst erteilt werden,
-
-
-2.  eine Ehe- oder Lebenspartnerschaftsurkunde aus dem Ehe- oder
-    Lebenspartnerschaftseintrag darf nur der betroffenen Person selbst
-    sowie ihrem Ehegatten oder Lebenspartner erteilt werden.
-
-
-
-Diese Beschränkungen entfallen mit dem Tod der betroffenen Person;
-§ 13 des Gesetzes über die Selbstbestimmung in Bezug auf den
-Geschlechtseintrag bleibt unberührt.
-
-(3) Die Absätze 1 und 2 gelten entsprechend für Auskunft aus einem und
-Einsicht in einen Registereintrag sowie Auskunft aus den und Einsicht
-in die Sammelakten.
-
-(4) Ist die Anerkennung trotz bestehender Vaterschaft erfolgt, so darf
-abweichend von § 62 Auskunft aus einem und Einsicht in ein in die
-Sammelakten aufgenommenes Ergebnis einer genetischen
-Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes nur dem
-Anerkennenden, der Mutter, dem Kind und dem anderen Mann, dessen
-Zustimmung nach § 1595a des Bürgerlichen Gesetzbuchs erforderlich ist,
-erteilt werden.
 
 
 #### § 64 Sperrvermerke

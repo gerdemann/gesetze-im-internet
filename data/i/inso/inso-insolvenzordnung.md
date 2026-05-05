@@ -1091,27 +1091,6 @@ vorläufige Insolvenzverwalter Personen zu benennen, die als Mitglieder
 des vorläufigen Gläubigerausschusses in Betracht kommen.
 
 
-#### § 23 Bekanntmachung der Verfügungsbeschränkungen
-[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002505126)
-
-(1) Der Beschluß, durch den eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
-Verfügungsbeschränkungen angeordnet und ein vorläufiger
-Insolvenzverwalter bestellt wird, ist öffentlich bekanntzumachen. Er
-ist dem Schuldner, den Personen, die Verpflichtungen gegenüber dem
-Schuldner haben, und dem vorläufigen Insolvenzverwalter besonders
-zuzustellen. Die Schuldner des Schuldners sind zugleich aufzufordern,
-nur noch unter Beachtung des Beschlusses zu leisten.
-
-(2) Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-,
-Partnerschafts- oder Vereinsregister eingetragen, so hat die
-Geschäftsstelle des Insolvenzgerichts dem Registergericht eine
-Ausfertigung des Beschlusses zu übermitteln.
-
-(3) Für die Eintragung der Verfügungsbeschränkung im Grundbuch, im
-Schiffsregister, im Schiffsbauregister und im Register über
-Pfandrechte an Luftfahrzeugen gelten die §§ 32, 33 entsprechend.
-
-
 #### § 24 Wirkungen der Verfügungsbeschränkungen
 [Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002600000)
 
@@ -1305,27 +1284,6 @@ Eröffnungsbeschluß sofort öffentlich bekanntzumachen.
 selbst ist der Beschluß besonders zuzustellen.
 
 (3) (aufgehoben)
-
-
-#### § 31 Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
-[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003305126)
-
-Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-,
-Partnerschafts- oder Vereinsregister eingetragen, so hat die
-Geschäftsstelle des Insolvenzgerichts dem Registergericht zu
-übermitteln:
-
-1.  im Falle der Eröffnung des Insolvenzverfahrens eine Ausfertigung des
-    Eröffnungsbeschlusses;
-
-
-2.  im Falle der Abweisung des Eröffnungsantrags mangels Masse eine
-    Ausfertigung des abweisenden Beschlusses, wenn der Schuldner eine
-    juristische Person oder eine rechtsfähige Personengesellschaft ist,
-    die durch die Abweisung mangels Masse aufgelöst wird.
-
-
-
 
 
 #### § 32 Grundbuch

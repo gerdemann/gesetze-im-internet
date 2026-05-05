@@ -60,142 +60,6 @@ Energiewirtschaftsgesetzes in einem Netzgebiet die Grundversorgung mit
 Elektrizität durchführt.
 
 
-### § 2 Vertragsschluss
-[Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE000308123)
-
-(1) Der Grundversorgungsvertrag soll in Textform abgeschlossen werden.
-Ist er auf andere Weise zustande gekommen, so hat der Grundversorger
-den Vertragsschluss dem Kunden unverzüglich in Textform zu bestätigen.
-
-(2) Kommt der Grundversorgungsvertrag dadurch zustande, dass
-Elektrizität aus dem Elektrizitätsversorgungsnetz der allgemeinen
-Versorgung entnommen wird, über das der Grundversorger die
-Grundversorgung durchführt, so ist der Kunde verpflichtet, dem
-Grundversorger die Entnahme von Elektrizität unverzüglich in Textform
-mitzuteilen. Die Mitteilungspflicht gilt auch, wenn die Belieferung
-des Kunden durch ein Elektrizitätsversorgungsunternehmen endet und der
-Kunde kein anschließendes Lieferverhältnis mit einem anderen
-Elektrizitätsversorgungsunternehmen begründet hat.
-
-(3) Ein Grundversorgungsvertrag oder die Bestätigung des Vertrages
-muss alle für einen Vertragsschluss notwendigen Angaben enthalten,
-insbesondere auch:
-
-1.  Angaben zum Kunden (Firma, Registergericht und Registernummer oder
-    Familienname und Vorname sowie Adresse und Kundennummer),
-
-
-2.  Angaben über die belieferte Verbrauchsstelle einschließlich der zur
-    Bezeichnung der Entnahmestelle verwendeten Identifikationsnummer,
-
-
-3.  Angaben zum Grundversorger (Firma, Registergericht, Registernummer und
-    Adresse),
-
-
-4.  Angaben zum Netzbetreiber, in dessen Netzgebiet die Grundversorgung
-    durchgeführt wird (Firma, Registergericht, Registernummer und Adresse)
-    und zum Messstellenbetreiber sowie
-
-
-5.  Angaben zu den Allgemeinen Preisen nach § 36 Absatz 1 des
-    Energiewirtschaftsgesetzes, wobei folgende Belastungen, soweit sie
-    Kalkulationsbestandteil der geltenden Allgemeinen Preise sind,
-    gesondert auszuweisen sind:
-
-    a)  die Stromsteuer nach § 3 des Stromsteuergesetzes vom 24. März 1999
-        (BGBl. I S. 378; 2000 I S. 147) in der jeweils geltenden Fassung,
-
-
-    b)  die Konzessionsabgabe nach Maßgabe des § 4 Absatz 1 und 2 der
-        Konzessionsabgabenverordnung vom 9. Januar 1992 (BGBl. I S. 12, 407),
-        die zuletzt durch Artikel 3 Absatz 4 der Verordnung vom 1. November
-        2006 (BGBl. I S. 2477) geändert worden ist,
-
-
-    c)  jeweils gesondert die Umlagen und Aufschläge nach § 12 Absatz 1 des
-        Energiefinanzierungsgesetzes, § 19 Absatz 2 der
-        Stromnetzentgeltverordnung und § 18 der Verordnung zu abschaltbaren
-        Lasten vom 28. Dezember 2012 (BGBl. I S. 2998) in der jeweils
-        geltenden Fassung,
-
-
-    d)  jeweils gesondert die Netzentgelte und, soweit sie nach § 1 Absatz 1
-        Satz 3 Gegenstand des Grundversorgungsvertrages sind, die Entgelte des
-        Messstellenbetreibers oder die Entgelte der Betreiber von
-        Energieversorgungsnetzen für den Messstellenbetrieb und die Messung.
-
-
-
-
-
-
-Wenn dem Grundversorger die Angaben nach Satz 1 Nummer 1 nicht
-vorliegen, ist der Kunde verpflichtet, sie dem Grundversorger auf
-Anforderung mitzuteilen. Zusätzlich zu den Angaben nach Satz 1 Nummer
-5 hat der Grundversorger den auf die Grundversorgung entfallenden
-Kostenanteil anzugeben, der sich rechnerisch nach Abzug der
-Umsatzsteuer und der Belastungen nach Satz 1 Nummer 5 von dem
-Allgemeinen Preis ergibt, und diesen Kostenanteil getrennt zu
-benennen. Der Grundversorger hat die jeweiligen Belastungen nach Satz
-1 Nummer 5 sowie die Angaben nach Satz 3 in ihrer jeweiligen Höhe mit
-der Veröffentlichung der Allgemeinen Preise nach § 36 Absatz 1 Satz 1
-des Energiewirtschaftsgesetzes auf seiner Internetseite zu
-veröffentlichen. Auf die Veröffentlichung der jeweiligen Höhe der in
-Satz 1 Nummer 5 Buchstabe c genannten Belastungen auf einer
-Informationsplattform der deutschen Übertragungsnetzbetreiber hat der
-Grundversorger ergänzend hinzuweisen. Zusätzlich ist in dem Vertrag
-oder der Vertragsbestätigung hinzuweisen auf
-
-1.  die Allgemeinen Bedingungen der Grundversorgung und auf diese
-    ergänzende Bedingungen,
-
-
-2.  den Zeitraum der Abrechnungen,
-
-
-3.  die Möglichkeit des Kunden, Ansprüche wegen Versorgungsstörungen gegen
-    den Netzbetreiber nach § 6 Absatz 3 Satz 1 geltend zu machen,
-
-
-4.  Informationen über die Rechte der Kunden im Hinblick auf
-    Verbraucherbeschwerden und Streitbeilegungsverfahren, die ihnen im
-    Streitfall zur Verfügung stehen, einschließlich der für
-    Verbraucherbeschwerden nach § 111b Absatz 1 Satz 1 des
-    Energiewirtschaftsgesetzes eingerichteten Schlichtungsstelle mit deren
-    Anschrift und Webseite, und Informationen über die Verpflichtung des
-    Grundversorgers zur Teilnahme am Schlichtungsverfahren,
-
-
-5.  die Kontaktdaten des Verbraucherservice der Bundesnetzagentur für den
-    Bereich Elektrizität und Gas sowie
-
-
-6.  ein Muster der nach §41g Absatz 1 des Energiewirtschaftsgesetzes durch
-    den Grundversorger anzubietenden Abwendungsvereinbarung.
-
-
-
-Die Hinweise nach Satz 6 Nummer 4 und 5 sowie das Muster der
-Abwendungsvereinbarung des Grundversorgers nach Satz 6 Nummer 6 hat
-der Grundversorger auch auf seiner Internetseite zu veröffentlichen.
-Der Grundversorger hat das Muster der Abwendungsvereinbarung nach Satz
-6 Nummer 6 dem Kunden auf dessen Verlangen postalisch zu übersenden. §
-41 Absatz 1 des Energiewirtschaftsgesetzes bleibt unberührt.
-
-(4) Der Grundversorger ist verpflichtet, jedem Neukunden rechtzeitig
-vor Vertragsschluss und in den Fällen des Absatzes 1 Satz 2 mit der
-Bestätigung des Vertragsschlusses sowie auf Verlangen den übrigen
-Kunden die Allgemeinen Bedingungen unentgeltlich auszuhändigen. Satz 1
-gilt entsprechend für die ergänzenden Bedingungen; diese hat der
-Grundversorger öffentlich bekannt zu geben und auf seiner
-Internetseite zu veröffentlichen.
-
-(5) Der Abschluss eines Grundversorgungsvertrages darf nicht davon
-abhängig gemacht werden, dass Zahlungsrückstände eines vorherigen
-Anschlussnutzers beglichen werden.
-
-
 ### § 3 Ersatzversorgung
 [Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE000402126)
 
@@ -630,19 +494,6 @@ diesem Fall ist der Anspruch auf längstens drei Jahre beschränkt.
 
 
 
-### § 19 Unterbrechung der Versorgung in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE002003123)
-
-Der Grundversorger ist berechtigt, die Grundversorgung ohne vorherige
-Androhung durch den Netzbetreiber unterbrechen zu lassen, wenn der
-Kunde dieser Verordnung in nicht unerheblichem Maße schuldhaft
-zuwiderhandelt und die Unterbrechung erforderlich ist, um den Gebrauch
-von elektrischer Arbeit unter Umgehung, Beeinflussung oder vor
-Anbringung der Messeinrichtungen zu verhindern. Die §§ 41f und 41g des
-Energiewirtschaftsgesetzes über die Unterbrechung der Versorgung bei
-Nichterfüllung einer Zahlungsverpflichtung bleiben unberührt.
-
-
 ### § 20 Kündigung
 [Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE002103126)
 
@@ -660,19 +511,6 @@ einer Kündigung des Vertrages, insbesondere wegen eines Wechsels des
 Lieferanten, verlangen.
 
 
-### § 21 Fristlose Kündigung
-[Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE002202123)
-
-Der Grundversorger ist in den Fällen des § 19 berechtigt, das
-Vertragsverhältnis fristlos zu kündigen, wenn die Voraussetzungen zur
-Unterbrechung der Grundversorgung wiederholt vorliegen. Bei
-wiederholten Zuwiderhandlungen nach § 41f Absatz 1 des
-Energiewirtschaftsgesetzes ist der Grundversorger zur fristlosen
-Kündigung berechtigt, wenn sie zwei Wochen vorher angedroht wurde;
-dabei ist § 41f Absatz 1 Satz 2 und 3, Absatz 2 und 3 des
-Energiewirtschaftsgesetzes entsprechend anzuwenden.
-
-
 ## Teil 6 - Schlussbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNG000600000)
 
@@ -684,8 +522,4 @@ Energiewirtschaftsgesetzes entsprechend anzuwenden.
 Gerichtsstand für die beiderseitigen Verpflichtungen aus dem
 Grundversorgungsvertrag ist der Ort der Elektrizitätsabnahme durch den
 Kunden.
-
-
-### § 23 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html#BJNR239110006BJNE002404123)
 

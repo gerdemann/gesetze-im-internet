@@ -98,19 +98,6 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 
 
-## § 3 Mauterhebungssysteme
-[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000401123)
-
-(1) Der Mautschuldner kann die Maut wahlweise über ein manuelles
-Mauterhebungssystem, ein teilautomatisches Mauterhebungssystem oder
-ein automatisches Mauterhebungssystem entrichten.
-
-(2) Alle Mautentrichtungen nach Absatz 1 erfolgen nach den Angaben des
-Mautschuldners (Prinzip der Selbstdeklaration). Der Mautschuldner ist
-für die Richtigkeit und Überprüfung der von ihm gemachten Angaben
-verantwortlich.
-
-
 ## § 4 Manuelles Mauterhebungssystem
 [Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000501123)
 
@@ -209,33 +196,6 @@ es sei denn, er kann vorher
 
 
 
-
-
-## § 5a Teilautomatisches Mauterhebungssystem
-[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE001300123)
-
-(1) Die Teilnahme an dem teilautomatischen Mauterhebungssystem erfolgt
-über eine vom Betreiber bereitgestellte Applikation für mobile
-Endgeräte mit satellitengestützter Ortungsfunktion. Für die Teilnahme
-am teilautomatischen Mauterhebungssystem ist eine Anmeldung des
-Mautschuldners beim Betreiber erforderlich. Bei der Anmeldung hat der
-Mautschuldner die für die Mauterhebung maßgeblichen Tatsachen nach § 2
-Nummer 1, 4, 5 und 6 wahrheitsgemäß und vollständig anzugeben.
-
-(2) Das für die Teilnahme am teilautomatischen Mauterhebungssystem
-verwendete mobile Endgerät gilt während der Benutzung des
-mautpflichtigen Straßennetzes als Fahrzeuggerät im Sinne des § 5
-Absatz 1 Satz 2. Der Mautschuldner hat das mobile Endgerät unter
-Beachtung der Anforderungen des § 23 Absatz 1a Satz 1 der
-Straßenverkehrsordnung so im Fahrzeug anzubringen, dass das Senden und
-Empfangen von Signalen zur Positionsbestimmung sowie der
-mobilfunkbasierte Datenaustausch ununterbrochen möglich sind. Während
-der Benutzung des mautpflichtigen Straßennetzes muss sich das mobile
-Endgerät in einem Ladezustand befinden, der die ununterbrochene
-Teilnahme am teilautomatischen Mauterhebungssystem gewährleistet. Die
-Mobilfunkkosten trägt der Mautschuldner.
-
-(3) § 5 Absatz 3 bis 5 gilt entsprechend.
 
 
 ## § 6 Nachweis der Richtigkeit der mautrelevanten Tatsachen

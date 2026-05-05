@@ -201,28 +201,6 @@ daß an die Stelle des Stichtages 1. Januar 1987 der Stichtag 1. Januar
 31\. Dezember 1989 tritt.
 
 
-## § 9 Vorstand und Aufsichtsrat
-[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001001119)
-
-(1) Bei den Aktiengesellschaften werden Vorstände und Aufsichtsräte
-entsprechend dem Ersten und Zweiten Abschnitt des Vierten Teils des
-Ersten Buches des Aktiengesetzes gebildet, soweit nachfolgend nichts
-anderes bestimmt ist.
-
-(2) Bei der Wahl der Vertreter der Arbeitnehmer für die Aufsichtsräte
-sind auch die bei den Aktiengesellschaften beschäftigten Beamten
-wahlberechtigt und wählbar. Sie gelten als Arbeitnehmer. Soweit das
-Mitbestimmungsgesetz und die dazu erlassenen Wahlordnungen zwischen
-Arbeitern, Angestellten und leitenden Angestellten unterscheiden, sind
-die Beamten diesen Gruppen nach ihrer jeweiligen Beschäftigung
-zuzuordnen. Im Bereich der Deutsche Post AG (§ 1 Absatz 2) gilt dies
-sowohl für das Nachfolgeunternehmen nach § 1 Absatz 1 des
-Postaufgabenüberleitungsgesetzes als Postnachfolgeunternehmen nach §
-38 Absatz 1 Nummer 2 und Absatz 2 des Postpersonalrechtsgesetzes als
-auch für ein das Nachfolgeunternehmen etwaig beherrschendes
-Unternehmen nach den §§ 17 und 18 des Aktiengesetzes.
-
-
 ## § 10 Steuer- und Gebührenbefreiung
 [Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001100000)
 
@@ -254,50 +232,6 @@ Anwendung.
 
 (4) Satzungsänderungen erfolgen nach den Vorschriften des
 Aktiengesetzes.
-
-
-## § 12 Grundbuchvollzug
-[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001303119)
-
-(1) Zum Nachweis des Rechtsübergangs nach § 2 Abs. 1 ist eine
-Liegenschaftserklärung gegenüber dem Grundbuchamt erforderlich und
-genügend. Die Liegenschaftserklärung muß das Grundstück,
-grundstücksgleiche oder beschränkte dingliche Recht in
-grundbuchmäßiger Form bezeichnen. Sie ist von dem neuen Eigentümer
-abzugeben und bedarf bei den gemäß § 1 umgewandelten Unternehmen der
-Deutschen Bundespost einer Bestätigung durch einen Beauftragten des
-Bundesministeriums der Finanzen, der nicht Bediensteter des
-Bundesministeriums sein muß. Für den Fall, dass die Bundesregierung
-eine Rechtsverordnung nach § 1 Absatz 1 des
-Postaufgabenüberleitungsgesetzes erlässt, gibt ab dem in § 3 Absatz 1
-des Postaufgabenüberleitungsgesetzes genannten Zeitpunkt das
-Nachfolgeunternehmen nach § 1 Absatz 1 des
-Postaufgabenüberleitungsgesetzes die Liegenschaftserklärung anstelle
-der Deutsche Post AG (§ 1 Absatz 2 erster Spiegelstrich) ab. Die
-Liegenschaftserklärung bedarf einer Bestätigung entsprechend Satz 3.
-Die Bestätigung nach den Sätzen 3 und 5 muß unterschrieben und mit
-einem Dienstsiegel versehen sein. Bei maschineller Bearbeitung ist
-eine Unterschrift entbehrlich, wenn in der Bestätigung der Aufdruck
-"Diese Bestätigung ist maschinell erstellt und ohne Unterschrift
-wirksam" enthalten ist. Das Siegel kann in diesem Fall auch in einem
-Vordruck enthalten sein oder bei dem Ausdruck maschinell aufgebracht
-werden. Einer Unbedenklichkeitsbescheinigung nach § 22 des
-Grunderwerbsteuergesetzes bedarf es nicht.
-
-(2) Auf Ersuchen der zuständigen Behörde des Bundes im
-Geschäftsbereich des Bundesministeriums der Finanzen und bei den
-Nachfolgeunternehmen der Deutschen Bundespost auf Ersuchen des
-Beauftragten berichtigt das Grundbuchamt das Grundbuch. Gebühren und
-Kosten werden hierfür nicht erhoben.
-
-(3) Die Liegenschaftserklärung kann auch in Listenform abgegeben und
-bestätigt werden. Ihre Bestätigung ordnet den Vermögenswert zwischen
-den neuen Rechtsträgern endgültig zu. Gerichte können gegen diese
-Bestätigung durch die neuen Rechtsträger nicht angerufen werden. Die
-Liegenschaftserklärung läßt private Rechte Dritter und Ansprüche nach
-dem Vermögensgesetz oder aus Restitution (§ 11 Abs. 1 Satz 1 des
-Vermögenszuordnungsgesetzes) sowie das Wohnungsgenossenschafts-
-Vermögensgesetz unberührt.
 
 
 ## § 13 Vermögenszuweisung
@@ -335,46 +269,6 @@ erhoben.
 (4) Der Bescheid ist zwischen den aus dem Sondervermögen Deutsche
 Bundespost hervorgehenden Rechtsträgern endgültig. Gerichte können
 durch diese gegen den Bescheid nicht angerufen werden.
-
-
-## § 14 Verhältnis zum Vermögenszuordnungsgesetz
-[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001502119)
-
-(1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet darf
-die Liegenschaftserklärung durch den Bund nur abgegeben und bei den
-Nachfolgeunternehmen der Deutschen Bundespost sowie einem
-Nachfolgeunternehmen nach § 1 Absatz 1 des
-Postaufgabenüberleitungsgesetzes nur bestätigt und ein
-Zuweisungsbescheid nur erlassen werden, wenn dem
-Oberfinanzpräsidenten, in dessen Gebiet der Vermögenswert ganz oder
-überwiegend liegt, durch den Bund oder den Beauftragten des
-Bundesministeriums der Finanzen mitgeteilt worden ist, daß die Abgabe
-einer Liegenschaftserklärung oder ihre Bestätigung für einen oder
-mehrere grundbuchmäßig zu bezeichnende Vermögenswerte beabsichtigt
-ist, und eine Wartefrist von vier Wochen verstrichen ist. Der
-Oberfinanzpräsident legt gegen die Abgabe der Liegenschaftserklärung
-oder ihre Bestätigung Vorbehalt ein, wenn bei ihm ein
-Zuordnungsverfahren anhängig ist.
-
-(2) Legt der Oberfinanzpräsident Vorbehalt ein, so ist dies in der
-Liegenschaftserklärung und dem Zuweisungsbescheid kenntlich zu machen.
-Ersucht der Bund oder der Beauftragte des Bundesministeriums der
-Finanzen um Berichtigung des Grundbuchs, wird das Grundbuch berichtigt
-und gegen diese Berichtigung ein Widerspruch eingetragen. Der
-Widerspruch wird gelöscht, wenn der Vorbehalt zurückgenommen wird.
-
-(3) Teilt eine Kommune oder Wohnungsgenossenschaft dem
-Bundesministerium der Finanzen oder einem Nachfolgeunternehmen der
-Deutschen Bundespost mit, daß sie einen Antrag auf Vermögenszuordnung
-vorbereitet, so darf ein Ersuchen an das Grundbuchamt nicht gestellt
-werden. In diesen Fällen wird der aus der Liegenschaftserklärung oder
-dem Zuweisungsbescheid hervorgehende Rechtsträger in die
-Eigentumsfeststellung des Zuordnungsbescheids einbezogen.
-
-(4) Die Zuordnung von Vermögensgegenständen, die im Sinne des § 19 des
-Vermögenszuordnungsgesetzes entgegen den Grundsätzen einer
-ordnungsgemäßen postalischen Wirtschaft abgegangen sind, erfolgt nach
-dem Vermögenszuordnungsgesetz.
 
 
 ## § 15 Übergangsvorschriften

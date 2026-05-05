@@ -3591,16 +3591,6 @@ bis 4 entsprechend anzuwenden. Absatz 2 gilt auch für frühere
 Mitglieder.
 
 
-### § 58b Elektronische Kommunikation mit den Mitgliedern
-[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE026001128)
-
-Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein
-E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer
-1, 3 oder 4 der Zivilprozessordnung verfügen, haben deren Adressen der
-Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation
-mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
-
-
 ### § 59 Organe; Kammerversammlungen
 [Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008708125)
 

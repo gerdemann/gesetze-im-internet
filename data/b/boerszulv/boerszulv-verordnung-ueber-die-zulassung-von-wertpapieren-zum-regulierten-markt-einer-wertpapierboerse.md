@@ -41,30 +41,6 @@ Emittenten müssen dem Recht des Staates entsprechen, in dem der
 Emittent seinen Sitz hat.
 
 
-#### § 2 Mindestbetrag der Wertpapiere
-[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE001907129)
-
-(1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls
-seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft
-im Sinne des § 266 Abs. 3 Buchstabe A des Handelsgesetzbuchs, deren
-Aktien zugelassen werden sollen, muss mindestens 1 000 000 Euro
-betragen. Dies gilt nicht, wenn Aktien derselben Gattung an dieser
-Börse bereits zum regulierten Markt zugelassen sind.
-
-(2) Für die Zulassung von anderen Wertpapieren als Aktien muss der
-Gesamtnennbetrag mindestens 250 000 Euro betragen.
-
-(3) Für die Zulassung von Wertpapieren, die nicht auf einen Geldbetrag
-lauten, muss die Mindeststückzahl der Wertpapiere zehntausend
-betragen.
-
-(4) (weggefallen)
-
-
-#### § 3 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002004129)
-
-
 #### § 4 Rechtsgrundlage der Wertpapiere
 [Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002102307)
 
@@ -139,34 +115,6 @@ Druckausstattung der Wertpapiere gelten.
 Schutz vor Fälschung, so ist in dem Prospekt hierauf hinzuweisen; ist
 ein Prospekt nicht zu veröffentlichen, so ist das Publikum auf andere
 geeignete Weise zu unterrichten.
-
-
-#### § 9 Streuung der Aktien
-[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002606129)
-
-(1) Zum Zeitpunkt der Zulassung müssen mindestens 10 Prozent des
-Gesamtnennbetrages, bei nennwertlosen Aktien der Stückzahl, der
-zuzulassenden Aktien vom Publikum erworben worden sein. Wenn Aktien
-derselben Gattung bereits zum Handel zugelassen sind, bezieht sich die
-Prüfung des Mindeststreubesitzes nach Satz 1 auf alle ausgegebenen
-Aktien.
-
-(2) Abweichend von Absatz 1 können Aktien zugelassen werden, wenn ein
-ordnungsgemäßer Börsenhandel gewährleistet und
-
-1.  eine ausreichende Anzahl der Aktien vom Publikum gehalten wird;
-
-
-2.  die Aktien von einer ausreichenden Anzahl von Anteilseignern gehalten
-    werden oder
-
-
-3.  der Marktwert der vom Publikum gehaltenen Aktien einen ausreichenden
-    Anteil des gezeichneten Kapitals der betreffenden Aktiengattung
-    darstellt.
-
-
-
 
 
 #### § 10 Emittenten aus Drittstaaten
@@ -364,17 +312,6 @@ Verordnung (EU) 2017/1129 veröffentlicht werden.
 Die Zulassung darf frühestens an dem auf das Datum der Einreichung des
 Zulassungsantrags bei der Geschäftsführung folgenden Handelstag
 erfolgen.
-
-
-#### § 51 Veröffentlichung der Zulassung
-[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006707129)
-
-Die Zulassung wird von der Geschäftsführung unverzüglich auf der
-Internetseite der Börse veröffentlicht.
-
-
-#### § 52 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006806129)
 
 
 ## Zweites Kapitel - Pflichten des Emittenten zugelassener Wertpapiere

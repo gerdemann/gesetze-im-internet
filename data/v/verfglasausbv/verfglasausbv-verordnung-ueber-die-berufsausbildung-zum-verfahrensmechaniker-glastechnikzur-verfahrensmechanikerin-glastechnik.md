@@ -394,12 +394,6 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE001101128)
-
-Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
-
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik

@@ -286,48 +286,6 @@ Beurteilung.
 schriftlichen oder elektronischen Bescheid.
 
 
-### § 8 Auswahlkommission
-[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000901311)
-
-(1) Für die Durchführung des Auswahlverfahrens richtet abweichend von
-§ 44 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das
-Bundespolizeipräsidium eine Auswahlkommission bei der
-Bundespolizeiakademie ein. Bei Bedarf können mehrere
-Auswahlkommissionen eingerichtet werden. In diesem Fall ist
-sicherzustellen, dass alle Auswahlkommissionen den gleichen
-Bewertungsmaßstab anlegen.
-
-(2) Die Auswahlkommission besteht aus
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes, die oder der
-    ein Amt der Besoldungsgruppe B innehat, als Vorsitzender oder
-    Vorsitzendem,
-
-
-2.  zwei Beamtinnen oder Beamten des höheren Dienstes, die mindestens ein
-    Amt der Besoldungsgruppe A 15 innehaben und denen laufbahnrechtlich
-    ein Amt der Besoldungsgruppe A 16 verliehen werden kann, sowie
-
-
-3.  einer Beamtin oder einem Beamten des höheren Dienstes der
-    Bundespolizei.
-
-
-
-Mindestens zwei Mitglieder sollen dem Polizeivollzugsdienst in der
-Bundespolizei angehören.
-
-(3) Die Mitglieder der Auswahlkommission werden vom
-Bundespolizeipräsidium auf Vorschlag der Bundespolizeiakademie für
-vier Jahre bestellt.
-
-(4) Die Auswahlkommission ist beschlussfähig, wenn die oder der
-Vorsitzende und mindestens zwei weitere Mitglieder anwesend sind. Die
-Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist
-nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des
-Vorsitzenden den Ausschlag.
-
-
 ### § 9 Bestandteile des Auswahlverfahrens
 [Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001000000)
 
@@ -371,26 +329,6 @@ Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 Wer mindestens die Mindestpunktzahl, die für das Bestehen erforderlich
 ist, erreicht hat, hat das Auswahlverfahren bestanden. Die
 Mindestpunktzahl ist die Hälfte der insgesamt vergebenen Punkte.
-
-
-### § 12 Gesamtergebnis und Rangfolge
-[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001301311)
-
-(1) Für jede Bewerberin und jeden Bewerber, die oder der am
-Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das
-Gesamtergebnis des Auswahlverfahrens.
-
-(2) Nach § 44 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die
-Auswahlkommission anhand der ermittelten Gesamtergebnisse eine
-Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest. Sind
-mehrere Auswahlkommissionen eingerichtet worden, wird eine Rangfolge
-aller erfolgreichen Bewerberinnen und Bewerber festgelegt.
-
-(3) Die festgelegte Rangfolge ist für die Entscheidung über die
-Zulassung zum Aufstieg maßgeblich.
-
-(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält einen
-schriftlichen oder elektronischen Bescheid.
 
 
 ## Abschnitt 3 - Ausbildung

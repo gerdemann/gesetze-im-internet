@@ -6422,38 +6422,6 @@ erloschen ist. Der Ausweis wird berichtigt, sobald eine
 Neufeststellung unanfechtbar geworden ist.
 
 
-#### § 153 Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015401126)
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Vorschriften zu erlassen über
-
-1.  das Format, die Gestaltung und die Gültigkeit der Ausweise nach § 152
-    Absatz 5,
-
-
-2.  das Format, die Ausstellung, die Gestaltung und die Gültigkeit von
-    Ausweisen für Menschen mit Behinderungen nach dem gemeinsamen
-    einheitlichen Muster der Europäischen Union,
-
-
-3.  das entsprechende Verwaltungsverfahren sowie
-
-
-4.  die Anerkennung der Ausweise nach Nummer 2, die von einem anderen
-    Mitgliedstaat ausgestellt worden sind.
-
-
-
-
-(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze
-aufzustellen, die für die Bewertung des Grades der Behinderung, die
-Kriterien für die Bewertung der Hilflosigkeit und die Voraussetzungen
-für die Vergabe von Merkzeichen maßgebend sind, die nach Bundesrecht
-im Schwerbehindertenausweis einzutragen sind.
-
-
 #### § 153a Sachverständigenbeirat, Verfahren
 [Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE025300126)
 
@@ -7712,86 +7680,6 @@ dessen Sitzungen, Sprechstunden und laufende Geschäftsführung zur
 Verfügung stellt, stehen für die gleichen Zwecke auch der
 Schwerbehindertenvertretung zur Verfügung, soweit ihr hierfür nicht
 eigene Räume und sächliche Mittel zur Verfügung gestellt werden.
-
-
-#### § 180 Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018101126)
-
-(1) Ist für mehrere Betriebe eines Arbeitgebers ein Gesamtbetriebsrat
-oder für den Geschäftsbereich mehrerer Dienststellen ein
-Gesamtpersonalrat errichtet, wählen die Schwerbehindertenvertretungen
-der einzelnen Betriebe oder Dienststellen eine
-Gesamtschwerbehindertenvertretung. Ist eine
-Schwerbehindertenvertretung nur in einem der Betriebe oder in einer
-der Dienststellen gewählt, nimmt sie die Rechte und Pflichten der
-Gesamtschwerbehindertenvertretung wahr.
-
-(2) Ist für mehrere Unternehmen ein Konzernbetriebsrat errichtet,
-wählen die Gesamtschwerbehindertenvertretungen eine
-Konzernschwerbehindertenvertretung. Besteht ein Konzernunternehmen nur
-aus einem Betrieb, für den eine Schwerbehindertenvertretung gewählt
-ist, hat sie das Wahlrecht wie eine Gesamtschwerbehindertenvertretung.
-
-(3) Für den Geschäftsbereich mehrstufiger Verwaltungen, bei denen ein
-Bezirks- oder Hauptpersonalrat gebildet ist, gilt Absatz 1 sinngemäß
-mit der Maßgabe, dass bei den Mittelbehörden von deren
-Schwerbehindertenvertretung und den Schwerbehindertenvertretungen der
-nachgeordneten Dienststellen eine Bezirksschwerbehindertenvertretung
-zu wählen ist. Bei den obersten Dienstbehörden ist von deren
-Schwerbehindertenvertretung und den
-Bezirksschwerbehindertenvertretungen des Geschäftsbereichs eine
-Hauptschwerbehindertenvertretung zu wählen; ist die Zahl der
-Bezirksschwerbehindertenvertretungen niedriger als zehn, sind auch die
-Schwerbehindertenvertretungen der nachgeordneten Dienststellen
-wahlberechtigt.
-
-(4) Für Gerichte eines Zweiges der Gerichtsbarkeit, für die ein
-Bezirks- oder Hauptrichterrat gebildet ist, gilt Absatz 3
-entsprechend. Sind in einem Zweig der Gerichtsbarkeit bei den
-Gerichten der Länder mehrere Schwerbehindertenvertretungen nach § 177
-zu wählen und ist in diesem Zweig kein Hauptrichterrat gebildet, ist
-in entsprechender Anwendung von Absatz 3 eine
-Hauptschwerbehindertenvertretung zu wählen. Die
-Hauptschwerbehindertenvertretung nimmt die Aufgabe der
-Schwerbehindertenvertretung gegenüber dem Präsidialrat wahr.
-
-(5) Für jede Vertrauensperson, die nach den Absätzen 1 bis 4 neu zu
-wählen ist, wird wenigstens ein stellvertretendes Mitglied gewählt.
-
-(6) Die Gesamtschwerbehindertenvertretung vertritt die Interessen der
-schwerbehinderten Menschen in Angelegenheiten, die das
-Gesamtunternehmen oder mehrere Betriebe oder Dienststellen des
-Arbeitgebers betreffen und von den Schwerbehindertenvertretungen der
-einzelnen Betriebe oder Dienststellen nicht geregelt werden können,
-sowie die Interessen der schwerbehinderten Menschen, die in einem
-Betrieb oder einer Dienststelle tätig sind, für die eine
-Schwerbehindertenvertretung nicht gewählt ist; dies umfasst auch
-Verhandlungen und den Abschluss entsprechender
-Inklusionsvereinbarungen. Satz 1 gilt entsprechend für die Konzern-,
-Bezirks- und Hauptschwerbehindertenvertretung sowie für die
-Schwerbehindertenvertretung der obersten Dienstbehörde, wenn bei einer
-mehrstufigen Verwaltung Stufenvertretungen nicht gewählt sind. Die
-nach Satz 2 zuständige Schwerbehindertenvertretung ist auch in
-Angelegenheiten, die einen einzelnen oder die schwerbehinderten
-Menschen als Gruppe berühren und über die eine übergeordnete
-Dienststelle entscheidet, zuständig; sie gibt der
-Schwerbehindertenvertretung der Dienststelle, die den
-schwerbehinderten Menschen beschäftigt, Gelegenheit zur Äußerung. Satz
-3 gilt nicht in den Fällen, in denen der Personalrat der
-Beschäftigungsbehörde zu beteiligen ist.
-
-(7) § 177 Absatz 3 bis 8, § 178 Absatz 1 Satz 4 und 5, Absatz 2, 4, 5
-und 7 und § 179 gelten entsprechend, § 177 Absatz 5 mit der Maßgabe,
-dass die Wahl der Gesamt- und Bezirksschwerbehindertenvertretungen in
-der Zeit vom 1. Dezember bis 31. Januar, die der Konzern- und
-Hauptschwerbehindertenvertretungen in der Zeit vom 1. Februar bis 31.
-März stattfindet, § 177 Absatz 6 mit der Maßgabe, dass bei den Wahlen
-zu überörtlichen Vertretungen der zweite Halbsatz des Satzes 3 nicht
-gilt.
-
-(8) § 178 Absatz 6 gilt für die Durchführung von Versammlungen der
-Vertrauens- und der Bezirksvertrauenspersonen durch die Gesamt-,
-Bezirks- oder Hauptschwerbehindertenvertretung entsprechend.
 
 
 #### § 181 Inklusionsbeauftragter des Arbeitgebers

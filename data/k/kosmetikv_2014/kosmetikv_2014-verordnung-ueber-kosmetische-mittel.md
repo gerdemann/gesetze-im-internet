@@ -103,17 +103,6 @@ stoffbezogenen gesundheitlichen Beeinträchtigungen durch kosmetische
 Mittel von allgemeiner Bedeutung sind.
 
 
-## § 7 Ausnahmen für die Einfuhr
-[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000701130)
-
-Für die Einfuhr von kosmetischen Mitteln gilt § 11a Absatz 1 der
-Bedarfsgegenständeverordnung entsprechend mit der Maßgabe, dass an die
-Stelle der Verbote des § 30 Nummer 1 und 2 des Lebensmittel- und
-Futtermittelgesetzbuches die Pflicht nach Artikel 5 Absatz 1 der
-Verordnung (EG) Nr. 1223/2009 tritt, für die Einhaltung der Sicherheit
-im Umfang des Artikels 3 der Verordnung (EG) Nr. 1223/2009 zu sorgen.
-
-
 ## § 8 Straftaten
 [Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000803360)
 

@@ -77,29 +77,6 @@ Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S.
 genannten Verordnung ergangenen Rechtsverordnungen entsprechend.
 
 
-## § 3 Ausnahmen von der Patentpflicht; Befreiungen
-[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000301119)
-
-(1) Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der
-Rheinschiffspersonalverordnung ist ein Befähigungszeugnis für
-Schiffsführer nach der Rheinschiffspersonalverordnung nicht
-erforderlich. Das erforderliche Befähigungszeugnis bestimmt sich nach
-der Binnenschiffspersonalverordnung oder der
-Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016,
-4043), die zuletzt durch Artikel 7 der Verordnung vom 5. April 2023
-(BGBl. 2023 II Nr. 105) geändert worden ist.
-
-(2) Von der Pflicht aus § 18.01 Nummer 3 Satz 1 Buchstabe a der
-Rheinschiffspersonalverordnung befreit sind Fahrzeuge der
-Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
-Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des
-Bundeskriminalamtes, der Streitkräfte, der Zollverwaltung, der
-Feuerwehr, des Zivil- und Katastrophenschutzes, der
-Wasserwirtschaftsverwaltungen und der Fischereiaufsicht der Länder,
-soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung
-der öffentlichen Sicherheit und Ordnung erforderlich ist.
-
-
 ## § 4 Zuständige Behörden
 [Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000400000)
 
@@ -272,67 +249,6 @@ Rheinschiffspersonalverordnung ist
 
 2.  für das Behördenpatent: ein Behördenschifferzeugnis nach § 15 Absatz 4
     der Binnenschiffspersonalverordnung.
-
-
-
-
-
-## § 7 Ausbildungsprogramme, Lehrgänge, Prüfungen, Sicherheitsausbildung
-[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000701119)
-
-(1) Ausbildungsprogramme im Sinne des
-§ 10.01 Nummer 2 Buchstabe b der Rheinschiffspersonalverordnung sind
-die nach § 55 Absatz 1 Nummer 1 oder 3 oder Absatz 2 der
-Binnenschiffspersonalverordnung zugelassenen Ausbildungsprogramme oder
-die nach § 55 Absatz 3 der Binnenschiffspersonalverordnung
-zugelassenen Weiterbildungsprogramme für die Betriebsebene.
-
-(2) Ausbildungsprogramm im Sinne des
-§ 10.01 Nummer 3 Buchstabe a Doppelbuchstabe bb der
-Rheinschiffspersonalverordnung ist das nach § 55 Absatz 1 der
-Binnenschiffspersonalverordnung zugelassene Ausbildungsprogramm.
-
-(3) Ausbildungsprogramm im Sinne des § 10.01 Nummer 3 Buchstabe c
-Doppelbuchstabe aa der Rheinschiffspersonalverordnung ist das nach §
-55 Absatz 3 der Binnenschiffspersonalverordnung zugelassene
-Weiterbildungsprogramm für die Betriebsebene.
-
-(4) Ausbildungsprogramm im Sinne des § 10.01 Nummer 4 Buchstabe b der
-Rheinschiffspersonalverordnung ist das nach § 55 Absatz 1 der
-Binnenschiffspersonalverordnung zugelassene Ausbildungsprogramm.
-
-(5) Ausbildungsprogramm im Sinne des § 10.01 Nummer 5 Buchstabe b
-Doppelbuchstabe aa der Rheinschiffspersonalverordnung ist das nach §
-55 Absatz 1 oder Absatz 2 der Binnenschiffspersonalverordnung
-zugelassene Ausbildungsprogramm.
-
-(6) Ausbildungsprogramm im Sinne des § 12.01 Nummer 1 Buchstabe a
-Doppelbuchstabe bb der Rheinschiffspersonalverordnung ist das nach §
-55 Absatz 2 der Binnenschiffspersonalverordnung zugelassene
-Ausbildungsprogramm.
-
-(7) Basislehrgang für Sachkundige für die Fahrgastschifffahrt im Sinne
-des § 16.02 Satz 2 Buchstabe a der Rheinschiffspersonalverordnung ist
-auch das durch § 55 Absatz 1 Nummer 1 der
-Binnenschiffspersonalverordnung zugelassene Ausbildungsprogramm mit
-dem Schwerpunkt Personenschifffahrt.
-
-(8) Die Prüfung für die besondere Berechtigung für das Befahren der
-Abschnitte des Rheins mit besonderen Risiken im Sinne des § 13.03
-Nummer 5 in Verbindung mit der Anlage 5 der
-Rheinschiffspersonalverordnung besteht aus Antwort-Wahl-Aufgaben,
-sofern sich aus der Prüfungsordnung nach § 76 der
-Binnenschiffspersonalverordnung nichts anderes ergibt.
-
-(9) Grundlegende Sicherheitsausbildung im Sinne des § 10.01 Nummer 1
-Buchstabe b der Rheinschiffspersonalverordnung ist eine grundlegende
-Sicherheitsausbildung, die zugelassen wurde
-
-1.  nach § 53 der Binnenschiffspersonalverordnung oder
-
-
-2.  von der zuständigen Behörde eines anderen Mitgliedstaates der
-    Zentralkommission für die Rheinschifffahrt.
 
 
 

@@ -356,76 +356,6 @@ mitgeteilt.
 Kollegialgerichten der Vorsitzende.
 
 
-#### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001513131)
-
-(1) Die Gerichtsakten werden elektronisch geführt. § 298a Absatz 2 der
-Zivilprozessordnung gilt entsprechend. Die Bundesregierung und die
-Landesregierungen bestimmen jeweils für ihren Bereich durch
-Rechtsverordnung die organisatorischen und dem Stand der Technik
-entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
-und Aufbewahrung der elektronischen Akten einschließlich der
-einzuhaltenden Anforderungen der Barrierefreiheit. Die
-Landesregierungen können die Ermächtigung nach Satz 3 durch
-Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen
-obersten Landesbehörden übertragen. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
-
-(2) Anträge und Erklärungen der Beteiligten sowie schriftlich
-einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen, Anträge
-und Erklärungen Dritter können als elektronisches Dokument übermittelt
-werden. Für das elektronische Dokument gelten § 130a der
-Zivilprozessordnung, auf dieser Grundlage erlassene Rechtsverordnungen
-sowie § 298 der Zivilprozessordnung entsprechend.
-
-(3) Für das gerichtliche elektronische Dokument gelten die §§ 130b und
-298 der Zivilprozessordnung entsprechend.
-
-(4) Akten, die in Papierform angelegt wurden, können in Papierform
-weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
-Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
-Weiterführung der Akten in elektronischer Form ist aktenkundig zu
-machen.
-
-(4a) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
-von § 14 Absatz 1 bis einschließlich 31. Dezember 2026 in Papierform
-angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026
-übermittelte elektronische Akten in Papierform geführt oder
-weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder
-Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
-gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch
-Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
-wird, in welchen Verfahren Akten in Papierform angelegt oder
-elektronisch übermittelte Akten in Papierform geführt oder
-weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf
-nicht der Zustimmung des Bundesrates. Die Landesregierungen können die
-in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
-zuständigen obersten Landesbehörden übertragen.
-
-(5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur
-Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger
-übertragen worden und liegt der schriftliche Nachweis darüber vor,
-dass die Wiedergabe mit der Urschrift übereinstimmt, so können
-Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem
-Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke
-werden in diesem Fall bei dem Nachweis angebracht.
-
-(6) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
-des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
-DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
-in Papierform erstellt, geführt und übermittelt werden. Dokumente und
-Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
-der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
-eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform
-übermittelt werden. Die für die Handhabung von Verschlusssachen
-geltenden Geheimschutzvorschriften bleiben unberührt.
-
-(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
-Bundesrates die für die Übermittlung elektronischer Akten zwischen
-Behörden und Gerichten geltenden Standards bestimmen.
-
-
 #### § 14a Formulare; Verordnungsermächtigung
 [Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050404125)
 
@@ -1420,32 +1350,6 @@ Angelegenheiten, in denen das Kind oder der Mündel vor einer
 Entscheidung des Gerichts gehört werden soll. Dies gilt nicht für
 Personen, die geschäftsunfähig sind oder bei Erlass der Entscheidung
 das 14. Lebensjahr nicht vollendet haben.
-
-
-##### § 61 Beschwerdewert; Zulassungsbeschwerde
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006301131)
-
-(1) In vermögensrechtlichen Angelegenheiten ist die Beschwerde nur
-zulässig, wenn der Wert des Beschwerdegegenstandes 1 000 Euro
-übersteigt.
-
-(2) Übersteigt der Beschwerdegegenstand nicht den in Absatz 1
-genannten Betrag, ist die Beschwerde zulässig, wenn das Gericht des
-ersten Rechtszugs die Beschwerde zugelassen hat.
-
-(3) Das Gericht des ersten Rechtszugs lässt die Beschwerde zu, wenn
-
-1.  die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des
-    Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine
-    Entscheidung des Beschwerdegerichts erfordert und
-
-
-2.  der Beteiligte durch den Beschluss mit nicht mehr als 1 000 Euro
-    beschwert ist.
-
-
-
-Das Beschwerdegericht ist an die Zulassung gebunden.
 
 
 ##### § 62 Statthaftigkeit der Beschwerde nach Erledigung der Hauptsache
@@ -4513,18 +4417,6 @@ Vaters maßgebend.
 ist das Amtsgericht Schöneberg in Berlin ausschließlich zuständig.
 
 
-#### § 171 Antrag
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017602126)
-
-(1) Das Verfahren wird durch einen Antrag eingeleitet.
-
-(2) In dem Antrag sollen das Verfahrensziel und die betroffenen
-Personen bezeichnet werden. In einem Verfahren auf Anfechtung der
-Vaterschaft sollen die Umstände angegeben werden, die gegen die
-Vaterschaft sprechen, sowie der Zeitpunkt, in dem diese Umstände
-bekannt wurden.
-
-
 #### § 172 Beteiligte
 [Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017700000)
 
@@ -4559,33 +4451,6 @@ Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen
 einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung
 seiner Interessen erforderlich ist. Die §§ 158 bis 158c gelten
 entsprechend.
-
-
-#### § 175 Erörterungstermin; persönliche Anhörung
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018001126)
-
-(1) Das Gericht soll vor einer Beweisaufnahme über die Abstammung die
-Angelegenheit in einem Termin erörtern. Es soll das persönliche
-Erscheinen der verfahrensfähigen Beteiligten anordnen.
-
-(2) In Verfahren nach § 169 Nummer 2 und 4 soll das Gericht die Eltern
-und das Kind persönlich anhören.
-
-
-#### § 176 Anhörung des Jugendamts
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018102126)
-
-(1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1
-Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer
-Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer 4 des Bürgerlichen
-Gesetzbuchs, wenn die Anfechtung durch den gesetzlichen Vertreter
-erfolgt, das Jugendamt anhören. Im Übrigen kann das Gericht das
-Jugendamt anhören, wenn ein Beteiligter minderjährig ist.
-
-(2) Das Gericht hat dem Jugendamt in den Fällen einer Anfechtung nach
-Absatz 1 Satz 1 sowie einer Anhörung nach Absatz 1 Satz 2 die
-Entscheidung mitzuteilen. Gegen den Beschluss steht dem Jugendamt die
-Beschwerde zu.
 
 
 #### § 177 Eingeschränkte Amtsermittlung; förmliche Beweisaufnahme
@@ -4631,25 +4496,6 @@ der Vaterschaft kann eine Unterhaltssache nach § 237 verbunden werden.
 oder mit anderen Verfahren unzulässig.
 
 
-#### § 180 Erklärungen zur Niederschrift des Gerichts
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018501126)
-
-(1) Die Anerkennung der Vaterschaft kann auch in einem
-Erörterungstermin zur Niederschrift des Gerichts erklärt werden. Das
-Gleiche gilt für die erforderlichen Zustimmungen.
-
-(2) Nach Einleitung eines gerichtlichen Verfahrens auf Feststellung
-der Vaterschaft für ein Kind kann ein anderer Mann als derjenige,
-dessen Feststellung beantragt ist, die Anerkennung der Vaterschaft für
-das betroffene Kind nur in einem Erörterungstermin zur Niederschrift
-des mit der Sache befassten Gerichts erklären. Die
-Anerkennungserklärung nach Satz 1 darf nur aufgenommen werden, wenn
-der Anerkennende durch Vorlage eines Gutachtens über eine
-durchgeführte genetische Untersuchung zur Klärung der Abstammung nach
-§ 17 des Gendiagnostikgesetzes nachgewiesen hat, dass er leiblicher
-Vater des Kindes ist.
-
-
 #### § 181 Tod eines Beteiligten
 [Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018600000)
 
@@ -4660,22 +4506,6 @@ einem Monat dies durch Erklärung gegenüber dem Gericht verlangt.
 Verlangt kein Beteiligter innerhalb der vom Gericht gesetzten Frist
 die Fortsetzung des Verfahrens, gilt dieses als in der Hauptsache
 erledigt.
-
-
-#### § 182 Inhalt des Beschlusses
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018701126)
-
-(1) Ein rechtskräftiger Beschluss, der das Nichtbestehen einer
-Vaterschaft nach § 1592 Nummer 1 oder 2 oder § 1593 des Bürgerlichen
-Gesetzbuchs infolge der Anfechtung nach § 1600 Absatz 1 Satz 1 Nummer
-2 des Bürgerlichen Gesetzbuchs feststellt, enthält die Feststellung
-der Vaterschaft des Anfechtenden. Diese Wirkung ist in der
-Beschlussformel von Amts wegen auszusprechen.
-
-(2) Weist das Gericht einen Antrag auf Feststellung des Nichtbestehens
-der Vaterschaft ab, weil es den Antragsteller oder einen anderen
-Beteiligten als Vater festgestellt hat, spricht es dies in der
-Beschlussformel aus.
 
 
 #### § 183 Kosten bei Anfechtung der Vaterschaft
@@ -4722,51 +4552,6 @@ Zivilprozessordnung verbunden, ist § 584 der Zivilprozessordnung
 anzuwenden.
 
 (4) § 586 der Zivilprozessordnung ist nicht anzuwenden.
-
-
-#### § 185a Wiederaufnahme bei Anfechtung durch den leiblichen Vater
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE053400126)
-
-(1) Wurde der Antrag auf Anfechtung der Vaterschaft nach § 1600 Absatz
-3 des Bürgerlichen Gesetzbuchs rechtskräftig durch Beschluss
-abgewiesen, ist ein Restitutionsantrag des nach § 1600 Absatz 1 Satz 1
-Nummer 2 des Bürgerlichen Gesetzbuchs anfechtungsberechtigten Mannes
-gegen diesen Beschluss auch dann statthaft, wenn die sozial-familiäre
-Beziehung zwischen dem Kind und dem Mann, dessen Vaterschaft nach §
-1592 Nummer 1 oder 2 des Bürgerlichen Gesetzbuchs besteht, beendet
-ist. Satz 1 gilt entsprechend für den Restitutionsantrag gegen einen
-rechtskräftigen Beschluss, mit dem der Antrag auf Anfechtung der
-Vaterschaft nach § 1600 Absatz 2 des Bürgerlichen Gesetzbuchs in der
-bis zum 31. März 2026 geltenden Fassung wegen des Bestehens einer
-sozial-familiären Beziehung abgewiesen wurde.
-
-(2) Ein Restitutionsantrag nach Absatz 1 ist unzulässig, wenn das Kind
-bei Eintritt der Rechtskraft des Beschlusses zur Abweisung des Antrags
-auf Anfechtung der Vaterschaft nach § 1600 Absatz 3 des Bürgerlichen
-Gesetzbuchs volljährig war. Im Übrigen kann ein Restitutionsantrag
-nach Absatz 1 erst gestellt werden, wenn seit Rechtskraft des
-Beschlusses eine Wartefrist verstrichen ist. Die Wartefrist beträgt
-
-1.  vier Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
-    das 14. Lebensjahr vollendet hatte,
-
-
-2.  drei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
-    das 14. Lebensjahr noch nicht vollendet hatte, und
-
-
-3.  zwei Jahre, wenn das Kind bei Eintritt der Rechtskraft des Beschlusses
-    das sechste Lebensjahr noch nicht vollendet hatte.
-
-
-
-Wurde ein Restitutionsantrag nach Absatz 1 rechtskräftig als
-unzulässig verworfen oder hat das Familiengericht auf Grund eines
-Restitutionsantrags nach Absatz 1 den Antrag auf Anfechtung der
-Vaterschaft nach § 1600 Absatz 2 oder 3 des Bürgerlichen Gesetzbuchs
-erneut abgewiesen, gelten die Sätze 1 bis 3 entsprechend.
-
-(3) § 185 Absatz 3 und 4 ist anzuwenden.
 
 
 ### Abschnitt 5 - Verfahren in Adoptionssachen
@@ -8285,78 +8070,6 @@ Amtsgericht Schöneberg in Berlin kann die Sache aus wichtigem Grund an
 ein anderes Nachlassgericht verweisen.
 
 
-#### § 344 Besondere örtliche Zuständigkeit
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035003131)
-
-(1) Für die besondere amtliche Verwahrung von Testamenten ist
-zuständig,
-
-1.  wenn das Testament vor einem Notar errichtet ist, das Gericht, in
-    dessen Bezirk der Notar seinen Amtssitz hat;
-
-
-2.  wenn das Testament vor dem Bürgermeister einer Gemeinde errichtet ist,
-    das Gericht, zu dessen Bezirk die Gemeinde gehört;
-
-
-3.  wenn das Testament nach § 2247 des Bürgerlichen Gesetzbuchs errichtet
-    ist, jedes Gericht.
-
-
-
-Der Erblasser kann jederzeit die Verwahrung bei einem nach Satz 1
-örtlich nicht zuständigen Gericht verlangen.
-
-(2) Die erneute besondere amtliche Verwahrung eines gemeinschaftlichen
-Testaments nach § 349 Abs. 2 Satz 2 erfolgt bei dem für den Nachlass
-des Erstverstorbenen zuständigen Gericht, es sei denn, dass der
-überlebende Ehegatte oder Lebenspartner die Verwahrung bei einem
-anderen Amtsgericht verlangt.
-
-(3) Die Absätze 1 und 2 gelten entsprechend für die besondere amtliche
-Verwahrung von Erbverträgen.
-
-(4) Für die Sicherung des Nachlasses ist jedes Gericht zuständig, in
-dessen Bezirk das Bedürfnis für die Sicherung besteht.
-
-(4a) Für die Auseinandersetzung eines Nachlasses ist jeder Notar
-zuständig, der seinen Amtssitz im Bezirk des Amtsgerichts hat, in dem
-der Erblasser seinen letzten gewöhnlichen Aufenthalt hatte. Hatte der
-Erblasser keinen gewöhnlichen Aufenthalt im Inland, ist jeder Notar
-zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in
-dem sich Nachlassgegenstände befinden. Von mehreren örtlich
-zuständigen Notaren ist derjenige zur Vermittlung berufen, bei dem
-zuerst ein auf Auseinandersetzung gerichteter Antrag eingeht.
-Vereinbarungen der an der Auseinandersetzung Beteiligten bleiben
-unberührt.
-
-(5) Für die Auseinandersetzung des Gesamtguts einer Gütergemeinschaft
-ist, falls ein Anteil an dem Gesamtgut zu einem Nachlass gehört, der
-Notar zuständig, der für die Auseinandersetzung über den Nachlass
-zuständig ist. Im Übrigen ist jeder Notar zuständig, der seinen
-Amtssitz im Bezirk des nach § 122 Nummer 1 bis 5 zuständigen Gerichts
-hat. Ist danach keine Zuständigkeit gegeben, ist jeder Notar
-zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in
-dem sich Gegenstände befinden, die zum Gesamtgut gehören. Absatz 4a
-Satz 3 und 4 gilt entsprechend.
-
-(6) Hat ein anderes Gericht als das nach § 343 zuständige Gericht eine
-Verfügung von Todes wegen in amtlicher Verwahrung, ist dieses Gericht
-für die Eröffnung der Verfügung zuständig.
-
-(7) Für die Entgegennahme einer Erklärung, mit der eine Erbschaft
-ausgeschlagen oder mit der die Versäumung der Ausschlagungsfrist, die
-Annahme oder Ausschlagung einer Erbschaft oder eine
-Anfechtungserklärung ihrerseits angefochten wird, ist auch das
-Nachlassgericht zuständig, in dessen Bezirk die erklärende Person
-ihren gewöhnlichen Aufenthalt hat. Dieses Gericht hat die Urschrift
-der Niederschrift, die Urschrift der Erklärung in öffentlich-
-beglaubigter Form oder die beglaubigte Abschrift der Erklärung in
-öffentlich-beglaubigter Form an das zuständige Nachlassgericht zu
-übermitteln. Wird die Erklärung als elektronisches Dokument
-aufgenommen oder entgegengenommen, so ist dieses zu übermitteln.
-
-
 ### Abschnitt 2 - Verfahren in Nachlasssachen
 [Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004300000)
 
@@ -9053,104 +8766,6 @@ Registersachen sind
 
 
 
-
-
-#### § 375 Unternehmensrechtliche Verfahren
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038117126)
-
-Unternehmensrechtliche Verfahren sind die nach
-
-1.  § 145 Absatz 1 und 3, § 152 Absatz 1 und § 318 Absatz 3 bis 5 des
-    Handelsgesetzbuchs,
-
-
-2.  § 11 des Binnenschifffahrtsgesetzes, nach den Vorschriften dieses
-    Gesetzes, die die Dispache betreffen, sowie nach § 595 Absatz 2 des
-    Handelsgesetzbuchs, auch in Verbindung mit § 78 des
-    Binnenschifffahrtsgesetzes,
-
-
-3.  § 33 Abs. 3, den §§ 35 und 73 Abs. 1, den §§ 85 und 103 Abs. 3, den §§
-    104 und 122 Abs. 3, § 147 Abs. 2, § 183a Absatz 3, § 264 Absatz 2, §
-    265 Abs. 3 und 4, § 270 Abs. 3, § 273 Abs. 2 bis 4 sowie § 290 Absatz
-    3 des Aktiengesetzes,
-
-
-4.  Artikel 55 Abs. 3 der Verordnung (EG) Nr. 2157/2001 des Rates vom 8.
-    Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl.
-    EG Nr. L 294 S. 1) sowie § 29 Abs. 3, § 30 Abs. 1, 2 und 4, § 45 des
-    SE-Ausführungsgesetzes,
-
-
-5.  § 26 Abs. 1 und 4 sowie § 206 Satz 2 und 3 des Umwandlungsgesetzes,
-
-
-5a. § 6b Absatz 1 bis 4 sowie den §§ 6d und 6e des
-    Außenwirtschaftsgesetzes,
-
-
-6.  § 66 Abs. 2, 3 und 5, § 71 Abs. 3 sowie § 74 Abs. 2 und 3 des Gesetzes
-    betreffend die Gesellschaften mit beschränkter Haftung,
-
-
-7.  § 45 Abs. 3, den §§ 64b, 83 Abs. 3, 4 und 5 sowie § 93 des
-    Genossenschaftsgesetzes,
-
-
-8.  Artikel 54 Abs. 2 der Verordnung (EG) Nr. 1435/2003 des Rates vom 22.
-    Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl.
-    EU Nr. L 207 S. 1),
-
-
-9.  § 2 Abs. 3 und § 12 Abs. 3 des Publizitätsgesetzes,
-
-
-10. § 11 Abs. 3 des Gesetzes über die Mitbestimmung der Arbeitnehmer in
-    den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der
-    Eisen und Stahl erzeugenden Industrie,
-
-
-11. § 2c Absatz 2 Satz 2 bis 7, § 2h Absatz 22 Satz 2 und Absatz 23 Satz 1
-    und 3, § 28 Absatz 2, § 36 Absatz 3 Satz 3, § 38 Absatz 2 Satz 2, §
-    45a Absatz 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
-
-
-11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
-
-
-11b. § 27 Absatz 2 Satz 1 bis 6 und § 77 Absatz 2 des
-    Wertpapierinstitutsgesetzes,
-
-
-11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 9 Satz 2 bis
-    7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des
-    Kryptomärkteaufsichtsgesetzes,
-
-
-12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
-
-
-13. § 19 Absatz 2 Satz 1 bis 6, § 36 Absatz 1a und § 204 Absatz 2 des
-    Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des
-    Finanzkonglomerate-Aufsichtsgesetzes,
-
-
-14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
-
-
-15. § 10 des Partnerschaftsgesellschaftsgesetzes in Verbindung mit § 145
-    Absatz 1 und § 152 Absatz 1 des Handelsgesetzbuchs,
-
-
-16. § 9 Absatz 2 und 3 Satz 2 und § 18 Absatz 2 Satz 2 und 3 des
-    Schuldverschreibungsgesetzes,
-
-
-17. § 736a Absatz 1 und 3 des Bürgerlichen Gesetzbuchs
-
-
-
-vom Gericht zu erledigenden Angelegenheiten.
 
 
 ### Abschnitt 2 - Zuständigkeit
@@ -11215,66 +10830,4 @@ sinngemäß anzuwenden.
 (3) Verfügungen, Beschlüsse oder Zeugnisse des Notars, die nach den
 Vorschriften dieses Gesetzes wirksam geworden sind und nicht mehr
 geändert werden können, sind mit der Erinnerung nicht anfechtbar.
-
-
-### § 493 Übergangsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050206131)
-
-(1) Für bis zum Inkrafttreten des Gesetzes zur Übertragung von
-Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare vom
-26\. Juni 2013 (BGBl. I S. 1800) am 1. September 2013 beantragte
-Auseinandersetzungen gemäß den §§ 363 bis 373 ist das Gesetz über das
-Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit in der bis dahin geltenden Fassung
-anzuwenden.
-
-(2) Auf vereinfachte Verfahren über den Unterhalt Minderjähriger nach
-den §§ 249 bis 260, die bis zum 31. Dezember 2016 beantragt wurden,
-sind die §§ 249 bis 260 in der bis dahin geltenden Fassung weiter
-anzuwenden.
-
-(3) Für Anmeldungen, die bis einschließlich 8. Juni 2017 beurkundet
-oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
-
-(4) § 158a findet keine Anwendung in Verfahren, in denen ein
-Verfahrensbeistand vor dem 1. Januar 2022 bestellt worden ist. Auf
-Verfahrensbeistandschaften, die bis einschließlich 10. April 2025
-angeordnet wurden, ist § 158c Absatz 1 nicht anzuwenden; insoweit ist
-§ 158c Absatz 1 in der bis dahin geltenden Fassung weiter anzuwenden.
-
-(5) Wenn Betreuung oder Einwilligungsvorbehalt vor dem 1. Januar 2023
-angeordnet wurde, müssen erstmalige Entscheidungen über die Aufhebung
-oder Verlängerung der Maßnahme abweichend von den in § 294 Absatz 3
-Satz 2 und § 295 Absatz 2 Satz 2 genannten Fristen zu folgenden
-Zeitpunkten erfolgen:
-
-1.  über Maßnahmen, die bis zum Ablauf des 30. Juni 2022 angeordnet
-    wurden, bis spätestens zum Ablauf des 30. Juni 2024,
-
-
-2.  über Maßnahmen, die zwischen dem 1. Juli 2022 und dem 31. Dezember
-    2022 angeordnet wurden, spätestens zwei Jahre nach der Anordnung.
-
-
-
-
-(6) Der § 61 Absatz 1 und 3 Satz 1 Nummer 2 ist in seiner bis
-einschließlich 31. Dezember 2025 geltenden Fassung weiter anzuwenden,
-wenn
-
-1.  die anzufechtende Entscheidung bis einschließlich 31. Dezember 2025
-    erlassen worden ist, oder
-
-
-2.  bei Entscheidungen in Familienstreitsachen oder bei Entscheidungen im
-    Verbund nach § 137 Absatz 1 die mündliche Verhandlung, auf die die
-    anzufechtende Entscheidung ergeht, bis einschließlich 31. Dezember
-    2025 geschlossen worden ist.
-
-
-
-Ergeht eine Entscheidung nach Satz 1 Nummer 2 im schriftlichen
-Verfahren, tritt an die Stelle des Schlusses der mündlichen
-Verhandlung der Zeitpunkt, bis zu dem Schriftsätze eingereicht werden
-konnten.
 

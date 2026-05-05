@@ -494,43 +494,8 @@ Juni 2008 (BGBl. 2008 II S. 611) in Verbindung mit Artikel 3 Absatz 7
 des Abkommens.
 
 
-### § 10 Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016
-[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001202123)
-
-(1) Meldende deutsche Finanzinstitute haben zu den nach § 5
-identifizierten Konten nicht teilnehmender Finanzinstitute im Sinne
-des Abkommens für die Kalenderjahre 2015 und 2016 folgende Daten zu
-erheben und an das Bundeszentralamt für Steuern nach Maßgabe des
-Absatzes 2 zu übermitteln:
-
-1.  Name des nicht teilnehmenden Finanzinstituts, an das das meldende
-    deutsche Finanzinstitut in dem jeweiligen Kalenderjahr eine oder
-    mehrere Zahlungen geleistet hat,
-
-
-2.  Gesamtbetrag der in dem jeweiligen Kalenderjahr an dieses nicht
-    teilnehmende Finanzinstitut geleisteten Zahlungen.
-
-
-
-
-(2) Das meldende deutsche Finanzinstitut hat diese Daten bis zum 31.
-Juli des folgenden Kalenderjahres nach amtlich vorgeschriebenem
-Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für
-Steuern zu übermitteln.
-
-
 ## Abschnitt 5 - Ordnungswidrigkeiten
 [Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000500000)
-
-
-### § 11 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001301123)
-
-Ordnungswidrig im Sinne des § 383a Absatz 1 der Abgabenordnung
-handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 3 oder
-§ 10 Absatz 1 Daten nicht, nicht richtig, nicht vollständig, nicht in
-der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
 
 
 ## Abschnitt 6 - Schlussbestimmung

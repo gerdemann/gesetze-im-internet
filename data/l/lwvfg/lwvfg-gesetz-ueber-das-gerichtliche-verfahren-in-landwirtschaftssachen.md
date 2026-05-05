@@ -348,15 +348,6 @@ zur Abnahme von Eiden sowie zur Protokollierung eines Vergleichs sind
 nur Richter befugt.
 
 
-### § 17
-[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002202131)
-
-Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe
-verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts
-Auskünfte über den Grundsteuerwert land- oder forstwirtschaftlicher
-Grundstücke zu erteilen.
-
-
 ### § 18
 [Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002302160)
 

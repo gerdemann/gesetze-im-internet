@@ -27,30 +27,6 @@ pflegebedürftige nahe Angehörige in häuslicher Umgebung zu pflegen und
 damit die Vereinbarkeit von Beruf und familiärer Pflege zu verbessern.
 
 
-## § 2 Kurzzeitige Arbeitsverhinderung
-[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000202126)
-
-(1) Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit
-fernzubleiben, wenn dies erforderlich ist, um für einen
-pflegebedürftigen nahen Angehörigen in einer akut aufgetretenen
-Pflegesituation eine bedarfsgerechte Pflege zu organisieren oder eine
-pflegerische Versorgung in dieser Zeit sicherzustellen.
-
-(2) Beschäftigte sind verpflichtet, dem Arbeitgeber ihre Verhinderung
-an der Arbeitsleistung und deren voraussichtliche Dauer unverzüglich
-mitzuteilen. Dem Arbeitgeber ist auf Verlangen eine ärztliche
-Bescheinigung oder eine Bescheinigung einer Pflegefachperson über die
-Pflegebedürftigkeit des nahen Angehörigen und die Erforderlichkeit der
-in Absatz 1 genannten Maßnahmen vorzulegen.
-
-(3) Der Arbeitgeber ist zur Fortzahlung der Vergütung nur
-verpflichtet, soweit sich eine solche Verpflichtung aus anderen
-gesetzlichen Vorschriften oder auf Grund einer Vereinbarung ergibt.
-Ein Anspruch der Beschäftigten auf Zahlung von
-Pflegeunterstützungsgeld richtet sich nach § 44a Absatz 3 des Elften
-Buches Sozialgesetzbuch.
-
-
 ## § 3 Pflegezeit und sonstige Freistellungen
 [Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000303126)
 

@@ -29,36 +29,6 @@ S. 594, 595), der durch Artikel 1 Nr. 47 des Gesetzes vom 10. Dezember
 Bundesministerium für Arbeit und Sozialordnung:
 
 
-## § 1 Ehrenamtliche Betätigung
-[Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000105126)
-
-(1) Ehrenamtlich im Sinne des § 138 Absatz 2 des Dritten Buches
-Sozialgesetzbuch ist eine Betätigung, die
-
-1.  unentgeltlich ausgeübt wird,
-
-
-2.  dem Gemeinwohl dient und
-
-
-3.  bei einer Organisation erfolgt, die ohne Gewinnerzielungsabsicht
-    Aufgaben ausführt, welche im öffentlichen Interesse liegen oder
-    gemeinnützige, mildtätige oder kirchliche Zwecke fördern.
-
-
-
-
-(2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch
-Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die
-Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in
-pauschalierter Form erfolgt und die Pauschale 275 Euro im Monat nicht
-übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung,
-die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des
-Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen
-mit der nicht steuerpflichtigen Aufwandsentschädigung 275 Euro im
-Monat nicht übersteigt.
-
-
 ## § 2 Berufliche Eingliederung
 [Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000201308)
 

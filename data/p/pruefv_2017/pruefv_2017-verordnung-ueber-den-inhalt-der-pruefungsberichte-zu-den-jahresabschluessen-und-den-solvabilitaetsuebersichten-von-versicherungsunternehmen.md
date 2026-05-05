@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 19.3.2020 I 529
 
+Änderung durch
+:   Art. 1 V v. 29.4.2026 I Nr. 124 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000100000)
@@ -101,23 +104,6 @@ und die Lesbarkeit des Prüfungsberichts nicht beeinträchtigt wird.
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000300000)
 
 
-#### § 4 Gegenstand der Berichterstattung
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000600000)
-
-Gegenstand der Berichterstattung ist die Prüfung der
-Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe
-des Artikels 9 Buchstabe a oder des Artikels 26 Buchstabe a der
-Durchführungsverordnung (EU) 2015/2450 der Kommission vom 2. Dezember
-2015 zur Festlegung technischer Durchführungsstandards hinsichtlich
-der Meldebögen für die Übermittlung von Informationen an die
-Aufsichtsbehörde gemäß der Richtlinie 2009/138/EG des Europäischen
-Parlaments und des Rates (ABl. L 347 vom 31.12.2015, S. 1) in den
-Meldebogen S.02.01.01 aus Anhang I der Durchführungsverordnung (EU)
-2015/2450 eingetragen hat. Von der Prüfung ausgenommen sind die
-Angaben in der Spalte „Bewertung im gesetzlichen Abschluss“ des
-Meldebogens.
-
-
 #### § 5 Grundsätze zur Berichterstattung
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000700000)
 
@@ -160,20 +146,6 @@ unerheblich nach oben oder unten beeinflusst, anzugeben und zu
 beurteilen.
 
 
-#### § 7 Datenqualität
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000900000)
-
-(1) Der Prüfer hat insbesondere darzustellen und zu beurteilen, ob die
-organisatorischen, personellen und technischen Vorkehrungen zur
-Sicherstellung der Integrität, Authentizität und Verfügbarkeit der
-aufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt
-werden.
-
-(2) Werden externe IT-Ressourcen eingesetzt, so erstrecken sich die
-Berichtspflichten nach Absatz 1 auch auf diese IT-Ressourcen sowie
-deren Einbindung im berichtspflichtigen Unternehmen.
-
-
 ### Abschnitt 2 - Ansatz und Bewertung
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000400000)
 
@@ -186,86 +158,6 @@ Solvabilitätsübersicht einbezogenen Vermögenswerte und
 Verbindlichkeiten vollständig sind und ob in der
 Solvabilitätsübersicht Vermögenswerte und Verbindlichkeiten enthalten
 sind, für die ein Ansatzverbot besteht.
-
-
-#### § 9 Bewertung
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001100000)
-
-(1) Der Prüfer hat darüber zu berichten, ob Artikel 9 Absatz 1 bis 3,
-5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35 der
-Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie
-2009/138/EG des Europäischen Parlaments und des Rates betreffend die
-Aufnahme und Ausübung der Versicherungs- und der
-Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015,
-S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2016/2283 vom
-22\. August 2016 (ABl. L 346 vom 20.12.2016, S. 111) geändert worden
-ist, beachtet wurden.
-
-(2) Erfolgt die Bewertung
-
-1.  anhand der Marktpreise, die in aktiven Märkten für ähnliche
-    Vermögenswerte notiert sind, ist darauf einzugehen, ob die verwendeten
-    Werte angepasst wurden und die vorgenommenen Anpassungen angemessen
-    sind;
-
-
-2.  anhand eines Bewertungsmodells, ist darauf einzugehen, ob das Modell
-    angemessen ist und so weit wie möglich auf beobachtbaren Daten
-    basiert;
-
-
-3.  mit alternativen Bewertungsverfahren, ist darauf einzugehen, ob die
-    Bewertung unter Beachtung des Bewertungsprinzips nach § 74 des
-    Versicherungsaufsichtsgesetzes angemessen ist.
-
-
-
-
-(3) Wird ein ökonomischer Szenariogenerator zur Bewertung von
-Vermögenswerten und Verbindlichkeiten verwendet, ist dessen Eignung zu
-beurteilen.
-
-(4) Werden bei der Bewertung Vereinfachungsmethoden verwendet, hat der
-Prüfer zu beurteilen, ob das Unternehmen die Eignung dieser
-Vereinfachungsmethoden angemessen einschätzt.
-
-(5) Veränderungen der Bewertungsmethoden gegenüber dem Vorjahr sind zu
-erläutern und hinsichtlich ihrer Zulässigkeit zu beurteilen.
-
-
-#### § 10 Erleichterungen bei der Bewertung
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001200000)
-
-Macht das Unternehmen von der Erleichterung gemäß Artikel 9 Absatz 4
-der Delegierten Verordnung (EU) 2015/35 Gebrauch, muss der
-Prüfungsbericht Ausführungen dazu enthalten,
-
-1.  ob und warum die Bewertungsmethode mit § 74 des
-    Versicherungsaufsichtsgesetzes im Einklang steht,
-
-
-2.  ob und warum die Bewertungsmethode nach Art, Umfang und Komplexität
-    der mit den Geschäften des Unternehmens oder der Gruppe verbundenen
-    Risiken angemessen ist,
-
-
-3.  dass die Vermögenswerte oder die Verbindlichkeiten im Jahresabschluss
-    oder im konsolidierten Abschluss nicht gemäß den internationalen
-    Rechnungslegungsstandards bewertet werden, die die Europäische
-    Kommission durch die Verordnung (EG) Nr. 1126/2008 der Kommission vom
-    3\. November 2008 zur Übernahme bestimmter internationaler
-    Rechnungslegungsstandards gemäß der Verordnung (EG) Nr. 1606/2002 des
-    Europäischen Parlaments und des Rates (ABl. L 320 vom 29.11.2008, S.
-    1) in der jeweils geltenden Fassung zur Anwendung übernommen hat, und
-
-
-4.  ob und warum eine Bewertung der Vermögenswerte oder der
-    Verbindlichkeiten nach internationalen Rechnungslegungsstandards für
-    das Unternehmen oder die Gruppe mit unverhältnismäßigen Kosten
-    verbunden wäre.
-
-
-
 
 
 #### § 11 Eventualverbindlichkeiten
@@ -1036,145 +928,6 @@ nach Maßgabe des Absatzes 1 Satz 2 und des Absatzes 2 zu berichten.
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001500000)
 
 
-#### § 40 Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004201360)
-
-(1) Der Prüfer hat zu beurteilen
-
-1.  die Verfahren zur Ermittlung aller OTC-Derivate-
-    Kontrakte, die der Pflicht zum Clearing durch eine zentrale
-    Gegenpartei unterliegen, und
-
-
-2.  die Einhaltung der Clearingpflicht gemäß Artikel 4 Absatz 1, 2 und 3
-    Unterabsatz 2 der Verordnung (EU) Nr. 648/2012 des Europäischen
-    Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale
-    Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S.
-    1), die zuletzt durch die Delegierte Verordnung (EU) 2017/610 (ABl. L
-    86 vom 31.3.2017, S. 3) geändert worden ist.
-
-
-
-Unterliegen gruppeninterne Transaktionen der Ausnahme des Artikels 4
-Absatz 2 der Verordnung (EU) Nr. 648/2012, so sind die
-organisatorischen Maßnahmen zur Einhaltung der damit verbundenen
-Voraussetzungen zu beurteilen.
-
-(2) Der Prüfer hat die Prozesse zur Erfüllung der Meldepflichten nach
-Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 sowie zur
-Einhaltung der Unterrichtungspflicht gegenüber der Bundesanstalt nach
-Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr.
-648/2012, jeweils auch in Verbindung mit einer auf Grund des § 31 Satz
-1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, zu
-beurteilen.
-
-(2a) Der Prüfer hat jeweils die Angemessenheit der Vorkehrungen und
-Systeme zu beurteilen, über die das Unternehmen verfügt, um die
-Einhaltung der
-
-1.  Anzeigepflicht gegenüber der Europäischen Wertpapier- und
-    Marktaufsichtsbehörde nach Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe
-    a der Verordnung (EU) Nr. 648/2012,
-
-
-2.  Anzeigepflicht gegenüber der Bundesanstalt nach Artikel 4a Absatz 1
-    Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012, auch in
-    Verbindung mit einer auf Grund des § 31 Satz 1 des
-    Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, und
-
-
-3.  Nachweispflicht gegenüber der Bundesanstalt nach Artikel 4a Absatz 2
-    Unterabsatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit
-    einer auf Grund des § 31 Satz 1 des Wertpapierhandelsgesetzes
-    erlassenen Rechtsverordnung,
-
-
-
-sicherzustellen.
-
-(3) Der Prüfer hat die Angemessenheit der Risikominderungstechniken
-für OTC-Derivate-Kontrakte, die nicht einer Pflicht zum Clearing durch
-eine zentrale Gegenpartei unterliegen, zu beurteilen nach Maßgabe des
-Artikels 11 der Verordnung (EU) Nr. 648/2012 und der technischen
-Regulierungsstandards, die nach Artikel 11 Absatz 14 und 15 der
-Verordnung (EU) Nr. 648/2012 erlassen worden sind. Dazu hat der Prüfer
-insbesondere Folgendes zu beurteilen:
-
-1.  die Prozesse zur rechtzeitigen Bestätigung der Bedingungen
-    abgeschlossener Geschäfte,
-
-
-2.  die Prozesse zur Abstimmung von Portfolien,
-
-
-3.  den Umfang, in dem das Unternehmen Gebrauch gemacht hat von der
-    Möglichkeit der Portfoliokomprimierung gemäß Artikel 14 der
-    Delegierten Verordnung (EU) Nr. 149/2013 der Kommission vom 19.
-    Dezember 2012 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des
-    Europäischen Parlaments und des Rates im Hinblick auf technische
-    Regulierungsstandards für indirekte Clearingvereinbarungen, die
-    Clearingpflicht, das öffentliche Register, den Zugang zu einem
-    Handelsplatz, nichtfinanzielle Gegenparteien und
-    Risikominderungstechniken für nicht durch eine CCP geclearte OTC-
-    Derivatekontrakte (ABl. L 52 vom 23.2.2013, S. 11),
-
-
-4.  die Prozesse zur Identifizierung streitbefangener Geschäfte und zur
-    Beilegung solcher Streitigkeiten, einschließlich der Anzeige
-    streitbefangener Geschäfte nach Artikel 15 Absatz 2 der Delegierten
-    Verordnung (EU) Nr. 149/2013, sowie
-
-
-5.  die Besicherung nicht zentral geclearter Kontrakte sowie den Umfang
-    der Befreiung von der Besicherungspflicht nach Artikel 11 Absatz 5, 6,
-    8 und 10 der Verordnung (EU) Nr. 648/2012.
-
-
-
-
-(4) Soweit nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012
-gruppeninterne Transaktionen von der Besicherungspflicht nach Artikel
-11 Absatz 3 dieser Verordnung ausgenommen sind, ist zu beurteilen, ob
-die Voraussetzungen für die Ausnahme von dieser Besicherungspflicht
-vorliegen. Wurden gruppeninterne Transaktionen von der
-Besicherungspflicht unter den Voraussetzungen des Artikels 11 Absatz
-6, 8 oder 10 der Verordnung (EU) Nr. 648/2012 befreit, so ist zu
-beurteilen, ob die organisatorischen Maßnahmen des Unternehmens
-gewährleisten können, dass die Voraussetzungen für diese Befreiung
-eingehalten werden, einschließlich der Veröffentlichungspflicht nach
-Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012, auch in
-Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr.
-149/2013.
-
-(5) Sofern die Erfüllung der in den Absätzen 1 bis 4 genannten
-Pflichten oder Prozesse durch das Unternehmen vertraglich auf eine
-dritte Person oder ein anderes Unternehmen übertragen worden ist, hat
-der Prüfer hierüber zu berichten.
-
-
-#### § 41 Berichterstattung über die Verwendung von Ratings
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004300000)
-
-(1) Im Prüfungsbericht ist darauf einzugehen, wie und in welchem
-Umfang das Unternehmen oder die Gruppe eigene Kreditrisikobewertungen
-vornimmt, um zu vermeiden, dass das Unternehmen oder die Gruppe sich
-bei der Bewertung der Bonität eines Unternehmens oder eines
-Finanzinstruments automatisch auf Ratings stützt. Zur Angemessenheit
-dieser zusätzlichen Bewertungen ist dabei unter Berücksichtigung von
-Art, Umfang und Komplexität der Risiken, denen das Unternehmen oder
-die Gruppe ausgesetzt ist, Stellung zu nehmen.
-
-(2) Sofern das geprüfte Unternehmen oder die Gruppe als Emittent von
-strukturierten Finanzinstrumenten fungiert, sind die betreffenden
-Finanzinstrumente darzustellen. Es ist anzugeben, auf welche Weise die
-Anforderungen eingehalten worden sind, die sich ergeben aus den
-Artikeln 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen
-Parlaments und des Rates vom 16. September 2009 über Ratingagenturen
-(ABl. L 302 vom 17.11.2009, S. 1; L 145 vom 31.5.2011, S. 57), die
-zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S.
-1) geändert worden ist, und aus den technischen Regulierungsstandards.
-
-
 #### § 42 Anzeigewesen
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004400000)
 
@@ -1574,29 +1327,8 @@ dargestellt ist.
 (4) § 24 Absatz 2 und § 44 sind entsprechend anzuwenden.
 
 
-### § 53 Ort der Berichterstattung
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005500000)
-
-Die Berichterstattung nach diesem Abschnitt kann auch im
-Prüfungsbericht für den Einzelabschluss des Mutterunternehmens
-erfolgen.
-
-
 ## Kapitel 5 - Schlussvorschriften
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001900000)
-
-
-### § 54 Übergangsvorschrift
-[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005600000)
-
-(1) Die Vorschriften dieser Verordnung sind erstmals für das
-Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
-
-(2) Für die Geschäftsjahre, die vor dem 1. Januar 2016 begonnen haben,
-ist die Prüfungsberichteverordnung vom 3. Juni 1998 (BGBl. I S. 1209),
-die durch Artikel 2 Nummer 1 der Verordnung vom 16. Dezember 2015
-(BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. März 2016
-geltenden Fassung weiter anzuwenden.
 
 
 ### § 55 Inkrafttreten

@@ -23,16 +23,6 @@ Fundstelle
 [Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000100000)
 
 
-### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000201131)
-
-(1) Dieses Gesetz regelt die Durchführung der Verordnung (EU) Nr.
-650/2012.
-
-(2) Mitgliedstaaten im Sinne dieses Gesetzes sind die Mitgliedstaaten
-der Europäischen Union mit Ausnahme Dänemarks und Irlands.
-
-
 ## Abschnitt 2 - Bürgerliche Streitigkeiten
 [Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000200000)
 
@@ -660,33 +650,6 @@ Zivilprozessordnung) beträgt einen Monat.
 
 ## Abschnitt 4 - Entgegennahme von Erklärungen; Aneignungsrecht
 [Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG001000000)
-
-
-### § 31 Entgegennahme von Erklärungen
-[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003201131)
-
-(1) Für die Entgegennahme einer Erklärung, mit der nach dem
-anzuwendenden Erbrecht eine Erbschaft ausgeschlagen oder angenommen
-wird, ist in den Fällen des Artikels 13 der Verordnung (EU) Nr.
-650/2012 das Nachlassgericht örtlich zuständig, in dessen Bezirk die
-erklärende Person ihren gewöhnlichen Aufenthalt hat.
-
-(2) Die Erklärung ist zur Niederschrift des Nachlassgerichts oder in
-öffentlich beglaubigter Form abzugeben.
-
-(3) Dem Erklärenden ist die Urschrift der Niederschrift, die Urschrift
-der Erklärung in öffentlich-beglaubigter Form, eine beglaubigte
-Abschrift der Niederschrift oder eine beglaubigte Abschrift der
-entgegengenommenen Erklärung zu überlassen. Bei elektronischer
-Niederschrift kann dem Erklärenden diese überlassen werden.
-
-(4) Auf einer in öffentlich beglaubigter Form abgegebenen Erklärung
-oder deren beglaubigter Abschrift hat das Nachlassgericht den Ort und
-das Datum der Entgegennahme zu vermerken. Bei der Beglaubigung eines
-Ausdrucks oder einer Abschrift eines elektronischen Dokuments, das mit
-einer qualifizierten elektronischen Signatur der Urkundsperson
-versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert
-werden.
 
 
 ### § 32 Aneignungsrecht

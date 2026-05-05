@@ -39,28 +39,6 @@ Verteidigung:
 [Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000100000)
 
 
-### § 1 Zulassungsvoraussetzungen
-[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000301311)
-
-(1) Zum Aufstieg in den höheren nichttechnischen Verwaltungsdienst
-über den Masterstudiengang „Intelligence and Security Studies“ können
-Beamtinnen und Beamte zugelassen werden, die
-
-1.  über die Laufbahnbefähigung für den gehobenen nichttechnischen
-    Verwaltungsdienst verfügen und
-
-
-2.  einen Abschluss erreicht haben, der mit einem an einer Hochschule
-    erworbenen Bachelor- oder einem gleichwertigen Abschluss, der
-    Kompetenzen in einem Umfang von mindestens 180 Leistungspunkten
-    entspricht, gleichwertig ist.
-
-
-
-
-(2) Im Übrigen bleibt § 44 der Bundeslaufbahnverordnung unberührt.
-
-
 ## Abschnitt 2 - Masterstudiengang „Intelligence and Security Studies“
 [Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000200000)
 
@@ -84,18 +62,6 @@ zusammenarbeiten, gerecht zu werden.
 [Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000500000)
 
 Das Studium ist ein Vollzeitstudium.
-
-
-### § 4 Regelstudienzeit
-[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000601311)
-
-(1) Die Regelstudienzeit beträgt zwei Jahre.
-
-(2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten §
-18 Absatz 1 und § 19 Absatz 1 der Bundeslaufbahnverordnung
-entsprechend. Die Entscheidung trifft die Dienstbehörde im
-Einvernehmen mit der Universität der Bundeswehr München und der
-Hochschule des Bundes für öffentliche Verwaltung.
 
 
 ### § 5 Prüfungsordnung
@@ -311,21 +277,6 @@ Dieses ist zuständig für
 
 ## Abschnitt 3 - Berufspraktische Einführung
 [Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000300000)
-
-
-### § 14 Zeitpunkt, Dauer und Ziel
-[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001601311)
-
-(1) An den erfolgreichen Abschluss des Masterstudiengangs
-„Intelligence and Security Studies“ schließt sich eine einjährige
-berufspraktische Einführung an. Für Verlängerungen der
-berufspraktischen Einführung gilt § 18 Absatz 1 und 2 der
-Bundeslaufbahnverordnung entsprechend. Über die Verlängerung
-entscheidet die Dienstbehörde.
-
-(2) In der berufspraktischen Einführung sollen sich die Beamtinnen und
-Beamten im höheren nichttechnischen Verwaltungsdienst des Bundes
-bewähren.
 
 
 ### § 15 Aufgaben und Verwendungsbereiche

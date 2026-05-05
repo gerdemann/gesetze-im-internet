@@ -714,26 +714,6 @@ Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
 festgesetzt.
 
 
-### § 17a Zahlungsweise
-[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012611130)
-
-Für die Zahlung der Besoldung nach § 1 Absatz 2 und 3 und von
-Aufwandsentschädigungen nach § 17 hat der Empfänger auf Verlangen der
-zuständigen Behörde ein Konto anzugeben, für das die Verordnung (EU)
-Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März
-2012 zur Festlegung der technischen Vorschriften und der
-Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
-zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22), die zuletzt durch die Verordnung (EU) 2024/886
-(ABl. L, 2024/886, 19.3.2024) geändert worden ist, gilt. Die
-Übermittlungskosten mit Ausnahme der Kosten für die Gutschrift auf dem
-Konto des Empfängers trägt der Dienstherr, die Kontoeinrichtungs-,
-Kontoführungs- oder Buchungsgebühren trägt der Empfänger. Eine
-Auszahlung auf andere Weise kann nur zugestanden werden, wenn dem
-Empfänger die Einrichtung oder Benutzung eines Kontos aus wichtigem
-Grund nicht zugemutet werden kann.
-
-
 ### § 17b Lebenspartnerschaft
 [Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE024800310)
 
@@ -1964,58 +1944,6 @@ Haushaltsführung für diesen Zweck erwirtschafteten Mittel, nicht
 
 (9) Die Entscheidungen nach dieser Vorschrift trifft die oberste
 Dienstbehörde oder die von ihr bestimmte Stelle.
-
-
-### § 43a Prämien für Angehörige der Spezialkräfte der Bundeswehr
-[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006718130)
-
-(1) Wer als Kommandosoldat oder als Kampfschwimmer für Einsatzaufgaben
-der Spezialkräfte der Bundeswehr verwendet oder für eine solche
-Verwendung ausgebildet wird, erhält Prämien nach Maßgabe der Absätze 2
-bis 4.
-
-(2) Eine Prämie in Höhe von einmalig 6 000 Euro erhält, wer ein
-Auswahlverfahren bei den Spezialkräften der Bundeswehr für eine
-Verwendung im Sinne des Absatzes 1 bestanden hat und ausgebildet wird.
-Der Anspruch entsteht mit Beginn dieser Ausbildung. Er erlischt
-rückwirkend, wenn die Ausbildung aus Gründen, die der Soldat zu
-vertreten hat, endet, bevor der Anspruch auf eine Prämie nach Absatz 3
-entstanden ist.
-
-(3) Eine Prämie in Höhe von einmalig 8 000 Euro erhält, wer die
-Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr
-erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der
-Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend,
-wenn die Verwendung aus Gründen, die der Soldat zu vertreten hat, vor
-Ablauf von sechs Jahren seit Beginn der Ausbildung für eine Verwendung
-nach Absatz 1 endet. Satz 3 gilt entsprechend, wenn diese Verwendung
-aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von
-mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer
-von insgesamt sechs Jahren nicht erreicht wird.
-
-(4) Eine jährliche Prämie erhält, wer über sechs Jahre hinaus für
-Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht.
-Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für
-eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des
-siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die
-Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während
-des gesamten Jahres, steht nur der Teil der Prämie zu, der der
-Verwendungsdauer entspricht. Die jährliche Prämie beträgt nach einer
-Dienstzeit von
-
-1.  über sechs und weniger als neun Jahren 10 000 Euro,
-
-
-2.  neun und weniger als zwölf Jahren 11 000 Euro,
-
-
-3.  zwölf und weniger als fünfzehn Jahren 12 000 Euro,
-
-
-4.  fünfzehn Jahren und länger 13 000 Euro.
-
-
-
 
 
 ### § 44 Verpflichtungsprämie für Soldaten auf Zeit

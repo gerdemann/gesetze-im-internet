@@ -1649,25 +1649,6 @@ jeden Anteil an der Prüfung gesonderte Erst- und Zweitprüfende zu
 bestellen sind.
 
 
-#### § 46 Wiederholung von Modulprüfungen
-[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004801311)
-
-(1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
-Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt
-werden. Ein reflektierter Praxisbericht wird wiederholt, indem er
-nachgebessert wird.
-
-(2) Abweichend von Absatz 1 Satz 1 können zwei nicht bestandene
-Modulprüfungen ein zweites Mal wiederholt werden.
-
-(3) Das weitere Studium wird wegen der Wiederholung nicht ausgesetzt.
-
-(4) Mit dem endgültigen Nichtbestehen einer Modulprüfung ist das
-Studium beendet.
-
-(5) Eine bestandene Prüfung kann nicht wiederholt werden.
-
-
 ### Unterabschnitt 3 - Bachelorarbeit
 [Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000700000)
 

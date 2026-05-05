@@ -1457,83 +1457,6 @@ Rechtsbehelfe, die gegeben sind, wenn die Wertfestsetzung unterblieben
 ist, kann er aus eigenem Recht einlegen.
 
 
-### § 33 Wertfestsetzung für die Rechtsanwaltsgebühren
-[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003408131)
-
-(1) Berechnen sich die Gebühren in einem gerichtlichen Verfahren nicht
-nach dem für die Gerichtsgebühren maßgebenden Wert oder fehlt es an
-einem solchen Wert, setzt das Gericht des Rechtszugs den Wert des
-Gegenstands der anwaltlichen Tätigkeit auf Antrag durch Beschluss
-selbstständig fest.
-
-(2) Der Antrag ist erst zulässig, wenn die Vergütung fällig ist.
-Antragsberechtigt sind der Rechtsanwalt, der Auftraggeber, ein
-erstattungspflichtiger Gegner und in den Fällen des § 45 die
-Staatskasse.
-
-(3) Gegen den Beschluss nach Absatz 1 können die Antragsberechtigten
-Beschwerde einlegen, wenn der Wert des Beschwerdegegenstands 300 Euro
-übersteigt. Die Beschwerde ist auch zulässig, wenn sie das Gericht,
-das die angefochtene Entscheidung erlassen hat, wegen der
-grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem
-Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb
-von zwei Wochen nach Zustellung der Entscheidung eingelegt wird.
-
-(4) Soweit das Gericht die Beschwerde für zulässig und begründet hält,
-hat es ihr abzuhelfen; im Übrigen ist die Beschwerde unverzüglich dem
-Beschwerdegericht vorzulegen. Beschwerdegericht ist das nächsthöhere
-Gericht, in Zivilsachen der in § 119 Absatz 1 Nummer 1 des
-Gerichtsverfassungsgesetzes bezeichneten Art jedoch das
-Oberlandesgericht. Eine Beschwerde an einen obersten Gerichtshof des
-Bundes findet nicht statt. Das Beschwerdegericht ist an die Zulassung
-der Beschwerde gebunden; die Nichtzulassung ist unanfechtbar.
-
-(5) War der Beschwerdeführer ohne sein Verschulden verhindert, die
-Frist einzuhalten, ist ihm auf Antrag von dem Gericht, das über die
-Beschwerde zu entscheiden hat, Wiedereinsetzung in den vorigen Stand
-zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der
-Beseitigung des Hindernisses einlegt und die Tatsachen, welche die
-Wiedereinsetzung begründen, glaubhaft macht. Ein Fehlen des
-Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung
-unterblieben oder fehlerhaft ist. Nach Ablauf eines Jahres, von dem
-Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung
-nicht mehr beantragt werden. Gegen die Ablehnung der Wiedereinsetzung
-findet die Beschwerde statt. Sie ist nur zulässig, wenn sie innerhalb
-von zwei Wochen eingelegt wird. Die Frist beginnt mit der Zustellung
-der Entscheidung. Absatz 4 Satz 1 bis 3 gilt entsprechend.
-
-(6) Die weitere Beschwerde ist nur zulässig, wenn das Landgericht als
-Beschwerdegericht entschieden und sie wegen der grundsätzlichen
-Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss
-zugelassen hat. Sie kann nur darauf gestützt werden, dass die
-Entscheidung auf einer Verletzung des Rechts beruht; die §§ 546 und
-547 der Zivilprozessordnung gelten entsprechend. Über die weitere
-Beschwerde entscheidet das Oberlandesgericht. Absatz 3 Satz 3, Absatz
-4 Satz 1 und 4 und Absatz 5 gelten entsprechend.
-
-(7) Anträge und Erklärungen können ohne Mitwirkung eines
-Bevollmächtigten schriftlich eingereicht oder zu Protokoll der
-Geschäftsstelle abgegeben werden; § 129a der Zivilprozessordnung gilt
-entsprechend. Für die Bevollmächtigung gelten die Regelungen der für
-das zugrunde liegende Verfahren geltenden Verfahrensordnung
-entsprechend. Die Beschwerde ist bei dem Gericht einzulegen, dessen
-Entscheidung angefochten wird.
-
-(8) Das Gericht entscheidet über den Antrag durch eines seiner
-Mitglieder als Einzelrichter; dies gilt auch für die Beschwerde, wenn
-die angefochtene Entscheidung von einem Einzelrichter oder einem
-Rechtspfleger erlassen wurde. Der Einzelrichter überträgt das
-Verfahren der Kammer oder dem Senat, wenn die Sache besondere
-Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist oder die
-Rechtssache grundsätzliche Bedeutung hat. Das Gericht entscheidet
-jedoch immer ohne Mitwirkung ehrenamtlicher Richter. Auf eine erfolgte
-oder unterlassene Übertragung kann ein Rechtsmittel nicht gestützt
-werden.
-
-(9) Das Verfahren über den Antrag ist gebührenfrei. Kosten werden
-nicht erstattet; dies gilt auch im Verfahren über die Beschwerde.
-
-
 ## Abschnitt 5 - Außergerichtliche Beratung und Vertretung
 [Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000502125)
 
@@ -2539,20 +2462,6 @@ Bestimmung des Gegenstandswerts § 52 Absatz 4 Nummer 4 des
 Gerichtskostengesetzes nicht anzuwenden, wenn der unbedingte Auftrag
 zur Erledigung derselben Angelegenheit vor dem 15. August 2019 erteilt
 worden ist.
-
-
-### § 61 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen
-[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006202131)
-
-§ 33 ist in seiner bis einschließlich 31. Dezember 2025 geltenden
-Fassung weiter anzuwenden, wenn der unbedingte Auftrag zur Erledigung
-derselben Angelegenheit im Sinne des § 15 vor dem 1. Januar 2026
-erteilt oder der Rechtsanwalt vor diesem Zeitpunkt gerichtlich
-bestellt oder beigeordnet worden ist. Ist der Rechtsanwalt am 1.
-Januar 2026 in derselben Angelegenheit und, wenn ein gerichtliches
-Verfahren anhängig ist, in demselben Rechtszug bereits tätig, gilt
-Satz 1 nicht für das Verfahren über ein Rechtsmittel, das nach dem 31.
-Dezember 2025 eingelegt worden ist.
 
 
 ### § 62 Verfahren nach dem Therapieunterbringungsgesetz

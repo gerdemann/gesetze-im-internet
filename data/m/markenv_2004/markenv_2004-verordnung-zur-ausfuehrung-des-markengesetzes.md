@@ -1527,112 +1527,6 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 
-#### § 48 Veröffentlichung des Antrags
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005005129)
-
-(1) In der Veröffentlichung des Antrags (§ 130 Absatz 4 des
-Markengesetzes in der vor dem 16. Januar 2026 geltenden Fassung) sind
-mindestens anzugeben:
-
-1.  der Name und die Anschrift des Antragstellers,
-
-
-2.  falls ein Vertreter bestellt worden ist, der Name und die Anschrift
-    des Vertreters,
-
-
-3.  der als geografische Angabe oder als Ursprungsbezeichnung zu
-    schützende Name,
-
-
-4.  die Art des Agrarerzeugnisses oder Lebensmittels,
-
-
-5.  die Spezifikation nach Artikel 49 Absatz 1 der Verordnung (EU)
-    2024/1143.
-
-
-
-
-(2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs
-nach § 130 Absatz 4 des Markengesetzes in der vor dem 16. Januar 2026
-geltenden Fassung in Verbindung mit Artikel 10 Absatz 4 der Verordnung
-(EU) 2024/1143 hinzuweisen.
-
-
-#### § 49 Nationaler Einspruch
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005105129)
-
-(1) Der Einspruch nach § 130 Absatz 4 des Markengesetzes in der vor
-dem 16. Januar 2026 geltenden Fassung in Verbindung mit Artikel 10
-Absatz 4 der Verordnung (EU) 2024/1143 soll unter Verwendung des vom
-Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht
-werden.
-
-(2) In der Einspruchsschrift sind anzugeben:
-
-1.  die geografische Angabe oder Ursprungsbezeichnung, gegen deren
-    Eintragung sich der Einspruch richtet,
-
-
-2.  der Name und die Anschrift des Einsprechenden,
-
-
-3.  falls ein Vertreter bestellt worden ist, der Name und die Anschrift
-    des Vertreters,
-
-
-4.  die Umstände, aus denen sich das berechtigte Interesse des
-    Einsprechenden ergibt,
-
-
-5.  die Gründe, auf die sich der Einspruch stützt.
-
-
-
-
-
-### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001703129)
-
-
-
-#### § 50 Einspruch
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005205129)
-
-(1) Der Einspruch nach § 131 des Markengesetzes in der vor dem 16.
-Januar 2026 geltenden Fassung in Verbindung mit Artikel 17 Absatz 2
-der Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
-Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
-
-(2) In der Einspruchsschrift sind anzugeben:
-
-1.  die geografische Angabe oder Ursprungsbezeichnung, gegen deren
-    Eintragung sich der Einspruch richtet,
-
-
-2.  die EG-Nummer und das Datum der Veröffentlichung im Amtsblatt der
-    Europäischen Union,
-
-
-3.  der Name und die Anschrift des Einsprechenden,
-
-
-4.  falls ein Vertreter bestellt worden ist, der Name und die Anschrift
-    des Vertreters,
-
-
-5.  die Umstände, aus denen sich das berechtigte Interesse des
-    Einsprechenden ergibt.
-
-
-
-
-(3) Der Einspruch ist innerhalb von zwei Monaten nach Einreichung zu
-begründen. Die Gründe nach Artikel 19 Absatz 1 der Verordnung (EU)
-2024/1143, auf welche der Einspruch gestützt wird, sind anzugeben.
-
-
 #### § 51 Einspruchsverfahren
 [Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005304123)
 
@@ -1750,11 +1644,6 @@ Verordnung vom 1. September 2003 (BGBl. I S. 1701).
 Für Markenanmeldungen, die vor Inkrafttreten von Änderungen dieser
 Verordnung eingereicht worden sind, gelten die Vorschriften dieser
 Verordnung in ihrer bis dahin geltenden Fassung.
-
-
-### § 57a (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007401129)
-
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten

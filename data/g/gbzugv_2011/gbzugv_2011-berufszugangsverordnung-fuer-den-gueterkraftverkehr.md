@@ -437,51 +437,6 @@ Erlaubnisurkunde erforderlich, so hat das Unternehmen die
 Erlaubnisurkunde und deren Ausfertigungen unverzüglich vorzulegen.
 
 
-## § 11 Kontrolle
-[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001201123)
-
-(1) Die nach Landesrecht zuständigen Behörden kontrollieren die
-Unternehmen nach Maßgabe des Artikels 12 der Verordnung (EG) Nr.
-1071/2009. Hierzu überprüfen sie regelmäßig und mindestens alle zehn
-Jahre, ob der Unternehmer die Berufszugangsvoraussetzungen nach
-Artikel 3 der Verordnung (EG) Nr. 1071/2009 noch erfüllt. Zur
-Durchführung der Kontrollen hat der Unternehmer auf Verlangen der
-zuständigen Behörde erforderliche Nachweise vorzulegen.
-
-(2) Die Behörde teilt dem Unternehmen das Ergebnis der Überprüfung
-nach Absatz 1 schriftlich mit.
-
-(3) Die Verfahren auf Erneuerung der Gemeinschaftslizenz nach Artikel
-4 der Verordnung (EG) Nr. 1072/2009 oder der Erlaubnis nach § 3 in der
-am 26. Februar 2026 geltenden Fassung nach dem
-Güterkraftverkehrsgesetz ersetzen die Kontrolle nach Absatz 1, soweit
-dabei zugleich der Nachweis geführt wird, dass die
-Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
-
-
-## § 12 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001301123)
-
-Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 Buchstabe a des
-Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 10 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig macht oder einen Nachweis
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erbringt,
-
-
-2.  entgegen § 10 Absatz 5 Satz 2 eine Erlaubnisurkunde oder eine
-    Ausfertigung nicht oder nicht rechtzeitig vorlegt oder
-
-
-3.  entgegen § 11 Absatz 1 Satz 3 einen Nachweis nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig vorlegt.
-
-
-
-
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 [Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001400000)
 

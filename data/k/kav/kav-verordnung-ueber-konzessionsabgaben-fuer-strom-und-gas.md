@@ -28,28 +28,6 @@ veröffentlichten bereinigten Fassung in Verbindung mit Artikel 129
 Abs. 1 des Grundgesetzes verordnet der Bundesminister für Wirtschaft:
 
 
-## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000203123)
-
-(1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von
-Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3
-Nummer 39 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise
-(§ 7).
-
-(2) Konzessionsabgaben sind Entgelte für die Einräumung des Rechts zur
-Benutzung öffentlicher Verkehrswege für die Verlegung und den Betrieb
-von Leitungen, die der unmittelbaren Versorgung von Letztverbrauchern
-im Gemeindegebiet mit Strom und Gas dienen.
-
-(3) Tarifkunden im Sinne dieser Verordnung sind Kunden, die auf
-Grundlage von Verträgen nach den §§ 36 und 38 sowie § 115 Abs. 2 und §
-116 des Energiewirtschaftsgesetzes beliefert werden; Preise und Tarife
-nach diesen Bestimmungen sind Tarife im Sinne dieser Verordnung.
-
-(4) Sondervertragskunden im Sinne dieser Verordnung sind Kunden, die
-nicht Tarifkunden sind.
-
-
 ## § 2 Bemessung und zulässige Höhe der Konzessionsabgaben
 [Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000303377)
 
