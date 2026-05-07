@@ -4720,6 +4720,85 @@ einer Restlaufzeit von einem Jahr oder weniger sind § 253 Abs. 1 Satz
 [Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000800306)
 
 
+Aufbewahrung von Unterlagen
+
+##### § 257 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005204129)
+
+(1) Jeder Kaufmann ist verpflichtet, die folgenden Unterlagen geordnet
+aufzubewahren:
+
+1.  Handelsbücher, Inventare, Eröffnungsbilanzen, Jahresabschlüsse,
+    Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, Konzernabschlüsse,
+    Konzernlageberichte sowie die zu ihrem Verständnis erforderlichen
+    Arbeitsanweisungen und sonstigen Organisationsunterlagen,
+
+
+2.  die empfangenen Handelsbriefe,
+
+
+3.  Wiedergaben der abgesandten Handelsbriefe,
+
+
+4.  Belege für Buchungen in den von ihm nach § 238 Abs. 1 zu führenden
+    Büchern (Buchungsbelege).
+
+
+
+
+(2) Handelsbriefe sind nur Schriftstücke, die ein Handelsgeschäft
+betreffen.
+
+(3) Mit Ausnahme der Eröffnungsbilanzen und Abschlüsse können die in
+Absatz 1 aufgeführten Unterlagen auch als Wiedergabe auf einem
+Bildträger oder auf anderen Datenträgern aufbewahrt werden, wenn dies
+den Grundsätzen ordnungsmäßiger Buchführung entspricht und
+sichergestellt ist, daß die Wiedergabe oder die Daten
+
+1.  mit den empfangenen Handelsbriefen und den Buchungsbelegen bildlich
+    und mit den anderen Unterlagen inhaltlich übereinstimmen, wenn sie
+    lesbar gemacht werden,
+
+
+2.  während der Dauer der Aufbewahrungsfrist verfügbar sind und jederzeit
+    innerhalb angemessener Frist lesbar gemacht werden können.
+
+
+
+Sind Unterlagen auf Grund des § 239 Abs. 4 Satz 1 auf Datenträgern
+hergestellt worden, können statt des Datenträgers die Daten auch
+ausgedruckt aufbewahrt werden; die ausgedruckten Unterlagen können
+auch nach Satz 1 aufbewahrt werden.
+
+(4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre,
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die
+sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre
+aufzubewahren. Abweichend von Satz 1 sind bei Personen oder
+Gesellschaften, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind,
+    einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes
+    unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes sind,
+
+
+
+die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre
+aufzubewahren.
+
+(5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs,
+in dem die letzte Eintragung in das Handelsbuch gemacht, das Inventar
+aufgestellt, die Eröffnungsbilanz oder der Jahresabschluß
+festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der
+Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt
+worden oder der Buchungsbeleg entstanden ist.
+
 Vorlegung im
 
 ##### § 258 
@@ -10859,6 +10938,74 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 Das Bundesministerium der Justiz kann die Ermächtigungen des Satzes 1
 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das
 Bundesamt für Justiz übertragen.
+
+
+###### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097806129)
+
+(1) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt
+oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen
+Stand verworfen wird, sowie gegen die Entscheidung nach § 335 Absatz 3
+Satz 5 findet die Beschwerde nach den Vorschriften des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit statt, soweit sich aus Satz 2 oder den
+nachstehenden Absätzen nichts anderes ergibt. Die Beschwerde hat
+aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungsgeldes
+zum Gegenstand hat.
+
+(2) Die Beschwerde ist binnen einer Frist von zwei Wochen einzulegen;
+über sie entscheidet das für den Sitz des Bundesamtes zuständige
+Landgericht. Zur Vermeidung von erheblichen Verfahrensrückständen oder
+zum Ausgleich einer übermäßigen Geschäftsbelastung wird die
+Landesregierung des Landes, in dem das Bundesamt seinen Sitz
+unterhält, ermächtigt, durch Rechtsverordnung die Entscheidung über
+die Rechtsmittel nach Satz 1 einem anderen Landgericht oder weiteren
+Landgerichten zu übertragen. Die Landesregierung kann diese
+Ermächtigung auf die Landesjustizverwaltung übertragen. Ist bei dem
+Landgericht eine Kammer für Handelssachen gebildet, so tritt diese
+Kammer an die Stelle der Zivilkammer. Entscheidet über die Beschwerde
+die Zivilkammer, so sind die §§ 348 und 348a der Zivilprozessordnung
+entsprechend anzuwenden; über eine bei der Kammer für Handelssachen
+anhängige Beschwerde entscheidet der Vorsitzende. Das Landgericht kann
+nach billigem Ermessen bestimmen, dass den Beteiligten die
+außergerichtlichen Kosten, die zur zweckentsprechenden
+Rechtsverfolgung notwendig waren, ganz oder teilweise aus der
+Staatskasse zu erstatten sind. Satz 6 gilt entsprechend, wenn das
+Bundesamt der Beschwerde abhilft. § 91 Absatz 1 Satz 2 und die §§ 103
+bis 107 der Zivilprozessordnung gelten entsprechend. § 335 Absatz 2
+Satz 3 ist anzuwenden.
+
+(3) Gegen die Beschwerdeentscheidung ist die Rechtsbeschwerde
+statthaft, wenn das Landgericht sie zugelassen hat. Für die
+Rechtsbeschwerde gelten die Vorschriften des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit entsprechend, soweit sich aus diesem
+Absatz nichts anderes ergibt. Über die Rechtsbeschwerde entscheidet
+das für den Sitz des Landgerichts zuständige Oberlandesgericht. Die
+Rechtsbeschwerde steht auch dem Bundesamt zu und kann auch gegen eine
+vom Landgericht gewährte Wiedereinsetzung in die Sechswochenfrist nach
+§ 335 Absatz 4 Satz 1 zur Erfüllung der gesetzlichen
+Offenlegungspflicht zugelassen werden. Vor dem Oberlandesgericht
+müssen sich die Beteiligten durch einen Rechtsanwalt vertreten lassen;
+dies gilt nicht für das Bundesamt. Absatz 1 Satz 2 und Absatz 2 Satz 6
+und 8 gelten entsprechend.
+
+(4) Auf die elektronische Aktenführung des Gerichts und die
+Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind die
+folgenden Vorschriften entsprechend anzuwenden:
+
+1.  § 110a Absatz 1 und § 110c des Gesetzes über Ordnungswidrigkeiten
+    sowie
+
+
+2.  § 110a Absatz 2 Satz 1 und § 134 Satz 1 des Gesetzes über
+    Ordnungswidrigkeiten mit der Maßgabe, dass die Landesregierung des
+    Landes, in dem das Bundesamt seinen Sitz hat, die Rechtsverordnung
+    erlässt und die Ermächtigungen durch Rechtsverordnung auf die
+    Landesjustizverwaltung übertragen kann.
+
+
+
 
 
 ##### Dritter Titel - Gemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren

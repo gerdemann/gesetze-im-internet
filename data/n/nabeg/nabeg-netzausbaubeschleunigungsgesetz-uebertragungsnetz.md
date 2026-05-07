@@ -217,6 +217,90 @@ Bundesfachplanung Trassenkorridore bestimmt. Diese sind die Grundlage
 für die nachfolgenden Planfeststellungsverfahren.
 
 
+### § 5 Inhalt der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000608123)
+
+(1) Die Bundesnetzagentur bestimmt in der Bundesfachplanung zur
+Erfüllung der in § 1 Absatz 1 des Energiewirtschaftsgesetzes genannten
+Zwecke Trassenkorridore von im Bundesbedarfsplan aufgeführten
+Höchstspannungsleitungen. Die Bundesnetzagentur prüft, ob der
+Verwirklichung des Vorhabens in einem Trassenkorridor überwiegende
+öffentliche oder private Belange entgegenstehen.
+
+(2) Die Bundesnetzagentur prüft insbesondere die Übereinstimmung mit
+den Erfordernissen der Raumordnung im Sinne von § 3 Absatz 1 Nummer 1
+des Raumordnungsgesetzes und die Abstimmung mit anderen
+raumbedeutsamen Planungen und Maßnahmen im Sinne von § 3 Absatz 1
+Nummer 6 des Raumordnungsgesetzes. Die Bindungswirkung der Ziele der
+Raumordnung gilt nur, wenn die Bundesnetzagentur bei der Aufstellung,
+Änderung oder Ergänzung des Raumordnungsplans nach § 9 des
+Raumordnungsgesetzes beteiligt worden ist und sie innerhalb einer
+Frist von zwei Monaten nach Mitteilung des rechtsverbindlichen Ziels
+nicht widersprochen hat. Der Widerspruch nach Satz 2 lässt die
+Bindungswirkung des Ziels der Raumordnung gegenüber der
+Bundesnetzagentur nicht entstehen, wenn das Ziel der Bundesfachplanung
+entgegensteht. Macht die Bundesfachplanung nachträglich ein Abweichen
+von den Zielen der Raumordnung erforderlich, kann die
+Bundesnetzagentur mit Zustimmung des Bundesministeriums für Wirtschaft
+und Energie innerhalb angemessener Frist, spätestens aber bis zum
+Abschluss der Bundesfachplanung, unter der Voraussetzung von Satz 3
+nachträglich widersprechen. Muss infolge des nachträglichen
+Widerspruchs der Raumordnungsplan geändert, ergänzt oder aufgehoben
+werden, hat die Bundesnetzagentur die dadurch entstehenden Kosten zu
+ersetzen. § 6 des Raumordnungsgesetzes bleibt unberührt.
+
+(2a) Soweit die Änderung oder Erweiterung einer Leitung, ein
+Ersatzneubau oder ein Parallelneubau beantragt und eine
+Bundesfachplanung durchgeführt wird, entfalten Ziele der Raumordnung,
+die den Abstand von Höchstspannungsleitungen zu Gebäuden oder
+überbaubaren Grundstücksflächen regeln, abweichend von Absatz 2 keine
+Bindungswirkung für die Bundesfachplanung.
+
+(3) Städtebauliche Belange sind zu berücksichtigen. Abweichend von § 7
+des Baugesetzbuches sind nur § 7 Satz 6 und § 37 Absatz 3 des
+Baugesetzbuches entsprechend anzuwenden.
+
+(4) Gegenstand der Prüfung sind auch etwaige ernsthaft in Betracht
+kommende Alternativen von Trassenkorridoren. Bei der Durchführung der
+Bundesfachplanung für Vorhaben im Sinne von § 2 Absatz 6 des
+Bundesbedarfsplangesetzes zählen zu solchen Alternativen auch die
+Verläufe von Trassenkorridoren, die sich aus der Berücksichtigung von
+möglichen Teilverkabelungsabschnitten ergeben und insbesondere zu
+einer Verkürzung des Trassenkorridors insgesamt führen können.
+
+(5) Bei der Durchführung der Bundesfachplanung berücksichtigt die
+Bundesnetzagentur insbesondere folgende Belange:
+
+1.  eine möglichst frühzeitige Inbetriebnahme des Vorhabens,
+
+
+2.  einen möglichst geradlinigen Verlauf zwischen dem Anfangs- und dem
+    Endpunkt des Vorhabens,
+
+
+3.  eine möglichst wirtschaftliche Errichtung und einen möglichst
+    wirtschaftlichen Betrieb des Vorhabens.
+
+
+
+Satz 1 Nummer 2 ist nicht anzuwenden, soweit im Antrag des
+Vorhabenträgers eine Bündelung mit anderer linearer Infrastruktur
+dargestellt wird.
+
+(6) Bei der Durchführung der Bundesfachplanung für Offshore-
+Anbindungsleitungen ist der Flächenentwicklungsplan gemäß § 5 des
+Windenergie-auf-See-Gesetzes in der jeweils geltenden Fassung von der
+Bundesnetzagentur zu berücksichtigen.
+
+(7) Für die Bundesfachplanung ist nach den Bestimmungen des Gesetzes
+über die Umweltverträglichkeitsprüfung eine Strategische Umweltprüfung
+durchzuführen.
+
+(8) Die Bundesnetzagentur darf die Bundesfachplanung in einzelnen
+Abschnitten der Trassenkorridore durchführen. Dies gilt auch, wenn der
+Vorhabenträger keinen entsprechenden Antrag gestellt hat.
+
+
 ### § 5a Verzicht auf Bundesfachplanung
 [Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003803311)
 
@@ -413,6 +497,102 @@ anzuwenden, dass die Bundesnetzagentur die nach § 44 Absatz 2 des
 Energiewirtschaftsgesetzes zuständige Behörde ist. Die
 Bundesnetzagentur prüft die Vollständigkeit der Unterlagen. § 21
 Absatz 5 ist entsprechend anzuwenden.
+
+
+### § 9 Behörden- und Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001007123)
+
+(1) Spätestens zwei Wochen nach Vorlage der vollständigen Unterlagen
+beteiligt die Bundesnetzagentur die anderen Behörden und die
+Öffentlichkeit nach den §§ 41 und 42 des Gesetzes über die
+Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
+
+(2) Die Bundesnetzagentur fordert die Träger öffentlicher Belange
+unter Übermittlung der Unterlagen innerhalb einer von ihr zu setzenden
+Frist, die drei Monate nicht überschreiten darf, zur Stellungnahme
+auf. Die Übermittlung der Unterlagen soll dadurch erfolgen, dass die
+Unterlagen für die Empfänger nach Satz 1 auf der Internetseite der
+Bundesnetzagentur bereitgestellt werden. Die Abgabe der Stellungnahmen
+kann schriftlich oder elektronisch erfolgen. Nach Ablauf der Frist
+nach Satz 1 eingehende Stellungnahmen werden nicht mehr
+berücksichtigt, es sei denn, die vorgebrachten Belange sind für die
+Rechtmäßigkeit der Bundesfachplanung von Bedeutung.
+
+(3) Spätestens zwei Wochen nach Versand der Bestätigung der
+Vollständigkeit der Unterlagen führt die Bundesnetzagentur eine
+Beteiligung der Öffentlichkeit nach § 42 des Gesetzes über die
+Umweltverträglichkeitsprüfung durch. Die Öffentlichkeitsbeteiligung
+erfolgt mit der Maßgabe, dass die Auslegung der Unterlagen bewirkt
+wird, indem die Unterlagen für die Dauer von einem Monat auf der
+Internetseite der Bundesnetzagentur veröffentlicht werden. Auf
+Verlangen eines Beteiligten, das während der Auslegung nach Satz 2 an
+die Bundesnetzagentur zu richten ist, wird ihm eine leicht zu
+erreichende Zugangsmöglichkeit zur Verfügung gestellt; dies ist in der
+Regel die Übersendung eines gängigen elektronischen Speichermediums,
+auf dem die auszulegenden Unterlagen gespeichert sind. Die Auslegung
+ist auf der Internetseite der Bundesnetzagentur und in örtlichen
+Tageszeitungen, die in dem Gebiet verbreitet sind, auf das sich das
+Vorhaben voraussichtlich auswirken wird, bekannt zu machen. Die
+Bekanntmachung soll spätestens eine Woche vor Beginn der Auslegung
+erfolgen und muss folgende Angaben enthalten:
+
+1.  dem Planungsstand entsprechende Angaben über den Verlauf der
+    Trassenkorridore und den Vorhabenträger,
+
+
+2.  die Angabe, dass die Auslegung durch die Veröffentlichung auf der
+    Internetseite der Bundesnetzagentur erfolgt,
+
+
+3.  Hinweise auf die Einwendungsfrist unter Angabe des jeweils ersten und
+    letzten Tages und
+
+
+4.  den Hinweis, dass nach Satz 3 während der Auslegung nach Satz 2
+    zusätzlich die Möglichkeit besteht, ohne Auswirkung auf die
+    Einwendungsfrist eine leicht zu erreichende Zugangsmöglichkeit zur
+    Verfügung gestellt zu bekommen, in der Regel durch die Übersendung
+    eines gängigen elektronischen Speichermediums, auf dem die
+    auszulegenden Unterlagen gespeichert sind.
+
+
+
+
+(3a) Wenn der Vorhabenträger gegenüber der Bundesnetzagentur
+elektronisch oder schriftlich versichert, dass er in Kenntnis der
+hierfür maßgeblichen Rechtsvorschriften und des Umstandes, dass die
+Einreichung nicht vollständiger Unterlagen zur Wiederholung von
+Verfahrensschritten oder auch zur Ablehnung des Antrags führen kann,
+vollständige Unterlagen vorgelegt hat, wird die Behörden- und
+Öffentlichkeitsbeteiligung nach Maßgabe dieses Paragrafen
+durchgeführt, auch wenn die Bundesnetzagentur die Vollständigkeit der
+Unterlagen zu diesem Zeitpunkt noch nicht bestätigt hat.
+
+(4) Jede Person, einschließlich Vereinigungen, kann sich innerhalb von
+einem Monat nach Ablauf der Veröffentlichungsfrist schriftlich oder
+elektronisch bei der Bundesnetzagentur zu den beabsichtigten
+Trassenkorridoren äußern. Absatz 2 Satz 4 gilt entsprechend.
+Rechtsansprüche werden durch die Einbeziehung der Öffentlichkeit nicht
+begründet; die Verfolgung von Rechten im nachfolgenden
+Zulassungsverfahren bleibt unberührt.
+
+(5) Ein Verfahren nach den Absätzen 1 bis 4 kann unterbleiben, wenn
+die Voraussetzungen für ein vereinfachtes Verfahren nach § 11
+vorliegen.
+
+(6) Werden bereits ausgelegte Unterlagen geändert und wird dadurch
+eine erneute Beteiligung der Öffentlichkeit nach § 42 Absatz 1 in
+Verbindung mit § 22 des Gesetzes über die
+Umweltverträglichkeitsprüfung notwendig, sind die Absätze 1 bis 5 nach
+Maßgabe der Sätze 2 bis 4 anzuwenden. Die Behördenbeteiligung ist
+abweichend von den Absätzen 1 und 2 auf diejenigen Träger öffentlicher
+Belange zu beschränken, die durch die Änderung in ihrem
+Aufgabenbereich berührt sind. Die Bekanntmachung der Auslegung erfolgt
+abweichend von Absatz 3 Satz 4 in örtlichen Tageszeitungen, die in dem
+Gebiet verbreitet sind, auf das sich die Änderung bezieht, sowie auf
+der Internetseite der Bundesnetzagentur. Die Äußerungsfrist soll
+abweichend von Absatz 4 Satz 1 und von § 42 Absatz 3 Satz 2 des
+Gesetzes über die Umweltverträglichkeitsprüfung zwei Wochen betragen.
 
 
 ### § 10 Erörterungstermin
@@ -613,6 +793,73 @@ gegen die Zulassungsentscheidung für die jeweilige Ausbaumaßnahme
 entsprechend anzuwenden.
 
 
+### § 16 Veränderungssperren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001706123)
+
+(1) Die Bundesnetzagentur kann mit dem Abschluss der Bundesfachplanung
+oder nachträglich für einzelne Abschnitte der Trassenkorridore
+Veränderungssperren erlassen, soweit für diese Leitungen ein
+vordringlicher Bedarf im Sinne des Bundesbedarfs festgestellt wird und
+wenn anderenfalls die Möglichkeit besteht, dass die Trassierung der
+darin zu verwirklichenden Leitung erheblich erschwert wird. Die
+Veränderungssperre bewirkt,
+
+1.  dass keine Vorhaben oder baulichen Anlagen verwirklicht werden dürfen,
+    die einer Verwirklichung der jeweiligen Stromleitung entgegenstehen,
+    und
+
+
+2.  dass keine sonstigen erheblichen oder wesentlich wertsteigernden
+    Veränderungen am Grundstück oder an baulichen Anlagen auf dem
+    Grundstück durchgeführt werden dürfen.
+
+
+
+Die Veränderungssperre ist auf einen Zeitraum von fünf Jahren zu
+befristen. Die Bundesnetzagentur kann die Frist um weitere fünf Jahre
+verlängern, wenn besondere Umstände dies erfordern.
+
+(2) Die Veränderungssperre ist aufzuheben, wenn die auf dem
+Trassenkorridor vorgesehene Ausbaumaßnahme anderweitig verwirklicht
+oder endgültig nicht mehr verwirklicht wird. Die Veränderungssperre
+ist auf Antrag aufzuheben, wenn überwiegende Belange von Betroffenen
+entgegenstehen.
+
+(3) Die Veränderungssperre ergeht als Allgemeinverfügung. Von der
+Anhörung nach § 28 des Verwaltungsverfahrensgesetzes soll abgesehen
+werden.
+
+(4) Die Bundesnetzagentur macht die Veränderungssperre in örtlichen
+Tageszeitungen, die in dem Gebiet verbreitet sind, auf das sich die
+Veränderungssperre voraussichtlich auswirken wird, und auf der
+Internetseite der Bundesnetzagentur bekannt. In der Bekanntmachung in
+den örtlichen Tageszeitungen ist der verfügende Teil zu
+veröffentlichen und ist auf die vollständige Veröffentlichung der
+Veränderungssperre einschließlich der Rechtsbehelfsbelehrung auf der
+Internetseite der Bundesnetzagentur hinzuweisen.
+
+(5) Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner
+Nachprüfung in einem Vorverfahren. Für Anfechtungsklagen gegen eine
+Veränderungssperre ist § 43e des Energiewirtschaftsgesetzes
+entsprechend anzuwenden. Für Verpflichtungsklagen auf Erlass oder
+Aufhebung einer Veränderungssperre ist § 43e des
+Energiewirtschaftsgesetzes mit der Maßgabe anzuwenden, dass an die
+Stelle von Anträgen auf Anordnung der aufschiebenden Wirkung Anträge
+auf Erlass von vorläufigen Anordnungen treten.
+
+(6) § 44a Absatz 2 und 3 des Energiewirtschaftsgesetzes ist
+entsprechend anzuwenden.
+
+(7) Wird gemäß § 5a Absatz 3 oder Absatz 4 auf die Bundesfachplanung
+verzichtet oder entfällt gemäß § 5a Absatz 4a die Bundesfachplanung,
+so sind die Absätze 1 bis 6 mit der Maßgabe entsprechend anzuwenden,
+dass die Bundesnetzagentur ab Beginn der Planfeststellung und in
+Fällen des behördlichen Bundesfachplanungsverzichts nach § 5a Absatz 3
+ab der Entscheidung über den Bundesfachplanungsverzicht und in den
+Fällen des § 5a Absatz 4a ab Abschluss der Entwicklung des
+Präferenzraums Veränderungssperren erlassen kann.
+
+
 ### § 17 Bundesnetzplan
 [Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001804377)
 
@@ -628,6 +875,144 @@ Kalenderjahr im Bundesanzeiger zu veröffentlichen.
 
 ## Abschnitt 3 - Planfeststellung
 [Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000300000)
+
+
+### § 18 Erfordernis einer Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001910123)
+
+(1) Die Errichtung und der Betrieb sowie die Änderung von Leitungen im
+Sinne von § 2 Absatz 1, mit Ausnahme von Nebeneinrichtungen zu
+Offshore-Anbindungsleitungen, bedürfen der Planfeststellung durch die
+zuständige Behörde.
+
+(2) Auf Antrag des Vorhabenträgers können die für den Betrieb
+notwendigen Anlagen, insbesondere Konverterstationen, Phasenschieber,
+Umspannanlagen und Netzverknüpfungspunkte, einschließlich
+Nebeneinrichtungen zu Offshore-Anbindungsleitungen, durch
+Planfeststellung durch die nach Absatz 1 zuständige Behörde zugelassen
+werden. Dabei können sie in das Planfeststellungsverfahren von
+Leitungen im Sinne von § 2 Absatz 1 integriert werden, wobei eine
+nachträgliche Integration in die Entscheidung zur Planfeststellung
+durch Planergänzungsverfahren möglich ist, solange die Entscheidung
+zur Planfeststellung gilt.
+
+(3) Bei Vorhaben im Sinne von § 2 Absatz 3, 5 und 6 des
+Bundesbedarfsplangesetzes ist Absatz 2 auch für Leerrohre anzuwenden,
+wenn
+
+1.  die Leerrohre im räumlichen und zeitlichen Zusammenhang mit der
+    Baumaßnahme eines Erdkabels verlegt werden und
+
+
+2.  die zuständige Behörde anhand der Umstände des Einzelfalls davon
+    ausgehen kann, dass die Leerrohre innerhalb von 15 Jahren nach der
+    Planfeststellung zur Durchführung einer Stromleitung genutzt werden.
+
+
+
+Bei Vorhaben, die im Bundesbedarfsplangesetz entsprechend
+gekennzeichnet sind, stehen die energiewirtschaftliche Notwendigkeit
+und der vordringliche Bedarf für Leerrohre, die im räumlichen und
+zeitlichen Zusammenhang mit der Baumaßnahme des gekennzeichneten
+Vorhabens verlegt werden, fest. Im Fall des Satzes 2 darf sich die
+Trassenbreite im Vergleich zu den Annahmen im
+Bundesfachplanungsverfahren nicht wesentlich vergrößern. Dies ist im
+Planfeststellungsverfahren für die gekennzeichneten Vorhaben zu
+prüfen. Gegenstand des Planfeststellungsverfahrens bei Vorhaben im
+Sinne des § 2 Absatz 8 des Bundesbedarfsplangesetzes ist die Verlegung
+von Leerrohren. Für die Nutzung der Leerrohre zur Durchführung einer
+Stromleitung und zu deren anschließendem Betrieb bedarf es eines
+weiteren Planfeststellungs- oder Plangenehmigungsverfahrens. Die
+Einbeziehung von Leerrohren nach Satz 1 kann auf einzelne Abschnitte
+des betroffenen Vorhabens beschränkt werden.
+
+(3a) Bei Einbeziehung von Leerrohren nach Absatz 3 und von Erdkabeln
+nach § 26 Satz 2 ist der durch die Bundesfachplanung bestimmte
+Trassenkorridor des Vorhabens im Sinne von § 2 Absatz 3, 5 und 6 des
+Bundesbedarfsplangesetzes zu beachten. Insoweit ist eine Prüfung in
+Frage kommender Alternativen für den beabsichtigten Verlauf der Trasse
+auf diesen Trassenkorridor beschränkt. Eine Prüfung außerhalb dieses
+Trassenkorridors ist nur aus zwingenden Gründen durchzuführen. Sie ist
+insbesondere dann erforderlich, wenn die Leerrohre oder die Erdkabel
+einzeln oder im Zusammenwirken mit dem Vorhaben
+
+1.  nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wären oder
+
+
+2.  gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5
+    des Bundesnaturschutzgesetzes verstoßen würden.
+
+
+
+
+(3b) Bei Vorhaben, bei denen gemäß § 5a auf die Durchführung der
+Bundesfachplanung verzichtet wurde, ist Absatz 3a mit der Maßgabe
+anzuwenden, dass
+
+1.  das Vorhaben in oder unmittelbar neben der Bestandstrasse zu errichten
+    ist, soweit eine Bestandstrasse vorhanden ist, und
+
+
+2.  bei einem Vorhaben gemäß § 2 Absatz 7 Satz 2 oder Satz 3 des
+    Bundesbedarfsplangesetzes der für das weitere Vorhaben in den
+    Bundesnetzplan aufgenommene Trassenkorridor oder der durch
+    Landesplanungen oder nach Landesrecht bestimmte Leitungsverlauf für
+    Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung zu beachten ist.
+
+
+
+Ziele der Raumordnung, die den Abstand von Höchstspannungsleitungen zu
+Gebäuden oder überbaubaren Grundstücksflächen regeln, sind keine
+zwingenden Gründe im Sinne von Absatz 3a Satz 3. Absatz 4 Satz 3 bis 6
+ist insoweit nicht anzuwenden. Satz 1 Nummer 1 und die Sätze 2 und 3
+sind entsprechend anzuwenden, wenn bei einer beantragten Änderung oder
+Erweiterung einer Leitung, bei einem beantragten Ersatzneubau oder bei
+einem beantragten Parallelneubau nicht auf die Bundesfachplanung
+verzichtet wurde.
+
+(3c) Für Vorhaben, die im Bereich eines Präferenzraums nach § 3 Nummer
+10 realisiert werden sollen, sind die Trasse sowie die in Frage
+kommenden Alternativen auf der Grundlage des Präferenzraums zu
+ermitteln. Bei der Ermittlung der Trasse ist Absatz 3a Satz 2 bis 4
+entsprechend anzuwenden.
+
+(4) Bei der Planfeststellung sind die von dem Vorhaben berührten
+öffentlichen und privaten Belange im Rahmen der Abwägung nach Maßgabe
+des § 1 Absatz 2 zu berücksichtigen. § 43 Absatz 3c des
+Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Die
+Bindungswirkung der Ziele der Raumordnung gilt nur, wenn die
+Bundesnetzagentur bei der Aufstellung, Änderung oder Ergänzung des
+Raumordnungsplans nach § 9 des Raumordnungsgesetzes beteiligt worden
+ist und sie innerhalb einer Frist von zwei Monaten nach Mitteilung des
+rechtsverbindlichen Ziels nicht widersprochen hat. Der Widerspruch
+nach Satz 3 lässt die Bindungswirkung des Ziels der Raumordnung
+gegenüber der Bundesnetzagentur nicht entstehen, wenn das Ziel der
+Planfeststellung entgegensteht. Macht die Planfeststellung
+nachträglich ein Abweichen von den Zielen der Raumordnung
+erforderlich, kann die Bundesnetzagentur mit Zustimmung des
+Bundesministeriums für Wirtschaft und Energie innerhalb angemessener
+Frist, spätestens aber bis zum Abschluss der Planfeststellung, unter
+der Voraussetzung von Satz 4 nachträglich widersprechen. Muss infolge
+des nachträglichen Widerspruchs der Raumordnungsplan geändert, ergänzt
+oder aufgehoben werden, hat die Bundesnetzagentur die dadurch
+entstehenden Kosten zu ersetzen. § 6 des Raumordnungsgesetzes bleibt
+unberührt. Städtebauliche Belange sind zu berücksichtigen. § 38 Satz 1
+und 3 und § 7 Satz 6 des Baugesetzbuches sind entsprechend anzuwenden.
+
+(4a) Die Planfeststellungsbehörde ist zu einer detaillierten Prüfung
+von Alternativen nur verpflichtet, wenn es sich um
+Ausführungsvarianten handelt, die sich nach den in dem jeweiligen
+Stadium des Planungsprozesses angestellten Sachverhaltsermittlungen
+auf Grund einer überschlägigen Prüfung der insoweit
+abwägungsrelevanten Belange nach § 1 Absatz 2 und § 18 Absatz 4 als
+eindeutig vorzugswürdig erweisen könnten.
+
+(4b) (weggefallen)
+
+(5) Sofern dieses Gesetz keine abweichenden Regelungen enthält, sind
+für das Planfeststellungsverfahren und daran anknüpfende Verfahren die
+Bestimmungen in Teil 5 des Energiewirtschaftsgesetzes entsprechend
+anzuwenden.
 
 
 ### § 19 (weggefallen)
@@ -703,6 +1088,118 @@ die Unterlagen innerhalb einer angemessenen Frist zu ergänzen. Nach
 Abschluss der Vollständigkeitsprüfung hat die Planfeststellungsbehörde
 dem Vorhabenträger die Vollständigkeit der Unterlagen schriftlich zu
 bestätigen.
+
+
+### § 22 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002307123)
+
+(1) Innerhalb von zwei Wochen nach Vorlage der vollständigen
+Unterlagen nach § 21 beteiligt die Planfeststellungsbehörde die
+anderen Behörden und die Öffentlichkeit nach dem Gesetz über die
+Umweltverträglichkeitsprüfung nach Maßgabe dieses Paragrafen und
+übermittelt sie die Unterlagen schriftlich oder elektronisch an
+
+1.  die Träger öffentlicher Belange, die von dem beantragten Vorhaben
+    berührt sind, und
+
+
+2.  die Vereinigungen.
+
+
+
+Die Übermittlung der Unterlagen soll dadurch erfolgen, dass diese für
+die Empfänger nach Satz 1 auf der Internetseite der
+Planfeststellungsbehörde bereitgestellt werden.
+
+(2) Die Planfeststellungsbehörde fordert die Träger öffentlicher
+Belange, einschließlich der Raumordnungsbehörden der Länder, die von
+dem Vorhaben berührt sind, zur Stellungnahme innerhalb einer von ihr
+zu setzenden Frist auf, die drei Monate nicht überschreiten darf. Die
+Möglichkeit, Stellungnahmen nach Satz 1 abzugeben, erstreckt sich
+nicht auf die Gegenstände, welche die Bundesfachplanung betreffen und
+zu denen bereits in der Bundesfachplanung Stellung genommen werden
+konnte. Die Stellungnahmen können schriftlich oder elektronisch
+abgegeben werden. Nach Ablauf der Frist nach Satz 1 eingehende
+Stellungnahmen werden nicht mehr berücksichtigt, es sei denn, die
+vorgebrachten Belange sind für die Rechtmäßigkeit der Entscheidung von
+Bedeutung.
+
+(3) Innerhalb von zwei Wochen nach Versand der Bestätigung der
+Vollständigkeit der Unterlagen nach § 21 veranlasst die
+Planfeststellungsbehörde für die Dauer von einem Monat zum Zweck der
+Öffentlichkeitsbeteiligung die Auslegung der Unterlagen, indem sie die
+Unterlagen auf ihrer Internetseite veröffentlicht. Auf Verlangen eines
+Beteiligten, das während der Dauer der Veröffentlichung nach Satz 1 an
+die Bundesnetzagentur zu richten ist, wird ihm eine leicht zu
+erreichende Zugangsmöglichkeit zur Verfügung gestellt, dabei ist dies
+in der Regel die Übersendung eines gängigen elektronischen
+Speichermediums, auf dem die auszulegenden Unterlagen gespeichert
+sind. Die Auslegung ist auf der Internetseite der
+Planfeststellungsbehörde und in örtlichen Tageszeitungen, die in dem
+Gebiet verbreitet sind, auf das sich das Vorhaben voraussichtlich
+auswirken wird, bekannt zu machen. Die Bekanntmachung soll spätestens
+eine Woche vor Beginn der Auslegung erfolgen und muss folgende Angaben
+enthalten:
+
+1.  dem Planungsstand entsprechende Angaben über den Verlauf der Trassen
+    und den Vorhabenträger,
+
+
+2.  die Angabe, dass die Auslegung durch die Veröffentlichung auf der
+    Internetseite der Planfeststellungsbehörde erfolgt,
+
+
+3.  Hinweise auf die Einwendungsfrist unter Angabe des jeweils ersten und
+    letzten Tages und
+
+
+4.  den Hinweis, dass nach Satz 2 während der Auslegung nach Satz 1
+    zusätzlich die Möglichkeit besteht, ohne Auswirkung auf die
+    Einwendungsfrist eine leicht zu erreichende Zugangsmöglichkeit zur
+    Verfügung gestellt zu bekommen, in der Regel durch die Übersendung
+    eines gängigen elektronischen Speichermediums, auf dem die
+    auszulegenden Unterlagen gespeichert sind.
+
+
+
+
+(3a) Wenn der Vorhabenträger gegenüber der Planfeststellungsbehörde
+elektronisch oder schriftlich versichert, dass er in Kenntnis der
+hierfür maßgeblichen Rechtsvorschriften und des Umstandes, dass die
+Einreichung nicht vollständiger Unterlagen zur Wiederholung von
+Verfahrensschritten oder auch zur Ablehnung des Antrags führen kann,
+vollständige Unterlagen vorgelegt hat, wird das Anhörungsverfahren
+einschließlich der Öffentlichkeitsbeteiligung nach Maßgabe dieses
+Paragrafen durchgeführt, auch wenn die Planfeststellungsbehörde die
+Vollständigkeit der Unterlagen zu diesem Zeitpunkt noch nicht
+bestätigt hat.
+
+(4) Jede Person, deren Belange durch das Vorhaben berührt werden, kann
+innerhalb von einem Monat nach Ablauf der Auslegungsfrist nach Absatz
+3 Satz 1 schriftlich oder elektronisch bei der
+Planfeststellungsbehörde Einwendungen gegen den Plan erheben. Satz 1
+gilt entsprechend für Vereinigungen.
+
+(5) Die Bestimmungen des § 10 sind auf eine Erörterung im Sinne des §
+73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1
+Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung durch die
+Planfeststellungsbehörde entsprechend anzuwenden.
+
+(6) Anhörungsverfahren und Erörterungstermin können unterbleiben, wenn
+die Voraussetzungen des § 25 oder des § 24 Absatz 3 vorliegen.
+
+(7) Werden bereits ausgelegte Unterlagen geändert und wird dadurch
+eine erneute Beteiligung der Öffentlichkeit nach § 22 des Gesetzes
+über die Umweltverträglichkeitsprüfung oder nach § 73 Absatz 8 des
+Verwaltungsverfahrensgesetzes notwendig, sind die Absätze 1 bis 6 nach
+Maßgabe der Sätze 2 und 3 anzuwenden. Die Behördenbeteiligung ist
+abweichend von Absatz 2 auf diejenigen Träger öffentlicher Belange zu
+beschränken, die durch die Änderung in ihrem Aufgabenbereich berührt
+sind. Die Bekanntmachung der Auslegung erfolgt abweichend von Absatz 3
+Satz 3 in örtlichen Tageszeitungen, die in dem Gebiet verbreitet sind,
+auf das sich die Änderung bezieht, sowie auf der Internetseite der
+Planfeststellungsbehörde. Die Äußerungsfrist soll abweichend von
+Absatz 4 Satz 1 zwei Wochen betragen.
 
 
 ### § 23 Umweltverträglichkeitsprüfung
@@ -961,6 +1458,91 @@ den Planfeststellungsantrag nach § 24 Absatz 1 liegt allein bei der
 zuständigen Behörde.
 
 
+### § 30 Kostenpflichtige Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003105123)
+
+(1) Die Bundesnetzagentur erhebt für folgende Amtshandlungen nach
+diesem Gesetz kostendeckende Gebühren und Auslagen:
+
+1.  Feststellung der Raumverträglichkeit im vereinfachten Verfahren nach §
+    11 Absatz 2,
+
+
+2.  Entscheidung nach § 12 Absatz 2 Satz 1,
+
+
+3.  Planfeststellung nach § 24 Absatz 1,
+
+
+4.  Entscheidung nach § 25 Absatz 4 Satz 4,
+
+
+5.  Entscheidung nach § 5a Absatz 3 Satz 1,
+
+
+6.  Plangenehmigung nach § 24 Absatz 3,
+
+
+7.  Erlass einer Duldungsanordnung nach § 8 Satz 4 in Verbindung mit § 44
+    Absatz 2 Satz 2 des Energiewirtschaftsgesetzes oder § 18 Absatz 5 in
+    Verbindung mit § 44 Absatz 2 Satz 2 des Energiewirtschaftsgesetzes und
+
+
+8.  Ausweisung von Infrastrukturgebieten nach § 12j Absatz 1 Satz 1 des
+    Energiewirtschaftsgesetzes.
+
+
+
+Wird ein Antrag auf eine der in Satz 1 genannten Amtshandlungen nach
+Beginn der sachlichen Bearbeitung zurückgenommen, ist derjenige Teil
+der für die gesamte Amtshandlung vorgesehenen Gebühr zu erheben, der
+dem Fortschritt der Bearbeitung entspricht. Für einen Antrag, der aus
+anderen Gründen als der Unzuständigkeit der Behörde abgelehnt wird,
+ist die volle Gebühr zu erheben. Die Gebühr kann ermäßigt werden oder
+es kann von der Erhebung abgesehen werden, wenn dies der Billigkeit
+entspricht.
+
+(2) Die Höhe der Gebühr richtet sich nach der Länge der zu planenden
+Trasse. Bei der Durchführung der Bundesfachplanung und der Ausweisung
+von Infrastrukturgebieten ist die nach der Luftlinie bemessene
+geographische Entfernung der durch eine Trasse zu verbindenden Orte
+maßgeblich. Die Gebühr für Amtshandlungen nach Absatz 1 Satz 1 Nummer
+2 beträgt 30 000 Euro je angefangenen Kilometer. Für die Durchführung
+der Planfeststellung richtet sich die Gebühr nach der mittleren Länge
+des im Rahmen der Bundesfachplanung festgelegten Korridors. Für
+Amtshandlungen nach Absatz 1 Satz 1 Nummer 3 beträgt die Gebühr 50 000
+Euro je angefangenen Kilometer. Bei Entscheidungen nach Absatz 1 Satz
+1 Nummer 1, 4 und 6 beträgt die Gebühr jeweils 10 000 Euro je
+angefangenen Kilometer. Bei Entscheidungen nach Absatz 1 Satz 1 Nummer
+5 beträgt die Gebühr 5 000 Euro je angefangenen Kilometer. Die Gebühr
+für Amtshandlungen nach Absatz 1 Nummer 8 beträgt 20 000 Euro je
+angefangenen Kilometer.
+
+(3) Die Gebühren für Amtshandlungen nach Absatz 1 Nummer 2 und 3
+werden in mehreren Teilbeträgen erhoben. Von der Gebühr für die
+Amtshandlung nach Absatz 1 Nummer 2 sind ein Drittel innerhalb eines
+Monats ab Antragstellung zu entrichten, ein zweites Drittel innerhalb
+eines Jahres ab Antragstellung und das letzte Drittel mit Abschluss
+des Verfahrens. Von der Gebühr für die Amtshandlung nach Absatz 1
+Nummer 3 sind ein Fünftel innerhalb eines Monats ab Antragstellung,
+das zweite, dritte und vierte Fünftel jeweils ein halbes Jahr später,
+spätestens jedoch zugleich mit dem fünften Fünftel bei Abschluss des
+Verfahrens zu entrichten.
+
+(3a) Für den Erlass einer Duldungsanordnung nach Absatz 1 Satz 1
+Nummer 7 wird eine Gebühr in Höhe von 1 000 Euro erhoben.
+Kostenschuldner ist der Antragsteller nach § 44 Absatz 2 Satz 2 des
+Energiewirtschaftsgesetzes. In den Fällen, in denen sich der nach § 44
+Absatz 1 des Energiewirtschaftsgesetzes Verpflichtete vor Erlass der
+Duldungsanordnung geweigert hat, Vorarbeiten zu dulden, ist er
+abweichend von Satz 2 Kostenschuldner. Satz 3 ist nicht in den Fällen
+anzuwenden, in denen die Duldungsanordnung als Allgemeinverfügung
+erlassen worden ist.
+
+(4) Die Gebühren für Amtshandlungen zuständiger Landesbehörden richten
+sich nach den Verwaltungskostengesetzen der Länder.
+
+
 ### § 30a Geheimhaltung und Datenschutz, Barrierefreiheit
 [Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE004100377)
 
@@ -1013,6 +1595,44 @@ Absatz 2 des Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
 ## Abschnitt 5 - Behörden und Gremien
 [Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000500000)
+
+
+### § 31 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003206123)
+
+(1) Die Aufgaben nach diesem Gesetz nehmen die Bundesnetzagentur für
+Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
+(Bundesnetzagentur) und nach Maßgabe des Absatzes 2 die zuständigen
+Landesbehörden wahr.
+
+(2) Den nach Landesrecht zuständigen Behörden obliegt die Durchführung
+des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens
+nach den Regelungen des Abschnitts 3 für alle Vorhaben im
+Anwendungsbereich dieses Gesetzes, die nicht durch die
+Rechtsverordnung nach § 2 Absatz 2 auf die Bundesnetzagentur
+übertragen worden sind, und die Aufgaben nach § 27.
+
+(3) Die Bundesnetzagentur ist verpflichtet, dem Bundesministerium für
+Wirtschaft und Energie sowie dem Bundesministerium für Umwelt,
+Klimaschutz, Naturschutz und nukleare Sicherheit regelmäßig in nicht
+personenbezogener Form über den Verfahrensstand zur Bundesfachplanung
+und zur Planfeststellung zu berichten.
+
+(4) Soweit für die Bundesfachplanung und die Planfeststellung
+Geodaten, die bei einer Behörde oder einem Dritten zur Erfüllung
+öffentlicher Aufgaben vorhanden sind, benötigt werden, sind diese
+Daten auf Verlangen dem Vorhabenträger, den von ihm Beauftragten, der
+Bundesnetzagentur und den zuständigen Planfeststellungsbehörden der
+Länder für die Zwecke der Bundesfachplanung und der Planfeststellung
+zur Verfügung zu stellen. Der Betreiber von Einheiten Kritischer
+Infrastrukturen im Sinne von § 2 Absatz 6 der Verordnung zur
+Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz kann die
+Herausgabe von Geodaten verweigern, wenn diese Daten besonders
+schutzbedürftig sind. Der Betreiber kann in diesem Fall die Geodaten
+über ein geeignetes Verfahren zur Verfügung stellen, wenn ihm die
+Datenhoheit über seine Geodaten garantiert wird. Die §§ 8 und 9 des
+Umweltinformationsgesetzes und entsprechende Regelungen des
+Landesrechts bleiben unberührt.
 
 
 ### § 32 Bundesfachplanungsbeirat
@@ -1089,4 +1709,71 @@ Durchsetzung einer Anordnung nach § 8 Satz 4 oder § 18 Absatz 5 in
 Verbindung mit § 44 Absatz 2 Satz 2 des Energiewirtschaftsgesetzes
 auch gegenüber Behörden und juristischen Personen des öffentlichen
 Rechts festsetzen.
+
+
+### § 35 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003606123)
+
+(1) Bestehende Entscheidungen über die Bundesfachplanung,
+Genehmigungen und Planfeststellungsbeschlüsse sowie weitere bestehende
+Entscheidungen bleiben unberührt. Der Vorhabenträger kann bei
+Bundesfachplanungsverfahren, die vor dem 17. Mai 2019 beantragt
+wurden, bis zum 31. August 2019 einen Antrag auf den Verzicht auf die
+Bundesfachplanung nach § 5a Absatz 3 stellen. Wird ein solcher Antrag
+nicht gestellt, wird ein Bundesfachplanungsverfahren durchgeführt,
+auch wenn ein Fall des § 5a Absatz 1 oder Absatz 2 vorliegt. Wenn in
+einem Vorhaben bereits die Bundesfachplanung für einen Abschnitt
+abgeschlossen wurde, ist das Bundesfachplanungsverfahren auch in den
+anderen Abschnitten zu Ende zu führen. Die Frist nach § 6 Satz 2
+beginnt am 17. Mai 2019.
+
+(2) Bei Planfeststellungsverfahren, bei denen die Planunterlagen gemäß
+§ 21 vor dem 29. Juli 2022 eingereicht wurden, ist § 18 Absatz 3b
+nicht anzuwenden. Bei Planfeststellungsverfahren, bei denen die
+Planunterlagen gemäß § 21 nach Ablauf des 28. Juli 2022 eingereicht
+werden, kann der Träger des Vorhabens einen Antrag auf Nichtanwendung
+von § 18 Absatz 3b stellen. Der Antrag muss bis zum Ablauf des 29.
+Februar 2024 gestellt sein, andernfalls ist § 18 Absatz 3b im
+Planfeststellungsverfahren anzuwenden.
+
+(3) Der Träger des Vorhabens kann einen Antrag auf Nichtanwendung von
+§ 5 Absatz 2a stellen. Der Antrag muss bis zum Ablauf des 29. Februar
+2024 gestellt sein, andernfalls ist § 5 Absatz 2a in der
+Bundesfachplanung anzuwenden. In einem Antrag auf Nichtanwendung des §
+5 Absatz 2a ist zugleich ein Antrag auf Nichtanwendung des § 18 Absatz
+3b zu sehen, mit der Folge, dass im Planfeststellungsverfahren § 18
+Absatz 3b nicht anzuwenden ist.
+
+(4) Der Träger des Vorhabens kann einen gesamthaften Antrag auf
+Nichtanwendung von § 1 Absatz 2 Satz 2 und 3 sowie § 18 Absatz 4 Satz
+2 und Absatz 4a stellen. Der Antrag muss bis zum Ablauf des 29.
+Februar 2024 gestellt sein, andernfalls sind § 1 Absatz 2 Satz 2 und 3
+und § 18 Absatz 4 Satz 2 und Absatz 4a im Planfeststellungsverfahren
+anzuwenden.
+
+(5) Der Träger des Vorhabens kann einen Antrag auf Anwendung von § 5
+Absatz 5 in seiner bis zum Ablauf des 29. Dezember 2023 geltenden
+Fassung stellen. Der Antrag muss bis zum Ablauf des 29. Februar 2024
+gestellt sein, andernfalls ist § 5 Absatz 5 in seiner ab dem 29.
+Dezember 2023 geltenden Fassung in der Bundesfachplanung anzuwenden.
+In einem Antrag auf Anwendung von § 5 Absatz 5 in seiner bis zum
+Ablauf des 29. Dezember 2023 geltenden Fassung ist zugleich ein Antrag
+auf Nichtanwendung des § 18 Absatz 4 Satz 2 zu sehen, mit der Folge,
+dass im Planfeststellungsverfahren § 18 Absatz 4 Satz 2 nicht
+anzuwenden ist.
+
+(6) Bei Planfeststellungsverfahren, die bis zum Ablauf des 30. Juni
+2025 begonnen werden, kann der Vorhabenträger verlangen, das Verfahren
+nach den §§ 19 bis 21 in der bis zum 29. Dezember 2023 geltenden
+Fassung zu führen. Im Fall eines solchen Verlangens ist auch § 33
+Absatz 1 Nummer 3 in der bis zum Ablauf des 29. Dezember 2023
+geltenden Fassung anzuwenden.
+
+
+### § 36 Vorlage- und Auskunftspflicht der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE004003123)
+
+§ 99 der Verwaltungsgerichtsordnung ist mit der Maßgabe anzuwenden,
+dass an die Stelle der obersten Aufsichtsbehörde die Bundesnetzagentur
+tritt.
 

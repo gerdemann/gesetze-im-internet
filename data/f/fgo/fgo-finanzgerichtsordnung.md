@@ -976,6 +976,167 @@ soweit sie die Befähigung zum Richteramt besitzen und soweit der
 Vorsitzende ihre Anwesenheit gestattet.
 
 
+#### § 52a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021210131)
+
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Beteiligten sowie
+schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
+Übersetzungen, Anträge und Erklärungen Dritter können nach Maßgabe der
+Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht
+werden.
+
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+durch das Gericht sowie das Nähere zur Verarbeitung von Daten der
+Postfachinhaber nach Absatz 4 Satz 1 Nummer 3 und 4 in einem sicheren
+elektronischen Verzeichnis.
+
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
+die vorbereitenden Schriftsätzen beigefügt sind. Soll ein schriftlich
+einzureichender Antrag oder eine schriftlich einzureichende Erklärung
+eines Beteiligten oder eines Dritten als elektronisches Dokument
+eingereicht werden, so kann der unterschriebene Antrag oder die
+unterschriebene Erklärung in ein elektronisches Dokument übertragen
+und durch den Bevollmächtigten, den Vertreter oder den Beistand nach
+Satz 1 übermittelt werden.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung oder einem entsprechenden, auf gesetzlicher
+    Grundlage errichteten elektronischen Postfach und der elektronischen
+    Poststelle des Gerichts,
+
+
+2.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des Gerichts,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Gerichts,
+
+
+5.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 2 bis 4
+regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen. Die Vorschriften dieses Gesetzes über die
+Beifügung von Abschriften für die übrigen Beteiligten finden keine
+Anwendung.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt
+als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der
+Absender es unverzüglich in einer für das Gericht zur Bearbeitung
+geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst
+eingereichten Dokument inhaltlich übereinstimmt.
+
+(7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
+den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt
+dieser Form die Aufzeichnung als elektronisches Dokument, wenn die
+verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen
+und das Dokument mit einer qualifizierten elektronischen Signatur
+versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches
+Dokument, in welches das handschriftlich unterzeichnete Schriftstück
+gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
+
+
+#### § 52b
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021308131)
+
+(1) Die Prozessakten werden elektronisch geführt. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung die organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen für die Bildung, Führung
+und Aufbewahrung der elektronischen Akten einschließlich der
+einzuhaltenden Anforderungen der Barrierefreiheit. Die
+Landesregierungen können die Ermächtigung nach Satz 2 auf die für die
+Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
+Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung
+des Bundesrates.
+
+(2) Akten, die in Papierform angelegt wurden, können in Papierform
+weitergeführt werden. Sie können ab einem bestimmten Stichtag oder
+Ereignis in elektronischer Form weitergeführt werden. Der Beginn der
+Weiterführung der Akten in elektronischer Form ist aktenkundig zu
+machen. Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
+dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
+unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
+unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern;
+der Speicherort ist aktenkundig zu machen.
+
+(3) Ist das elektronische Dokument auf einem sicheren Übermittlungsweg
+eingereicht, so ist dies aktenkundig zu machen.
+
+(4) Wird das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist.
+
+
+
+
+(5) Ein eingereichtes elektronisches Dokument kann im Falle von Absatz
+2 nach Ablauf von sechs Monaten gelöscht werden.
+
+(6) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
+
+(7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards bestimmen.
+
+
 #### § 52c Formulare; Verordnungsermächtigung
 [Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021402125)
 
@@ -991,6 +1152,26 @@ Formularverwenders abweichend von § 52a Absatz 3 auch durch Nutzung
 des elektronischen Identitätsnachweises nach § 18 des
 Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 5 des Aufenthaltsgesetzes erfolgen kann.
+
+
+#### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021504131)
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
+einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
+elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
+diesem Gesetz vertretungsberechtigten Personen und Bevollmächtigten,
+für die ein sicherer Übermittlungsweg nach § 52a Absatz 4 Satz 1
+Nummer 1 oder 3 zur Verfügung steht; ausgenommen sind nach § 62 Absatz
+2 Satz 2 Nummer 1 Halbsatz 1 oder Nummer 2 vertretungsbefugte
+Personen. Ist eine Übermittlung aus technischen Gründen vorübergehend
+nicht möglich, bleibt die Übermittlung nach den allgemeinen
+Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
+Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
+Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 #### § 53

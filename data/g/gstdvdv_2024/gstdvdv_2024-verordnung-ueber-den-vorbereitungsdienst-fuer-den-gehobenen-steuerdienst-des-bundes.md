@@ -41,6 +41,28 @@ verordnet das Bundesministerium der Finanzen:
 [Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNG000100000)
 
 
+### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000201311)
+
+(1) Die Ausbildung nach dieser Verordnung ist der Vorbereitungsdienst
+für den gehobenen Steuerdienst des Bundes.
+
+(2) Der Vorbereitungsdienst dauert drei Jahre. Er gliedert sich in
+Fachstudien und berufspraktische Studienzeiten.
+
+(3) Über eine Verlängerung oder Verkürzung des Vorbereitungsdienstes
+nach § 18 oder § 19 der Bundeslaufbahnverordnung entscheidet das
+Bundeszentralamt für Steuern im Benehmen mit der zuständigen
+Landesfinanzbehörde. Die Verlängerung des Vorbereitungsdienstes kann
+darauf ausgerichtet werden, dass die Anwärterin oder der Anwärter
+zusammen mit den später eingestellten Anwärterinnen und Anwärtern die
+Ausbildung fortsetzen und die Laufbahnprüfung ablegen kann. Im Falle
+der Wiederholung der Laufbahnprüfung kann das Bundeszentralamt für
+Steuern die Verlängerung des Vorbereitungsdienstes davon abhängig
+machen, ob die Anwärterin oder der Anwärter bei der vorherigen
+Laufbahnprüfung eine Mindestgesamtpunktzahl erreicht hat.
+
+
 ### § 2 Dienstbehörde, Dienstaufsicht
 [Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000300000)
 

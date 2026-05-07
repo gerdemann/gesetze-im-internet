@@ -34,6 +34,52 @@ verordnet das Bundesministerium der Verteidigung:
 [Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000100000)
 
 
+### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000301311)
+
+(1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
+Verwendung im Verwendungsbereich Wehrtechnik des gehobenen technischen
+Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und
+wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
+
+(2) Die Anwärterinnen und Anwärter werden mit der Wehrtechnik und dem
+technischen Projektmanagement vertraut gemacht. Sie lernen, ihr
+Hochschulwissen entsprechend den wehrtechnischen und wirtschaftlichen
+Erfordernissen anzuwenden. Darüber hinaus werden sie mit den
+einschlägigen rechtlichen Grundlagen vertraut gemacht. Ihr Verständnis
+für technische, wirtschaftliche und administrative Zusammenhänge wird
+gefördert. Allgemeine berufliche Fähigkeiten, insbesondere zur
+Kommunikation und Teamarbeit, zum kritischen Überprüfen des eigenen
+Handelns und zum selbständigen und wirtschaftlichen Handeln, sowie die
+soziale Kompetenz sind zu fördern.
+
+(3) Der Schwerpunkt der Ausbildung ist auf eines der folgenden
+Fachgebiete auszurichten:
+
+1.  Kraftfahr- und Gerätewesen,
+
+
+2.  Luft- und Raumfahrtwesen,
+
+
+3.  Schiffbau und Schiffsmaschinenbau,
+
+
+4.  Informationstechnik und Elektronik,
+
+
+5.  Elektrotechnik und Elektroenergiewesen oder
+
+
+6.  Systembewaffnung und Effektoren.
+
+
+
+
+(4) Die Anwärterinnen und Anwärter sind zum Selbststudium
+verpflichtet; das Selbststudium ist zu fördern.
+
+
 ### § 2 Arten des Vorbereitungsdienstes
 [Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000400000)
 
@@ -125,6 +171,32 @@ Auswahl und Einstellung zuständig ist, auf eine nachgeordnete Behörde
 Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das
 Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
 Bundeswehr.
+
+
+### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000902311)
+
+(1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
+Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
+Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber
+aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
+für den Vorbereitungsdienst geeignet und befähigt sind.
+
+(2) Wird nach § 11 Absatz 4 der Bundeslaufbahnverordnung die Zahl der
+am Auswahlverfahren Teilnehmenden beschränkt, so werden
+schwerbehinderte Menschen und gleichgestellte behinderte Menschen
+sowie frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit mit
+Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung
+zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung
+genannten Voraussetzungen erfüllen.
+
+(3) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine
+schriftliche oder elektronische Ablehnung. Elektronisch eingereichte
+Bewerbungsunterlagen werden spätestens sechs Monate nach der Ablehnung
+endgültig gelöscht. Nicht elektronisch eingereichte
+Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter
+Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist
+vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
 
 ### § 8 Anforderungen im Auswahlverfahren
@@ -370,8 +442,106 @@ geführt, wenn nicht in der Person der anderen Bewerberin oder des
 anderen Bewerbers liegende Gründe überwiegen.
 
 
+### § 9h Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004901311)
+
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich
+Wehrtechnik kann eingestellt werden, wer
+
+1.  bei einem Vorbereitungsdienst
+
+    a)  nach § 2 Nummer 1 einen Bachelor- oder einen gleichwertigen Abschluss
+        in einem Studienfach besitzt, das einem der Fachgebiete nach § 1
+        Absatz 3 zugeordnet werden kann, oder
+
+
+    b)  nach § 2 Nummer 2
+
+        aa) die Zugangsberechtigung für eine mit der Einstellungsbehörde
+            kooperierende Hochschule nachweist und
+
+
+        bb) ein Vorpraktikum absolviert hat, das in der Studien- und
+            Prüfungsordnung der mit der Einstellungsbehörde kooperierenden
+            Hochschule vorgeschrieben ist,
+
+
+
+
+
+
+
+
+2.  das Auswahlverfahren bestanden hat und
+
+
+3.  die gesundheitlichen Anforderungen des gehobenen technischen
+    Verwaltungsdienstes im Verwendungsbereich Wehrtechnik erfüllt.
+
+
+
+
+(2) Ob jemand die gesundheitlichen Anforderungen erfüllt, wird durch
+eine ärztliche Untersuchung der Einstellungsbehörde festgestellt.
+Alternativ kann die Einstellungsbehörde ein amtsärztliches Gutachten
+anfordern. Sie trägt die hierfür entstehenden Kosten.
+
+(3) Über die Einstellung der Bewerberinnen und Bewerber entscheidet
+die Einstellungsbehörde auf der Grundlage der Rangfolge nach dem
+Auswahlverfahren.
+
+(4) Im Falle der Ablehnung gilt § 7 Absatz 3 entsprechend.
+
+
 ## Kapitel 3 - Berufspraktische Studienzeit
 [Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000300000)
+
+
+### § 10 Gliederung der berufspraktischen Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001202311)
+
+(1) Der Vorbereitungsdienst nach § 2 Nummer 1 gliedert sich in
+Praktika und Lehrveranstaltungen. Im Einzelnen sind folgende
+Ausbildungsabschnitte vorzusehen:
+
+1.  Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“,
+
+
+2.  Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich
+    Wehrtechnik des gehobenen technischen Verwaltungsdienstes,
+
+
+3.  Lehrgang „Allgemeine Wehrtechnik“,
+
+
+4.  Lehrgang „Wirtschaftlichkeit im Projektmanagement“,
+
+
+5.  Lehrgang „Technisches Projektmanagement“,
+
+
+6.  Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“,
+
+
+7.  Lehrgang „Rechtsgrundlagen in der Praxis“ und
+
+
+8.  praktische Ausbildung.
+
+
+
+
+(2) Die Lehrgänge nach Absatz 1 werden am Bildungszentrum der
+Bundeswehr durchgeführt. Sie vermitteln Spezialkenntnisse, die für die
+Laufbahn des gehobenen technischen Verwaltungsdienstes erforderlich
+sind und über die im Studium vermittelten Kenntnisse hinausgehen. Die
+Lehrgänge können auch an einer mit der Einstellungsbehörde
+kooperierenden Hochschuleinrichtung durchgeführt werden.
+
+(3) Die Reihenfolge und die Dauer der einzelnen Ausbildungsabschnitte
+ergeben sich aus dem Ausbildungsplan nach § 17 Absatz 2 Satz 3. Die
+Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
 
 ### § 11 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
@@ -401,6 +571,16 @@ ein Überblick vermittelt über
 Zudem wird ihnen ihr Arbeitsumfeld in der Bundeswehr mit den
 zugehörigen Organisationsbereichen und Arbeitsabläufen vorgestellt.
 Einzelheiten regelt der Lehrplan.
+
+
+### § 12 Vorstellung der Verwendungsmöglichkeiten im Verwendungsbereich Wehrtechnik des gehobenen technischen Verwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001401311)
+
+Die Anwärterinnen und Anwärter werden bei Dienststellen des
+Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung
+eingeführt. Der Ausbildungsabschnitt zeigt die zukünftigen
+Einsatzmöglichkeiten im Rüstungsbereich auf. Einzelheiten regelt der
+Ausbildungsplan.
 
 
 ### § 13 Lehrgänge „Allgemeine Wehrtechnik“, „Wirtschaftlichkeit im Projektmanagement“ und „Technisches Projektmanagement“
@@ -728,6 +908,44 @@ einheitliche Bewertungsmaßstäbe beachtet werden.
 beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet
 mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder
 des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
+
+
+### § 24 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002601311)
+
+(1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
+Anwärter für den gehobenen technischen Verwaltungsdienst der
+Bundeswehr befähigt sind.
+
+(2) Die Laufbahnprüfung besteht aus zwei schriftlichen
+Aufsichtsarbeiten, einer Praxisarbeit und einer mündlichen Prüfung.
+Sie ist bestanden, wenn in allen Prüfungsteilen mindestens fünf
+Rangpunkte erreicht worden sind.
+
+(3) Beim Vorbereitungsdienst nach § 2 Nummer 2 umfasst die
+Laufbahnprüfung zusätzlich zu den Prüfungsteilen nach Absatz 2 noch
+den Erwerb der erforderlichen Gesamtzahl von Credit Points und die
+Prüfungen, die die Studien- und Prüfungsordnung der kooperierenden
+Hochschuleinrichtung vorschreibt. Die Laufbahnprüfung ist bestanden,
+wenn die erforderlichen Credit Points erreicht worden sind und die
+Prüfungen nach Satz 1 bestanden sind.
+
+(4) Die Prüfung nach Absatz 2 ist nichtöffentlich. Angehörige des
+Prüfungsamtes können teilnehmen. Das Prüfungsamt kann gestatten, dass
+andere mit der Ausbildung von Anwärterinnen und Anwärtern für den
+gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung
+befasste Personen während der mündlichen Prüfung anwesend sind. Auf
+Wunsch von schwerbehinderten und diesen gleichgestellten behinderten
+Anwärterinnen und Anwärtern kann während ihrer mündlichen Prüfung die
+Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die
+Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der
+Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des
+Prüfungsamtes bleiben hiervon unberührt.
+
+(5) Die kooperierenden Hochschuleinrichtungen regeln durch eigene
+Studien- und Prüfungsordnungen die Einzelheiten über Zeitpunkt, Dauer,
+Inhalt, Ablauf und Bewertung der Prüfungen und der Bachelorarbeit und
+führen diese in eigener Zuständigkeit durch.
 
 
 ### § 25 Prüfungsort, Prüfungstermin
@@ -1244,6 +1462,25 @@ Prüfungsordnung.
 
 ## Kapitel 6 - Aufstieg
 [Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000600000)
+
+
+### § 37 Aufstiegsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003903311)
+
+(1) Die Einstellungsbehörde gibt in einer Ausschreibung die
+Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
+für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
+Teilnahme an einer fachspezifischen Qualifizierung nach § 46 der
+Bundeslaufbahnverordnung und für die Teilnahme an
+Hochschulausbildungen nach § 47 der Bundeslaufbahnverordnung
+durchgeführt werden. Auf die Durchführung des an einem zentralen
+Lehrinstitut stattfindenden Auswahlverfahrens ist sind die §§ 7 bis 9g
+entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet
+die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
+Auswahlverfahrens zu berücksichtigen.
+
+(2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
+nach § 48 Absatz 1 der Bundeslaufbahnverordnung.
 
 
 ## Kapitel 7 - Sonstige Vorschriften

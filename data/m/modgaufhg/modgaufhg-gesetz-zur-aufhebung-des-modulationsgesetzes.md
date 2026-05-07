@@ -1,0 +1,32 @@
+---
+Title: Gesetz zur Aufhebung des Modulationsgesetzes
+jurabk: ModGAufhG
+layout: default
+origslug: BJNR177400004
+slug: modgaufhg
+
+---
+
+# Gesetz zur Aufhebung des Modulationsgesetzes (ModGAufhG)
+
+Ausfertigungsdatum
+:   2004-07-21
+
+Fundstelle
+:   BGBl I: 2004, 1763, 1774
+
+
+
+## § 1
+[Direktlink](https://www.gesetze-im-internet.de/modgaufhg/BJNR177400004.html#BJNR177400004BJNE000100000)
+
+-
+
+
+## § 2
+[Direktlink](https://www.gesetze-im-internet.de/modgaufhg/BJNR177400004.html#BJNR177400004BJNE000200000)
+
+Für Direktzahlungen, die für die Kalenderjahre 2003 und 2004 gewährt
+worden sind oder gewährt werden, ist das in § 1 genannte Gesetz weiter
+anzuwenden.
+

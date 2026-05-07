@@ -82,6 +82,39 @@ Aufenthalt
 
 
 
+#### § 2 Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE001912311)
+
+(1) Die nachfolgenden Vorschriften gelten nach Maßgabe der folgenden
+Absätze.
+
+(2) Die §§ 3 bis 52 gelten im Spannungs- oder Verteidigungsfall.
+
+(3) Außerhalb des Spannungs- oder Verteidigungsfalls gelten die §§ 3,
+8a bis 20b, 25, 32 bis 35, 44 und 45.
+
+(4) Die §§ 15a und 16 sind nur auf Betroffene anzuwenden, die nach dem
+31\. Dezember 2007 geboren sind. Satz 1 gilt nicht im Spannungs- oder
+Verteidigungsfall.
+
+
+#### § 2a Anordnung der Bedarfswehrpflicht durch Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE011500311)
+
+Der Bundestag entscheidet durch Gesetz über die Einsetzung einer
+Bedarfswehrpflicht, insbesondere, wenn die verteidigungspolitische
+Lage oder die Personallage der Streitkräfte dies erforderlich macht.
+Dabei soll sich die Einberufung unter Beachtung der
+wehrpflichtrechtlichen Voraussetzungen und dem Nichtvorliegen von
+Wehrdienstausnahmen gemäß den §§ 9 bis 13b am Bedarf der Streitkräfte
+orientieren. Übersteigt die Zahl der für den Grundwehrdienst zur
+Verfügung stehenden geeigneten Wehrpflichtigen den Bedarf, kann für
+die Auswahl der einzuberufenden Wehrpflichtigen ein Zufallsverfahren
+vorgesehen werden, wenn alle anderen Maßnahmen ausgeschöpft sind. Die
+Ausgestaltung dieses Verfahrens bleibt einer weiteren gesetzlichen
+Regelung vorbehalten.
+
+
 #### § 3 Inhalt und Dauer der Wehrpflicht
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002117377)
 
@@ -125,6 +158,192 @@ vollendet.
 ### Unterabschnitt 2 - Wehrdienst
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000308310)
 
+
+
+#### § 4 Arten des Wehrdienstes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002215311)
+
+(1) Der nach Maßgabe dieses Gesetzes zu leistende Wehrdienst umfasst
+
+1.  den Grundwehrdienst (§ 5),
+
+
+2.  die Wehrübungen (§ 6),
+
+
+3.  die freiwillige Verlängerung des Grundwehrdienstes (§ 6a) und
+
+
+4.  den unbefristeten Wehrdienst im Spannungs- oder Verteidigungsfall.
+
+
+
+
+(2) (weggefallen)
+
+(3) Der Wehrdienst kann auch freiwillig geleistet werden. Wer auf
+Grund freiwilliger Verpflichtung einen Wehrdienst nach Absatz 1
+leistet, hat die Rechtsstellung eines Soldaten, der auf Grund der
+Wehrpflicht Wehrdienst leistet.
+
+
+#### § 5 Grundwehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002421311)
+
+(1) Grundwehrdienst leisten Wehrpflichtige, die zu dem für den
+Diensteintritt festgesetzten Zeitpunkt das 23. Lebensjahr noch nicht
+vollendet haben.Abweichend hiervon leisten Grundwehrdienst
+Wehrpflichtige, die zu dem für den Diensteintritt festgesetzten
+Zeitpunkt
+
+1.  das 25. Lebensjahr noch nicht vollendet haben, wenn sie
+
+    a)  wegen einer Zurückstellung nach § 12 nicht vor Vollendung des 23.
+        Lebensjahres zum Grundwehrdienst herangezogen werden konnten und der
+        Zurückstellungsgrund entfallen ist,
+
+
+    b)  wegen eines ungenehmigten Auslandsaufenthalts (§ 3 Absatz 2) nicht bis
+        zur Vollendung des 23. Lebensjahres zum Grundwehrdienst herangezogen
+        werden konnten,
+
+
+    c)  nach § 29 Absatz 6 Satz 1 als aus dem Grundwehrdienst entlassen gelten
+        und nach Absatz 3 Satz 1 eine Nachdienverpflichtung zu erfüllen haben,
+
+
+    d)  nach Vollendung des 22. Lebensjahres auf ihre Anerkennung als
+        Kriegsdienstverweigerer verzichten, es sei denn, dass sie im Zeitpunkt
+        des Verzichts wegen Überschreitens der bis zu diesem Zeitpunkt
+        maßgeblichen Altersgrenze nicht mehr zum Zivildienst einberufbar sind
+        und sich nicht im Zivildienst befinden oder
+
+
+    e)  wegen Aussetzung der Vollziehung des Einberufungsbescheides oder der
+        Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Klage
+        nicht vor Vollendung des 23. Lebensjahres zum Grundwehrdienst
+        herangezogen werden konnten;
+
+
+
+
+
+2.  das 32. Lebensjahr noch nicht vollendet haben, wenn sie wegen ihrer
+    beruflichen Ausbildung während des Grundwehrdienstes vorwiegend
+    militärfachlich verwendet werden;
+
+
+3.  das 28. Lebensjahr noch nicht vollendet haben, wenn sie wegen einer
+    Verpflichtung zur Leistung eines Dienstes als Helfer im Zivilschutz
+    oder Katastrophenschutz (§ 13a) oder wegen einer Verpflichtung zur
+    Leistung eines Entwicklungsdienstes (§ 13b) nicht vor Vollendung des
+    23\. Lebensjahres zum Grundwehrdienst herangezogen worden sind.
+
+
+
+Bei Wehrpflichtigen, die wegen eines Anerkennungsverfahrens nach den
+Vorschriften des Kriegsdienstverweigerungsgesetzes nicht mehr vor
+Vollendung des 23. Lebensjahres oder vor Eintritt einer bis dahin
+bestehen gebliebenen Wehrdienstausnahme zum Grundwehrdienst einberufen
+werden konnten, verlängert sich der Zeitraum, innerhalb dessen
+Grundwehrdienst zu leisten ist, um die Dauer des
+Anerkennungsverfahrens, nicht jedoch über die Vollendung des 25.
+Lebensjahres hinaus.
+
+(2) Der Grundwehrdienst dauert sechs Monate und wird zusammenhängend
+geleistet. Einem Antrag auf vorzeitige Heranziehung kann nach
+Vollendung des 17. Lebensjahres und soll nach Vollendung des 18.
+Lebensjahres entsprochen werden. Der Antrag Minderjähriger bedarf der
+Zustimmung des gesetzlichen Vertreters.
+
+(3) Tage, an denen ein Wehrpflichtiger während des Grundwehrdienstes
+infolge
+
+1.  schuldhafter Abwesenheit von der Truppe oder Dienststelle,
+
+
+2.  schuldhafter Dienstverweigerung,
+
+
+3.  Aussetzung der Vollziehung des Einberufungsbescheides,
+
+
+4.  Verbüßung von Freiheitsstrafe, Strafarrest, Jugendstrafe,
+    Jugendarrest, Disziplinararrest, strengem Disziplinararrest oder
+
+
+5.  Untersuchungshaft, der eine rechtskräftige Verurteilung gefolgt ist,
+
+
+
+keinen Dienst geleistet hat, sind nachzudienen. Tage, an denen der
+Soldat während der Verbüßung von Disziplinararrest oder strengem
+Disziplinararrest zu dienstlichen Aufgaben außerhalb der
+Vollzugseinrichtung herangezogen wird, sind nicht nachzudienen. Dies
+gilt auch, wenn der Soldat Freiheitsstrafe, Strafarrest oder
+Jugendarrest in einer Vollzugseinrichtung der Bundeswehr verbüßt oder
+wenn er aus Gründen, die nicht in seiner Person liegen, während des
+Vollzuges bei der Bundeswehr nicht zu dienstlichen Aufgaben außerhalb
+der Vollzugseinrichtung herangezogen wird.
+
+
+#### § 6 Wehrübungen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002614311)
+
+(1) Eine Wehrübung dauert grundsätzlich höchstens drei Monate. Über
+Ausnahmen entscheidet das Bundesministerium der Verteidigung.
+
+(2) Die Gesamtdauer der verpflichtenden Wehrübungen beträgt bei
+Mannschaften höchstens sechs, bei Unteroffizieren höchstens neun und
+bei Offizieren höchstens zwölf Monate.
+
+(3) Die Gesamtdauer der Wehrübungen verlängert sich bei
+Wehrpflichtigen, die aus dem Grundwehrdienst vorzeitig entlassen
+wurden, um die Zeit, um die sie vorzeitig entlassen worden sind,
+soweit sie nicht für diese Zeit erneut zum Grundwehrdienst einberufen
+werden.
+
+(4) (weggefallen)
+
+(5) (weggefallen)
+
+(6) Für Wehrübungen, die als Bereitschaftsdienst von der
+Bundesregierung angeordnet worden sind, gilt die zeitliche Begrenzung
+des Absatzes 1 nicht. Auf die Gesamtdauer der Wehrübungen nach den
+Absätzen 2 und 3 werden sie nicht angerechnet; das Bundesministerium
+der Verteidigung kann eine Anrechnung anordnen.
+
+(7) Das Bundesministerium der Verteidigung kann für Wehrpflichtige,
+die zu Wehrübungen herangezogen werden sollen, die
+Verwendungsfähigkeit allgemein oder für den Einzelfall abweichend von
+§ 8a Absatz 2 Satz 1 bestimmen.
+
+
+#### § 6a Freiwillige Verlängerung des Grundwehrdienstes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE009909311)
+
+(1) Wehrpflichtige können ihren Grundwehrdienst freiwillig um
+mindestens einen, längstens fünf Monate verlängern.
+
+(2) Die Gesamtdauer des Grundwehrdienstes ist im Einberufungsbescheid
+einheitlich festzusetzen. Wenn der Grundwehrdienst nach Zustellung des
+Einberufungsbescheides verlängert wird, ändern die Wehrersatzbehörden
+diesen Bescheid entsprechend.
+
+(3) In der verlängerten Dienstzeit ist § 29 Absatz 4 Nummer 1 mit den
+Maßgaben anzuwenden, dass der Soldat zu entlassen ist und es der
+Anhörung der Wehrersatzbehörde sowie der Prüfung, ob die geltend
+gemachten Gründe die Zurückstellung vom Wehrdienst nach der Entlassung
+rechtfertigen, nicht bedarf. Die Gesamtdauer des festgesetzten
+Wehrdienstes kann bis auf die Dauer des Grundwehrdienstes verkürzt
+werden, wenn dies im dienstlichen Interesse liegt und der Soldat der
+Verkürzung zustimmt. Die Gesamtdauer des festgesetzten Wehrdienstes
+soll auch ohne Zustimmung des Soldaten verkürzt werden, wenn er durch
+sein bisheriges Verhalten oder durch Leistungsdefizite, die auch
+gesundheitlichen Ursprungs sein können, gezeigt hat, dass er die
+Eignungs- und Leistungsanforderungen, die an einen Soldaten zu stellen
+sind, der verlängerten Grundwehrdienst leistet, nicht oder nicht mehr
+erfüllt. Absatz 2 Satz 2 gilt entsprechend.
 
 
 #### § 7 Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst
@@ -237,6 +456,101 @@ Vom Wehrdienst ist ausgeschlossen,
 
 
 
+
+
+#### § 11 Befreiung vom Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003421311)
+
+(1) Vom Wehrdienst sind befreit
+
+1.  ordinierte Geistliche evangelischen Bekenntnisses,
+
+
+2.  Geistliche römisch-katholischen Bekenntnisses, die die Diakonatsweihe
+    empfangen haben,
+
+
+3.  hauptamtlich tätige Geistliche anderer Bekenntnisse, deren Amt dem
+    eines ordinierten Geistlichen evangelischen oder eines Geistlichen
+    römisch-katholischen Bekenntnisses, der die Diakonatsweihe empfangen
+    hat, entspricht,
+
+
+4.  schwerbehinderte Menschen,
+
+
+5.  Wehrpflichtige, die auf Grund eines völkerrechtlichen Vertrages für
+    die Dauer einer Tätigkeit in einer internationalen Behörde eine
+    entsprechende Befreiung genießen.
+
+
+
+
+(2) Vom Wehrdienst sind Wehrpflichtige auf Antrag zu befreien,
+
+1.  deren Vater, Mutter, Bruder oder Schwester an den Folgen einer Wehr-
+    oder Zivildienstbeschädigung verstorben ist,
+
+
+2.  deren zwei Geschwister
+
+    a)  Grundwehrdienst von der in § 5 Absatz 1a bestimmten Dauer,
+
+
+    b)  Zivildienst von der in § 24 Absatz 2 des Zivildienstgesetzes
+        bestimmten Dauer,
+
+
+    c)  Dienst im Zivilschutz oder Katastrophenschutz nach § 13a Absatz 1 Satz
+        1 dieses Gesetzes oder nach § 14 Absatz 1 des Zivildienstgesetzes,
+
+
+    d)  Entwicklungsdienst nach § 13b Absatz 1 dieses Gesetzes oder nach § 14a
+        Absatz 1 des Zivildienstgesetzes,
+
+
+    e)  einen anderen Dienst im Ausland nach § 14b Absatz 1 des
+        Zivildienstgesetzes,
+
+
+    f)  einen freiwilligen Dienst nach dem Jugendfreiwilligendienstegesetz
+        oder nach dem Bundesfreiwilligendienstgesetz von jeweils mindestens
+        sechs Monaten,
+
+
+    g)  ein freies Arbeitsverhältnis nach § 15a Absatz 1 des
+        Zivildienstgesetzes oder
+
+
+    h)  Wehrdienst von höchstens zwei Jahren Dauer als Soldatin auf Zeit oder
+        Soldat auf Zeit
+
+
+
+    geleistet haben oder
+
+
+3.  die
+
+    a)  verheiratet sind,
+
+
+    b)  eingetragene Lebenspartner sind oder
+
+
+    c)  die elterliche Sorge gemeinsam oder als Alleinerziehende ausüben.
+
+
+
+
+
+
+Der Antrag ist frühestens nach der Aufforderung nach § 15a Absatz 1
+und spätestens bis zum Abschluss der Musterung zu stellen, es sei
+denn, der Befreiungsgrund tritt erst später ein oder wird später
+bekannt. Der Antrag ist schriftlich oder zur Niederschrift beim
+Bundesamt für das Personalmanagement der Bundeswehr zu stellen. Er ist
+zu begründen.
 
 
 #### § 12 Zurückstellung vom Wehrdienst
@@ -398,6 +712,43 @@ Wehrpflichtige, die in keinem Arbeits- oder Dienstverhältnis stehen,
 haben den Wegfall der Voraussetzungen selbst anzuzeigen.
 
 
+#### § 13a Zivilschutz oder Katastrophenschutz
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003720311)
+
+(1) Wehrpflichtige, die sich vor Vollendung des 23. Lebensjahres mit
+Zustimmung der zuständigen Behörde auf mindestens vier Jahre zum
+ehrenamtlichen Dienst als Helfer im Zivilschutz oder
+Katastrophenschutz verpflichtet haben, werden nicht zum Wehrdienst
+herangezogen, solange sie als Helfer im Zivilschutz oder
+Katastrophenschutz mitwirken. Dies gilt auch bei von der zuständigen
+Behörde genehmigten Unterbrechungen der Mitwirkung, wenn die auf der
+Mindestverpflichtung beruhende vierjährige Mitwirkung noch bis zur
+Vollendung des 28. Lebensjahres erfüllt werden kann. Auf Verlangen des
+Bundesministeriums der Verteidigung ist zwischen diesem und dem
+Bundesministerium des Innern die Zahl, bis zu der Freistellungen
+möglich sind, unter angemessener Berücksichtigung des Personalbedarfs
+der Bundeswehr, des Zivilschutzes und des Katastrophenschutzes zu
+vereinbaren. Dabei kann auch nach Jahrgängen, beruflicher Tätigkeit
+und Ausbildungsstand unterschieden sowie die Zustimmung des
+Karrierecenters der Bundeswehr vorgesehen werden.
+
+(2) Haben Wehrpflichtige vier Jahre im Zivilschutz oder
+Katastrophenschutz mitgewirkt, so erlischt ihre Pflicht,
+Grundwehrdienst zu leisten. Genehmigte Unterbrechungen der Mitwirkung
+(Absatz 1 Satz 2) gelten als Mitwirkung, soweit sie insgesamt einen
+Zeitraum von sechs Monaten nicht übersteigen. Endet die Mitwirkung aus
+Gründen, die nicht in der Person oder in dem Verhalten des
+Wehrpflichtigen liegen, vorzeitig, so ist die im Zivilschutz oder
+Katastrophenschutz zurückgelegte Zeit, soweit sie die Hälfte der Zeit
+nach Satz 1 übersteigt, anteilmäßig auf den Grundwehrdienst
+anzurechnen.
+
+(3) Die zuständigen Behörden sind verpflichtet, der zuständigen
+Wehrersatzbehörde das Vorliegen sowie den Wegfall der Voraussetzungen
+für die Nichtheranziehung von Wehrpflichtigen zum Wehrdienst
+anzuzeigen.
+
+
 #### § 13b Entwicklungsdienst
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003813310)
 
@@ -433,6 +784,257 @@ Wehrersatzbehörde anzuzeigen.
 
 
 
+### § 14 Wehrersatzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003912311)
+
+Die Aufgaben des Wehrersatzwesens werden in bundeseigener Verwaltung
+durchgeführt und folgenden, dem Bundesministerium der Verteidigung
+unterstehenden Behörden der Bundeswehrverwaltung übertragen:
+
+1.  Bundesamt für das Personalmanagement der Bundeswehr –
+    Bundesoberbehörde –,
+
+
+2.  Karrierecenter der Bundeswehr – Bundesunterbehörden –.
+
+
+
+
+
+### § 15 Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004014311)
+
+(1) Das Bundesamt für das Personalmanagement der Bundeswehr darf zum
+Zweck der Wehrerfassung im automatisierten Abrufverfahren nach den §§
+34a und 38 des Bundesmeldegesetzes die folgenden Daten Wehrpflichtiger
+abrufen und weiterverarbeiten:
+
+1.  Familienname,
+
+
+2.  frühere Namen,
+
+
+3.  Vornamen,
+
+
+4.  Tag und Ort der Geburt,
+
+
+5.  Geschlecht,
+
+
+6.  gegenwärtige Anschrift, Haupt- und Nebenwohnung,
+
+
+7.  letzte frühere Anschrift im Inland bei Zuzug aus dem Ausland,
+
+
+8.  Familienstand,
+
+
+9.  Staatsangehörigkeiten sowie
+
+
+10. Sterbetag.
+
+
+
+
+(2) Im Spannungs- oder Verteidigungsfall darf das Bundesamt für das
+Personalmanagement der Bundeswehr zum Zweck der Wehrerfassung die in
+Absatz 1 genannten Daten männlicher Personen bereits ein Jahr vor
+Vollendung ihres 18. Lebensjahres im automatisierten Abrufverfahren
+nach den §§ 34a und 38 des Bundesmeldegesetzes abrufen und
+weiterverarbeiten.
+
+(3) Im Falle der Unmöglichkeit des Datenabrufs ist § 34 Absatz 2 Satz
+5 des Bundesmeldegesetzes entsprechend anzuwenden.
+
+
+### § 15a Bereitschaftserklärung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE011600311)
+
+(1) Jede nach § 15 erfasste Person hat auf Aufforderung durch das
+Bundesamt für das Personalmanagement der Bundeswehr eine Erklärung zur
+Bereitschaft und Fähigkeit zu einer Wehrdienstleistung abzugeben, die
+folgende Angaben umfasst:
+
+1.  Angaben zur Person, zum Geschlecht, zum Familienstand und zu weiteren
+    Staatsangehörigkeiten, soweit diesbezüglich durch das Bundesamt für
+    das Personalmanagement der Bundeswehr vorausgefüllte Angaben nicht
+    zutreffen oder nicht vollständig sind,
+
+
+2.  Interesse an einem Wehrdienst in der Bundeswehr,
+
+
+3.  Körpergröße und Gewicht,
+
+
+4.  Schwerbehinderung oder eine entsprechende Gleichstellung,
+
+
+5.  Bildungsabschlüsse sowie sonstige Befähigungen und Qualifikationen,
+
+
+6.  Selbsteinschätzung der körperlichen Leistungsfähigkeit,
+
+
+7.  Wehrdienst in fremden Streitkräften.
+
+
+
+Die Aufforderung zur Abgabe der Bereitschaftserklärung kann
+vollständig durch automatische Einrichtungen erlassen werden. Zusammen
+mit der Aufforderung nach Satz 1 kann das Bundesamt für das
+Personalmanagement der Bundeswehr Informationen über Laufbahnen und
+Verwendungen in der Bundeswehr und über gesetzlich geregelte
+Freiwilligendienste zur Verfügung stellen.
+
+(2) Die Bereitschaftserklärung ist mittels eines zur Verfügung
+gestellten Online-Fragebogens oder schriftlich abzugeben.
+
+(3) Die Abgabe der Bereitschaftserklärung durch einen Bevollmächtigten
+ist nur dann zulässig, wenn der Wehrpflichtige infolge seines
+körperlichen oder geistigen Zustands gehindert ist, sie eigenständig
+abzugeben.
+
+(4) Kommt der Wehrpflichtige der Aufforderung zur Abgabe einer
+Bereitschaftserklärung nach Absatz 1 Satz 1 nicht innerhalb eines
+Monats nach, so erhält er eine erneute Aufforderung mit einer
+Fristsetzung, innerhalb derer die Bereitschaftserklärung abzugeben
+ist. Diese erneute Aufforderung ist zuzustellen.
+
+(5) Wehrpflichtige, die weder in einem Wehrdienstverhältnis stehen
+noch der Dienstleistungsüberwachung nach dem Soldatengesetz
+unterliegen, haben auf Aufforderung erneut eine Bereitschaftserklärung
+nach Absatz 1 Satz 1 abzugeben. Die Absätze 2 bis 4 gelten hierfür
+entsprechend.
+
+(6) Das Verfahren ist kostenfrei. Notwendige Auslagen sind zu
+erstatten.
+
+
+### § 15b Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE011700311)
+
+(1) Das Bundesamt für das Personalmanagement der Bundeswehr darf die
+nach den §§ 15 bis 15a erhobenen personenbezogenen Daten neben den
+dort aufgeführten Zwecken nur für folgende Zwecke verarbeiten:
+
+1.  Übersendung von Informationen über Tätigkeiten in den Streitkräften,
+
+
+2.  Personalbearbeitung, wenn der Wehrpflichtige in der
+    Bereitschaftserklärung nach § 15a Interesse an einem Wehrdienst
+    bekundet,
+
+
+3.  Einberufung und Heranziehung zum Wehrdienst im Spannungs- oder
+    Verteidigungsfall,
+
+
+4.  Übermittlung an die Bundesagentur für Arbeit für Zwecke der
+    Durchführung des Arbeitssicherstellungsgesetzes.
+
+
+
+
+(2) § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+
+### § 15c Datenaktualisierung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE011800311)
+
+Das Bundesamt für das Personalmanagement der Bundeswehr ist
+berechtigt, die Daten nach § 15 zum Zweck der Aktualisierung erneut
+abzurufen. Die Berechtigung zum Datenabruf endet mit dem Ablauf des
+Jahres, in dem der Wehrpflichtige das 60. Lebensjahr vollendet hat.
+
+
+### § 15d Datenübermittlung für die Durchführung des Arbeitssicherstellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE011900311)
+
+(1) Im Verteidigungsfall und nach Maßgabe von Artikel 80a Absatz 1 des
+Grundgesetzes übermittelt das Bundesamt für das Personalmanagement der
+Bundeswehr der Bundesagentur für Arbeit zur Erfüllung der Aufgaben
+nach dem Arbeitssicherstellungsgesetz die folgenden Daten
+Wehrpflichtiger:
+
+1.  Familienname,
+
+
+2.  Vornamen,
+
+
+3.  Staatsangehörigkeiten,
+
+
+4.  Tag und Ort der Geburt,
+
+
+5.  gegenwärtige Anschrift, Haupt- und Nebenwohnung,
+
+
+6.  Angaben gemäß der Bereitschaftserklärung nach § 15a Absatz 1 Satz 1
+    Nummer 1,
+
+
+7.  Schwerbehinderung oder eine entsprechende Gleichstellung gemäß der
+    Bereitschaftserklärung nach § 15a Absatz 1 Satz 1 Nummer 4,
+
+
+8.  Bildungsabschlüsse sowie sonstige Befähigungen und Qualifikationen
+    gemäß der Bereitschaftserklärung nach § 15a Absatz 1 Satz 1 Nummer 5,
+
+
+9.  Informationen über die Einberufung und Heranziehung zum Wehrdienst,
+
+
+10. Feststellung einer Befreiung nach § 11 Absatz 1 Nummer 1 bis 3.
+
+
+
+
+(2) Die Wehrersatzbehörden holen im Verteidigungsfall und nach Maßgabe
+von Artikel 80a Absatz 1 des Grundgesetzes im Rahmen der Musterung
+nach § 17 für die Zwecke der Durchführung des
+Arbeitssicherstellungsgesetzes folgende Auskünfte bei den
+Wehrpflichtigen ein und übermitteln diese an die Bundesagentur für
+Arbeit:
+
+1.  Minderung der Erwerbsfähigkeit oder Grad der Schädigungsfolgen von
+    mindestens 50 für eine nicht nur vorübergehende Zeit,
+
+
+2.  Pflegetätigkeit für hilfsbedürftige Angehörige oder andere
+    hilfsbedürftige Personen aus rechtlicher oder sittlicher
+    Verpflichtung, deren Pflege nicht anderweitig gewährleistet ist,
+
+
+3.  berufliche Tätigkeit,
+
+
+4.  Angaben über Betriebs- oder Personalratszugehörigkeit,
+
+
+5.  Teilnahme an einem weitgehend geförderten Ausbildungsabschnitt und
+
+
+6.  Angaben über Kinder unter 15 Jahren, die mit dem Wehrpflichtigen in
+    häuslicher Gemeinschaft leben.
+
+
+
+
+(3) Ist eine elektronische Datenübermittlung nicht möglich, so erfolgt
+die Datenübermittlung durch das Bundesamt für das Personalmanagement
+der Bundeswehr mittels eines schriftlichen Dokuments oder mittels
+eines Datenträgers, auf dem die Daten gegen unbefugten Zugriff
+gesichert sind.
+
+
 ### § 16 Zweck der Musterung
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004114377)
 
@@ -453,6 +1055,74 @@ Grundwehrdienst herangezogen zu werden, bereits ein halbes Jahr vor
 Vollendung des 17. Lebensjahres gemustert werden; von diesem Zeitpunkt
 an finden auf diese männlichen Personen die Absätze 1 und 2, §§ 17,
 19, 20a, 21, 24, 24b und 25 Anwendung.
+
+
+### § 17 Durchführung der Musterung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004216311)
+
+(1) Die Musterung wird von den Wehrersatzbehörden durchgeführt.
+
+(2) (weggefallen)
+
+(3) Die Wehrersatzbehörden bereiten auf Grundlage der Erfassung und
+der Bereitschaftserklärung die Musterung vor. Die Wehrpflichtigen
+haben auch schon vor der Musterung auf Verlangen schriftlich,
+elektronisch oder mündlich die für die Entscheidung nach § 16 Absatz 2
+erforderlichen Auskünfte zu erteilen und die hierzu angeforderten
+Unterlagen vorzulegen; sie haben sich nach Aufforderung durch die
+Karrierecenter der Bundeswehr zur Musterung vorzustellen und die in
+der Ladung angegebenen Unterlagen mitzubringen.
+
+(4) Die Wehrpflichtigen sind vor der Musterungsentscheidung auf ihre
+geistige und körperliche Tauglichkeit eingehend ärztlich zu
+untersuchen; sie haben sich dieser Untersuchung zu unterziehen. Dabei
+sind solche Untersuchungen vorzunehmen, die nach dem Stand der
+ärztlichen Wissenschaft für die Beurteilung der Tauglichkeit des
+Wehrpflichtigen für den Wehrdienst notwendig und im Rahmen einer
+Reihenuntersuchung durchführbar sind. Die Karrierecenter der
+Bundeswehr können eine nochmalige Untersuchung durch einen anderen
+Arzt anordnen. Von der Untersuchung nach Satz 1 kann abgesehen werden,
+wenn aufgrund der Angaben in der Bereitschaftserklärung oder der
+Angaben nach Absatz 3 Satz 2 eine Heranziehung ausgeschlossen
+erscheint.
+
+(5) Das Ergebnis der Untersuchung ist unter Angabe des
+Tauglichkeitsgrades und des Verwendungsgrades schriftlich
+niederzulegen; dem Wehrpflichtigen ist eine Abschrift auszuhändigen.
+
+(6) Ärztliche Untersuchungsmaßnahmen, die einer ärztlichen Behandlung
+oder einer Operation gleichkommen, dürfen nicht ohne Zustimmung des
+Wehrpflichtigen vorgenommen werden. Nicht als ärztliche Behandlung
+oder als Operation und nicht als Eingriffe in die körperliche
+Unversehrtheit gelten einfache ärztliche Maßnahmen, wie Blutentnahmen
+aus dem Ohrläppchen, dem Finger oder einer Blutader oder eine
+röntgenologische Untersuchung.
+
+(7) (weggefallen)
+
+(8) Soweit erforderlich und notwendig, können die Wehrpflichtigen auf
+ihre Eignung für Verwendungen in den Streitkräften untersucht werden.
+Bei einer wissenschaftlich abgesicherten Eignungsuntersuchung können
+mit Hilfe psychologischer Testverfahren die Fähigkeiten, Fertigkeiten
+und Kenntnisse der Wehrpflichtigen festgestellt und für die
+Eignungsfeststellung ausgewertet werden. Die Wehrpflichtigen müssen
+sich nach Aufforderung durch die zuständigen Wehrersatzbehörden auch
+zur Eignungsuntersuchung vorstellen und sich dieser Untersuchung
+unterziehen. Sie sind auf Verlangen verpflichtet, Auskünfte zu
+erteilen sowie Unterlagen vorzulegen, soweit dies zur
+Eignungsfeststellung nach § 16 Absatz 2 Satz 2 erforderlich ist.
+
+(9) Die Eignungsuntersuchung und -feststellung ist vor der ärztlichen
+Untersuchung des Wehrpflichtigen auf seine Tauglichkeit zulässig,
+soweit dies erforderlich ist, um die Musterung an einem Tag
+durchführen zu können. Stellt sich bei der ärztlichen Untersuchung die
+Wehrdienstunfähigkeit des Wehrpflichtigen heraus, sind die über ihn
+bei der Eignungsuntersuchung erhobenen Daten unverzüglich zu löschen.
+
+(10) Bleibt der Wehrpflichtige der Musterung unentschuldigt fern und
+scheitert eine polizeiliche Vorführung oder verspricht diese keinen
+Erfolg, ist nach Aktenlage zu entscheiden. Dies gilt auch dann, wenn
+sich der Wehrpflichtige nicht untersuchen lässt.
 
 
 ### § 18 (weggefallen)
@@ -501,6 +1171,18 @@ die Erstattung von notwendigen Auslagen, Verdienstausfall und
 Vertretungskosten regelt eine Rechtsverordnung.
 
 
+### § 20 Zurückstellungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004512311)
+
+Anträge auf Zurückstellung nach § 12 Absatz 2 und 4 sind frühestens
+nach der Aufforderung nach § 15a Absatz 1 und spätestens bis zum
+Abschluss der Musterung zu stellen, es sei denn, der
+Zurückstellungsgrund tritt erst später ein oder wird später bekannt.
+Anträge auf Zurückstellung sind schriftlich oder zur Niederschrift
+beim Bundesamt für das Personalmanagement der Bundeswehr zu stellen.
+Sie sind zu begründen.
+
+
 ### § 20a Eignungsuntersuchung und Eignungsfeststellung nach der Musterung
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004611310)
 
@@ -514,10 +1196,231 @@ getroffenen Feststellungen nicht ausreichen.
 entsprechende Anwendung.
 
 
+### § 20b Überprüfungsuntersuchung; Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008710311)
+
+Ungediente Wehrpflichtige können auch nach ihrer Musterung ärztlich
+untersucht werden. Ungediente Wehrpflichtige, die nicht innerhalb von
+drei Jahren nach der Musterung oder nach einer erneuten ärztlichen
+Untersuchung einberufen worden sind, sind vor ihrer Einberufung zu
+hören und auf Antrag oder, wenn Anhaltspunkte für eine Veränderung des
+Gesundheitszustandes vorliegen oder dies für eine vorgesehene
+Verwendung im Wehrdienst erforderlich ist, erneut ärztlich zu
+untersuchen. Sie haben sich hierzu nach Aufforderung durch die
+Karrierecenter der Bundeswehr vorzustellen und ärztlich untersuchen zu
+lassen. Auf die Untersuchung findet § 17 Absatz 4 Satz 2, Absatz 6 und
+10 Anwendung. Das Ergebnis der Untersuchung und die sich daraus
+ergebenden Rechtsfolgen sind durch schriftlichen
+Tauglichkeitsüberprüfungsbescheid mitzuteilen. Das gilt auch dann,
+wenn eine beantragte Überprüfung des Tauglichkeitsgrades ohne
+ärztliche Untersuchung durchgeführt wird. § 19 Absatz 5 Satz 1 bis 5
+gilt entsprechend.
+
+
+### § 21 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004713311)
+
+(1) Ungediente Wehrpflichtige werden von den Karrierecentern der
+Bundeswehr in Ausführung des Musterungsbescheides zum Wehrdienst
+einberufen. Ort und Zeitpunkt des Diensteintritts werden durch
+Einberufungsbescheid bekannt gegeben. Im Einberufungsbescheid ist auch
+die Dauer des zu leistenden Wehrdienstes anzugeben; dies gilt nicht
+für die Einberufung zum Wehrdienst im Spannungs- oder
+Verteidigungsfall nach § 4 Absatz 1 Nummer 4 und zu Wehrübungen als
+Bereitschaftsdienst nach § 6 Absatz 6.
+
+(2) Die Wehrpflichtigen haben sich entsprechend dem
+Einberufungsbescheid zum Wehrdienst in der Bundeswehr zu stellen.
+
+(3) Der Einberufungsbescheid soll vier Wochen vor dem
+Diensteintrittstermin zugestellt sein. Als Ersatz für Ausfälle
+vorgesehene Wehrpflichtige sind schriftlich davon zu unterrichten,
+dass sie kurzfristig einberufen werden können. Wehrpflichtige können
+ohne Einhaltung einer Frist einberufen werden, wenn
+
+1.  Wehrübungen als Bereitschaftsdienst angeordnet sind,
+
+
+2.  die Einberufung zu einer nach den Umständen gebotenen Erhöhung der
+    Einsatzbereitschaft der Streitkräfte notwendig ist,
+
+
+3.  der Spannungs- oder Verteidigungsfall eingetreten ist, oder
+
+
+4.  das Bundesministerium der Verteidigung oder die von ihm bestimmte
+    Stelle Wehrübungen von kurzer Dauer als Alarmübungen angeordnet hat.
+
+
+
+
+
 ### § 22 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004809310)
 
 -
+
+
+### § 23 Heranziehung von gedienten Wehrpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004916311)
+
+Wehrpflichtige, die bereits in der Bundeswehr gedient haben, werden
+nach Prüfung ihrer Verfügbarkeit durch die zuständigen
+Wehrersatzbehörden zum Wehrdienst einberufen. Sie sind zu hören, wenn
+seit dem Ausscheiden aus dem Wehrdienst mehr als drei Jahre
+verstrichen sind. Auf Antrag oder wenn Anhaltspunkte für eine
+Veränderung des Gesundheitszustandes vorliegen oder dies für eine
+vorgesehene Verwendung im Wehrdienst erforderlich ist, sind sie erneut
+ärztlich zu untersuchen. Auf die Untersuchung findet § 17 Absatz 4
+Satz 2, Absatz 6 und 10 Anwendung. § 19 Absatz 5 Satz 1 bis 5 gilt
+entsprechend. Die Wehrpflichtigen haben sich nach Aufforderung durch
+die Karrierecenter der Bundeswehr vorzustellen und ärztlich
+untersuchen zu lassen. Sie haben sich entsprechend dem
+Einberufungsbescheid zum Wehrdienst in der Bundeswehr zu stellen. § 21
+Absatz 3 gilt entsprechend.
+
+
+### § 24 Wehrüberwachung; Haftung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005019311)
+
+(1) Die Wehrpflichtigen unterliegen der Wehrüberwachung. Diese endet
+bei Offizieren mit Ablauf des Jahres, in dem sie das 60., bei
+Unteroffizieren, in dem sie das 45., und bei Mannschaften sowie
+ungedienten Wehrpflichtigen, in dem sie das 32. Lebensjahr vollenden.
+Auch nach diesem Zeitpunkt unterliegen der Wehrüberwachung abweichend
+von der Regelung in Satz 2 Wehrpflichtige, die für den Spannungs- oder
+Verteidigungsfall einberufen sind.
+
+(2) Soweit es zur Heranziehung zum Wehrdienst einer Musterung nicht
+bedarf, unterliegen die Wehrpflichtigen der Wehrüberwachung von dem
+Zeitpunkt an, an dem erstmalig über ihre Heranziehung entschieden
+wird. Wehrpflichtige, die dem Vollzugsdienst der Polizei angehören,
+unterliegen der Wehrüberwachung vom Zeitpunkt ihres Ausscheidens aus
+diesem Vollzugsdienst an.
+
+(3) Von der Wehrüberwachung sind diejenigen Wehrpflichtigen
+ausgenommen, die
+
+1.  nicht wehrdienstfähig sind (§ 9),
+
+
+2.  vom Wehrdienst dauernd ausgeschlossen sind (§ 10),
+
+
+3.  vom Wehrdienst befreit sind (§ 11),
+
+
+4.  als Kriegsdienstverweigerer anerkannt sind,
+
+
+5.  als Helfer im Zivilschutz oder Katastrophenschutz mindestens vier
+    Jahre mitgewirkt haben (§ 13a) oder
+
+
+6.  als Entwicklungshelfer einen mindestens zweijährigen
+    Entwicklungsdienst geleistet haben (§ 13b).
+
+
+
+
+(4) (weggefallen)
+
+(5) (weggefallen)
+
+(6) Während der Wehrüberwachung haben die Wehrpflichtigen
+
+1.  binnen einer Woche jede Änderung ihrer Wohnung dem Karrierecenter der
+    Bundeswehr zu melden, es sei denn, sie sind innerhalb dieser Frist
+    ihrer Meldepflicht nach § 17 Absatz 1 und 2 des Bundesmeldegesetzes
+    nachgekommen,
+
+
+2.  Vorsorge zu treffen, dass Mitteilungen der Wehrersatzbehörde sie
+    unverzüglich erreichen,
+
+
+3.  auf Aufforderung der zuständigen Wehrersatzbehörde sich persönlich zu
+    melden – dabei findet § 19 Absatz 5 Satz 1 bis 5 entsprechend
+    Anwendung –,
+
+
+4.  ausgehändigte Bekleidungs- und Ausrüstungsstücke ohne Entschädigung
+    jederzeit erreichbar sorgfältig aufzubewahren und zu pflegen, sie
+    nicht außerhalb des Wehrdienstes zu verwenden, eine missbräuchliche
+    Benutzung durch Dritte auszuschließen, den Weisungen zur Behandlung
+    der Sachen nachzukommen, die Sachen der zuständigen Dienststelle auf
+    Aufforderung vorzulegen oder zurückzugeben – dabei ist § 19 Absatz 5
+    Satz 2 bis 5 anzuwenden – und ihr Schäden sowie Verluste unverzüglich
+    zu melden,
+
+
+5.  die Einberufungsbescheide für den Wehrdienst im Spannungsfall und für
+    den Wehrdienst im Verteidigungsfall sorgfältig aufzubewahren, nicht
+    missbräuchlich zu verwenden, auf Aufforderung der zuständigen
+    Dienststelle vorzulegen sowie der Wehrersatzbehörde einen Verlust
+    unverzüglich zu melden,
+
+
+6.  soweit sie in der Bundeswehr gedient haben, sich zur Verhütung
+    übertragbarer Krankheiten impfen zu lassen und insoweit ärztliche
+    Eingriffe in ihre körperliche Unversehrtheit zu dulden,
+
+
+7.  auf Verlangen der zuständigen Wehrersatzbehörde sich im Hinblick auf
+    eine für sie vorgesehene sicherheitsempfindliche Tätigkeit in der
+    Bundeswehr einer erstmaligen Sicherheitsüberprüfung und weiteren
+    Sicherheitsüberprüfungen zu unterziehen. Die Durchführung der
+    Sicherheitsüberprüfung bestimmt sich nach dem
+    Sicherheitsüberprüfungsgesetz. Einer Zustimmung des Wehrpflichtigen
+    bedarf es nicht.
+
+
+
+Auf Wehrpflichtige, die nach Ablauf des Jahres, in dem sie das 32.
+Lebensjahr vollenden, noch der Wehrüberwachung unterliegen, findet
+Satz 1 Nummer 1 zweiter Halbsatz keine Anwendung. Satz 1 Nummer 4 und
+5 gilt auch für die Zeit nach Beendigung der Wehrüberwachung.
+
+(6a) Die Wehrpflichtigen haben für vorsätzlich oder grob fahrlässig
+verursachte Schäden und Verluste an ausgehändigten Bekleidungs- und
+Ausrüstungsstücken Geldersatz zu leisten. Die Schadensersatzansprüche
+verjähren in drei Jahren von dem Zeitpunkt an, in dem die zuständigen
+Behörden von dem Schaden Kenntnis erlangen, ohne Rücksicht auf diese
+Kenntnis in zehn Jahren von der Begehung der Handlung an.
+
+(7) Während der Wehrüberwachung haben die Wehrpflichtigen ferner der
+zuständigen Wehrersatzbehörde unverzüglich schriftlich, elektronisch
+oder mündlich zu melden
+
+1.  den Eintritt von Tatsachen, die eine Wehrdienstausnahme nach den §§ 9
+    bis 11 Absatz 1 begründen,
+
+
+2.  den Eintritt von Tatsachen, die eine vorübergehende
+    Wehrdienstunfähigkeit von voraussichtlich mindestens sechs Monaten
+    begründen; auf Aufforderung der zuständigen Wehrersatzbehörde
+    Erkrankungen und Verletzungen sowie Verschlimmerungen von Erkrankungen
+    und Verletzungen seit der Musterung, Überprüfungsuntersuchung, Prüfung
+    der Verfügbarkeit oder Entlassungsuntersuchung, von denen der
+    Wehrpflichtige oder sein Arzt annimmt, dass sie für die Beurteilung
+    seiner Tauglichkeit von Belang sind,
+
+
+3.  den vorzeitigen Wegfall der Voraussetzungen für eine Zurückstellung,
+
+
+4.  den Abschluss und einen Wechsel ihrer beruflichen Ausbildung, einen
+    Wechsel ihres Berufes sowie eine weitergehende berufliche
+    Qualifikation; hierüber in ihrem Besitz befindliche Nachweise haben
+    die Wehrpflichtigen auf Aufforderung unverzüglich vorzulegen.
+
+
+
+
+
+### § 24a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008910311)
+
 
 
 ### § 24b Aufenthaltsfeststellungsverfahren
@@ -793,6 +1696,16 @@ Behandlung, so endet der Wehrdienst, zu dem er einberufen wurde,
 Das Wehrdienstverhältnis des Soldaten bleibt hiervon unberührt.
 
 
+### § 29b Verlängerung des Wehrdienstes aus sonstigen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010006311)
+
+Ist ein Soldat im Entlassungszeitpunkt wegen Verschleppung,
+Gefangenschaft oder aus sonstigen Gründen, die mit dem Dienst
+zusammenhängen, dem Einflussbereich des Dienstherrn entzogen, so ist
+er mit Ablauf des auf die Beendigung dieses Zustandes folgenden Monats
+zu entlassen.
+
+
 ### § 30 Ausschluss aus der Bundeswehr und Verlust des Dienstgrades
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005812377)
 
@@ -944,10 +1857,210 @@ Dienst ist auf den Grundwehrdienst anzurechnen.
 -
 
 
+### § 44 Zustellung, Vorführung und Zuführung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007612311)
+
+(1) Ein Bescheid, der in Ausführung dieses Gesetzes ergeht, ist
+zuzustellen. Dies gilt nicht für begünstigende Verwaltungsakte und für
+die Aufforderung zur Abgabe einer Bereitschaftserklärung nach § 15a
+Absatz 1. Bei einem Minderjährigen ist an diesen selbst zuzustellen.
+Ein Einberufungsbescheid zu einer Wehrübung, die als
+Bereitschaftsdienst angeordnet ist (§ 6 Absatz 6) oder die als
+Alarmübung nicht länger als drei Tage dauert, kann auch mit
+gewöhnlichem Standardbrief mit dem Vermerk „Vorrangpost“ oder in
+entsprechender Anwendung des § 5 des Verwaltungszustellungsgesetzes
+unmittelbar durch die Truppe zugestellt werden.
+
+(2) Bei Wehrpflichtigen, die der Erfassung, der Musterung, einer
+erneuten ärztlichen Untersuchung, der Prüfung der Verfügbarkeit, der
+Eignungsuntersuchung oder auf eine Aufforderung der Wehrersatzbehörde,
+sich persönlich zu melden (§ 24 Absatz 6 Satz 1 Nummer 3),
+unentschuldigt fernbleiben, kann die Vorführung angeordnet werden. Die
+Polizei ist um Durchführung zu ersuchen.
+
+(3) Die Polizei kann ersucht werden, Wehrpflichtige, die ihrer
+Einberufung unentschuldigt nicht Folge leisten, dem nächsten
+Feldjägerdienstkommando zuzuführen.
+
+(4) Die Polizei ist befugt, zum Zweck der Vorführung oder Zuführung
+die Wohnung und andere Räume des Wehrpflichtigen zu betreten und nach
+ihm zu suchen. Das Gleiche gilt, außer zur Nachtzeit, für andere
+Wohnungen und Räume, wenn sich der Wehrpflichtige einem unmittelbar
+bevorstehenden Zugriff der Polizei durch Betreten solcher Wohnungen
+und Räume entzieht. Maßnahmen nach den Sätzen 1 und 2 bedürfen einer
+durch die Wehrersatzbehörde einzuholenden richterlichen Anordnung.
+Dabei kann das Gericht von einer vorherigen Anhörung des
+Wehrpflichtigen oder Wohnungsinhabers absehen, wenn es dies für
+erforderlich hält, um den Zweck der Maßnahme nicht zu gefährden.
+Personen, die Mitgewahrsam an der Wohnung des Wehrpflichtigen haben,
+haben das Betreten und Durchsuchen der Wohnung und anderer Räume zu
+dulden. Unbillige Härten gegenüber Mitgewahrsamsinhabern sind zu
+vermeiden. Die Anordnung ist bei der Durchsuchung vorzuzeigen. Für die
+richterliche Anordnung einer Durchsuchung ist das Verwaltungsgericht
+zuständig, in dessen Bezirk die Durchsuchung vorgenommen werden soll.
+Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
+Grundgesetzes) wird insoweit eingeschränkt.
+
+
+### § 45 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007714311)
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 15a Absatz 1 Satz 1 oder Absatz 5 Satz 1 eine
+    Bereitschaftserklärung nicht richtig oder nicht vollständig abgibt,
+
+
+2.  einer vollziehbaren Anordnung nach § 15a Absatz 4 Satz 1, auch in
+    Verbindung mit Absatz 5 Satz 2, oder nach § 48 Absatz 1 Satz 1 Nummer
+    5 zuwiderhandelt,
+
+
+3.  entgegen § 17 Absatz 3 Satz 2 erster Halbsatz oder Absatz 8 Satz 4
+    eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erteilt,
+
+
+4.  entgegen § 24 Absatz 6 Satz 1 Nummer 1, auch in Verbindung mit § 48
+    Absatz 2 Nummer 1, eine Meldung nicht oder nicht rechtzeitig macht,
+
+
+5.  entgegen § 24 Absatz 6 Satz 1 Nummer 3 sich nicht oder nicht
+    rechtzeitig meldet, oder
+
+
+6.  entgegen § 24 Absatz 6 Satz 1 Nummer 5 einen dort genannten Bescheid
+    nicht oder nicht rechtzeitig vorlegt oder eine Meldung nicht oder
+    nicht rechtzeitig macht.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
+Nummer 1 und 2 das Bundesamt für das Personalmanagement der Bundeswehr
+und in den übrigen Fällen des Absatzes 1 das Karrierecenter der
+Bundeswehr.
+
+
 ### (XXXX) §§ 46 und 47 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007809310)
 
 -
+
+
+### § 48 Bereitschaftsdienst, Spannungs- oder Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008119311)
+
+(1) Sind Wehrübungen als Bereitschaftsdienst nach § 6 Absatz 6
+angeordnet worden,
+
+1.  können Zurückstellungen nach § 12 Absatz 2 und 4 widerrufen werden, es
+    sei denn, dass die Heranziehung zum Wehrdienst für den Wehrpflichtigen
+    eine unzumutbare Härte bedeuten würde;
+
+
+2.  können nach § 13b bisher nicht zum Wehrdienst herangezogene
+    Wehrpflichtige gemustert und einberufen werden;
+
+
+3.  hat der Widerspruch gegen den Musterungsbescheid keine aufschiebende
+    Wirkung;
+
+
+4.  ist bei der Einberufung Wehrpflichtiger, die bereits in den
+    Streitkräften gedient haben, § 23 Satz 2 und 3 nicht anzuwenden; als
+    Untersuchung gilt die Einstellungsuntersuchung;
+
+
+5.  haben männliche Personen, die das 17. Lebensjahr vollendet haben, auf
+    Anordnung der Bundesregierung
+
+    a)  Vorsorge dafür zu treffen, dass Mitteilungen der Wehrersatzbehörde sie
+        unverzüglich erreichen, auch wenn sie der Wehrüberwachung nicht
+        unterliegen,
+
+
+    b)  die Genehmigung des zuständigen Karrierecenters der Bundeswehr
+        einzuholen, wenn sie die Bundesrepublik Deutschland verlassen wollen,
+
+
+    c)  unverzüglich zurückzukehren, wenn sie sich außerhalb der
+        Bundesrepublik Deutschland aufhalten, und sich beim zuständigen oder
+        nächsten Karrierecenter der Bundeswehr zu melden.
+
+
+
+
+
+
+Satz 1 Nummer 5 gilt nicht für männliche Personen, die
+
+1.  ihren ständigen Aufenthalt außerhalb der Bundesrepublik Deutschland
+    haben,
+
+
+2.  außerhalb der Bundesrepublik Deutschland bei einer deutschen
+    Dienststelle oder einer über- oder zwischenstaatlichen Organisation
+    beschäftigt sind oder
+
+
+3.  mit Genehmigung einer obersten Bundes- oder Landesbehörde oder einer
+    von ihr bestimmten Stelle
+
+    a)  sich außerhalb der Bundesrepublik Deutschland aufhalten oder
+
+
+    b)  die Bundesrepublik Deutschland verlassen.
+
+
+
+
+
+
+
+(2) Im Spannungs- oder Verteidigungsfall gelten Absatz 1 Satz 1 Nummer
+2 bis 5 und folgende Vorschriften:
+
+1.  die Meldung nach § 24 Absatz 6 Satz 1 Nummer 1 ist innerhalb von 48
+    Stunden zu erstatten; § 24 Absatz 6 Satz 1 Nummer 1 zweiter Halbsatz
+    ist nicht anzuwenden;
+
+
+2.  ein Wehrpflichtiger, der seine Anerkennung als Kriegsdienstverweigerer
+    beantragt hat, kann zum Zivildienst einberufen werden, bevor über den
+    Antrag entschieden worden ist;
+
+
+3.  § 10 Nummer 4 ist nicht anzuwenden;
+
+
+4.  eine Befreiung nach § 11 Absatz 2 wird unwirksam;
+
+
+5.  eine Zurückstellung nach § 12 Absatz 2, 4, 5 oder 7 wird unwirksam;
+    eine erneute Zurückstellung nach § 12 Absatz 4 ist zulässig, wenn die
+    Heranziehung zum Wehrdienst für den Wehrpflichtigen eine unzumutbare
+    Härte bedeuten würde;
+
+
+6.  ein Wehrpflichtiger, der nach § 12 Absatz 2 vom Wehrdienst
+    zurückgestellt worden ist, wird auf Antrag zum Sanitätsdienst
+    einberufen;
+
+
+7.  ein Wehrpflichtiger, der sich zum freiwilligen Eintritt in die
+    Bundeswehr meldet, kann von einem Bataillonskommandeur oder einem
+    Offizier in entsprechender Dienststellung als Soldat, der auf Grund
+    der Wehrpflicht Wehrdienst leistet, mit dem untersten
+    Mannschaftsdienstgrad oder mit seinem letzten in der Bundeswehr
+    erreichten Dienstgrad eingestellt werden, wenn die Einberufung durch
+    das Karrierecenter der Bundeswehr nicht möglich ist.
+
+
+
 
 
 ### § 49 (weggefallen)

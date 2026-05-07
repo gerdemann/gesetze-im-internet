@@ -672,6 +672,61 @@ dadurch berührt, daß die Handlung nach der Geschäftsverteilung von
 einem anderen Richter wahrzunehmen gewesen wäre.
 
 
+### § 23
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005010131)
+
+Die Zuständigkeit der Amtsgerichte umfaßt in bürgerlichen
+Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des
+Streitgegenstandes den Landgerichten zugewiesen sind:
+
+1.  Streitigkeiten über Ansprüche, deren Gegenstand an Geld oder
+    Geldeswert die Summe von zehntausend Euro nicht übersteigt;
+
+
+2.  ohne Rücksicht auf den Wert des Streitgegenstandes:
+
+    a)  Streitigkeiten über Ansprüche aus einem Mietverhältnis über Wohnraum
+        oder über den Bestand eines solchen Mietverhältnisses; diese
+        Zuständigkeit ist ausschließlich;
+
+
+    b)  Streitigkeiten zwischen Reisenden und Wirten, Fuhrleuten, Schiffern
+        oder Auswanderungsexpedienten in den Einschiffungshäfen, die über
+        Wirtszechen, Fuhrlohn, Überfahrtsgelder, Beförderung der Reisenden und
+        ihrer Habe und über Verlust und Beschädigung der letzteren, sowie
+        Streitigkeiten zwischen Reisenden und Handwerkern, die aus Anlaß der
+        Reise entstanden sind;
+
+
+    c)  Streitigkeiten nach § 43 Absatz 2 des Wohnungseigentumsgesetzes; diese
+        Zuständigkeit ist ausschließlich;
+
+
+    d)  Streitigkeiten wegen Wildschadens;
+
+
+    e)  Streitigkeiten über Ansprüche aus dem Nachbarrecht nach den §§ 910,
+        911, 923 des Bürgerlichen Gesetzbuchs und nach § 906 des Bürgerlichen
+        Gesetzbuchs sowie nach den landesgesetzlichen Vorschriften im Sinne
+        des Artikels 124 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche,
+        sofern es sich nicht um Einwirkungen von einem gewerblichen Betrieb
+        handelt;
+
+
+    f)  (weggefallen)
+
+
+    g)  Ansprüche aus einem mit der Überlassung eines Grundstücks in
+        Verbindung stehenden Leibgedings-, Leibzuchts-, Altenteils- oder
+        Auszugsvertrag.
+
+
+
+
+
+
+
+
 ### § 23a
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005106311)
 
@@ -1560,6 +1615,101 @@ wahrgenommen werden können, sowie die, welche die Vertretung durch auf
 Lebenszeit ernannte Richter regeln.
 
 
+### § 71
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009409131)
+
+(1) Vor die Zivilkammern, einschließlich der Kammern für
+Handelssachen, gehören alle bürgerlichen Rechtsstreitigkeiten, die
+nicht den Amtsgerichten zugewiesen sind.
+
+(2) Die Landgerichte sind ohne Rücksicht auf den Wert des
+Streitgegenstandes ausschließlich zuständig
+
+1.  für die Ansprüche, die auf Grund der Beamtengesetze gegen den Fiskus
+    erhoben werden;
+
+
+2.  für die Ansprüche gegen Richter und Beamte wegen Überschreitung ihrer
+    amtlichen Befugnisse oder wegen pflichtwidriger Unterlassung von
+    Amtshandlungen;
+
+
+3.  für die in § 1 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes
+    genannten Ansprüche;
+
+
+4.  für Verfahren nach
+
+    a)  (weggefallen)
+
+
+    b)  den §§ 98, 99, 132, 142, 145, 258, 260, 293c und 315 des
+        Aktiengesetzes,
+
+
+    c)  § 26 des SE-Ausführungsgesetzes,
+
+
+    d)  § 10 des Umwandlungsgesetzes,
+
+
+    e)  dem Spruchverfahrensgesetz,
+
+
+    f)  den §§ 39a und 39b des Wertpapiererwerbs- und Übernahmegesetzes;
+
+
+
+
+
+5.  in Streitigkeiten
+
+    a)  über das Anordnungsrecht des Bestellers gemäß § 650b des Bürgerlichen
+        Gesetzbuchs,
+
+
+    b)  über die Höhe des Vergütungsanspruchs infolge einer Anordnung des
+        Bestellers (§ 650c des Bürgerlichen Gesetzbuchs);
+
+
+
+
+
+6.  für Ansprüche aus dem Unternehmensstabilisierungs- und
+    -restrukturierungsgesetz;
+
+
+7.  in Streitigkeiten über Ansprüche aus Veröffentlichungen durch
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet;
+
+
+8.  in Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt;
+
+
+9.  in Streitigkeiten aus Heilbehandlungen.
+
+
+
+
+(3) Der Landesgesetzgebung bleibt überlassen, Ansprüche gegen den
+Staat oder eine Körperschaft des öffentlichen Rechts wegen Verfügungen
+der Verwaltungsbehörden sowie Ansprüche wegen öffentlicher Abgaben
+ohne Rücksicht auf den Wert des Streitgegenstandes den Landgerichten
+ausschließlich zuzuweisen.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die Entscheidungen in Verfahren nach Absatz 2 Nummer 4 Buchstabe a bis
+e und Nummer 5 einem Landgericht für die Bezirke mehrerer Landgerichte
+zu übertragen. In Verfahren nach Absatz 2 Nummer 4 Buchstabe a bis e
+darf die Übertragung nur erfolgen, wenn dies der Sicherung einer
+einheitlichen Rechtsprechung dient. Die Landesregierungen können die
+Ermächtigung auf die Landesjustizverwaltungen übertragen.
+
+
 ### § 72
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009509125)
 
@@ -1581,6 +1731,56 @@ Oberlandesgerichts zu bestimmen. Sie können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
 
+### § 72a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026803131)
+
+(1) Bei den Landgerichten werden eine oder mehrere Zivilkammern für
+folgende Sachgebiete gebildet:
+
+1.  Streitigkeiten aus Bank- und Finanzgeschäften,
+
+
+2.  Streitigkeiten aus Bau- und Architektenverträgen sowie aus
+    Ingenieurverträgen, soweit sie im Zusammenhang mit Bauleistungen
+    stehen,
+
+
+3.  Streitigkeiten aus Heilbehandlungen,
+
+
+4.  Streitigkeiten aus Versicherungsvertragsverhältnissen,
+
+
+5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
+
+
+6.  erbrechtliche Streitigkeiten,
+
+
+7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
+    nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
+
+
+
+
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+bei den Landgerichten eine oder mehrere Zivilkammern für weitere
+Sachgebiete einzurichten. Die Landesregierungen können die
+Ermächtigung auf die Landesjustizverwaltungen übertragen.
+
+(3) Den Zivilkammern nach den Absätzen 1 und 2 können auch
+Streitigkeiten nach den §§ 71 und 72 zugewiesen werden.
+
+
 ### § 73
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009601160)
 
@@ -1595,6 +1795,144 @@ den Landgerichten zugewiesenen Geschäfte.
 ### § 73a (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009700666)
 
+
+
+### § 74
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009813131)
+
+(1) Die Strafkammern sind als erkennende Gerichte des ersten
+Rechtszuges zuständig für alle Verbrechen, die nicht zur Zuständigkeit
+des Amtsgerichts oder des Oberlandesgerichts gehören. Sie sind auch
+zuständig für alle Straftaten, bei denen eine höhere Strafe als vier
+Jahre Freiheitsstrafe oder die Unterbringung in einem psychiatrischen
+Krankenhaus, allein oder neben einer Strafe, oder in der
+Sicherungsverwahrung zu erwarten ist oder bei denen die
+Staatsanwaltschaft in den Fällen des § 24 Abs. 1 Nr. 3 Anklage beim
+Landgericht erhebt.
+
+(2) Für die Verbrechen
+
+1.  des sexuellen Missbrauchs von Kindern mit Todesfolge (§ 176d des
+    Strafgesetzbuches),
+
+
+2.  des sexuellen Übergriffs, der sexuellen Nötigung und Vergewaltigung
+    mit Todesfolge (§ 178 des Strafgesetzbuches),
+
+
+3.  des Mordes (§ 211 des Strafgesetzbuches),
+
+
+4.  des Totschlags (§ 212 des Strafgesetzbuches),
+
+
+5.  (weggefallen)
+
+
+6.  der Aussetzung mit Todesfolge (§ 221 Abs. 3 des Strafgesetzbuches),
+
+
+7.  der Körperverletzung mit Todesfolge (§ 227 des Strafgesetzbuches),
+
+
+8.  der Entziehung Minderjähriger mit Todesfolge (§ 235 Abs. 5 des
+    Strafgesetzbuches),
+
+
+8a. der Nachstellung mit Todesfolge (§ 238 Absatz 3 des
+    Strafgesetzbuches),
+
+
+9.  der Freiheitsberaubung mit Todesfolge (§ 239 Abs. 4 des
+    Strafgesetzbuches),
+
+
+10. des erpresserischen Menschenraubes mit Todesfolge (§ 239a Absatz 3 des
+    Strafgesetzbuches),
+
+
+11. der Geiselnahme mit Todesfolge (§ 239b Abs. 2 in Verbindung mit § 239a
+    Absatz 3 des Strafgesetzbuches),
+
+
+12. des Raubes mit Todesfolge (§ 251 des Strafgesetzbuches),
+
+
+13. des räuberischen Diebstahls mit Todesfolge (§ 252 in Verbindung mit §
+    251 des Strafgesetzbuches),
+
+
+14. der räuberischen Erpressung mit Todesfolge (§ 255 in Verbindung mit §
+    251 des Strafgesetzbuches),
+
+
+15. der Brandstiftung mit Todesfolge (§ 306c des Strafgesetzbuches),
+
+
+16. des Herbeiführens einer Explosion durch Kernenergie (§ 307 Abs. 1 bis
+    3 des Strafgesetzbuches),
+
+
+17. des Herbeiführens einer Sprengstoffexplosion mit Todesfolge (§ 308
+    Absatz 4 des Strafgesetzbuches),
+
+
+18. des Mißbrauchs ionisierender Strahlen gegenüber einer unübersehbaren
+    Zahl von Menschen (§ 309 Abs. 2 und 4 des Strafgesetzbuches),
+
+
+19. der fehlerhaften Herstellung einer kerntechnischen Anlage mit
+    Todesfolge (§ 312 Abs. 4 des Strafgesetzbuches),
+
+
+20. des Herbeiführens einer Überschwemmung mit Todesfolge (§ 313 in
+    Verbindung mit § 308 Absatz 4 des Strafgesetzbuches),
+
+
+21. der gemeingefährlichen Vergiftung mit Todesfolge (§ 314 in Verbindung
+    mit § 308 Absatz 4 des Strafgesetzbuches),
+
+
+22. des räuberischen Angriffs auf Kraftfahrer mit Todesfolge (§ 316a Abs.
+    3 des Strafgesetzbuches),
+
+
+23. des Angriffs auf den Luft- und Seeverkehr mit Todesfolge (§ 316c Abs.
+    3 des Strafgesetzbuches),
+
+
+24. der Beschädigung wichtiger Anlagen mit Todesfolge (§ 318 Abs. 4 des
+    Strafgesetzbuches),
+
+
+25. einer vorsätzlichen Umweltstraftat mit Todesfolge (§ 330 Abs. 2 Nr. 2
+    des Strafgesetzbuches),
+
+
+26. der schweren Gefährdung durch Freisetzen von Giften mit Todesfolge (§
+    330a Absatz 2 des Strafgesetzbuches),
+
+
+27. der Körperverletzung im Amt mit Todesfolge (§ 340 Absatz 3 in
+    Verbindung mit § 227 des Strafgesetzbuches),
+
+
+28. des Abgebens, Verabreichens oder Überlassens von Betäubungsmitteln zum
+    unmittelbaren Verbrauch mit Todesfolge (§ 30 Absatz 1 Nummer 3 des
+    Betäubungsmittelgesetzes),
+
+
+29. des Einschleusens mit Todesfolge (§ 97 Absatz 1 des
+    Aufenthaltsgesetzes)
+
+
+
+ist eine Strafkammer als Schwurgericht zuständig. § 120 bleibt
+unberührt.
+
+(3) Die Strafkammern sind außerdem zuständig für die Verhandlung und
+Entscheidung über das Rechtsmittel der Berufung gegen die Urteile des
+Strafrichters und des Schöffengerichts.
 
 
 ### § 74a
@@ -2522,6 +2860,56 @@ Verhandlung und Entscheidung über die Rechtsmittel:
 (2) § 23b Absatz 1, 2 und 3 Satz 3 und 4 gilt entsprechend.
 
 
+### § 119a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026903131)
+
+(1) Bei den Oberlandesgerichten werden ein oder mehrere Zivilsenate
+für folgende Sachgebiete gebildet:
+
+1.  Streitigkeiten aus Bank- und Finanzgeschäften,
+
+
+2.  Streitigkeiten aus Bau- und Architektenverträgen sowie aus
+    Ingenieurverträgen, soweit sie im Zusammenhang mit Bauleistungen
+    stehen,
+
+
+3.  Streitigkeiten aus Heilbehandlungen,
+
+
+4.  Streitigkeiten aus Versicherungsvertragsverhältnissen,
+
+
+5.  Streitigkeiten über Ansprüche aus Veröffentlichungen durch
+    Druckerzeugnisse und Bild- und Tonträger jeder Art, insbesondere in
+    Presse, Rundfunk, Film und Fernsehen sowie im Internet,
+
+
+6.  erbrechtliche Streitigkeiten,
+
+
+7.  insolvenzrechtliche Streitigkeiten und Beschwerden, Anfechtungssachen
+    nach dem Anfechtungsgesetz sowie Streitigkeiten und Beschwerden aus
+    dem Unternehmensstabilisierungs- und -restrukturierungsgesetz und
+
+
+8.  Streitigkeiten über die Vergabe von öffentlichen Aufträgen,
+    Konzessionen oder Rahmenvereinbarungen, soweit sich nicht aus Teil 4
+    des Gesetzes gegen Wettbewerbsbeschränkungen eine andere Zuständigkeit
+    ergibt.
+
+
+
+
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+bei den Oberlandesgerichten einen oder mehrere Zivilsenate für weitere
+Sachgebiete einzurichten. Die Landesregierungen können die
+Ermächtigung auf die Landesjustizverwaltungen übertragen.
+
+(3) Den Zivilsenaten nach den Absätzen 1 und 2 können auch
+Streitigkeiten nach § 119 Absatz 1 zugewiesen werden.
+
+
 ### § 119b
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027200125)
 
@@ -2599,6 +2987,170 @@ vorrangig anzuwendendem internationalen Recht unter geringeren
 Voraussetzungen wirksam wäre, gilt dies im Rahmen des
 Anwendungsbereiches dieses Rechts in gleicher Weise für die
 Vereinbarung nach Absatz 2 Satz 1.
+
+
+### § 120
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013921131)
+
+(1) In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die
+Landesregierungen ihren Sitz haben, für das Gebiet des Landes
+zuständig für die Verhandlung und Entscheidung im ersten Rechtszug
+
+1.  (weggefallen)
+
+
+2.  bei Hochverrat (§§ 81 bis 83 des Strafgesetzbuches),
+
+
+3.  bei Landesverrat und Gefährdung der äußeren Sicherheit (§§ 94 bis 100a
+    des Strafgesetzbuches) sowie bei Straftaten nach § 52 Abs. 2 des
+    Patentgesetzes, nach § 9 Abs. 2 des Gebrauchsmustergesetzes in
+    Verbindung mit § 52 Abs. 2 des Patentgesetzes oder nach § 4 Abs. 4 des
+    Halbleiterschutzgesetzes in Verbindung mit § 9 Abs. 2 des
+    Gebrauchsmustergesetzes und § 52 Abs. 2 des Patentgesetzes,
+
+
+4.  bei einem Angriff gegen Organe und Vertreter ausländischer Staaten (§
+    102 des Strafgesetzbuches),
+
+
+5.  bei einer Straftat gegen Verfassungsorgane in den Fällen der §§ 105,
+    106 des Strafgesetzbuches,
+
+
+6.  bei einer Zuwiderhandlung gegen das Vereinigungsverbot des § 129a,
+    auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches,
+
+
+7.  bei Nichtanzeige von Straftaten nach § 138 des Strafgesetzbuches, wenn
+    die Nichtanzeige eine Straftat betrifft, die zur Zuständigkeit der
+    Oberlandesgerichte gehört,
+
+
+8.  bei Straftaten nach dem Völkerstrafgesetzbuch und
+
+
+9.  bei Straftaten nach § 87a des Strafgesetzbuches, wenn die in Auftrag
+    gegebene Straftat zur Zuständigkeit der Oberlandesgerichte gehört.
+
+
+
+
+(2) Diese Oberlandesgerichte sind ferner für die Verhandlung und
+Entscheidung im ersten Rechtszug zuständig
+
+1.  bei den in § 74a Abs. 1 bezeichneten Straftaten, wenn der
+    Generalbundesanwalt wegen der besonderen Bedeutung des Falles nach §
+    74a Abs. 2 die Verfolgung übernimmt,
+
+
+2.  bei Mord (§ 211 des Strafgesetzbuches), Totschlag (§ 212 des
+    Strafgesetzbuches) und den in § 129a Abs. 1 Nr. 2 und Abs. 2 des
+    Strafgesetzbuches bezeichneten Straftaten, wenn ein Zusammenhang mit
+    der Tätigkeit einer nicht oder nicht nur im Inland bestehenden
+    Vereinigung besteht, deren Zweck oder Tätigkeit die Begehung von
+    Straftaten dieser Art zum Gegenstand hat, und der Generalbundesanwalt
+    wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt,
+
+
+3.  bei Mord (§ 211 des Strafgesetzbuchs), Totschlag (§ 212 des
+    Strafgesetzbuchs), erpresserischem Menschenraub (§ 239a des
+    Strafgesetzbuchs), Geiselnahme (§ 239b des Strafgesetzbuchs), schwerer
+    und besonders schwerer Brandstiftung (§§ 306a und 306b des
+    Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des
+    Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in
+    den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs,
+    Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Absatz
+    1 bis 4 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den
+    Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines
+    Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1
+    Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in
+    den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des
+    Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des §
+    314 Abs. 2 in Verbindung mit § 308 Absatz 2 und 4 des Strafgesetzbuchs
+    und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs.
+    1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet
+    ist,
+
+    a)  den Bestand oder die Sicherheit eines Staates zu beeinträchtigen,
+
+
+    b)  Verfassungsgrundsätze der Bundesrepublik Deutschland zu beseitigen,
+        außer Geltung zu setzen oder zu untergraben,
+
+
+    c)  die Sicherheit der in der Bundesrepublik Deutschland stationierten
+        Truppen des Nordatlantik-Pakts oder seiner nichtdeutschen
+        Vertragsstaaten zu beeinträchtigen oder
+
+
+    d)  den Bestand oder die Sicherheit einer internationalen Organisation zu
+        beeinträchtigen,
+
+
+
+    und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles
+    die Verfolgung übernimmt,
+
+
+4.  bei Straftaten nach dem Außenwirtschaftsgesetz, dem
+    Sanktionsdurchsetzungsgesetz sowie bei Straftaten nach dem Gesetz über
+    die Kontrolle von Kriegswaffen, wenn die Tat oder im Falle des
+    strafbaren Versuchs auch ihre unterstellte Vollendung nach den
+    Umständen
+
+    a)  geeignet ist, die äußere Sicherheit oder die auswärtigen Beziehungen
+        der Bundesrepublik Deutschland erheblich zu gefährden, oder
+
+
+    b)  bestimmt und geeignet ist, das friedliche Zusammenleben der Völker zu
+        stören,
+
+
+
+
+    und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles
+    die Verfolgung übernimmt.
+
+
+
+Eine besondere Bedeutung des Falles ist auch anzunehmen, wenn in den
+Fällen des Satzes 1 eine Ermittlungszuständigkeit des
+Generalbundesanwalts wegen des länderübergreifenden Charakters der Tat
+geboten erscheint. Die Oberlandesgerichte verweisen bei der Eröffnung
+des Hauptverfahrens die Sache in den Fällen der Nummer 1 an das
+Landgericht, in den Fällen der Nummern 2 bis 4 an das Land- oder
+Amtsgericht, wenn eine besondere Bedeutung des Falles nicht vorliegt.
+
+(3) In den Sachen, in denen diese Oberlandesgerichte nach Absatz 1
+oder 2 zuständig sind, treffen sie auch die in § 73 Abs. 1
+bezeichneten Entscheidungen. Sie entscheiden ferner über die
+Beschwerde gegen Verfügungen der Ermittlungsrichter der
+Oberlandesgerichte (§ 169 Abs. 1 Satz 1 der Strafprozeßordnung) in den
+in § 304 Abs. 5 der Strafprozeßordnung bezeichneten Fällen.
+
+(4) Diese Oberlandesgerichte entscheiden auch über die Beschwerde
+gegen Verfügungen und Entscheidungen des nach § 74a zuständigen
+Gerichts. Für Entscheidungen über die Beschwerde gegen Verfügungen und
+Entscheidungen des nach § 74a Abs. 4 zuständigen Gerichts sowie in den
+Fällen des § 100e Absatz 2 Satz 6 der Strafprozessordnung ist ein
+nicht mit Hauptverfahren in Strafsachen befasster Senat zuständig.
+
+(5) Für den Gerichtsstand gelten die allgemeinen Vorschriften. Die
+beteiligten Länder können durch Vereinbarung die den
+Oberlandesgerichten in den Absätzen 1 bis 4 zugewiesenen Aufgaben dem
+hiernach zuständigen Gericht eines Landes auch für das Gebiet eines
+anderen Landes übertragen.
+
+(6) Soweit nach § 142a für die Verfolgung der Strafsachen die
+Zuständigkeit des Bundes begründet ist, üben diese Oberlandesgerichte
+Gerichtsbarkeit nach Artikel 96 Abs. 5 des Grundgesetzes aus.
+
+(7) Soweit die Länder aufgrund von Strafverfahren, in denen die
+Oberlandesgerichte in Ausübung von Gerichtsbarkeit des Bundes
+entscheiden, Verfahrenskosten und Auslagen von Verfahrensbeteiligten
+zu tragen oder Entschädigungen zu leisten haben, können sie vom Bund
+Erstattung verlangen.
 
 
 ### § 120a

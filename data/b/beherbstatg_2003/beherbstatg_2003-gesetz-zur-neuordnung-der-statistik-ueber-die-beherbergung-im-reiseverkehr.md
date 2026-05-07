@@ -39,6 +39,44 @@ der Erhebung vorangegangene Kalendermonat. Stichtag für die jährliche
 Erhebung ist der 31. Juli.
 
 
+## § 3 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000303128)
+
+(1) Beherbergungsbetriebe im Sinne des § 1 sind Betriebe und
+Betriebsteile, die nach Einrichtung und Zweckbestimmung dazu dienen,
+mindestens zehn Gäste gleichzeitig vorübergehend zu beherbergen. Bei
+Campingplätzen müssen mindestens zehn Stellplätze vorhanden sein.
+
+(2) Die Erhebungen erstrecken sich auf
+
+1.  folgende Wirtschaftsgruppen des Anhangs I der Verordnung (EG) Nr.
+    1893/2006 in Verbindung mit der vom Statistischen Bundesamt daraus
+    erstellten Klassifikation der Wirtschaftszweige:
+
+    a)  55.1 – Hotels, Gasthöfe und Pensionen,
+
+
+    b)  55.2 – Ferienunterkünfte und ähnliche Beherbergungsstätten,
+
+
+    c)  55.3 – Campingplätze,
+
+
+    d)  55.4 – Vermittlungstätigkeiten für Beherbergungsdienstleistungen;
+
+
+
+
+
+2.  Schulungsheime;
+
+
+3.  Vorsorge- und Rehabilitationskliniken.
+
+
+
+
+
 ## § 4 Erhebungsmerkmale
 [Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000402360)
 

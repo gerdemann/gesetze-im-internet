@@ -84,6 +84,284 @@ werden, das berechtigt ist, die Bundesflagge oder das
 Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
 
 
+##### § 5 Auslandstaten mit besonderem Inlandsbezug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007223129)
+
+Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
+folgende Taten, die im Ausland begangen werden:
+
+1.  (weggefallen)
+
+
+2.  Hochverrat (§§ 81 bis 83);
+
+
+3.  Gefährdung des demokratischen Rechtsstaates
+
+    a)  in den Fällen des § 86 Absatz 1 und 2, wenn Propagandamittel im Inland
+        wahrnehmbar verbreitet oder der inländischen Öffentlichkeit zugänglich
+        gemacht werden und der Täter Deutscher ist oder seine Lebensgrundlage
+        im Inland hat,
+
+
+    b)  in den Fällen des § 86a Absatz 1 Nummer 1, wenn ein Kennzeichen im
+        Inland wahrnehmbar verbreitet oder in einer der inländischen
+        Öffentlichkeit zugänglichen Weise oder in einem im Inland wahrnehmbar
+        verbreiteten Inhalt (§ 11 Absatz 3) verwendet wird und der Täter
+        Deutscher ist oder seine Lebensgrundlage im Inland hat,
+
+
+    c)  in den Fällen der §§ 89, 90a Abs. 1 und des § 90b, wenn der Täter
+        Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich
+        dieses Gesetzes hat,
+
+
+    d)  in Fällen des § 89a Absatz 1 Satz 2, wenn die Tat in einem der
+        Mitgliedstaaten der Europäischen Union begangen wird oder diese
+        außerhalb der Mitgliedstaaten der Europäischen Union durch oder gegen
+        einen Deutschen oder durch einen Ausländer mit Lebensgrundlage im
+        Inland begangen wird oder der Täter im Inland betroffen und, obwohl
+        das Auslieferungsgesetz seine Auslieferung nach der Art der Tat
+        zuließe, nicht ausgeliefert wird, weil ein Auslieferungsersuchen
+        innerhalb angemessener Frist nicht gestellt oder abgelehnt wird oder
+        die Auslieferung nicht ausführbar ist, und
+
+
+    e)  in den Fällen der §§ 90 und 90a Abs. 2;
+
+
+
+
+
+4.  Landesverrat und Gefährdung der äußeren Sicherheit (§§ 94 bis 100a);
+
+
+5.  Straftaten gegen die Landesverteidigung
+
+    a)  in den Fällen der §§ 109 und 109e bis 109g und
+
+
+    b)  in den Fällen der §§ 109a, 109d und 109h, wenn der Täter Deutscher ist
+        und seine Lebensgrundlage im räumlichen Geltungsbereich dieses
+        Gesetzes hat;
+
+
+
+
+
+5a. Widerstand gegen die Staatsgewalt und Straftaten gegen die öffentliche
+    Ordnung
+
+    a)  in den Fällen des § 111, wenn die Aufforderung im Inland wahrnehmbar
+        ist und der Täter Deutscher ist oder seine Lebensgrundlage im Inland
+        hat,
+
+
+    b)  in den Fällen des § 127, wenn der Zweck der Handelsplattform darauf
+        ausgerichtet ist, die Begehung von rechtswidrigen Taten im Inland zu
+        ermöglichen oder zu fördern und der Täter Deutscher ist oder seine
+        Lebensgrundlage im Inland hat, und
+
+
+    c)  in den Fällen des § 130 Absatz 2 Nummer 1, auch in Verbindung mit
+        Absatz 6, wenn ein in Absatz 2 Nummer 1 oder Absatz 3 bezeichneter
+        Inhalt (§ 11 Absatz 3) in einer Weise, die geeignet ist, den
+        öffentlichen Frieden zu stören, im Inland wahrnehmbar verbreitet oder
+        der inländischen Öffentlichkeit zugänglich gemacht wird und der Täter
+        Deutscher ist oder seine Lebensgrundlage im Inland hat;
+
+
+
+
+
+6.  Straftaten gegen die persönliche Freiheit
+
+    a)  in den Fällen der §§ 234a und 241a, wenn die Tat sich gegen eine
+        Person richtet, die zur Zeit der Tat Deutsche ist und ihren Wohnsitz
+        oder gewöhnlichen Aufenthalt im Inland hat,
+
+
+    b)  in den Fällen des § 235 Absatz 2 Nummer 2, wenn die Tat sich gegen
+        eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder
+        gewöhnlichen Aufenthalt im Inland hat, und
+
+
+    c)  in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist
+        oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich gegen
+        eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder
+        gewöhnlichen Aufenthalt im Inland hat;
+
+
+
+
+
+7.  Verletzung von Betriebs- oder Geschäftsgeheimnissen eines im
+    räumlichen Geltungsbereich dieses Gesetzes liegenden Betriebs, eines
+    Unternehmens, das dort seinen Sitz hat, oder eines Unternehmens mit
+    Sitz im Ausland, das von einem Unternehmen mit Sitz im räumlichen
+    Geltungsbereich dieses Gesetzes abhängig ist und mit diesem einen
+    Konzern bildet;
+
+
+8.  Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174
+    Absatz 1, 2 und 4, der §§ 176 bis 178 und des § 182, wenn der Täter
+    zur Zeit der Tat Deutscher ist oder seine Lebensgrundlage im Inland
+    hat;
+
+
+9.  Straftaten gegen das Leben
+
+    a)  in den Fällen des § 218 Absatz 2 Satz 2 Nummer 1 und Absatz 4 Satz 1,
+        wenn der Täter zur Zeit der Tat Deutscher ist oder seine
+        Lebensgrundlage im Inland hat, und
+
+
+    b)  in den übrigen Fällen des § 218, wenn der Täter zur Zeit der Tat
+        Deutscher ist und seine Lebensgrundlage im Inland hat;
+
+
+
+
+
+9a. Straftaten gegen die körperliche Unversehrtheit
+
+    a)  in den Fällen des § 226 Absatz 1 Nummer 1 in Verbindung mit Absatz 2
+        bei Verlust der Fortpflanzungsfähigkeit, wenn der Täter zur Zeit der
+        Tat Deutscher ist oder seine Lebensgrundlage im Inland hat, und
+
+
+    b)  in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher
+        ist oder seine Lebensgrundlage im Inland hat oder wenn die Tat sich
+        gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder
+        gewöhnlichen Aufenthalt im Inland hat;
+
+
+
+
+
+10. falsche uneidliche Aussage, Meineid und falsche Versicherung an Eides
+    Statt (§§ 153 bis 156) in einem Verfahren, das im räumlichen
+    Geltungsbereich dieses Gesetzes bei einem Gericht oder einer anderen
+    deutschen Stelle anhängig ist, die zur Abnahme von Eiden oder
+    eidesstattlichen Versicherungen zuständig ist;
+
+
+10a. Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben
+    (§§ 265c und 265d), wenn sich die Tat auf einen Wettbewerb bezieht,
+    der im Inland stattfindet;
+
+
+11. Straftaten gegen die Umwelt in den Fällen der §§ 324, 326, 330 und
+    330a, die im Bereich der deutschen ausschließlichen Wirtschaftszone
+    begangen werden, soweit völkerrechtliche Übereinkommen zum Schutze des
+    Meeres ihre Verfolgung als Straftaten gestatten;
+
+
+11a. Straftaten nach § 328 Abs. 2 Nr. 3 und 4, Abs. 4 und 5, auch in
+    Verbindung mit § 330, wenn der Täter zur Zeit der Tat Deutscher ist;
+
+
+12. Taten, die ein deutscher Amtsträger oder für den öffentlichen Dienst
+    besonders Verpflichteter während eines dienstlichen Aufenthalts oder
+    in Beziehung auf den Dienst begeht;
+
+
+13. Taten, die ein Ausländer als Amtsträger oder für den öffentlichen
+    Dienst besonders Verpflichteter begeht;
+
+
+14. Taten, die jemand gegen einen Amtsträger, einen für den öffentlichen
+    Dienst besonders Verpflichteten oder einen Soldaten der Bundeswehr
+    während der Ausübung ihres Dienstes oder in Beziehung auf ihren Dienst
+    begeht;
+
+
+15. Straftaten im Amt nach den §§ 331 bis 337, wenn
+
+    a)  der Täter zur Zeit der Tat Deutscher ist,
+
+
+    b)  der Täter zur Zeit der Tat Europäischer Amtsträger ist und seine
+        Dienststelle ihren Sitz im Inland hat,
+
+
+    c)  die Tat gegenüber einem Amtsträger, einem für den öffentlichen Dienst
+        besonders Verpflichteten oder einem Soldaten der Bundeswehr begangen
+        wird oder
+
+
+    d)  die Tat gegenüber einem Europäischen Amtsträger oder Schiedsrichter,
+        der zur Zeit der Tat Deutscher ist, oder einer nach § 335a
+        gleichgestellten Person begangen wird, die zur Zeit der Tat Deutsche
+        ist;
+
+
+
+
+
+16. Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e) und
+    unzulässige Interessenwahrnehmung (§ 108f), wenn
+
+    a)  der Täter zur Zeit der Tat Mitglied einer deutschen Volksvertretung
+        oder Deutscher ist oder
+
+
+    b)  die Tat gegenüber einem Mitglied einer deutschen Volksvertretung oder
+        einer Person, die zur Zeit der Tat Deutsche ist, begangen wird;
+
+
+
+
+
+17. Organ- und Gewebehandel (§ 18 des Transplantationsgesetzes), wenn der
+    Täter zur Zeit der Tat Deutscher ist.
+
+
+
+
+
+##### § 6 Auslandstaten gegen international geschützte Rechtsgüter
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007317129)
+
+Das deutsche Strafrecht gilt weiter, unabhängig vom Recht des Tatorts,
+für folgende Taten, die im Ausland begangen werden:
+
+1.  (weggefallen)
+
+
+2.  Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der
+    §§ 307 und 308 Absatz 1 bis 5, des § 309 Abs. 2 und des § 310;
+
+
+3.  Angriffe auf den Luft- und Seeverkehr (§ 316c);
+
+
+4.  Menschenhandel (§ 232);
+
+
+5.  unbefugter Vertrieb von Betäubungsmitteln;
+
+
+6.  Verbreitung pornographischer Inhalte in den Fällen der §§ 184a, 184b
+    Absatz 1 und 2 und § 184c Absatz 1 und 2;
+
+
+7.  Geld- und Wertpapierfälschung (§§ 146, 151 und 152), Fälschung von
+    Zahlungskarten mit Garantiefunktion (§ 152b Abs. 1 bis 4) sowie deren
+    Vorbereitung (§§ 149, 151, 152 und 152b Abs. 5);
+
+
+8.  Subventionsbetrug (§ 264);
+
+
+9.  Taten, die auf Grund eines für die Bundesrepublik Deutschland
+    verbindlichen zwischenstaatlichen Abkommens auch dann zu verfolgen
+    sind, wenn sie im Ausland begangen werden.
+
+
+
+
+
 ##### § 7 Geltung für Auslandstaten in anderen Fällen
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007403377)
 
@@ -3321,6 +3599,181 @@ so kann das Gericht die Einziehung des Wertersatzes nachträglich
 anordnen.
 
 
+##### § 76a Selbständige Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018508129)
+
+(1) Kann wegen der Straftat keine bestimmte Person verfolgt oder
+verurteilt werden, so ordnet das Gericht die Einziehung oder die
+Unbrauchbarmachung selbständig an, wenn die Voraussetzungen, unter
+denen die Maßnahme vorgeschrieben ist, im Übrigen vorliegen. Ist sie
+zugelassen, so kann das Gericht die Einziehung unter den
+Voraussetzungen des Satzes 1 selbständig anordnen. Die Einziehung wird
+nicht angeordnet, wenn Antrag, Ermächtigung oder Strafverlangen fehlen
+oder bereits rechtskräftig über sie entschieden worden ist.
+
+(2) Unter den Voraussetzungen der §§ 73, 73b und 73c ist die
+selbständige Anordnung der Einziehung des Tatertrages und die
+selbständige Einziehung des Wertes des Tatertrages auch dann zulässig,
+wenn die Verfolgung der Straftat verjährt ist. Unter den
+Voraussetzungen der §§ 74b und 74d gilt das Gleiche für die
+selbständige Anordnung der Sicherungseinziehung, der Einziehung von
+Verkörperungen eines Inhalts und der Unbrauchbarmachung.
+
+(3) Absatz 1 ist auch anzuwenden, wenn das Gericht von Strafe absieht
+oder wenn das Verfahren nach einer Vorschrift eingestellt wird, die
+dies nach dem Ermessen der Staatsanwaltschaft oder des Gerichts oder
+im Einvernehmen beider zulässt.
+
+(4) Ein wegen des Verdachts einer in Satz 3 genannten Straftat
+sichergestellter Gegenstand sowie daraus gezogene Nutzungen sollen
+auch dann selbständig eingezogen werden, wenn der Gegenstand aus einer
+rechtswidrigen Tat herrührt und der von der Sicherstellung Betroffene
+nicht wegen der ihr zugrundeliegenden Straftat verfolgt oder
+verurteilt werden kann. Wird die Einziehung eines Gegenstandes
+angeordnet, so geht das Eigentum an der Sache oder das Recht mit der
+Rechtskraft der Entscheidung auf den Staat über; § 75 Absatz 3 gilt
+entsprechend. Straftaten im Sinne des Satzes 1 sind
+
+1.  aus diesem Gesetz:
+
+    a)  Vorbereitung einer terroristischen Straftat nach § 89a und
+        Terrorismusfinanzierung nach § 89c Absatz 1 bis 4 und 8,
+
+
+    b)  Bildung krimineller Vereinigungen nach § 129 Absatz 1 und Bildung
+        terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5, jeweils
+        auch in Verbindung mit § 129b Absatz 1,
+
+
+    c)  Zuhälterei nach § 181a Absatz 1, auch in Verbindung mit Absatz 3,
+
+
+    d)  Verbreitung, Erwerb und Besitz kinderpornografischer Inhalte in den
+        Fällen des § 184b Absatz 2,
+
+
+    e)  gewerbs- und bandenmäßige Begehung des Menschenhandels, der
+        Zwangsprostitution und der Zwangsarbeit nach den §§ 232 bis 232b sowie
+        bandenmäßige Ausbeutung der Arbeitskraft und Ausbeutung unter
+        Ausnutzung einer Freiheitsberaubung nach den §§ 233 und 233a,
+
+
+    f)  Geldwäsche nach § 261 Absatz 1 und 2,
+
+
+
+
+
+2.  aus der Abgabenordnung:
+
+    a)  Steuerhinterziehung unter den in § 370 Absatz 3 Nummer 5 genannten
+        Voraussetzungen,
+
+
+    b)  gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel nach § 373,
+
+
+    c)  Steuerhehlerei im Fall des § 374 Absatz 2,
+
+
+
+
+
+3.  aus dem Asylgesetz:
+
+    a)  Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Absatz 3,
+
+
+    b)  gewerbs- und bandenmäßige Verleitung zur missbräuchlichen
+        Asylantragstellung nach § 84a,
+
+
+
+
+
+4.  aus dem Aufenthaltsgesetz:
+
+    a)  Einschleusen von Ausländern nach § 96 Absatz 2,
+
+
+    b)  Einschleusen mit Todesfolge sowie gewerbs- und bandenmäßiges
+        Einschleusen nach § 97,
+
+
+
+
+
+5.  aus dem Außenwirtschaftsgesetz:
+
+    vorsätzliche Straftaten nach den §§ 17 und 18,
+
+
+6.  aus dem Betäubungsmittelgesetz:
+
+    a)  Straftaten nach einer in § 29 Absatz 3 Satz 2 Nummer 1 in Bezug
+        genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+
+    b)  Straftaten nach den §§ 29a, 30 Absatz 1 Nummer 1, 2 und 4 sowie den §§
+        30a und 30b,
+
+
+
+
+
+6a. aus dem Konsumcannabisgesetz:
+
+    a)  Straftaten nach einer in § 34 Absatz 3 Satz 2 Nummer 1 oder Nummer 4
+        in Bezug genommenen Vorschrift unter den dort genannten
+        Voraussetzungen,
+
+
+    b)  Straftaten nach § 34 Absatz 4,
+
+
+
+
+
+6b. aus dem Medizinal-Cannabisgesetz:
+
+    a)  Straftaten nach einer in § 25 Absatz 4 Satz 2 Nummer 1 oder Nummer 4
+        in Bezug genommenen Vorschrift unter den dort genannten
+        Voraussetzungen,
+
+
+    b)  Straftaten nach § 25 Absatz 5,
+
+
+
+
+
+7.  aus dem Gesetz über die Kontrolle von Kriegswaffen:
+
+    a)  Straftaten nach § 19 Absatz 1 bis 3 und § 20 Absatz 1 und 2 sowie §
+        20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21,
+
+
+    b)  Straftaten nach § 22a Absatz 1 bis 3,
+
+
+
+
+
+8.  aus dem Waffengesetz:
+
+    a)  Straftaten nach § 51 Absatz 1 bis 3,
+
+
+    b)  Straftaten nach § 52 Absatz 1 Nummer 1 und 2 Buchstabe c und d sowie
+        Absatz 5 und 6.
+
+
+
+
+
+
+
+
 ##### § 76b Verjährung der Einziehung von Taterträgen und des Wertes von Taterträgen
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068300123)
 
@@ -4128,6 +4581,18 @@ Sabotagehandlungen, deren Planung er kennt, noch verhindert werden
 können.
 
 
+##### § 87a Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE070000129)
+
+(1) Wer einen Auftrag einer staatlichen Stelle einer fremden Macht
+dadurch befolgt, dass er in der Bundesrepublik Deutschland eine
+vorsätzliche rechtswidrige Tat begeht, wird mit Freiheitsstrafe bis zu
+fünf Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in
+anderen Vorschriften mit schwererer Strafe bedroht ist.
+
+(2) Ebenso wird bestraft, wer einen solchen Auftrag erteilt.
+
+
 ##### § 88 Verfassungsfeindliche Sabotage
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021003307)
 
@@ -4177,6 +4642,296 @@ bestraft.
 (2) Der Versuch ist strafbar.
 
 (3) § 86 Absatz 5 gilt entsprechend.
+
+
+##### § 89a Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066504129)
+
+(1) Wer eine terroristische Straftat nach Satz 2 Nummer 1 bis 8
+vorbereitet und dabei in den Fällen des Absatzes 2 Nummer 1 bis 3 in
+der Absicht handelt, diese terroristische Straftat selbst zu begehen
+oder in dem Wissen oder der Absicht handelt, dass seine
+Vorbereitungshandlung einen wirksamen Beitrag zu einer terroristischen
+Straftat eines anderen leisten soll, wird mit Freiheitsstrafe von
+sechs Monaten bis zu zehn Jahren bestraft. Terroristische Straftaten
+sind
+
+1.  Mord (§ 211), Totschlag (§ 212), Völkermord (§ 6 des
+    Völkerstrafgesetzbuches), Verbrechen gegen die Menschlichkeit (§ 7 des
+    Völkerstrafgesetzbuches) und Kriegsverbrechen (§§ 8 bis 12 des
+    Völkerstrafgesetzbuches),
+
+
+2.  Körperverletzungen nach § 224 und Körperverletzungen, die einem
+    anderen Menschen schwere körperliche oder seelische Schäden,
+    insbesondere der in § 226 bezeichneten Art, zufügen,
+
+
+3.  erpresserischer Menschenraub (§ 239a) und Geiselnahme (§ 239b),
+
+
+4.  Straftaten nach den §§ 303b, 305, 305a und gemeingefährliche
+    Straftaten in den Fällen der §§ 306 bis 306c und 307 Absatz 1 bis 3,
+    des § 308 Absatz 1 bis 5, des § 309 Absatz 1 bis 5, der §§ 313, 314
+    und 315 Absatz 1, 3 und 4, des § 316b Absatz 1 und 3, des § 316c
+    Absatz 1 bis 3 und des § 317 Absatz 1,
+
+
+5.  Straftaten gegen die Umwelt in den Fällen des § 330a Absatz 1 bis 3,
+
+
+6.  Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 und 2 und § 20a
+    Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, und nach § 22a
+    Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
+
+
+7.  Straftaten nach § 51 Absatz 1 bis 3 und § 52 Absatz 1, 3, 5 und 6 des
+    Waffengesetzes,
+
+
+8.  Straftaten nach § 310 Absatz 1 und 2 und § 328 Absatz 1 und 2,
+
+
+9.  die Androhung, eine in den Nummern 1 bis 8 bezeichnete Tat zu begehen,
+
+
+
+wenn die Tat bestimmt ist, die Bevölkerung auf erhebliche Weise
+einzuschüchtern, eine Behörde oder eine internationale Organisation
+rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder
+die politischen, verfassungsrechtlichen, wirtschaftlichen oder
+sozialen Grundstrukturen eines Staates oder einer internationalen
+Organisation zu beseitigen oder erheblich zu beeinträchtigen und durch
+die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine
+internationale Organisation erheblich schädigen kann.
+
+(2) Absatz 1 ist nur anzuwenden, wenn der Täter eine terroristische
+Straftat nach Absatz 1 Satz 2 Nummer 1 bis 8 vorbereitet, indem er
+
+1.  eine andere Person unterweist oder sich unterweisen lässt in der
+    Herstellung von oder im Umgang mit Waffen, Sprengstoffen, Spreng- oder
+    Brandvorrichtungen, Kernbrenn- oder sonstigen radioaktiven Stoffen,
+    Stoffen, die Gift enthalten oder hervorbringen können, anderen
+    gesundheitsschädlichen Stoffen, zur Ausführung der Tat erforderlichen
+    besonderen Vorrichtungen oder in sonstigen Fertigkeiten, die der
+    Begehung einer der in Absatz 1 Satz 2 Nummer 1 bis 8 genannten
+    Straftaten dienen,
+
+
+2.  Stoffe, Vorrichtungen der in Nummer 1 bezeichneten Art, Waffen oder
+    gefährliche Werkzeuge mit der Absicht, diese gefährlichen Werkzeuge
+    bei der terroristischen Straftat zu verwenden, herstellt, sich oder
+    einem anderen verschafft, befördert, verwahrt oder einem anderen
+    überlässt oder zur Entwicklung oder Herstellung von Atomwaffen,
+    biologischen oder chemischen Waffen nach den §§ 19 und 20 des Gesetzes
+    über die Kontrolle von Kriegswaffen forscht,
+
+
+3.  Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die
+    Herstellung von Waffen, Stoffen oder Vorrichtungen der in Nummer 1
+    bezeichneten Art wesentlich sind,
+
+
+4.  aus der Bundesrepublik Deutschland ausreist, um
+
+    a)  eine terroristische Straftat zu begehen oder sich an einer solchen zu
+        beteiligen oder eine in Nummer 1 genannte Handlung zu begehen oder
+
+
+    b)  sich an einer Vereinigung im Sinne des § 129a, auch in Verbindung mit
+        § 129b, als Mitglied zu beteiligen oder um eine solche Vereinigung zu
+        unterstützen, oder
+
+
+
+
+
+5.  in die Bundesrepublik Deutschland einreist, um
+
+    a)  eine terroristische Straftat zu begehen oder sich an einer solchen zu
+        beteiligen oder eine in Nummer 1 genannte Handlung zu begehen oder
+
+
+    b)  sich an einer Vereinigung im Sinne des § 129a, auch in Verbindung mit
+        § 129b, als Mitglied zu beteiligen oder um eine solche Vereinigung zu
+        unterstützen.
+
+
+
+
+
+
+
+(2a) In den Fällen des Absatzes 1 Satz 1 in Verbindung mit Absatz 2
+Nummer 1, 2, 4 oder 5 ist der Versuch strafbar.
+
+(2b) Für den Versuch der Anstiftung zu einem der in Absatz 1 Satz 2
+Nummer 1 bis 8 genannten Vergehen gelten § 30 Absatz 1 und § 31 Absatz
+1 Nummer 1 und Absatz 2 entsprechend.
+
+(3) Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den
+Absätzen 2a, 2b und 8 beschriebenen Handlungen im Ausland begangen, so
+gilt deutsches Strafrecht unter den Voraussetzungen des § 5 Nummer 3
+Buchstabe d entsprechend. Außerdem ist deutsches Strafrecht anwendbar,
+wenn die vorbereitete oder angedrohte terroristische Straftat oder die
+terroristische Straftat, zu der die Anstiftung versucht wird, im
+Inland oder durch oder gegen einen Deutschen begangen werden soll.
+
+(4) Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den
+Absätzen 2a, 2b und 8 beschriebenen Handlungen außerhalb der
+Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung
+durch das Bundesministerium der Justiz und für Verbraucherschutz.
+Werden die in Absatz 1 in Verbindung mit Absatz 2 und die in den
+Absätzen 2a, 2b und 8 beschriebenen Handlungen in einem anderen
+Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung
+der Ermächtigung durch das Bundesministerium der Justiz und für
+Verbraucherschutz, wenn die Tat weder durch einen Deutschen begangen
+wurde noch die vorbereitete oder angedrohte terroristische Straftat
+oder die terroristische Straftat, zu der die Anstiftung versucht wird,
+im Inland noch durch oder gegen einen Deutschen begangen werden soll.
+
+(5) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei
+Monaten bis zu fünf Jahren.
+
+(6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).
+
+(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49
+Abs. 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn
+der Täter freiwillig die weitere Vorbereitung der terroristischen
+Straftat aufgibt und eine von ihm verursachte und erkannte Gefahr,
+dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet
+oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser
+Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr
+abgewendet oder wesentlich gemindert oder die Vollendung der
+terroristischen Straftat verhindert, genügt sein freiwilliges und
+ernsthaftes Bemühen, dieses Ziel zu erreichen.
+
+(8) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird
+bestraft, wer androht, eine terroristische Straftat zu begehen (Absatz
+1 Satz 2 Nummer 9). Absatz 7 gilt entsprechend.
+
+
+##### § 89b Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066602129)
+
+(1) Wer in der Absicht, sich in der Begehung einer terroristischen
+Straftat gemäß § 89a Abs. 2 Nr. 1 unterweisen zu lassen, zu einer
+Vereinigung im Sinne des § 129a, auch in Verbindung mit § 129b,
+Beziehungen aufnimmt oder unterhält, wird mit Freiheitsstrafe bis zu
+drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Absatz 1 gilt nicht, wenn die Handlung ausschließlich der
+Erfüllung rechtmäßiger beruflicher oder dienstlicher Pflichten dient.
+
+(3) Absatz 1 gilt auch, wenn das Aufnehmen oder Unterhalten von
+Beziehungen im Ausland erfolgt. Außerhalb der Mitgliedstaaten der
+Europäischen Union gilt dies nur, wenn das Aufnehmen oder Unterhalten
+von Beziehungen durch einen Deutschen oder einen Ausländer mit
+Lebensgrundlage im Inland begangen wird.
+
+(4) Die Verfolgung bedarf der Ermächtigung durch das Bundesministerium
+der Justiz und für Verbraucherschutz
+
+1.  in den Fällen des Absatzes 3 Satz 2 oder
+
+
+2.  wenn das Aufnehmen oder Unterhalten von Beziehungen in einem anderen
+    Mitgliedstaat der Europäischen Union nicht durch einen Deutschen
+    begangen wird.
+
+
+
+
+(5) Ist die Schuld gering, so kann das Gericht von einer Bestrafung
+nach dieser Vorschrift absehen.
+
+
+##### § 89c Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067102129)
+
+(1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung
+stellt mit dem Wissen oder in der Absicht, dass diese von einer
+anderen Person zur Begehung einer terroristischen Straftat nach § 89a
+Absatz 1 Satz 2 Nummer 1 bis 8 oder einer Straftat nach § 89a Absatz 2
+Nummer 2, 4 oder 5 verwendet werden sollen, wird mit Freiheitsstrafe
+von sechs Monaten bis zu zehn Jahren bestraft. Ebenso wird bestraft,
+wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt,
+um selbst eine terroristische Straftat nach § 89a Absatz 1 Satz 2
+Nummer 1 bis 8 oder eine Straftat nach § 89a Absatz 2 Nummer 2, 4 oder
+5 zu begehen.
+
+(2) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung
+stellt mit dem Wissen oder in der Absicht, dass diese von einer
+anderen Person dazu verwendet werden sollen,
+
+1.  öffentlich zu einer terroristischen Straftat nach § 89a Absatz 1 Satz
+    2 Nummer 1 bis 8 aufzufordern oder einen Inhalt (§ 11 Absatz 3)
+    anzupreisen oder einer anderen Person zugänglich zu machen, der
+    geeignet ist, als Anleitung zu einer terroristischen Straftat nach §
+    89a Absatz 1 Satz 2 Nummer 1 bis 8 zu dienen, wenn die Umstände seiner
+    Verbreitung geeignet sind, die Bereitschaft anderer zu fördern oder zu
+    wecken, eine terroristische Straftat zu begehen,
+
+
+2.  einen anderen zur Begehung einer terroristischen Straftat nach § 89a
+    Absatz 1 Satz 2 Nummer 1 bis 8 zu bestimmen, zu dessen terroristischer
+    Straftat nach § 89a Absatz 1 Nummer 1 bis 8 Hilfe zu leisten oder eine
+    Straftat nach § 89a Absatz 2b zu begehen,
+
+
+3.  eine Straftat nach § 89a Absatz 2 Nummer 1 zu begehen,
+
+
+4.  zu einer Straftat nach § 89a Absatz 2 Nummer 4 oder 5 Hilfe zu leisten
+    oder
+
+
+5.  eine Straftat nach § 89a Absatz 8 zu begehen,
+
+
+
+wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+Ebenso wird bestraft, wer Vermögenswerte sammelt, entgegennimmt oder
+zur Verfügung stellt, um selbst eine Tat nach Satz 1 zu begehen.
+
+(3) Werden die in den Absätzen 1, 2 oder 8 beschriebenen Handlungen im
+Ausland begangen, so gilt deutsches Strafrecht unter den
+Voraussetzungen des § 5 Nummer 3 Buchstabe d entsprechend. Außerdem
+ist deutsches Strafrecht anwendbar, wenn die finanzierte
+terroristische Straftat im Inland oder gegen einen Deutschen begangen
+werden soll.
+
+(4) Werden die in den Absätzen 1, 2 oder 8 beschriebenen Handlungen
+außerhalb der Europäischen Union begangen, bedarf die Verfolgung der
+Ermächtigung durch das Bundesministerium der Justiz und für
+Verbraucherschutz. Werden die in den Absätzen 1, 2 oder 8
+beschriebenen Handlungen in einem anderen Mitgliedstaat der
+Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung
+durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn
+die Tat weder durch einen Deutschen begangen wurde noch die
+finanzierte Straftat im Inland durch oder gegen einen Deutschen
+begangen werden soll.
+
+(5) Sind die Vermögenswerte bei einer Tat nach Absatz 1 oder 2
+geringwertig, so ist in den Fällen des Absatzes 1 auf Freiheitsstrafe
+von drei Monaten bis zu fünf Jahren, in den Fällen des Absatzes 2 auf
+Freiheitsstrafe bis zu drei Jahren oder auf Geldstrafe zu erkennen.
+
+(6) Das Gericht mildert die Strafe (§ 49 Absatz 1) oder kann von
+Strafe absehen, wenn die Schuld des Täters gering ist.
+
+(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49
+Absatz 2) oder von einer Bestrafung nach dieser Vorschrift absehen,
+wenn der Täter freiwillig die weitere Vorbereitung der Tat aufgibt und
+eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat
+weiter vorbereiten oder sie ausführen, abwendet oder wesentlich
+mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert.
+Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder
+wesentlich gemindert oder die Vollendung der Tat verhindert, genügt
+sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
+
+(8) In den Fällen der Absätze 1 und 2 Nummer 1 bis 4 ist der Versuch
+strafbar.
 
 
 ##### § 90 Verunglimpfung des Bundespräsidenten
@@ -4258,6 +5013,45 @@ mit Geldstrafe bestraft.
 Europäischen Union entfernt, zerstört, beschädigt, unbrauchbar oder
 unkenntlich macht oder beschimpfenden Unfug daran verübt. Der Versuch
 ist strafbar.
+
+
+##### § 91 Anleitung zur Begehung einer terroristischen Straftat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066702129)
+
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
+bestraft, wer
+
+1.  einen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung zu einer
+    terroristischen Straftat nach § 89a Absatz 1 Satz 2 Nummer 1 bis 8 zu
+    dienen, anpreist oder einer anderen Person zugänglich macht, wenn die
+    Umstände seiner Verbreitung geeignet sind, die Bereitschaft anderer zu
+    fördern oder zu wecken, eine derartige Straftat zu begehen,
+
+
+2.  sich einen Inhalt der in Nummer 1 bezeichneten Art verschafft, um eine
+    terroristische Straftat zu begehen.
+
+
+
+
+(2) Absatz 1 Nr. 1 ist nicht anzuwenden, wenn
+
+1.  die Handlung der staatsbürgerlichen Aufklärung, der Abwehr
+    verfassungswidriger Bestrebungen, der Kunst und Wissenschaft, der
+    Forschung oder der Lehre, der Berichterstattung über Vorgänge des
+    Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dient oder
+
+
+2.  die Handlung ausschließlich der Erfüllung rechtmäßiger beruflicher
+    oder dienstlicher Pflichten dient.
+
+
+
+
+(3) In den Fällen des Absatzes 1 Nummer 1 ist der Versuch strafbar.
+
+(4) Ist die Schuld gering, so kann das Gericht von einer Bestrafung
+nach dieser Vorschrift absehen.
 
 
 ##### § 91a Anwendungsbereich
@@ -4532,6 +5326,33 @@ Satz 1 von der fremden Macht oder einem ihrer Mittelsmänner zu seinem
 Verhalten gedrängt worden, so wird er nach dieser Vorschrift nicht
 bestraft, wenn er freiwillig sein Verhalten aufgibt und sein Wissen
 unverzüglich einer Dienststelle offenbart.
+
+
+#### § 99 Geheimdienstliche Agententätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022703129)
+
+(1) Wer
+
+1.  für den Geheimdienst einer fremden Macht eine geheimdienstliche
+    Tätigkeit gegen die Bundesrepublik Deutschland ausübt, die auf die
+    Mitteilung oder Lieferung von Tatsachen, Gegenständen oder
+    Erkenntnissen gerichtet ist, oder
+
+
+2.  gegenüber dem Geheimdienst einer fremden Macht oder einem seiner
+    Mittelsmänner sich zu einer solchen Tätigkeit bereit erklärt,
+
+
+
+wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren
+bestraft, wenn die Tat nicht in § 94 oder in § 96 Absatz 1, in § 97a
+oder in § 97b in Verbindung mit § 94 oder § 96 Absatz 1 mit Strafe
+bedroht ist.
+
+(2) In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu
+fünf Jahren oder Geldstrafe.
+
+(3) § 98 Abs. 2 gilt entsprechend.
 
 
 #### § 100 Friedensgefährdende Beziehungen
@@ -5430,6 +6251,59 @@ schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 
+#### § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027711129)
+
+(1) Wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu
+stören,
+
+1.  einen der in § 125a Satz 2 Nr. 1 bis 4 bezeichneten Fälle des
+    Landfriedensbruchs,
+
+
+2.  eine Straftat gegen die sexuelle Selbstbestimmung in den Fällen des §
+    177 Absatz 4 bis 8 oder des § 178,
+
+
+3.  einen Mord (§ 211), Totschlag (§ 212) oder Völkermord (§ 6 des
+    Völkerstrafgesetzbuches) oder ein Verbrechen gegen die Menschlichkeit
+    (§ 7 des Völkerstrafgesetzbuches) oder ein Kriegsverbrechen (§§ 8, 9,
+    10, 11 oder 12 des Völkerstrafgesetzbuches),
+
+
+4.  eine gefährliche Körperverletzung (§ 224) oder eine schwere
+    Körperverletzung (§ 226),
+
+
+5.  eine Straftat gegen die persönliche Freiheit in den Fällen des § 232
+    Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3
+    oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um
+    Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
+
+
+6.  einen Raub oder eine räuberische Erpressung (§§ 249 bis 251 oder 255),
+
+
+7.  ein gemeingefährliches Verbrechen in den Fällen der §§ 306 bis 306c
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Abs. 1 bis
+    4, der §§ 313, 314 oder 315 Abs. 3, des § 315b Abs. 3, des § 316a Abs.
+    1 oder 3, des § 316c Abs. 1 oder 3 oder des § 318 Abs. 3 oder 4 oder
+
+
+8.  ein gemeingefährliches Vergehen in den Fällen des § 309 Abs. 6, des §
+    311 Abs. 1, des § 316b Abs. 1, des § 317 Abs. 1 oder des § 318 Abs. 1
+
+
+
+androht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
+Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer in einer Weise, die geeignet ist, den
+öffentlichen Frieden zu stören, wider besseres Wissen vortäuscht, die
+Verwirklichung einer der in Absatz 1 genannten rechtswidrigen Taten
+stehe bevor.
+
+
 #### § 126a Gefährdendes Verbreiten personenbezogener Daten
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069500360)
 
@@ -5455,6 +6329,89 @@ Geldstrafe bestraft.
 Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 (3) § 86 Absatz 4 gilt entsprechend.
+
+
+#### § 127 Betreiben krimineller Handelsplattformen im Internet
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027905129)
+
+(1) Wer eine Handelsplattform im Internet betreibt, deren Zweck darauf
+ausgerichtet ist, die Begehung von rechtswidrigen Taten zu
+ermöglichen oder zu fördern, wird mit Freiheitsstrafe bis zu fünf
+Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen
+Vorschriften mit schwererer Strafe bedroht ist. Rechtswidrige Taten im
+Sinne des Satzes 1 sind
+
+1.  Verbrechen,
+
+
+2.  Vergehen nach
+
+    a)  den §§ 86, 86a, 91, 130, 147 und 148 Absatz 1 Nummer 3, den §§ 149,
+        152a und 176a Absatz 2, § 176b Absatz 2, § 180 Absatz 2, § 184b Absatz
+        1, § 184c Absatz 1, § 184l Absatz 1 und 3, den §§ 202a, 202b, 202c,
+        202d, 232 und 232a Absatz 1, 2, 5 und 6, nach § 232b Absatz 1, 2 und 4
+        in Verbindung mit § 232a Absatz 5, nach den §§ 233, 233a, 236, 259 und
+        260, nach § 261 Absatz 1 und 2 unter den in § 261 Absatz 5 Satz 2
+        genannten Voraussetzungen sowie nach den §§ 263, 263a, 267, 269, 275,
+        276, 303a und 303b,
+
+
+    b)  § 4 Absatz 1 bis 3 des Anti-Doping-Gesetzes,
+
+
+    c)  § 29 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 6, sowie
+        Absatz 2 und 3 des Betäubungsmittelgesetzes,
+
+
+    d)  § 19 Absatz 1 bis 3 des Grundstoffüberwachungsgesetzes,
+
+
+    e)  § 4 Absatz 1 und 2 des Neue-psychoaktive-Stoffe-Gesetzes,
+
+
+    f)  § 95 Absatz 1 bis 3 des Arzneimittelgesetzes,
+
+
+    g)  § 52 Absatz 1 Nummer 1 und 2 Buchstabe b und c, Absatz 2 und 3 Nummer
+        1 und 7 sowie Absatz 5 und 6 des Waffengesetzes,
+
+
+    h)  § 40 Absatz 1 bis 3 des Sprengstoffgesetzes,
+
+
+    i)  § 13 des Ausgangsstoffgesetzes,
+
+
+    j)  § 83 Absatz 1 Nummer 4 und 5 sowie Absatz 4 des
+        Kulturgutschutzgesetzes,
+
+
+    k)  den §§ 143 und 144 des Markengesetzes sowie
+
+
+    l)  den §§ 51 und 65 des Designgesetzes.
+
+
+
+
+
+
+
+(2) Handelsplattform im Internet im Sinne dieser Vorschrift ist jede
+virtuelle Infrastruktur im frei zugänglichen wie im durch technische
+Vorkehrungen zugangsbeschränkten Bereich des Internets, die
+Gelegenheit bietet, Menschen, Waren, Dienstleistungen oder Inhalte (§
+11 Absatz 3) anzubieten oder auszutauschen.
+
+(3) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
+bestraft, wer im Fall des Absatzes 1 gewerbsmäßig oder als Mitglied
+einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten
+verbunden hat.
+
+(4) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
+bestraft, wer bei der Begehung einer Tat nach Absatz 1 beabsichtigt
+oder weiß, dass die Handelsplattform im Internet den Zweck hat,
+Verbrechen zu ermöglichen oder zu fördern.
 
 
 #### § 128 Bildung bewaffneter Gruppen
@@ -5536,6 +6493,107 @@ wenn der Täter
 erreicht der Täter sein Ziel, das Fortbestehen der Vereinigung zu
 verhindern, oder wird es ohne sein Bemühen erreicht, so wird er nicht
 bestraft.
+
+
+#### § 129a Bildung terroristischer Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028112129)
+
+(1) Wer eine Vereinigung (§ 129 Absatz 2) gründet, deren Zwecke oder
+deren Tätigkeit darauf gerichtet sind,
+
+1.  Mord (§ 211) oder Totschlag (§ 212) oder Völkermord (§ 6 des
+    Völkerstrafgesetzbuches) oder Verbrechen gegen die Menschlichkeit (§ 7
+    des Völkerstrafgesetzbuches) oder Kriegsverbrechen (§§ 8, 9, 10, 11
+    oder § 12 des Völkerstrafgesetzbuches) oder
+
+
+2.  Straftaten gegen die persönliche Freiheit in den Fällen des § 239a
+    oder des § 239b
+
+
+3.  (weggefallen)
+
+
+
+zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied
+beteiligt, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
+bestraft.
+
+(2) Ebenso wird bestraft, wer eine Vereinigung gründet, deren Zwecke
+oder deren Tätigkeit darauf gerichtet sind,
+
+1.  gefährliche Körperverletzungen (§ 224) oder Körperverletzungen
+    (§ 223), die einem anderen Menschen schwere körperliche oder seelische
+    Schäden, insbesondere der in § 226 bezeichneten Art, zufügen,
+
+
+2.  Straftaten nach den §§ 303b, 305, 305a oder gemeingefährliche
+    Straftaten in den Fällen der §§ 306 bis 306c oder 307 Abs. 1 bis 3,
+    des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis 5, der §§ 313, 314 oder
+    315 Abs. 1, 3 oder 4, des § 316b Abs. 1 oder 3 oder des § 316c Abs. 1
+    bis 3 oder des § 317 Abs. 1,
+
+
+3.  Straftaten gegen die Umwelt in den Fällen des § 330a Abs. 1 bis 3,
+
+
+4.  Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 oder 2, § 20a
+    Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a
+    Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
+
+
+5.  Straftaten nach § 51 Absatz 1 bis 3 oder § 52 Absatz 1, 3, 5 oder 6
+    des Waffengesetzes oder
+
+
+6.  Straftaten nach § 310 Absatz 1 oder 2 oder § 328 Absatz 1 oder 2
+
+
+
+zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied
+beteiligt, wenn eine der in den Nummern 1 bis 6 bezeichneten Taten
+bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern,
+eine Behörde oder eine internationale Organisation rechtswidrig mit
+Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen,
+verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen
+eines Staates oder einer internationalen Organisation zu beseitigen
+oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung
+oder ihre Auswirkungen einen Staat oder eine internationale
+Organisation erheblich schädigen kann.
+
+(3) Sind die Zwecke oder die Tätigkeit der Vereinigung darauf
+gerichtet, eine der in Absatz 1 und 2 bezeichneten Straftaten
+anzudrohen, ist auf Freiheitsstrafe von sechs Monaten bis zu fünf
+Jahren zu erkennen.
+
+(4) Gehört der Täter zu den Rädelsführern oder Hintermännern, so ist
+in den Fällen der Absätze 1 und 2 auf Freiheitsstrafe nicht unter drei
+Jahren, in den Fällen des Absatzes 3 auf Freiheitsstrafe von einem
+Jahr bis zu zehn Jahren zu erkennen.
+
+(5) Wer eine in Absatz 1, 2 oder Absatz 3 bezeichnete Vereinigung
+unterstützt, wird in den Fällen der Absätze 1 und 2 mit
+Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in den Fällen
+des Absatzes 3 mit Freiheitsstrafe bis zu fünf Jahren oder mit
+Geldstrafe bestraft. In den Fällen des Satzes 1 ist der Versuch
+strafbar. Wer für eine in Absatz 1 oder Absatz 2 bezeichnete
+Vereinigung um Mitglieder oder Unterstützer wirbt, wird mit
+Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
+
+(6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren
+Mitwirkung von untergeordneter Bedeutung ist, in den Fällen der
+Absätze 1, 2, 3 und 5 die Strafe nach seinem Ermessen (§ 49 Abs. 2)
+mildern.
+
+(7) § 129 Absatz 7 gilt entsprechend.
+
+(8) Neben einer Freiheitsstrafe von mindestens sechs Monaten kann das
+Gericht die Fähigkeit, öffentliche Ämter zu bekleiden, und die
+Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, aberkennen (§
+45 Abs. 2).
+
+(9) In den Fällen der Absätze 1, 2, 4 und 5 kann das Gericht
+Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 
 #### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Einziehung
@@ -5831,6 +6889,78 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029002307)
 
 -
+
+
+#### § 138 Nichtanzeige geplanter Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029116129)
+
+(1) Wer von dem Vorhaben oder der Ausführung
+
+1.  (weggefallen)
+
+
+2.  eines Hochverrats in den Fällen der §§ 81 bis 83 Abs. 1,
+
+
+3.  eines Landesverrats oder einer Gefährdung der äußeren Sicherheit in
+    den Fällen der §§ 94 bis 96, 97a oder 100,
+
+
+4.  einer Geld- oder Wertpapierfälschung in den Fällen der §§ 146, 151,
+    152 oder einer Fälschung von Zahlungskarten mit Garantiefunktion in
+    den Fällen des § 152b Abs. 1 bis 3,
+
+
+5.  eines Mordes (§ 211) oder Totschlags (§ 212) oder eines Völkermordes
+    (§ 6 des Völkerstrafgesetzbuches) oder eines Verbrechens gegen die
+    Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder eines
+    Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des
+    Völkerstrafgesetzbuches) oder eines Verbrechens der Aggression (§ 13
+    des Völkerstrafgesetzbuches),
+
+
+6.  einer Straftat gegen die persönliche Freiheit in den Fällen des § 232
+    Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3
+    oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um
+    Verbrechen handelt, der §§ 234 bis 234b, 239a oder 239b,
+
+
+7.  eines Raubes oder einer räuberischen Erpressung (§§ 249 bis 251 oder
+    255) oder
+
+
+8.  einer gemeingefährlichen Straftat in den Fällen der §§ 306 bis 306c
+    oder 307 Abs. 1 bis 3, des § 308 Absatz 1 bis 5, des § 309 Abs. 1 bis
+    5, der §§ 310, 313, 314 oder 315 Abs. 3, des § 315b Abs. 3 oder der §§
+    316a oder 316c
+
+
+
+zu einer Zeit, zu der die Ausführung oder der Erfolg noch abgewendet
+werden kann, glaubhaft erfährt und es unterläßt, der Behörde oder dem
+Bedrohten rechtzeitig Anzeige zu machen, wird mit Freiheitsstrafe bis
+zu fünf Jahren oder mit Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer
+
+1.  von der Ausführung einer Straftat nach § 89a Absatz 1 in Verbindung
+    mit Absatz 2 oder Absatz 2a oder
+
+
+2.  von dem Vorhaben oder der Ausführung einer Straftat nach § 129a, auch
+    in Verbindung mit § 129b Abs. 1 Satz 1 und 2,
+
+
+
+zu einer Zeit, zu der die Ausführung noch abgewendet werden kann,
+glaubhaft erfährt und es unterlässt, der Behörde unverzüglich Anzeige
+zu erstatten. § 129b Abs. 1 Satz 3 bis 5 gilt im Fall der Nummer 2
+entsprechend.
+
+(3) Wer die Anzeige leichtfertig unterläßt, obwohl er von dem Vorhaben
+oder der Ausführung der rechtswidrigen Tat glaubhaft erfahren hat,
+wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
+bestraft.
 
 
 #### § 139 Straflosigkeit der Nichtanzeige geplanter Straftaten
@@ -12201,6 +13331,43 @@ fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
 
 
+#### § 308 Herbeiführen einer Sprengstoffexplosion
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051004129)
+
+(1) Wer anders als durch Freisetzen von Kernenergie, namentlich durch
+Sprengstoff, eine Explosion herbeiführt und dadurch Leib oder Leben
+eines anderen Menschen oder fremde Sachen von bedeutendem Wert
+gefährdet, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
+
+(2) Verursacht der Täter durch die Tat eine schwere
+Gesundheitsschädigung eines anderen Menschen oder eine
+Gesundheitsschädigung einer großen Zahl von Menschen, so ist auf
+Freiheitsstrafe nicht unter zwei Jahren zu erkennen.
+
+(3) Wer die Sprengstoffexplosion zur Begehung eines Diebstahls (§
+242), eines Bandendiebstahls (§ 244 Absatz 1 Nummer 2) oder eines
+schweren Bandendiebstahls (§ 244a) herbeiführt, wird in den Fällen des
+Absatzes 1 mit Freiheitsstrafe nicht unter zwei Jahren, in den Fällen
+des Absatzes 2 mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
+
+(4) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
+eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe
+oder Freiheitsstrafe nicht unter zehn Jahren.
+
+(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe
+von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der
+Absätze 2 und 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren
+zu erkennen.
+
+(6) Wer in den Fällen des Absatzes 1 die Gefahr fahrlässig verursacht,
+wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
+bestraft.
+
+(7) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
+fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
+oder mit Geldstrafe bestraft.
+
+
 #### § 309 Mißbrauch ionisierender Strahlen
 [Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051105123)
 
@@ -12247,6 +13414,41 @@ einer ionisierenden Strahlung aussetzt, die geeignet ist, solche
 Beeinträchtigungen, Veränderungen oder Schäden hervorzurufen, wird mit
 Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der
 Versuch ist strafbar.
+
+
+#### § 310 Vorbereitung eines Explosions- oder Strahlungsverbrechens
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051205129)
+
+(1) Wer zur Vorbereitung
+
+1.  eines bestimmten Unternehmens im Sinne des § 307 Abs. 1 oder des § 309
+    Abs. 2,
+
+
+2.  einer Straftat nach § 308 Abs. 1, die durch Sprengstoff begangen
+    werden soll,
+
+
+3.  einer Straftat nach § 309 Abs. 1 oder
+
+
+4.  einer Straftat nach § 309 Abs. 6
+
+
+
+Kernbrennstoffe, sonstige radioaktive Stoffe, Sprengstoffe oder die
+zur Ausführung der Tat erforderlichen besonderen Vorrichtungen
+herstellt, sich oder einem anderen verschafft, befördert, verwahrt
+oder einem anderen überläßt, wird in den Fällen der Nummer 1 mit
+Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in den Fällen der
+Nummer 2 und der Nummer 3 mit Freiheitsstrafe von sechs Monaten bis zu
+fünf Jahren, in den Fällen der Nummer 4 mit Freiheitsstrafe bis zu
+drei Jahren oder mit Geldstrafe bestraft.
+
+(2) In minder schweren Fällen des Absatzes 1 Nr. 1 ist die Strafe
+Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
+
+(3) In den Fällen des Absatzes 1 Nr. 3 und 4 ist der Versuch strafbar.
 
 
 #### § 311 Freisetzen ionisierender Strahlen
@@ -12325,6 +13527,119 @@ erkennen.
 
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
+
+
+#### § 313 Herbeiführen einer Überschwemmung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052204129)
+
+(1) Wer eine Überschwemmung herbeiführt und dadurch Leib oder Leben
+eines anderen Menschen oder fremde Sachen von bedeutendem Wert
+gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
+bestraft.
+
+(2) § 308 Absatz 2 und 4 bis 7 gilt entsprechend.
+
+
+#### § 314 Gemeingefährliche Vergiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052304129)
+
+(1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
+bestraft, wer
+
+1.  Wasser in gefaßten Quellen, in Brunnen, Leitungen oder
+    Trinkwasserspeichern oder
+
+
+2.  Gegenstände, die zum öffentlichen Verkauf oder Verbrauch bestimmt
+    sind,
+
+
+
+vergiftet oder ihnen gesundheitsschädliche Stoffe beimischt oder
+vergiftete oder mit gesundheitsschädlichen Stoffen vermischte
+Gegenstände im Sinne der Nummer 2 verkauft, feilhält oder sonst in den
+Verkehr bringt.
+
+(2) § 308 Absatz 2, 4 und 5 gilt entsprechend.
+
+
+#### § 314a Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063602129)
+
+(1) Das Gericht kann die Strafe in den Fällen des § 307 Abs. 1 und des
+§ 309 Abs. 2 nach seinem Ermessen mildern (§ 49 Abs. 2), wenn der
+Täter freiwillig die weitere Ausführung der Tat aufgibt oder sonst die
+Gefahr abwendet.
+
+(2) Das Gericht kann die in den folgenden Vorschriften angedrohte
+Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von Strafe nach
+diesen Vorschriften absehen, wenn der Täter
+
+1.  in den Fällen des § 309 Abs. 1 oder § 314 Abs. 1 freiwillig die
+    weitere Ausführung der Tat aufgibt oder sonst die Gefahr abwendet oder
+
+
+2.  in den Fällen des
+
+    a)  § 307 Abs. 2,
+
+
+    b)  § 308 Absatz 1 und 6,
+
+
+    c)  § 309 Abs. 6,
+
+
+    d)  § 311 Abs. 1,
+
+
+    e)  § 312 Abs. 1 und 6 Nr. 1,
+
+
+    f)  § 313, auch in Verbindung mit § 308 Absatz 6,
+
+
+
+
+    freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden
+    entsteht.
+
+
+
+
+(3) Nach den folgenden Vorschriften wird nicht bestraft, wer
+
+1.  in den Fällen des
+
+    a)  § 307 Abs. 4,
+
+
+    b)  § 308 Absatz 7,
+
+
+    c)  § 311 Abs. 3,
+
+
+    d)  § 312 Abs. 6 Nr. 2,
+
+
+    e)  § 313 Abs. 2 in Verbindung mit § 308 Absatz 7
+
+
+
+
+    freiwillig die Gefahr abwendet, bevor ein erheblicher Schaden
+    entsteht, oder
+
+
+2.  in den Fällen des § 310 freiwillig die weitere Ausführung der Tat
+    aufgibt oder sonst die Gefahr abwendet.
+
+
+
+
+(4) Wird ohne Zutun des Täters die Gefahr abgewendet, so genügt sein
+freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 #### § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr
@@ -12835,6 +14150,15 @@ entsteht.
 (4) Wird ohne Zutun des Täters die Gefahr oder der Erfolg abgewendet,
 so genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu
 erreichen.
+
+
+#### § 321 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053705129)
+
+In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308
+Absatz 1 bis 4, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des §
+316c Abs. 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68
+Abs. 1).
 
 
 #### § 322 Einziehung

@@ -187,6 +187,114 @@ einschließlich der Zerlegung von Schlachtkörpern oder im Bereich der
 Fleischverarbeitung inhaltlich oder zeitlich im Wesentlichen vorgibt.
 
 
+## § 6b Prüfung und Befugnisse der Behörden der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000903126)
+
+(1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den
+Behörden der Zollverwaltung.
+
+(2) Die §§ 2, 3 bis 7, 13, 14, 15 bis 20, 22 und 23 des
+Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
+Maßgabe, dass
+
+1.  die dortigen Befugnisse, Duldungs- und Mitwirkungspflichten auch
+    gegenüber Inhabern im Sinne des § 6a Absatz 3 sowie Personen, welche
+    die Nutzung eines Betriebes oder einer übergreifenden Organisation
+    gestatten, Anwendung finden,
+
+
+2.  die dort genannten Behörden auch Einsicht in Arbeitsverträge,
+    Niederschriften nach § 2 des Nachweisgesetzes, Satzungen,
+    Gesellschaftsverträge und andere Geschäftsunterlagen nehmen können,
+    die mittelbar oder unmittelbar Auskunft über die Einhaltung der
+    Vorgaben nach § 6a geben, und
+
+
+3.  die nach § 5 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes, auch in
+    Verbindung mit Nummer 1, zur Mitwirkung Verpflichteten die Unterlagen
+    nach Nummer 2 vorzulegen haben.
+
+
+
+
+
+## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000704126)
+
+(1) Ordnungswidrig handelt, wer einem anderen die Nutzung eines
+Betriebes oder einer übergreifenden Organisation, in dem oder in der
+geschlachtet wird, Schlachtkörper zerlegt werden oder Fleisch
+verarbeitet wird, ganz oder teilweise gestattet und weiß oder
+wenigstens fahrlässig nicht weiß, dass der andere
+
+1.  entgegen § 6a Absatz 1 Satz 1 den Betrieb oder die übergreifende
+    Organisation nicht richtig führt,
+
+
+2.  entgegen § 6a Absatz 2 Satz 1 eine Arbeitnehmerin oder einen
+    Arbeitnehmer tätig werden lässt oder
+
+
+3.  entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden
+    lässt.
+
+
+
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 3 Absatz 1 in Verbindung mit § 28e Absatz 3c Satz 1 des
+    Vierten Buches Sozialgesetzbuch eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig macht,
+
+
+2.  entgegen § 6 in Verbindung mit § 17 Absatz 1 Satz 1, auch in
+    Verbindung mit Satz 2, des Mindestlohngesetzes, § 19 Absatz 1 Satz 1,
+    auch in Verbindung mit Satz 2, des Arbeitnehmer-Entsendegesetzes oder
+    § 17c Absatz 1 des Arbeitnehmerüberlassungsgesetzes eine Aufzeichnung
+    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig erstellt oder nicht, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht mindestens zwei Jahre
+    aufbewahrt,
+
+
+3.  entgegen § 6a Absatz 1 Satz 1 einen Betrieb oder eine übergreifende
+    Organisation nicht richtig führt,
+
+
+4.  entgegen § 6a Absatz 2 Satz 1 eine Arbeitnehmerin oder einen
+    Arbeitnehmer tätig werden lässt,
+
+
+5.  entgegen § 6a Absatz 2 Satz 2 einen Selbstständigen tätig werden lässt
+    oder
+
+
+6.  entgegen § 6a Absatz 2 Satz 3 eine Arbeitnehmerin oder einen
+    Arbeitnehmer oder einen Selbstständigen tätig werden lässt oder eine
+    Leiharbeitnehmerin oder einen Leiharbeitnehmer überlässt..
+
+
+
+
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 sowie des
+Absatzes 2 Nummer 3 bis 6 mit einer Geldbuße bis zu fünfhunderttausend
+Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend
+Euro geahndet werden.
+
+(4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten sind
+
+1.  in den Fällen der Absätze 1 und 2 Nummer 2 bis 6 die Behörden der
+    Zollverwaltung jeweils für ihren Geschäftsbereich und
+
+
+2.  in den Fällen des Absatzes 2 Nummer 1 der Versicherungsträger.
+
+
+
+
+
 ## § 8 Evaluation
 [Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE001000126)
 

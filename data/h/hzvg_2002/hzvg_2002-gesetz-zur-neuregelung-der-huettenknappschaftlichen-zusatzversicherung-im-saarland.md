@@ -907,6 +907,34 @@ Sechsten Buches Sozialgesetzbuch über Zahlung einer Rentenabfindung
 Anwendung.
 
 
+### § 26 Beginn und Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002604126)
+
+(1) Die Zusatzrente beginnt mit der Rente aus der gesetzlichen
+Rentenversicherung, wenn der Antrag auf Zusatzrente spätestens bis zum
+Ablauf von einem Monat nach Feststellung der Rente aus der
+gesetzlichen Rentenversicherung gestellt wird. Haben Versicherte eine
+Zusatzrente wegen verminderter Erwerbsfähigkeit bis zum Erreichen der
+Regelaltersgrenze nach dem Sechsten Buch Sozialgesetzbuch bezogen, ist
+anschließend eine Zusatzaltersrente von Amts wegen zu leisten. Die
+Hüttenknappschaftliche Zusatzversicherung soll die Berechtigten
+spätestens im Jahr des Erreichens der Regelaltersgrenze darauf
+hinweisen, dass sie eine Leistung erhalten können, wenn sie diese
+beantragen. Dies gilt nur, soweit ihr die dafür erforderlichen Daten
+der Berechtigten vorliegen. Im Übrigen finden die Vorschriften des
+Sechsten Buches Sozialgesetzbuch über Beginn, Änderung und Ende von
+Renten, über Ausschluss und Minderung von Renten, über Leistungen an
+Berechtigte im Ausland sowie über Berechnungsgrundsätze Anwendung.
+
+(2) Für die Beitragserstattung finden die für die allgemeine
+Rentenversicherung maßgebenden Vorschriften des Sechsten Buches
+Sozialgesetzbuch entsprechend Anwendung. Beiträge, die für die Zeit
+vor dem 20. November 1947 gezahlt worden sind, werden nicht erstattet.
+
+(3) § 118 Absatz 3 bis 5 des Sechsten Buches Sozialgesetzbuch ist
+entsprechend anzuwenden.
+
+
 ### § 27 Wahlrecht auf Übertragung von Anwartschaften
 [Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002700000)
 

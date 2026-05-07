@@ -99,6 +99,165 @@ Betriebsinhaber ausschließlich die Zahlung für Mutterschafe und
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000301000)
 
 
+#### § 3 Landwirtschaftliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000504119)
+
+(1) Der Begriff landwirtschaftliche Tätigkeit, die zur Bereitstellung
+privater und öffentlicher Güter beitragen kann, umfasst
+
+1.  die Erzeugung, einschließlich Tätigkeiten wie Anbau, auch mittels
+    Paludikultur oder in einem Agroforstsystem, Ernten, Melken, Zucht oder
+    Aufzucht von Tieren oder Haltung von Tieren für landwirtschaftliche
+    Zwecke, von in Anhang I des Vertrags über die Arbeitsweise der
+    Europäischen Union aufgeführten landwirtschaftlichen Erzeugnissen,
+    ausgenommen Fischereierzeugnisse,
+
+
+2.  den Betrieb von Niederwald mit Kurzumtrieb im Sinne des § 6 Absatz 3,
+
+
+3.  nach Maßgabe der Absätze 2 bis 6 die Erhaltung einer
+    landwirtschaftlichen Fläche, die während des gesamten Jahres nicht für
+    eine landwirtschaftliche Tätigkeit im Sinne der Nummer 1 oder 2
+    genutzt wird, in einem Zustand, der sie ohne über die Anwendung von in
+    der Landwirtschaft üblichen Methoden und Maschinen hinausgehende
+    Vorbereitungsmaßnahmen für die Beweidung oder den Anbau geeignet
+    macht.
+
+
+
+
+(2) Die Erhaltung einer landwirtschaftlichen Fläche im Sinne des
+Absatzes 1 Nummer 3 liegt vor, wenn mindestens in jedem zweiten Jahr
+vor dem 16. November des jeweiligen Jahres,
+
+1.  der Aufwuchs gemäht und das Mähgut abgefahren wird,
+
+
+2.  der Aufwuchs zerkleinert und ganzflächig verteilt wird oder
+
+
+3.  eine Aussaat zum Zwecke der Begrünung durchgeführt wird.
+
+
+
+Bei einer Dauerkultur im Sinne des § 6 ist mindestens in jedem zweiten
+Jahr auch eine Pflegemaßnahme an den Dauerkulturpflanzen
+durchzuführen. Satz 2 findet keine Anwendung, soweit eine Tätigkeit
+nach Satz 1 Nummer 1 oder 2 auch an den Dauerkulturpflanzen
+durchgeführt wird.
+
+(3) Soweit dies aus natur-, umwelt- oder klimaschutzfachlichen Gründen
+gerechtfertigt ist, kann die nach Landesrecht zuständige Behörde auf
+Antrag oder durch Allgemeinverfügung als Ausnahme von Absatz 2 die
+Durchführung einer anderen als der in Absatz 2 Satz 1 Nummer 1 bis 3
+genannten Tätigkeiten oder der in Absatz 2 Satz 2 genannten Tätigkeit
+an den Dauerkulturpflanzen genehmigen. In einem Fall des Satzes 1 ist
+die Tätigkeit vor dem 16. November des jeweiligen Jahres
+durchzuführen, soweit die Genehmigung nicht eine Durchführung nach dem
+15\. November vorschreibt.
+
+(4) Eine Genehmigung nach Absatz 3 gilt nach Ablauf von 15
+Arbeitstagen nach Eingang des Antrags bei der nach Landesrecht
+zuständigen Behörde als erteilt, wenn
+
+1.  es sich um eine Maßnahme handelt
+
+    a)  in einem Plan oder einem Projekt für Pflege-, Entwicklungs- und
+        Wiederherstellungsmaßnahmen zur Umsetzung
+
+        aa) der Richtlinie 92/43/EWG oder
+
+
+        bb) der Richtlinie 2009/147/EG oder
+
+
+
+
+
+    b)  in einer Vereinbarung im Rahmen von Naturschutzprogrammen oder von
+        anderen Agrarumwelt- und Klimamaßnahmen der Länder oder einer vom Bund
+        oder Land anerkannten Naturschutzvereinigung, und
+
+
+
+
+
+2.  mindestens in jedem zweiten Jahr eine Tätigkeit auf der betreffenden
+    Fläche durchzuführen ist.
+
+
+
+Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15.
+November durchgeführt werden muss, ist sie vor dem 16. November
+durchzuführen.
+
+(5) (weggefallen)
+
+(6) Abweichend von den Absätzen 2 und 3 liegt die Erhaltung einer
+landwirtschaftlichen Fläche im Sinne des Absatzes 1 Nummer 3 auch vor,
+wenn
+
+1.  die Fläche einer Verpflichtung unterliegt im Rahmen einer
+
+    a)  Agrarumweltmaßnahme nach den Artikeln 22 bis 24 der Verordnung (EG)
+        Nr. 1257/1999 in der für den Zeitpunkt der Verpflichtung geltenden
+        Fassung,
+
+
+    b)  Agrarumweltmaßnahme nach Artikel 39 der Verordnung (EG) Nr. 1698/2005
+        in der für den Zeitpunkt der Verpflichtung geltenden Fassung,
+
+
+    c)  Agrarumwelt- und Klimamaßnahme nach Artikel 28 der Verordnung (EU) Nr.
+        1305/2013 in der für den Zeitpunkt der Verpflichtung geltenden
+        Fassung,
+
+
+    d)  freiwilligen Umwelt-, Klima- oder anderen
+        Bewirtschaftungsverpflichtung nach dem Rechtsakt, durch den die
+        Verordnung (EU) Nr. 1305/2013 aufgehoben wird (ELER-Regelung), in der
+        für den Zeitpunkt der Verpflichtung geltenden Fassung,
+
+
+    e)  aus öffentlichen Mitteln finanzierten freiwilligen Maßnahme, die mit
+        den Vorgaben der in den Buchstaben a bis d genannten im Zeitpunkt der
+        Verpflichtung jeweils geltenden Grundlage im Einklang stand oder
+        steht, oder
+
+
+    f)  produktionsintegrierten Kompensationsmaßnahme gemäß § 15 Absatz 3 Satz
+        2 des Bundesnaturschutzgesetzes sowie entsprechender Regelungen in den
+        bundes- oder landesrechtlichen Vorschriften,
+
+
+
+
+
+2.  deren Voraussetzungen
+
+    a)  gewährleisten, dass die Fläche in einem Zustand erhalten bleibt, der
+        sie ohne über die Anwendung von in der Landwirtschaft üblichen
+        Methoden und Maschinen hinausgehende Vorbereitungsmaßnahmen für die
+        Beweidung oder den Anbau geeignet macht, und
+
+
+    b)  bei Durchführung einer Tätigkeit nach Absatz 2 oder Absatz 3 Satz 1
+        nicht mehr erfüllt wären, und
+
+
+
+
+
+3.  der Betriebsinhaber die Voraussetzungen dieser Verpflichtung einhält.
+
+
+
+Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15.
+November durchgeführt werden muss, ist sie vor dem 16. November
+durchzuführen.
+
+
 #### § 4 Landwirtschaftliche Fläche
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000601119)
 
@@ -246,6 +405,262 @@ untergeordneter Bedeutung ist, ist Dauerkultur. Eine untergeordnete
 Bedeutung liegt bei einer Breite von mehr als 15 Metern nicht vor.
 
 
+#### § 7 Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000903119)
+
+(1) Der Begriff Dauergrünland umfasst Flächen, auch wenn sie nicht für
+die Erzeugung genutzt werden, die
+
+1.  auf natürliche Weise durch Selbstaussaat oder durch Aussaat zum Anbau
+    von Gras oder anderen Grünfutterpflanzen genutzt werden,
+
+
+2.  seit mindestens fünf Jahren nicht Bestandteil der Fruchtfolge sind und
+
+
+3.  seit mindestens fünf Jahren nicht gepflügt worden sind.
+
+
+
+
+(2) Gras oder andere Grünfutterpflanzen sind
+
+1.  alle krautartigen Pflanzen, die herkömmlicherweise in natürlichem
+    Grünland anzutreffen sind oder die normalerweise Teil von
+    Saatgutmischungen für Weideland oder Wiesen sind, unabhängig davon, ob
+    die Flächen als Viehweiden genutzt werden, mit Ausnahme von
+
+    a)  Gras oder anderen Grünfutterpflanzen bei dem Anbau zur Erzeugung von
+        Saatgut,
+
+
+    b)  Gras bei dem Anbau zur Erzeugung von Rollrasen und
+
+
+    c)  Leguminosen bei der Aussaat in Reinsaat oder in Mischungen von
+        Leguminosen, solange diese Leguminosen auf der Fläche vorherrschen,
+        und
+
+
+
+
+
+2.  Pflanzen der Gattungen Juncus und Carex, soweit sie auf der Fläche
+    gegenüber Gras oder anderen Grünfutterpflanzen im Sinne der Nummer 1
+    nicht vorherrschen.
+
+
+
+
+(3) Dauergrünland kann auch andere Pflanzenarten als Gras oder andere
+Grünfutterpflanzen, die abgeweidet werden können, umfassen, wie
+Sträucher oder Bäume, soweit Gras und andere Grünfutterpflanzen
+vorherrschen. Gras und andere Grünfutterpflanzen herrschen vor, wenn
+sie mehr als 50 Prozent einer Dauergrünlandfläche einnehmen.
+
+(4) Eine Fruchtfolge im Sinne des Absatzes 1 Nummer 2 liegt bei
+Ackerland auch vor, wenn ausgesät wird
+
+1.  Gras nach dem Anbau einer Mischung von Gras und Leguminosen oder
+
+
+2.  eine Mischung von Gras und Leguminosen nach dem Anbau von Gras.
+
+
+
+
+(5) Pflügen ist jede mechanische Bodenbearbeitung, die die Narbe
+zerstört. Nicht als Pflügen gilt eine flache Bodenbearbeitung von
+bestehendem Dauergrünland zur Narbenerneuerung in der bestehenden
+Narbe.
+
+(6) Für die Zählung der Jahre bis zum Entstehen von Dauergrünland
+werden solche Jahre nicht berücksichtigt, in denen
+
+1.  Ackerland dem GLÖZ-Standard des § 11 des GAP-Konditionalitäten-
+    Gesetzes unterlag und mit Gras oder anderen Grünfutterpflanzen begrünt
+    war,
+
+
+2.  Ackerland der freiwilligen Verpflichtung zur Einhaltung der Öko-
+    Regelung nach § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-
+    Direktzahlungen-Gesetzes unterlag und mit Gras oder anderen
+    Grünfutterpflanzen begrünt war,
+
+
+3.  bei Ackerland ein Anspruch auf die Zahlung für dem Klima- und
+    Umweltschutz förderliche Landbewirtschaftungsmethoden als im
+    Umweltinteresse genutzte Fläche im Sinne des Artikels 46 Absatz 2
+    Buchstabe a der Verordnung (EU) Nr. 1307/2013 in der für das jeweilige
+    Jahr geltenden Fassung bestand oder
+
+
+4.  kein Fall des Absatzes 8 Nummer 4 vorliegt und Ackerland einer
+    Verpflichtung zur Nutzung mit Gras oder anderen Grünfutterpflanzen
+    unterlag
+
+    a)  im Rahmen einer Agrarumweltmaßnahme nach den Artikeln 22 bis 24 der
+        Verordnung (EG) Nr. 1257/1999 in der für den Zeitpunkt der
+        Verpflichtung geltenden Fassung,
+
+
+    b)  im Rahmen einer Agrarumweltmaßnahme nach Artikel 39 der Verordnung
+        (EG) Nr. 1698/2005 in der für den Zeitpunkt der Verpflichtung
+        geltenden Fassung,
+
+
+    c)  im Rahmen einer Agrarumwelt- und Klimamaßnahme nach Artikel 28 der
+        Verordnung (EU) Nr. 1305/2013 in der für den Zeitpunkt der
+        Verpflichtung geltenden Fassung,
+
+
+    d)  im Rahmen einer freiwilligen Umwelt-, Klima- oder anderen
+        Bewirtschaftungsverpflichtung nach der ELER-Regelung in der für den
+        Zeitpunkt der Verpflichtung geltenden Fassung oder
+
+
+    e)  im Rahmen einer staatlich finanzierten freiwilligen Maßnahme, die mit
+        den Vorgaben der in den Buchstaben a bis d genannten im Zeitpunkt der
+        Verpflichtung jeweils geltenden Grundlage im Einklang stand.
+
+
+
+
+
+
+
+(7) Dauergrünland sind, wenn Gras und andere Grünfutterpflanzen in
+Weidegebieten traditionell nicht vorherrschen oder nicht vorkommen,
+auch Flächen, die mit anderen Pflanzenarten im Sinne des Absatzes 3
+bedeckt sind, die Teil eines etablierten lokalen
+Bewirtschaftungsverfahrens sind. Ein etabliertes lokales
+Bewirtschaftungsverfahren ist jede
+
+1.  traditionelle Beweidungspraktik, die auf den betreffenden Flächen
+    gemeinhin angewendet wird,
+
+
+2.  traditionelle Mahdnutzung,
+
+
+3.  Praktik, die von Bedeutung ist
+
+    a)  für die Erhaltung der in Anhang I der Richtlinie 92/43/EWG genannten
+        Lebensraumtypen und der in den Anhängen II und IV der Richtlinie
+        92/43/EWG genannten Arten oder
+
+
+    b)  für die Erhaltung der Lebensräume der unter die Richtlinie 2009/147/EG
+        fallenden Arten oder
+
+
+
+
+
+4.  Kombination der in den Nummern 1 bis 3 genannten Praktiken.
+
+
+
+
+(8) Dauergrünland sind auch Flächen, die
+
+1.  nach § 5 Absatz 1 Satz 2 Nummer 3 des GAP-Konditionalitäten-Gesetzes
+    als Dauergrünland neu angelegt worden sind oder werden,
+
+
+2.  nach einer Verordnung auf Grund des § 9 Absatz 5 des GAP-
+    Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden
+    sind oder werden,
+
+
+3.  nach einer Verordnung auf Grund des § 12 Absatz 6 des GAP-
+    Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden
+    sind oder werden,
+
+
+4.  nach einer der in Absatz 6 Nummer 4 genannten Grundlagen einer
+    Verpflichtung zur Umwandlung in Dauergrünland unterliegen und mit Gras
+    oder anderen Grünfutterpflanzen angesät worden sind oder werden,
+
+
+5.  nach den Vorschriften über die Erhaltung von Dauergrünland bei der
+    Zahlung für dem Klima- und Umweltschutz förderliche
+    Landbewirtschaftungsmethoden zur Durchführung von Titel III Kapitel 3
+    der Verordnung (EU) Nr. 1307/2013 in der für den Zeitpunkt der
+    Verpflichtung geltenden Fassung angelegt oder rückumgewandelt worden
+    sind oder werden und als Dauergrünland gelten,
+
+
+6.  nach einer Verordnung auf Grund des § 26 Absatz 1 Nummer 2 des GAP-
+    Konditionalitäten-Gesetzes von einer genehmigten aktiven Erneuerung
+    der Narbe betroffen sind oder
+
+
+7.  nach einer Verordnung auf Grund des § 26 Absatz 1 Nummer 2 des GAP-
+    Konditionalitäten-Gesetzes in Feuchtgebieten und Mooren in
+    Dauergrünland rückumgewandelt worden sind oder werden.
+
+
+
+
+(9) Streuobstwiesen sind Dauergrünland, wenn die begrünte Fläche die
+Voraussetzungen der Begriffsbestimmung Dauergrünland erfüllt.
+
+
+#### § 8 Aktiver Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001003119)
+
+Aktiver Betriebsinhaber ist ein Betriebsinhaber,
+
+1.  der nach den Vorschriften des Siebten Buches des Sozialgesetzbuches –
+    Gesetzliche Unfallversicherung – (Artikel 1 des Gesetzes vom 7. August
+    1996, BGBl. I S. 1254) in der jeweils geltenden Fassung Mitglied in
+    der landwirtschaftlichen Unfallversicherung ist,
+
+
+2.  dessen Unternehmen Mitglied in der in Nummer 1 genannten
+    Unfallversicherung ist,
+
+
+3.  der den §§ 125 oder 128 des Siebten Buches des Sozialgesetzbuches
+    unterliegt,
+
+
+4.  der oder dessen Unternehmen ohne die Anwendbarkeit des Titels II der
+    Verordnung (EG) Nr. 883/2004 Mitglied in der Nummer 1 genannten
+    Unfallversicherung wäre,
+
+
+5.  der für das Vorjahr zu dem Jahr, für das ein Antrag auf
+    Direktzahlungen gestellt wird, vor Anwendung von Sanktionen keinen
+    Anspruch auf Direktzahlungen von über 5 000 Euro hatte,
+
+
+6.  der
+
+    a)  für das Vorjahr zu dem Jahr, für das ein Antrag auf Direktzahlungen
+        gestellt wird, keine Direktzahlungen beantragt hat und
+
+
+    b)  einen Anspruch hat, bei dem der Betrag, der sich ergibt durch die
+        Multiplikation des Betrags von 225 Euro mit der Hektarzahl der
+        förderfähigen Flächen, die er in dem Sammelantrag nach § 5 des GAP-
+        Integriertes Verwaltungs- und Kontrollsystem-Gesetzes im Jahr der
+        Antragstellung angegeben hat, nicht größer als 5 000 Euro ist, oder
+
+
+
+
+
+7.  der, sofern nicht bereits ein Fall nach den Nummern 1 bis 6 vorliegt,
+    mindestens eine zusätzliche sozialversicherte Arbeitskraft,
+    ausgenommen der Fall einer geringfügigen Beschäftigung, in seinem
+    landwirtschaftlichen Betrieb beschäftigt.
+
+
+
+
+
 #### § 9 Weitere Anforderung an Junglandwirtinnen und Junglandwirte
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001100000)
 
@@ -299,6 +714,198 @@ Absatz 1 Satz 1 des GAP-Direktzahlungen-Gesetzes.
 
 ### Abschnitt 2 - Förderfähige Fläche für die Direktzahlungen
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000401000)
+
+
+#### § 11 Förderfähige Fläche
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001303119)
+
+(1) Der Begriff förderfähige Fläche umfasst vorbehaltlich des Absatzes
+2 jede Fläche, die dem Betriebsinhaber in dem in § 13 Absatz 1
+bezeichneten Zeitpunkt zur Verfügung steht und die jederzeit während
+des Kalenderjahres die Voraussetzungen einer der nachstehenden Nummern
+erfüllt:
+
+1.  landwirtschaftliche Fläche des Betriebs, die in dem Jahr, für das
+    Direktzahlungen beantragt werden,
+
+    a)  ausschließlich für eine landwirtschaftliche Tätigkeit genutzt wird
+        oder
+
+
+    b)  hauptsächlich für eine landwirtschaftliche Tätigkeit genutzt wird,
+        wenn die Fläche auch für eine nichtlandwirtschaftliche Tätigkeit
+        genutzt wird,
+
+
+
+
+
+2.  Fläche des Betriebs, die
+
+    a)  Landschaftselemente beinhaltet, die im Rahmen von nach dem GAP-
+        Konditionalitäten-Gesetz oder nach einer Rechtsverordnung auf Grund
+        des GAP-Konditionalitäten-Gesetzes zu beachtenden GLÖZ-Standards nicht
+        beseitigt werden dürfen,
+
+
+    b)  andere als die von Buchstabe a umfassten Landschaftselemente bis zu
+        einer Größe von 500 Quadratmetern je Landschaftselement umfasst, wenn
+        diese anderen Landschaftselemente insgesamt höchstens 25 Prozent der
+        Fläche der landwirtschaftlichen Parzelle einnehmen, wobei
+        Landschaftselemente, die den von Buchstabe a erfassten Typen von
+        Landschaftselementen entsprechen, nur berücksichtigt werden, wenn sie
+        die für diese Landschaftselemente geltenden Mindestmaße
+        unterschreiten, und
+
+
+
+
+
+3.  Fläche des Betriebs, für die ein Anspruch auf Zahlung der
+    Einkommensgrundstützung nach § 4 des GAP-Direktzahlungen-Gesetzes oder
+    im Rahmen der Basisprämienregelung nach Titel III der Verordnung (EU)
+    Nr. 1307/2013 in der für den Zeitpunkt der Verpflichtung geltenden
+    Fassung bestand und die keine förderfähige Fläche nach den Nummern 1
+    oder 2 ist:
+
+    a)  infolge der Anwendung einer der folgenden Richtlinien auf diese
+        Fläche:
+
+        aa) der Richtlinie 92/43/EWG,
+
+
+        bb) der Richtlinie 2000/60/EG oder
+
+
+        cc) der Richtlinie 2009/147/EG,
+
+
+
+
+
+    b)  infolge einer flächenbezogenen Maßnahme nach der in § 1 genannten
+        Unionsregelung oder der ELER-Regelung, die nach dem ab dem Jahr 2023
+        geltenden Recht der Europäischen Union dem Integrierten Verwaltungs-
+        und Kontrollsystem unterliegt und die Erzeugung von Erzeugnissen, die
+        nicht in Anhang I des Vertrags über die Arbeitsweise der Europäischen
+        Union aufgeführt sind, mittels Paludikultur erlaubt, oder einer
+        nationalen Maßnahme zur Erhaltung der biologischen Vielfalt oder
+        Verringerung der Treibhausgasemissionen, deren Voraussetzungen mit
+        solchen flächenbezogenen Maßnahmen im Einklang stehen, wenn die
+        flächenbezogene Maßnahme oder die nationale Maßnahme beiträgt zu einem
+        oder mehreren der folgenden Ziele:
+
+        aa) Klimaschutz und Anpassung an den Klimawandel, auch durch Verringerung
+            der Treibhausgasemissionen und Verbesserung der Kohlenstoffbindung,
+            sowie Förderung nachhaltiger Energie,
+
+
+        bb) Förderung der nachhaltigen Entwicklung und der effizienten
+            Bewirtschaftung natürlicher Ressourcen wie Wasser, Böden und Luft,
+            auch durch Verringerung der Abhängigkeit von Chemikalien, sowie
+
+
+        cc) Eindämmung und Umkehrung des Verlusts an biologischer Vielfalt,
+            Verbesserung von Ökosystemleistungen und Erhaltung von Lebensräumen
+            und Landschaften,
+
+
+
+
+
+    c)  für die Laufzeit einer Aufforstungsverpflichtung des Betriebsinhabers
+
+        aa) im Rahmen einer Maßnahme nach Artikel 31 der Verordnung (EG) Nr.
+            1257/1999 in der für den Zeitpunkt der Verpflichtung geltenden
+            Fassung,
+
+
+        bb) im Rahmen einer Maßnahme nach Artikel 43 der Verordnung (EG) Nr.
+            1698/2005 in der für den Zeitpunkt der Verpflichtung geltenden
+            Fassung,
+
+
+        cc) im Rahmen einer Maßnahme nach Artikel 22 der Verordnung (EU) Nr.
+            1305/2013 in der für den Zeitpunkt der Verpflichtung geltenden
+            Fassung,
+
+
+        dd) im Rahmen einer freiwilligen Umwelt-, Klima- oder anderen
+            Bewirtschaftungsverpflichtung oder einer Unterstützung für
+            Investitionen nach der ELER-Regelung in der für den Zeitpunkt der
+            Verpflichtung geltenden Fassung oder
+
+
+        ee) im Rahmen einer aus öffentlichen Mitteln finanzierten freiwilligen
+            Maßnahme, die mit den in den Doppelbuchstaben bb bis dd genannten im
+            Zeitpunkt der Verpflichtung jeweils geltenden Grundlage im Einklang
+            steht oder
+
+
+
+
+
+    d)  für die Laufzeit einer Stilllegungsverpflichtung des Betriebsinhabers
+
+        aa) im Rahmen einer Agrarumweltmaßnahme nach den Artikeln 22 bis 24 der
+            Verordnung (EG) Nr. 1257/1999 in der für den Zeitpunkt der
+            Verpflichtung geltenden Fassung,
+
+
+        bb) im Rahmen einer Agrarumweltmaßnahme nach Artikel 39 der Verordnung
+            (EG) Nr. 1698/2005 in der für den Zeitpunkt der Verpflichtung
+            geltenden Fassung,
+
+
+        cc) im Rahmen einer Agrarumwelt- und Klimamaßnahme nach Artikel 28 der
+            Verordnung (EU) Nr. 1305/2013 in der für den Zeitpunkt der
+            Verpflichtung geltenden Fassung oder
+
+
+        dd) im Rahmen einer freiwilligen Umwelt-, Klima- oder anderen
+            Bewirtschaftungsverpflichtung nach der ELER-Regelung in der für den
+            Zeitpunkt der Verpflichtung geltenden Fassung.
+
+
+
+
+
+
+
+
+
+
+(2) Eine zum Hanfanbau genutzte Fläche nach Absatz 1 Nummer 1 ist nur
+förderfähig, wenn
+
+1.  Saatgut einer Hanfsorte verwendet wird, die am 15. März des
+    Antragsjahres im Gemeinsamen Sortenkatalog für landwirtschaftliche
+    Pflanzenarten aufgeführt ist und nach Artikel 17 der Richtlinie
+    2002/53/EG durch die Europäische Kommission im Amtsblatt der
+    Europäischen Union, Reihe C, veröffentlicht ist,
+
+
+2.  der Tetrahydrocannabinolgehalt der verwendeten Hanfsorte, ermittelt
+    nach der Methode, deren Anwendung die in § 1 genannte Unionsregelung
+    den Mitgliedstaaten der Europäischen Union für diesen Zweck
+    vorschreibt, im Durchschnitt aller Proben der betreffenden Hanfsorte
+    in zwei aufeinanderfolgenden Jahren nicht größer als 0,3 Prozent war
+    und
+
+
+3.  das verwendete Saatgut zertifiziert ist
+
+    a)  nach der Richtlinie 2002/57/EG oder
+
+
+    b)  im Fall einer Erhaltungssorte nach Artikel 10 der Richtlinie
+        2008/62/EG.
+
+
+
+
+
+
 
 
 #### § 12 Hauptsächliche Nutzung für eine landwirtschaftliche Tätigkeit
@@ -578,6 +1185,50 @@ Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90
 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
+##### § 19 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002102119)
+
+(1) Die Zahlung für Mutterschafe und -ziegen ist für mindestens sechs
+Tiere zu beantragen.
+
+(2) (weggefallen)
+
+(3) Förderfähig sind Mutterschafe und -ziegen,
+
+1.  (weggefallen)
+
+
+2.  die während des Zeitraums vom 15. Mai des Jahres, für das die Zahlung
+    beantragt wird, bis zum 15. August desselben Jahres (Haltungszeitraum)
+    im Betrieb gehalten werden und
+
+
+3.  für die spätestens am letzten Tag des Haltungszeitraums die Pflichten
+    zur Kennzeichnung und Registrierung von gehaltenen Schafen und Ziegen
+    erfüllt sind nach
+
+    a)  Teil IV Titel I Kapitel 2 Abschnitt 1 der Verordnung (EU) 2016/429,
+
+
+    b)  den Rechtsakten der Europäischen Union, die im Rahmen der in Buchstabe
+        a genannten Vorschriften und zu deren Durchführung erlassen worden
+        sind oder werden, sowie
+
+
+    c)  der Viehverkehrsverordnung.
+
+
+
+
+
+
+
+(4) Scheidet ein Tier aufgrund natürlicher Lebensumstände aus dem
+Bestand aus, ist die Anforderung des Absatzes 3 Nummer 2 gewahrt, wenn
+es unverzüglich nach dem Ausscheiden durch ein anderes förderfähiges
+Tier ersetzt wird.
+
+
 #### Unterabschnitt 2 - Zahlung für Mutterkühe
 [Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001001000)
 
@@ -592,6 +1243,51 @@ Antragsjahr ist in Anlage 7 festgesetzt.
 geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten
 Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90
 Prozent des geplanten Einheitsbetrags zur Anwendung.
+
+
+##### § 21 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002301119)
+
+(1) Die Zahlung für Mutterkühe ist für mindestens drei Mutterkühe zu
+beantragen.
+
+(2) Förderfähig sind weibliche Rinder,
+
+1.  die ausweislich der Angaben, die aufgrund von Rechtsvorschriften zur
+    Kennzeichnung und Registrierung von Rindern oder aufgrund
+    tierseuchenrechtlicher Vorschriften über die Anzeige und Registrierung
+    von Betrieben erteilt worden sind, mindestens einmal gekalbt haben,
+
+
+2.  die während des Zeitraums vom 15. Mai des Jahres, für das die Zahlung
+    beantragt wird, bis zum 15. August desselben Jahres (Haltungszeitraum)
+    im Betrieb gehalten werden und
+
+
+3.  für die spätestens am letzten Tag des Haltungszeitraums die Pflichten
+    zur Kennzeichnung und Registrierung von gehaltenen Rindern erfüllt
+    sind nach
+
+    a)  Teil IV Titel I Kapitel 2 Abschnitt 1 der Verordnung (EU) 2016/429,
+
+
+    b)  den Rechtsakten der Europäischen Union, die im Rahmen der in Buchstabe
+        a genannten Vorschriften und zu deren Durchführung erlassen worden
+        sind oder werden, sowie
+
+
+    c)  der Viehverkehrsverordnung.
+
+
+
+
+
+
+
+(3) Scheidet ein Tier im Haltungszeitraum aufgrund natürlicher
+Lebensumstände aus dem Bestand aus, ist die Anforderung des Absatzes 2
+Nummer 2 gewahrt, wenn es unverzüglich nach dem Ausscheiden durch ein
+anderes förderfähiges Tier ersetzt wird.
 
 
 ### Abschnitt 4 - Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen
@@ -1306,6 +2002,1930 @@ Dezember 2024 angelegt werden.
     nicht mehr zulässig. Niederwaldflächen mit Kurzumtrieb, die vor dem 1.
     Januar 2022 angelegt worden sind, bleiben davon unberührt.
 [^F820155_02_BJNR013900022BJNE003300000]: 
+(zu § 15 Absatz 2)
+
+### Anlage 3 Indikative Mittelzuweisungen in Euro für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003403119)
+
+(Fundstelle: BGBl. I 2022, 155;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+
+*    *   Öko-Regelung
+
+    *   Antragsjahr
+        2023
+
+    *   Antragsjahr
+        2024
+
+    *   Antragsjahr
+        2025
+
+    *   Antragsjahr
+        2026
+
+
+*    *   § 20 Absatz 1 Nummer 1 GAPDZG
+
+    *   326 273 710
+
+    *   336 005 670
+
+    *   330 500 464
+
+    *   268 268 869
+
+
+*    *   § 20 Absatz 1 Nummer 2 GAPDZG
+
+    *   120 315 992
+
+    *   161 510 657
+
+    *   164 333 859
+
+    *   155 822 273
+
+
+*    *   § 20 Absatz 1 Nummer 3 GAPDZG
+
+    *   1 500 000
+
+    *   1 500 000
+
+    *   1 900 000
+
+    *   2 300 000
+
+
+*    *   § 20 Absatz 1 Nummer 4 GAPDZG
+
+    *   227 479 352
+
+    *   197 808 132
+
+    *   197 808 132
+
+    *   158 246 480
+
+
+*    *   § 20 Absatz 1 Nummer 5 GAPDZG
+
+    *   153 745 143
+
+    *   153 745 143
+
+    *   144 136 071
+
+    *   267 432 276
+
+
+*    *   § 20 Absatz 1 Nummer 6 GAPDZG
+
+    *   135 754 299
+
+    *   103 192 794
+
+    *   98 124 721
+
+    *   56 468 100
+
+
+*    *   § 20 Absatz 1 Nummer 7 GAPDZG
+
+    *   52 480 464
+
+    *   52 480 464
+
+    *   52 480 464
+
+    *   52 480 464
+
+
+
+(zu § 16 Absatz 1)
+
+### Anlage 4 Geplante Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003504119)
+
+(Fundstelle: BGBl. I 2022, 156 - 157;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+
+**1.** **§ 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes**
+
+    a)  § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes
+
+        *            *
+            *   Antragsjahr
+                2023
+
+            *   Antragsjahr
+                2024
+
+            *   Antragsjahr
+                2025
+
+            *   Antragsjahr
+                2026
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 1
+
+            *   1 300 Euro
+
+            *   1 300 Euro
+
+            *   1 300 Euro
+
+            *   1 300 Euro
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 2
+
+            *   500 Euro
+
+            *   500 Euro
+
+            *   500 Euro
+
+            *   500 Euro
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 3
+
+            *   300 Euro
+
+            *   300 Euro
+
+            *   300 Euro
+
+            *   300 Euro
+
+
+
+
+        Für die nach Anlage 5 Nummer 1.1.2 begünstigungsfähige Fläche im
+        Umfang von bis zu 1 Prozent des förderfähigen Ackerlands wird der
+        geplante Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird
+        der geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.1.1
+        Satz 4 genannten Fall im Umfang von bis zu 1 Hektar
+        begünstigungsfähiger Fläche auch dann angewendet, wenn diese Fläche
+        größer ist als 1 Prozent des förderfähigen Ackerlands des Betriebs.
+        Für die darüber hinausgehende nach Anlage 5 Nummer 1.1.2
+        begünstigungsfähige Fläche bis zum Umfang von 2 Prozent des
+        förderfähigen Ackerlands wird der geplante Einheitsbetrag Stufe 2
+        angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.1.2
+        begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3
+        angewendet.
+
+
+    b)  § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
+
+        *            *
+            *   Antragsjahr
+                2023
+
+            *   Antragsjahr
+                2024
+
+            *   Antragsjahr
+                2025
+
+            *   Antragsjahr
+                2026
+
+
+        *            *   Geplanter Einheitsbetrag
+
+            *   150 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+
+
+
+
+    c)  § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
+
+        *            *
+            *   Antragsjahr
+                2023
+
+            *   Antragsjahr
+                2024
+
+            *   Antragsjahr
+                2025
+
+            *   Antragsjahr
+                2026
+
+
+        *            *   Geplanter Einheitsbetrag
+
+            *   150 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+
+
+
+
+    d)  § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
+
+        *            *
+            *   Antragsjahr
+                2023
+
+            *   Antragsjahr
+                2024
+
+            *   Antragsjahr
+                2025
+
+            *   Antragsjahr
+                2026
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 1
+
+            *   900 Euro
+
+            *   900 Euro
+
+            *   900 Euro
+
+            *   1 000 Euro
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 2
+
+            *   400 Euro
+
+            *   400 Euro
+
+            *   400 Euro
+
+            *   450 Euro
+
+
+        *            *   Geplanter Einheitsbetrag Stufe 3
+
+            *   200 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+            *   200 Euro
+
+
+
+
+        Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang
+        von 1 Prozent des förderfähigen Dauergrünlands wird der geplante
+        Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird der
+        geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.4.1 Satz 4
+        genannten Fall im Umfang von bis zu 1 Hektar begünstigungsfähiger
+        Fläche auch dann angewendet, wenn diese Fläche größer ist als 1
+        Prozent des förderfähigen Dauergrünlands des Betriebs. Für die darüber
+        hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche bis
+        zum Umfang von 3 Prozent des förderfähigen Dauergrünlands wird der
+        geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber
+        hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche wird
+        der geplante Einheitsbetrag Stufe 3 angewendet.
+
+
+
+
+
+**2.** **§ 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag
+
+        *   45 Euro
+
+        *   60 Euro
+
+        *   60 Euro
+
+        *   60 Euro
+
+
+
+
+
+**3.** **§ 20 Absatz 1 Nummer 3 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag
+
+        *   60 Euro
+
+        *   200 Euro
+
+        *   200 Euro
+
+        *   600 Euro
+
+
+
+
+
+**4.** **§ 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag
+
+        *   115 Euro
+
+        *   100 Euro
+
+        *   100 Euro
+
+        *   100 Euro
+
+
+
+
+
+**5.** **§ 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag
+
+        *   240 Euro
+
+        *   240 Euro
+
+        *   225 Euro
+
+        *   210 Euro
+
+
+
+
+
+**6.** **§ 20 Absatz 1 Nummer 6 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag Stufe 1
+
+        *   130 Euro
+
+        *   150 Euro
+
+        *   150 Euro
+
+        *   150 Euro
+
+
+    *        *   Geplanter Einheitsbetrag Stufe 2
+
+        *   50 Euro
+
+        *   50 Euro
+
+        *   50 Euro
+
+        *   50 Euro
+
+
+
+
+    Für eine nach Anlage 5 Nummer 6 begünstigungsfähige Fläche mit einer
+    von Anlage 5 Nummer 6.2 oder 6.4 umfassten Kultur wird der geplante
+    Einheitsbetrag Stufe 1 angewendet. Für eine nach Anlage 5 Nummer 6
+    begünstigungsfähige Fläche mit einer von Anlage 5 Nummer 6.3 umfassten
+    Kultur wird der geplante Einheitsbetrag Stufe 2 angewendet.
+
+
+**7.** **§ 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes**
+
+    *        *
+        *   Antragsjahr
+            2023
+
+        *   Antragsjahr
+            2024
+
+        *   Antragsjahr
+            2025
+
+        *   Antragsjahr
+            2026
+
+
+    *        *   Geplanter Einheitsbetrag
+
+        *   40 Euro
+
+        *   40 Euro
+
+        *   40 Euro
+
+        *   40 Euro
+
+
+
+
+
+
+
+(zu § 17 Absatz 1)
+
+### Anlage 5 Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003604119)
+
+(Fundstelle: BGBl. I 2022, 158 - 161;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+
+**1.** **Zu § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes**
+
+
+1.1 § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes
+
+
+1.1.1 Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den
+    Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus
+    einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes
+    ergibt, hinaus bereitzustellen. Begünstigungsfähig ist
+    nichtproduktives Ackerland höchstens im Umfang von 8 Prozent des
+    förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven
+    Flächen gehören nicht
+
+    a)  die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen und
+
+
+    b)  Ackerland, auf dem sich ein Agroforstsystem befindet.
+
+
+
+    Abweichend von Satz 2 ist nichtproduktives Ackerland im Umfang von bis
+    zu einem Hektar auch dann begünstigungsfähig, wenn dieses mehr als 8
+    Prozent des förderfähigen Ackerlands des Betriebes ausmacht und
+
+    a)  der Betrieb mehr als 10 Hektar Ackerland aufweist,
+
+
+    b)  der Betrieb mindestens eine förderfähige Dauerkulturfläche mit
+        Rebstöcken aufweist oder
+
+
+    c)  dem Betriebsinhaber für mindestens eine Fläche, die er im Sammelantrag
+        nach § 5 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes
+        für das Antragsjahr angegeben hat, eine im Antragsjahr gültige
+        Wiederbepflanzungsgenehmigung gemäß § 6 Absatz 1 Satz 1 des
+        Weingesetzes erteilt worden ist.
+
+
+
+
+
+1.1.2 Begünstigungsfähige Fläche ist die nichtproduktive Fläche nach Nummer
+    1\.1.1, die die Voraussetzungen der Nummern 1.1.3 und 1.1.4 erfüllt.
+
+
+1.1.3 Jede nichtproduktive Fläche muss mindestens 0,1 Hektar groß sein.
+
+
+1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres
+    brachliegen und der Selbstbegrünung überlassen oder durch Aussaat
+    begrünt werden. Im Fall einer Begrünung durch Aussaat ist eine
+    Saatgutmischung zu verwenden, die mindestens fünf krautartige
+    zweikeimblättrige Arten enthält. Auf einer nichtproduktiven Fläche
+    nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und
+    Pflanzenschutzmittel nicht angewendet werden. Abweichend von Satz 1
+    darf ab dem 1. September des Antragsjahres eine Aussaat oder
+    Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt,
+    vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder
+    Ziegen beweidet werden. Abweichend von Satz 4 darf eine Aussaat von
+    Wintergerste oder Winterraps ab dem 15. August vorbereitet und
+    durchgeführt werden.
+
+
+1.2 § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
+
+
+1.2.1 Begünstigungsfähige Blühstreifen oder -flächen auf nach Nummer 1.1.1
+    bereitgestellten Flächen müssen die Voraussetzungen der Nummern 1.2.2
+    bis 1.2.4 erfüllen. Begünstigungsfähig sind Blühstreifen oder -flächen
+    bis zu einer Höchstgröße von jeweils 3 Hektar.
+
+
+1.2.2 Blühstreifen oder -flächen müssen eine Mindestgröße von jeweils 0,1
+    Hektar aufweisen.
+
+
+1.2.3 Bei streifenförmiger Aussaat ist auf der überwiegenden Länge eine
+    Mindestbreite von 5 Metern einzuhalten.
+
+
+1.2.4 Auf einem Blühstreifen oder einer Blühfläche muss sich ein
+    Pflanzenbestand nach Maßgabe der Nummern 1.2.5 bis 1.2.7 befinden, der
+    durch Aussaat einer Saatgutmischung nach Anhang 1 etabliert worden
+    ist. Düngemittel einschließlich Wirtschaftsdünger und
+    Pflanzenschutzmittel dürfen nicht angewendet werden.
+
+
+1.2.5 Die Saatgutmischung muss aus
+
+    a)  mindestens 10 der in Anhang 1 in Gruppe A aufgeführten Arten bestehen
+        oder
+
+
+    b)  mindestens 5 der in Anhang 1 in Gruppe A und mindestens 5 der in
+        Anhang 1 in Gruppe B aufgeführten Arten bestehen.
+
+
+
+
+
+1.2.6 Eine Fläche kann in dem Jahr, das auf das erste Antragsjahr folgt,
+    ohne erneute Aussaat wieder beantragt werden, wenn bei der Aussaat
+    eine Mischung nach Nummer 1.2.5 Buchstabe b verwendet wurde.
+
+
+1.2.7 Die Aussaat hat bis zum 15. Mai des jeweiligen Antragsjahres zu
+    erfolgen. Im Fall der Nummer 1.2.6 ist der 15. Mai des ersten
+    Antragsjahres spätester Aussaattermin. Eine Nachsaat ist zulässig,
+    wenn die erste Aussaat unzureichend aufgegangen ist.
+
+
+1.2.8 Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung
+    erlaubt, wenn dieser die Aussaat oder die Pflanzung einer Folgekultur
+    folgt, die nicht vor Ablauf des Antragsjahres zu einer Ernte führt.
+    Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in
+    dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung
+    nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist
+    und begünstigungsfähig war.
+
+
+1.3 § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
+
+
+1.3.1 Für begünstigungsfähige Blühstreifen oder -flächen in förderfähigen
+    Dauerkulturen gelten die Voraussetzungen der Nummern 1.2.4 bis 1.2.8
+    entsprechend.
+
+
+1.4 § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
+
+
+1.4.1 Die begünstigungsfähigen Altgrasstreifen oder -flächen müssen
+    mindestens 1 Prozent des förderfähigen Dauergrünlands des Betriebs
+    umfassen und die Voraussetzungen der Nummern 1.4.2 und 1.4.3 erfüllen.
+    Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im
+    Umfang von 6 Prozent des förderfähigen Dauergrünlands des Betriebs. Zu
+    den begünstigungsfähigen Altgrasstreifen oder -flächen gehören nicht
+    die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen.
+    Abweichend von Satz 2 sind Altgrasstreifen oder -flächen im Umfang von
+    bis zu einem Hektar auch dann begünstigungsfähig, wenn diese mehr als
+    6 Prozent des förderfähigen Dauergrünlands des Betriebs ausmachen.
+
+
+1.4.2 Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im
+    Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche. Ein
+    Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar
+    groß sein.
+
+
+1.4.3 Eine Beweidung oder eine Schnittnutzung (Tätigkeit) vor dem 1.
+    September ist nicht zulässig. Eine Tätigkeit muss mindestens in jedem
+    zweiten Jahr erfolgen, jedoch nicht vor dem 1. September. Die
+    Zerkleinerung und ganzflächige Verteilung des Aufwuchses ist
+    ganzjährig jeweils nicht zulässig.
+
+
+**2.** **Zu § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes**
+
+
+2.1 Begünstigungsfähig ist förderfähiges Ackerland, das die
+    Voraussetzungen der Nummern 2.2 bis 2.10 erfüllt, mit Ausnahme des
+    brachliegenden Ackerlandes.
+
+
+2.2 Auf dem förderfähigen Ackerland des Betriebs mit Ausnahme des
+    brachliegenden Ackerlandes sind mindestens fünf verschiedene
+    Hauptfruchtarten im Antragsjahr anzubauen. Die Verpflichtung nach Satz
+    1 gilt als erfüllt, wenn auf mindestens 40 Prozent des förderfähigen
+    Ackerlands mit Ausnahme des brachliegenden Ackerlands des Betriebs
+    beetweise mindestens fünf verschiedene Gemüsekulturen, Küchenkräuter,
+    Heil-, Gewürz- oder Zierpflanzen angebaut werden.
+
+
+2.3 Jede Hauptfruchtart muss auf mindestens 10 Prozent und darf auf
+    höchstens 30 Prozent der Fläche nach Nummer 2.2 angebaut werden. Es
+    müssen mindestens 10 Prozent Leguminosen einschließlich deren Gemenge,
+    bei denen Leguminosen auf der Fläche überwiegen, angebaut werden. Satz
+    1 gilt nicht in den in der Nummer 2.2 Satz 2 geregelten Fällen.
+
+
+2.4 Als Hauptfrucht zählen
+
+    a)  eine Kultur einer der verschiedenen in der botanischen Klassifikation
+        landwirtschaftlicher Kulturpflanzen definierten Gattungen,
+
+
+    b)  jede Art im Fall der Familien Brassicaceae, Solanaceae und
+        Cucurbitaceae,
+
+
+    c)  Gras oder andere Grünfutterpflanzen im Sinne des § 7 Absatz 2 mit
+        Ausnahme von Leguminosenmischkultur im Sinne der Nummer 2.7.
+
+
+
+
+
+2.5 Winter- und Sommerkulturen gelten als unterschiedliche
+    Hauptfruchtarten, auch wenn sie zur selben Gattung gehören.
+
+
+2.6 Triticum spelta gilt als unterschiedliche Hauptfruchtart gegenüber
+    Hauptfruchtarten, die zu derselben Gattung gehören.
+
+
+2.7 Alle Mischkulturen von feinkörnigen Leguminosen oder von feinkörnigen
+    Leguminosen mit anderen Pflanzen, sofern feinkörnige Leguminosen
+    überwiegen, zählen zu der einzigen Hauptfruchtart feinkörnige
+    Leguminosenmischkultur.
+
+    Alle Mischkulturen von großkörnigen Leguminosen oder von großkörnigen
+    Leguminosen mit anderen Pflanzen, sofern großkörnige Leguminosen
+    überwiegen, zählen zu der einzigen Hauptfruchtart großkörnige
+    Leguminosenmischkultur.
+
+
+2.8 Alle Mischkulturen, die nicht unter Nummer 2.4 Buchstabe c oder Nummer
+    2\.7 fallen und die durch Aussaat einer Saatgutmischung oder Aussaat
+    oder Anpflanzung mehrerer Kulturpflanzen in getrennten Reihen nach der
+    Ernte der Hauptkultur im Vorjahr etabliert wurden, zählen zu der
+    einzigen Hauptfruchtart Wintermischkultur.
+
+    Alle Mischkulturen, die nicht unter Nummer 2.4 Buchstabe c oder Nummer
+    2\.7 fallen und die durch Aussaat einer Saatgutmischung oder Aussaat
+    oder Anpflanzung mehrerer Kulturen in getrennten Reihen zur Ernte im
+    selben Jahr etabliert wurden, zählen zu der einzigen Hauptfruchtart
+    Sommermischkultur.
+
+    Alle Mischkulturen mit Mais zählen zu der Hauptfruchtart Mais.
+
+
+2.9 Bei dem Anbau von mehr als fünf Hauptfruchtarten werden zur Berechnung
+    der Mindestanteile nach Nummer 2.3 Hauptfruchtarten zusammengefasst.
+    Der in Nummer 2.2 Satz 2 geregelte beetweise Anbau kann nicht mit
+    anderen Hauptfruchtarten zusammengefasst werden.
+
+
+2.10 Der Anteil von Getreide an der in Nummer 2.2 genannten Fläche darf
+    höchstens 66 Prozent betragen.
+
+
+**3.** **Zu § 20 Absatz 1 Nummer 3 des GAP-Direktzahlungen-Gesetzes**
+
+
+3.1 Bei der Beibehaltung einer agroforstlichen Bewirtschaftungsweise in
+    einem Agroforstsystem auf Ackerland oder Dauergrünland ist die Fläche
+    der Gehölzstreifen auf einer förderfähigen Ackerland- oder
+    Dauergrünlandfläche begünstigungsfähig, die die Voraussetzungen der
+    Nummern 3.2 und 3.3 erfüllt.
+
+
+3.2 Die Gehölzstreifen müssen folgende Voraussetzungen erfüllen:
+
+
+3.2.1 Der Flächenanteil der Gehölzstreifen an einer förderfähigen Ackerland-
+    oder Dauergrünlandfläche muss zwischen 2 und 40 Prozent betragen.
+
+
+3.2.2 Die Gehölzstreifen müssen weitestgehend durchgängig mit Gehölzen
+    bestockt sein.
+
+
+3.2.3 Die Mindestanzahl an Gehölzstreifen muss zwei betragen.
+
+
+3.2.4 Die Breite der einzelnen Gehölzstreifen darf auf der überwiegenden
+    Länge nicht mehr als 25 Meter betragen.
+
+
+3.2.5 Der größte Abstand zwischen zwei Gehölzstreifen sowie zwischen einem
+    Gehölzstreifen und dem Rand der Fläche darf auf der überwiegenden
+    Länge nicht mehr als 100 Meter betragen.
+
+
+3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen muss auf der
+    überwiegenden Länge 20 Meter betragen. Der kleinste Abstand von
+    Gehölzstreifen zu einem Waldrand oder zu einem in § 19 Absatz 1 Nummer
+    1 bis 3 der GAP-Konditionalitäten-Verordnung genannten
+    Landschaftselement darf auf der überwiegenden Länge nicht weniger als
+    20 Meter betragen.
+
+
+3.3 Unbeschadet naturschutzrechtlicher Vorschriften sind Maßnahmen der
+    Holzernte im Antragsjahr nur in den Monaten Januar, Februar und
+    Dezember zulässig.
+
+
+**4.** **Zu § 20 Absatz 1 Nummer 4 des GAP-Direktzahlungen-Gesetzes**
+
+
+4.1 Begünstigungsfähig ist das gesamte förderfähige Dauergrünland eines
+    Betriebs, wenn die Voraussetzungen der Nummern 4.2 bis 4.5 erfüllt
+    sind.
+
+
+4.2 Im Gesamtbetrieb ist im Antragsjahr durchschnittlich ein Viehbesatz
+    von mindestens 0,3 und höchstens 1,4 raufutterfressenden
+    Großvieheinheiten (RGV) je Hektar förderfähiges Dauergrünland
+    einzuhalten. Zugrunde gelegt wird der Berechnungsschlüssel nach der
+    nachfolgenden Tabelle:
+
+    *        *   Art
+
+        *   Alter/Kategorie
+
+        *   Koeffizient
+
+
+    *        *   Rinder
+
+        *   weniger als 6 Monate
+
+        *   0,400
+
+
+    *        *   zwischen 6 Monaten und 2 Jahren
+
+        *   0,600
+
+
+    *        *   über 2 Jahre
+
+        *   1,000
+
+
+    *        *   Equiden
+
+        *   über 6 Monate
+
+        *   1,000
+
+
+    *        *   Schafe und Ziegen
+
+        *
+        *   0,150
+
+
+    *        *   Gehegewild
+
+        *   Damwild
+
+        *   0,150
+
+
+    *        *   Rotwild
+
+        *   0,300
+
+
+
+
+    Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von
+    Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe
+    und Ziegen mitumfasst. Bei Anwendung des Berechnungsschlüssels ist die
+    Kategorie Kälber von Damwild und Rotwild jeweils von der angegebenen
+    RGV für die Kategorie Damwild und Rotwild mitumfasst.
+
+
+4.3 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist
+    nur in dem Umfang erlaubt, der dem Dunganfall von höchstens 1,4 RGV je
+    Hektar förderfähiges Dauergrünland des Betriebs entspricht.
+
+
+4.4 Pflanzenschutzmittel dürfen nicht angewendet werden. Die nach
+    Landesrecht zuständige Behörde kann im Einzelfall auf Antrag Ausnahmen
+    zulassen.
+
+
+4.5 Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt
+    werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung
+    durch höhere Gewalt oder außergewöhnliche Umstände kann die nach
+    Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen
+    zulassen.
+
+
+**5.** **Zu § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes**
+
+
+5.1 Begünstigungsfähig sind förderfähige Dauergrünlandflächen, auf denen
+    das Vorkommen von mindestens vier Pflanzenarten aus der vom
+    Belegenheitsland der Fläche auf Grund von § 17 Absatz 3 geregelten
+    Liste der Kennarten oder Kennartengruppe des artenreichen Grünlands
+    mittels der dort dafür festgelegten Methode nachgewiesen wird.
+
+
+**6.** **Zu § 20 Absatz 1 Nummer 6 des GAP-Direktzahlungen-Gesetzes**
+
+
+6.1 Begünstigungsfähig sind vom Antragsteller bezeichnete förderfähige
+    Ackerland- und bezeichnete förderfähige Dauerkulturflächen des
+    Betriebs, auf denen keines der chemisch-synthetischen
+    Pflanzenschutzmittel nach Nummer 6.5, dessen Anwendung nach den
+    rechtlichen Vorgaben nicht verboten ist, angewendet wird für die von
+    den Nummern 6.2, 6.3 und 6.4 umfassten Kulturen und in den jeweiligen
+    Zeiträumen.
+
+
+6.2 Chemisch-synthetische Pflanzenschutzmittel nach Nummer 6.5 dürfen vom
+    1\. Januar bis zur Ernte auf der jeweiligen Fläche, jedoch mindestens
+    bis zum 31. August des Antragsjahres nicht auf vom Antragsteller
+    bezeichnetem förderfähigen Ackerland angewendet werden, das im
+    Antragsjahr zur Erzeugung genutzt wird von
+
+    a)  Sommergetreide, einschließlich Mais, Hirse und Pseudogetreide,
+
+
+    b)  Leguminosen, einschließlich Gemenge, außer Ackerfutter,
+
+
+    c)  Sommer-Ölsaaten,
+
+
+    d)  Hackfrüchte,
+
+
+    e)  Feldgemüse.
+
+
+
+
+
+6.3 Chemisch-synthetische Pflanzenschutzmittel nach Nummer 6.5 dürfen auf
+    vom Antragsteller bezeichnetem förderfähigen Ackerland, das im
+    Antragsjahr zur Erzeugung von Gras oder anderen Grünfutterpflanzen
+    oder von als Ackerfutter genutzten Leguminosen, einschließlich
+    Gemenge, genutzt wird, vom 1. Januar bis 15. November des
+    Antragsjahres nicht angewendet werden.
+
+    Dieser Zeitraum endet mit dem Zeitpunkt der letzten Ernte im
+    Antragsjahr, sofern nach der Ernte im Antragsjahr eine
+    Bodenbearbeitung zur Vorbereitung des Anbaus einer Folgekultur
+    erfolgt, jedoch frühestens mit dem 31. August.
+
+
+6.4 Chemisch-synthetische Pflanzenschutzmittel nach Nummer 6.5 dürfen auf
+    vom Antragsteller bezeichneten förderfähigen Dauerkulturflächen vom 1.
+    Januar bis 15. November des Antragsjahres nicht angewendet werden.
+
+
+6.5 Chemisch-synthetische Pflanzenschutzmittel im Sinne dieser Öko-
+    Regelung sind alle Pflanzenschutzmittel mit Ausnahme von
+    Pflanzenschutzmitteln, die
+
+    a)  ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem
+        Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr.
+        1107/2009,
+
+
+    b)  für die ökologische Landwirtschaft zugelassen sind.
+
+
+
+
+
+**7.** **Zu § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes**
+
+
+7.1 Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die
+    in Gebieten nach Nummer 7.3 liegen, die die Voraussetzungen der Nummer
+    7\.2 erfüllen und unter Nummer 7.4 fallen.
+
+
+7.2 Im Antragsjahr dürfen
+
+    a)  weder zusätzliche Entwässerungsmaßnahmen noch eine Instandsetzung
+        bestehender Anlagen zur Absenkung von Grundwasser oder zur Drainage
+        durchgeführt werden, sowie
+
+
+    b)  keine Auffüllungen, Aufschüttungen oder Abgrabungen vorgenommen
+        werden, es sei denn, es handelt sich um eine von einer für Naturschutz
+        zuständigen Behörde genehmigte, angeordnete oder durchgeführte
+        Maßnahme.
+
+
+
+
+
+7.3 Die Gebiete nach Nummer 7.1 sind die Gebiete, die
+
+    a)  in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie
+        92/43/EWG eingetragen sind oder
+
+
+    b)  nach Artikel 4 Absatz 1 der Richtlinie 2009/147/EG als Schutzgebiet
+        ausgewiesen sind.
+
+
+
+
+
+7.4 Förderfähige landwirtschaftliche Flächen, bei denen rechtliche
+    Vorgaben mindestens einer der Maßnahmen nach Nummer 7.2 nicht
+    entgegenstehen, sind begünstigungsfähig.
+
+
+
+
+
+### Anhang 1 Zulässige Arten für Saatgutmischungen bei Blühstreifen oder -flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003703119)
+
+(Fundstelle: BGBl. I 2022, 161 - 165;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+**Gruppe A:**
+
+*    *   Botanische Bezeichnung
+
+    *   Deutsche Bezeichnung
+
+
+*    *   Alliaria petiolata
+
+    *   Lauchhederich
+
+
+*    *   Anagallis arvensis
+
+    *   Acker-Gauchheil
+
+
+*    *   Anethum graveolens
+
+    *   Dill
+
+
+*    *   Aphanes arvensis
+
+    *   Gewöhnlicher Ackerfrauenmantel
+
+
+*    *   Arabidopsis thaliana
+
+    *   Acker-Schmalwand
+
+
+*    *   Arenaria serpyllifolia
+
+    *   Quendel-Sandkraut
+
+
+*    *   Borago officinalis
+
+    *   Borretsch
+
+
+*    *   Calendula officinalis
+
+    *   Ringelblume
+
+
+*    *   Cerastium glomeratum
+
+    *   Knäuel-Hornkraut
+
+
+*    *   Cerastium semidecandrum
+
+    *   Fünfmänniges Hornkraut
+
+
+*    *   Crepis capillaris
+
+    *   Kleinköpfiger Pippau
+
+
+*    *   (weggefallen)
+
+    *
+
+*    *   Euphorbia exigua
+
+    *   Kleine Wolfsmilch
+
+
+*    *   Euphorbia helioscopia
+
+    *   Sonnenwend-Wolfsmilch
+
+
+*    *   Euphorbia peplus
+
+    *   Garten-Wolfsmilch
+
+
+*    *   Fagopyrum esculentum
+
+    *   Buchweizen
+
+
+*    *   Fallopia dumetorum
+
+    *   Hecken-Flügelknöterich
+
+
+*    *   Filago arvensis
+
+    *   Acker-Filzkraut
+
+
+*    *   Filago minima
+
+    *   Zwerg-Filzkraut
+
+
+*    *   Fumaria officinalis
+
+    *   Gewöhnlicher Erdrauch
+
+
+*    *   Galeopsis bifida
+
+    *   Kleinblütiger Hohlzahn
+
+
+*    *   Gnaphalium uliginosum
+
+    *   Sumpf-Ruhrkraut
+
+
+*    *   Helianthus annuus
+
+    *   Sonnenblume
+
+
+*    *   Holosteum umbellatum
+
+    *   Spurre
+
+
+*    *   Jasione montana
+
+    *   Berg-Sandglöckchen
+
+
+*    *   Lamium purpureum
+
+    *   Purpurrote Taubnessel
+
+
+*    *   Lapsana communis
+
+    *   Gewöhnlicher Rainkohl
+
+
+*    *   Lepidium campestre
+
+    *   Feld-Kresse
+
+
+*    *   Lepidium sativum
+
+    *   Kresse
+
+
+*    *   Linum usitatissimum
+
+    *   Lein
+
+
+*    *   Malva neglecta
+
+    *   Weg-Malve
+
+
+*    *   Myosotis arvensis
+
+    *   Acker-Vergissmeinnicht
+
+
+*    *   Myosotis stricta
+
+    *   Sand-Vergissmeinnicht
+
+
+*    *   Myosurus minimus
+
+    *   Kleines Mäuseschwänzchen
+
+
+*    *   Odontites vulgaris
+
+    *   Roter Zahntrost
+
+
+*    *   Ornithopus perpusillus
+
+    *   Kleiner Vogelfuß
+
+
+*    *   Papaver dubium
+
+    *   Saat-Mohn
+
+
+*    *   Phacelia tanacetifolia
+
+    *   Rainfarn-Phazelie
+
+
+*    *   Polygonum arenastrum
+
+    *   Gleichblättriger Vogelknöterich
+
+
+*    *   Raphanus sativus
+
+    *   Ölrettich
+
+
+*    *   Reseda lutea
+
+    *   Gelber Wau
+
+
+*    *   Spergula arvensis
+
+    *   Acker-Spergel
+
+
+*    *   Spergularia rubra
+
+    *   Rote Schuppenmiere
+
+
+*    *   Teesdalia nudicaulis
+
+    *   Bauernsenf
+
+
+*    *   Torilis japonica
+
+    *   Gewöhnlicher Klettenkerbel
+
+
+*    *   Trifolium arvense
+
+    *   Hasen-Klee
+
+
+*    *   Trifolium campestre
+
+    *   Feld-Klee
+
+
+*    *   Trifolium dubium
+
+    *   Kleiner Klee
+
+
+*    *   Valerianella carinata
+
+    *   Gekieltes Rapünzchen
+
+
+*    *   Valerianella locusta
+
+    *   Gewöhnliches Rapünzchen
+
+
+*    *   Veronica agrestis
+
+    *   Acker-Ehrenpreis
+
+
+*    *   Veronica arvensis
+
+    *   Feld-Ehrenpreis
+
+
+
+
+
+**Gruppe B:**
+
+*    *   Botanische Bezeichnung
+
+    *   Deutsche Bezeichnung
+
+
+*    *   Achillea millefolium
+
+    *   Gewöhnliche Schafgarbe
+
+
+*    *   Agrimonia eupatoria
+
+    *   Kleiner Odermennig
+
+
+*    *   Agrimonia procera
+
+    *   Großer Odermennig
+
+
+*    *   Allium oleraceum
+
+    *   Gemüse-Lauch
+
+
+*    *   Allium scorodoprasum
+
+    *   Schlangen-Lauch
+
+
+*    *   Allium vineale
+
+    *   Weinbergs-Lauch
+
+
+*    *   Angelica sylvestris
+
+    *   Wald-Engelwurz
+
+
+*    *   Anthemis tinctoria
+
+    *   Färber-Hundskamille
+
+
+*    *   Anthriscus sylvestris
+
+    *   Wiesen-Kerbel
+
+
+*    *   Arctium lappa
+
+    *   Große Klette
+
+
+*    *   Arctium minus
+
+    *   Kleine Klette
+
+
+*    *   Asparagus officinalis
+
+    *   Gemüse-Spargel
+
+
+*    *   Astragalus glycyphyllos
+
+    *   Süßer Tragant
+
+
+*    *   Ballota nigra
+
+    *   Gewöhnliche Schwarznessel
+
+
+*    *   Bellis perennis
+
+    *   Ausdauerndes Gänseblümchen
+
+
+*    *   Bistorta officinalis
+
+    *   Schlangen-Wiesenknöterich
+
+
+*    *   Bryonia dioica
+
+    *   Rotbeerige Zaunrübe
+
+
+*    *   Campanula rapunculoides
+
+    *   Acker-Glockenblume
+
+
+*    *   Cardamine pratensis
+
+    *   Wiesen-Schaumkraut
+
+
+*    *   Carum carvi
+
+    *   Kümmel
+
+
+*    *   Cerastium arvense
+
+    *   Acker-Hornkraut
+
+
+*    *   Cerastium holosteoides
+
+    *   Gewöhnliches Hornkraut
+
+
+*    *   Chelidonium majus
+
+    *   Schöllkraut
+
+
+*    *   Chondrilla juncea
+
+    *   Großer Knorpellattich
+
+
+*    *   Cichorium intybus
+
+    *   Gewöhnliche Wegwarte
+
+
+*    *   Clinopodium vulgare
+
+    *   Wirbeldost
+
+
+*    *   Crepis biennis
+
+    *   Wiesen-Pippau
+
+
+*    *   Cruciata laevipes
+
+    *   Gewimpertes Kreuzlabkraut
+
+
+*    *   Daucus carota
+
+    *   Wilde Möhre
+
+
+*    *   Dipsacus fullonum
+
+    *   Wilde Karde
+
+
+*    *   Dipsacus pilosus
+
+    *   Behaarte Karde
+
+
+*    *   Echium vulgare
+
+    *   Gewöhnlicher Natternkopf
+
+
+*    *   Epilobium angustifolium
+
+    *   Schmalblättriges Weidenröschen
+
+
+*    *   Epilobium hirsutum
+
+    *   Behaartes Weidenröschen
+
+
+*    *   Epilobium lamyi
+
+    *   Graugrünes Weidenröschen
+
+
+*    *   Epilobium montanum
+
+    *   Berg-Weidenröschen
+
+
+*    *   Epilobium tetragonum
+
+    *   Vierkantiges Weidenröschen
+
+
+*    *   Eupatorium cannabinum
+
+    *   Gewöhnlicher Wasserdost
+
+
+*    *   Euphorbia cyparissias
+
+    *   Zypressen-Wolfsmilch
+
+
+*    *   Euphorbia esula
+
+    *   Esels-Wolfsmilch
+
+
+*    *   Filipendula ulmaria
+
+    *   Echtes Mädesüß
+
+
+*    *   Foeniculum vulgare
+
+    *   Fenchel
+
+
+*    *   Galium album
+
+    *   Weißes Labkraut
+
+
+*    *   Galium verum
+
+    *   Echtes Labkraut
+
+
+*    *   Geranium pratense
+
+    *   Wiesen-Storchschnabel
+
+
+*    *   Geranium sylvaticum
+
+    *   Wald-Storchschnabel
+
+
+*    *   Geum rivale
+
+    *   Bach-Nelkenwurz
+
+
+*    *   Geum urbanum
+
+    *   Echte Nelkenwurz
+
+
+*    *   Glechoma hederacea
+
+    *   Gewöhnlicher Gundermann
+
+
+*    *   Gnaphalium sylvaticum
+
+    *   Wald-Ruhrkraut
+
+
+*    *   Heracleum sphondylium
+
+    *   Gewöhnliche Bärenklau
+
+
+*    *   Hieracium lachenalii
+
+    *   Gewöhnliches Habichtskraut
+
+
+*    *   Hieracium laevigatum
+
+    *   Glattes Habichtskraut
+
+
+*    *   Hieracium pilosella
+
+    *   Kleines Habichtskraut
+
+
+*    *   Hieracium piloselloides
+
+    *   Florentiner Habichtskraut
+
+
+*    *   Hieracium umbellatum
+
+    *   Doldiges Habichtskraut
+
+
+*    *   Hypochaeris radicata
+
+    *   Gewöhnliches Ferkelkraut
+
+
+*    *   Knautia arvensis
+
+    *   Wiesen-Witwenblume
+
+
+*    *   Lamium album
+
+    *   Weiße Taubnessel
+
+
+*    *   Lamium maculatum
+
+    *   Gefleckte Taubnessel
+
+
+*    *   Lathyrus pratensis
+
+    *   Wiesen-Platterbse
+
+
+*    *   Lathyrus tuberosus
+
+    *   Knollen-Platterbse
+
+
+*    *   Lathyrus sylvestris
+
+    *   Wald-Platterbse
+
+
+*    *   Leontodon autumnalis
+
+    *   Herbstlöwenzahn
+
+
+*    *   Leontodon saxatilis
+
+    *   Nickender Löwenzahn
+
+
+*    *   Leucanthemum ircutianum
+
+    *   Wiesen-Margerite
+
+
+*    *   Leucanthemum vulgare
+
+    *   Frühe Margerite
+
+
+*    *   Linaria vulgaris
+
+    *   Gewöhnliches Leinkraut
+
+
+*    *   Lotus corniculatus
+
+    *   Hornschotenklee
+
+
+*    *   Lotus pedunculatus
+
+    *   Sumpf-Hornklee
+
+
+*    *   Lychnis flos-cuculi
+
+    *   Kuckucks-Lichtnelke
+
+
+*    *   Lysimachia vulgaris
+
+    *   Gewöhnlicher Gilbweiderich
+
+
+*    *   Lythrum salicaria
+
+    *   Gewöhnlicher Blutweiderich
+
+
+*    *   Malva alcea
+
+    *   Spitzblatt-Malve
+
+
+*    *   Malva moschata
+
+    *   Moschus-Malve
+
+
+*    *   Malva sylvestris
+
+    *   Wilde Malve
+
+
+*    *   Medicago falcata
+
+    *   Sichel-Luzerne
+
+
+*    *   Medicago sativa
+
+    *   Luzerne
+
+
+*    *   Melilotus albus
+
+    *   Weißer Steinklee
+
+
+*    *   Myosotis scorpioides
+
+    *   Sumpf-Vergissmeinnicht
+
+
+*    *   Onobrychis viciifolia
+
+    *   Saat-Esparsette
+
+
+*    *   Ononis repens
+
+    *   Kriechende Hauhechel
+
+
+*    *   Onopordum acanthium
+
+    *   Gewöhnliche Eselsdistel
+
+
+*    *   Origanum vulgare
+
+    *   Gewöhnlicher Dost
+
+
+*    *   Ornithogalum umbellatum
+
+    *   Dolden-Milchstern
+
+
+*    *   Pastinaca sativa
+
+    *   Gewöhnlicher Pastinak
+
+
+*    *   Picris hieracioides
+
+    *   Gewöhnliches Bitterkraut
+
+
+*    *   Pimpinella major
+
+    *   Große Pimpinelle
+
+
+*    *   Pimpinella saxifraga
+
+    *   Kleine Pimpinelle
+
+
+*    *   Potentilla anserina
+
+    *   Gänse-Fingerkraut
+
+
+*    *   Potentilla argentea
+
+    *   Silber-Fingerkraut
+
+
+*    *   Potentilla erecta
+
+    *   Blutwurz
+
+
+*    *   Potentilla recta
+
+    *   Aufrechtes Fingerkraut
+
+
+*    *   Potentilla reptans
+
+    *   Kriechendes Fingerkraut
+
+
+*    *   Prunella vulgaris
+
+    *   Gewöhnliche Braunelle
+
+
+*    *   Reseda luteola
+
+    *   Färber-Wau
+
+
+*    *   Saponaria officinalis
+
+    *   Echtes Seifenkraut
+
+
+*    *   Scabiosa columbaria
+
+    *   Tauben-Skabiose
+
+
+*    *   Scrophularia nodosa
+
+    *   Knoten-Braunwurz
+
+
+*    *   Securigera varia
+
+    *   Bunte Beilwicke
+
+
+*    *   Sedum acre
+
+    *   Scharfer Mauerpfeffer
+
+
+*    *   Sedum sexangulare
+
+    *   Milder Mauerpfeffer
+
+
+*    *   Solidago virgaurea
+
+    *   Gewöhnliche Goldrute
+
+
+*    *   Stachys sylvatica
+
+    *   Wald-Ziest
+
+
+*    *   Stellaria aquatica
+
+    *   Wasser-Sternmiere
+
+
+*    *   Stellaria graminea
+
+    *   Gras-Sternmiere
+
+
+*    *   Tanacetum vulgare
+
+    *   Rainfarn
+
+
+*    *   Teucrium scorodonia
+
+    *   Salbei-Gamander
+
+
+*    *   Tragopogon pratensis
+
+    *   Wiesen-Bocksbart
+
+
+*    *   Trifolium medium
+
+    *   Zickzack-Klee
+
+
+*    *   Trifolium pratense
+
+    *   Rotklee
+
+
+*    *   Trifolium repens
+
+    *   Weißklee
+
+
+*    *   Verbascum densiflorum
+
+    *   Großblütige Königskerze
+
+
+*    *   Verbascum lychnitis
+
+    *   Mehlige Königskerze
+
+
+*    *   Verbascum nigrum
+
+    *   Schwarze Königskerze
+
+
+*    *   Verbascum phlomoides
+
+    *   Windblumen-Königskerze
+
+
+*    *   Verbascum thapsus
+
+    *   Kleinblütige Königskerze
+
+
+*    *   Veronica chamaedrys
+
+    *   Gamander-Ehrenpreis
+
+
+*    *   Veronica officinalis
+
+    *   Echter Ehrenpreis
+
+
+*    *   Vicia angustifolia
+
+    *   Schmalblättrige Wicke
+
+
+*    *   Vicia cracca
+
+    *   Vogel-Wicke
+
+
+*    *   Vicia sepium
+
+    *   Zaun-Wicke
+
+
+*    *   Vicia tenuifolia
+
+    *   Feinblättrige Wicke
+
+
+*    *   Viola hirta
+
+    *   Behaartes Veilchen
+
+
+
+
 (zu § 18 Absatz 1)
 
 ### Anlage 6 Geplante Einheitsbeträge für die Zahlung für Mutterschafe und -ziegen

@@ -19,6 +19,57 @@ Zuletzt geändert durch
 :   Art. 1 G v. 4.2.2026 I Nr. 33
 
 
+## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000106131)
+
+Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die
+Bestimmung
+
+1.  der Ausgleichszahlung oder der zusätzlich zu gewährenden Aktien für
+    Aktionäre bei Kapitalerhöhungen (§ 255 Absatz 4 bis 7 und § 255a des
+    Aktiengesetzes);
+
+
+2.  des Ausgleichs für außenstehende Aktionäre und der Abfindung solcher
+    Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen (§§ 304 und
+    305 des Aktiengesetzes);
+
+
+3.  der Abfindung von ausgeschiedenen Aktionären bei der Eingliederung von
+    Aktiengesellschaften (§ 320b des Aktiengesetzes);
+
+
+4.  der Barabfindung von Minderheitsaktionären, deren Aktien durch
+    Beschluss der Hauptversammlung auf den Hauptaktionär übertragen worden
+    sind (§§ 327a bis 327f des Aktiengesetzes);
+
+
+5.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
+    Anteilsinhaber oder der Barabfindung von Anteilsinhabern (§§ 15, 34,
+    72a, 125 Absatz 1 Satz 1, §§ 176 bis 181, 184, 186, 196, 212, 305
+    Absatz 2, §§ 313, 320 Absatz 2, §§ 327 und 340 des
+    Umwandlungsgesetzes);
+
+
+6.  der Zuzahlung oder der zusätzlich zu gewährenden Aktien an
+    Anteilsinhaber oder der Barabfindung von Anteilsinhabern bei der
+    Gründung oder Sitzverlegung einer SE (§§ 6, 7, 9, 11 und 12 des SE-
+    Ausführungsgesetzes);
+
+
+7.  der Zuzahlung an Mitglieder bei der Gründung einer Europäischen
+    Genossenschaft (§ 7 des SCE-Ausführungsgesetzes);
+
+
+8.  der Höhe der Gegenleistung aus einem Vertrag, der auf einem Angebot
+    beim Widerruf der Zulassung von Wertpapieren zum Handel auf Antrag des
+    Emittenten nach § 39 Absatz 2 Satz 2 Nummer 1 des Börsengesetzes
+    beruht.
+
+
+
+
+
 ## § 2 Zuständigkeit
 [Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000202125)
 
@@ -72,6 +123,153 @@ zugewiesen werden.
 
 Im Einverständnis der Beteiligten kann der Vorsitzende auch im Übrigen
 an Stelle der Kammer entscheiden.
+
+
+## § 3 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000305131)
+
+Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
+
+1.  der Nummer 1 jeder Aktionär, dessen Bezugsrecht ganz oder teilweise
+    ausgeschlossen worden ist;
+
+
+2.  der Nummer 2 jeder außenstehende Aktionär;
+
+
+3.  der Nummern 3 und 4 jeder ausgeschiedene Aktionär;
+
+
+4.  der Nummer 5 jeder in den dort angeführten Vorschriften des
+    Umwandlungsgesetzes bezeichnete Anteilsinhaber;
+
+
+5.  der Nummer 6 jeder in den dort angeführten Vorschriften des SE-
+    Ausführungsgesetzes bezeichnete Anteilsinhaber;
+
+
+6.  der Nummer 7 jedes in der dort angeführten Vorschrift des SCE-
+    Ausführungsgesetzes bezeichnete Mitglied;
+
+
+7.  der Nummer 8 jeder, der ein Angebot beim Widerruf der Zulassung von
+    Wertpapieren zum Handel auf Antrag des Emittenten nach § 39 Absatz 2
+    Satz 2 Nummer 1 des Börsengesetzes angenommen hat.
+
+
+
+In den Fällen der Nummern 1, 2, 4, 5 und 6 ist die Antragsberechtigung
+nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung
+Anteilsinhaber ist; dies gilt nicht für die Bestimmung der
+Barabfindung bei grenzüberschreitenden Umwandlungen (§§ 313, 327 und
+340 des Umwandlungsgesetzes) gemäß § 1 Nummer 4. Die Stellung als
+Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
+
+
+## § 4 Antragsfrist und Antragsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000407131)
+
+(1) Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach §
+1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in
+den Fällen
+
+1.  der Nummer 1 die Eintragung der Durchführung der Kapitalerhöhung;
+
+
+2.  der Nummer 2 der Unternehmensvertrag oder seine Änderung;
+
+
+3.  der Nummer 3 die Eingliederung;
+
+
+4.  der Nummer 4 der Übergang aller Aktien der Minderheitsaktionäre auf
+    den Hauptaktionär;
+
+
+5.  der Nummer 5 die Umwandlung;
+
+
+6.  der Nummer 6 die Gründung oder Sitzverlegung der SE;
+
+
+7.  der Nummer 7 die Gründung der Europäischen Genossenschaft oder
+
+
+8.  der Nummer 8 der Antrag auf Widerruf der Zulassung
+
+
+
+wirksam geworden ist. Die Frist wird in den Fällen des § 2 Absatz 2
+durch Einreichung bei jedem zunächst zuständigen Gericht gewahrt. Die
+Frist wird auch dann gewahrt, wenn der Antrag bei einem sachlich oder
+örtlich unzuständigen Gericht eingereicht wird.
+
+(2) Der Antragsteller muss den Antrag innerhalb der Frist nach Absatz
+1 begründen. Die Antragsbegründung hat zu enthalten:
+
+1.  die Bezeichnung des Antragsgegners;
+
+
+2.  die Darlegung der Antragsberechtigung nach § 3;
+
+
+3.  Angaben zur Art der Strukturmaßnahme und der vom Gericht zu
+    bestimmenden Kompensation nach § 1;
+
+
+4.  Konkrete Einwendungen gegen die Angemessenheit der Kompensation nach §
+    1 oder gegebenenfalls gegen den als Grundlage für die Kompensation
+    ermittelten Unternehmenswert, soweit hierzu Angaben in den in § 7 Abs.
+    3 genannten Unterlagen enthalten sind. Macht der Antragsteller
+    glaubhaft, dass er im Zeitpunkt der Antragstellung aus Gründen, die er
+    nicht zu vertreten hat, über diese Unterlagen nicht verfügt, so kann
+    auf Antrag die Frist zur Begründung angemessen verlängert werden, wenn
+    er gleichzeitig Abschrifterteilung gemäß § 7 Abs. 3 verlangt.
+
+
+
+Aus der Antragsbegründung soll sich außerdem die Zahl der von dem
+Antragsteller gehaltenen Anteile ergeben.
+
+
+## § 5 Antragsgegner
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000505131)
+
+Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1
+ist in den Fällen
+
+1.  der Nummer 1 gegen die Gesellschaft, deren Kapital erhöht worden ist;
+
+
+2.  der Nummer 2 gegen den anderen Vertragsteil des Unternehmensvertrags;
+
+
+3.  der Nummer 3 gegen die Hauptgesellschaft;
+
+
+4.  der Nummer 4 gegen den Hauptaktionär;
+
+
+5.  der Nummer 5 gegen die übernehmenden oder neuen Rechtsträger oder
+    gegen den Rechtsträger neuer Rechtsform;
+
+
+6.  der Nummer 6 gegen die SE, aber im Fall des § 9 des SE-
+    Ausführungsgesetzes gegen die die Gründung anstrebende Gesellschaft;
+
+
+7.  der Nummer 7 gegen die Europäische Genossenschaft;
+
+
+8.  der Nummer 8 gegen den Bieter
+
+
+
+zu richten. In den Fällen des § 1 Nummer 1 ist auf Antrag der
+Gesellschaft der neue Aktionär als Beteiligter hinzuzuziehen. In den
+Fällen des Satzes 1 Nummer 5 kann bei einer Abspaltung ein Antrag auf
+Bestimmung der Barabfindung wahlweise auch gegen den übertragenden
+Rechtsträger gerichtet werden.
 
 
 ## § 5a Vertretung durch einen Rechtsanwalt
@@ -448,6 +646,46 @@ gegen die ursprünglich angebotene Barabfindung oder sonstige Abfindung
 aus dem betroffenen Rechtsträger ausgeschieden sind. Ein Vergleich
 bleibt unberührt, auch wenn er vom gemeinsamen Vertreter geschlossen
 wurde.
+
+
+## § 14 Bekanntmachung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001404131)
+
+Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne
+Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
+
+1.  der Nummer 1 durch den Vorstand der Gesellschaft, deren Kapital erhöht
+    worden ist;
+
+
+2.  der Nummer 2 durch den Vorstand der Gesellschaft, deren außenstehende
+    Aktionäre antragsberechtigt waren;
+
+
+3.  der Nummer 3 durch den Vorstand der Hauptgesellschaft;
+
+
+4.  der Nummer 4 durch den Hauptaktionär der Gesellschaft;
+
+
+5.  der Nummer 5 durch die gesetzlichen Vertreter jedes übernehmenden oder
+    neuen Rechtsträgers oder des Rechtsträgers neuer Rechtsform;
+
+
+6.  der Nummer 6 durch die gesetzlichen Vertreter der SE, aber im Fall des
+    § 9 des SE-Ausführungsgesetzes durch die gesetzlichen Vertreter der
+    die Gründung anstrebenden Gesellschaft;
+
+
+7.  der Nummer 7 durch die gesetzlichen Vertreter der Europäischen
+    Genossenschaft und
+
+
+8.  der Nummer 8 durch die gesetzlichen Vertreter des Emittenten
+
+
+
+bekannt zu machen.
 
 
 ## § 15 Kosten

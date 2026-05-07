@@ -1,0 +1,43 @@
+---
+Title: Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen
+jurabk: BPräsAmtsbezAnO 1977-08-02
+layout: default
+origslug: BJNR015480977
+slug: bpraesamtsbezano_1977-08-02
+
+---
+
+# Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen (BPräsAmtsbezAnO 1977-08-02)
+
+Ausfertigungsdatum
+:   1977-08-02
+
+Fundstelle
+:   BGBl I: 1977, 1548
+
+
+
+## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbezano_1977-08-02/BJNR015480977.html#BJNR015480977BJNE000100303)
+
+Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
+Amtsbezeichnungen fest:
+
+*   Erster Direktor beim Bundesinstitut für Berufsbildung
+
+    -   als Leiter des Forschungsbereichs und als der ständige Vertreter des
+        Präsidenten -,
+
+
+
+
+    Direktor beim Bundesinstitut für Berufsbildung
+
+    -   als Leiter einer Hauptabteilung -.
+
+
+
+
+
+
+

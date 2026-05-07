@@ -57,6 +57,53 @@ Diese Verordnung regelt den Aufstieg
 
 
 
+### § 2 Zulassung zum Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000401311)
+
+(1) Zum Aufstieg in den höheren technischen Verwaltungsdienst des
+Bundes – Fachrichtung Informationstechnik – über den Masterstudiengang
+„Verwaltungsinformatik“ der Universität der Bundeswehr München kann
+eine Beamtin oder ein Beamter zugelassen werden, wenn sie oder er
+
+1.  die Laufbahnbefähigung für den gehobenen technischen Verwaltungsdienst
+    des Bundes besitzt,
+
+
+2.  die Zugangsvoraussetzungen für den Masterstudiengang
+    „Verwaltungsinformatik“ gemäß der Prüfungsordnung für den
+    Masterstudiengang „Verwaltungsinformatik“ der Universität der
+    Bundeswehr München erfüllt und
+
+
+3.  an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung
+    erfolgreich teilgenommen hat.
+
+
+
+
+(2) Zum Aufstieg in den höheren nichttechnischen Verwaltungsdienst des
+Bundes – Fachrichtung Allgemeine und Digitale Verwaltung – über den
+Masterstudiengang „Verwaltungsinformatik“ der Universität der
+Bundeswehr München kann eine Beamtin oder ein Beamter zugelassen
+werden, wenn sie oder er
+
+1.  die Laufbahnbefähigung für den gehobenen nichttechnischen
+    Verwaltungsdienst des Bundes besitzt,
+
+
+2.  die Zugangsvoraussetzungen für den Masterstudiengang
+    „Verwaltungsinformatik“ gemäß der Prüfungsordnung für den
+    Masterstudiengang „Verwaltungsinformatik“ der Universität der
+    Bundeswehr München erfüllt und
+
+
+3.  an einem Auswahlverfahren nach § 44 der Bundeslaufbahnverordnung
+    erfolgreich teilgenommen hat.
+
+
+
+
+
 ## Abschnitt 2 - Masterstudium „Verwaltungsinformatik“
 [Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000200000)
 
@@ -419,6 +466,19 @@ den Aufgaben der höheren Laufbahn bewährt hat.
 
 ## Abschnitt 4 - Abschluss des Aufstiegsverfahrens
 [Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000400000)
+
+
+### § 17 Verlängerung des Aufstiegsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001901311)
+
+(1) Das Aufstiegsverfahren kann wegen Unterbrechungen verlängert
+werden, höchstens jedoch insgesamt um drei Jahre. § 18 Absatz 1 und 2
+der Bundeslaufbahnverordnung gilt entsprechend.
+
+(2) Die Entscheidung über die Verlängerung trifft die zuständige
+Dienstbehörde. Betrifft die Verlängerung das Masterstudium, so
+entscheidet die zuständige Dienstbehörde im Einvernehmen mit der
+Universität der Bundeswehr München.
 
 
 ### § 18 Erwerb der Laufbahnbefähigung

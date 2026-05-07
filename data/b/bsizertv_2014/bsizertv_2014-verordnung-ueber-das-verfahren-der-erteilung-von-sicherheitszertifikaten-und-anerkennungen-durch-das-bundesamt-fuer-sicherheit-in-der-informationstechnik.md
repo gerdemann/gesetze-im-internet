@@ -28,8 +28,25 @@ Zuletzt geändert durch
     Rates vom 25. Oktober 2012 (ABl. L 316 vom 14.11.2012, S. 12).
 
 
+## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000101129)
+
+Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009
+(BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach
+Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie:
+
+
 ## Abschnitt 1 - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000100000)
+
+
+### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000201129)
+
+Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
+erteilt Zertifikate und Anerkennungen gemäß § 52 des BSI-Gesetzes nach
+dieser Verordnung.
 
 
 ### § 2 Antragsverfahren
@@ -341,6 +358,104 @@ komponenten- oder systembezogen einzuweisen oder Schulungen
 durchzuführen.
 
 
+### § 12 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001302129)
+
+(1) Ein Zertifikat nach § 52 Absatz 4 des BSI-Gesetzes wird erteilt,
+wenn
+
+1.  die Prüfung und die Bewertung ergeben, dass das geprüfte
+    informationstechnische Produkt, die informationstechnische Komponente,
+    das informationstechnische System oder das Schutzprofil die
+    Prüfkriterien nach § 4 Absatz 1 erfüllt, und
+
+
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 9 Absatz 4
+    Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+    öffentliche Interessen, insbesondere sicherheitspolitische Belange der
+    Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+
+
+
+
+(2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt
+die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
+
+(3) Das Zertifikat für informationstechnische Produkte, Systeme,
+Komponenten sowie für Schutzprofile enthält:
+
+1.  die Zertifizierungsnummer,
+
+
+2.  die Angabe der Prüfkriterien, soweit sie bekannt gemacht sind,
+
+
+3.  den Namen der vom Bundesamt anerkannten sachverständigen Stelle, deren
+    Prüfung und Bewertung der Zertifizierung zugrunde gelegt wurde,
+
+
+4.  etwaige Nebenbestimmungen nach § 22,
+
+
+5.  Ausstellungsort und -datum des Sicherheitszertifikats sowie
+
+
+6.  die Geltungsdauer des Sicherheitszertifikats.
+
+
+
+Dem Sicherheitszertifikat wird ein Zertifizierungsbericht beigefügt.
+
+(4) Das Zertifikat für informationstechnische Produkte oder
+Komponenten enthält zusätzlich zu Absatz 3 folgende Angaben:
+
+1.  die Bezeichnung, die Beschreibung und die Angabe des Herstellers des
+    geprüften Produkts oder der Komponente,
+
+
+2.  die Angabe der zum geprüften Produkt oder zur Komponente gehörenden
+    Dokumentationen,
+
+
+3.  die Beschreibung der Sicherheitsfunktionen und
+
+
+4.  die erreichte Bewertungsstufe oder den Prüfumfang.
+
+
+
+
+(5) Das Zertifikat für informationstechnische Systeme enthält
+zusätzlich zu Absatz 3 folgende Angaben:
+
+1.  die Bezeichnung und die Beschreibung des geprüften Systems und der
+    relevanten Standorte und
+
+
+2.  soweit erforderlich, die Angabe der zum geprüften System und Standort
+    gehörenden sicherheitsrelevanten Dokumentationen.
+
+
+
+
+(6) Das Zertifikat für Schutzprofile enthält zusätzlich zu Absatz 3
+folgende Angaben:
+
+1.  die Bezeichnung und die Beschreibung des geprüften Schutzprofils und
+
+
+2.  die erreichte Bewertungsstufe oder den Prüfumfang.
+
+
+
+
+(7) Das Bundesamt kann jederzeit anlassbezogen überprüfen, ob die
+Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin
+vorliegen. Das Bundesamt entwickelt für die Überprüfungen
+Verfahrensbeschreibungen und veröffentlicht diese auf seiner
+Internetseite.
+
+
 ### § 13 Rückgabe von informationstechnischen Produkten oder Komponenten
 [Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001400000)
 
@@ -376,6 +491,61 @@ Folgendes enthalten:
 
 
 
+
+
+### § 15 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001602129)
+
+(1) Ein Zertifikat für Personen nach § 52 Absatz 6 des BSI-Gesetzes
+wird erteilt, wenn
+
+1.  die Prüfung und die Bewertung ergeben, dass die zu zertifizierende
+    Person die Prüfkriterien nach § 4 Absatz 1 erfüllt, und
+
+
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+    öffentliche Interessen, insbesondere sicherheitspolitische Belange der
+    Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+
+
+
+
+(2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt
+die Geltungsdauer für den jeweiligen technischen Geltungsbereich fest.
+
+(3) Das Personenzertifikat enthält folgende Angaben:
+
+1.  Den Namen und die Adresse der zertifizierten Person,
+
+
+2.  die Zertifizierungsnummer,
+
+
+3.  die Geltungsdauer der Zertifizierung,
+
+
+4.  den technischen Geltungsbereich der Zertifizierung unter Verweis auf
+    die zugrunde gelegten Standardisierungsnormen,
+
+
+5.  die Angabe der Standardisierungsnormen, die der Evaluierung der Person
+    zugrunde lagen,
+
+
+6.  etwaige Nebenbestimmungen nach § 22 sowie
+
+
+7.  Ausstellungsort und -datum des Zertifikats.
+
+
+
+
+(4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die
+Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch
+jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt
+entwickelt für diese Überprüfungen Verfahrensbeschreibungen und
+veröffentlicht diese auf seiner Internetseite.
 
 
 ## Abschnitt 4 - Zertifizierung von IT-Sicherheitsdienstleistern
@@ -431,6 +601,65 @@ vorgesehenen Systemen und zu den Unterlagen nach § 4 zu gewähren.
 (2) Während des Verfahrens obliegt es dem Antragsteller, das Bundesamt
 oder die vom Bundesamt beauftragten Personen kostenfrei durch
 fachkompetente Vertreter zu unterstützen.
+
+
+### § 18 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001902129)
+
+(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 52 Absatz 6
+des BSI-Gesetzes wird erteilt, wenn
+
+1.  die Prüfung und die Bewertung ergeben, dass der IT-
+    Sicherheitsdienstleister die Prüfkriterien nach § 4 Absatz 1 erfüllt,
+    und
+
+
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+    öffentliche Interessen, insbesondere sicherheitspolitische Belange der
+    Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+
+
+
+
+(2) Die Zertifizierung ist vom Bundesamt zu befristen. Das Bundesamt
+setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich
+fest.
+
+(3) Das Zertifikat enthält folgende Angaben:
+
+1.  Den Namen des IT-Sicherheitsdienstleisters und die Adressen aller
+    zertifizierten Standorte,
+
+
+2.  die Zertifizierungsnummer,
+
+
+3.  die Geltungsdauer der Zertifizierung,
+
+
+4.  den technischen Geltungsbereich oder die technischen Geltungsbereiche
+    der Zertifizierung unter Verweis auf die zugrunde gelegten
+    Standardisierungsnormen,
+
+
+5.  die Angabe der Standardisierungsnormen, die der Begutachtung des IT-
+    Sicherheitsdienstleisters zugrunde lagen,
+
+
+6.  etwaige Nebenbestimmungen nach § 22 sowie
+
+
+7.  Ausstellungsort und -datum des Zertifikats.
+
+
+
+
+(4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die
+Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch
+jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt
+entwickelt für diese Überprüfungen Verfahrensbeschreibungen und
+veröffentlicht diese auf seiner Internetseite.
 
 
 ## Abschnitt 5 - Anerkennung von sachverständigen Stellen
@@ -491,6 +720,67 @@ vorgesehenen Systemen und zu den Unterlagen nach § 4 zu gewähren.
 (2) Während des Verfahrens obliegt es dem Antragsteller, das Bundesamt
 oder die vom Bundesamt beauftragten Personen kostenfrei durch
 fachkompetente Vertreter zu unterstützen.
+
+
+### § 21 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002202129)
+
+(1) Eine Anerkennung nach § 52 Absatz 7 des BSI-Gesetzes wird erteilt,
+wenn
+
+1.  die Prüfung und die Bewertung ergeben, dass die sachliche und
+    personelle Ausstattung sowie die fachliche Qualifikation und
+    Zuverlässigkeit der Konformitätsbewertungsstelle die Prüfkriterien
+    nach § 4 Absatz 1 erfüllen, und
+
+
+2.  das Bundesministerium des Innern, für Bau und Heimat nach § 52 Absatz
+    7 Satz 1 Nummer 2 des BSI-Gesetzes festgestellt hat, dass überwiegende
+    öffentliche Interessen, insbesondere sicherheitspolitische Belange der
+    Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.
+
+
+
+
+(2) Die Anerkennung ist vom Bundesamt zu befristen. Das Bundesamt
+setzt die Geltungsdauer für den jeweiligen technischen Geltungsbereich
+fest.
+
+(3) Die Anerkennung enthält folgende Angaben:
+
+1.  den Name und die Adresse der anerkannten sachverständigen Stelle und
+    aller anerkannten Standorte,
+
+
+2.  die Anerkennungsnummer,
+
+
+3.  die Geltungsdauer der Anerkennung,
+
+
+4.  den technischen Geltungsbereich oder die technischen Geltungsbereiche
+    der Anerkennung unter Verweis auf die zugrunde gelegten
+    Standardisierungsnormen,
+
+
+5.  die Angabe der Standardisierungsnormen, die der Begutachtung der
+    Stelle zugrunde lagen,
+
+
+6.  etwaige Nebenbestimmungen nach § 22 sowie
+
+
+7.  Ausstellungsort und -datum der Anerkennungsurkunde.
+
+
+
+
+(4) Das Bundesamt überprüft regelmäßig nach § 52 Absatz 7 Satz 2 des
+BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1
+weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene
+Überprüfung stattfinden. Das Bundesamt entwickelt für diese
+Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf
+seiner Internetseite.
 
 
 ## Abschnitt 6 - Nebenbestimmungen

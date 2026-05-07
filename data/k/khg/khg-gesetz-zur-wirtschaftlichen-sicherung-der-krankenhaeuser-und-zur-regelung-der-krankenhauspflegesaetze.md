@@ -190,6 +190,84 @@ Im Sinne dieses Gesetzes sind
 
 
 
+### § 2a Krankenhausstandort
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005002130)
+
+(1) Ein Krankenhausstandort ist ein Gebäude oder ein zusammenhängender
+Gebäudekomplex eines Krankenhausträgers, in dem Patienten in
+mindestens einer fachlichen Organisationseinheit voll-, teil- oder
+tagesstationär, vor- oder nachstationär oder ambulant behandelt
+werden, und dessen Ort nach Absatz 2 räumlich bestimmt ist. Ein
+Krankenhausstandort kann abweichend von Satz 1 aus mehreren Gebäuden
+oder Gebäudekomplexen eines Krankenhausträgers bestehen, wenn der
+Abstand zwischen den am weitesten voneinander entfernt liegenden
+Gebäudepunkten nicht mehr als 2 000 Meter Luftlinie beträgt
+(Flächenstandort). Eine fachliche Organisationseinheit im Sinne des
+Satzes 1 ist insbesondere eine Fachabteilung, eine Tagesklinik oder
+eine andere ärztlich geleitete Organisationseinheit, in der ambulante
+Leistungen erbracht werden (Krankenhausambulanz).
+
+(2) Die räumliche Bestimmung eines Krankenhausstandortes erfolgt
+anhand einer Geokoordinate der Zugangsadresse (Straße, Hausnummer,
+Postleitzahl). Ein Flächenstandort wird abweichend von Satz 1 räumlich
+anhand einer Geokoordinate der Adresse des Hauptzugangs bestimmt.
+Eigenständige Standorte, die die Vertragspartner nach Absatz 4 Satz 1
+bestimmt haben, und Krankenhausambulanzen werden gesondert geokodiert.
+
+(3) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft vereinbaren im Benehmen mit dem Verband der
+Privaten Krankenversicherung e. V. bis zum 31. März 2025
+
+1.  das Nähere zum Verfahren der Geokodierung, zum anzuwendenden
+    Koordinatensystem und zur Notation nach Maßgabe der Vorgaben des
+    Absatzes 2 und
+
+
+2.  Regelungen zu Krankenhausambulanzen, insbesondere unter welchen
+    Voraussetzungen diese als eigenständige Krankenhausstandorte zu
+    bestimmen sind.
+
+
+
+Kommt eine Vereinbarung nicht fristgerecht zustande, legt die
+Schiedsstelle nach § 18a Absatz 6 den Inhalt der Vereinbarung ohne
+Antrag einer Vereinbarungspartei fest.
+
+(4) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft können im Benehmen mit der für die
+Krankenhausplanung zuständigen Landesbehörde und dem Verband der
+Privaten Krankenversicherung vereinbaren, dass
+
+1.  fachliche Organisationseinheiten nach Absatz 1 Satz 3 eigenständige
+    Krankenhausstandorte sind oder
+
+
+2.  abweichend von Absatz 1 Satz 1 und 2 die Gebäude oder Gebäudekomplexe
+    eines bestimmten Krankenhauses ein Krankenhausstandort sind.
+
+
+
+Kommt eine Einigung nach Satz 1 nicht zustande, entscheidet die
+Schiedsstelle nach § 18a Absatz 6 auf Antrag einer Vertragspartei. Die
+Schiedsstelle hat die für die Krankenhausplanung zuständige
+Landesbehörde anzuhören und eine von ihr im Rahmen der Anhörung
+abgegebene Stellungnahme angemessen zu berücksichtigen.
+
+(5) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft prüfen im Benehmen mit dem Verband der
+Privaten Krankenversicherung die Auswirkungen der Festlegung von
+Krankenhausstandorten nach Absatz 1 sowie möglichen
+Einzelfallentscheidungen nach Ansatz 4 auf die Qualitätssicherung der
+Patientenversorgung sowie auf die Vergütung von Krankenhausleistungen
+und legen dem Bundesministerium für Gesundheit bis zum 31. Dezember
+2029 einen Bericht über diese vor.
+
+(6) Die Möglichkeit, Vereinbarungen nach § 11 des
+Krankenhausentgeltgesetzes oder nach § 11 der
+Bundespflegesatzverordnung einheitlich für alle Standorte eines
+Krankenhauses zu schließen, bleibt bestehen.
+
+
 ### § 3 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE000807116)
 
@@ -340,6 +418,402 @@ Pflegeeinrichtungen umzuwidmen.
 (4) Das Nähere wird durch Landesrecht bestimmt.
 
 
+### § 6a Zuweisung von Leistungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001204130)
+
+(1) Die für die Krankenhausplanung zuständige Landesbehörde kann einem
+nach § 108 Nummer 1, 2 oder 4 des Fünften Buches Sozialgesetzbuch
+zugelassenen Krankenhaus für einen Krankenhausstandort
+Leistungsgruppen zuweisen, wenn das Krankenhaus an dem jeweiligen
+Krankenhausstandort die für diese Leistungsgruppen jeweils
+maßgeblichen Qualitätskriterien erfüllt; § 135e Absatz 2 Satz 2 des
+Fünften Buches Sozialgesetzbuch gilt entsprechend. Die für die
+Krankenhausplanung zuständige Landesbehörde kann mit der Zuweisung
+nach Satz 1 einem Krankenhausstandort für die Berechnung seines
+Anteils am Vorhaltevolumen des jeweiligen Landes für eine
+Leistungsgruppe nach § 37 Absatz 2 Satz 2 und 3 eine Fallzahl für
+diese Leistungsgruppe (Planfallzahl) vorgeben; bei der Zuweisung einer
+Leistungsgruppe, deren Leistungen erstmals an dem jeweiligen
+Krankenhausstandort erbracht werden, hat die für die
+Krankenhausplanung zuständige Landesbehörde dem Krankenhausstandort
+eine Planfallzahl für die Berechnung seines Anteils am Vorhaltevolumen
+des jeweiligen Landes für diese Leistungsgruppe nach § 37 Absatz 2
+Satz 2, 3 und 5 vorzugeben. Der Standort eines Krankenhauses bestimmt
+sich nach § 2a. Ein Anspruch auf Zuweisung einer Leistungsgruppe
+besteht nicht. Bei notwendiger Auswahl zwischen mehreren
+Krankenhäusern entscheidet die für die Krankenhausplanung zuständige
+Landesbehörde unter Berücksichtigung der Erfüllung der in der
+Tabellenzeile „Auswahlkriterium“ der Anlage 1 zum Fünften Buch
+Sozialgesetzbuch für die jeweilige Leistungsgruppe genannten
+Qualitätskriterien, soweit vorhanden, nach pflichtgemäßem Ermessen
+darüber, welchem Krankenhaus die jeweilige Leistungsgruppe zugewiesen
+wird. Die Zuweisung nach Satz 1 erfolgt durch Bescheid; Widerspruch
+und Anfechtungsklage gegen den Bescheid haben keine aufschiebende
+Wirkung. Gegen den Bescheid ist der Verwaltungsrechtsweg gegeben. Als
+einem Krankenhaus für einen Krankenhausstandort zugewiesen im Sinne
+des Satzes 1 gelten
+
+1.  Leistungsgruppen, die in einem wirksamen Versorgungsvertrag nach § 109
+    Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch für dieses
+    Krankenhaus vereinbart wurden, oder
+
+
+2.  Leistungsgruppen, die bis zum 31. Dezember 2030 einem Krankenhaus für
+    einen Krankenhausstandort nach landesrechtlichen Vorschriften
+    zugewiesen werden, sofern das jeweilige Land bis zum 31. Dezember 2024
+    Leistungsgruppen nach landesrechtlichen Vorschriften zugewiesen hat.
+
+
+
+
+(2) Die in Absatz 1 Satz 1 genannte Erfüllung der Qualitätskriterien
+ist durch das Krankenhaus vor der Zuweisung der jeweiligen
+Leistungsgruppe gegenüber der für die Krankenhausplanung zuständigen
+Landesbehörde nachzuweisen. Der in Satz 1 genannte Nachweis wird durch
+ein Gutachten des Medizinischen Dienstes über die Prüfung der
+Erfüllung der für die jeweilige Leistungsgruppe maßgeblichen
+Qualitätskriterien erbracht, dessen Übermittlung nach § 275a Absatz 4
+Satz 1 des Fünften Buches Sozialgesetzbuch an die für die
+Krankenhausplanung zuständige Landesbehörde zu dem Zeitpunkt der
+Zuweisung der jeweiligen Leistungsgruppe nicht länger als zwei Jahre
+und ab dem dritten Nachweis nicht länger als drei Jahre zurückliegt.
+Bis zu dem Zeitpunkt der in Satz 2 genannten Übermittlung kann der in
+Satz 1 genannte Nachweis durch eine begründete Selbsteinschätzung des
+Krankenhauses erbracht werden, wenn der Medizinische Dienst bereits
+mit der Prüfung nach § 275a Absatz 1 Satz 1 Nummer 1 des Fünften
+Buches Sozialgesetzbuch beauftragt wurde. Die Sätze 2 und 3 finden
+keine Anwendung, wenn eine Leistungsgruppe bis zum 31. Dezember 2030
+einem Krankenhaus für einen Krankenhausstandort in einem Land, das bis
+zum 31. Dezember 2024 Leistungsgruppen nach landesrechtlichen
+Vorschriften zugewiesen hat, nach landesrechtlichen Vorschriften
+zugewiesen wird.
+
+(3) Den Bundeswehrkrankenhäusern werden die Leistungsgruppen
+zugewiesen, für die sie nach den Vorgaben des Bundesministeriums der
+Verteidigung zur Erfüllung ihres militärischen Auftrags Ressourcen
+vorhalten. Das Bundesministerium der Verteidigung teilt der für die
+Krankenhausplanung zuständigen Landesbehörde mit, für welche
+Leistungsgruppen das jeweilige Bundeswehrkrankenhaus Ressourcen
+vorhält. Den Krankenhäusern der Träger der gesetzlichen
+Unfallversicherung und ihrer Vereinigungen sollen die Leistungsgruppen
+zugewiesen werden, für die sie nach der Aufgabenstellung der Träger
+der gesetzlichen Unfallversicherung und ihrer Vereinigungen nach dem
+Siebten Buch Sozialgesetzbuch Ressourcen vorhalten.
+Bundeswehrkrankenhäuser und Krankenhäuser der Träger der gesetzlichen
+Unfallversicherung und ihrer Vereinigungen können die für eine
+Leistungsgruppe als Qualitätskriterien festgelegten verwandten
+Leistungsgruppen nach § 135e Absatz 2 Satz 2 des Fünften Buches
+Sozialgesetzbuch auch in Kooperation erbringen.
+
+(4) Die für die Krankenhausplanung zuständige Landesbehörde kann im
+Einvernehmen mit den Landesverbänden der Krankenkassen und den
+Ersatzkassen einem Krankenhaus für einen Krankenhausstandort
+Leistungsgruppen nach Absatz 1 Satz 1 zuweisen, obwohl abweichend von
+den in Absatz 1 Satz 1 genannten Voraussetzungen das Krankenhaus an
+dem jeweiligen Krankenhausstandort die für diese Leistungsgruppen
+jeweils maßgeblichen Qualitätskriterien nicht erfüllt, wenn diese
+Qualitätskriterien durch das Krankenhaus an dem Krankenhausstandort
+auch nicht in Kooperationen oder Verbünden nach Absatz 3 Satz 4 oder §
+135e Absatz 4 Satz 1 Nummer 7, Satz 2 und 3 des Fünften Buches
+Sozialgesetzbuch erfüllt werden können und
+
+1.  dies zur Sicherstellung einer flächendeckenden Versorgung der
+    Bevölkerung zwingend erforderlich ist,
+
+
+2.  der Betrieb des jeweiligen Krankenhausstandortes vollständig oder
+    teilweise eingestellt wird und die Zuweisung der Leistungsgruppen für
+    die Aufrechterhaltung des Betriebs bis zu dessen Einstellung zwingend
+    erforderlich ist oder
+
+
+3.  der jeweilige Krankenhausstandort mit einem oder mehreren anderen
+    Krankenhausstandorten vollständig oder teilweise infolge eines
+    Zusammenschlusses im Sinne des § 37 des Gesetzes gegen
+    Wettbewerbsbeschränkungen zusammengelegt wird und die Zuweisung der
+    Leistungsgruppen für die Vollziehung des Zusammenschlusses zwingend
+    erforderlich ist.
+
+
+
+Abweichend von Satz 1 kann die für die Krankenhausplanung zuständige
+Landesbehörde in den in Satz 1 genannten Fällen einem Krankenhaus für
+einen Krankenhausstandort Leistungsgruppen im Benehmen mit den
+Landesverbänden der Krankenkassen und den Ersatzkassen zuweisen, wenn
+die Zuweisung spätestens zum 31. Dezember 2026 mit Wirkung ab dem 1.
+Januar 2027 erfolgt. Die Zuweisung einer Leistungsgruppe ist in den in
+Satz 1 genannten Fällen auf höchstens drei Jahre zu befristen und kann
+in den in Satz 1 genannten Fällen nach Ablauf der Frist um höchstens
+drei Jahre im Einvernehmen mit den Landesverbänden der Krankenkassen
+und den Ersatzkassen verlängert werden. Wenn ein Krankenhausstandort
+in dem in Satz 1 Nummer 1 genannten Fall zum Zeitpunkt der Zuweisung
+der jeweiligen Leistungsgruppe in die Liste nach § 9 Absatz 1a Nummer
+6 des Krankenhausentgeltgesetzes aufgenommen ist, kann die
+Leistungsgruppe abweichend von Satz 3 unbefristet zugewiesen werden.
+Mit der Zuweisung ist das Krankenhaus in den in Satz 1 Nummer 1 und 3
+genannten Fällen zu verpflichten, an dem jeweiligen
+Krankenhausstandort die für die jeweilige Leistungsgruppe maßgeblichen
+Qualitätskriterien innerhalb einer angemessenen Frist zu erfüllen. Die
+für die Krankenhausplanung zuständige Landesbehörde kann sich vor
+Erteilung einer Auflage nach Satz 5 hierzu durch den Medizinischen
+Dienst beraten lassen. Bei einer Entscheidung über die Erklärung des
+in den Sätzen 1 und 3 genannten Einvernehmens und des in Satz 2
+genannten Benehmens handeln die Landesverbände der Krankenkassen und
+die Ersatzkassen jeweils gemeinsam und einheitlich. Das Einvernehmen
+der Landesverbände der Krankenkassen und der Ersatzkassen ist
+innerhalb von vier Wochen nach Vorlage der vollständigen
+entscheidungserheblichen Unterlagen herzustellen oder zu versagen.
+Kommt innerhalb dieser Frist eine Einigung der Landesverbände der
+Krankenkassen und der Ersatzkassen nicht zustande, gilt § 211a Satz 2
+und 3 des Fünften Buches Sozialgesetzbuch entsprechend.
+
+(5) Die für die Krankenhausplanung zuständige Landesbehörde hat die
+Zuweisung einer Leistungsgruppe unverzüglich aufzuheben,
+
+1.  soweit das Krankenhaus aus dem Krankenhausplan des jeweiligen Landes
+    herausgenommen wird,
+
+
+2.  wenn das Krankenhaus an dem jeweiligen Krankenhausstandort die für die
+    jeweilige Leistungsgruppe maßgeblichen Qualitätskriterien nicht
+    erfüllt oder
+
+
+3.  wenn die Übermittlung des jeweils letzten Gutachtens des Medizinischen
+    Dienstes nach § 275a Absatz 4 Satz 1 Nummer 1 des Fünften Buches
+    Sozialgesetzbuch über die Prüfung der Erfüllung der für die jeweilige
+    Leistungsgruppe maßgeblichen Qualitätskriterien an die für die
+    Krankenhausplanung zuständige Landesbehörde länger als zwei oder,
+    sofern die Erfüllung der Qualitätskriterien für die jeweilige
+    Leistungsgruppe bereits zweimal durch ein Gutachten des Medizinischen
+    Dienstes nachgewiesen wurde, länger als drei Jahre zurückliegt, es sei
+    denn, dass das Krankenhaus den Nachweis über die Erfüllung dieser
+    Qualitätskriterien durch eine begründete Selbsteinschätzung erbringt
+    und der Medizinische Dienst bereits mit der Prüfung nach § 275a Absatz
+    1 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch beauftragt
+    wurde.
+
+
+
+Satz 1 Nummer 2 ist nicht anzuwenden
+
+1.  in einem in Absatz 1 Satz 8 Nummer 2 genannten Fall,
+
+
+2.  wenn die jeweilige Leistungsgruppe nach Absatz 1 Satz 1 in Verbindung
+    mit Absatz 4 Satz 1 zugewiesen ist und die in Absatz 4 Satz 3 genannte
+    Frist noch nicht abgelaufen ist oder in dem in Absatz 4 Satz 4
+    genannten Fall der jeweilige Krankenhausstandort weiterhin in die
+    Liste nach § 9 Absatz 1a Nummer 6 des Krankenhausentgeltgesetzes
+    aufgenommen ist oder
+
+
+3.  wenn das Krankenhaus unverzüglich eine nach § 275a Absatz 4 Satz 2
+    Nummer 1 des Fünften Buches Sozialgesetzbuch erforderliche Mitteilung
+    gemacht hat, seit dieser Mitteilung nicht mehr als drei Monate
+    vergangen sind und der für die Krankenhausplanung zuständigen
+    Landesbehörde Anhaltspunkte dafür vorliegen, dass die Dauer der von
+    dieser Mitteilung erfassten Nichterfüllung von Qualitätskriterien
+    sechs Monate nicht überschreiten wird.
+
+
+
+Satz 1 Nummer 3 ist in einem in Absatz 1 Satz 8 Nummer 2 genannten
+Fall nicht anzuwenden. Die für die Krankenhausplanung zuständige
+Landesbehörde kann eine Stellungnahme des Medizinischen Dienstes zu
+der voraussichtlichen Dauer der in Satz 2 Nummer 3 genannten
+Nichterfüllung einholen. Die Aufhebung der Zuweisung einer
+Leistungsgruppe erfolgt durch Bescheid. Gegen den Bescheid ist der
+Verwaltungsrechtsweg gegeben. Widerspruch und Anfechtungsklage gegen
+den Bescheid haben keine aufschiebende Wirkung.
+
+(6) Die für die Krankenhausplanung zuständige Landesbehörde hat dem
+Institut für das Entgeltsystem im Krankenhaus bis zum 30. September
+eines jeden Kalenderjahres, erstmals bis zum 30. September 2027, zum
+Zweck der Ermittlung der Vergütung eines Vorhaltebudgets nach § 37
+folgende Daten zu übermitteln:
+
+1.  eine Aufstellung über die den Krankenhäusern je Krankenhausstandort
+    zugewiesenen Leistungsgruppen und über die ihnen nach Absatz 1 Satz 2
+    vorgegebenen Planfallzahlen je Leistungsgruppe,
+
+
+2.  die Angabe, ob eine Zuweisung einer Leistungsgruppe aufgehoben wurde,
+    einschließlich des Zeitpunkts der Aufhebung,
+
+
+3.  die Angabe, ob die Zulassung des jeweiligen Krankenhauses vollständig
+    oder teilweise weggefallen ist oder ob das jeweilige Krankenhaus
+    vollständig oder teilweise seinen Betrieb eingestellt hat,
+    einschließlich des Zeitpunkts des Wegfalls der Zulassung oder der
+    Einstellung des Betriebs,
+
+
+4.  die Angabe, ob infolge eines Zusammenschlusses im Sinne des § 37 des
+    Gesetzes gegen Wettbewerbsbeschränkungen das jeweilige Krankenhaus mit
+    einem anderen Krankenhaus oder ob der jeweilige Krankenhausstandort
+    mit einem anderen Krankenhausstandort zusammengelegt wurde,
+    einschließlich des Zeitpunkts der Zusammenlegung und
+
+
+5.  die Angabe, ob der jeweilige Krankenhausstandort nach § 6c Absatz 1
+    als sektorenübergreifende Versorgungseinrichtung bestimmt wurde,
+    sofern das Krankenhaus für den jeweiligen Krankenhausstandort bis zu
+    dem Zeitpunkt dieser Bestimmung stationäre Leistungen nach § 7 Absatz
+    1 Satz 1 Nummer 1 des Krankenhausentgeltgesetzes abgerechnet hat,
+    einschließlich des Zeitpunkts, ab dem es für den jeweiligen
+    Krankenhausstandort die nach § 6c Absatz 1 Satz 2 des
+    Krankenhausentgeltgesetzes vereinbarten Tagesentgelte oder die in § 6c
+    Absatz 7 Satz 4 des Krankenhausentgeltgesetzes genannten vorläufigen
+    Tagesentgelte abrechnet.
+
+
+
+Die für die Krankenhausplanung zuständige Landesbehörde kann die in
+Satz 1 genannten Daten innerhalb der folgenden Fristen an das Institut
+für das Entgeltsystem im Krankenhaus übermitteln, um eine in § 37
+Absatz 5 Satz 2 genannte Übermittlung einer der folgenden
+Informationen zu ermöglichen:
+
+1.  bis zum 31. Dezember 2025 für eine Information über die Höhe der
+    Vorhaltevolumina für das Kalenderjahr 2026 und
+
+
+2.  bis zum 31. Dezember 2026 für eine Information über die Höhe der
+    Vorhaltevolumina für das Kalenderjahr 2027.
+
+
+
+Abweichend von Satz 1 hat die für die Krankenhausplanung zuständige
+Landesbehörde dem Institut für das Entgeltsystem im Krankenhaus
+unverzüglich mitzuteilen, wenn sie infolge einer gerichtlichen
+Entscheidung einem Krankenhaus für einen Krankenhausstandort eine
+Leistungsgruppe zugewiesen hat. In der Mitteilung sind der
+Krankenhausstandort, die zugewiesene Leistungsgruppe sowie das Datum,
+ab dem die Zuweisung gilt, anzugeben. Das Institut für das
+Entgeltsystem im Krankenhaus regelt das Nähere zur Datenübermittlung.
+
+(7) Die für die Krankenhausplanung zuständige Landesbehörde hat der
+nach § 135d Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch
+beauftragten Stelle und der nach § 135d Absatz 1 Satz 3 des Fünften
+Buches Sozialgesetzbuch benannten Stelle zur Förderung der Qualität
+der Krankenhausbehandlung durch Transparenz jeweils unverzüglich
+folgende Daten zu übermitteln:
+
+1.  jede Zuweisung einer Leistungsgruppe nach Absatz 1 Satz 1
+    einschließlich jeder Zuweisung nach Absatz 1 Satz 1 in Verbindung mit
+    Absatz 4 Satz 1 sowie jeder Zuweisung nach landesrechtlichen
+    Vorschriften nach Absatz 1 Satz 8 Nummer 2,
+
+
+2.  jede Aufhebung einer Zuweisung einer Leistungsgruppe,
+
+
+3.  jeden Abschluss eines Versorgungsvertrags nach § 109 Absatz 1 Satz 1
+    des Fünften Buches Sozialgesetzbuch einschließlich jedes Abschlusses
+    nach § 109 Absatz 1 Satz 1 in Verbindung mit Absatz 3a Satz 4 des
+    Fünften Buches Sozialgesetzbuch und
+
+
+4.  jede Kündigung eines Versorgungsvertrags nach § 110 Absatz 1 des
+    Fünften Buches Sozialgesetzbuch.
+
+
+
+
+(8) Bei gerichtlichen Entscheidungen über die Zuweisung einer
+Leistungsgruppe nach Absatz 1 sind die Sicherstellung einer qualitativ
+hochwertigen, flächendeckenden und bedarfsgerechten
+Krankenhausversorgung und die finanzielle Stabilität der gesetzlichen
+Krankenversicherung besonders zu berücksichtigen. In Verfahren des
+einstweiligen Rechtsschutzes ist zu berücksichtigen, dass eine
+Vergütung von Leistungen außerhalb des leistungsgruppenbezogenen
+Vergütungssystems gesetzlich nicht vorgesehen ist.
+
+
+### § 6b Zuweisung von Koordinierungs- und Vernetzungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007001130)
+
+Die für die Krankenhausplanung zuständige Landesbehörde kann einem
+Krankenhaus unter der in Satz 3 genannten Voraussetzung im Benehmen
+mit den Landesverbänden der Krankenkassen und den Ersatzkassen
+folgende Koordinierungs- und Vernetzungsaufgaben gemeinsam zuweisen:
+
+1.  die krankenhausübergreifende Koordinierung von Versorgungsprozessen
+    und -kapazitäten, insbesondere bei Großschadenslagen, der
+    Intensivmedizin und Notfallversorgung, im Zusammenwirken mit den nach
+    Landesrecht bestimmten oder den von der obersten zuständigen
+    Landesbehörde hierfür vorgesehenen Rettungsleitstellen, und
+
+
+2.  die Konzeption und die Koordinierung des Einsatzes regionaler,
+    insbesondere telemedizinischer Versorgungsnetzwerke sowie
+    informationstechnischer Systeme und digitaler Dienste.
+
+
+
+Das Nähere zu dem Inhalt der in Satz 1 genannten Koordinierungs- und
+Vernetzungsaufgaben vereinbaren die Vertragsparteien nach § 17b Absatz
+2\. Die in Satz 1 genannten Koordinierungs- und Vernetzungsaufgaben
+dürfen folgenden Krankenhäusern zugewiesen werden:
+
+1.  einem Krankenhaus, das der in § 135d Absatz 4 Satz 2 Nummer 1 des
+    Fünften Buches Sozialgesetzbuch genannten Versorgungsstufe „Level 3U“
+    zugeordnet ist, oder
+
+
+2.  einem Krankenhaus, das der in § 135d Absatz 4 Satz 2 Nummer 2 des
+    Fünften Buches Sozialgesetzbuch genannten Versorgungsstufe „Level 3“
+    zugeordnet ist, wenn in dem jeweiligen Land kein Krankenhaus der
+    Versorgungsstufe „Level 3U“ zugeordnet ist, oder wenn die für die
+    Krankenhausplanung zuständige Landesbehörde dies zur Förderung der
+    Koordinierung und Vernetzung der Krankenhausversorgung für
+    erforderlich hält.
+
+
+
+Bei der Entscheidung über die Erklärung des in Satz 1 genannten
+Benehmens handeln die Landesverbände der Krankenkassen und die
+Ersatzkassen gemeinsam und einheitlich. Die für die Krankenhausplanung
+zuständige Landesbehörde hat Bedenken, die die Landesverbände der
+Krankenkassen und die Ersatzkassen im Rahmen der Benehmensherstellung
+zur Entscheidung über die in Satz 1 genannte Zuweisung vortragen, zu
+berücksichtigen. Die Zuweisung nach Satz 1 erfolgt durch Bescheid.
+Gegen den Bescheid ist der Verwaltungsrechtsweg gegeben. Die für die
+Krankenhausplanung zuständige Landesbehörde hat dem Institut für das
+Entgeltsystem im Krankenhaus bis zum 30. September eines jeden
+Kalenderjahres, erstmals bis zum 30. September 2027, mitzuteilen,
+welchen Krankenhäusern sie die in Satz 1 genannten Aufgaben zugewiesen
+hat. Das Institut für das Entgeltsystem im Krankenhaus regelt das
+Nähere zur Datenübermittlung.
+
+
+### § 6c Bestimmung als sektorenübergreifende Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007101130)
+
+(1) Die für die Krankenhausplanung zuständige Landesbehörde kann
+Standorte von Krankenhäusern im Benehmen mit den Landesverbänden der
+Krankenkassen sowie den Ersatzkassen, der
+Landeskrankenhausgesellschaft oder der Vereinigung der
+Krankenhausträger im Land sowie der Kassenärztlichen Vereinigung durch
+Bescheid als sektorenübergreifende Versorgungseinrichtung bestimmen,
+wenn das jeweilige Krankenhaus in den Krankenhausplan des Landes
+aufgenommen wurde. Die Bestimmung nach Satz 1 gilt für den gesamten
+Krankenhausstandort. Sie ist ausgeschlossen, wenn sich dieser
+Krankenhausstandort in räumlicher Nähe zu einem anderen
+Krankenhausstandort desselben Krankenhausträgers befindet und der
+Abstand zwischen den am weitesten voneinander entfernt liegenden
+Gebäudepunkten nicht mehr als 2 000 Meter beträgt. Die Bestimmung wird
+zum 1. Januar eines von der für die Krankenhausplanung zuständigen
+Landesbehörde bestimmten künftigen Kalenderjahres wirksam.
+
+(2) Die für die Krankenhausplanung zuständige Landesbehörde hat dem
+Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+jeweils unverzüglich, spätestens innerhalb von vier Wochen, eine
+Bestimmung nach Absatz 1 und Änderungen einer solchen Bestimmung
+mitzuteilen.
+
+
 ### § 7 Mitwirkung der Beteiligten
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001302305)
 
@@ -466,6 +940,44 @@ Beachtung betriebswirtschaftlicher Grundsätze und Nachhaltigkeit
 notwendigen Investitionskosten decken.
 
 
+### § 10 Entwicklungsauftrag zur Reform der Investitionsfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001611130)
+
+(1) Für in den Krankenhausplan eines Landes aufgenommene
+Krankenhäuser, die Entgelte nach § 17b erhalten, sowie für in den
+Krankenhausplan eines Landes aufgenommene psychiatrische und
+psychosomatische Einrichtungen nach § 17d Absatz 1 Satz 1 wird eine
+Investitionsförderung durch leistungsorientierte
+Investitionspauschalen ermöglicht. Dafür werden Grundsätze und
+Kriterien für die Ermittlung eines Investitionsfallwertes auf
+Landesebene entwickelt. Die Investitionsfinanzierung der
+Hochschulkliniken ist zu berücksichtigen. Die näheren Einzelheiten des
+weiteren Verfahrens legen Bund und Länder fest. Das Recht der Länder,
+eigenständig zwischen der Förderung durch leistungsorientierte
+Investitionspauschalen und der Einzelförderung von Investitionen
+einschließlich der Pauschalförderung kurzfristiger Anlagegüter zu
+entscheiden, bleibt unberührt.
+
+(2) Die Vertragsparteien auf Bundesebene nach § 17b Absatz 2 Satz 1
+vereinbaren die Grundstrukturen für Investitionsbewertungsrelationen
+und das Verfahren zu ihrer Ermittlung, insbesondere zur Kalkulation in
+einer sachgerechten und repräsentativen Auswahl von Krankenhäusern; §
+17b Absatz 3 Satz 4 und 5, Absatz 3a und 7 ist entsprechend
+anzuwenden. In den Investitionsbewertungsrelationen ist der
+Investitionsbedarf für die voll- und teilstationären Leistungen
+pauschaliert abzubilden; der Differenzierungsgrad soll praktikabel
+sein. Die Vertragsparteien nach Satz 1 beauftragen das Institut für
+das Entgeltsystem im Krankenhaus, für das DRG-Vergütungssystem und für
+Einrichtungen nach § 17d Abs. 1 Satz 1 bundeseinheitliche
+Investitionsbewertungsrelationen zu entwickeln und zu kalkulieren. Für
+die Finanzierung der Aufgaben gilt § 17b Abs. 5 entsprechend. Die
+erforderlichen Finanzmittel sind mit dem DRG-Systemzuschlag zu
+erheben; dieser ist entsprechend zu erhöhen. Für die Befugnisse des
+Bundesministeriums für Gesundheit gilt § 17b Absatz 7a entsprechend.
+Für die Veröffentlichung der Ergebnisse gilt § 17b Absatz 2 Satz 8
+entsprechend.
+
+
 ### § 11 Landesrechtliche Vorschriften über die Förderung
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001702305)
 
@@ -581,6 +1093,466 @@ Nähere
 
 
 
+
+
+### § 12a Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005104130)
+
+(1) Zur Fortführung der Förderung von Vorhaben der Länder zur
+Verbesserung der Strukturen in der Krankenhausversorgung werden dem
+beim Bundesamt für Soziale Sicherung errichteten Strukturfonds in den
+Jahren 2019 bis 2025 weitere Mittel in Höhe von insgesamt bis zu 2
+Milliarden Euro aus der Liquiditätsreserve des Gesundheitsfonds
+zugeführt. Im Fall einer finanziellen Beteiligung der privaten
+Krankenversicherungen an der Förderung nach Satz 1 erhöht sich das
+Fördervolumen um den entsprechenden Betrag. § 12 Absatz 1 Satz 3 und 6
+gilt entsprechend. Über die Förderung der in § 12 Absatz 1 Satz 3
+genannten Zwecke hinaus können auch die folgenden Vorhaben gefördert
+werden:
+
+1.  wettbewerbsrechtlich zulässige Vorhaben zur Bildung von Zentren zur
+    Behandlung von seltenen, komplexen oder schwerwiegenden Erkrankungen
+    an Hochschulkliniken, soweit Hochschulkliniken und nicht universitäre
+    Krankenhäuser an diesen Vorhaben gemeinsam beteiligt sind,
+
+
+2.  wettbewerbsrechtlich zulässige Vorhaben zur Bildung von
+    Krankenhausverbünden, Vorhaben zur Bildung integrierter
+    Notfallstrukturen und telemedizinischer Netzwerkstrukturen,
+
+
+3.  Vorhaben zur Verbesserung der informationstechnischen Sicherheit der
+    Krankenhäuser und
+
+
+4.  Vorhaben zur Schaffung zusätzlicher Ausbildungskapazitäten in den mit
+    den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten
+    nach § 2 Nummer 1a Buchstabe e bis g.
+
+
+
+Vorhaben nach Satz 4 Nummer 2 zur Bildung von telemedizinischen
+Netzwerkstrukturen können auch insoweit gefördert werden, als
+Hochschulkliniken an diesen Vorhaben beteiligt sind.
+
+(2) Von dem in Absatz 1 Satz 1 und 2 genannten Betrag, abzüglich der
+jährlichen notwendigen Aufwendungen des Bundesamtes für Soziale
+Sicherung für die Verwaltung der Mittel und die Durchführung der
+Förderung sowie der jährlichen Aufwendungen nach § 14, kann jedes Land
+in den Jahren 2019 bis 2025 insgesamt bis zu 95 Prozent des Anteils
+beantragen, der sich aus dem Königsteiner Schlüssel mit Stand vom 1.
+Oktober 2018 ergibt. Fördermittel, die von einem Land bis zum 31.
+Dezember 2025 durch vollständig und vorbehaltlos eingereichte Anträge
+nicht vollständig beantragt worden sind, verbleiben beim
+Gesundheitsfonds; der auf die Beteiligung der privaten
+Krankenversicherungen entfallende Anteil ist an diese zurückzuzahlen.
+Mit den verbleibenden 5 Prozent des Betrags nach Satz 1 können
+Vorhaben gefördert werden, die sich auf mehrere Länder erstrecken und
+für die die beteiligten Länder einen gemeinsamen Antrag stellen
+(länderübergreifende Vorhaben). Soweit die Mittel nach den Sätzen 2
+und 3 bis zum 31. Dezember 2025 durch vollständig und vorbehaltlos
+gestellte Anträge nicht vollständig beantragt worden sind, stehen
+diese Mittel sowohl für die Verwaltung des Transformationsfonds nach §
+12b als auch für die für die Durchführung der Förderung nach § 12b
+notwendigen Aufwendungen des Bundesamtes für Soziale Sicherung zur
+Verfügung und werden hierfür in den Jahren 2026 bis 2035 jeweils bis
+zum 1. Februar an den Transformationsfonds nach § 12b übertragen; der
+auf die Beteiligung der privaten Krankenversicherungen entfallende
+Anteil ist an diese zurückzuzahlen.
+
+(3) Voraussetzung für eine Zuteilung von Fördermitteln nach Absatz 2
+ist, dass
+
+1.  die Umsetzung des zu fördernden Vorhabens am 1. Januar 2019 noch nicht
+    begonnen hat,
+
+
+2.  das antragstellende Land, gegebenenfalls gemeinsam mit dem Träger der
+    zu fördernden Einrichtung, mindestens 50 Prozent der förderungsfähigen
+    Kosten des Vorhabens (Ko-Finanzierung) trägt, wobei das Land
+    mindestens die Hälfte dieser Ko-Finanzierung aus eigenen
+    Haushaltsmitteln aufbringen muss,
+
+
+3.  das antragstellende Land sich verpflichtet,
+
+    a)  in den Jahren 2019 bis 2024 jährlich Haushaltsmittel für die
+        Investitionsförderung der Krankenhäuser mindestens in der Höhe
+        bereitzustellen, die dem Durchschnitt der in den Haushaltsplänen der
+        Jahre 2015 bis 2019 hierfür ausgewiesenen Haushaltsmittel entspricht,
+        und
+
+
+    b)  die in Buchstabe a genannten Mittel um die vom Land getragenen Mittel
+        nach Nummer 2 zu erhöhen und
+
+
+
+
+
+4.  die in Absatz 4 genannten Kriterien erfüllt sind.
+
+
+
+Beträge, mit denen sich die Länder am Volumen des öffentlichen
+Finanzierungsanteils der förderfähigen Kosten nach § 6 Absatz 1 des
+Kommunalinvestitionsförderungsgesetzes beteiligen, dürfen nicht auf
+die vom Land zu tragenden Kosten nach Satz 1 Nummer 2 und auf die in
+den Jahren 2019 bis 2024 bereitzustellenden Haushaltsmittel nach Satz
+1 Nummer 3 Buchstabe a angerechnet werden. Mittel aus dem
+Strukturfonds dürfen nicht gewährt werden, soweit der
+Krankenhausträger gegenüber dem antragstellenden Land auf Grund der zu
+fördernden Maßnahme zur Rückzahlung von Mitteln für die
+Investitionsförderung verpflichtet ist. Für Mittel der
+Investitionsförderung, auf deren Rückzahlung das Land verzichtet hat,
+gilt Satz 2 entsprechend. Das Bundesamt für Soziale Sicherung prüft
+die Anträge und weist die Mittel zu, bis der in Absatz 2 Satz 1
+genannte Anteil des Landes ausgeschöpft ist. Nicht zweckentsprechend
+verwendete oder überzahlte Mittel sind unverzüglich an das Bundesamt
+für Soziale Sicherung zurückzuzahlen, wenn eine Verrechnung mit
+Ansprüchen auf Auszahlung von Fördermitteln nicht möglich ist. Die für
+die Verwaltung der Mittel und die Durchführung der Förderung
+notwendigen Aufwendungen des Bundesamtes für Soziale Sicherung werden
+aus dem in Absatz 1 Satz 1 und 2 genannten Betrag gedeckt. Dies gilt
+auch für die Aufwendungen des Bundesamtes für Soziale Sicherung, die
+nach dem 31. Dezember 2020 für die Durchführung der Förderung nach §
+12 entstehen. Die Sätze 1 bis 6 gelten entsprechend für
+länderübergreifende Vorhaben.
+
+(4) In der Rechtsverordnung nach § 12 Absatz 3 kann auch das Nähere
+geregelt werden
+
+1.  zu den Kriterien der Förderung nach Absatz 1 und zum Verfahren der
+    Vergabe der Fördermittel,
+
+
+2.  zum Nachweis der Förderungsvoraussetzungen nach Absatz 3 Satz 1 und
+
+
+3.  zum Nachweis zweckentsprechender Verwendung der Fördermittel und zur
+    Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter
+    Fördermittel.
+
+
+
+
+
+### § 12b Transformationsfonds, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007202130)
+
+(1) Zur Förderung von Vorhaben der Länder zur Anpassung der Strukturen
+in der Krankenhausversorgung an die durch das
+Krankenhausversorgungsverbesserungsgesetz vom 5. Dezember 2024 (BGBl.
+2024 I Nr. 400) bewirkten Rechtsänderungen wird beim Bundesamt für
+Soziale Sicherung in den Jahren 2026 bis 2035 aus Mitteln der
+Liquiditätsreserve des Gesundheitsfonds ein Transformationsfonds in
+Höhe von 29 Milliarden Euro errichtet. Zur Finanzierung des
+Transformationsfonds stellt der Bund der Liquiditätsreserve des
+Gesundheitsfonds in den Jahren 2026 bis 2029 jährlich einen Betrag von
+3,5 Milliarden Euro und in den Jahren 2030 bis 2035 jährlich einen
+Betrag von 2,5 Milliarden Euro, im Jahr 2026 bis zum 27. April 2026
+und in den Jahren 2027 bis 2035 jeweils bis zum 15. Januar zur
+Verfügung. Aus dem Transformationsfonds können an zugelassenen
+Krankenhäusern gefördert werden:
+
+1.  Vorhaben zur standortübergreifenden Konzentration akutstationärer
+    Versorgungskapazitäten, einschließlich der erforderlichen Angleichung
+    der digitalen Infrastruktur, insbesondere
+
+    a)  zur Erfüllung von Qualitätskriterien nach § 135e Absatz 2 des Fünften
+        Buches Sozialgesetzbuch oder
+
+
+    b)  zur Erfüllung von Mindestvorhaltezahlen nach § 135f Absatz 1 Satz 1
+        des Fünften Buches Sozialgesetzbuch,
+
+
+
+    abweichend von § 5 Absatz 1 Nummer 1 auch, soweit Hochschulkliniken an
+    diesen Vorhaben beteiligt sind,
+
+
+2.  Vorhaben zur Umstrukturierung eines Krankenhausstandortes, der nach §
+    6c Absatz 1 als sektorenübergreifende Versorgungseinrichtung bestimmt
+    wurde,
+
+
+3.  Vorhaben zur Bildung telemedizinischer Netzwerkstrukturen nach
+    bundeseinheitlichen Vorgaben, insbesondere zwischen Krankenhäusern,
+    einschließlich der Schaffung der Voraussetzungen für die Durchführung
+    robotergestützter Telechirurgie, abweichend von § 5 Absatz 1 Nummer 1
+    auch, soweit Hochschulkliniken an diesen Vorhaben beteiligt sind,
+
+
+4.  wettbewerbsrechtlich zulässige Vorhaben zur Bildung von Zentren zur
+    Behandlung von seltenen, komplexen oder schwerwiegenden Erkrankungen,
+    abweichend von § 5 Absatz 1 Nummer 1 auch, soweit Hochschulkliniken an
+    diesen Vorhaben beteiligt sind,
+
+
+5.  wettbewerbsrechtlich zulässige Vorhaben zur Bildung von regional
+    begrenzten Krankenhausverbünden zum Abbau von Doppelstrukturen,
+    insbesondere durch Standortzusammenlegungen, abweichend von § 5 Absatz
+    1 Nummer 1 auch, soweit Hochschulkliniken an diesen Vorhaben beteiligt
+    sind,
+
+
+6.  Vorhaben zur Bildung integrierter Notfallstrukturen, abweichend von §
+    5 Absatz 1 Nummer 1 auch, soweit Hochschulkliniken an diesen Vorhaben
+    beteiligt sind,
+
+
+7.  Vorhaben zur Schließung eines Krankenhauses oder von Teilen eines
+    Krankenhauses, insbesondere in Gebieten mit einer hohen Dichte an
+    Krankenhäusern und Krankenhausbetten oder
+
+
+8.  Vorhaben zur Schaffung zusätzlicher Ausbildungskapazitäten für die in
+    § 2 Nummer 1a genannten Berufe in den mit den Krankenhäusern
+    notwendigerweise verbundenen Ausbildungsstätten, soweit die Schaffung
+    zusätzlicher Ausbildungskapazitäten auf einem Vorhaben nach Nummer 1
+    oder 5 beruht.
+
+
+
+Fördermittel können auch zur Finanzierung der Zinsen, der Tilgung und
+der Verwaltungskosten von Darlehen gewährt werden, soweit diese zur
+Finanzierung von Vorhaben, die nach Satz 3 gefördert werden können,
+aufgenommen wurden. Vorhaben, die überwiegend dem Erhalt bestehender
+Strukturen dienen, sind nicht förderfähig.
+
+(2) Das Fördervolumen eines Kalenderjahres entspricht dem vom Bund
+nach Absatz 1 Satz 2 in diesem Kalenderjahr zur Verfügung gestellten
+Betrag, zuzüglich der nach § 221a Absatz 3 und 4 des Fünften Buches
+Sozialgesetzbuch zugeführten Mittel und abzüglich der in § 14 Satz 6
+genannten Aufwendungen des Bundesamts für Soziale Sicherung für die
+Auswertung im jeweiligen Kalenderjahr. Für jedes der Kalenderjahre
+2026 bis 2035 kann jedes Land die Zuteilung von Fördermitteln bis zu
+einer Höhe von 95 Prozent desjenigen Anteils an dem um den Betrag der
+nach Satz 4 aus dem jeweils vorhergehenden Kalenderjahr übertragenen
+Mittel verminderten Fördervolumen beantragen, der sich für das
+jeweilige Land aus dem Königsteiner Schlüssel für das Jahr 2019
+ergibt, zuzüglich der nach Satz 4 für das jeweilige Land aus dem
+jeweils vorherigen Kalenderjahr übertragenen Mittel und der nach
+Absatz 3a Satz 6 zurückgezahlten Fördermittel. Für jedes der
+Kalenderjahre 2026 bis 2035 können mehrere Länder gemeinsam die
+Zuteilung von Fördermitteln für länderübergreifende Vorhaben bis zu
+einer Höhe von 5 Prozent des Fördervolumens nach Satz 1 zuzüglich der
+für länderübergreifende Vorhaben nach Satz 5 aus dem jeweils
+vorhergehenden Kalenderjahr übertragenen Mittel und der nach Absatz 3a
+Satz 6 und 7 zurückgezahlten Fördermittel beantragen. Für jedes Land
+und jedes der Kalenderjahre 2026 bis 2034 sind Mittel in der Höhe der
+Differenz zwischen dem Betrag, bis zu dessen Höhe das jeweilige Land
+nach Satz 2 die Zuteilung von Fördermitteln beantragen kann, und dem
+Betrag, in dessen Höhe dem jeweiligen Land im jeweiligen Kalenderjahr
+Fördermittel nach Absatz 3a Satz 1 zugeteilt werden, zur Zuteilung im
+jeweils folgenden Kalenderjahr zu übertragen. Für länderübergreifende
+Vorhaben sind für jedes der Kalenderjahre 2026 bis 2034 Mittel in der
+Höhe der Differenz zwischen dem Betrag, bis zu dessen Höhe nach Satz 3
+Fördermittel für länderübergreifende Vorhaben beantragt werden können,
+und dem Betrag, in dessen Höhe im jeweiligen Kalenderjahr Fördermittel
+für länderübergreifende Vorhaben zugeteilt werden, zur Zuteilung im
+jeweils folgenden Kalenderjahr zu übertragen. Das Bundesamt für
+Soziale Sicherung veröffentlicht auf seiner Internetseite für jedes
+der Kalenderjahre 2026 bis 2035 die Höhe der Beträge, bis zu der
+einzelne Länder die Zuteilung von Fördermitteln beantragen können,
+sowie den Betrag, der für die Förderung länderübergreifender Vorhaben
+zur Verfügung steht.
+
+(3) Ein Land kann für jedes der Kalenderjahre 2026 bis 2035 die
+Zuteilung von Fördermitteln nach Absatz 2 Satz 2 beantragen, wenn
+
+1.  das jeweilige Land die Förderfähigkeit des zu fördernden Vorhabens und
+    die für dieses Vorhaben förderfähigen Kosten nach Maßgabe der in
+    Absatz 1 Satz 3 und 5 bestimmten förderrechtlichen Voraussetzungen
+    geprüft und festgestellt hat,
+
+
+2.  die Umsetzung des zu fördernden Vorhabens am 1. Juli 2025 noch nicht
+    begonnen hat,
+
+
+3.  das jeweilige Land oder das jeweilige Land gemeinsam mit dem Träger
+    des Krankenhauses, auf das sich das zu fördernde Vorhaben bezieht, die
+    förderfähigen Kosten des Vorhabens zu dem folgenden Anteil trägt und
+    das jeweilige Land mindestens die Hälfte dieses Anteils aufbringt:
+
+    a)  bei einer Antragstellung bis zum 31. Dezember 2029 auf Zuteilung von
+        Fördermitteln bis zu der Höhe, die das jeweilige Land für die
+        Kalenderjahre 2026 bis 2029 nach Absatz 2 Satz 2 beantragen kann, zu
+        einem Anteil von mindestens 30 Prozent und
+
+
+    b)  bei einer Antragstellung ab dem 1. Januar 2030 zu einem Anteil von
+        mindestens 50 Prozent,
+
+
+
+
+
+4.  das jeweilige Land
+
+    a)  sich verpflichtet, in jedem der Kalenderjahre vom Jahr der
+        Antragstellung bis 2035 zusätzlich zu den nach Nummer 3 zu tragenden
+        Anteilen Mittel für die Investitionskostenförderung der Krankenhäuser
+        mindestens in der Höhe bereitzustellen, die der nach Satz 2
+        berechneten durchschnittlichen Höhe der in den Haushaltsplänen des
+        jeweiligen Landes der Kalenderjahre 2021 bis 2023 hierfür
+        ausgewiesenen Haushaltsmittel entspricht und
+
+
+    b)  nachweist, dass es in jedem der Kalenderjahre von 2026 bis zum Jahr
+        der Antragstellung zusätzlich zu den nach Nummer 3 zu tragenden
+        Anteilen Mittel für die Investitionsförderung der Krankenhäuser
+        mindestens in der Höhe bereitgestellt hat, die der nach Satz 2
+        berechneten durchschnittlichen Höhe der in den Haushaltsplänen des
+        jeweiligen Landes der Kalenderjahre 2021 bis 2023 hierfür
+        ausgewiesenen Haushaltsmittel entspricht,
+
+
+
+
+
+5.  die Voraussetzungen der Rechtsverordnung nach Absatz 5 erfüllt sind
+    und
+
+
+6.  das jeweilige Land nachweist, dass für nach Absatz 1 Satz 3 zu
+    fördernde Vorhaben, an denen Hochschulkliniken beteiligt sind, die zu
+    beantragenden Fördermittel ausschließlich für krankenhausbezogene
+    Strukturmaßnahmen eingesetzt werden und eine zweckwidrige Verwendung
+    oder eine doppelte Finanzierung hochschulrechtlich geregelter Aufgaben
+    ausgeschlossen ist; hierüber hat das Land dem Bundesamt für Soziale
+    Sicherung bei der Antragstellung und bei Nachweis der
+    zweckentsprechenden Verwendung der Fördermittel zu berichten.
+
+
+
+Für die Berechnungen der durchschnittlichen Höhe der Haushaltsmittel
+nach Satz 1 Nummer 4 sind die Beträge der in den Jahren 2021 bis 2023
+jeweils ausgewiesenen Haushaltsmittel, abzüglich der als
+Sonderförderung ausgewiesenen Haushaltsmittel, zu addieren, ist die
+Summe durch drei zu dividieren und ist dieser Betrag entsprechend dem
+vom Statistischen Bundesamt für das Jahr 2024 nach § 10 Absatz 6 Satz
+1 des Krankenhausentgeltgesetzes bekanntgegebenen Orientierungswert zu
+erhöhen. Beträge, mit denen sich die Länder am Gesamtvolumen des
+öffentlichen Finanzierungsanteils der förderfähigen Kosten der
+Investitionen finanzschwacher Gemeinden und Gemeindeverbände eines
+Landes nach § 6 Absatz 1 Satz 1 des
+Kommunalinvestitionsförderungsgesetzes beteiligen, dürfen weder auf
+den in Satz 1 Nummer 3 jeweiligen genannten Anteil noch auf die in
+Satz 1 Nummer 4 genannten Mittel in den Kalenderjahren 2026 bis 2035
+angerechnet werden. Hat das jeweilige Land gegenüber dem Träger eines
+Krankenhauses, auf das sich das zu fördernde Vorhaben bezieht, auf
+eine verpflichtende Rückzahlung von Mitteln der Investitionsförderung
+verzichtet, gilt für diese Mittel Satz 3 entsprechend, sofern das Land
+nicht nachvollziehbar darlegt, dass der Verzicht erforderlich ist,
+damit ein Vorhaben nach Absatz 1 Satz 3 Nummer 1, 2, 5 oder 7
+durchgeführt werden kann. Die Sätze 1 bis 4 gelten für die Förderung
+länderübergreifender Vorhaben nach Absatz 2 Satz 3 und 5 entsprechend.
+
+(3a) Das Bundesamt für Soziale Sicherung teilt jedem Land auf Antrag
+für jedes der Kalenderjahre 2026 bis 2035 Fördermittel zu den in
+Absatz 1 Satz 3 und 4 genannten Zwecken bis zur Höhe des Betrags zu,
+bis zu dem das jeweilige Land die Zuteilung von Fördermitteln nach
+Absatz 2 beantragen kann und nach Absatz 3 beantragt hat. Das
+Bundesamt für Soziale Sicherung teilt den Ländern die Fördermittel
+nach Satz 1 bis zum 31. Dezember 2035 zu. Mittel aus dem
+Transformationsfonds dürfen nicht nach Satz 1 zugeteilt werden, soweit
+der Träger des Krankenhauses, auf das sich das zu fördernde Vorhaben
+bezieht, gegenüber dem jeweiligen Land aufgrund des zu fördernden
+Vorhabens zur Rückzahlung von Mitteln für die Investitionsförderung
+verpflichtet ist. Die vom Bundesamt für Soziale Sicherung an die
+Länder ausgezahlten Fördermittel werden als Einnahmen in den
+Haushaltsplänen der Länder vereinnahmt und nach dem Haushaltsrecht der
+Länder bewirtschaftet. Die Länder überprüfen die zweckentsprechende
+Verwendung der Fördermittel und weisen diese gegenüber dem Bundesamt
+für Soziale Sicherung nach. Nicht zweckentsprechend verwendete oder
+überzahlte Fördermittel sind von dem jeweiligen Land unverzüglich an
+das Bundesamt für Soziale Sicherung zurückzuzahlen, wenn eine
+Aufrechnung mit Ansprüchen auf Auszahlung von Fördermitteln nicht
+möglich ist. Die Sätze 1 bis 6 gelten für die Förderung
+länderübergreifender Vorhaben nach Absatz 2 Satz 3 und 5 entsprechend.
+
+(4) Die für die Verwaltung des Transformationsfonds und die
+Durchführung der Förderung notwendigen Aufwendungen des Bundesamtes
+für Soziale Sicherung werden aus den nach § 12a Absatz 2 Satz 4
+übertragenen Mitteln gedeckt. Das Bundesamt für Soziale Sicherung kann
+nähere Bestimmungen zur Durchführung des Förderverfahrens und zur
+Übermittlung der vorzulegenden Unterlagen in einem einheitlichen
+Format oder in einer maschinell auswertbaren Form treffen. Für die
+Rechnungslegung und die Bewirtschaftung der Fördermittel durch das
+Bundesamt für Soziale Sicherung gelten die für die
+Sozialversicherungsträger geltenden Vorschriften entsprechend, soweit
+die Verordnung zur Verwaltung des Transformationsfonds im
+Krankenhausbereich keine hiervon abweichenden Regelungen enthält. Das
+Bundesamt für Soziale Sicherung fordert die Fördermittel von dem
+jeweiligen Land zurück, soweit die in Absatz 1 Satz 3 und 5 und Absatz
+3 Satz 1 bestimmten Voraussetzungen nicht erfüllt oder die
+Fördermittel nicht zweckentsprechend verwendet wurden. Das Bundesamt
+für Soziale Sicherung führt nach dem 31. Dezember 2035 Fördermittel
+unverzüglich an das Sondervermögen Infrastruktur und Klimaneutralität
+zurück, die
+
+1.  nicht durch das Bundesamt für Soziale Sicherung nach Absatz 3a Satz 1
+    zugeteilt wurden,
+
+
+2.  nicht für die in § 14 Satz 6 genannten Aufwendungen verwendet wurden
+    und
+
+
+3.  nach dem 31. Dezember 2035 zu Gunsten des Transformationsfonds nach
+    Absatz 3a Satz 6 zurückgezahlt werden.
+
+
+
+Die in Satz 1 genannten Mittel, die nicht bis zum 31. Dezember des
+jeweiligen Jahres zur Deckung der für die Verwaltung des
+Transformationsfonds und die Durchführung der Förderung notwendigen
+Aufwendungen des Bundesamtes für Soziale Sicherung verwendet wurden,
+verbleiben bei der Liquiditätsreserve des Gesundheitsfonds.
+
+(5) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu regeln
+
+1.  zu den Vorhaben, die nach Absatz 1 Satz 3 gefördert werden können,
+
+
+2.  zum Verfahren der Zuteilung der Fördermittel,
+
+
+3.  zur Höhe der förderfähigen Kosten, insbesondere zur Höhe der
+    förderfähigen Kosten einzelner Bestandteile der jeweiligen Vorhaben,
+
+
+4.  zum Nachweis der in Absatz 3 Satz 1 und 2 genannten Voraussetzungen
+    der Zuteilung von Fördermitteln,
+
+
+5.  zum Nachweis der zweckentsprechenden Verwendung der Fördermittel und
+
+
+6.  zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter
+    Fördermittel.
+
+
+
+
+
+### § 13 Entscheidung zu den förderungsfähigen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004702130)
+
+Im Einvernehmen mit den Landesverbänden der Krankenkassen und den
+Ersatzkassen treffen die Länder die Entscheidung, welche Vorhaben
+gefördert werden sollen und dass für diese dann ein Antrag auf
+Förderung beim Bundesamt für Soziale Sicherung gestellt werden soll.
+Sie können andere Institutionen an der Auswahlentscheidung beteiligen.
+Ein Anspruch auf Förderung besteht nicht. Die Länder prüfen die
+zweckentsprechende Verwendung der Fördermittel. Bei Entscheidungen
+nach Satz 1, die die Förderung aus dem Transformationsfonds nach § 12b
+betreffen, ist ein Einvernehmen mit den Landesverbänden der
+Krankenkassen und den Ersatzkassen anzustreben.
 
 
 ### § 14 Auswertung der Wirkungen der Förderung
@@ -768,6 +1740,37 @@ Rechtsverordnung nach § 12 Absatz 3 auch das Nähere zu
 
 
 
+### § 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung und Begleitforschung für die digitale Transformation im Rahmen des Krankenhauszukunftsfonds
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005803130)
+
+Das Bundesministerium für Gesundheit führt zur Evaluation des
+Krankenhauszukunftsfonds eine Auswertung hinsichtlich der
+Digitalisierung aller Krankenhäuser und insbesondere der nach § 14a
+geförderten Vorhaben sowie eine Begleitforschung zur digitalen
+Transformation der Krankenhäuser durch. Aus der Evaluation soll sich
+ergeben, inwieweit die Digitalisierung der Krankenhäuser, der Umgang
+mit technologischen Innovationen und die Versorgung von Patientinnen
+und Patienten durch die Förderung verbessert sowie zukünftige Bedarfe
+zur digitalen Transformation im Krankenhausbereich identifiziert und
+geeignete Weiterentwicklungsstrategien entwickelt werden. Im Rahmen
+einer Auswertung durch eine durch das Bundesministerium für Gesundheit
+beauftragte Forschungseinrichtung ist der Reifegrad aller
+Krankenhäuser hinsichtlich der Digitalisierung jeweils zum Stichtag
+30\. Juni 2021, 30. Juni 2024 und 1. März 2026 unter Berücksichtigung
+von Bewertungskriterien anerkannter Reifegradmodelle festzustellen.
+Die Empfänger von Fördermitteln nach § 14a übermitteln der vom
+Bundesministerium für Gesundheit mit der Reifegradmessung beauftragten
+Forschungseinrichtung auf deren Anforderung in elektronischer Form die
+für die Auswertung erforderlichen strukturierten Selbsteinschätzungen
+hinsichtlich des Umsetzungsstands digitaler Maßnahmen. Den
+teilnehmenden Krankenhäusern wird ein Teilnahmezertifikat durch die
+mit der Reifegradmessung beauftragte Forschungseinrichtung
+ausgestellt. Die Länder prüfen, ob diejenigen Krankenhäuser, die nach
+§ 14a eine Förderung in dem jeweiligen Land erhalten, an der
+Reifegradmessung teilgenommen haben und bestätigen die Teilnahme
+gegenüber dem Bundesamt für Soziale Sicherung.
+
+
 ### § 15 Beteiligung an Schließungskosten
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004900116)
 
@@ -949,6 +1952,783 @@ Die Vertragsparteien nach § 18 Abs. 2 vereinbaren die nach den Sätzen
 1 und 2 maßgebenden Pflegesätze. Werden die Krankenhausleistungen mit
 pauschalierten Pflegesätzen nach Absatz 1a vergütet, gelten diese als
 Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
+
+
+### § 17a Finanzierung von Ausbildungskosten
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004222130)
+
+(1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n
+genannten mit den Krankenhäusern notwendigerweise verbundenen
+Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer
+1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der
+Ausbildung sind nach Maßgabe der folgenden Vorschriften durch
+Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu
+den pflegesatzfähigen Kosten gehören und nicht nach anderen
+Vorschriften aufzubringen sind (Ausbildungskosten); der von dem
+jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu
+bringen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die
+Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des
+Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der
+Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen
+Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete
+Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1
+Satz 1 Nummer 2 des Hebammengesetzes.
+
+(2) Mit dem Ziel, eine sachgerechte Finanzierung sicherzustellen,
+schließen
+
+1.  die Vertragsparteien nach § 17b Abs. 2 Satz 1 auf Bundesebene eine
+    Rahmenvereinbarung insbesondere über die zu finanzierenden Tatbestände
+    und über ein Kalkulationsschema für die Verhandlung des
+    Ausbildungsbudgets nach Absatz 3;
+
+
+2.  die in § 18 Abs. 1 Satz 2 genannten Beteiligten auf Landesebene
+    ergänzende Vereinbarungen insbesondere zur Berücksichtigung der
+    landesrechtlichen Vorgaben für die Ausbildung und zum Abzug des vom
+    Land finanzierten Teils der Ausbildungskosten, bei einer fehlenden
+    Vereinbarung nach Nummer 1 auch zu den dort möglichen
+    Vereinbarungsinhalten.
+
+
+
+Die Vereinbarungen nach Satz 1 sind bei der Vereinbarung des
+Ausbildungsbudgets nach Absatz 3 zu beachten. Kommt eine Vereinbarung
+nach Satz 1 nicht zu Stande, entscheidet auf Antrag einer
+Vertragspartei bei Satz 1 Nr. 1 die Schiedsstelle nach § 18a Abs. 6
+und bei Satz 1 Nr. 2 die Schiedsstelle nach § 18a Abs. 1.
+
+(3) Bei ausbildenden Krankenhäusern vereinbaren die Vertragsparteien
+nach § 18 Abs. 2 für einen zukünftigen Zeitraum
+(Vereinbarungszeitraum) ein krankenhausindividuelles
+Ausbildungsbudget, mit dem die Ausbildungskosten finanziert werden; §
+11 Abs. 2 des Krankenhausentgeltgesetzes gilt entsprechend. Bei
+ausbildenden Krankenhäusern, die nach § 15 des Hebammengesetzes für
+die Durchführung des berufspraktischen Teils des Hebammenstudiums
+verantwortlich sind, umfasst das Ausbildungsbudget nach Satz 1 auch
+die nach § 134a Absatz 1e des Fünften Buches Sozialgesetzbuch
+vereinbarten Pauschalen. Die Vertragsparteien nach § 18 Absatz 2
+stellen bei der Vereinbarung des Ausbildungsbudgets Art und Anzahl der
+voraussichtlich belegten Ausbildungsplätze fest. Das Budget soll die
+Kosten der Ausbildungsstätten bei wirtschaftlicher Betriebsgröße und
+Betriebsführung decken und wird in seiner Entwicklung nicht durch den
+Veränderungswert nach § 9 Absatz 1b Satz 1 des
+Krankenhausentgeltgesetzes begrenzt. Die für den Vereinbarungszeitraum
+zu erwartenden Kostenentwicklungen sind zu berücksichtigen. Ab dem
+Jahr 2010 sind bei der Vereinbarung des Ausbildungsbudgets auch die
+Richtwerte nach Absatz 4b zu berücksichtigen. Soweit Richtwerte nicht
+vereinbart oder nicht durch Rechtsverordnung vorgegeben sind,
+vereinbaren die Vertragsparteien nach § 18 Abs. 2 entsprechende
+Finanzierungsbeträge im Rahmen des Ausbildungsbudgets. Es ist eine
+Angleichung der krankenhausindividuellen Finanzierungsbeträge an die
+Richtwerte oder im Falle des Satzes 7 eine Angleichung der
+Finanzierungsbeträge im Land untereinander anzustreben; dabei sind
+krankenhausindividuelle Abweichungen des vom Land finanzierten Teils
+der Ausbildungskosten zu berücksichtigen. Soweit erforderlich
+schließen die Vertragsparteien Strukturverträge, die den Ausbau, die
+Schließung oder die Zusammenlegung von Ausbildungsstätten finanziell
+unterstützen und zu wirtschaftlichen Ausbildungsstrukturen führen;
+dabei ist Einvernehmen mit der zuständigen Landesbehörde anzustreben.
+Die Ausbildung in der Region darf nicht gefährdet werden. Soweit eine
+Ausbildungsstätte in der Region erforderlich ist, zum Beispiel weil
+die Entfernungen und Fahrzeiten zu anderen Ausbildungsstätten nicht
+zumutbar sind, können auch langfristig höhere Finanzierungsbeträge
+gezahlt werden; zur Prüfung der Voraussetzungen sind die Vorgaben zum
+Sicherstellungszuschlag nach § 17b Absatz 1a Nummer 6 in Verbindung
+mit § 5 Abs. 2 des Krankenhausentgeltgesetzes entsprechend anzuwenden.
+Weicht am Ende des Vereinbarungszeitraums die Summe der Zahlungen aus
+dem Ausgleichsfonds nach Absatz 5 Satz 5 und den verbleibenden
+Abweichungen nach Absatz 6 Satz 5 oder die Summe der Zuschläge nach
+Absatz 9 Satz 1 von dem vereinbarten Ausbildungsbudget ab, werden die
+Mehr- oder Mindererlöse vollständig über das Ausbildungsbudget des
+nächstmöglichen Vereinbarungszeitraums ausgeglichen. Steht bei der
+Verhandlung der Ausgleichsbetrag noch nicht fest, sind Teilbeträge als
+Abschlagszahlungen auf den Ausgleich zu berücksichtigen.
+
+(4) (weggefallen)
+
+(4a) Der Krankenhausträger hat den anderen Vertragsparteien
+rechtzeitig vor den Verhandlungen Nachweise und Begründungen
+insbesondere über Art und Anzahl der voraussichtlich belegten
+Ausbildungsplätze, die Ausbildungskosten und für die Vereinbarung von
+Zuschlägen nach Absatz 6 vorzulegen sowie im Rahmen der Verhandlungen
+zusätzliche Auskünfte zu erteilen.
+
+(4b) Als Zielwert für die Angleichung der krankenhausindividuellen
+Finanzierungsbeträge nach Absatz 3 Satz 7 ermitteln die
+Vertragsparteien nach § 17b Abs. 2 Satz 1 jährlich für die einzelnen
+Berufe nach § 2 Nr. 1a die durchschnittlichen Kosten je
+Ausbildungsplatz in den Ausbildungsstätten und die sonstigen
+Ausbildungskosten und vereinbaren für das folgende Kalenderjahr
+entsprechende Richtwerte unter Berücksichtigung zu erwartender
+Kostenentwicklungen; die Beträge können nach Regionen differenziert
+festgelegt werden. Zur Umsetzung der Vorgaben nach Satz 1 entwickeln
+die Vertragsparteien insbesondere unter Nutzung der Daten nach § 21
+Abs. 2 Nr. 1 Buchstabe c des Krankenhausentgeltgesetzes und von Daten
+aus einer Auswahl von Krankenhäusern und Ausbildungsstätten, die an
+einer gesonderten Kalkulation teilnehmen, jährlich schrittweise das
+Verfahren zur Erhebung der erforderlichen Daten und zur Kalkulation
+und Vereinbarung von Richtwerten. Kommt eine in Satz 1 genannte
+Vereinbarung nicht oder teilweise nicht zustande, entscheidet auf
+Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6. Für
+die Veröffentlichung der Ergebnisse gilt § 17b Absatz 2 Satz 8
+entsprechend.
+
+(5) Mit dem Ziel, eine Benachteiligung ausbildender Krankenhäuser im
+Wettbewerb mit nicht ausbildenden Krankenhäusern zu vermeiden,
+vereinbaren die in § 18 Abs. 1 Satz 2 genannten Beteiligten auf
+Landesebene
+
+1.  erstmals für das Jahr 2006 einen Ausgleichsfonds in Höhe der von den
+    Krankenhäusern im Land angemeldeten Beträge (Sätze 3 und 4),
+
+
+2.  die Höhe eines Ausbildungszuschlags je voll- und teilstationärem Fall,
+    mit dem der Ausgleichsfonds finanziert wird,
+
+
+3.  die erforderlichen Verfahrensregelungen im Zusammenhang mit dem
+    Ausgleichsfonds und den in Rechnung zu stellenden Zuschlägen,
+    insbesondere Vorgaben zur Verzinsung ausstehender Zahlungen der
+    Krankenhäuser mit einem Zinssatz von 8 vom Hundert über dem Basiszins
+    nach § 247 Abs. 1 des Bürgerlichen Gesetzbuchs.
+
+
+
+Der Ausgleichsfonds wird von der Landeskrankenhausgesellschaft
+errichtet und verwaltet; sie hat über die Verwendung der Mittel
+Rechenschaft zu legen. Zur Ermittlung der Höhe des Ausgleichsfonds
+melden die ausbildenden Krankenhäuser die jeweils nach Absatz 3 oder 4
+für das Vorjahr vereinbarte Höhe des Ausbildungsbudgets sowie Art und
+Anzahl der Ausbildungsplätze und die Höhe des zusätzlich zu
+finanzierenden Mehraufwands für Ausbildungsvergütungen; im Falle einer
+für den Vereinbarungszeitraum absehbaren wesentlichen Veränderung der
+Zahl der Ausbildungsplätze oder der Zahl der Auszubildenden kann ein
+entsprechend abweichender Betrag gemeldet werden. Soweit Meldungen von
+Krankenhäusern fehlen, sind entsprechende Beträge zu schätzen. Die
+Landeskrankenhausgesellschaft zahlt aus dem Ausgleichsfonds den nach
+Satz 3 gemeldeten oder nach Satz 4 geschätzten Betrag in monatlichen
+Raten jeweils an das ausbildende Krankenhaus. Ein ausbildendes
+Krankenhaus, das nach § 15 des Hebammengesetzes für die Durchführung
+des berufspraktischen Teils des Hebammenstudiums verantwortlich ist,
+leitet den Anteil, der von dem nach Satz 3 gemeldeten oder nach Satz 4
+geschätzten Betrag auf die Pauschalen nach § 134a Absatz 1e des
+Fünften Buches Sozialgesetzbuch entfällt, monatlich an die jeweiligen
+ambulanten hebammengeleiteten Einrichtungen oder an die jeweiligen
+freiberuflichen Hebammen weiter.
+
+(6) Der Ausbildungszuschlag nach Absatz 5 Satz 1 Nr. 2 wird von allen
+nicht ausbildenden Krankenhäusern den Patienten oder Patientinnen oder
+deren Sozialleistungsträger in Rechnung gestellt. Bei ausbildenden
+Krankenhäusern wird der in Rechnung zu stellende Zuschlag verändert,
+soweit der an den Ausgleichsfonds gemeldete und von diesem gezahlte
+Betrag von der Höhe des nach Absatz 3 oder 4 vereinbarten
+Ausbildungsbudgets abweicht. Die sich aus dieser Abweichung ergebende
+Veränderung des Ausbildungszuschlags und damit die entsprechende Höhe
+des krankenhausindividuellen, in Rechnung zu stellenden
+Ausbildungszuschlags wird von den Vertragsparteien nach § 18 Abs. 2
+vereinbart. Alle Krankenhäuser haben die von ihnen in Rechnung
+gestellten Ausbildungszuschläge in der nach Absatz 5 Satz 1 Nr. 2
+festgelegten Höhe an den Ausgleichsfonds abzuführen; sie haben dabei
+die Verfahrensregelungen nach Absatz 5 Satz 1 Nr. 3 einzuhalten. Eine
+Erlösabweichung zwischen dem in Rechnung gestellten
+krankenhausindividuellen Zuschlag nach Satz 3 und dem abzuführenden
+Zuschlag verbleibt dem ausbildenden Krankenhaus.
+
+(7) Das Ausbildungsbudget ist zweckgebunden für die Ausbildung zu
+verwenden. Der Krankenhausträger hat für die Budgetverhandlungen nach
+Absatz 3 eine vom Jahresabschlussprüfer bestätigte Aufstellung für das
+abgelaufene Jahr über die Einnahmen aus dem Ausgleichsfonds und den in
+Rechnung gestellten Zuschlägen, über Erlösabweichungen zum
+vereinbarten Ausbildungsbudget und über die zweckgebundene Verwendung
+der Mittel vorzulegen.
+
+(8) Kommt eine Vereinbarung nach Absatz 3 oder eine Vereinbarung nach
+Absatz 5 zur Höhe des Ausgleichsfonds, den Ausbildungszuschlägen und
+den Verfahrensregelungen nicht zu Stande, entscheidet auf Antrag einer
+Vertragspartei die Schiedsstelle nach § 18a Abs. 1 innerhalb von sechs
+Wochen. Die Genehmigung der Vereinbarung oder die Festsetzung der
+Schiedsstelle ist von einer der Vertragsparteien bei der zuständigen
+Landesbehörde zu beantragen. Gegen die Genehmigung ist der
+Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die
+Klage hat keine aufschiebende Wirkung.
+
+(9) Kommt die Bildung eines Ausgleichsfonds nach Absatz 5 nicht zu
+Stande, werden die Ausbildungsbudgets nach Absatz 3 durch einen
+krankenhausindividuellen Zuschlag je voll- und teilstationärem Fall
+finanziert, der den Patienten oder Patientinnen oder deren
+Sozialleistungsträger in Rechnung gestellt wird. Ist zu Beginn des
+Kalenderjahres dieser Zuschlag krankenhausindividuell noch nicht
+vereinbart, wird der für das Vorjahr vereinbarte Zuschlag nach Satz 1
+oder der für das Vorjahr geltende Zuschlag nach Absatz 6 Satz 2 und 3
+weiterhin in Rechnung gestellt; § 15 Abs. 1 und 2 Satz 1 des
+Krankenhausentgeltgesetzes ist entsprechend anzuwenden. Um
+Wettbewerbsverzerrungen infolge dieser Ausbildungszuschläge zu
+vermeiden, werden für diesen Fall die Landesregierungen ermächtigt,
+durch Rechtsverordnung einen finanziellen Ausgleich zwischen
+ausbildenden und nicht ausbildenden Krankenhäusern und Vorgaben zur
+Abrechnung der entsprechenden Zuschläge für die Jahre vorzugeben, für
+die ein Ausgleichsfonds nicht zu Stande gekommen ist.
+
+(10) Kosten der Unterbringung von Auszubildenden sind nicht
+pflegesatzfähig, soweit die Vertragsparteien nach § 18 Abs. 2 nichts
+anderes vereinbaren. Wird eine Vereinbarung getroffen, ist bei
+ausbildenden Krankenhäusern der Zuschlag nach Absatz 6 Satz 3
+entsprechend zu erhöhen. Der Erhöhungsbetrag verbleibt dem
+Krankenhaus.
+
+(11) Für ausbildende Krankenhäuser, die der Bundespflegesatzverordnung
+unterliegen, gilt § 21 des Krankenhausentgeltgesetzes mit der Maßgabe,
+dass die Daten nach Absatz 2 Nr. 1 Buchstabe a und c zu übermitteln
+sind.
+
+
+### § 17b Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004339130)
+
+(1) Für die Vergütung der allgemeinen Krankenhausleistungen gilt ein
+durchgängiges, leistungsorientiertes und pauschalierendes
+Vergütungssystem, soweit die Absätze 4 und 4b keine abweichenden
+Regelungen enthalten. Das Vergütungssystem hat Komplexitäten und
+Komorbiditäten abzubilden; sein Differenzierungsgrad soll praktikabel
+sein. Mit den Entgelten nach Satz 1 werden die allgemeinen voll- und
+teilstationären Krankenhausleistungen für einen Behandlungsfall
+vergütet. Die Fallgruppen und ihre Bewertungsrelationen sind
+bundeseinheitlich festzulegen. Die Bewertungsrelationen sind als
+Relativgewichte auf eine Bezugsleistung zu definieren; sie sind für
+Leistungen, bei denen in erhöhtem Maße wirtschaftlich begründete
+Fallzahlsteigerungen eingetreten oder zu erwarten sind, gezielt
+abzusenken oder in Abhängigkeit von der Fallzahl bei diesen Leistungen
+abgestuft vorzugeben. Um mögliche Fehlanreize durch eine systematische
+Übervergütung der Sachkostenanteile bei voll- und teilstationären
+Leistungen jährlich zu analysieren und geeignete Maßnahmen zum Abbau
+vorhandener Übervergütung zu ergreifen, sind auf der Grundlage eines
+Konzepts des Instituts für das Entgeltsystem im Krankenhaus
+sachgerechte Korrekturen der Bewertungsrelationen der Fallpauschalen
+zu vereinbaren; die Korrekturen der Bewertungsrelationen sind erstmals
+für die Weiterentwicklung des Vergütungssystems für das Jahr 2021
+ausschließlich innerhalb der Fallpauschalenvergütung durchzuführen.
+Soweit dies zur Ergänzung der Fallpauschalen in eng begrenzten
+Ausnahmefällen erforderlich ist, können die Vertragsparteien nach
+Absatz 2 Satz 1 Zusatzentgelte für Leistungen, Leistungskomplexe oder
+Arzneimittel vereinbaren, insbesondere für die Behandlung von Blutern
+mit Blutgerinnungsfaktoren oder für eine Dialyse, wenn die Behandlung
+des Nierenversagens nicht die Hauptleistung ist. Sie vereinbaren auch
+die Höhe der Entgelte; diese kann nach Regionen differenziert
+festgelegt werden. Nach Maßgabe des Krankenhausentgeltgesetzes können
+Entgelte für Leistungen, die nicht durch die Entgeltkataloge erfasst
+sind, durch die Vertragsparteien nach § 18 Absatz 2 vereinbart werden.
+Besondere Einrichtungen, deren Leistungen insbesondere aus
+medizinischen Gründen, wegen einer Häufung von schwerkranken Patienten
+oder von Patienten mit Behinderungen oder aus Gründen der
+Versorgungsstruktur mit den Entgeltkatalogen noch nicht sachgerecht
+vergütet werden, können aus dem Vergütungssystem ausgenommen werden;
+unabhängig davon, ob die Leistungen mit den Entgeltkatalogen
+sachgerecht vergütet werden, ist bei Palliativstationen oder
+-einheiten, die räumlich und organisatorisch abgegrenzt sind und über
+mindestens fünf Betten verfügen, sowie bei Krankenhäusern, die in die
+in Satz 14 genannte Liste aufgenommen sind, für das der
+Veröffentlichung der Liste folgende Kalenderjahr, dafür ein
+schriftlicher oder elektronischer Antrag des Krankenhauses
+ausreichend. Entstehen bei Patientinnen oder Patienten mit
+außerordentlichen Untersuchungs- und Behandlungsabläufen extrem hohe
+Kostenunterdeckungen, die mit dem pauschalierten Vergütungssystem
+nicht sachgerecht finanziert werden (Kostenausreißer), sind
+entsprechende Fälle zur Entwicklung geeigneter Vergütungsformen
+vertieft zu prüfen. Zur Förderung der palliativmedizinischen
+Versorgung durch Palliativdienste ist die Kalkulation eines
+Zusatzentgelts zu ermöglichen; im Einvernehmen mit der betroffenen
+medizinischen Fachgesellschaft sind die hierfür erforderlichen
+Kriterien bis zum 29. Februar 2016 zu entwickeln. Zur sachgerechten
+Abbildung der Kosten von telekonsiliarärztlichen Leistungen haben die
+Vertragsparteien nach Absatz 2 Satz 1 auf der Grundlage eines Konzepts
+des Instituts für das Entgeltsystem im Krankenhaus spätestens bis zum
+30\. September 2024 Entgelte zu vereinbaren. Das Institut für das
+Entgeltsystem im Krankenhaus ermittelt jährlich auf der Grundlage der
+nach § 21 Absatz 1 und 2 des Krankenhausentgeltgesetzes jeweils für
+das vorangegangene Kalenderjahr übermittelten Daten diejenigen
+Krankenhäuser, die die nachfolgenden Kriterien erfüllen, und
+veröffentlicht barrierefrei auf seiner Internetseite jährlich bis zum
+30\. Juni, erstmals bis zum 30. Juni 2025, eine Liste dieser
+Krankenhäuser:
+
+1.  in mindestens 75 Prozent der vollstationären, nach dem
+    Krankenhausentgeltgesetz vergüteten Fälle des Krankenhauses waren die
+    Patientinnen und Patienten zum Zeitpunkt der Aufnahme in das
+    Krankenhaus mindestens 28 Tage und unter 18 Jahre alt und
+
+
+2.  der auf das Krankenhaus entfallende Anteil an allen vollstationären,
+    nach dem Krankenhausentgeltgesetz vergüteten Fällen, bei denen die
+    Patientinnen und Patienten zum Zeitpunkt der Aufnahme in das
+    Krankenhaus mindestens 28 Tage und unter 18 Jahre alt waren, beträgt
+    mindestens 0,5 Prozent.
+
+
+
+Auf der Grundlage eines Konzepts des Instituts für das Entgeltsystem
+im Krankenhaus entscheiden die in Absatz 2 Satz 1 genannten
+Vertragsparteien bis zum 31. Dezember 2025, wie zur sachgerechten
+Finanzierung der mit der ärztlichen Weiterbildung verbundenen
+Mehrkosten bei der Leistungserbringung Zu- und Abschläge für bestimmte
+Leistungen oder Leistungsbereiche ausgestaltet werden können;
+erforderliche Zu- und Abschläge sollen möglichst in Abhängigkeit von
+Qualitätsindikatoren für die Weiterbildung ausgestaltet sein und die
+voraussichtliche Summe der Zu- und Abschläge soll ausgeglichen sein.
+
+(1a) Soweit allgemeine Krankenhausleistungen nicht oder noch nicht in
+die Entgelte nach Absatz 1 Satz 1 einbezogen werden können, weil der
+Finanzierungstatbestand nicht in allen Krankenhäusern vorliegt, sind
+bundeseinheitliche Regelungen für Zu- oder Abschläge zu vereinbaren,
+insbesondere für
+
+1.  die Notfallversorgung,
+
+
+2.  die besonderen Aufgaben nach § 2 Absatz 2 Satz 2 Nummer 4 des
+    Krankenhausentgeltgesetzes,
+
+
+3.  (weggefallen)
+
+
+4.  die Beteiligung der Krankenhäuser an Maßnahmen zur Qualitätssicherung
+    auf der Grundlage der §§ 136 und 136b des Fünften Buches
+    Sozialgesetzbuch und die Beteiligung ganzer Krankenhäuser oder
+    wesentlicher Teile der Einrichtungen an einrichtungsübergreifenden
+    Fehlermeldesystemen, sofern diese den Festlegungen des Gemeinsamen
+    Bundesausschusses nach § 136a Absatz 3 Satz 3 des Fünften Buches
+    Sozialgesetzbuch entsprechen,
+
+
+5.  befristete Zuschläge für die Finanzierung von Mehrkosten auf Grund von
+    Richtlinien des Gemeinsamen Bundesausschusses,
+
+
+6.  die Finanzierung der Sicherstellung einer für die Versorgung der
+    Bevölkerung notwendigen Vorhaltung von Leistungen,
+
+
+7.  die Aufnahme von Begleitpersonen nach § 2 Absatz 2 Satz 2 Nummer 3 des
+    Krankenhausentgeltgesetzes und § 2 Absatz 2 Satz 2 Nummer 3 der
+    Bundespflegesatzverordnung,
+
+
+8.  den Ausbildungszuschlag nach § 17a Absatz 6,
+
+
+9.  den Aufwand, der den verantwortlichen Gesundheitseinrichtungen im
+    Sinne des § 2 Nummer 5 Buchstabe a des Implantateregistergesetzes auf
+    Grund ihrer Pflichten nach den §§ 16 und 17 Absatz 1 des
+    Implantateregistergesetzes sowie den §§ 18, 20, 24 und 25 des
+    Implantateregistergesetzes und für die zu zahlenden Gebühren nach § 33
+    Absatz 1 Nummer 1 des Implantateregistergesetzes entsteht.
+
+
+
+
+(2) Der Spitzenverband Bund der Krankenkassen und der Verband der
+privaten Krankenversicherung gemeinsam vereinbaren entsprechend den
+Vorgaben der Absätze 1, 1a und 3 mit der Deutschen
+Krankenhausgesellschaft ein Vergütungssystem, das sich an einem
+international bereits eingesetzten Vergütungssystem auf der Grundlage
+der Diagnosis Related Groups (DRG) orientiert, seine jährliche
+Weiterentwicklung und Anpassung, insbesondere an medizinische
+Entwicklungen, Kostenentwicklungen, Verweildauerverkürzungen und
+Leistungsverlagerungen zu und von anderen Versorgungsbereichen, und
+die Abrechnungsbestimmungen, soweit diese nicht im
+Krankenhausentgeltgesetz vorgegeben werden. Sie orientieren sich dabei
+unter Wahrung der Qualität der Leistungserbringung an wirtschaftlichen
+Versorgungsstrukturen und Verfahrensweisen; insbesondere wirken sie
+mit den Abrechnungsbestimmungen darauf hin, dass die Voraussetzungen,
+unter denen bei Wiederaufnahme von Patientinnen und Patienten eine
+Zusammenfassung der Falldaten zu einem Fall und eine Neueinstufung in
+eine Fallpauschale vorzunehmen sind, dem Wirtschaftlichkeitsgebot
+hinreichend Rechnung tragen. Die Prüfungsergebnisse nach § 137c des
+Fünften Buches Sozialgesetzbuch sind zu beachten. Der
+Bundesärztekammer ist Gelegenheit zur beratenden Teilnahme an den
+Sitzungen der Vertragsparteien nach Absatz 2 Satz 1 zu geben, soweit
+medizinische Fragen der Entgelte und der zu Grunde liegenden
+Leistungsabgrenzung betroffen sind; dies gilt entsprechend für einen
+Vertreter der Berufsorganisationen der Krankenpflegeberufe. Die
+betroffenen Fachgesellschaften und, soweit deren Belange berührt sind,
+die Spitzenorganisationen der pharmazeutischen Industrie und der
+Industrie für Medizinprodukte erhalten Gelegenheit zur Stellungnahme.
+Für die gemeinsame Beschlussfassung des Spitzenverbandes Bund der
+Krankenkassen und des Verbandes der privaten Krankenversicherung haben
+der Spitzenverband Bund der Krankenkassen zwei Stimmen und der Verband
+der privaten Krankenversicherung eine Stimme. Das Bundesministerium
+für Gesundheit kann an den Sitzungen der Vertragsparteien teilnehmen
+und erhält deren fachliche Unterlagen. Die Vertragsparteien
+veröffentlichen in geeigneter Weise die Ergebnisse der
+Kostenerhebungen und Kalkulationen; die der Kalkulation zugrunde
+liegenden Daten einzelner Krankenhäuser sind vertraulich.
+
+(3) Die Vertragsparteien nach Absatz 2 Satz 1 vereinbaren bis zum 30.
+Juni 2000 die Grundstrukturen des Vergütungssystems und des Verfahrens
+zur Ermittlung der Bewertungsrelationen auf Bundesebene
+(Bewertungsverfahren), insbesondere der zu Grunde zu legenden
+Fallgruppen, sowie die Grundzüge ihres Verfahrens zur laufenden Pflege
+des Systems auf Bundesebene. Die Vertragsparteien vereinbaren die
+Bewertungsrelationen und die Bewertung der Zu- und Abschläge nach
+Absatz 1a. Die Bewertungsrelationen werden auf der Grundlage der
+Fallkosten einer sachgerechten und repräsentativen Auswahl von
+Krankenhäusern kalkuliert. Auf der Grundlage eines vom Institut für
+das Entgeltsystem im Krankenhaus zu entwickelnden Vorschlags
+vereinbaren die Vertragsparteien nach Absatz 2 Satz 1 bis spätestens
+zum 31. Dezember 2016 ein praktikables Konzept für eine repräsentative
+Kalkulation nach Satz 3; zur Gewährleistung einer repräsentativen
+Kalkulation der nach Absatz 4 auszugliedernden Pflegepersonalkosten
+und des nach Absatz 4b Satz 1 auszugliedernden Betrags für die
+Vorhaltevergütung hat das Institut für das Entgeltsystem im
+Krankenhaus das Konzept anzupassen. Das Institut für das Entgeltsystem
+im Krankenhaus bestimmt auf der Grundlage des Konzepts nach Satz 4,
+welche Krankenhäuser an der Kalkulation teilnehmen; diese
+Krankenhäuser sind zur Übermittlung der für die Durchführung der
+Kalkulation erforderlichen Daten an das Institut für das Entgeltsystem
+im Krankenhaus verpflichtet.
+
+(3a) Das Institut für das Entgeltsystem im Krankenhaus hat für jede
+nicht erfolgte, nicht vollständige oder nicht fristgerechte
+Übermittlung der für die Durchführung der Kalkulation nach Absatz 3
+Satz 4 erforderlichen Daten einen Abschlag von den pauschalierten
+Pflegesätzen nach § 17 Absatz 1 je Standort eines Krankenhauses
+festzulegen. Eine Übermittlung gilt als nicht vollständig, wenn die
+Daten von weniger als 95 Prozent der für den jeweiligen Standort eines
+Krankenhauses an das Institut für das Entgeltsystem im Krankenhaus
+übermittelten voll- und teilstationären Krankenhausfälle verwertbar
+sind. Der Abschlag nach Satz 1 ergibt sich aus der Multiplikation der
+Anzahl der voll- und teilstationären Krankenhausfälle, deren Daten
+durch das Krankenhaus je Krankenhausstandort nicht übermittelt werden
+oder zwar übermittelt werden, aber durch das Institut für das
+Entgeltsystem im Krankenhaus nicht verwertbar sind, mit einem
+fallbezogenen Abschlagswert. Der fallbezogene Abschlagswert beträgt im
+ersten Jahr der Datenübermittlung, in dem eine Übermittlung nicht,
+nicht vollständig oder nicht fristgerecht erfolgt, 20 Euro je voll-
+und teilstationären Krankenhausfall, dessen Daten nicht übermittelt
+werden oder zwar übermittelt werden, aber durch das Institut für das
+Entgeltsystem im Krankenhaus nicht verwertbar sind. Für jedes weitere
+Jahr der Datenübermittlung, in dem eine Übermittlung nicht, nicht
+vollständig oder nicht fristgerecht erfolgt, erhöht sich der
+fallbezogene Abschlagswert nach Satz 4 um jeweils 10 Euro. Abweichend
+von den Sätzen 3 bis 5 beträgt der Abschlag nach Satz 1 mindestens
+20 000 Euro und höchstens 500 000 Euro pro Jahr der Datenübermittlung.
+Das Institut für das Entgeltsystem im Krankenhaus unterrichtet jeweils
+die Vertragsparteien nach § 18 Absatz 2 über Verstöße und die Höhe des
+jeweiligen Abschlags nach Satz 1. Die Vertragsparteien nach § 18
+Absatz 2 berücksichtigen den Abschlag nach Satz 1 bei der Vereinbarung
+nach § 11 des Krankenhausentgeltgesetzes und § 11 der
+Bundespflegesatzverordnung.
+
+(4) Die Vertragsparteien nach Absatz 2 Satz 1 haben auf der Grundlage
+eines Konzepts des Instituts für das Entgeltsystem im Krankenhaus die
+Pflegepersonalkosten für die unmittelbare Patientenversorgung auf
+bettenführenden Stationen und in Kreißsälen aus dem Vergütungssystem
+auszugliedern und eine neue Pflegepersonalkostenvergütung zu
+entwickeln; ab dem Jahr 2025 haben die Vertragsparteien nach Absatz 2
+Satz 1 auf der Grundlage eines angepassten Konzepts des Instituts für
+das Entgeltsystem im Krankenhaus die Pflegepersonalkosten für die
+unmittelbare Patientenversorgung auf bettenführenden Stationen und in
+Kreißsälen nach den Vorgaben des Absatzes 4a aus dem Vergütungssystem
+auszugliedern und die Pflegepersonalkostenvergütung
+weiterzuentwickeln. Hierfür haben sie insbesondere erstmals bis zum
+31\. Januar 2019 eine eindeutige, bundeseinheitliche Definition der
+auszugliedernden Pflegepersonalkosten zu vereinbaren und dabei auch
+Regelungen für die Zuordnung von Kosten von Pflegepersonal
+festzulegen, das überwiegend in der unmittelbaren Patientenversorgung
+auf bettenführenden Stationen tätig ist. Die Krankenhäuser haben die
+Vorgaben zur Ausgliederung und zur bundeseinheitlichen Definition nach
+Satz 1 erster Halbsatz und Satz 2 für die Abgrenzung ihrer Kosten und
+Leistungen rückwirkend ab dem 1. Januar 2019 anzuwenden; für die
+Vereinbarungen ab dem Jahr 2025 haben die Krankenhäuser ab dem 1.
+Januar 2023 die Vorgaben zur Ausgliederung und zur bundeseinheitlichen
+Definition nach Absatz 4a für die Abgrenzung ihrer Kosten und
+Leistungen anzuwenden. Die Vertragsparteien nach Absatz 2 Satz 1 haben
+die Bewertungsrelationen für das DRG-Vergütungssystem erstmals für das
+Jahr 2020 um die Summe der Bewertungsrelationen der nach Satz 1
+auszugliedernden Pflegepersonalkosten und die Zusatzentgelte um die
+pflegerelevanten Kosten zu vermindern sowie auf dieser Grundlage die
+Fallpauschalenvereinbarung bis zum 30. September 2019 abzuschließen.
+Sie haben die nach Satz 1 auszugliedernden Pflegepersonalkosten bis
+zum 30. September 2019 in einem Katalog mit bundeseinheitlichen
+Bewertungsrelationen je voll- oder teilstationärem Belegungstag
+auszuweisen und den Katalog jährlich weiterzuentwickeln; nach Absatz 2
+Satz 1 zu berücksichtigende Leistungsverlagerungen zu und von anderen
+Versorgungsbereichen sind bei der Weiterentwicklung der
+bundeseinheitlichen Bewertungsrelationen in diesem Katalog zu
+berücksichtigen. Der Katalog ist erstmals für das Jahr 2020 von den
+Vertragsparteien nach § 18 Absatz 2 für die Abzahlung des
+Pflegebudgets nach § 6a des Krankenhausentgeltgesetzes anzuwenden. Für
+die Ausgliederung der Pflegepersonalkosten und die Entwicklung einer
+neuen Pflegepersonalkostenvergütung nach Satz 1 sowie für die
+Vereinbarung einer bundeseinheitlichen Definition nach Satz 2 oder
+Absatz 4a Satz 1 gelten die Regelungen nach Absatz 2 Satz 4 bis 7 zur
+Einbindung der Berufsorganisationen der Krankenpflegeberufe, zur
+Beschlussfassung sowie zu den Teilnahme- und Zugangsrechten des
+Bundesministeriums für Gesundheit entsprechend. Für die Ausweisung der
+auszugliedernden Pflegepersonalkosten in einem Katalog mit
+bundeseinheitlichen Bewertungsrelationen und die Weiterentwicklung des
+Katalogs nach Satz 5 gelten die Veröffentlichungspflichten nach Absatz
+2 Satz 8 entsprechend. Die Vertragsparteien nach Absatz 2 Satz 1
+berichten dem Bundesministerium für Gesundheit über die Auswirkungen,
+die die Einführung des Pflegebudgets nach § 6a des
+Krankenhausentgeltgesetzes auf die Entwicklung der
+Pflegepersonalstellen und -kosten in den Jahren 2020 bis 2024 hat. Sie
+haben hierzu zum 31. August 2022 einen Zwischenbericht und zum 31.
+August 2025 einen abschließenden Bericht vorzulegen.
+
+(4a) Für die Jahre ab 2025 haben die Vertragsparteien nach Absatz 2
+Satz 1 erstmals bis zum 31. Dezember 2022, hinsichtlich der in den
+Nummern 4 und 5 genannten Berufsgruppen erstmals bis zum 9. Januar
+2025, zu vereinbaren, dass in der eindeutigen bundeseinheitlichen
+Definition der auszugliedernden Pflegepersonalkosten nach Absatz 4
+Satz 2 ausschließlich das Pflegepersonal und die Pflegepersonalkosten
+der folgenden Berufsgruppen zu berücksichtigen sind:
+
+1.  als Pflegefachkräfte Personen, die über die Erlaubnis zum Führen einer
+    Berufsbezeichnung nach § 1 des Pflegeberufegesetzes oder § 58 Absatz 1
+    oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis
+    zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der
+    am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz
+    in der am 31. Dezember 2019 geltenden Fassung nach § 64 des
+    Pflegeberufegesetzes fortgilt,
+
+
+2.  als Pflegehilfskräfte
+
+    a)  Personen, die erfolgreich eine landesrechtlich geregelte Assistenz-
+        oder Helferausbildung in der Pflege von mindestens einjähriger Dauer
+        abgeschlossen haben, die die von der 89. Arbeits- und
+        Sozialministerkonferenz 2012 und der 86. Gesundheitsministerkonferenz
+        2013 als Mindestanforderungen beschlossenen Eckpunkte für die in
+        Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und
+        Helferberufen in der Pflege (BAnz AT 17.02.2016 B3) erfüllt,
+
+
+    b)  (weggefallen)
+
+
+    c)  Personen, denen auf der Grundlage des Krankenpflegegesetzes in der am
+        31\. Dezember 2003 geltenden Fassung eine Erlaubnis als
+        Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist,
+
+
+    d)  Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der
+        Verordnung über die Berufsausbildung zum Medizinischen
+        Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen
+        haben oder eine Qualifikation vorweisen, die dieser Ausbildung
+        entspricht,
+
+
+    e)  Anästhesietechnische Assistentinnen und Anästhesietechnische
+        Assistenten, denen die Erlaubnis zum Führen der Berufsbezeichnung nach
+        § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-
+        Assistenten-Gesetzes erteilt worden ist,
+
+
+    f)  Notfallsanitäterinnen und Notfallsanitäter, denen die Erlaubnis zum
+        Führen einer Berufsbezeichnung nach § 1 Absatz 1 des
+        Notfallsanitätergesetzes erteilt worden ist,
+
+
+
+
+
+3.  als Hebammen Personen mit einer Erlaubnis zum Führen der
+    Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes, auch in
+    Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes,
+
+
+4.  als Auszubildende in der Pflege Personen, die eine berufliche oder
+    hochschulische Ausbildung in einem in Nummer 1 oder Nummer 2 Buchstabe
+    a oder Buchstabe b genannten Beruf absolvieren, in dem Umfang, in dem
+    die betreffenden Kosten der Ausbildungsvergütung nicht nach § 27
+    Absatz 2 des Pflegeberufegesetzes oder nach § 17a Absatz 1 Satz 3
+    Mehrkosten der Ausbildungsvergütungen sind, und
+
+
+5.  als Pflegekräfte im Anerkennungsverfahren Personen, die eine
+    Anpassungsmaßnahme nach § 40 Absatz 3 Satz 2 oder § 41 Absatz 2 Satz 2
+    des Pflegeberufegesetzes absolvieren.
+
+
+
+In der Vereinbarung haben sie auch Regelungen für die Zuordnung von
+Kosten von Pflegepersonal festzulegen, das überwiegend in der
+unmittelbaren Patientenversorgung auf bettenführenden Stationen oder
+in Kreißsälen tätig ist.
+
+(4b) Das Institut für das Entgeltsystem im Krankenhaus hat für jedes
+Kalenderjahr, erstmals für das Kalenderjahr 2026, von den Kosten, die
+den bundeseinheitlichen Bewertungsrelationen nach Satz 3, Absatz 1
+Satz 4 und Absatz 4 Satz 5 zugrunde gelegt werden, die variablen
+Sachkosten abzuziehen (verminderte Kosten) und einen Betrag aus dem
+Vergütungssystem auszugliedern, der einem Anteil von 60 Prozent an den
+verminderten Kosten entspricht. Die nach Absatz 4 Satz 1 aus dem
+Vergütungssystem auszugliedernden Pflegepersonalkosten sind in dem in
+Satz 1 genannten Anteil enthalten; ihre Vergütung bleibt unberührt.
+Bei der Ermittlung der Bewertungsrelationen für die Vergütung eines
+Vorhaltebudgets (Vorhaltebewertungsrelationen) werden die nach Absatz
+4 Satz 1 aus dem Vergütungssystem auszugliedernden
+Pflegepersonalkosten dahingehend berücksichtigt, dass
+
+1.  sie in dem Fall, dass ihr Anteil an den verminderten Kosten weniger
+    als 60 Prozent beträgt, von einem Betrag in Höhe von 60 Prozent der
+    verminderten Kosten abzuziehen sind und der sich ergebende Betrag der
+    jeweiligen Ermittlung zugrunde zu legen ist,
+
+
+2.  in dem Fall, dass ihr Anteil an den verminderten Kosten mindestens 60
+    Prozent beträgt, die jeweilige Vorhaltebewertungsrelation null
+    beträgt.
+
+
+
+Nach Absatz 2 Satz 1 zu berücksichtigende Leistungsverlagerungen zu
+und von anderen Versorgungsbereichen sind bei der Ermittlung der
+Vorhaltebewertungsrelationen zu berücksichtigen. Die
+Vorhaltebewertungsrelationen für Fälle aus den Leistungsgruppen, die
+in der für das jeweilige Kalenderjahr geltenden Vereinbarung nach § 39
+Absatz 2 Satz 2 oder Festlegung nach § 39 Absatz 2 Satz 4 einem der
+Bereiche Pädiatrie, Geburtshilfe, Stroke Unit, Spezielle Traumatologie
+und Intensivmedizin zugeordnet wurden, sind zum Zweck der Abrechnung
+um den nach § 39 Absatz 4 für das jeweilige Kalenderjahr berechneten
+Prozentsatz zu erhöhen und gesondert in dem Entgeltkatalog
+auszuweisen. Die Vertragsparteien nach Absatz 2 Satz 1 haben die
+Ausgliederung nach Satz 1 und die nach den Sätzen 3 und 4 zu
+ermittelnden Vorhaltebewertungsrelationen erstmals in der in Absatz 2
+Satz 1 genannten Vereinbarung für das Kalenderjahr 2026 zu
+berücksichtigen und die Vorhaltebewertungsrelationen erstmals in dem
+Entgeltkatalog für das Kalenderjahr 2026 auszuweisen.
+
+(4c) Das Institut für das Entgeltsystem im Krankenhaus hat die
+Auswirkungen der Einführung der Vergütung eines Vorhaltebudgets nach §
+6b des Krankenhausentgeltgesetzes in den Jahren 2028 bis 2031
+insbesondere hinsichtlich der Veränderung der Versorgungsstrukturen
+und der Qualität der Versorgung zu analysieren und auf der Grundlage
+dieser Analyse Empfehlungen zur Weiterentwicklung der Vergütung eines
+Vorhaltebudgets zu erstellen. Es hat in der Analyse zu prüfen, ob die
+Höhe des nach Absatz 4b Satz 1 auszugliedernden Anteils sachgerecht
+ist, ob die variablen Sachkosten sowie die Kosten von
+Querschnittsaufgaben sachgerecht abgebildet sind, ob durch die
+Ausgestaltung der Vorhaltevergütung unterjährige
+Leistungseinschränkungen eintreten und inwieweit die Vergütung eines
+Vorhaltebudgets an dem bevölkerungsbezogenen Bedarf und
+fallzahlunabhängig ausgerichtet werden kann. Die Ergebnisse seiner
+Analyse und seine Empfehlungen hat das Institut für das Entgeltsystem
+im Krankenhaus dem Bundesministerium für Gesundheit bis zum 31.
+Dezember 2030 in einem Zwischenbericht und bis zum 31. Dezember 2032
+in einem abschließenden Bericht vorzulegen und es hat diese Berichte
+jeweils zeitnah barrierefrei auf seiner Internetseite zu
+veröffentlichen. Die Vertragsparteien nach Absatz 2 Satz 1 haben vor
+der Erstellung der in Satz 3 genannten Berichte Stellung zu nehmen.
+Die Kosten der Aufgaben des Instituts für das Entgeltsystem im
+Krankenhaus nach diesem Absatz werden mit dem DRG-Systemzuschlag nach
+Absatz 5 Satz 1 Nummer 1 finanziert.
+
+(5) Zur Finanzierung der ihnen übertragenen Aufgaben nach den Absätzen
+1 bis 4b sowie § 10 Abs. 2 und § 17d vereinbaren die Vertragsparteien
+nach Absatz 2 Satz 1
+
+1.  einen Zuschlag für jeden abzurechnenden Krankenhausfall, mit dem die
+    Entwicklung, Einführung und laufende Pflege des Vergütungssystems
+    finanziert werden (DRG-Systemzuschlag); der Zuschlag dient der
+    Finanzierung insbesondere der Entwicklung der DRG-Klassifikation und
+    der Kodierregeln, der Ermittlung der Bewertungsrelationen, der
+    Bewertung der Zu- und Abschläge, der Ermittlung der Richtwerte nach §
+    17a Abs. 4b, von pauschalierten Zahlungen für die Teilnahme von
+    Krankenhäusern oder Ausbildungsstätten an der Kalkulation und der
+    Vergabe von Aufträgen, auch soweit die Vertragsparteien die Aufgaben
+    durch das Institut für das Entgeltsystem im Krankenhaus wahrnehmen
+    lassen,
+
+
+2.  Maßnahmen, die sicherstellen, dass die durch den Systemzuschlag
+    erhobenen Finanzierungsbeträge ausschließlich zur Umsetzung der in
+    diesem Absatz genannten Aufgaben verwendet werden,
+
+
+3.  das Nähere zur Weiterleitung der entsprechenden Einnahmen der
+    Krankenhäuser an die Vertragsparteien,
+
+
+4.  kommt eine Vereinbarung nicht zustande, entscheidet auf Antrag einer
+    Vertragspartei die Schiedsstelle nach § 18a Abs. 6.
+
+
+
+Die Vertragsparteien vereinbaren pauschalierte Zahlungen für die
+Teilnahme von Krankenhäusern oder Ausbildungsstätten an der
+Kalkulation, die einen wesentlichen Teil der zusätzlich entstehenden
+Kosten umfassen sollen; sie sollen als fester Grundbetrag je
+Krankenhaus und ergänzend als Finanzierung in Abhängigkeit von Anzahl
+und Qualität der übermittelten Datensätze gezahlt werden. Über die
+Teilnahme des einzelnen Krankenhauses entscheiden prospektiv die
+Vertragsparteien nach Absatz 2 Satz 1 auf Grund der Qualität des
+Rechnungswesens oder der Notwendigkeit der zu erhebenden Daten; ein
+Anspruch auf Teilnahme besteht nicht. Für die Vereinbarungen gilt
+Absatz 2 Satz 6 entsprechend. Ein Einsatz der Finanzmittel zur Deckung
+allgemeiner Haushalte der Vertragsparteien oder zur Finanzierung
+herkömmlicher Verbandsaufgaben im Zusammenhang mit dem
+Vergütungssystem ist unzulässig. Der DRG-Systemzuschlag ist von den
+Krankenhäusern je voll- und teilstationärem Krankenhausfall dem
+selbstzahlenden Patienten oder dem jeweiligen Kostenträger zusätzlich
+zu den tagesgleichen Pflegesätzen oder einer Fallpauschale in Rechnung
+zu stellen; er ist an die Vertragsparteien oder eine von ihnen
+benannte Stelle abzuführen. Der Zuschlag unterliegt nicht der
+Begrenzung der Pflegesätze durch § 10 Absatz 4 des
+Krankenhausentgeltgesetzes oder § 10 Absatz 3 der
+Bundespflegesatzverordnung; er geht nicht in den Gesamtbetrag und die
+Erlösausgleiche nach dem Krankenhausentgeltgesetz oder der
+Bundespflegesatzverordnung ein.
+
+(6) (weggefallen)
+
+(7) Kommt eine in dieser Vorschrift genannte Vereinbarung nicht oder
+teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei
+die Schiedsstelle nach § 18a Absatz 6.
+
+(7a) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
+Unterlagen, die von den Krankenhäusern für die Budgetverhandlungen
+vorzulegen sind, zu erlassen.
+
+(8) Die Vertragsparteien nach Absatz 2 führen eine Begleitforschung zu
+den Auswirkungen des neuen Vergütungssystems, insbesondere zur
+Veränderung der Versorgungsstrukturen und zur Qualität der Versorgung,
+durch; dabei sind auch die Auswirkungen auf die anderen
+Versorgungsbereiche sowie die Art und der Umfang von
+Leistungsverlagerungen zu untersuchen. Sie schreiben dazu
+Forschungsaufträge aus und beauftragen das Institut für das
+Entgeltsystem im Krankenhaus, insbesondere die Daten nach § 21 des
+Krankenhausentgeltgesetzes auszuwerten. Die Kosten dieser
+Begleitforschung werden mit dem DRG-Systemzuschlag nach Absatz 5
+finanziert. Die Begleitforschung ist mit dem Bundesministerium für
+Gesundheit abzustimmen.
+
+(9) (weggefallen)
+
+(10) Über die nach Absatz 1 Satz 11 vorzunehmende vertiefte Prüfung
+von Kostenausreißern hinausgehend beauftragen die Vertragsparteien
+nach Absatz 2 bis zum 31. Dezember 2013 das Institut für das
+Entgeltsystem im Krankenhaus mit der Festlegung von Kriterien zur
+Ermittlung von Kostenausreißern und einer auf dieser Grundlage
+erfolgenden systematischen Prüfung, in welchem Umfang Krankenhäuser
+mit Kostenausreißern belastet sind. Das Institut für das Entgeltsystem
+im Krankenhaus entwickelt ein Regelwerk für Fallprüfungen bei
+Krankenhäusern, die an der DRG-Kalkulation teilnehmen. Zur
+sachgerechten Beurteilung der Kostenausreißer hat das Institut für das
+Entgeltsystem im Krankenhaus von den an der Kalkulation teilnehmenden
+Krankenhäusern über den Kalkulationsdatensatz hinausgehende
+detaillierte fallbezogene Kosten- und Leistungsdaten zu erheben. Das
+Institut für das Entgeltsystem im Krankenhaus veröffentlicht die
+Prüfergebnisse jährlich im Rahmen eines Extremkostenberichts, erstmals
+bis zum 31. Dezember 2014. In dem Bericht sind auch die Gründe von
+Kostenausreißerfällen und Belastungsunterschieden zwischen
+Krankenhäusern darzulegen. Auf der Grundlage des Berichts sind
+geeignete Regelungen für eine sachgerechte Vergütung von
+Kostenausreißern im Rahmen des Entgeltsystems zu entwickeln und durch
+die Vertragsparteien nach Absatz 2 zu vereinbaren.
 
 
 ### § 17c Prüfung der Abrechnung von Pflegesätzen, Statistik
@@ -1192,6 +2972,138 @@ eine Stellungnahme des Medizinischen Dienstes Bund einzubeziehen. Die
 in Satz 1 genannten Vertragsparteien haben gemeinsam zur Erstellung
 des Berichts fachlich unabhängige wissenschaftliche Einrichtungen oder
 Sachverständige zu beauftragen.
+
+
+### § 17d Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004508130)
+
+(1) Für die Vergütung der allgemeinen Krankenhausleistungen von
+Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten
+Abteilungen an somatischen Krankenhäusern für die Fachgebiete
+Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie und
+-psychotherapie (psychiatrische Einrichtungen) sowie Psychosomatische
+Medizin und Psychotherapie (psychosomatische Einrichtungen) ist ein
+durchgängiges, leistungsorientiertes und pauschalierendes
+Vergütungssystem auf der Grundlage von tagesbezogenen Entgelten
+einzuführen. Dabei ist zu prüfen, ob für bestimmte Leistungsbereiche
+andere Abrechnungseinheiten eingeführt werden können. Ebenso ist zu
+prüfen, inwieweit auch die im Krankenhaus ambulant zu erbringenden
+Leistungen der psychiatrischen Institutsambulanzen nach § 118 des
+Fünften Buches Sozialgesetzbuch einbezogen werden können. Das
+Vergütungssystem hat den unterschiedlichen Aufwand der Behandlung
+bestimmter, medizinisch unterscheidbarer Patientengruppen abzubilden;
+dabei muss unter Berücksichtigung des Einsatzzwecks des
+Vergütungssystems als Budgetsystem sein Differenzierungsgrad
+praktikabel und der Dokumentationsaufwand auf das notwendige Maß
+begrenzt sein. Die Bewertungsrelationen sind als Relativgewichte zu
+definieren. Die Definition der Entgelte und ihre Bewertungsrelationen
+sind bundeseinheitlich festzulegen. Die Bewertungsrelationen werden
+auf der Grundlage der Kosten einer sachgerechten und repräsentativen
+Auswahl von psychiatrischen und psychosomatischen Einrichtungen
+kalkuliert, die ab dem 1. Januar 2020 die vom Gemeinsamen
+Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
+Sozialgesetzbuch festgelegten Anforderungen erfüllen sollen; § 17b
+Absatz 3 Satz 4 und 5 und Absatz 3a ist entsprechend anzuwenden.
+Soweit an der Kalkulation teilnehmende Einrichtungen die vom
+Gemeinsamen Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
+Sozialgesetzbuch festgelegten Anforderungen nicht erfüllen, haben die
+Vertragsparteien nach § 17b Absatz 2 Satz 1 eine geeignete
+Übergangsfrist zu bestimmen. Vor dem 1. Januar 2020 soll für die
+Kalkulation eine umfassende Umsetzung der Vorgaben der Psychiatrie-
+Personalverordnung zur Zahl der Personalstellen erfolgen. Für die
+Dauer einer Übergangsfrist nach Satz 8 gelten die bisherigen Vorgaben
+der Psychiatrie-Personalverordnung zur Personalausstattung weiter. Zur
+sachgerechten Abbildung der Kosten von telekonsiliarärztlichen
+Leistungen haben die Vertragsparteien nach § 17b Absatz 2 Satz 1 auf
+der Grundlage eines Konzepts des Instituts für das Entgeltsystem im
+Krankenhaus spätestens bis zum 30. September 2024 Entgelte zu
+vereinbaren.
+
+(2) Mit den Entgelten nach Absatz 1 werden die voll- und
+teilstationären sowie stationsäquivalenten allgemeinen
+Krankenhausleistungen vergütet. Soweit dies zur Ergänzung der Entgelte
+in eng begrenzten Ausnahmefällen erforderlich ist, können die
+Vertragsparteien nach Absatz 3 Zusatzentgelte und deren Höhe
+vereinbaren. Entgelte für Leistungen, die auf Bundesebene nicht
+bewertet worden sind, werden durch die Vertragsparteien nach § 18 Abs.
+2 vereinbart. Die Vorgaben des § 17b Absatz 1a für Zu- und Abschläge
+gelten entsprechend. Für die Finanzierung der Sicherstellung einer für
+die Versorgung der Bevölkerung notwendigen Vorhaltung von Leistungen
+gelten § 17b Absatz 1a Nummer 6 und § 5 Abs. 2 des
+Krankenhausentgeltgesetzes entsprechend. Im Rahmen von Satz 4 ist auch
+die Vereinbarung von Regelungen für Zu- oder Abschläge für die
+Teilnahme an der regionalen Versorgungsverpflichtung zu prüfen.
+
+(3) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 vereinbaren nach den
+Vorgaben der Absätze 1, 2 und 4 das Entgeltsystem, seine grundsätzlich
+jährliche Weiterentwicklung und Anpassung, insbesondere an
+medizinische Entwicklungen, Veränderungen der Versorgungsstrukturen
+und Kostenentwicklungen, und die Abrechnungsbestimmungen, soweit diese
+nicht gesetzlich vorgegeben werden. Es ist ein gemeinsames
+Entgeltsystem zu entwickeln; dabei ist von den Daten nach Absatz 9 und
+für Einrichtungen, die die Psychiatrie-Personalverordnung anwenden,
+zusätzlich von den Behandlungsbereichen nach der Psychiatrie-
+Personalverordnung auszugehen. Mit der Durchführung der
+Entwicklungsaufgaben beauftragen die Vertragsparteien das Institut für
+das Entgeltsystem im Krankenhaus. § 17b Abs. 2 Satz 2 bis 8 ist
+entsprechend anzuwenden. Zusätzlich ist der
+Bundespsychotherapeutenkammer Gelegenheit zur beratenden Teilnahme an
+den Sitzungen zu geben, soweit psychotherapeutische und
+psychosomatische Fragen betroffen sind.
+
+(4) Die Vertragsparteien auf Bundesebene vereinbaren die
+Grundstrukturen des Vergütungssystems sowie des Verfahrens zur
+Ermittlung der Bewertungsrelationen auf Bundesebene, insbesondere zur
+Kalkulation in einer sachgerechten Auswahl von Krankenhäusern. Nach
+Maßgabe der Sätze 3 bis 6 ersetzt das neue Vergütungssystem die bisher
+abgerechneten Entgelte nach § 17 Absatz 2. Das Vergütungssystem wird
+bis zum 1. Januar 2017 auf Verlangen des Krankenhauses eingeführt. Das
+Krankenhaus hat sein Verlangen zum Zeitpunkt der Aufforderung zur
+Verhandlung durch die Sozialleistungsträger den anderen
+Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer 2 schriftlich
+oder elektronisch mitzuteilen. Verbindlich für alle Krankenhäuser wird
+das Vergütungssystem zum 1. Januar 2018 eingeführt. Bis Ende des
+Jahres 2019 wird das Vergütungssystem für die Krankenhäuser
+budgetneutral umgesetzt. Ab dem Jahr 2020 sind der
+krankenhausindividuelle Basisentgeltwert und der Gesamtbetrag nach den
+näheren Bestimmungen der Bundespflegesatzverordnung von den
+Vertragsparteien nach § 18 Absatz 2 anzupassen. Die Vertragsparteien
+auf Bundesebene legen dem Bundesministerium für Gesundheit bis zum 30.
+Juni 2019 einen gemeinsamen Bericht über die Auswirkungen des neuen
+Entgeltsystems, die ersten Anwendungserfahrungen mit dem neuen
+Entgeltsystem sowie über die Anzahl von Modellvorhaben nach § 64b des
+Fünften Buches Sozialgesetzbuch und über die ersten Erkenntnisse zu
+diesen Modellvorhaben vor. In den Bericht sind die Stellungnahmen der
+Fachverbände der Psychiatrie und Psychosomatik einzubeziehen. Das
+Bundesministerium für Gesundheit legt den Bericht dem Deutschen
+Bundestag vor.
+
+(5) Für die Finanzierung der den Vertragsparteien auf Bundesebene
+übertragenen Aufgaben gilt § 17b Abs. 5 entsprechend. Die
+erforderlichen Finanzierungsmittel sind mit dem DRG-Systemzuschlag zu
+erheben; dieser ist entsprechend zu erhöhen.
+
+(6) Kommt eine in dieser Vorschrift genannte Vereinbarung nicht oder
+teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei
+die Schiedsstelle nach § 18a Absatz 6.
+
+(7) Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
+Unterlagen, die von den Krankenhäusern für die Budgetverhandlungen
+vorzulegen sind, zu erlassen.
+
+(8) Die Vertragsparteien auf Bundesebene führen eine Begleitforschung
+zu den Auswirkungen des neuen Vergütungssystems, insbesondere zur
+Veränderung der Versorgungsstrukturen und zur Qualität der Versorgung,
+durch. Dabei sind auch die Auswirkungen auf die anderen
+Versorgungsbereiche sowie die Art und der Umfang von
+Leistungsverlagerungen zu untersuchen. § 17b Abs. 8 Satz 2 bis 4 gilt
+entsprechend. Erste Ergebnisse sind im Jahr 2017 zu veröffentlichen.
+
+(9) Für Einrichtungen nach Absatz 1 Satz 1 gilt § 21 des
+Krankenhausentgeltgesetzes mit der Maßgabe, dass die Daten nach seinem
+Absatz 2 Nr. 1 Buchstabe a und e und Nr. 2 Buchstabe a bis h zu
+übermitteln sind.
 
 
 ### § 18 Pflegesatzverfahren
@@ -2163,6 +4075,10 @@ regeln. Ist der Nachweis eines Strukturmerkmals wegen der Vorgaben in
 Satz 1 nicht zu erbringen, darf der Medizinische Dienst nicht nach §
 275a Absatz 1 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch
 prüfen, ob das Krankenhaus dieses Strukturmerkmal erfüllt.
+
+
+### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004104130)
 
 
 ### § 26a Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
@@ -3293,7 +5209,746 @@ Instituts in Kenntnis. Die Aufwendungen des Instituts werden durch den
 Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
 
 
+#### § 37 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit der Ermittlung der Vergütung eines Vorhaltebudgets
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007302130)
+
+(1) Das Institut für das Entgeltsystem im Krankenhaus ermittelt
+Vorhaltevolumina als Summe von Vorhaltebewertungsrelationen nach den
+folgenden Vorschriften. Das Institut für das Entgeltsystem im
+Krankenhaus hat bis zum 30. November eines jeden Kalenderjahres für
+die Ermittlung des Vorhaltevolumens für ein Land für das jeweils
+folgende Kalenderjahr die nach § 6a Absatz 6 Satz 1 in dem jeweiligen
+Kalenderjahr übermittelten Daten und die nach § 21 Absatz 1 und 2
+Nummer 2 des Krankenhausentgeltgesetzes für das jeweils vorhergehende
+Kalenderjahr übermittelten Leistungsdaten zu Krankenhausfällen in dem
+jeweiligen Land, die auf der Grundlage von bundeseinheitlichen
+Bewertungsrelationen vergütet wurden oder die in dem jeweiligen
+Kalenderjahr, für das die Ermittlung erfolgt, aufgrund einer nach § 11
+Absatz 7 Nummer 1 des Krankenhausentgeltgesetzes erfolgten Mitteilung
+auf der Grundlage von bundeseinheitlichen Bewertungsrelationen
+vergütet werden, zugrunde zu legen und diesen Krankenhausfällen die
+Vorhaltebewertungsrelationen für das jeweilige Kalenderjahr, für das
+die Ermittlung erfolgt, zuzuordnen; bei dieser Ermittlung nicht zu
+berücksichtigen sind die folgenden Krankenhausfälle:
+
+1.  die Krankenhausfälle von Krankenhausstandorten, für die nach § 6a
+    Absatz 6 Satz 1 Nummer 5 die Angabe übermittelt wurde, dass sie als
+    sektorenübergreifende Versorgungseinrichtung bestimmt wurden,
+
+
+2.  die Krankenhausfälle von Bundeswehrkrankenhäusern, soweit die
+    Krankenhausfälle nicht die Behandlung von Zivilpatientinnen oder
+    Zivilpatienten betreffen,
+
+
+3.  die Krankenhausfälle von Krankenhäusern der Träger der gesetzlichen
+    Unfallversicherung, soweit die Kosten der Krankenhausfälle von der
+    gesetzlichen Unfallversicherung getragen werden, und
+
+
+4.  die Krankenhausfälle, in denen Leistungen erbracht werden, die in dem
+    jeweiligen Kalenderjahr, für das die Ermittlung erfolgt,
+    voraussichtlich nach § 115f des Fünften Buches Sozialgesetzbuch
+    vergütet werden, und
+
+
+5.  die Krankenhausfälle, die in dem jeweiligen Kalenderjahr, für das die
+    Ermittlung erfolgt, aufgrund einer nach § 11 Absatz 7 Nummer 2 des
+    Krankenhausentgeltgesetzes erfolgten Mitteilung mit in § 6 Absatz 3
+    Satz 1 des Krankenhausentgeltgesetzes genannten
+    krankenhausindividuellen Entgelten für besondere Einrichtungen
+    vergütet werden.
+
+
+
+Das nach Satz 2 für das jeweils folgende Kalenderjahr ermittelte
+Vorhaltevolumen für ein Land ist auf Leistungsgruppen nach dem
+Verhältnis der Summe der Vorhaltebewertungsrelationen derjenigen
+Krankenhausfälle in dem jeweiligen Land, in denen Leistungen aus der
+jeweiligen Leistungsgruppe erbracht wurden, und der Summe aller
+Vorhaltebewertungsrelationen des jeweiligen Landes rechnerisch
+aufzuteilen; die für die rechnerische Aufteilung der Vorhaltevolumina
+maßgeblichen Leistungsgruppen bestimmen sich nach den nach § 6a Absatz
+6 Satz 1 in dem jeweiligen Kalenderjahr übermittelten Daten und in
+einem Land, in dem bis zum 31. Dezember 2024 Leistungsgruppen nach
+landesrechtlichen Vorschriften zugewiesen worden sind, zusätzlich nach
+den Leistungsgruppen, deren Bezeichnung einer nach § 135e Absatz 2
+Satz 2 des Fünften Buches Sozialgesetzbuch maßgeblichen
+Leistungsgruppe entspricht und die in diesem Land keinem Krankenhaus
+für einen Krankenhausstandort zugewiesen worden sind. Das sich nach
+Satz 3 für eine Leistungsgruppe und für ein Land ergebende
+Vorhaltevolumen ist entsprechend dem jeweiligen nach Absatz 2 Satz 2
+oder 5 ermittelten Anteil rechnerisch aufzuteilen auf die
+Krankenhausstandorte in dem jeweiligen Land, für die Krankenhäusern
+die jeweilige Leistungsgruppe nach § 6a Absatz 1 Satz 1 zugewiesen
+worden ist, oder, wenn in dem jeweiligen Land, in dem bis zum 31.
+Dezember 2024 Leistungsgruppen nach landesrechtlichen Vorschriften
+zugewiesen worden sind, keinem Krankenhaus für einen
+Krankenhausstandort eine Leistungsgruppe zugewiesen worden ist, deren
+Bezeichnung einer nach § 135e Absatz 2 Satz 2 des Fünften Buches
+Sozialgesetzbuch maßgeblichen Leistungsgruppe entspricht, auf die
+Krankenhausstandorte in dem jeweiligen Land, von denen im
+vorangegangenen Kalenderjahr Fälle durch die Krankenhäuser auf Basis
+einer für dieses Kalenderjahr geltenden nach § 21 Absatz 3c Satz 1 des
+Krankenhausentgeltgesetzes zertifizierten Datenverarbeitungslösung
+dieser Leistungsgruppe zugeordnet worden sind. Das Institut für das
+Entgeltsystem im Krankenhaus erstellt bis zum 30. September 2025 ein
+Konzept zur Vorgehensweise bei der Ermittlung des Vorhaltevolumens für
+ein Land, eine Leistungsgruppe und einen Krankenhausstandort und
+aktualisiert dieses, soweit dies erforderlich ist; es veröffentlicht
+dieses Konzept und spätere Aktualisierungen barrierefrei auf seiner
+Internetseite. Abweichend von Satz 2 erster Halbsatz hat das Institut
+für das Entgeltsystem im Krankenhaus für die Ermittlung des
+Vorhaltevolumens für ein Land für die Kalenderjahre 2026 bis 2029
+jeweils anstelle der nach § 21 Absatz 1 und 2 Nummer 2 des
+Krankenhausentgeltgesetzes für das jeweils vorhergehende Kalenderjahr
+übermittelten Leistungsdaten zu Krankenhausfällen in dem jeweiligen
+Land, die auf der Grundlage von bundeseinheitlichen
+Bewertungsrelationen vergütet wurden, die nach § 21 Absatz 1 und 2
+Nummer 2 des Krankenhausentgeltgesetzes für das Kalenderjahr 2024
+übermittelten Leistungsdaten zu Krankenhausfällen in dem jeweiligen
+Land, die auf der Grundlage von bundeseinheitlichen
+Bewertungsrelationen vergütet wurden, zugrunde zu legen und diesen
+Krankenhausfällen die Vorhaltebewertungsrelationen für das jeweilige
+Kalenderjahr, für das die Ermittlung erfolgt, zuzuordnen. Das Institut
+für das Entgeltsystem im Krankenhaus hat das Nähere zur Ermittlung der
+Vorhaltevolumina für die Kalenderjahre 2026 bis 2029 in dem nach Satz
+5 zu erstellenden Konzept festzulegen.
+
+(2) Das Institut für das Entgeltsystem im Krankenhaus ermittelt auf
+der Grundlage der für das jeweilige Kalenderjahr und das jeweilige
+Land nach § 6a Absatz 6 Satz 1 übermittelten Daten für jeden
+Krankenhausstandort in diesem Land, dessen Leistungen nach dem
+Krankenhausentgeltgesetz vergütet werden, für den die jeweilige
+Leistungsgruppe nach § 6a Absatz 1 Satz 1 zugewiesen wurde und der in
+dem jeweiligen Kalenderjahr, für das die Ermittlung erfolgt, nicht
+nach § 17b Absatz 1 Satz 10 als besondere Einrichtung aus dem
+Vergütungssystem ausgenommen ist, den Anteil des jeweiligen
+Krankenhausstandorts am Vorhaltevolumen des Landes für die jeweilige
+Leistungsgruppe, wenn das Krankenhaus, zu dem der jeweilige
+Krankenhausstandort gehört, für diesen Krankenhausstandort die
+jeweilige Mindestvorhaltezahl nach § 135f Absatz 1 des Fünften Buches
+Sozialgesetzbuch erfüllt oder für das jeweilige Krankenhaus und die
+jeweilige Leistungsgruppe eine Feststellung nach § 6b Absatz 2 Satz 1
+des Krankenhausentgeltgesetzes getroffen wurde. Der in Satz 1 genannte
+Anteil ergibt sich, indem die nach Satz 3 oder Satz 7 zu
+berücksichtigende Anzahl der Fälle des jeweiligen
+Krankenhausstandorts, in denen Leistungen aus der jeweiligen
+Leistungsgruppe erbracht wurden, mit dem nach Satz 4 zu ermittelnden
+Durchschnitt seiner Vorhaltebewertungsrelationen (Vorhalte-
+Casemixindex) in der jeweiligen Leistungsgruppe multipliziert und das
+Produkt durch die Summe aller für sämtliche Krankenhausstandorte des
+jeweiligen Landes in der jeweiligen Leistungsgruppe entsprechend
+berechneten Produkte geteilt wird. Bei der in Satz 2 genannten
+Berechnung ist als Anzahl der Fälle eines Krankenhausstandorts zu
+berücksichtigen
+
+1.  die jeweilige Planfallzahl, wenn diese nach § 6a Absatz 6 Satz 1
+    Nummer 1 übermittelt wurde,
+
+
+2.  anderenfalls die Anzahl der mit bundeseinheitlichen
+    Bewertungsrelationen vergüteten Fälle dieses Krankenhausstandorts, für
+    die für das jeweils vorangegangene Kalenderjahr Leistungsdaten nach §
+    21 Absatz 1 und 2 Nummer 2 des Krankenhausentgeltgesetzes übermittelt
+    wurden, wobei für die an einer Leistungsverlagerung im Sinne des §
+    135f Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch beteiligten
+    Krankenhausstandorte jeweils die Anzahl der von der
+    Leistungsverlagerung betroffenen Fälle erhöhend oder absenkend zu
+    berücksichtigen ist, oder
+
+
+3.  abweichend von Nummer 2 die nach § 135f Absatz 4 des Fünften Buches
+    Sozialgesetzbuch festgelegte Mindestvorhaltezahl der jeweiligen
+    Leistungsgruppe, sofern die unter Nummer 2 genannte Anzahl der Fälle
+    niedriger ist als diese Mindestvorhaltezahl und der
+    Krankenhausstandort in die Liste nach § 9 Absatz 1a Nummer 6 des
+    Krankenhausentgeltgesetzes aufgenommen ist.
+
+
+
+Der Vorhalte-Casemixindex ist aus den nach § 21 Absatz 1 und 2 Nummer
+2 des Krankenhausentgeltgesetzes für das jeweils vorangegangene
+Kalenderjahr übermittelten Leistungsdaten zu ermitteln, indem die
+Summe der Vorhaltebewertungsrelationen durch die Anzahl der Fälle
+dividiert wird; die Vorhaltebewertungsrelationen der Fälle,
+hinsichtlich derer nach Satz 3 Nummer 2 Leistungsverlagerungen zu
+berücksichtigen sind, sind bei der Ermittlung des Vorhalte-
+Casemixindexes der betreffenden Krankenhausstandorte erhöhend oder
+absenkend zu berücksichtigen. In dem Fall, dass das jeweilige
+Krankenhaus in einem Kalenderjahr erstmals Leistungen aus einer
+Leistungsgruppe erbringt, ist Satz 2 für die folgenden Kalenderjahre
+bis zur nächsten nach Satz 7 durchgeführten Ermittlung mit der Maßgabe
+anzuwenden, dass an die Stelle des dort genannten Produkts das Produkt
+der nach § 6a Absatz 6 Satz 1 Nummer 1 übermittelten Planfallzahl und
+des Durchschnitts der Vorhalte-Casemixindizes der jeweiligen
+Leistungsgruppe aller betreffenden Krankenhausstandorte im jeweiligen
+Land tritt. Die Ermittlung des in Satz 1 genannten Anteils nach Satz 2
+oder Satz 5 bezogen auf ein Land ist erstmals bis zum 30. November des
+Kalenderjahres, in dem das jeweilige Land erstmals Daten nach § 6a
+Absatz 6 Satz 1 übermittelt, durchzuführen; die Ermittlung ist
+anschließend bis zum 30. November des übernächsten Kalenderjahres und
+sodann in einem Abstand von drei Jahren jeweils bis zum 30. November
+eines Kalenderjahres durchzuführen. Außer bei der erstmaligen
+Ermittlung des in Satz 1 genannten Anteils ist Satz 3 Nummer 2 mit der
+Maßgabe anzuwenden, dass anstelle der dort genannten Anzahl die bei
+der jeweils vorangegangenen Ermittlung des in Satz 1 genannten Anteils
+berücksichtigte Anzahl der Fälle erneut zu berücksichtigen ist, wenn
+nicht
+
+1.  bei der jeweils vorangegangenen Ermittlung des in Satz 1 genannten
+    Anteils als Anzahl der Fälle nach Satz 3 Nummer 1 eine Planfallzahl
+    berücksichtigt wurde oder
+
+
+2.  die jeweils aktuellste Anzahl der mit bundeseinheitlichen
+    Bewertungsrelationen vergüteten Fälle des betreffenden
+    Krankenhausstandorts, für die nach § 21 Absatz 1 und 2 Nummer 2 des
+    Krankenhausentgeltgesetzes Leistungsdaten übermittelt wurden, um mehr
+    als 20 Prozent von der bei der jeweils vorangegangenen Ermittlung des
+    in Satz 1 genannten Anteils berücksichtigten Anzahl der Fälle
+    abweicht, wobei für die an einer Leistungsverlagerung im Sinne des §
+    135f Absatz 1 Satz 2 des Fünften Buches Sozialgesetzbuch beteiligten
+    Krankenhausstandorte jeweils die Anzahl der von der
+    Leistungsverlagerung betroffenen Fälle erhöhend oder absenkend zu
+    berücksichtigen ist.
+
+
+
+Wenn in einem Kalenderjahr, in dem für ein Land nach Satz 6 keine
+Ermittlung des in Satz 1 genannten Anteils durchzuführen ist, eine
+Vorgabe nach § 6a Absatz 1 Satz 2 zweiter Halbsatz erfolgt, ein in §
+6a Absatz 6 Satz 1 Nummer 2 bis 5 genanntes Ereignis in diesem Land
+eintritt oder nach § 135f Absatz 4 des Fünften Buches Sozialgesetzbuch
+für eine Leistungsgruppe eine Mindestvorhaltezahl erstmals festgelegt
+oder geändert wird, ist für die betroffenen Leistungsgruppen für
+dieses Land und für die an dieses Land angrenzenden Länder für
+sämtliche Krankenhausstandorte, an denen Leistungen aus den
+betroffenen Leistungsgruppen erbracht werden, abweichend von Satz 6
+eine Ermittlung des in Satz 1 genannten Anteils auch in diesem
+Kalenderjahr durchzuführen. Wenn in einem Land, in dem bis zum 31.
+Dezember 2024 Leistungsgruppen nach landesrechtlichen Vorschriften
+zugewiesen worden sind, keinem Krankenhaus für einen
+Krankenhausstandort eine Leistungsgruppe zugewiesen worden ist, deren
+Bezeichnung einer nach § 135e Absatz 2 Satz 2 des Fünften Buches
+Sozialgesetzbuch maßgeblichen Leistungsgruppe entspricht, ermittelt
+das Institut für das Entgeltsystem im Krankenhaus auch für diejenigen
+Krankenhausstandorte, von denen im vorangegangenen Kalenderjahr Fälle
+durch die Krankenhäuser auf Basis einer für dieses Kalenderjahr
+geltenden nach § 21 Absatz 3c Satz 1 des Krankenhausentgeltgesetzes
+zertifizierten Datenverarbeitungslösung dieser Leistungsgruppe
+zugeordnet worden sind, ihren jeweiligen Anteil am Vorhaltevolumen
+dieses Landes für diese Leistungsgruppe nach den Sätzen 2 bis 8; die
+Ermittlung ist auch durchzuführen, wenn die jeweilige
+Mindestvorhaltezahl nach § 135f Absatz 1 des Fünften Buches
+Sozialgesetzbuch nicht erfüllt ist.
+
+(3) Das Institut für das Entgeltsystem im Krankenhaus addiert für
+jedes Krankenhaus sämtliche für seine Krankenhausstandorte nach Absatz
+1 Satz 1 und 2 ermittelten und nach Absatz 1 Satz 3 und 4 aufgeteilten
+Vorhaltevolumina jeweils für das Kalenderjahr 2028 und das
+Kalenderjahr 2029. Die jeweilige sich nach Satz 1 ergebende Summe ist
+jeweils von der Summe aller für das Kalenderjahr 2027 vereinbarten und
+genehmigten Vorhaltebewertungsrelationen des jeweiligen Krankenhauses
+abzuziehen und die sich jeweils ergebende Differenz ist für das
+Kalenderjahr 2028 mit 66 Prozent und für das Kalenderjahr 2029 mit 33
+Prozent zu multiplizieren. Die nach Satz 2 ermittelten Ergebnisse für
+die Krankenhäuser eines Landes sind von dem Institut für das
+Entgeltsystem im Krankenhaus für jedes Land jeweils für das
+Kalenderjahr 2028 und das Kalenderjahr 2029 unter Beachtung des
+Vorzeichens zu saldieren. Für jedes Land ist das jeweilige
+Vorhaltevolumen bei der Ermittlung nach Absatz 1 Satz 2 für das
+jeweils folgende Kalenderjahr um den sich nach Satz 3 für das
+jeweilige Land ergebenden Saldo abzusenken, wenn dieser negativ ist,
+und um den sich nach Satz 3 für das jeweilige Land ergebenden Saldo zu
+erhöhen, wenn dieser positiv ist.
+
+(4) Wenn während eines Kalenderjahres in einem Land ein in § 6a Absatz
+6 Satz 1 Nummer 2 oder 3 genanntes Ereignis eintritt, hat das Institut
+für das Entgeltsystem im Krankenhaus für das Folgejahr das
+Vorhaltevolumen nach Absatz 1 Satz 3 in der betroffenen
+Leistungsgruppe oder in den betroffenen Leistungsgruppen in dem Land
+zu erhöhen. Der Umfang der in Satz 1 genannten Erhöhung ergibt sich,
+indem die Summe der sich nach Absatz 1 Satz 4 ergebenden
+Vorhaltevolumina für die in Satz 1 genannten Leistungsgruppen der
+Krankenhausstandorte derjenigen Krankenhäuser, die von dem in Satz 1
+genannten Ereignis betroffen sind, durch 365 geteilt und mit der Zahl
+der Kalendertage multipliziert wird, die zwischen dem in Satz 1
+genannten Ereignis und dem Ende des Kalenderjahres lagen, in dem
+dieses Ereignis eingetreten ist. Wenn eine Mitteilung nach § 6a Absatz
+6 Satz 3 erfolgt, hat das Institut für das Entgeltsystem im
+Krankenhaus für das Folgejahr das Vorhaltevolumen nach Absatz 1 Satz 3
+in der betroffenen Leistungsgruppe oder in den betroffenen
+Leistungsgruppen in dem Land abzusenken. Der Umfang der in Satz 3
+genannten Absenkung entspricht dem nach Absatz 6 Satz 4 ermittelten
+Vorhaltevolumen je Leistungsgruppe.
+
+(5) Das Institut für das Entgeltsystem im Krankenhaus stellt bis zum
+10\. Dezember eines jeden Kalenderjahres für das jeweils folgende
+Kalenderjahr, erstmals bis zum 10. Dezember 2027 für das Kalenderjahr
+2028, durch Bescheid gegenüber dem jeweiligen Krankenhausträger für
+seine Krankenhausstandorte die Höhe der nach Absatz 1 Satz 1 und 2
+ermittelten und nach Absatz 1 Satz 3 und 4 aufgeteilten
+Vorhaltevolumina je Leistungsgruppe sowie die Höhe der nach § 39
+Absatz 3 Satz 5 aufgeteilten Beträge fest. Übermittelt die für die
+Krankenhausplanung zuständige Landesbehörde nach § 6a Absatz 6 Satz 2
+die in § 6a Absatz 6 Satz 1 genannten Daten, so hat das Institut für
+das Entgeltsystem im Krankenhaus dem jeweiligen Krankenhausträger für
+seine Krankenhausstandorte, die in dem jeweiligen Land liegen,
+innerhalb der folgenden Fristen für die folgenden Kalenderjahre eine
+Information über die Höhe der nach Absatz 1 Satz 1 und 2 ermittelten
+und nach Absatz 1 Satz 3 und 4 aufgeteilten Vorhaltevolumina je
+Leistungsgruppe zu übermitteln:
+
+1.  bis zum 28. Februar 2026 für das Kalenderjahr 2026, wenn die
+    Übermittlung nach § 6a Absatz 6 Satz 2 Nummer 1 erfolgt, und
+
+
+2.  bis zum 28. Februar 2027 für das Kalenderjahr 2027, wenn die
+    Übermittlung nach § 6a Absatz 6 Satz 2 Nummer 2 erfolgt.
+
+
+
+Wenn während eines Kalenderjahres ein in § 6a Absatz 6 Satz 1 Nummer 2
+oder 3 genanntes Ereignis eintritt, ist der Bescheid nach Satz 1 für
+jeden Krankenhausträger, der von dem Ereignis betroffen ist, mit
+Wirkung zum Zeitpunkt des Eintritts des Ereignisses in dem durch Satz
+4 bestimmten Umfang zu widerrufen. Der Umfang des nach Satz 3 zu
+widerrufenden Teils des Bescheides nach Satz 1 ergibt sich, indem für
+den jeweiligen Krankenhausträger die Summe der nach Absatz 1 Satz 1
+und 2 ermittelten und nach Absatz 1 Satz 3 und 4 auf die betroffenen
+Leistungsgruppen und die betroffenen Krankenhausstandorte aufgeteilten
+Vorhaltevolumina und die Summe der nach § 39 Absatz 3 Satz 5 auf die
+betroffenen Leistungsgruppen und die betroffenen Krankenhausstandorte
+aufgeteilten Beträge jeweils durch 365 geteilt und jeweils mit der
+Zahl der Kalendertage multipliziert wird, die zwischen dem in Satz 3
+genannten Ereignis und dem Ende des Kalenderjahres lagen, in dem
+dieses Ereignis eingetreten ist. Das Institut für das Entgeltsystem im
+Krankenhaus veröffentlicht für jeden Krankenhausträger jeweils
+unverzüglich nach dem Erlass eines Bescheides nach Satz 1, nach der
+Übermittlung einer Information nach Satz 2 sowie nach dem Widerruf
+eines Bescheides nach Satz 3 die sich hiernach ergebende Höhe der nach
+Absatz 1 Satz 1 und 2 ermittelten und nach Absatz 1 Satz 3 und 4 auf
+die Krankenhausstandorte dieses Krankenhausträgers aufgeteilten
+Vorhaltevolumina je Leistungsgruppe sowie die Höhe der nach § 39
+Absatz 3 Satz 5 auf die Krankenhausstandorte dieses Krankenhausträgers
+aufgeteilten Förderbeträge barrierefrei auf seiner Internetseite.
+
+(6) Wenn eine Mitteilung nach § 6a Absatz 6 Satz 3 und 4 erfolgt, hat
+das Institut für das Entgeltsystem im Krankenhaus für jede nach § 6a
+Absatz 6 Satz 3 und 4 mitgeteilte Leistungsgruppe des betroffenen
+Krankenhausstandorts ein Vorhaltevolumen nach den folgenden Sätzen zu
+ermitteln. Das Institut für das Entgeltsystem im Krankenhaus hat die
+für die letzte Ermittlung der Vorhaltevolumina nach Absatz 1
+verwendeten nach § 21 Absatz 1 und 2 Nummer 2 des
+Krankenhausentgeltgesetzes übermittelten Leistungsdaten zu
+Krankenhausfällen, in denen das Krankenhaus am betroffenen
+Krankenhausstandort Leistungen aus der nach § 6a Absatz 6 Satz 3 und 4
+mitgeteilten Leistungsgruppe erbracht hat und die auf der Grundlage
+von bundeseinheitlichen Bewertungsrelationen vergütet wurden, zugrunde
+zu legen und diesen Krankenhausfällen die Vorhaltebewertungsrelationen
+für das jeweilige Kalenderjahr, für das die Ermittlung erfolgt,
+zuzuordnen. Die in Absatz 1 Satz 2 zweiter Halbsatz genannten
+Krankenhausfälle sind bei der Ermittlung nicht zu berücksichtigen. Das
+Institut für das Entgeltsystem im Krankenhaus addiert die nach Satz 2
+den Krankenhausfällen zugeordneten Vorhaltebewertungsrelationen für
+jede mitgeteilte Leistungsgruppe, teilt die Summe durch 365 und
+multipliziert den Quotienten mit der Zahl der Kalendertage, die
+zwischen dem nach § 6a Absatz 6 Satz 4 mitgeteilten Datum, ab dem die
+Zuweisung gilt, und dem Ende des Kalenderjahres liegen, in dem die
+Mitteilung erfolgt ist. Das Institut für das Entgeltsystem im
+Krankenhaus stellt bis zum Ende des zweiten auf die in § 6a Absatz 6
+Satz 3 und 4 genannte Mitteilung folgenden Monats für das
+Kalenderjahr, in dem gemäß dieser Mitteilung der Zeitpunkt liegt, ab
+dem die Zuweisung gilt, durch Bescheid gegenüber dem jeweiligen
+Krankenhausträger für seinen Krankenhausstandort die Höhe des nach den
+Sätzen 2 bis 4 ermittelten Vorhaltevolumens je Leistungsgruppe fest.
+Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht für
+den Krankenhausträger, für dessen Krankenhausstandort eine in § 6a
+Absatz 6 Satz 3 und 4 genannte Mitteilung erfolgt ist, unverzüglich
+nach dem Erlass eines Bescheides das nach den Sätzen 2 bis 4
+ermittelte Vorhaltevolumen je Leistungsgruppe barrierefrei auf seiner
+Internetseite. Das Institut für das Entgeltsystem im Krankenhaus hat
+das Nähere zur Ermittlung des Vorhaltevolumens nach den Sätzen 2 bis 4
+in dem nach Absatz 1 Satz 5 zu erstellenden Konzept festzulegen.
+
+(7) Für Krankenhäuser in einem Land, in dem bis zum 31. Dezember 2024
+Leistungsgruppen nach landesrechtlichen Vorschriften zugewiesen
+wurden,
+
+1.  findet Absatz 5 Satz 1, 3 und 4 bis zum 31. Dezember 2029 keine
+    Anwendung in Bezug auf die Höhe der nach Absatz 1 Satz 1 und 2
+    ermittelten und nach Absatz 1 Satz 3 und 4 aufgeteilten
+    Vorhaltevolumina je Leistungsgruppe und
+
+
+2.  hat das Institut für das Entgeltsystem im Krankenhaus bis zum 10.
+    Dezember eines jeden Kalenderjahres für das jeweils folgende
+    Kalenderjahr, erstmals bis zum 10. Dezember 2027 für das Kalenderjahr
+    2028, letztmalig bis zum 10. Dezember 2029 für das Kalenderjahr 2030,
+    dem Krankenhausträger für seine Krankenhausstandorte für die
+    zugewiesenen Leistungsgruppen und für die Leistungsgruppen, deren
+    Bezeichnung einer nach § 135e Absatz 2 Satz 2 des Fünften Buches
+    Sozialgesetzbuch maßgeblichen Leistungsgruppe entspricht und die
+    keinem Krankenhaus für einen Krankenhausstandort zugewiesen worden
+    sind, eine Information über die Höhe der nach Absatz 1 Satz 1 und 2
+    ermittelten und nach Absatz 1 Satz 3 und 4 aufgeteilten
+    Vorhaltevolumina je Leistungsgruppe zu übermitteln.
+
+
+
+
+
+#### § 38 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit Zuschlägenzur Förderung von Koordinierungs- und Vernetzungsaufgaben und zur Finanzierung der speziellen Vorhaltung von Hochschulkliniken
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007401130)
+
+(1) Das Institut für das Entgeltsystem im Krankenhaus teilt jährlich,
+erstmals für das Kalenderjahr 2028, zur Ermittlung der Beträge der
+Förderung der Wahrnehmung der nach § 6b Satz 1 zugewiesenen
+Koordinierungs- und Vernetzungsaufgaben eine Gesamtsumme in Höhe von
+125 Millionen Euro rechnerisch auf die Länder auf. Der auf ein Land
+nach Satz 1 aufzuteilende Betrag ergibt sich, indem der Anteil des
+Vorhaltevolumens dieses Landes im jeweiligen Kalenderjahr an der Summe
+der Vorhaltevolumina aller Länder im jeweiligen Kalenderjahr mit der
+in Satz 1 genannten Gesamtsumme multipliziert wird. Das Institut für
+das Entgeltsystem im Krankenhaus teilt den nach Satz 1 auf ein Land
+aufgeteilten Betrag rechnerisch auf die Krankenhäuser in dem
+jeweiligen Land auf, denen nach § 6b Satz 1 Koordinierungs- und
+Vernetzungsaufgaben zugewiesen wurden. Der auf ein Krankenhaus nach
+Satz 3 aufzuteilende Betrag ergibt sich, indem der Anteil der Summe
+der für seine Krankenhausstandorte nach § 37 Absatz 1 Satz 1 und 2
+ermittelten und nach § 37 Absatz 1 Satz 3 und 4 aufgeteilten
+Vorhaltevolumina an der Summe aller für die Krankenhausstandorte von
+Krankenhäusern, denen nach § 6b Satz 1 Koordinierungs- und
+Vernetzungsaufgaben zugewiesen wurden, nach § 37 Absatz 1 Satz 1 und 2
+ermittelten und nach § 37 Absatz 1 Satz 3 und 4 aufgeteilten
+Vorhaltevolumina in dem jeweiligen Land mit dem auf das jeweilige Land
+nach Satz 1 aufgeteilten Betrag multipliziert wird. Das Institut für
+das Entgeltsystem im Krankenhaus veröffentlicht die nach den Sätzen 1
+und 3 aufgeteilten Beträge für jedes Kalenderjahr bis zum 10. Dezember
+des jeweils vorhergehenden Kalenderjahres, erstmals bis zum 10.
+Dezember 2027, barrierefrei auf seiner Internetseite. Übermittelt die
+für die Krankenhausplanung zuständige Landesbehörde die in § 6b Satz 8
+genannten Angaben nicht innerhalb der dort genannten Frist, ist das
+jeweilige Land in der Aufteilung nach Satz 1 für das Kalenderjahr, für
+das die Angaben nicht fristgerecht übermittelt wurden, zwar
+rechnerisch zu berücksichtigen, der Betrag jedoch nicht nach Satz 3
+auf die Krankenhäuser in dem jeweiligen Land aufzuteilen.
+
+(1a) Das Institut für das Entgeltsystem im Krankenhaus teilt für das
+Kalenderjahr 2027 zur Förderung der Wahrnehmung von in § 6b Satz 1
+genannten Koordinierungs- und Vernetzungsaufgaben eine Gesamtsumme in
+Höhe von 62,5 Millionen Euro rechnerisch auf die Länder auf. Hierzu
+ermittelt das Institut für das Entgeltsystem im Krankenhaus
+Vorhaltevolumina als Summe von Vorhaltebewertungsrelationen nach den
+Sätzen 3 und 6. Das Institut für das Entgeltsystem im Krankenhaus hat
+bis zum 30. November 2026 für die Ermittlung des Vorhaltevolumens für
+ein Land für das Kalenderjahr 2027 die nach § 21 Absatz 1 und 2 Nummer
+2 des Krankenhausentgeltgesetzes für das Kalenderjahr 2025
+übermittelten Leistungsdaten zu Krankenhausfällen in dem jeweiligen
+Land, die auf der Grundlage von bundeseinheitlichen
+Bewertungsrelationen vergütet werden, zugrunde zu legen und diesen
+Krankenhausfällen die Vorhaltebewertungsrelationen für das
+Kalenderjahr 2027 zuzuordnen; bei dieser Ermittlung nicht zu
+berücksichtigen sind Krankenhausfälle von Bundeswehrkrankenhäusern,
+soweit die Krankenhausfälle nicht die Behandlung von Zivilpatientinnen
+oder Zivilpatienten betreffen, und von Krankenhäusern der gesetzlichen
+Unfallversicherung, soweit die Kosten der Krankenhausfälle von der
+gesetzlichen Unfallversicherung getragen werden. Der auf ein Land nach
+Satz 1 aufzuteilende Betrag ergibt sich, indem der Anteil des für das
+jeweilige Land nach Satz 3 ermittelten Vorhaltevolumens an der Summe
+aller nach Satz 3 für die Länder ermittelten Vorhaltevolumina mit der
+in Satz 1 genannten Gesamtsumme multipliziert wird. Das Institut für
+das Entgeltsystem im Krankenhaus teilt den nach Satz 1 auf ein Land
+aufgeteilten Betrag rechnerisch auf die in dem jeweiligen Land
+zugelassenen Krankenhäuser im Sinne des § 108 Nummer 1 des Fünften
+Buches Sozialgesetzbuch auf. Das Institut für das Entgeltsystem im
+Krankenhaus hat für die Ermittlung des Vorhaltevolumens für ein
+zugelassenes Krankenhaus im Sinne des § 108 Nummer 1 des Fünften
+Buches Sozialgesetzbuch für das Kalenderjahr 2027 die nach § 21 Absatz
+1 und 2 Nummer 2 des Krankenhausentgeltgesetzes für das Kalenderjahr
+2025 übermittelten Leistungsdaten zu Krankenhausfällen in dem
+jeweiligen Krankenhaus, die auf der Grundlage von bundeseinheitlichen
+Bewertungsrelationen vergütet werden, zugrunde zu legen und diesen
+Krankenhausfällen die Vorhaltebewertungsrelationen für das
+Kalenderjahr 2027 zuzuordnen. Der auf ein Krankenhaus nach Satz 5
+aufzuteilende Betrag ergibt sich, indem der Anteil des nach Satz 6 für
+das jeweilige Krankenhaus ermittelten Vorhaltevolumens an der Summe
+aller für Krankenhäuser nach Satz 6 ermittelten Vorhaltevolumina in
+dem jeweiligen Land mit dem auf das jeweilige Land nach Satz 1
+aufgeteilten Betrag multipliziert wird. Das Institut für das
+Entgeltsystem im Krankenhaus veröffentlicht die nach Satz 5
+aufgeteilten Beträge bis zum 10. Dezember 2026 barrierefrei auf seiner
+Internetseite.
+
+(2) Das Institut für das Entgeltsystem im Krankenhaus teilt jährlich,
+erstmals für das Kalenderjahr 2028, zur Ermittlung eines Betrags der
+Finanzierung der speziellen Vorhaltung von Hochschulkliniken eine
+Gesamtsumme in Höhe von 75 Millionen Euro rechnerisch auf die in § 108
+Nummer 1 des Fünften Buches Sozialgesetzbuch genannten zugelassenen
+Krankenhäuser auf. Der auf ein in § 108 Nummer 1 des Fünften Buches
+Sozialgesetzbuch genanntes zugelassenes Krankenhaus nach Satz 1
+aufzuteilende Betrag ergibt sich, indem der Anteil der Summe der für
+seine Krankenhausstandorte nach § 37 Absatz 1 Satz 1 und 2 ermittelten
+und nach § 37 Absatz 1 Satz 3 und 4 aufgeteilten Vorhaltevolumina an
+der Summe aller für die Krankenhausstandorte von in § 108 Nummer 1 des
+Fünften Buches Sozialgesetzbuch genannten zugelassenen Krankenhäusern
+nach § 37 Absatz 1 Satz 1 und 2 ermittelten und nach § 37 Absatz 1
+Satz 3 und 4 aufgeteilten Vorhaltevolumina mit der in Satz 1 genannten
+Gesamtsumme multipliziert wird. Das Institut für das Entgeltsystem im
+Krankenhaus veröffentlicht die auf die Krankenhäuser nach Satz 1
+aufgeteilten Beträge für jedes Kalenderjahr bis zum 10. Dezember des
+jeweils vorhergehenden Kalenderjahres, erstmals bis zum 10. Dezember
+2027, barrierefrei auf seiner Internetseite.
+
+
 ### Unterabschnitt 3 - Förderbeträge und Förderung der Spezialisierung
 [Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000800130)
 
+
+
+#### § 39 Förderbeträge für die Bereiche Pädiatrie, Geburtshilfe, Stroke Unit, Spezielle Traumatologie und Intensivmedizin
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007501130)
+
+(1) Das Institut für das Entgeltsystem im Krankenhaus teilt bis zum
+10\. Dezember eines jeden Kalenderjahres für das jeweils folgende
+Kalenderjahr, erstmals bis zum 10. Dezember 2027 für das Kalenderjahr
+2028, auf die Krankenhausstandorte, auf die für mindestens eine
+Leistungsgruppe, die in der für das jeweilige Kalenderjahr geltenden
+Vereinbarung nach Absatz 2 Satz 2 oder die in der Festlegung nach
+Absatz 2 Satz 4 einem der Bereiche Pädiatrie, Geburtshilfe, Stroke
+Unit, Spezielle Traumatologie oder Intensivmedizin zugeordnet wurde,
+ein nach § 37 Absatz 1 Satz 1 und 2 ermitteltes Vorhaltevolumen nach §
+37 Absatz 1 Satz 3 und 4 aufgeteilt wurde, nach Maßgabe der Absätze 2
+und 3 die folgenden Beträge rechnerisch auf:
+
+1.  Pädiatrie: 288 Millionen Euro,
+
+
+2.  Geburtshilfe: 120 Millionen Euro,
+
+
+3.  Stroke Unit: 35 Millionen Euro,
+
+
+4.  Spezielle Traumatologie: 65 Millionen Euro,
+
+
+5.  Intensivmedizin: 30 Millionen Euro.
+
+
+
+
+(2) Das Institut für das Entgeltsystem im Krankenhaus erstellt bis zum
+28\. Februar 2027 ein Konzept für eine Zuordnung von Leistungsgruppen
+zu den in Absatz 1 Nummer 1 bis 5 genannten Bereichen. Zur
+Ermöglichung der in Absatz 1 genannten Aufteilung vereinbaren die
+Vertragsparteien nach § 17b Absatz 2 Satz 1 auf der Grundlage des in
+Satz 1 genannten Konzepts erstmals bis zum 31. Mai 2027, welche
+Leistungsgruppen den in Absatz 1 Nummer 1 bis 5 genannten Bereichen
+jeweils zuzuordnen sind; bei Änderungen der maßgeblichen
+Leistungsgruppen ist das Konzept innerhalb von einem Monat, die
+Vereinbarung oder die Festlegung nach Satz 4 innerhalb von zwei
+Monaten anzupassen; § 135e Absatz 2 Satz 2 des Fünften Buches
+Sozialgesetzbuch gilt entsprechend. In der Vereinbarung nach Satz 2
+ist sicherzustellen, dass 20 Millionen Euro von dem in Absatz 1 Nummer
+2 genannten Betrag für Krankenhausstandorte vorgesehen werden, die die
+vom Gemeinsamen Bundesausschuss nach § 136a Absatz 7 des Fünften
+Buches Sozialgesetzbuch festgelegten Maßnahmen zur Sicherung der
+Qualität der Versorgung in Kreißsälen erfüllen oder im Falle der
+Leitung des Kreißsaals durch eine Beleghebamme ein entsprechendes
+Niveau der Versorgungsqualität sicherstellen. Kommt eine Vereinbarung
+nach Satz 2 oder eine in Satz 2 zweiter Halbsatz genannte Anpassung
+der Vereinbarung oder der Festlegung ganz oder teilweise nicht oder
+nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz
+6 ohne Antrag einer Vertragspartei innerhalb von einem Monat den
+Inhalt der Vereinbarung oder der in Satz 2 zweiter Halbsatz genannten
+Anpassung fest.
+
+(3) Zum Zweck der in Absatz 1 genannten Aufteilung teilt das Institut
+für das Entgeltsystem im Krankenhaus die in Absatz 1 Nummer 1 bis 5
+genannten Beträge auf die in der Vereinbarung nach Absatz 2 Satz 2
+oder in der Festlegung nach Absatz 2 Satz 4 den jeweils zugehörigen
+Bereichen zugeordneten Leistungsgruppen rechnerisch auf. Der auf eine
+Leistungsgruppe nach Satz 1 aufzuteilende Betrag ergibt sich, indem
+der Anteil der Summe aller nach § 37 Absatz 1 Satz 1 und 2 ermittelten
+und nach § 37 Absatz 1 Satz 3 auf diese Leistungsgruppe aufgeteilten
+Vorhaltevolumina an der Summe aller für die dem jeweiligen Bereich
+zugeordneten Leistungsgruppen entsprechend berechneten Summen mit dem
+in Absatz 1 Nummer 1 bis 5 für den Bereich, dem die jeweilige
+Leistungsgruppe zugeordnet wurde, genannten Betrag multipliziert wird.
+Das Institut für das Entgeltsystem im Krankenhaus teilt jeden nach
+Satz 1 auf eine Leistungsgruppe aufgeteilten Betrag auf die Länder
+auf. Der auf ein Land nach Satz 3 aufzuteilende Betrag ergibt sich,
+indem der Anteil des nach § 37 Absatz 1 Satz 1 und 2 ermittelten und
+nach § 37 Absatz 1 Satz 3 aufgeteilten Vorhaltevolumens für das
+jeweilige Land und die jeweilige Leistungsgruppe an der Summe aller
+entsprechenden Vorhaltevolumina für diese Leistungsgruppe mit dem auf
+die Leistungsgruppe nach Satz 1 aufgeteilten Betrag multipliziert
+wird. Das Institut für das Entgeltsystem im Krankenhaus teilt den auf
+ein Land und eine Leistungsgruppe nach Satz 3 aufgeteilten Betrag auf
+die Krankenhausstandorte in dem jeweiligen Land auf; § 37 Absatz 1
+Satz 4 gilt entsprechend.
+
+(4) Das Institut für das Entgeltsystem im Krankenhaus berechnet für
+jedes Kalenderjahr, erstmals für das Kalenderjahr 2028, und für jede
+der im jeweiligen Kalenderjahr in der Vereinbarung nach Absatz 2 Satz
+2 oder in der Festlegung nach Absatz 2 Satz 4 einem in Absatz 1 Nummer
+1 bis 5 genannten Bereich zugeordnete Leistungsgruppe einen
+Prozentsatz als Verhältnis des auf diese Leistungsgruppe nach Absatz 3
+Satz 1 aufgeteilten Betrags und des Produkts der Summe aller sich aus
+der Aufteilung nach § 37 Absatz 1 Satz 3 für das jeweilige
+Kalenderjahr ergebenden Vorhaltevolumina für diese Leistungsgruppe und
+des nach § 10 Absatz 9 Satz 1 des Krankenhausentgeltgesetzes für das
+dem jeweiligen Kalenderjahr vorausgehende Kalenderjahr berechneten
+einheitlichen Basisfallwerts.
+
+(5) Wenn während eines Kalenderjahres ein in § 6a Absatz 6 Satz 1
+Nummer 2 oder Nummer 3 genanntes Ereignis eintritt und dieses Ereignis
+mindestens einen Krankenhausstandort betrifft, auf den nach Absatz 3
+Satz 5 für mindestens eine der nach Absatz 2 einem in Absatz 1 Nummer
+1 bis 5 genannten Bereich zugeordneten Leistungsgruppen ein Betrag
+aufgeteilt wurde, hat das Institut für das Entgeltsystem im
+Krankenhaus bei der nächsten Aufteilung nach Absatz 1 den auf das
+jeweilige Land in der Aufteilung nach Absatz 3 Satz 1 und 3
+aufgeteilten Betrag für jede betroffene Leistungsgruppe vor der
+Aufteilung nach Absatz 3 Satz 5 in dem nach den Sätzen 2 und 3
+berechneten Umfang zu erhöhen. Zur Ermittlung des Umfangs der in Satz
+1 genannten Erhöhung ist für jeden der von dem in Satz 1 genannten
+Ereignis betroffenen Krankenhausstandorte der nach Absatz 3 Satz 5 für
+das Kalenderjahr des in Satz 1 genannten Ereignisses und die jeweilige
+Leistungsgruppe auf den jeweiligen Krankenhausstandort aufgeteilte
+Betrag durch 365 zu teilen und mit der Zahl der Kalendertage zu
+multiplizieren, die zwischen dem in Satz 1 genannten Ereignis und dem
+Ende des Kalenderjahres lagen, in dem dieses Ereignis eingetreten ist.
+Der Umfang der in Satz 1 genannten Erhöhung ergibt sich, indem für
+jede Leistungsgruppe in dem jeweiligen Land die Summe der nach Satz 2
+ermittelten Produkte gebildet wird.
+
+
+#### § 40 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte und des Instituts für das Entgeltsystem im Krankenhaus hinsichtlich der Förderung der Spezialisierung bei der Erbringung von onkochirurgischen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007601130)
+
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
+identifiziert in dem in § 301 Absatz 2 des Fünften Buches
+Sozialgesetzbuch genannten Operationen- und Prozedurenschlüssel jene
+chirurgischen Leistungen, die durch Krankenhäuser regelhaft aufgrund
+einer onkologischen Diagnose erbracht werden, und übermittelt dem
+Institut für das Entgeltsystem im Krankenhaus erstmals bis zum 30.
+Juni 2026 eine Aufstellung der Kodes aus dem in § 301 Absatz 2 des
+Fünften Buches Sozialgesetzbuch genannten Operationen- und
+Prozedurenschlüssel, die diesen Leistungen zugrunde liegen, und der
+Kodes aus der in § 301 Absatz 2 des Fünften Buches Sozialgesetzbuch
+genannten deutschen Fassung der Internationalen Klassifikation der
+Krankheiten, die den jeweils zugehörigen Diagnosen zugrunde liegen,
+auf Grundlage der jeweils für das Jahr 2025 herausgegebenen Fassung
+des in dem in § 301 Absatz 2 des Fünften Buches Sozialgesetzbuch
+genannten Operationen- und Prozedurenschlüssels und der in § 301
+Absatz 2 des Fünften Buches Sozialgesetzbuch genannten deutschen
+Fassung der Internationalen Klassifikation der Krankheiten. Im Rahmen
+der Identifizierung der Leistungen und der Erstellung der in Satz 1
+genannten Aufstellung hat das Bundesinstitut für Arzneimittel und
+Medizinprodukte der Deutschen Krebsgesellschaft Gelegenheit zur
+Stellungnahme zu geben; die Stellungnahme ist in die Entscheidung über
+die Identifizierung der Leistungen und in die Erstellung der in Satz 1
+genannten Aufstellung einzubeziehen. Das Institut für das
+Entgeltsystem im Krankenhaus definiert Indikationsbereiche für die
+nach Satz 1 identifizierten Leistungen; im Rahmen der Definition der
+Indikationsbereiche hat das Institut für das Entgeltsystem im
+Krankenhaus der Deutschen Krebsgesellschaft Gelegenheit zur
+Stellungnahme zu geben und die Stellungnahme in die Entscheidung über
+die Definition der Indikationsbereiche einzubeziehen. Das Institut für
+das Entgeltsystem im Krankenhaus überführt die in Satz 1 genannte
+Aufstellung in eine nach den nach § 135e Absatz 2 Satz 2 des Fünften
+Buches Sozialgesetzbuch maßgeblichen Leistungsgruppen und den nach
+Satz 3 definierten Indikationsbereichen differenzierte Liste und
+veröffentlicht diese erstmals bis zum 31. August 2026 barrierefrei auf
+seiner Internetseite. Das Bundesinstitut für Arzneimittel und
+Medizinprodukte passt die in Satz 1 genannte Aufstellung auf Grundlage
+der für das jeweilige Folgejahr herausgegebenen in § 301 Absatz 2 des
+Fünften Buches Sozialgesetzbuch genannten deutschen Fassung der
+Internationalen Klassifikation der Krankheiten und der für das
+jeweilige Folgejahr herausgegebenen Fassung des in § 301 Absatz 2 des
+Fünften Buches Sozialgesetzbuch genannten Operationen- und
+Prozedurenschlüssels an und übermittelt die angepasste Aufstellung
+jeweils bis zum 15. November eines jeden Kalenderjahres, erstmals bis
+zum 15. November 2027, an das Institut für das Entgeltsystem im
+Krankenhaus, das die jeweils letzte Fassung der in Satz 4 genannten
+Liste entsprechend aktualisiert und die aktualisierte Liste bis zum
+31\. Dezember des jeweiligen Kalenderjahres barrierefrei auf seiner
+Internetseite veröffentlicht. Das Institut für das Entgeltsystem im
+Krankenhaus erarbeitet anhand der in Satz 4 genannten Liste Vorgaben
+für eine eindeutige Zuordnung von Fällen zu den nach Satz 3
+definierten Indikationsbereichen durch die Krankenhäuser und
+zertifiziert erstmals bis zum 31. Dezember 2026 auf dieser Grundlage
+entwickelte Datenverarbeitungslösungen.
+
+(2) Das Institut für das Entgeltsystem im Krankenhaus identifiziert
+auf Grundlage der nach § 21 Absatz 1 und 2 Nummer 2 des
+Krankenhausentgeltgesetzes für das Kalenderjahr 2025 übermittelten
+Daten alle Krankenhausstandorte, die in diesem Kalenderjahr Leistungen
+erbracht haben, denen auf der in Absatz 1 Satz 4 genannten Liste
+aufgeführte Kodes zugrunde liegen, erstellt für jeden der nach Absatz
+1 Satz 3 definierten Indikationsbereiche eine Aufstellung dieser
+Krankenhausstandorte und der Anzahl ihrer Fälle, bei denen diese
+Leistungen im jeweiligen Indikationsbereich erbracht worden sind, und
+sortiert diese Aufstellungen jeweils aufsteigend nach der Anzahl der
+Fälle. Das Institut für das Entgeltsystem im Krankenhaus wählt aus
+jeder der nach Satz 1 erstellten und sortierten Aufstellungen von
+Krankenhausstandorten die obersten Einträge bis einschließlich zu
+jenem Eintrag aus, bei dem die Summe der Anzahl der Fälle aller
+vorhergehenden Einträge erstmals einem der folgenden Anteile an der
+Anzahl der Fälle aller Einträge in der jeweiligen Aufstellung
+entspricht:
+
+1.  einem Anteil in Höhe von mindestens 15 Prozent oder
+
+
+2.  für den Fall, dass der Gemeinsame Bundesausschuss gemäß § 136c Absatz
+    1 Satz 1 des Fünften Buches Sozialgesetzbuch einen Anteil von weniger
+    als 15 Prozent festgelegt hat, einem Anteil in Höhe von mindestens
+    diesem festgelegten Anteil;
+
+
+
+sofern die Anzahl der Fälle mehrerer Krankenhausstandorte gleich hoch
+ist und die Auswahl jedes dieser Krankenhausstandorte dazu führen
+würde, dass der nach dem ersten Halbsatz geltende Anteil an der Anzahl
+der Fälle aller Einträge in der jeweiligen Aufstellung erreicht oder
+überschritten würde, sind alle diese Krankenhausstandorte auszuwählen.
+Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht bis
+zum 31. Mai 2027 eine nach den nach Absatz 1 Satz 3 definierten
+Indikationsbereichen differenzierte Liste der nach Satz 2 ausgewählten
+Krankenhausstandorte barrierefrei auf seiner Internetseite und ordnet
+zum Zweck der Veröffentlichung im Transparenzverzeichnis nach § 135d
+des Fünften Buches Sozialgesetzbuch die Indikationsbereiche, nach der
+die Liste zu differenzieren ist, den jeweils nach § 135e Absatz 2 Satz
+2 des Fünften Buches Sozialgesetzbuch maßgeblichen Leistungsgruppen
+zu; für den Fall, dass der Gemeinsame Bundesausschuss nach der
+Veröffentlichung der Liste gemäß § 136c Absatz 1 des Fünften Buches
+Sozialgesetzbuch einen Anteil von weniger als 15 Prozent festlegt,
+trifft das Institut für das Entgeltsystem im Krankenhaus erneut eine
+Auswahl nach Satz 2, aktualisiert die im ersten Halbsatz genannte
+Liste und veröffentlicht die aktualisierte Liste barrierefrei auf
+seiner Internetseite. Das Institut für das Entgeltsystem im
+Krankenhaus übermittelt der nach § 135d Absatz 2 Satz 1 des Fünften
+Buches Sozialgesetzbuch beauftragten Stelle und der nach § 135d Absatz
+1 Satz 3 des Fünften Buches Sozialgesetzbuch benannten Stelle
+barrierefrei die nach Satz 3 veröffentlichte Liste.
+
+(3) Das Institut für das Entgeltsystem im Krankenhaus analysiert auf
+der Grundlage der nach § 21 Absatz 1 und Absatz 2 Nummer 2 des
+Krankenhausentgeltgesetzes übermittelten Daten die Auswirkungen der
+Veröffentlichung der in Absatz 2 Satz 3 genannten Liste und des
+Abrechnungsverbots nach § 8 Absatz 4 Satz 6 des
+Krankenhausentgeltgesetzes auf die Versorgung mit onkochirurgischen
+Leistungen in den Jahren 2028 bis 2032 und formuliert Empfehlungen zur
+Weiterentwicklung der Versorgung mit onkochirurgischen Leistungen. Das
+Institut für das Entgeltsystem im Krankenhaus veröffentlicht die
+Ergebnisse seiner Analyse und seine Empfehlungen bis zum 30. Juni 2033
+barrierefrei auf seiner Internetseite. Die Kosten, die dem Institut
+für das Entgeltsystem im Krankenhaus durch die Erfüllung seiner
+Aufgaben nach den Absätzen 1 und 2 sowie nach den Sätzen 1 und 2
+entstehen, werden mit dem DRG-Systemzuschlag nach § 17b Absatz 5 Satz
+1 Nummer 1 finanziert.
 

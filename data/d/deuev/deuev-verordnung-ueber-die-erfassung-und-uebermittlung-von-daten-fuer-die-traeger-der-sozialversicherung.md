@@ -311,6 +311,48 @@ Wochen nach Anforderung, die Entgeltmeldungen nach § 28a Absatz 1 Satz
 Einzugsstelle zu melden.
 
 
+#### § 12 Sonstige Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002508126)
+
+(1) Eine Ab- und eine Anmeldung sind zu erstatten, wenn die bisher
+gemeldete Beitragsgruppe, der Personengruppenschlüssel oder die
+Krankenkasse des Beschäftigten sich ändert oder dieser bis zum 31.
+Dezember 2024 von einem Beschäftigungsbetrieb im Beitrittsgebiet zu
+einem Beschäftigungsbetrieb im übrigen Bundesgebiet oder umgekehrt
+wechselt.
+
+(2) In den Fällen, in denen ein Berufsausbildungsverhältnis einem
+Beschäftigungsverhältnis bei demselben Arbeitgeber vorausgeht oder
+folgt, ist der Tag des Endes oder des Beginns der Beschäftigung und
+der Berufsausbildung zu melden. Als Beginn einer Berufsausbildung kann
+auch der Erste des Monats, in dem die Berufsausbildung beginnt, und
+als Ende der Letzte des Monats, in dem die Berufsausbildung endet,
+gemeldet werden. Eine Meldung nach Satz 1 und 2 entfällt, wenn eine
+Meldung nach Absatz 1 zu erstatten ist.
+
+(3) Absatz 2 gilt entsprechend für den Beginn und das Ende einer
+Altersteilzeit.
+
+(4) Die Meldungen sind innerhalb der Frist des § 6 zu erstatten.
+Meldungen nach Absatz 1 oder 2 sind nicht zu erstatten, wenn Meldungen
+nach §§ 6, 8 oder § 9 erfolgen.
+
+(5) Eine Meldung nach § 194 des Sechsten Buches Sozialgesetzbuch ist
+mit der nächsten Lohn und Gehaltsabrechnung nach Aufforderung durch
+den Träger der Rentenversicherung zu erstatten. Ist zu diesem
+Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese zum
+gleichen Zeitpunkt zu erstatten.
+
+(6) Beginn und Ende einer in Anspruch genommenen Elternzeit sind der
+zuständigen Krankenkasse gesondert zu melden, sofern die Beschäftigung
+durch Wegfall des Anspruchs auf Entgelt unterbrochen wird. Satz 1 gilt
+für krankenversicherungspflichtige Beschäftigungen, sofern die
+Beschäftigung durch Wegfall des Anspruchs auf Entgelt für mindestens
+einen Kalendermonat unterbrochen wird. Die Elternzeitmeldung ist mit
+der nächsten Entgeltabrechnung, spätestens innerhalb von sechs Wochen
+abzugeben.
+
+
 #### § 13 Meldungen für geringfügig Beschäftigte
 [Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002607126)
 
@@ -350,6 +392,23 @@ Gefahrtarifstelle in der Meldung enthalten sind.
 (2) Ist zum Zeitpunkt der Stornierung die Versicherungsnummer noch
 nicht bekannt, hat die Stornierung die für die Vergabe der
 Versicherungsnummer notwendigen Angaben zu enthalten.
+
+
+#### § 15 Korrektur von Meldungen durch die Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002805126)
+
+In den Fällen, in denen eine Meldung mit unzutreffenden Angaben nach §
+14 Absatz 1 vom Meldepflichtigen trotz Aufforderung durch die
+Einzugsstelle nicht korrigiert wird, kann die Einzugsstelle die
+Korrektur der Meldung im Einvernehmen mit dem Beschäftigten vornehmen.
+Dies gilt nicht für die Angaben zum beitragspflichtigen Entgelt und
+die Betriebsnummer des Meldepflichtigen. Die Einzugsstelle hat den
+Beschäftigten über die beabsichtigte Korrektur vorab in Textform zu
+informieren. Der Beschäftigte muss der Korrektur gegenüber der
+Einzugsstelle in Textform zustimmen. Die Einzugsstelle hat die
+Zustimmung des Beschäftigten sowie die Korrektur der Meldung zu
+dokumentieren. Der Meldepflichtige erhält eine Kopie der korrigierten
+Meldung.
 
 
 ## Dritter Abschnitt - Meldungen der Arbeitgeber durch Datenübertragung
@@ -411,6 +470,46 @@ Einsatz zu ermöglichen. Der Antrag auf Systemprüfung ist an die von
 dem Spitzenverband Bund der Krankenkassen bestimmte Stelle zu richten.
 Das Nähere zum Antragsverfahren regeln die Gemeinsamen Grundsätze nach
 § 22.
+
+
+#### § 20 Systemprüfung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003308126)
+
+(1) Inhaltliche Grundlagen für eine Systemprüfung nach § 95b des
+Vierten Buches Sozialgesetzbuch sind die Vorschriften nach dem
+Sozialgesetzbuch für das jeweilige Fachverfahren, der
+Beitragsverfahrensverordnung, der Entgeltbescheinigungsverordnung und
+dieser Verordnung sowie die veröffentlichten Verfahrensbeschreibungen
+zu den jeweiligen Fachverfahren, Rundschreiben und Beratungsergebnisse
+der Sozialversicherungsträger in der jeweils geltenden Fassung. Ein
+Programm oder eine Ausfüllhilfe muss alle für das Basismodul
+vorgeschriebenen Fachverfahren enthalten. Voraussetzung für die
+Prüfung eines Zusatzmoduls ist, dass das entsprechende Programm oder
+die Ausfüllhilfe ein geprüftes Basismodul enthält. Ausnahmen können in
+den Gemeinsamen Grundsätzen nach § 22 festgelegt werden.
+Kommunikationsmodule sind darauf zu prüfen, dass sie die Anforderungen
+der Verschlüsselung sowohl der enthaltenen Datensätze als auch der
+äußeren Transportdatensätze gewährleisten und ein Zugriff oder eine
+Veränderung während der Übermittlung vom Absender zum Empfänger nicht
+möglich ist.
+
+(2) Wird ein Programm oder eine Ausfüllhilfe insgesamt oder in
+einzelnen Modulen wesentlich verändert, ist unverzüglich eine neue
+Systemprüfung zu beantragen. Der Neuantrag ist vor dem ersten Einsatz
+dieser veränderten Anwendung zu stellen und die veränderte Version ist
+gesondert zu kennzeichnen. Diese Prüfungen können auch in
+vereinfachter Form anhand von speziellen Testaufgaben erfolgen.
+
+(3) Erfüllt ein Programm oder eine Ausfüllhilfe nicht die
+Voraussetzungen der Systemprüfung oder wird es nach Absatz 2
+verändert, ohne einen Antrag auf erneute Systemprüfung zu stellen, ist
+die Zulassung zu versagen oder unverzüglich zu entziehen.
+
+(4) Über die Prüfung ist ein Protokoll zu erstellen, das bis zur
+Erteilung einer neuen Zulassung aufzubewahren ist.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die Programme zur
+Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
 
 
 #### § 21 Zulassungsbescheid
@@ -480,6 +579,11 @@ Meldungen erneut zu erstatten.
 
 #### § 24 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003702308)
+
+
+
+#### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003804126)
 
 
 
@@ -639,6 +743,45 @@ Rentenversicherung in einer Vereinbarung.
 
 
 
+## Siebter Abschnitt - Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes, Zeiten einer besonderen Auslandsverwendung und Zeiten des Bezugs von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001203115)
+
+
+
+### § 38 Entgeltersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005112126)
+
+(1) Die Leistungsträger und die privaten
+Pflegeversicherungsunternehmen haben Zeiträume, in denen Personen nach
+§ 3 Satz 1 Nummer 3 oder 4 oder § 4 Absatz 3 Satz 1 Nummer 1 oder 3
+des Sechsten Buches Sozialgesetzbuch versicherungspflichtig sind und
+eine der in diesen Vorschriften genannten Leistungen,
+Eingliederungshilfe für Spätaussiedler, Leistungen, die die
+Bundesagentur für Arbeit nach dem Altersteilzeitgesetz anstelle des
+Arbeitgebers erbringt, oder Arbeitslosenbeihilfe beziehen, unter
+Angabe der der Leistung zugrunde liegenden beitragspflichtigen
+Einnahmen zu melden. Die Zeiten bis zum 31. Dezember 2024 sind jeweils
+für das Beitrittsgebiet und das übrige Bundesgebiet zu kennzeichnen.
+
+(2) Die Meldungen sind innerhalb eines Monats nach dem Ende der in
+Absatz 1 genannten Zeiträume nach den Vorschriften des Sechsten
+Abschnitts an die Datenstelle der Rentenversicherung zu erstatten. § 5
+Abs. 6 und 7 gilt entsprechend.
+
+(3) § 5 Abs. 3 gilt entsprechend. § 12 Abs. 5 gilt entsprechend; die
+Meldung ist innerhalb eines Monats nach Aufforderung durch den Träger
+der Rentenversicherung zu erstatten.
+
+(4) Stornierungen von Meldungen sind von der Stelle vorzunehmen, die
+die Meldung abgegeben hat.
+
+(5) Die meldende Stelle hat dem Versicherten bis zum 30. April eines
+Jahres eine Bescheinigung über den Inhalt der Meldungen des
+vergangenen Kalenderjahres zu erteilen. Die Bescheinigung ist zu einem
+früheren Zeitpunkt zu erteilen, wenn der Versicherte sie vorher
+benötigt.
+
+
 ### § 39 Anrechnungszeiten, Sperrzeiten
 [Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005209124)
 
@@ -680,8 +823,77 @@ Erklärungen der Rentenversicherungsträger zu Rechtsfragen von
 grundsätzlicher Bedeutung gebunden.
 
 
+### § 40 Zeiten des Wehr- und Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005309126)
+
+(1) Das Bundesministerium der Verteidigung oder die von ihm bestimmten
+Stellen und das Bundesamt für Familie und zivilgesellschaftliche
+Aufgaben melden die Zeiträume, in denen Personen nach § 3 Satz 1 Nr. 2
+und 2a des Sechsten Buches Sozialgesetzbuch versicherungspflichtig
+sind; dabei sind Dienstzeiten bis zum 31. Dezember 2024 im
+Beitrittsgebiet besonders zu kennzeichnen. Der Beginn und das Ende
+einer Unterbrechung der Dienstzeit unter Wegfall der Geld- und
+Sachbezüge sind gesondert zu melden.
+
+(2) In den Meldungen nach Absatz 1 Satz 1 ist zusätzlich das
+beitragspflichtige Arbeitsentgelt nach § 166 Absatz 1 Nummer 1a des
+Sechsten Buches Sozialgesetzbuch anzugeben, wenn die Personen
+Leistungen nach § 5 oder § 8 des Unterhaltssicherungsgesetzes oder
+Dienstbezüge auf Grund eines Wehrdienstverhältnisses besonderer Art
+nach § 6 des Einsatz-Weiterverwendungsgesetzes erhalten. § 38 Abs. 4
+gilt entsprechend.
+
+(3) (weggefallen)
+
+(4) Der Wehr- oder Zivildienstleistende hat spätestens bei
+Dienstantritt der Dienststelle seine Versicherungsnummer anzugeben. §
+5 Absatz 6 und 7 gilt entsprechend; die Vergabedaten sind an die
+Datenstelle der Rentenversicherung weiterzuleiten.
+
+(5) § 5 Absatz 1, 3 und 4 sowie § 12 Absatz 5 gelten entsprechend.
+
+
+### § 40a Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE006001126)
+
+(1) Das Bundesministerium der Verteidigung oder die von ihm bestimmte
+Stelle meldet die Zeiträume, für die die Voraussetzungen für Zuschläge
+an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung nach
+§ 76e des Sechsten Buches Sozialgesetzbuch vorliegen.
+
+(2) § 5 Absatz 1 und 3 sowie § 38 Absatz 2 Satz 1 und Absatz 4 gelten
+entsprechend.
+
+
+### § 40b Zeiten des Bezuges von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE006201126)
+
+Das Bundesministerium der Verteidigung oder die von ihm bestimmte
+Stelle hat die Zeiträume, in denen Personen nach § 3 Satz 1 Nummer 2
+Buchstabe b des Sechsten Buches Sozialgesetzbuch
+versicherungspflichtig sind, zu melden. Dabei sind
+
+1.  die der Leistung zugrunde liegenden beitragspflichtigen Einnahmen nach
+    § 166 Absatz 1 Nummer 1 Buchstabe c des Sechsten Buches
+    Sozialgesetzbuch anzugeben und
+
+
+2.  Übergangsgebührnisse, die nach Dienstzeiten im Beitrittsgebiet gewährt
+    werden, bis zum 31. Dezember 2024 besonders zu kennzeichnen.
+
+
+
+§ 5 Absatz 1, 3 und 4 sowie § 38 Absatz 2 Satz 1 und Absatz 4 gelten
+entsprechend.
+
+
 ## Achter Abschnitt - Ordnungswidrigkeiten
 [Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001301308)
+
+
+
+### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005407126)
 
 
 

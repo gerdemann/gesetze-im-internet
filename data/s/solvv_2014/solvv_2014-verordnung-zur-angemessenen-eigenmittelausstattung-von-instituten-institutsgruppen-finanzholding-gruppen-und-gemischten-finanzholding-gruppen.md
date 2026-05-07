@@ -49,6 +49,46 @@ Finanzen:
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000100000)
 
 
+### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000303128)
+
+(1) Die §§ 3 bis 7, 18 und 19 sowie 21 bis 22 dieser Verordnung sind
+ergänzend zu den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013
+von denjenigen Instituten und Gruppen anzuwenden, die sich nach der
+Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die
+Vorgaben dieser Artikel halten müssen.
+
+(1a) § 16 ist ergänzend zu Artikel 178 Absatz 1 Buchstabe b der
+Verordnung (EU) Nr. 575/2013 von denjenigen Instituten und Gruppen
+anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach
+dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen,
+die aber keine Kreditinstitute sind, die nach Artikel 6 Absatz 4 der
+Verordnung (EU) Nr. 1024/2013 in der Fassung vom 15. Oktober 2013
+sowie nach Teil IV und Artikel 147 Absatz 1 der Verordnung (EU) Nr.
+468/2014 in der Fassung vom 16. April 2014 als bedeutend eingestuft
+werden.
+
+(2) Die §§ 26 bis 31 dieser Verordnung sind ergänzend zu den Artikeln
+25 bis 91 der Verordnung (EU) Nr. 575/2013 von denjenigen Instituten
+und Gruppen anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013
+oder nach dem Kreditwesengesetz an die Vorgaben dieser Artikel halten
+müssen. Dies gilt nicht für Kreditinstitute, die nach Artikel 6 Absatz
+4 der Verordnung (EU) Nr. 1024/2013 in der Fassung vom 15. Oktober
+2013 sowie nach Teil IV und Artikel 147 Absatz 1 der Verordnung (EU)
+Nr. 468/2014 in der Fassung vom 16. April 2014 als bedeutend
+eingestuft werden.
+
+(3) § 32 dieser Verordnung ist ergänzend zu den Artikeln 11 bis 91 der
+Verordnung (EU) Nr. 575/2013 von denjenigen Instituten und Gruppen
+anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach
+dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen.
+
+(4) Die §§ 33 bis 37 dieser Verordnung sind ergänzend zu den §§ 10c
+bis 10i des Kreditwesengesetzes von denjenigen Instituten und Gruppen
+anzuwenden, die sich an die Vorgaben dieser Vorschriften halten
+müssen.
+
+
 ### § 2 Anträge und Anzeigen
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000400000)
 
@@ -79,8 +119,318 @@ einzureichen.
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000400000)
 
 
+##### § 3 Prüfungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000501128)
+
+(1) Hat die zuständige Behörde einem Institut die Erlaubnis zur
+Verwendung eines Ansatzes zur Ermittlung der
+Mindesteigenmittelanforderungen erteilt, dessen Verwendung nach den
+Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 einer Erlaubnis
+der zuständigen Behörde bedarf (erlaubnispflichtiger Ansatz zur
+Ermittlung der Mindesteigenmittelanforderungen), muss sie regelmäßig
+überprüfen, ob die Anforderungen für diesen Ansatz nach dieser
+Verordnung und nach der Verordnung (EU) Nr. 575/2013 erfüllt sind. Die
+Überprüfung findet mindestens alle drei Jahre statt. Daneben prüft die
+zuständige Behörde im Rahmen von Nachschauprüfungen, ob festgestellte
+Mängel abgestellt und Auflagen erfüllt sind.
+
+(2) Die zuständige Behörde kann die Eignungsbeurteilung für die
+Erlaubnis zur Verwendung eines Ansatzes sowie die regelmäßige
+Überprüfung und die Nachschauprüfungen auf der Grundlage des
+Ergebnisses eines Auskunftsverlangens nach § 44 Absatz 1 Satz 1 des
+Kreditwesengesetzes oder auch des Ergebnisses einer Prüfung nach § 44
+Absatz 1 Satz 3 des Kreditwesengesetzes durchführen.
+
+(3) Bei der Überprüfung berücksichtigt die zuständige Behörde
+insbesondere Veränderungen der Geschäftstätigkeit des Instituts sowie
+die Anwendung dieses erlaubnispflichtigen Ansatzes zur Ermittlung der
+Mindesteigenmittelanforderungen auf neue Produkte. Zusätzlich
+überprüft sie, ob das Institut für diesen Ansatz ausgereifte und
+aktuelle Techniken und Praktiken anwendet.
+
+(4) Bei der Überprüfung berücksichtigt die zuständige Behörde die
+Analysen und Benchmarks der Europäischen Bankenaufsichtsbehörde.
+
+
+##### § 4 Maßnahmen bei Mängeln bei der Risikoerfassung oder der Nichteinhaltung der Anforderungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000601128)
+
+(1) Sofern die zuständige Behörde feststellt, dass die Ausgestaltung
+eines erlaubnispflichtigen Ansatzes zur Ermittlung der
+Mindesteigenmittelanforderungen durch das Institut erhebliche Mängel
+bei der Erfassung des Risikos aufweist, sorgt die zuständige Behörde
+dafür, dass diese Mängel beseitigt werden, oder sie ergreift
+angemessene Maßnahmen, die geeignet sind, um die aus den Mängeln
+resultierenden Folgen abzuschwächen. Geeignete Maßnahmen sind
+insbesondere die Festsetzung höherer Multiplikationsfaktoren oder
+zusätzlicher Eigenmittelanforderungen.
+
+(2) Wenn ein Institut mit Erlaubnis der zuständigen Behörde den
+alternativen auf einem internen Modell beruhenden Ansatz nach Artikel
+325az Absatz 1 der Verordnung (EU) Nr. 575/2013 anwendet und für einen
+Handelstisch die Ergebnisse von Rückvergleichen oder Tests für Gewinn-
+und Verlustzuweisung darauf hindeuten, dass das Modell nicht mehr
+präzise genug ist, so überprüft die zuständige Behörde, ob die
+Einhaltung der Voraussetzungen für die Erlaubnis zur Verwendung des
+alternativen auf einem internen Modell beruhenden Ansatz weiterhin
+gewährleistet ist, oder schreibt angemessene Maßnahmen vor, um die
+umgehende Verbesserung des Modells zu gewährleisten.
+
+(2a) Ein Institut, das mit Erlaubnis der zuständigen Behörde den
+alternativen auf einem internen Modell beruhenden Ansatz nach Artikel
+325az Absatz 1 der Verordnung (EU) Nr. 575/2013 anwendet,
+berücksichtigt für das Portfolio sämtlicher Positionen einen
+Handelstisch nur dann im alternativen internen Modell, wenn es für
+diesen Handelstisch zum Meldestichtag die Anforderung nach Artikel
+325az Absatz 2 Buchstabe c der Verordnung (EU) Nr. 575/2013 einhält.
+
+(3) Wenn ein Institut nicht mehr sämtliche Anforderungen für einen
+erlaubnispflichtigen Ansatz zur Ermittlung der
+Mindesteigenmittelanforderungen nach dieser Verordnung und nach der
+Verordnung (EU) Nr. 575/2013 erfüllt, verlangt die zuständige Behörde
+
+1.  vom Institut einen Plan, wie und in welchem Zeitraum eine zeitnahe
+    Rückkehr zur Regelkonformität gewährleistet werden soll, oder
+
+
+2.  dass das Institut in einer die zuständige Behörde zufriedenstellenden
+    Weise nachweist, dass die Auswirkungen des Nichteinhaltens der
+    Anforderungen unwesentlich sind, sofern das nach der Verordnung (EU)
+    Nr. 575/2013 für diesen Ansatz zulässig ist.
+
+
+
+Sind die Eigenmittelanforderungen im Falle des Satzes 1 wahrscheinlich
+unzureichend, ordnet die zuständige Behörde, soweit angemessen,
+zusätzliche Eigenmittelanforderungen an.
+
+(4) Erscheint es nach Einschätzung der zuständigen Behörde
+unwahrscheinlich, dass ein vom Institut vorgelegter Plan nach Absatz 3
+Satz 1 Nummer 1 zur vollständigen Wiedereinhaltung der Anforderungen
+führt oder der vom Institut vorgesehene Umsetzungszeitraum
+unangemessen lang ist, verlangt die zuständige Behörde eine
+Nachbesserung des Plans.
+
+(5) Erscheint es nach Einschätzung der zuständigen Behörde
+unwahrscheinlich, dass das Institut die Anforderungen innerhalb einer
+angemessenen Frist wieder einhalten wird, und hat das Institut, sofern
+das nach der Verordnung (EU) Nr. 575/2013 für diesen Ansatz zulässig
+ist, auch keinen zufriedenstellenden Nachweis der Unwesentlichkeit der
+Auswirkungen des Nichteinhaltens der Anforderungen nach Absatz 3 Satz
+1 Nummer 2 erbracht, muss die zuständige Behörde die Erlaubnis zur
+Verwendung des Ansatzes durch das Institut
+
+1.  insgesamt widerrufen oder
+
+
+2.  auf solche Bereiche beschränken, in denen die Einhaltung der
+    Anforderungen gegeben ist oder innerhalb einer angemessenen Frist
+    erreicht werden kann, sofern dies innerhalb der von der zuständigen
+    Behörde festgelegten Grenzen für die Nichtanwendung dieses Ansatzes
+    möglich ist.
+
+
+
+Insbesondere für risikogewichtete Positionsbeträge nach dem auf
+internen Beurteilungen beruhenden Ansatz (IRB-Ansatz) im Sinne von
+Artikel 107 Absatz 1 der Verordnung (EU) Nr. 575/2013 kann die
+zuständige Behörde separat für einzelne Arten von
+Kreditrisikopositionen die Zustimmung nach Artikel 143 Absatz 2 der
+Verordnung (EU) Nr. 575/2013 zur Verwendung des IRB-Ansatzes oder zur
+Verwendung eigener Schätzungen von Verlustausfallquoten (Loss Given
+Defaults – LGDs) im Sinne von Artikel 4 Absatz 1 Nummer 55 der
+Verordnung (EU) Nr. 575/2013 oder Konversionsfaktoren (Credit
+Conversion Factors – CCFs) im Sinne von Artikel 4 Absatz 1 Nummer 56
+der Verordnung (EU) Nr. 575/2013 für diese Art von
+Kreditrisikopositionen widerrufen.
+
+
+##### § 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000701128)
+
+(1) Das Institut meldet die Ergebnisse seiner Berechnungen für
+diejenigen seiner Risikopositionen oder Positionen, die in dem
+Referenzportfolio enthalten sind, wenn
+
+1.  für einen internen Ansatz nach § 1 Absatz 27 des Kreditwesengesetzes
+    die technischen Durchführungsstandards nach Artikel 78 Absatz 8 der
+    Richtlinie 2013/36/EU ein Referenzportfolio enthalten oder die
+    zuständige Behörde ein Referenzportfolio bestimmt hat und
+
+
+2.  ein Institut diesen internen Ansatz verwenden darf, um
+    risikogewichtete Positionsbeträge oder Eigenmittelanforderungen zu
+    ermitteln.
+
+
+
+
+(2) Das Institut meldet die Ergebnisse seiner Berechnungen für
+diejenigen seiner Risikopositionen oder Positionen, die in dem
+Referenzportfolio enthalten sind, wenn
+
+1.  für den alternativen Standardansatz nach Teil 3 Titel IV Kapitel 1a
+    der Verordnung (EU) Nr. 575/2013 die technischen
+    Durchführungsstandards nach Artikel 78 Absatz 8 der Richtlinie
+    2013/36/EU ein Referenzportfolio enthalten oder die zuständige Behörde
+    ein Referenzportfolio bestimmt hat und
+
+
+2.  ein Institut diesen Ansatz anwendet und zudem
+
+
+3.  der Umfang der dem Marktrisiko unterliegenden bilanziellen und
+    außerbilanziellen Geschäfte des Instituts nach Artikel 325a Absatz 1
+    Buchstabe b der Verordnung (EU) Nr. 575/2013 500 Millionen Euro oder
+    mehr beträgt.
+
+
+
+
+(3) Das Institut meldet die Ergebnisse der Berechnungen zur Bestimmung
+des Betrags der erwarteten Kreditverluste für diejenigen seiner
+Risikopositionen oder Positionen, die in dem Referenzportfolio
+enthalten sind, wenn
+
+1.  für die Bestimmung des Betrags der erwarteten Kreditverluste die
+    technischen Durchführungsstandards nach Artikel 78 Absatz 8 der
+    Richtlinie 2013/36/EU ein Referenzportfolio enthalten oder die
+    zuständige Behörde ein Referenzportfolio bestimmt hat und
+
+
+2.  ein Institut
+
+    a)  den IRB-Ansatz nach Artikel 143 Absatz 1 und 2 der Verordnung (EU) Nr.
+        575/2013 anwenden darf oder
+
+
+    b)  den Standardansatz nach Teil 3 Titel II Kapitel 2 der Verordnung (EU)
+        Nr. 575/2013 anwendet und von der Europäischen Bankenaufsichtsbehörde
+        auf der Grundlage der technischen Durchführungsstandards nach Artikel
+        78 Absatz 8 der Richtlinie 2013/36/EU als relevantes Institut
+        festgelegt wurde
+
+
+
+    und zudem
+
+
+3.  das Institut
+
+    a)  einen Abschluss im Einklang mit internationalen
+        Rechnungslegungsstandards erstellt, wie sie nach Maßgabe der
+        Verordnung (EG) Nr. 1606/2002 angewandt werden, oder
+
+
+    b)  die Bewertung von Vermögenswerten und außerbilanziellen Posten und die
+        Bestimmung der Eigenmittel im Einklang mit internationalen
+        Rechnungslegungsstandards nach Artikel 24 Absatz 2 der Verordnung (EU)
+        Nr. 575/2013 vornimmt.
+
+
+
+
+
+
+
+(4) Die Berechnungen und Meldungen nach den Absätzen 1 bis 3 müssen
+für jeden vom Institut verwendeten Ansatz getrennt erfolgen. Die
+Ergebnisse der Berechnungen zu einem Referenzportfolio sind mit einer
+Erläuterung der bei der Ermittlung der Ergebnisse angewandten Methoden
+zu melden. Die zuständige Behörde legt weitere Einzelheiten zu den
+Berechnungen und Meldungen, insbesondere die Meldefrequenz,
+Meldestichtage und Einreichungstermine, fest.
+
+
+##### § 6 Auswertung des aufsichtlichen Benchmarkings
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000801128)
+
+(1) Die zuständige Behörde erstellt eigene Referenzportfolios
+ausschließlich in Abstimmung mit der Europäischen
+Bankenaufsichtsbehörde.
+
+(2) Für jeden Ansatz, zu dem ein Institut nach § 5 Absatz 1 bis 3 die
+Ergebnisse seiner Berechnungen meldet, verwendet die zuständige
+Behörde die von den Instituten gemeldeten Informationen, um
+insbesondere die Spanne der risikogewichteten Positionsbeträge und der
+Eigenmittelanforderungen für diejenigen Risikopositionen oder
+Positionen eines Referenzportfolios zu überwachen, die sich aus den
+Ansätzen der meldepflichtigen Institute ergeben.
+
+(3) Für jeden Ansatz, zu dem ein Institut nach § 5 Absatz 1 bis 3 die
+Ergebnisse seiner Berechnungen meldet, bewertet die zuständige Behörde
+die Qualität dieses Ansatzes. Sie konzentriert sich dabei insbesondere
+auf
+
+1.  die Ansätze, die erhebliche Unterschiede in Bezug auf die
+    Eigenmittelanforderungen für dieselbe Risikoposition oder Position
+    aufweisen,
+
+
+2.  die Ansätze, die eine besonders hohe oder niedrige Variabilität
+    aufweisen, sowie
+
+
+3.  Fälle einer signifikanten und systematischen Unterschätzung der
+    Eigenmittelanforderungen.
+
+
+
+
+(4) Ergeben die Überwachung nach Absatz 2 und die Bewertung nach
+Absatz 3, dass für einen Ansatz die Ergebnisse bestimmter Institute
+erheblich von den Ergebnissen der Mehrheit der Institute abweichen
+oder dass nur wenige Gemeinsamkeiten bestehen, so dass sich eine weite
+Spanne an Ergebnissen ergibt, untersucht die zuständige Behörde die
+Gründe hierfür. Wenn klar festgestellt werden kann, dass der Ansatz
+eines Instituts zu einer Unterschätzung der Eigenmittelanforderungen
+führt, die nicht auf Unterschiede bei den zugrundeliegenden Risiken
+der Risikopositionen oder Positionen zurückgeführt werden kann,
+ergreift die zuständige Behörde angemessene Abhilfemaßnahmen. Bei
+ihrer Entscheidung über die Angemessenheit von Abhilfemaßnahmen sind
+die Ziele, die mit der Verwendung eines Ansatzes verfolgt werden, zu
+berücksichtigen und es ist sicherzustellen, dass die Abhilfemaßnahmen
+
+1.  nicht zu Standardisierungen oder bevorzugten Methoden führen,
+
+
+2.  keine falschen Anreize schaffen und
+
+
+3.  kein Herdenverhalten verursachen.
+
+
+
+
+
 #### Abschnitt 2 - Ergänzende Regelungen zum IRB-Ansatz
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000500000)
+
+
+##### § 7 IRB-Ansatz-Eignungsbeurteilungen für interne Ratingsysteme
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000901128)
+
+Die zuständige Behörde entscheidet über die Erlaubnis zur Verwendung
+des IRB-Ansatzes nach Artikel 143 Absatz 1 und 2 sowie über die nach
+Artikel 143 Absatz 3 der Verordnung (EU) Nr. 575/2013
+erlaubnispflichtigen Veränderungen (IRB-Ansatz-Eignungsbeurteilung)
+auf der Grundlage des Ergebnisses eines Auskunftsverlangens nach § 44
+Absatz 1 Satz 1 des Kreditwesengesetzes oder auf der Grundlage des
+Ergebnisses einer Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes. IRB-Ansatz-Eignungsbeurteilungen führt die
+zuständige Behörde erst dann durch, wenn das Institut für jedes der
+zur IRB-Ansatz-Eignungsbeurteilung angemeldeten Ratingsysteme die
+Verwendungsanforderungen nach Artikel 144 Absatz 1 Buchstabe f der
+Verordnung (EU) Nr. 575/2013 erfüllt hat und die
+Erfahrungsanforderungen nach Artikel 145 der Verordnung (EU) Nr.
+575/2013 in einem Umfang erfüllt hat, der die vollständige Erfüllung
+der Erfahrungsanforderungen bis zum beabsichtigten Zeitpunkt der
+Nutzung für jedes dieser Ratingsysteme ermöglicht.
+
+
+##### (XXXX) §§ 8 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001001128)
+
 
 
 ##### § 16 Erheblichkeitsschwelle für den 90-Tage-Verzug
@@ -148,16 +498,173 @@ Verordnung (EU) Nr. 575/2013 sind, der zu verwendende Prozentsatz 1
 Prozent beträgt.
 
 
+##### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001901128)
+
+
+
 #### Abschnitt 3 - Ergänzende Regelungen zur IMM
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000600000)
+
+
+##### § 18 IMM-Eignungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002001128)
+
+(1) Die zuständige Behörde entscheidet über die nach Artikel 283
+Absatz 1 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur
+Verwendung der auf einem internen Modell beruhenden Methode (IMM-
+Eignungsbeurteilung) auf der Grundlage des Ergebnisses eines
+Auskunftsverlangens nach § 44 Absatz 1 Satz 1 des Kreditwesengesetzes
+oder auch einer Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes.
+
+(2) Wesentliche Änderungen und Erweiterungen der auf einem internen
+Modell beruhenden Methode (IMM) bedürfen einer erneuten Erlaubnis.
+Absatz 1 gilt entsprechend. Jede anderweitige Änderung oder
+Erweiterung ist der zuständigen Behörde schriftlich anzuzeigen.
 
 
 #### Abschnitt 4 - Ergänzende Regelungen zu internen Einstufungsverfahren
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000700000)
 
 
+##### § 19 Eignungsbeurteilung für interne Einstufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002102128)
+
+(1) Eine Erlaubnis zur Anwendung eines internen Einstufungsverfahrens
+nach Artikel 265 Absatz 2 der Verordnung (EU) Nr. 575/2013 erteilt die
+zuständige Behörde für jedes interne Einstufungsverfahren, das nach
+einer Eignungsprüfung die Erlaubnisvoraussetzungen nach Artikel 265
+Absatz 2 dieser EU-Verordnung erfüllt und sämtliche in seinen
+Anwendungsbereich fallende Verbriefungspositionen vollständig erfasst.
+Institute haben vor der Erteilung einer Erlaubnis darzulegen, dass sie
+über hinreichende Erfahrungen mit solchen internen Verfahren verfügen,
+die den Anforderungen des Artikels 265 Absatz 2 der Verordnung (EU)
+Nr. 575/2013 im Wesentlichen entsprochen haben und deren
+Anwendungsbereich im Wesentlichen dem des internen
+Einstufungsverfahrens entspricht, für das eine Erlaubnis beantragt
+wurde.
+
+(2) Über die Erlaubnis zur Verwendung entscheidet die zuständige
+Behörde auf der Grundlage des Ergebnisses eines Auskunftsverlangens
+nach § 44 Absatz 1 Satz 1 des Kreditwesengesetzes oder auf der
+Grundlage des Ergebnisses einer Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes für jedes interne Einstufungsverfahren,
+
+1.  das ein Institut zur Eignungsprüfung angemeldet hat und
+
+
+2.  das ein Institut zum Zeitpunkt der Eignungsprüfung über einen
+    angemessenen Zeitraum als maßgebliches Instrument zur Messung und
+    Steuerung der wesentlichen Verbriefungspositionen verwendet hat, die
+    in den Anwendungsbereich des internen Einstufungsverfahren fallen, und
+    von dem das Institut danach überzeugt ist, dass es für seine
+    Einsatzzwecke geeignet ist.
+
+
+
+
+(3) Der durch das Institut zu bestimmende Anwendungsbereich eines
+internen Einstufungsverfahrens wird durch die nach ihren
+Risikoeigenschaften, insbesondere der Art der einer
+Verbriefungsposition zugrundeliegenden verbrieften
+Kreditrisikopositionen, den Ausstattungsmerkmalen der
+Verbriefungsposition, Verbriefungstransaktion oder eines
+Verbriefungsprogramms, in dessen Rahmen fortlaufend Wertpapiere
+überwiegend in der Form von Geldmarktpapieren mit einer
+Ursprungslaufzeit von längstens einem Jahr begeben werden (ABCP-
+Programm), oder dem verfügbaren Datenumfang, von diesem internen
+Einstufungsverfahren erfassbare Art von Verbriefungspositionen
+gebildet.
+
+(4) Wesentliche Änderungen und Erweiterungen eines internen
+Einstufungsverfahrens bedürfen einer erneuten Erlaubnis. Absatz 1 gilt
+entsprechend. Jede anderweitige Änderung oder Erweiterung ist der
+zuständigen Behörde schriftlich anzuzeigen.
+
+(5) Ein Institut, das nach erteilter Erlaubnis ein internes
+Einstufungsverfahren verwendet, darf die Eigenmittelanforderungen im
+Anwendungsbereich dieses internen Einstufungsverfahrens nur bei
+Vorliegen wesentlicher Gründe und nur nach erneuter Erlaubnis der
+zuständigen Behörde nach Artikel 261 oder Artikel 262 der Verordnung
+(EU) Nr. 575/2013 ermitteln. Die Erlaubnis ist vom Institut unter
+Angabe der Gründe bei der zuständigen Behörde zu beantragen.
+
+
+#### Abschnitt 5 - Ergänzende Regelungen zu Netting-Rahmenvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000801128)
+
+
+##### § 20 Interne Modelle für Netting-Rahmenvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002201128)
+
+(1) Die zuständige Behörde entscheidet über die nach Artikel 221
+Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 erforderliche
+Erlaubnis zur Verwendung eines internen Modells für Netting-
+Rahmenvereinbarungen (Eignungsbeurteilung für ein internes Modell für
+Netting-Rahmenvereinbarungen) auf der Grundlage des Ergebnisses eines
+Auskunftsverlangens nach § 44 Absatz 1 Satz 1 des Kreditwesengesetzes
+oder auf der Grundlage einer Prüfung nach § 44 Absatz 1 Satz 3 des
+Kreditwesengesetzes.
+
+(2) Wesentliche Änderungen und Erweiterungen eines internen Modells
+für Netting-Rahmenvereinbarungen bedürfen einer erneuten Erlaubnis.
+Absatz 1 gilt entsprechend. Jede anderweitige Änderung oder
+Erweiterung ist der zuständigen Behörde schriftlich anzuzeigen.
+
+(3) Ein Institut, das nach erteilter Erlaubnis ein internes Modell für
+Netting-Rahmenvereinbarungen verwendet, darf den vollständig
+angepassten Risikopositionswert (E\*) der Netting-Rahmenvereinbarung
+im Anwendungsbereich dieses internen Modells nur bei Vorliegen
+wesentlicher Gründe und nur nach erneuter Erlaubnis der zuständigen
+Behörde nach Artikel 220 der Verordnung (EU) Nr. 575/2013 ermitteln.
+Die Erlaubnis ist vom Institut unter Angabe der Gründe bei der
+zuständigen Behörde zu beantragen.
+
+
 #### Abschnitt 6 - Ergänzende Regelungen zu internen Modellen für Marktrisiken
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000900000)
+
+
+##### § 21 Interne-Modelle-Eignungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002301128)
+
+(1) Die zuständige Behörde entscheidet über die nach Artikel 325az
+Absatz 2 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur
+Anwendung des alternativen auf einem internen Modell beruhenden
+Ansatzes (Interne-Modelle-Eignungsbeurteilung) auf der Grundlage des
+Ergebnisses eines Auskunftsverlangens nach § 44 Absatz 1 Satz 1 des
+Kreditwesengesetzes oder auf der Grundlage einer Prüfung nach § 44
+Absatz 1 Satz 3 des Kreditwesengesetzes. Für wesentliche Änderungen
+und Erweiterungen gilt Satz 1 entsprechend.
+
+(2) Ein Institut, das nach erteilter Erlaubnis der zuständigen Behörde
+den alternativen auf einem internen Modell beruhenden Ansatz nach
+Artikel 325az Absatz 1 der Verordnung (EU) Nr. 575/2013 verwendet,
+darf die Eigenmittelanforderungen für die Risikopositionen im
+Anwendungsbereich dieses Ansatzes nur bei Vorliegen wesentlicher
+Gründe und nur nach erneuter Erlaubnis der zuständigen Behörde nach
+den Artikeln 325c bis 325ay oder den Artikeln 326 bis 361 der
+Verordnung (EU) Nr. 575/2013 ermitteln. Die Erlaubnis ist vom Institut
+unter Angabe der Gründe bei der zuständigen Behörde zu beantragen.
+
+
+### Kapitel 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001001128)
+
+
+#### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002401128)
+
+
+
+### Kapitel 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001101128)
+
+
+#### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002501128)
+
 
 
 ## Teil 3 - Nähere Bestimmungen zur Ermittlung der Eigenmittel
@@ -166,6 +673,105 @@ Prozent beträgt.
 
 ### Kapitel 1 - Nähere Bestimmungen zu den Übergangsvorschriften für die Ermittlung der Eigenmittel
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001300000)
+
+
+#### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002601128)
+
+
+
+#### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002701128)
+
+
+
+#### § 26 Prozentsätze für die Abzüge vom harten Kernkapital, zusätzlichen Kernkapital und Ergänzungskapital
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002801128)
+
+(1) Für die Zwecke der Übergangsvorschriften nach Artikel 469 Absatz 1
+Buchstabe a und c, Artikel 474 Buchstabe a und Artikel 476 Buchstabe a
+der Verordnung (EU) Nr. 575/2013 gelten die folgenden Prozentsätze:
+
+1.  20 Prozent im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2014;
+
+
+2.  40 Prozent im Zeitraum vom 1. Januar 2015 bis 31. Dezember 2015;
+
+
+3.  60 Prozent im Zeitraum vom 1. Januar 2016 bis 31. Dezember 2016 und
+
+
+4.  80 Prozent im Zeitraum vom 1. Januar 2017 bis 31. Dezember 2017.
+
+
+
+
+(2) Die in Absatz 1 genannten Prozentsätze gelten im jeweiligen
+Zeitraum entsprechend für
+
+1.  die Abzüge nach Artikel 36 Absatz 1 Buchstabe a
+    bis h der Verordnung (EU) Nr. 575/2013 mit Ausnahme des Abzugs
+    latenter Steuern, die von der künftigen Rentabilität abhängig sind und
+    aus zeitlichen Differenzen resultieren,
+
+
+2.  den nach Artikel 48 der Verordnung (EU) Nr. 575/2013 vorgeschriebenen
+    Abzug des aggregierten Betrags latenter Steuern, die von der künftigen
+    Rentabilität abhängig sind und aus zeitlichen Differenzen resultieren,
+
+
+3.  den nach Artikel 48 der Verordnung (EU) Nr. 575/2013 vorgeschriebenen
+    Abzug der Posten nach Artikel 36 Absatz 1 Buchstabe i der Verordnung
+    (EU) Nr. 575/2013,
+
+
+4.  jeden vorgeschriebenen Abzug nach Artikel 56 Buchstabe b bis d der
+    Verordnung (EU) Nr. 575/2013 und
+
+
+5.  jeden vorgeschriebenen Abzug nach Artikel 66 Buchstabe b bis d der
+    Verordnung (EU) Nr. 575/2013.
+
+
+
+
+(3) Abweichend von den in Absatz 1 genannten Prozentsätzen gelten für
+die in Artikel 36 Absatz 1 Buchstabe c der Verordnung (EU) Nr.
+575/2013 genannten Posten, die vor dem 1. Januar 2014 bestanden, für
+die Zwecke des Artikels 469 Absatz 1 Buchstabe c der Verordnung (EU)
+Nr. 575/2013 folgende Prozentsätze:
+
+1.  0 Prozent im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2014;
+
+
+2.  10 Prozent im Zeitraum vom 1. Januar 2015 bis 31. Dezember 2015;
+
+
+3.  20 Prozent im Zeitraum vom 1. Januar 2016 bis 31. Dezember 2016;
+
+
+4.  30 Prozent im Zeitraum vom 1. Januar 2017 bis 31. Dezember 2017;
+
+
+5.  40 Prozent im Zeitraum vom 1. Januar 2018 bis 31. Dezember 2018;
+
+
+6.  50 Prozent im Zeitraum vom 1. Januar 2019 bis 31. Dezember 2019;
+
+
+7.  60 Prozent im Zeitraum vom 1. Januar 2020 bis 31. Dezember 2020;
+
+
+8.  70 Prozent im Zeitraum vom 1. Januar 2021 bis 31. Dezember 2021;
+
+
+9.  80 Prozent im Zeitraum vom 1. Januar 2022 bis 31. Dezember 2022;
+
+
+10. 90 Prozent im Zeitraum vom 1. Januar 2023 bis 31. Dezember 2023.
+
+
+
 
 
 #### § 27 Prozentsätze für die Anerkennung von nicht als Minderheitenbeteiligungen geltenden Instrumenten und Positionen im konsolidierten harten Kernkapital
@@ -334,6 +940,30 @@ Kernkapitals und des Ergänzungskapitals folgende Prozentsätze:
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001400000)
 
 
+#### § 32 Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Absatz 5 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003401128)
+
+(1) Beteiligungen an Instituten, Finanzunternehmen oder Anbietern von
+Nebendienstleistungen, die nach der Äquivalenzmethode gemäß IAS 28.13
+in der jeweils geltenden Fassung der Verordnung (EU) 2023/1803
+bewertet werden, können, vorbehaltlich der Anwendung des § 10a Absatz
+4 des Kreditwesengesetzes, mit ihrem anteiligen bilanziellen
+Eigenkapital aus dem Abschluss, differenziert nach
+Eigenkapitalbestandteilen, in die Zusammenfassung nach § 10a Absatz 5
+des Kreditwesengesetzes einbezogen werden. Der nach der
+Äquivalenzmethode ermittelte fortgeführte Buchwert der Beteiligung ist
+vom harten Kernkapital der Gruppe abzuziehen, wobei der darin
+enthaltene Firmenwert in der Abzugsposition nach Artikel 36 Absatz 1
+Buchstabe b der Verordnung (EU) Nr. 575/2013 zu erfassen ist.
+
+(2) Absatz 1 gilt entsprechend bei Verwendung eines Abschlusses, der
+nicht nach Maßgabe der Rechnungslegungsstandards, die nach den
+Artikeln 2, 3 und 6 der Verordnung (EG) Nr. 1606/2002 des Europäischen
+Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung
+internationaler Rechnungslegungsstandards (ABl. L 243 vom 11.9.2002,
+S. 1) übernommen wurden, aufgestellt wurde.
+
+
 ## Teil 4 - Nähere Bestimmungen zu den Kapitalpuffern
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001501311)
 
@@ -383,6 +1013,51 @@ Tätigkeit von Kreditinstituten und die Beaufsichtigung von
 Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG
 (ABl. L 176 vom 27.6.2013, S. 338) abgibt.
+
+
+#### § 34 Veröffentlichung der Quote
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003601128)
+
+In den Fällen des § 10d Absatz 3 und 4 des Kreditwesengesetzes
+veröffentlicht die Bundesanstalt die für das jeweilige Quartal
+festgelegte Quote für den inländischen antizyklischen Kapitalpuffer
+auf ihrer Internetseite. Die Bundesanstalt unternimmt alle Schritte,
+die zur Koordinierung des Zeitpunkts der Veröffentlichung mit anderen
+benannten Behörden der Mitgliedstaaten im Sinne von Artikel 136 Absatz
+7 Unterabsatz 2 der Richtlinie 2013/36/EU angemessen sind. Zusätzlich
+werden mindestens noch die folgenden weiteren Angaben veröffentlicht:
+
+1.  das maßgebliche Kredite-BIP-Verhältnis und dessen Abweichung vom
+    langfristigen Trend,
+
+
+2.  der Puffer-Richtwert nach § 33 Absatz 1,
+
+
+3.  eine Begründung für die Quote für den inländischen antizyklischen
+    Kapitalpuffer,
+
+
+4.  bei einer Erhöhung der Quote für den inländischen antizyklischen
+    Kapitalpuffer das Datum, ab dem die Institute diese höhere Quote zur
+    Berechnung ihres institutsspezifischen antizyklischen Kapitalpuffers
+    verwenden müssen,
+
+
+5.  in den Fällen, in denen das Datum nach Nummer 4 weniger als zwölf
+    Monate nach dem Datum der Veröffentlichung dieser Erhöhung der Quote
+    für den inländischen antizyklischen Kapitalpuffer nach Satz 1 liegt,
+    die außergewöhnlichen Umstände, die eine kürzere Frist für die
+    Anwendung rechtfertigen,
+
+
+6.  bei einer Herabsetzung der Quote für den inländischen antizyklischen
+    Kapitalpuffer der Zeitraum, in dem keine Erhöhung der Quote für den
+    inländischen antizyklischen Kapitalpuffer zu erwarten ist, und eine
+    Begründung hierfür.
+
+
+
 
 
 #### § 35 Zusätzliche Veröffentlichungen für Quoten in Drittstaaten
@@ -478,6 +1153,101 @@ wurden.
 
 ### Kapitel 2 - Kapitalpuffer für systemische Risiken
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001900311)
+
+
+#### § 36a Berechnung des Kapitalpuffers für systemische Risiken
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE004201128)
+
+(1) Der Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des
+Kreditwesengesetzes kann für folgende Risikopositionen angeordnet
+werden:
+
+1.  alle im Inland belegenen Risikopositionen;
+
+
+2.  alle im Inland belegenen branchenspezifischen Risikopositionen
+
+    a)  des Mengengeschäfts gegenüber natürlichen Personen, die durch
+        Grundpfandrechte auf Wohnimmobilien besichert sind;
+
+
+    b)  gegenüber juristischen Personen, die durch Grundpfandrechte auf
+        gewerbliche Immobilien besichert sind;
+
+
+    c)  gegenüber juristischen Personen mit Ausnahme der in Buchstabe b
+        genannten Risikopositionen;
+
+
+    d)  gegenüber natürlichen Personen mit Ausnahme der in Buchstabe a
+        genannten Risikopositionen;
+
+
+
+
+
+3.  alle in anderen Staaten des Europäischen Wirtschaftsraums belegenen
+    Risikopositionen, für die § 10e Absatz 2 Satz 5 und Absatz 5 des
+    Kreditwesengesetzes gilt;
+
+
+4.  branchenspezifische Risikopositionen nach Nummer 2, die sich in
+    anderen Staaten des Europäischen Wirtschaftsraums befinden, jedoch
+    lediglich um die Anerkennung eines von einem anderen Staat des
+    Europäischen Wirtschaftsraums angeordneten Kapitalpuffers für
+    systemische Risiken nach § 10e Absatz 9 des Kreditwesengesetzes zu
+    ermöglichen;
+
+
+5.  in Drittstaaten belegene Risikopositionen oder
+
+
+6.  Teilgruppen einer der in Nummer 2 genannten Kategorien von
+    Risikopositionen.
+
+
+
+
+(2) Die Institute berechnen den Kapitalpuffer für systemische Risiken
+nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
+
+*    *        ![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
+
+
+   Dabei steht
+
+1.  B
+    SR für den Kapitalpuffer für systemische Risiken,
+
+
+2.  r
+    T für die Pufferquote, die für den Gesamtrisikobetrag des Instituts
+    gilt,
+
+
+3.  E
+    T für den gemäß Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013
+    berechneten Gesamtrisikobetrag eines Instituts,
+
+
+4.  i für den Index, der eine der Teilgruppen von Risikopositionen nach
+    Absatz 1 anzeigt,
+
+
+5.  r
+    i für die Pufferquote, die für den Gesamtrisikobetrag der Teilgruppe
+    der Risikopositionen
+    i gilt, und
+
+
+6.  E
+    i für den Risikobetrag eines Instituts für die Teilgruppe der
+    Risikopositionen
+    i, der gemäß Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013
+    berechnet wurde.
+
+
+
 
 
 ### Kapitel 3 - Kombinierte Kapitalpufferanforderung
@@ -629,6 +1399,11 @@ n für die Ordinalzahl des betreffenden Quartils.
 
 ## Teil 5 - Übergangs- und Schlussbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001800000)
+
+
+### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE004002128)
+
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten

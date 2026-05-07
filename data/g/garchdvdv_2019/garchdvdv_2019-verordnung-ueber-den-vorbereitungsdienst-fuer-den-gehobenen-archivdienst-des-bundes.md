@@ -279,6 +279,34 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 
+### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000701311)
+
+(1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
+Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens, in dem
+die Eignung und Befähigung der Bewerberinnen und Bewerber für den
+Vorbereitungsdienst festgestellt wird. Insbesondere wird festgestellt,
+ob die Bewerberinnen und Bewerber über das Allgemein- und Fachwissen,
+die Sprachkenntnisse, die kognitiven, methodischen und sozialen
+Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation
+verfügen, das oder die für die Erfüllung der Aufgaben im gehobenen
+Archivdienst erforderlich ist oder sind.
+
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so wird zugelassen,
+wer nach den eingereichten Unterlagen am besten geeignet erscheint.
+Bei der Zulassungsentscheidung sind insbesondere die Zeugnisnoten in
+den Fächern zu berücksichtigen, die für den Vorbereitungsdienst
+relevant sind. Zusätzlich werden schwerbehinderte und gleichgestellte
+behinderte Menschen zum Auswahlverfahren zugelassen, wenn sie nicht
+offensichtlich fachlich ungeeignet sind.
+
+(3) Wer zum Auswahlverfahren nicht zugelassen wird oder erfolglos
+daran teilgenommen hat, erhält eine schriftliche Mitteilung über die
+Ablehnung. Die Bewerbungsunterlagen werden vernichtet oder endgültig
+gelöscht.
+
+
 ### § 7 Auswahlkommission
 [Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000800000)
 

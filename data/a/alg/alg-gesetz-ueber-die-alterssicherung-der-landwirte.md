@@ -2167,6 +2167,32 @@ und mit Zustimmung des Bundesrates zu regeln.
 eines Beitragszuschusses bei jeder Bewilligung darauf hinzuweisen.
 
 
+#### § 62 Dateisysteme der landwirtschaftlichen Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE013907126)
+
+Für die Führung und den Inhalt der Dateisysteme der
+landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des
+Absatzes 1 Satz 1 Nummer 6 und 8, des Absatzes 3 und des Absatzes 3a
+des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe,
+dass in die Stammsatzdatei alle Personen und Unternehmen aufzunehmen
+sind, die von der landwirtschaftlichen Alterskasse, der
+landwirtschaftlichen Krankenkasse oder der landwirtschaftlichen
+Berufsgenossenschaft eine Mitgliedsnummer erhalten haben.
+
+
+#### § 63 Auskünfte der Deutschen Post AG
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014003126)
+
+Für Auskünfte der Deutschen Post AG an die für Sozialleistungen
+zuständigen Leistungsträger und diesen Gleichgestellte (§ 35 Erstes
+Buch Sozialgesetzbuch sowie § 69 Abs. 2 Zehntes Buch Sozialgesetzbuch)
+über personenbezogene Daten gilt § 151 Absatz 1, 2 und 4 des Sechsten
+Buches Sozialgesetzbuch entsprechend. Die landwirtschaftliche
+Alterskasse darf der Deutschen Post AG Auskünfte über personenbezogene
+Daten entsprechend § 151 Abs. 3 des Sechsten Buches Sozialgesetzbuch
+erteilen.
+
+
 #### § 64 Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 [Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014103126)
 

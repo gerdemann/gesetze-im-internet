@@ -22,6 +22,360 @@ Zuletzt geändert durch
 :   Art. 3 G v. 23.4.2026 I Nr. 112
 
 
+## § 1 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000116130)
+
+(1) Leistungsberechtigt nach diesem Gesetz sind Ausländer, die sich
+tatsächlich im Bundesgebiet aufhalten und die
+
+1.  eine Aufenthaltsgestattung nach dem Asylgesetz besitzen,
+
+
+1a. ein Asylgesuch geäußert haben und nicht die in den Nummern 1, 2 bis 5
+    und 7 genannten Voraussetzungen erfüllen,
+
+
+2.  über einen Flughafen einreisen wollen und denen die Einreise nicht
+    oder noch nicht gestattet ist,
+
+
+3.  eine Aufenthaltserlaubnis besitzen
+
+    a)  wegen des Krieges in ihrem Heimatland nach § 23 Absatz 1 des
+        Aufenthaltsgesetzes,
+
+
+    b)  nach § 25 Absatz 4 Satz 1 des Aufenthaltsgesetzes oder
+
+
+    c)  nach § 25 Absatz 5 des Aufenthaltsgesetzes, sofern die Entscheidung
+        über die Aussetzung ihrer Abschiebung noch nicht 18 Monate
+        zurückliegt,
+
+
+
+
+
+4.  eine Duldung nach § 60a des Aufenthaltsgesetzes besitzen,
+
+
+5.  vollziehbar ausreisepflichtig sind, auch wenn eine
+    Abschiebungsandrohung noch nicht oder nicht mehr vollziehbar ist,
+
+
+6.  Ehegatten, Lebenspartner oder minderjährige Kinder der in den Nummern
+    1 bis 5 genannten Personen sind, ohne daß sie selbst die dort
+    genannten Voraussetzungen erfüllen,
+
+
+7.  einen Folgeantrag nach § 71 des Asylgesetzes oder einen Zweitantrag
+    nach § 71a des Asylgesetzes stellen oder
+
+
+8.
+    a)  eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes
+        besitzen, die ihnen nach dem 24. Februar 2022 und vor dem 1. Juni 2022
+        erteilt wurde, oder
+
+
+    b)  eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in
+        Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes
+        besitzen, die nach dem 24. Februar 2022 und vor dem 1. Juni 2022
+        ausgestellt wurde,
+
+
+
+    und bei denen weder eine erkennungsdienstliche Behandlung nach § 49
+    des Aufenthaltsgesetzes oder nach § 16 des Asylgesetzes durchgeführt
+    worden ist, noch deren Daten nach § 3 Absatz 1 des AZR-Gesetzes
+    gespeichert wurden; das Erfordernis einer erkennungsdienstlichen
+    Behandlung gilt nicht, soweit eine erkennungsdienstliche Behandlung
+    nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
+
+
+
+
+(2) Die in Absatz 1 bezeichneten Ausländer sind für die Zeit, für die
+ihnen ein anderer Aufenthaltstitel als die in Absatz 1 Nr. 3
+bezeichnete Aufenthaltserlaubnis mit einer Gesamtgeltungsdauer von
+mehr als sechs Monaten erteilt worden ist, nicht nach diesem Gesetz
+leistungsberechtigt.
+
+(3) Die Leistungsberechtigung endet mit der Ausreise oder mit Ablauf
+des Monats, in dem die Leistungsvoraussetzung entfällt. Für
+minderjährige Kinder, die eine Aufenthaltserlaubnis nach § 25 Absatz 5
+des Aufenthaltsgesetzes besitzen und die mit ihren Eltern in einer
+Haushaltsgemeinschaft leben, endet die Leistungsberechtigung auch
+dann, wenn die Leistungsberechtigung eines Elternteils, der eine
+Aufenthaltserlaubnis nach § 25 Absatz 5 des Aufenthaltsgesetzes
+besitzt, entfallen ist.
+
+(3a) Sofern kein Fall des Absatzes 1 Nummer 8 vorliegt, sind
+Leistungen nach diesem Gesetz mit Ablauf des Monats ausgeschlossen, in
+dem Leistungsberechtigten, die gemäß § 49 des Aufenthaltsgesetzes
+erkennungsdienstlich behandelt worden sind und eine
+Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes
+beantragt haben, eine entsprechende Fiktionsbescheinigung nach § 81
+Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des
+Aufenthaltsgesetzes ausgestellt worden ist. Der Ausschluss nach Satz 1
+gilt bis zur Entscheidung der Ausländerbehörde über den Antrag auf
+Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des
+Aufenthaltsgesetzes. Das Erfordernis einer erkennungsdienstlichen
+Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine
+erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes
+nicht vorgesehen ist.
+
+(4) Leistungsberechtigte nach Absatz 1 Nummer 5,
+
+1.  denen bereits von einem anderen Mitgliedstaat der Europäischen Union
+    oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne
+    von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist,
+    der fortbesteht, oder
+
+
+2.  deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration
+    und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31
+    Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine
+    Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des
+    Asylgesetzes angeordnet wurde und somit durch das Bundesamt für
+    Migration und Flüchtlinge auch die rechtliche und tatsächliche
+    Möglichkeit der Ausreise bereits festgestellt wurde, auch wenn die
+    Entscheidung noch nicht unanfechtbar ist,
+
+
+
+haben keinen Anspruch auf Leistungen nach diesem Gesetz; in den Fällen
+der Nummer 2 wird vermutet, dass die freiwillige Ausreise rechtlich
+und tatsächlich möglich ist. Hilfebedürftigen Ausländern, die Satz 1
+unterfallen, werden bis zur Ausreise, längstens jedoch für einen
+Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur
+eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu
+überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit
+dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über
+den Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die
+Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen
+umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz
+1 und Absatz 2. Sie sollen als Sachleistung erbracht werden; die
+Gewährung von Geldleistungen ist ausgeschlossen. Soweit dies im
+Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten
+nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen
+nach den § 3 Absatz 1 Satz 1 und § 4 oder zur Deckung besonderer
+Bedürfnisse von Kindern gewährt; ebenso sind Leistungen über einen
+Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im
+Einzelfall auf Grund besonderer Umstände zur Überwindung einer
+besonderen Härte und zur Deckung einer zeitlich befristeten
+Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf
+Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7
+gilt entsprechend, soweit die Personen allein durch die angemessenen
+Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen
+Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als
+Darlehen zu erbringen.
+
+
+## § 1a Anspruchseinschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001810130)
+
+(1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, für die ein
+Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem
+auf den Ausreisetermin folgenden Tag keinen Anspruch auf Leistungen
+nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte aus Gründen,
+die sie nicht zu vertreten haben, nicht durchgeführt werden. Ihnen
+werden bis zu ihrer Ausreise oder der Durchführung ihrer Abschiebung
+nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung und
+Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege
+gewährt. Nur soweit im Einzelfall besondere Umstände vorliegen, können
+ihnen auch andere Leistungen im Sinne von § 3 Absatz 1 Satz 1 gewährt
+werden. Die Leistungen sollen als Sachleistungen erbracht werden.
+
+(2) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5 und
+Leistungsberechtigte nach § 1 Absatz 1 Nummer 6, soweit es sich um
+Familienangehörige der in § 1 Absatz 1 Nummer 4 und 5 genannten
+Personen handelt, die sich in den Geltungsbereich dieses Gesetzes
+begeben haben, um Leistungen nach diesem Gesetz zu erlangen, erhalten
+nur Leistungen entsprechend Absatz 1.
+
+(3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5, bei denen
+aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende
+Maßnahmen nicht vollzogen werden können, erhalten ab dem auf die
+Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer
+Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend Absatz
+1\. Können bei nach § 1 Absatz 1 Nummer 6 leistungsberechtigten
+Ehegatten, Lebenspartnern oder minderjährigen Kindern von
+Leistungsberechtigten nach § 1 Absatz 1 Nummer 4 oder 5 aus von ihnen
+selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht
+vollzogen werden, so gilt Satz 1 entsprechend.
+
+(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 5, für
+die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU)
+Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni
+2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des
+Mitgliedstaats, der für die Prüfung eines von einem
+Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat
+gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L
+180 vom 29.6.2013, S. 31) nach einer Verteilung durch die Europäische
+Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus
+teilnehmender Drittstaat, der die Verordnung (EU) Nr. 604/2013
+anwendet, zuständig ist, erhalten ebenfalls nur Leistungen
+entsprechend Absatz 1. Satz 1 gilt entsprechend für
+Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 1a, denen bereits
+von einem anderen Mitgliedstaat der Europäischen Union oder von einem
+am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1
+
+1.  internationaler Schutz oder
+
+
+2.  aus anderen Gründen ein Aufenthaltsrecht gewährt worden ist,
+
+
+
+wenn der internationale Schutz oder das aus anderen Gründen gewährte
+Aufenthaltsrecht fortbesteht. Satz 2 Nummer 2 gilt für
+Leistungsberechtigte nach § 1 Absatz 1 Nummer 5 entsprechend.
+
+(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a oder 7
+erhalten nur Leistungen entsprechend Absatz 1, wenn
+
+1.  sie ihrer Pflicht nach § 13 Absatz 3 Satz 3 des Asylgesetzes nicht
+    nachkommen,
+
+
+2.  sie ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 4 des
+    Asylgesetzes nicht nachkommen,
+
+
+3.  das Bundesamt für Migration und Flüchtlinge festgestellt hat, dass sie
+    ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 5 des Asylgesetzes
+    nicht nachkommen,
+
+
+4.  das Bundesamt für Migration und Flüchtlinge festgestellt hat, dass sie
+    ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 6 des Asylgesetzes
+    nicht nachkommen,
+
+
+5.  sie ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 7 des
+    Asylgesetzes nicht nachkommen,
+
+
+6.  sie den gewährten Termin zur förmlichen Antragstellung bei der
+    zuständigen Außenstelle des Bundesamtes für Migration und Flüchtlinge
+    oder dem Bundesamt für Migration und Flüchtlinge nicht wahrgenommen
+    haben oder
+
+
+7.  sie Angaben über ihre Identität oder Staatsangehörigkeit verweigern,
+
+
+
+es sei denn, sie haben die Verletzung der Mitwirkungspflichten oder
+die Nichtwahrnehmung des Termins nicht zu vertreten oder ihnen war die
+Einhaltung der Mitwirkungspflichten oder die Wahrnehmung des Termins
+aus wichtigen Gründen nicht möglich. Die Anspruchseinschränkung nach
+Satz 1 endet, sobald sie die fehlende Mitwirkungshandlung erbracht
+oder den Termin zur förmlichen Antragstellung wahrgenommen haben.
+
+(6) Leistungsberechtigte nach § 1 Absatz 1, die nach Vollendung des
+18\. Lebensjahres vorsätzlich oder grob fahrlässig Vermögen, das gemäß
+§ 7 Absatz 1 und 5 vor Eintritt von Leistungen nach diesem Gesetz
+aufzubrauchen ist,
+
+1.  entgegen § 9 Absatz 3 dieses Gesetzes in Verbindung mit § 60 Absatz 1
+    Satz 1 Nummer 1 des Ersten Buches Sozialgesetzbuch nicht angeben oder
+
+
+2.  entgegen § 9 Absatz 3 dieses Gesetzes in Verbindung mit § 60 Absatz 1
+    Satz 1 Nummer 2 des Ersten Buches Sozialgesetzbuch nicht unverzüglich
+    mitteilen
+
+
+
+und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben
+nur Anspruch auf Leistungen entsprechend Absatz 1.
+
+(7) Soweit hinreichend begründet und verhältnismäßig, erhalten
+Leistungsberechtigte nach § 1 Absatz 1 für die Dauer von höchstens
+einem Monat ebenso nur Leistungen entsprechend Absatz 1, wenn sie
+durch ihr Verhalten die Ordnung in der Aufnahmeeinrichtung im Sinne
+des § 44 des Asylgesetzes oder der Gemeinschaftsunterkunft im Sinne
+des § 53 des Asylgesetzes schwerwiegend beeinträchtigt oder in diesen
+Einrichtungen Personen bedroht oder sich gewalttätig verhalten haben.
+Die Verstöße nach Satz 1 werden der für die Leistungsgewährung
+zuständigen Behörde von der Leitung der Unterkunft schriftlich oder
+elektronisch mitgeteilt. Bei der Bemessung der Einschränkungsdauer
+werden Art und Umfang des Verstoßes und die konkreten Umstände, unter
+denen dieser Verstoß begangen wurde, berücksichtigt.
+
+
+## § 2 Leistungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000216130)
+
+(1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch
+Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf
+diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich
+seit 36 Monaten ohne wesentliche Unterbrechung im Bundesgebiet
+aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich
+selbst beeinflusst haben. Die Sonderregelungen für Auszubildende nach
+§ 22 des Zwölften Buches Sozialgesetzbuch finden dabei jedoch keine
+Anwendung auf
+
+1.  Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 3 und 4 in einer nach
+    den §§ 51, 57 und 58 des Dritten Buches Sozialgesetzbuch dem Grunde
+    nach förderungsfähigen Ausbildung sowie
+
+
+2.  Leistungsberechtigte nach § 1 Absatz 1 Nummer 3 und 4 in einer nach
+    dem Bundesausbildungsförderungsgesetz dem Grunde nach
+    förderungsfähigen Ausbildung, deren Bedarf sich nach den §§ 12, 13
+    Absatz 1 in Verbindung mit Absatz 2 Nummer 1 oder nach § 13 Absatz 1
+    Nummer 1 in Verbindung mit Absatz 2 Nummer 2 des
+    Bundesausbildungsförderungsgesetzes bemisst und die Leistungen nach
+    dem Bundesausbildungsförderungsgesetz erhalten.
+
+
+
+Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem
+Bundesausbildungsförderungsgesetz dem Grunde nach förderungsfähigen
+Ausbildung gilt anstelle des § 22 Absatz 1 des Zwölften Buches
+Sozialgesetzbuch, dass die zuständige Behörde Leistungen nach dem
+Dritten oder Vierten Kapitel des Zwölften Buches Sozialgesetzbuch als
+Beihilfe oder als Darlehen gewährt. § 28 des Zwölften Buches
+Sozialgesetzbuch in Verbindung mit dem Regelbedarfs-Ermittlungsgesetz
+und den §§ 28a, 40 des Zwölften Buches Sozialgesetzbuch findet auf
+Leistungsberechtigte nach Satz 1 mit den Maßgaben entsprechende
+Anwendung, dass
+
+1.  bei der Unterbringung in einer Gemeinschaftsunterkunft im Sinne von §
+    53 Absatz 1 des Asylgesetzes oder in einer Aufnahmeeinrichtung nach §
+    44 Absatz 1 des Asylgesetzes für jede erwachsene Person ein
+    Regelbedarf in Höhe der Regelbedarfsstufe 2 anerkannt wird;
+
+
+2.  für jede erwachsene Person, die das 25. Lebensjahr noch nicht
+    vollendet hat, unverheiratet ist und mit mindestens einem Elternteil
+    in einer Wohnung im Sinne von § 8 Absatz 1 Satz 2 des Regelbedarfs-
+    Ermittlungsgesetzes zusammenlebt, ein Regelbedarf in Höhe der
+    Regelbedarfsstufe 3 anerkannt wird.
+
+
+
+
+(2) Bei der Unterbringung von Leistungsberechtigten nach Absatz 1 in
+einer Gemeinschaftsunterkunft im Sinne des § 53 Absatz 1 des
+Asylgesetzes oder in einer Aufnahmeeinrichtung im Sinne des § 44
+Absatz 1 des Asylgesetzes bestimmt die zuständige Behörde die Form der
+Leistung auf Grund der örtlichen Umstände. Unabhängig von der Art der
+Unterbringung ist die Leistungserbringung auch in Form der Bezahlkarte
+möglich. Soweit einzelne Bedarfe des monatlichen Regelbedarfs
+entsprechend § 27a Absatz 2 Satz 1 des Zwölften Buches
+Sozialgesetzbuch nicht mittels der Bezahlkarte gedeckt werden können,
+sind diese als Geldleistung zu erbringen.
+
+(3) Minderjährige Kinder, die mit ihren Eltern oder einem Elternteil
+in einer Haushaltsgemeinschaft leben, erhalten Leistungen nach Absatz
+1 auch dann, wenn mindestens ein Elternteil in der
+Haushaltsgemeinschaft Leistungen nach Absatz 1 erhält.
+
+
 ## § 3 Grundleistungen
 [Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000318130)
 
@@ -386,6 +740,114 @@ Asylbewerberleistungsgesetzes beantragt wird.
 Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den
 §§ 3, 4 und 6 ist § 18 des Zwölften Buches Sozialgesetzbuch
 entsprechend anzuwenden.
+
+
+## § 7 Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002902130)
+
+(1) Einkommen und Vermögen, über das verfügt werden kann, sind von dem
+Leistungsberechtigten und seinen Familienangehörigen, die im selben
+Haushalt leben, vor Eintritt von Leistungen nach diesem Gesetz
+aufzubrauchen. § 20 des Zwölften Buches Sozialgesetzbuch findet
+entsprechende Anwendung. Bei der Unterbringung in einer Einrichtung,
+in der Sachleistungen gewährt werden, haben Leistungsberechtigte,
+soweit Einkommen und Vermögen im Sinne des Satzes 1 vorhanden sind,
+für erhaltene Leistungen dem Kostenträger für sich und ihre
+Familienangehörigen die Kosten in entsprechender Höhe der in § 3a
+Absatz 2 genannten Leistungen sowie die Kosten der Unterkunft, Heizung
+und Haushaltsenergie zu erstatten; für die Kosten der Unterkunft,
+Heizung und Haushaltsenergie können die Länder Pauschalbeträge
+festsetzen oder die zuständige Behörde dazu ermächtigen.
+
+(2) Nicht als Einkommen nach Absatz 1 zu berücksichtigen sind:
+
+1.  Leistungen nach diesem Gesetz,
+
+
+2.  Leistungen nach Gesetzen, die eine entsprechende Anwendung des
+    Vierzehnten Buches Sozialgesetzbuch vorsehen,
+
+
+3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden
+    an Leben sowie an Körper oder Gesundheit bis zur Höhe der
+    vergleichbaren Leistungen nach dem Vierzehnten Buch Sozialgesetzbuch,
+
+
+4.  eine Entschädigung, die wegen eines Schadens, der nicht
+    Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs
+    geleistet wird,
+
+
+5.  eine Aufwandsentschädigung nach § 5 Absatz 2,
+
+
+6.  eine Mehraufwandsentschädigung, die Leistungsberechtigten im Rahmen
+    einer Flüchtlingsintegrationsmaßnahme im Sinne von § 5a ausgezahlt
+    wird und
+
+
+7.  ein Fahrtkostenzuschuss, der den Leistungsberechtigten von dem
+    Bundesamt für Migration und Flüchtlinge zur Sicherstellung ihrer
+    Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes
+    oder an der berufsbezogenen Deutschsprachförderung nach § 45a des
+    Aufenthaltsgesetzes gewährt wird.
+
+
+
+
+(3) Einkommen aus Erwerbstätigkeit bleiben bei Anwendung des Absatzes
+1 in Höhe von 25 vom Hundert außer Betracht, höchstens jedoch in Höhe
+von 50 vom Hundert der maßgeblichen Bedarfsstufe des Geldbetrags zur
+Deckung aller notwendigen persönlichen Bedarfe nach § 3a Absatz 1 und
+des notwendigen Bedarfs nach § 3a Absatz 2, jeweils in Verbindung mit
+§ 3a Absatz 4. Erhält eine leistungsberechtigte Person mindestens aus
+einer Tätigkeit Bezüge oder Einnahmen, die nach § 3 Nummer 12, 26, 26a
+oder 26b des Einkommensteuergesetzes steuerfrei sind, ist abweichend
+von Satz 1 ein Betrag von bis zu einem Zwölftel des in § 3 Nummer 26
+des Einkommensteuergesetzes genannten Betrags monatlich nicht als
+Einkommen zu berücksichtigen. Von den Einkommen nach Absatz 1 Satz 1
+sind ferner abzusetzen
+
+1.  auf das Einkommen entrichtete Steuern,
+
+
+2.  Pflichtbeiträge zur Sozialversicherung einschließlich der Beiträge zur
+    Arbeitsförderung,
+
+
+3.  Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen
+    Einrichtungen, soweit diese Beiträge gesetzlich vorgeschrieben sind,
+    und
+
+
+4.  die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben.
+
+
+
+Übersteigt das Einkommen in den Fällen von Satz 2 den Betrag von einem
+Zwölftel des in § 3 Nummer 26 des Einkommensteuergesetzes genannten
+Betrags monatlich, findet Satz 3 Nummer 3 und 4 mit der Maßgabe
+Anwendung, dass eine Absetzung der dort genannten Aufwendungen nur
+erfolgt, soweit die oder der Leistungsberechtigte nachweist, dass die
+Summe dieser Aufwendungen den Betrag von einem Zwölftel des in § 3
+Nummer 26 des Einkommensteuergesetzes genannten Betrags monatlich
+übersteigt. Die Möglichkeit zur Absetzung der Beträge nach Satz 3 von
+Einkommen aus Erwerbstätigkeit bleibt unberührt.
+
+(4) Hat ein Leistungsberechtigter einen Anspruch gegen einen anderen,
+so kann die zuständige Behörde den Anspruch in entsprechender
+Anwendung des § 93 des Zwölften Buches Sozialgesetzbuch auf sich
+überleiten.
+
+(5) Von dem Vermögen nach Absatz 1 Satz 1 ist für den
+Leistungsberechtigten und seine Familienangehörigen, die im selben
+Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro
+abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner
+Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung
+der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
+Dasselbe gilt für Entschädigungszahlungen nach Gesetzen, die eine
+entsprechende Anwendung des Kapitels 9 des Vierzehnten Buches
+Sozialgesetzbuch vorsehen.
 
 
 ## § 7a Sicherheitsleistung

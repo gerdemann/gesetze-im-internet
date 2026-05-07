@@ -2547,6 +2547,412 @@ Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 (4) (weggefallen)
 
 
+##### § 55a Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011108128)
+
+(1) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der
+öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt
+werden, ob das inländische Unternehmen
+
+1.  Betreiber einer kritischen Anlage im Sinne des § 2 Nummer 3 des
+    KRITIS-Dachgesetzes ist,
+
+
+2.  kritische Komponenten im Sinne des § 2 Nummer 23 des BSI-Gesetzes
+    entwickelt oder herstellt oder Software, die branchenspezifisch zum
+    Betrieb von kritischen Anlagen im Sinne des § 2 Nummer 3 des KRITIS-
+    Dachgesetzes dient, besonders entwickelt oder herstellt,
+
+
+3.  zu organisatorischen Maßnahmen nach § 170 des
+    Telekommunikationsgesetzes verpflichtet ist oder technische
+    Einrichtungen zur Umsetzung gesetzlich vorgesehener Maßnahmen zur
+    Überwachung der Telekommunikation herstellt oder in der Vergangenheit
+    hergestellt hat und über Kenntnisse der oder sonstigen Zugang zu der
+    den technischen Einrichtungen zugrundeliegenden Technologie verfügt,
+
+
+4.  Cloud-Computing-Dienste erbringt und die hierfür genutzten Anlagen die
+    im Anhang der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 des
+    KRITIS-Dachgesetzes genannten Schwellenwerte in Bezug auf den
+    jeweiligen Cloud-Computing-Dienst erreichen oder überschreiten,
+
+
+5.  eine Zulassung für Komponenten oder Dienste der Telematikinfrastruktur
+    nach § 325 oder § 311 Absatz 6 des Fünften Buches Sozialgesetzbuch
+    besitzt,
+
+
+6.  ein Unternehmen der Medienwirtschaft ist, das zur öffentlichen
+    Meinungsbildung beiträgt und sich durch besondere Aktualität und
+    Breitenwirkung auszeichnet,
+
+
+7.  Dienstleistungen erbringt, die zur Sicherstellung der Störungsfreiheit
+    und Funktionsfähigkeit staatlicher Kommunikationsinfrastrukturen im
+    Sinne des § 2 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 des BDBOS-
+    Gesetzes erforderlich sind,
+
+
+8.[^f816116_01_BJNR286500013BJNE011108128]
+  persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der
+    Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom
+    9\. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der
+    Richtlinie 89/686/EWG des Rates (ABl. L 81 vom 31.3.2016, S. 51),
+    soweit diese dem Schutz vor Risiken der Kategorie III des Anhangs I
+    der Verordnung (EU) 2016/425 dienen, entwickelt oder herstellt, oder
+    Anlagen zur Produktion von Filtervliesen entwickelt oder herstellt,
+    mit denen Filtervliese hergestellt werden können, die als
+    Ausgangswerkstoff für Atemschutzmasken als Persönliche
+    Schutzausrüstung zum Schutz gegen schädliche biologische Agenzien im
+    Sinne der Kategorie III des Anhangs I der Verordnung (EU) 2016/425
+    oder für medizinische Gesichtsmasken nach DIN EN 14683 „Medizinische
+    Gesichtsmasken – Anforderungen und Prüfverfahren; Deutsche Fassung EN
+    14683:2019+AC:2019“, Ausgabe Oktober 2019
+    , geeignet sind,
+
+
+9.  für die Gewährleistung der gesundheitlichen Versorgung der Bevölkerung
+    wesentliche Arzneimittel im Sinne des § 2 Absatz 1 des
+    Arzneimittelgesetzes, einschließlich deren Ausgangs- und Wirkstoffe,
+    entwickelt, herstellt oder in Verkehr bringt oder Inhaber einer
+    entsprechenden arzneimittelrechtlichen Zulassung ist,
+
+
+10. Medizinprodukte im Sinne des Medizinprodukterechts, die zur Diagnose,
+    Verhütung, Überwachung, Vorhersage, Prognose, Behandlung oder
+    Linderung von lebensbedrohlichen und hochansteckenden
+    Infektionskrankheiten bestimmt sind, entwickelt oder herstellt,
+
+
+11. In-vitro-Diagnostika im Sinne des Medizinprodukterechts, die dazu
+    dienen, Informationen über physiologische oder pathologische Prozesse
+    oder Zustände oder zur Festlegung oder Überwachung therapeutischer
+    Maßnahmen im Zusammenhang mit lebensbedrohlichen und hochansteckenden
+    Infektionskrankheiten zu liefern, entwickelt oder herstellt,
+
+
+12. Betreiber eines hochwertigen Erdfernerkundungssystems im Sinne des § 2
+    Absatz 1 Nummer 4 des Satellitendatensicherheitsgesetzes ist,
+
+
+13. Güter entwickelt oder herstellt, die mittels Verfahren der Künstlichen
+    Intelligenz konkrete Anwendungsprobleme lösen und zur eigenständigen
+    Optimierung ihrer Algorithmen fähig sind, und die dazu genutzt werden
+    können automatisiert
+
+    a)  Cyber-Angriffe durchzuführen,
+
+
+    b)  Personen zu imitieren, um gezielte Desinformation zu verbreiten,
+
+
+    c)  als Mittel zur Auswertung von Sprachkommunikation oder zur
+        biometrischen Fernidentifikation von Personen zum Zwecke der
+        Überwachung, die bei objektiver Betrachtung auch zur internen
+        Repression geeignet ist verwendet zu werden, oder
+
+
+    d)  Bewegungs-, Standort-, Verkehrs- oder Ereignisdaten über Personen zum
+        Zwecke der Überwachung, die bei objektiver Betrachtung auch zur
+        internen Repression geeignet ist, zu analysieren,
+
+
+
+
+
+14. Kraftfahrzeuge oder unbemannte Luftfahrzeuge, die über eine technische
+    Ausrüstung für die Steuerung von automatisierten oder autonomen Fahr-
+    oder Navigationsfunktionen verfügen, oder die für die Steuerung
+    solcher Fahr- oder Navigationsfunktionen wesentlichen Komponenten oder
+    hierfür erforderliche Software entwickelt oder herstellt,
+
+
+15. Entwickler oder Hersteller von Robotern, auch automatisiert oder
+    autonom mobil, mit folgenden Eigenschaften ist:
+
+    a)  besonders konstruiert für die Handhabung hochexplosiver Stoffe,
+
+
+    b)  besonders konstruiert oder ausgelegt als strahlungsgehärtet, um ohne
+        Funktionseinbuße einer Strahlendosis von mehr als 5 x 10
+        3 Gy (Silizium) standhalten zu können,
+
+
+    c)  besonders konstruiert für eine Betriebsfähigkeit in Höhen über 30 000
+        Meter oder
+
+
+    d)  besonders konstruiert für eine Betriebsfähigkeit in Wassertiefen ab
+        200 Meter,
+
+
+
+
+
+16. Entwickler, Hersteller oder Veredler von
+
+    a)  mikro- oder nanoelektronischen nicht-optischen Schaltungen
+        (integrierte Schaltungen) auf einem Substrat sowie diskreten
+        Halbleitern,
+
+
+    b)  mikro- oder nanostrukturierten optischen Schaltungen auf einem
+        Substrat sowie diskreten optischen Bauelementen oder
+
+
+    c)  Herstellungs- oder Bearbeitungswerkzeugen, hierbei insbesondere
+        Kristallzucht-, Belichtungs-, Maskenherstellungs-, Faserzieh- oder
+        Beschichtungsanlagen, sowie Schleif-, Ätz-, Dotier- oder
+        Sägeausrüstung oder Reinraumtransporteinrichtungen, Testwerkzeuge und
+        Masken, für Güter im Sinne der Buchstaben a oder b
+
+
+
+    ist,
+
+
+17. IT-Produkte oder wesentliche Komponenten solcher Produkte mit dem Ziel
+    der Veräußerung an Dritte entwickelt oder herstellt, die als das
+    wesentliche Funktionsmerkmal
+
+    a)  dem Schutz der Verfügbarkeit, Integrität, Authentizität oder
+        Vertraulichkeit informationstechnischer Systeme, Komponenten oder
+        Prozesse,
+
+
+    b)  der Abwehr von Angriffen auf IT-Systeme einschließlich der
+        dazugehörigen Schadensanalyse und Wiederherstellung betroffener IT-
+        Systeme oder
+
+
+    c)  der informationstechnischen Aufklärung von Straftaten und zur
+        Beweissicherung durch Strafverfolgungsbehörden
+
+
+
+    dienen,
+
+
+18. ein Luftfahrtunternehmen mit Betriebsgenehmigung im Sinne der
+    Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des
+    Rates vom 24. September 2008 über gemeinsame Vorschriften für die
+    Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293
+    vom 31.10.2008, S. 3) betreibt oder Güter der Unterkategorien 7A, 7B,
+    7D, 7E, 9A, 9B, 9D oder 9E des Anhangs I der Verordnung (EU) 2021/821
+    oder Güter oder Technologien, die für die Verwendung in der Raumfahrt
+    oder für den Einsatz in Raumfahrtinfrastruktursystemen bestimmt sind,
+    entwickelt oder herstellt,
+
+
+19. Güter der Kategorie 0 oder der Listenpositionen 1B225, 1B226, 1B228,
+    1B231, 1B232, 1B233 oder 1B235 des Anhangs I der Verordnung (EU)
+    2021/821 entwickelt, herstellt, modifiziert oder nutzt,
+
+
+20. Entwickler oder Hersteller von Gütern und wesentlichen Komponenten der
+
+    a)  Quanteninformatik, insbesondere Quantencomputer und Quantensimulation,
+
+
+    b)  Quantenkommunikation, insbesondere Quantenkryptographie, oder
+
+
+    c)  quantenbasierten Messtechnik, insbesondere Quantensensoren und Güter
+        der Quantenmetrologie,
+
+
+
+    ist,
+
+
+21. Entwickler oder Hersteller von
+
+    a)  Gütern, mit denen Bauteile aus metallischen oder keramischen
+        Werkstoffen für industrielle Anwendungen mittels additiver
+        Fertigungsverfahren hergestellt werden, hierbei insbesondere
+        pulverbasierte Fertigungsverfahren, die eine Schutzgasatmosphäre
+        besitzen und als Energiequelle einen Laser oder Elektronenstrahl
+        verwenden,
+
+
+    b)  wesentlichen Komponenten der unter Buchstabe a genannten Güter oder
+
+
+    c)  Pulvermaterialien, die durch die unter Buchstabe a genannten
+        Fertigungsverfahren verarbeitet werden,
+
+
+
+    ist,
+
+
+22. Güter entwickelt oder herstellt, die spezifisch dem Betrieb drahtloser
+    oder drahtgebundener Datennetze dienen, insbesondere draht- oder
+    lichtwellengebundene Übertragungstechniken, Netzkopplungselemente,
+    Signalverstärker, Netzüberwachungs-, Netzmanagement- und
+    Netzsteuerungsprodukte hierfür,
+
+
+23. Hersteller eines
+
+    a)  Smart-Meter-Gateways im Sinne des § 2 Satz 1 Nummer 19 des
+        Messstellenbetriebsgesetzes ist, das durch das Bundesamt für
+        Sicherheit in der Informationstechnik nach § 19 Absatz 3 in Verbindung
+        mit § 24 des Messstellenbetriebsgesetzes zertifiziert worden ist oder
+        sich in einem laufenden Zertifizierungsverfahren befindet, oder
+
+
+    b)  Sicherheitsmoduls für Smart-Meter-Gateways ist, das zum Nachweis der
+        sicherheitstechnischen Anforderungen nach § 22 Absatz 1 und 2 des
+        Messstellenbetriebsgesetzes durch das Bundesamt für Sicherheit in der
+        Informationstechnik zertifiziert worden ist oder sich in einem
+        laufenden Zertifizierungsverfahren befindet,
+
+
+
+
+
+24. Personen beschäftigt, die in lebenswichtigen Einrichtungen nach den §§
+    5a, 5b oder § 9a der Sicherheitsüberprüfungsfeststellungsverordnung an
+    sicherheitsempfindlichen Stellen im Sinne des § 1 Absatz 5 Satz 3 des
+    Sicherheitsüberprüfungsgesetzes tätig sind,
+
+
+25. Rohstoffe oder deren Erze gewinnt, aufbereitet oder raffiniert, die im
+    Rahmen der Rohstoffinitiative der Europäischen Kommission im Anhang
+    einer Mitteilung der Kommission als Liste der kritischen Rohstoffe
+    festgelegt wurden und die das Bundesministerium für Wirtschaft und
+    Klimaschutz im Bundesanzeiger bekannt gemacht hat,
+
+
+26. Güter entwickelt oder herstellt, auf die sich der Schutzbereich eines
+    nach § 50 des Patentgesetzes geheimgestellten Patentes oder eines nach
+    § 9 des Gebrauchsmustergesetzes geheimgestellten Gebrauchsmusters
+    erstreckt, oder
+
+
+27. unmittelbar oder mittelbar eine landwirtschaftliche Fläche von mehr
+    als 10 000 Hektar bewirtschaftet.
+
+
+
+
+(2) Branchenspezifische Software im Sinne des Absatzes 1 Nummer 2 ist:
+
+1.  im Sektor Energie Software für die Kraftwerksleittechnik, für die
+    Netzleittechnik oder für die Steuerungstechnik zum Betrieb von Anlagen
+    oder Systemen zur Strom-, Gas-, Kraftstoff-, Heizöl- oder
+    Fernwärmeversorgung,
+
+
+2.  im Sektor Wasser Software für die Leit-, Steuerungs- oder
+    Automatisierungstechnik von Anlagen zur Trinkwasserversorgung oder
+    Abwasserbeseitigung,
+
+
+3.  im Sektor Informationstechnik und Telekommunikation Software zum
+    Betrieb von Anlagen oder Systemen zur Sprach- und Datenübertragung
+    oder zur Datenspeicherung und -verarbeitung,
+
+
+4.  im Sektor Finanz- und Versicherungswesen Software zum Betrieb von
+    Anlagen oder Systemen der Bargeldversorgung, des kartengestützten
+    Zahlungsverkehrs, des konventionellen Zahlungsverkehrs, zur
+    Verrechnung und Abwicklung von Wertpapier- und Derivatgeschäften oder
+    zur Erbringung von Versicherungsdienstleistungen,
+
+
+5.  im Sektor Gesundheit Software zum Betrieb eines Krankenhaus-
+    Informationssystems, zum Betrieb von Anlagen oder Systemen zum
+    Vertrieb von verschreibungspflichtigen Arzneimitteln sowie zum Betrieb
+    eines Laborinformationssystems,
+
+
+6.  im Sektor Transport und Verkehr Software zum Betrieb von Anlagen oder
+    Systemen zur Beförderung von Personen oder Gütern im Luftverkehr, im
+    Schienenverkehr, in der See- und Binnenschifffahrt, im Straßenverkehr,
+    im öffentlichen Personennahverkehr oder in der Logistik,
+
+
+7.  im Sektor Ernährung Software zum Betrieb von Anlagen oder Systemen zur
+    Lebensmittelversorgung.
+
+
+
+
+(3) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der
+öffentlichen Ordnung oder Sicherheit kann ferner auch berücksichtigt
+werden, ob
+
+1.  der Erwerber unmittelbar oder mittelbar von der Regierung,
+    einschließlich sonstiger staatlicher Stellen oder Streitkräfte, eines
+    Drittstaates, kontrolliert wird,
+
+
+2.  der Erwerber bereits an Aktivitäten beteiligt war, die nachteilige
+    Auswirkungen auf die öffentliche Ordnung oder Sicherheit der
+    Bundesrepublik Deutschland oder eines anderen Mitgliedstaates der
+    Europäischen Union hatten, oder
+
+
+3.  ein erhebliches Risiko besteht, dass der Erwerber oder die für ihn
+    handelnden Personen an Aktivitäten beteiligt waren oder sind, die in
+    Deutschland den Tatbestand
+
+    a)  einer Straftat, die in § 123 Absatz 1 des Gesetzes gegen
+        Wettbewerbsbeschränkungen bezeichnet ist, oder
+
+
+    b)  einer Straftat oder Ordnungswidrigkeit nach dem Außenwirtschaftsgesetz
+        oder dem Gesetz über die Kontrolle von Kriegswaffen
+
+
+
+    erfüllen würden.
+
+
+
+Eine Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere
+aufgrund der Eigentümerstruktur oder in Form einer Finanzausstattung
+durch die Regierung, einschließlich sonstiger staatlicher Stellen oder
+Streitkräfte, eines Drittstaates, die über ein geringfügiges Maß
+hinausgeht, ausgeübt werden.
+
+(4) Der Abschluss eines schuldrechtlichen Vertrags über den Erwerb
+eines in Absatz 1 Nummer 1 bis 27 bezeichneten inländischen
+Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im
+Sinne des § 56 Absatz 1 oder Absatz 2, jeweils auch in Verbindung mit
+Absatz 4 Satz 1 oder 2, an einem inländischen Unternehmen im Sinne des
+Absatzes 1 Nummer 1 bis 27 durch einen Unionsfremden ist dem
+Bundesministerium für Wirtschaft und Klimaschutz vorbehaltlich des
+Satzes 2 unverzüglich nach Abschluss des schuldrechtlichen
+Rechtsgeschäfts zu melden. Im Fall eines Angebots im Sinne des
+Wertpapiererwerbs- und Übernahmegesetzes hat die Meldung unverzüglich
+nach Veröffentlichung der Entscheidung zur Abgabe des Angebots zu
+erfolgen. Erwerbe nach § 56 Absatz 3 bleiben für die Meldepflicht nach
+Satz 1 außer Betracht. In der Meldung sind insbesondere der Erwerb,
+der Erwerber, das zu erwerbende inländische Unternehmen und die
+Beteiligungsstrukturen an dem Erwerber anzugeben sowie die
+Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen
+Unternehmens in den Grundzügen darzustellen. In den Fällen des § 56
+Absatz 4 Satz 1 Nummer 2, 1. Halbsatz und Satz 2 ist auch die
+Stimmrechtsvereinbarung anzugeben. Das Bundesministerium für
+Wirtschaft und Klimaschutz bestimmt durch Allgemeinverfügung weitere
+Informationen und Unterlagen, die in der Meldung anzugeben sind,
+einschließlich für die Prüfung erforderliche personenbezogene Daten,
+sowie die Form der Meldung. Die Allgemeinverfügung ist im
+Bundesanzeiger bekannt zu machen.
+
+(5) Zur Meldung nach Absatz 4 ist der unmittelbare Erwerber
+verpflichtet, auch wenn in dessen Person die Voraussetzungen des § 55
+Absatz 1 nicht vorliegen.
+
+    „amtlicher Hinweis: Im Beuth-Verlag GmbH, Berlin und Köln, erschienen
+    und beim Deutschen Patent- und Markenamt in München archivmäßig
+    gesichert niedergelegt“.
+[^f816116_01_BJNR286500013BJNE011108128]: 
+
 ##### § 56 Stimmrechtsanteile
 [Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005804311)
 
@@ -3574,6 +3980,556 @@ Meldevorschriften nicht beeinträchtigt wird.
 [Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002800000)
 
 
+#### § 74 Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007610128)
+
+(1) Verboten sind der Verkauf, die Ausfuhr und die Durchfuhr von in
+Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus
+oder über das Inland oder deren Beförderung unter Benutzung eines
+Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder
+das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu
+führen, in die folgenden Länder:
+
+1.  (weggefallen)
+
+
+2.  Birma/Myanmar,
+
+
+3.  (weggefallen)
+
+
+4.  Demokratische Republik Kongo,
+
+
+5.  Demokratische Volksrepublik Korea,
+
+
+6.  (weggefallen)
+
+
+7.  Irak,
+
+
+8.  Iran,
+
+
+9.  Libanon,
+
+
+10. (weggefallen)
+
+
+11. (weggefallen)
+
+
+12. (weggefallen)
+
+
+13. Simbabwe,
+
+
+14. Somalia,
+
+
+15. Sudan,
+
+
+15a. Südsudan,
+
+
+16. Syrien,
+
+
+16a. Venezuela.
+
+
+
+
+(2) Verboten sind auch der Verkauf, die Ausfuhr und die Durchfuhr von
+in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus
+oder über das Inland oder deren Beförderung unter Benutzung eines
+Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder
+das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu
+führen, an natürliche oder juristische Personen, Gruppen,
+Organisationen oder Einrichtungen, die aufgeführt sind
+
+1.  in der jeweils geltenden Fassung der Liste nach Artikel 2 Absatz 3 der
+    Verordnung (EG) Nr. 2580/2001 über spezifische, gegen bestimmte
+    Personen und Organisationen gerichtete restriktive Maßnahmen zur
+    Bekämpfung des Terrorismus (ABl. L 344 vom 28.12.2001, S. 70),
+
+
+2.  in der jeweils geltenden Fassung des Anhangs des Beschlusses
+    2011/486/GASP des Rates vom 1. August 2011 über restriktive Maßnahmen
+    gegen bestimmte Personen, Gruppen, Unternehmen und Einrichtungen
+    angesichts der Lage in Afghanistan (ABl. L 199 vom 2.8.2011, S. 57),
+
+
+3.  in der jeweils geltenden Fassung des Anhangs I der Verordnung (EG) Nr.
+    881/2002 des Rates vom 27. Mai 2002 über die Anwendung bestimmter
+    spezifischer restriktiver Maßnahmen gegen bestimmte Personen und
+    Organisationen, die mit den ISIL (Da´esh)- und Al-Qaida-Organisationen
+    in Verbindung stehen (ABl. L 139 vom 29.5.2002, S. 9), die durch die
+    Verordnung (EU) 2016/363 des Rates vom 14. März 2016 (ABl. L 68 vom
+    15\.3.2016, S. 17) geändert worden ist,
+
+
+4.  in der jeweils geltenden Fassung des Anhangs I der Verordnung (EU) Nr.
+    356/2010 des Rates vom 26. April 2010 über die Anwendung bestimmter
+    spezifischer restriktiver Maßnahmen gegen bestimmte natürliche oder
+    juristische Personen, Organisationen oder Einrichtungen aufgrund der
+    Lage in Somalia (ABl. L 105 vom 27.4.2010, S. 1),
+
+
+5.  in der jeweils geltenden Fassung des Anhangs des Beschlusses
+    2014/932/GASP des Rates vom 18. Dezember 2014 über restriktive
+    Maßnahmen angesichts der Lage in Jemen (ABl. L 365 vom 19.12.2014, S.
+    147), der zuletzt durch den Beschluss (GASP) 2015/882 des Rates vom 8.
+    Juni 2015 (ABl. L 143 vom 9.6.2015, S. 11) geändert worden ist,
+
+
+6.  in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP)
+    2016/1693 des Rates vom 20. September 2016 betreffend restriktive
+    Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete
+    Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des
+    Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S.
+    25).
+
+
+
+
+
+#### § 75 Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007705128)
+
+(1) Verboten sind Handels- und Vermittlungsgeschäfte in Bezug auf in
+Teil I Abschnitt A der Ausfuhrliste erfasste Güter, welche unmittelbar
+oder mittelbar für Personen, Organisationen oder Einrichtungen in
+folgenden Ländern bestimmt sind:
+
+1.  (weggefallen)
+
+
+2.  Birma/Myanmar,
+
+
+3.  (weggefallen)
+
+
+4.  (weggefallen)
+
+
+5.  (weggefallen)
+
+
+6.  Iran,
+
+
+7.  Libanon,
+
+
+8.  (weggefallen)
+
+
+8a. (weggefallen)
+
+
+9.  Simbabwe,
+
+
+10. (weggefallen)
+
+
+10a. (weggefallen)
+
+
+11. Syrien.
+
+
+
+
+(2) Das Verbot nach Absatz 1 gilt auch, wenn die Güter zur Verwendung
+in folgenden Ländern bestimmt sind:
+
+1.  (weggefallen)
+
+
+2.  (weggefallen)
+
+
+3.  (weggefallen)
+
+
+4.  Iran,
+
+
+5.  Libanon,
+
+
+6.  (weggefallen)
+
+
+6a. (weggefallen)
+
+
+7.  Simbabwe,
+
+
+8.  (weggefallen)
+
+
+8a. (weggefallen)
+
+
+9.  Syrien.
+
+
+
+
+
+#### § 76 Ausnahmen von § 74 Absatz 1 und § 75
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007813128)
+
+(1) Abweichend von § 74 Absatz 1 und § 75 können der Verkauf, die
+Ausfuhr, die Durchfuhr oder Handels- und Vermittlungsgeschäfte unter
+den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
+
+(2) (weggefallen)
+
+(3) Absatz 1 gilt in Bezug auf Birma/Myanmar für
+
+1.  nichtletale militärische Güter, die ausschließlich humanitären oder
+    Schutzzwecken dienen oder für Programme der Vereinten Nationen und der
+    Europäischen Union zum Aufbau von Institutionen bestimmt sind,
+
+
+2.  Güter, die für Krisenbewältigungsoperationen der Europäischen Union
+    und der Vereinten Nationen bestimmt sind,
+
+
+3.  Minenräumgeräte und Material zur Verwendung bei Minenräumaktionen und
+
+
+4.  Schutzkleidung, die vom Personal der Vereinten Nationen, der
+    Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern,
+    humanitären Helfern, Entwicklungshelfern oder von diesen Personen
+    beigeordnetem Personal ausschließlich zur eigenen Verwendung
+    vorübergehend nach Birma/Myanmar ausgeführt wird.
+
+
+
+
+(4) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr in die Demokratische Republik Kongo für
+
+1.  Güter für den ausschließlichen Zweck der Unterstützung der Mission der
+    Organisation der Vereinten Nationen in der Demokratischen Republik
+    Kongo (MONUSCO) oder der Verwendung durch diese,
+
+
+2.  Schutzkleidung, einschließlich kugelsicherer Westen und Militärhelmen,
+    die vom Personal der Vereinten Nationen, von Medienvertretern,
+    humanitären Helfern und Entwicklungshelfern sowie dem beigeordneten
+    Personal ausschließlich zur eigenen Verwendung vorübergehend in die
+    Demokratische Republik Kongo ausgeführt wird,
+
+
+3.  nichtletale militärische Ausrüstung, die ausschließlich für humanitäre
+    oder Schutzzwecke bestimmt ist,
+
+
+4.  Rüstungsgüter und sonstiges Wehrmaterial für den ausschließlichen
+    Zweck der Unterstützung oder Verwendung durch den Regionalen
+    Einsatzverband der Afrikanischen Union und
+
+
+5.  den sonstigen Verkauf oder die sonstige Lieferung von Rüstungsgütern
+    und sonstigem Wehrmaterial.
+
+
+
+
+(5) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr in die Demokratische Volksrepublik Korea für Fahrzeuge, die
+nicht für den Kampfeinsatz bestimmt sind, die bei der Herstellung oder
+nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur zum
+Schutz des Personals der Europäischen Union und ihrer Mitgliedstaaten
+in der Demokratischen Volksrepublik Korea bestimmt sind.
+
+(6) Absatz 1 gilt in Bezug auf Irak für Güter, die von der Regierung
+Iraks oder von der durch die Resolution 1511 (2003) des
+Sicherheitsrates der Vereinten Nationen eingesetzten multinationalen
+Truppe für die Zwecke der Resolution 1546 (2004) des Sicherheitsrates
+der Vereinten Nationen benötigt werden.
+
+(7) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Iran für Fahrzeuge, die nicht für den Kampfeinsatz
+bestimmt sind, die bei der Herstellung oder nachträglich mit einer
+Kugelsicherung ausgerüstet wurden und nur zum Schutz des Personals der
+Europäischen Union und ihrer Mitgliedstaaten in Iran bestimmt sind.
+
+(8) Absatz 1 gilt in Bezug auf Libanon für
+
+1.  Güter, die nicht unmittelbar oder mittelbar an Kampfgruppen geliefert
+    werden, deren Entwaffnung der Sicherheitsrat der Vereinten Nationen in
+    seinen Resolutionen 1559 (2004) und 1680 (2006) gefordert hat und
+    deren Lieferung von der Regierung Libanons oder der Interimstruppe der
+    Vereinten Nationen in Libanon (UNIFIL) genehmigt wurde,
+
+
+2.  Güter, die zur Nutzung durch die UNIFIL im Rahmen ihrer Mission oder
+    durch die libanesischen Streitkräfte bestimmt sind, und
+
+
+3.  Schutzkleidung, die vom Personal der Vereinten Nationen, der
+    Europäischen Union oder ihrer Mitgliedstaaten vorübergehend nach
+    Libanon ausgeführt wird.
+
+
+
+
+(9) (weggefallen)
+
+(10) (weggefallen)
+
+(11) Absatz 1 gilt in Bezug auf Simbabwe für
+
+1.  nichtletale militärische Güter, die ausschließlich humanitären oder
+    Schutzzwecken dienen oder für Programme der Vereinten Nationen und der
+    Europäischen Union zum Aufbau von Institutionen bestimmt sind,
+
+
+2.  Güter, die für Krisenbewältigungsoperationen der Europäischen Union
+    und der Vereinten Nationen bestimmt sind, und
+
+
+3.  Schutzkleidung, die vom Personal der Vereinten Nationen, der
+    Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern,
+    humanitären Helfern, Entwicklungshelfern oder von diesen Personen
+    beigeordnetem Personal ausschließlich zur eigenen Verwendung
+    vorübergehend nach Simbabwe ausgeführt wird.
+
+
+
+
+(12) Absatz 1 gilt in Bezug auf Somalia für
+
+1.  Güter, die ausschließlich zur Unterstützung der Regierung der
+    Bundesrepublik Somalia, der Somalischen Nationalarmee, des Nationalen
+    Nachrichten- und Sicherheitsdienstes, der Somalischen Nationalpolizei,
+    des Somalischen Strafvollzugskorps oder zur Nutzung durch diese
+    bestimmt sind,
+
+
+2.  Güter, die ausschließlich zur Unterstützung des Personals der
+    Vereinten Nationen, einschließlich der Hilfsmission der Vereinten
+    Nationen in Somalia (UNSOM) und des Unterstützungsbüros der Vereinten
+    Nationen in Somalia (UNSOS) oder zur Nutzung durch diese bestimmt
+    sind,
+
+
+3.  Güter, die ausschließlich zur Unterstützung der Übergangsmission der
+    Afrikanischen Union in Somalia (ATMIS) und ihrer Truppen und
+    Polizeikräfte stellenden Länder sowie ihrer strategischen Partner, die
+    ausschließlich nach dem letztgültigen strategischen Einsatzkonzept der
+    Afrikanischen Union und in Zusammenarbeit und Abstimmung mit der ATMIS
+    tätig werden oder zur Nutzung durch diese bestimmt sind,
+
+
+4.  Güter, die ausschließlich zur Unterstützung der Ausbildungs- und
+    Unterstützungsmaßnahmen der Europäischen Union, der Türkei, des
+    Vereinigten Königreichs Großbritannien und Nordirland und der
+    Vereinigten Staaten von Amerika sowie aller sonstigen Kräfte von
+    Staaten, die ein Abkommen über die Rechtsstellung der Truppen oder
+    eine Vereinbarung mit der Regierung der Bundesrepublik Somalia
+    geschlossen haben, mit der Maßgabe, dass sie den Sanktionsausschuss
+    über die Existenz solcher Abkommen benachrichtigt haben, oder zur
+    Nutzung durch diese bestimmt sind,
+
+
+5.  Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme,
+    die vom Personal der Vereinten Nationen, von Medienvertretern,
+    Sicherheitsunternehmen, humanitären Helfern oder Entwicklungshelfern
+    sowie beigeordnetem Personal ausschließlich zum persönlichen Gebrauch
+    vorübergehend nach Somalia ausgeführt wird, und
+
+
+6.  nichtletale militärische Güter, die ausschließlich für humanitäre oder
+    Schutzzwecke bestimmt sind.
+
+
+
+
+(13) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Sudan für
+
+1.  nichtletale militärische Ausrüstung, die ausschließlich bestimmt ist
+    für
+
+    a)  humanitäre oder Schutzzwecke,
+
+
+    b)  die Überwachung der Menschenrechtslage,
+
+
+    c)  Programme der Vereinten Nationen, der Afrikanischen Union und der
+        Europäischen Union zum Aufbau von Institutionen,
+
+
+    d)  (weggefallen)
+
+
+
+
+
+2.  Material, das für Krisenbewältigungsoperationen der Vereinten
+    Nationen, der Afrikanischen Union oder der Europäischen Union bestimmt
+    ist,
+
+
+3.  Minenräumgeräte und Material zur Verwendung bei Minenräumaktionen,
+
+
+4.  nicht zum Kampfeinsatz bestimmte Fahrzeuge, die bei der Herstellung
+    oder nachträglich mit einer Kugelsicherung ausgerüstet wurden und nur
+    zur Verwendung zum Schutz, in Sudan, durch Personal der Europäischen
+    Union und ihrer Mitgliedstaaten oder durch Personal der Vereinten
+    Nationen oder der Afrikanischen Union bestimmt sind, und
+
+
+5.  Schutzkleidung, einschließlich kugelsicherer Westen und Militärhelmen,
+    die vom Personal der Vereinten Nationen, der Europäischen Union oder
+    ihrer Mitgliedstaaten, von Medienvertretern, humanitären Helfern und
+    Entwicklungshelfern sowie dem beigeordneten Personal ausschließlich
+    zur eigenen Verwendung vorübergehend nach Sudan ausgeführt wird.
+
+
+
+
+(14) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Südsudan für
+
+1.  Güter, die ausschließlich für die Unterstützung des Personals der
+    Vereinten Nationen, einschließlich der Mission der vereinten Nationen
+    in der Republik Südsudan (UNMISS) und der Interim-Sicherheitstruppe
+    der Vereinten Nationen für Abyei (UNISFA) oder zur Nutzung durch sie
+    bestimmt sind,
+
+
+2.  nichtletale militärische Güter, die ausschließlich für humanitäre oder
+    Schutzzwecke bestimmt sind,
+
+
+3.  Schutzkleidung, einschließlich kugelsicherer Westen und Militärhelmen,
+    die von Personal der Vereinten Nationen, Medienvertretern, humanitären
+    Helfern und Entwicklungshelfern sowie zugehörigem Personal
+    ausschließlich zum persönlichen Gebrauch vorübergehend nach Südsudan
+    ausgeführt wird,
+
+
+4.  Güter, die vorübergehend von den Truppen eines Staates nach Südsudan
+    ausgeführt werden, der im Einklang mit dem Völkerrecht ausschließlich
+    und unmittelbar zu dem Zweck tätig wird, den Schutz oder die
+    Evakuierung seiner Staatsangehörigen sowie von Personen, für die er
+    die konsularische Verantwortung in Südsudan hat, zu erleichtern,
+
+
+5.  Güter für den Regionalen Einsatzverband der Afrikanischen Union oder
+    zu seiner Unterstützung, die ausschließlich für regionale Einsätze
+    gegen die Widerstandsarmee des Herrn bestimmt sind,
+
+
+6.  Güter, die ausschließlich zur Unterstützung der Umsetzung des
+    Friedensabkommens bestimmt sind, und
+
+
+7.  den sonstigen Verkauf oder die sonstige Lieferung von Gütern.
+
+
+
+
+(15) Absatz 1 gilt in Bezug auf Syrien für
+
+1.  Güter, die ausschließlich zur Unterstützung der Beobachtertruppe der
+    Vereinten Nationen für die Truppenentflechtung (UNDOF) oder zur
+    Nutzung durch diese bestimmt sind,
+
+
+2.  nichtletale militärische Güter, die ausschließlich bestimmt sind für
+
+    a)  humanitäre oder Schutzzwecke,
+
+
+    b)  den Schutz der Zivilbevölkerung,
+
+
+    c)  Programme der Vereinten Nationen und der Europäischen Union zum Aufbau
+        von Institutionen,
+
+
+    d)  Krisenbewältigungsoperationen der Europäischen Union und der Vereinten
+        Nationen oder
+
+
+    e)  die nationale Koalition der Kräfte der syrischen Revolution und
+        Opposition für die Zwecke des Schutzes der Zivilbevölkerung,
+
+
+
+
+
+3.  Fahrzeuge, die nicht für den Kampfeinsatz bestimmt sind, die bei der
+    Herstellung oder nachträglich mit einer Kugelsicherung ausgerüstet
+    wurden und nur zum Schutz des Personals der Europäischen Union und
+    ihrer Mitgliedstaaten in Syrien bestimmt sind, und
+
+
+4.  Schutzkleidung, die vom Personal der Vereinten Nationen, der
+    Europäischen Union oder ihrer Mitgliedstaaten, von Medienvertretern,
+    humanitären Helfern, Entwicklungshelfern oder von diesen Personen
+    beigeordnetem Personal ausschließlich zur eigenen Verwendung
+    vorübergehend nach Syrien ausgeführt wird.
+
+
+
+
+(16) Absatz 1 gilt in Bezug auf den Verkauf, die Ausfuhr und die
+Durchfuhr nach Venezuela für
+
+1.  Güter, deren Lieferung der Erfüllung von Verträgen oder Nebenverträgen
+    dient, die vor dem 13. November 2017 geschlossen und dem Bundesamt für
+    Wirtschaft und Ausfuhrkontrolle (BAFA) bis zum 21. November 2017
+    angezeigt worden sind,
+
+
+2.  nichtletale militärische Güter, die ausschließlich humanitären oder
+    Schutzzwecken dienen oder für Programme der Vereinten Nationen und der
+    Union und ihren Mitgliedstaaten oder regionaler und subregionaler
+    Organisationen zum Aufbau von Institutionen bestimmt sind,
+
+
+3.  Material, das für Krisenbewältigungsoperationen der Vereinten Nationen
+    und der Union oder regionaler und subregionaler Organisationen
+    bestimmt ist,
+
+
+4.  Minenräumgeräte und Material zur Verwendung bei Minenräumaktionen und
+
+
+5.  Schutzkleidung, einschließlich Körperschutzwesten und Militärhelme,
+    die von Personal der Vereinten Nationen, Personal der Europäischen
+    Union oder ihrer Mitgliedstaaten, von Medienvertretern, von
+    humanitären Helfern und Entwicklungshelfern sowie zugehörigem Personal
+    ausschließlich zur eigenen Verwendung vorübergehend nach Venezuela
+    ausgeführt wird.
+
+
+
+
+(17) (weggefallen)
+
+
 #### § 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
 [Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010900118)
 
@@ -3607,6 +4563,85 @@ Abweichend von § 74 Absatz 1 und § 75 können genehmigt werden:
 
 ### Abschnitt 2 - Einfuhr- und Verbringungsverbote
 [Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002900000)
+
+
+#### § 77 Einfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus bestimmten Ländern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007909128)
+
+(1) Verboten sind die Einfuhr und der Erwerb von in Teil I Abschnitt A
+der Ausfuhrliste erfassten Gütern aus den folgenden Ländern,
+unabhängig davon, ob die Güter ihren Ursprung in diesen Ländern haben:
+
+1.  Demokratische Volksrepublik Korea,
+
+
+2.  (weggefallen)
+
+
+3.  Iran,
+
+
+4.  Libyen,
+
+
+5.  Syrien.
+
+
+
+
+(2) Dieses Verbot gilt auch für die Beförderung, auch unter Benutzung
+eines Schiffes oder Luftfahrzeuges, das berechtigt ist, die
+Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik
+Deutschland zu führen.
+
+(3) Die Verbote nach den Absätzen 1 und 2 gelten nicht für die
+Wiedereinfuhr von Gütern, deren Ausfuhr oder Durchfuhr zuvor nach §
+76a genehmigt worden ist.
+
+(4) Die Verbote nach Absatz 1 und 2 gelten in Bezug auf Russland nicht
+für
+
+1.  die Einfuhr oder Beförderung von Ersatzteilen, die für die Wartung und
+    Sicherung vorhandener Kapazitäten innerhalb der Europäischen Union
+    erforderlich sind,
+
+
+2.  die Einfuhr oder Beförderung von Gütern, deren Lieferung der Erfüllung
+    von Verträgen oder Vereinbarungen dient, die vor dem 1. August 2014
+    geschlossen wurden,
+
+
+3.  die Einfuhr, den Erwerb oder die Beförderung von Hydrazin mit einer
+    Mindestkonzentration von 70 Prozent, von Monomethylhydrazin und von
+    unsymmetrischem Dimethylhydrazin zur Verwendung für Trägersysteme, die
+    von Startorganisationen der Mitgliedstaaten oder in einem
+    Mitgliedstaat ansässigen Startorganisationen betrieben werden, zur
+    Verwendung für Starts im Rahmen von Raumfahrtprogrammen der
+    Europäischen Union, ihrer Mitgliedstaaten oder der Europäischen
+    Weltraumorganisation oder zur Betankung von Satelliten durch in einem
+    Mitgliedstaat ansässige Satellitenhersteller, und
+
+
+4.  die Einfuhr, den Erwerb oder die Beförderung von Hydrazin mit einer
+    Mindestkonzentration von 70 Prozent zur Verwendung im Rahmen der
+    ExoMars-Mission 2020, das bestimmt ist
+
+    a)  zur Erprobung und für den Flugbetrieb des ExoMars-Abstiegsmoduls bis
+        zu einer Gesamtmenge von 5 000 Kilogramm für die gesamte Dauer der
+        Mission oder
+
+
+    b)  für den Flugbetrieb des ExoMars-Trägermoduls bis zu einer Gesamtmenge
+        von 300 Kilogramm.
+
+
+
+
+
+
+Die Einfuhr, der Erwerb und die Beförderung nach Satz 1 Nummer 3 und 4
+bedürfen der Genehmigung durch das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle (BAFA).
 
 
 ### Abschnitt 3 - Besondere Genehmigungserfordernisse
@@ -3817,8 +4852,237 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
+#### § 82 Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008417128)
+
+(1) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen
+
+1.  Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 3541/92 in der Fassung vom
+    7\. Dezember 1992,
+
+
+2.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 3275/93 in der Fassung vom
+    29\. November 1993,
+
+
+3.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1264/94 in der Fassung vom
+    30\. Mai 1994,
+
+
+4.  Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 in der Fassung vom
+    11\. Juli 1994,
+
+
+5.  Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 in der Fassung
+    vom 17. März 2025,
+
+
+6.  Artikel 8d Absatz 1 der Verordnung (EG) Nr. 765/2006 in der Fassung
+    vom 18. Juli 2025,
+
+
+7.  Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 in der Fassung vom
+    27\. Mai 2025,
+
+
+8.  Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 in der Fassung
+    vom 10. September 2024,
+
+
+9.  Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 in der Fassung
+    vom 25. April 2025,
+
+
+10. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 in der Fassung
+    vom 24. März 2025,
+
+
+11. Artikel 6 Absatz 1 der Verordnung (EU) Nr. 692/2014 in der Fassung vom
+    24\. Februar 2025,
+
+
+12. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 747/2014 in der Fassung
+    vom 9. Dezember 2024,
+
+
+13. Artikel 11 Absatz 1 der Verordnung (EU) Nr. 833/2014 in der Fassung
+    vom 18. Juli 2025,
+
+
+14. Artikel 12 Absatz 1 der Verordnung (EU) Nr. 1352/2014 in der Fassung
+    vom 10. September 2024,
+
+
+15. Artikel 17 Absatz 1 der Verordnung (EU) 2015/735 in der Fassung vom 8.
+    Juli 2025,
+
+
+16. Artikel 53 Absatz 1 der Verordnung (EU) 2017/1509 in der Fassung vom
+    16\. Dezember 2024,
+
+
+17. Artikel 15 Absatz 1 der Verordnung (EU) 2017/2063 in der Fassung vom
+    9\. Januar 2025,
+
+
+18. Artikel 10 Absatz 1 der Verordnung (EU) 2022/263 in der Fassung vom
+    24\. Februar 2025,
+
+
+19. Artikel 13 Absatz 1 der Verordnung (EU) 2022/2309 in der Fassung vom
+    15\. Juli 2025 oder
+
+
+20. Artikel 11 Absatz 1 der Verordnung (EU) 2023/1529 in der Fassung vom
+    25\. Juli 2025
+
+
+
+einen dort genannten Anspruch erfüllt oder einer dort genannten
+Forderung oder einem dort genannten Anspruch stattgibt. Soweit die in
+Satz 1 Nummer 8 genannte Vorschrift auf die Anhänge VIII, IX, XIII und
+XIV der Verordnung (EU) Nr. 267/2012 verweist, finden diese Anhänge in
+der jeweils geltenden Fassung Anwendung.
+
+(2) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 5 Absatz 1 der Verordnung (EG) Nr. 2271/96 in der
+Fassung vom 6. Juni 2018 einer dort genannten Forderung oder einem
+dort genannten Verbot nachkommt. Soweit die in Satz 1 genannten
+Vorschriften auf den Anhang der Verordnung (EG) Nr. 2271/96 verweisen,
+findet dieser Anhang in der jeweils geltenden Fassung Anwendung.
+
+(3) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2368/2022 in der
+Fassung vom 23. Mai 2025 ein Behältnis oder ein dazu gehöriges
+Zertifikat nicht oder nicht rechtzeitig einer Gemeinschaftsbehörde zur
+Prüfung vorlegt.
+
+(4) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 in der
+Fassung vom 23. November 2022 eine Ware nicht oder nicht rechtzeitig
+gestellt.
+
+(5) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
+833/2014 in der Fassung vom 18. Juli 2025 verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 5a Absatz 8 Buchstabe a oder b nach dem 22. Juli 2024
+    einen dort genannten Barbestand oder eine dort genannte Einnahme nicht
+    richtig verbucht,
+
+
+2.  entgegen Artikel 5a Absatz 8 Buchstabe c Satzteil vor Satz 2 nach dem
+    22\. Juli 2024 einen dort genannten Nettogewinn veräußert,
+
+
+3.  entgegen Artikel 5aa Absatz 1a oder 1b Unterabsatz 1 einen dort
+    genannten Posten bekleidet,
+
+
+4.  entgegen Artikel 5ac Absatz 1 sich nach dem 1. November 2025 mit einem
+    dort genannten System oder Nachrichtenübermittlungsdienst verbindet,
+
+
+5.  entgegen Artikel 5b Absatz 2a nach dem 22. Juli 2024 ein dort
+    genanntes Eigentum, eine dort genannte Kontrolle oder die Bekleidung
+    eines dort genannten Postens gestattet oder
+
+
+6.  entgegen Artikel 5o Absatz 1 einer dort genannten Person ermöglicht,
+    einen dort genannten Posten zu bekleiden.
+
+
+
+
+(6) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig ohne
+Genehmigung nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EU)
+2015/936 in der Fassung vom 29. November 2017 eine dort genannte
+Einfuhr in den freien Verkehr der Union überführt.
+
+(7) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 2 des
+Außenwirtschaftsgesetzes handelt, wer gegen die
+Durchführungsverordnung (EU) 2015/2447 in der Fassung vom 28. April
+2025 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  als Inhaber einer Zulassung oder Bewilligung nach Artikel 166 der
+    Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November 2022 im
+    Ausfuhrverfahren entgegen Artikel 224 eine in der Zulassung oder
+    Bewilligung genannte Unterlage oder eine Unterlage, die für die
+    Erfüllung einer in Artikel 267 Absatz 3 Buchstabe a, b oder Buchstabe
+    c der Verordnung (EU) Nr. 952/2013 in der Fassung vom 23. November
+    2022 genannten Pflicht erforderlich sind, nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig bereithält,
+
+
+2.  im Ausfuhrverfahren einer mit einer Bewilligung nach Artikel 234
+    Absatz 1 Buchstabe b, c, e oder Buchstabe g verbundenen vollziehbaren
+    Auflage zuwiderhandelt,
+
+
+3.  entgegen Artikel 331 Absatz 1 Buchstabe a oder Buchstabe b eine Angabe
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+
+4.  entgegen Artikel 340 Absatz 1 die Ausfuhrzollstelle nicht, nicht
+    richtig oder nicht rechtzeitig in Kenntnis setzt,
+
+
+5.  entgegen Artikel 340 Absatz 2 die Ausgangszollstelle nicht, nicht
+    richtig oder nicht unverzüglich nach dem Entfernen der Ware von der
+    Ausgangszollstelle informiert oder
+
+
+6.  ohne Zustimmung nach Artikel 340 Absatz 3 den geänderten
+    Beförderungsvertrag erfüllt.
+
+
+
+
+(8) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
+Außenwirtschaftsgesetzes handelt, wer gegen die Verordnung (EU)
+2021/821 in der Fassung vom 5. September 2024 verstößt, indem er
+vorsätzlich oder fahrlässig
+
+1.  einer vollziehbaren Anordnung nach Artikel 7 Absatz 1 oder 2 Satz 1
+    zuwiderhandelt oder
+
+
+2.  ohne Genehmigung nach Artikel 11 Absatz 1 Satz 1 dort genannte Güter
+    verbringt.
+
+
+
+Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang
+IV der Verordnung (EU) 2021/821 verweisen, finden diese Anhänge in der
+jeweils geltenden Fassung Anwendung.
+
+
 ## Kapitel 10 - Übergangsbestimmungen, Evaluierung und Inkrafttreten, Außerkrafttreten
 [Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003501128)
+
+
+### § 82a Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011401128)
+
+(1) Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
+erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines
+inländischen Unternehmens anzuwenden, die ab dem 1. Mai 2021
+abgeschlossen werden. Im Fall eines Angebots im Sinne des
+Wertpapiererwerbs- und Übernahmegesetzes ist der Zeitpunkt der
+Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
+
+(2) § 55a Absatz 1 Nummer 1, 2 und 4 ist erst anzuwenden, wenn eine
+auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
+Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser
+Rechtsverordnung ist § 55a Absatz 1 Nummer 1, 2 und 4 in der bis
+einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
 
 ### § 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung

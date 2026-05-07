@@ -20,21 +20,2493 @@ Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
 :   Art. 1 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
-## Anlage 7a Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung
+## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000600130)
+
+
+### § 1 Zweck dieser Verordnung; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004200130)
+
+(1) Diese Verordnung regelt
+
+1.  die technischen Anforderungen und Verfahren für die elektronische
+    Erfassung des Lichtbilds und der Fingerabdrücke,
+
+
+2.  die Übermittlung sämtlicher Passantragsdaten von der Passbehörde an
+    den Passhersteller, die Qualitätssicherung in der Passbehörde und beim
+    Passhersteller sowie das Verfahren zum Nachweis der Erfüllung der
+    Anforderungen,
+
+
+3.  die Muster der Pässe, der amtlichen Pässe und der Passersatzpapiere,
+
+
+4.  die Einzelheiten der Ausstellung von amtlichen Pässen,
+
+
+5.  die Befreiung von der Passpflicht nach § 2 des Passgesetzes sowie
+
+
+6.  die Erhebung von Gebühren und Auslagen für das Passwesen.
+
+
+
+
+(2) Die Bestimmungen dieser Verordnung gelten für
+
+1.  die Passbehörden,
+
+
+2.  den Passhersteller,
+
+
+3.  die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs
+    zuständigen Behörden und Dienststellen, soweit ihnen die Ausstellung
+    als Passersatz bestimmter amtlicher Ausweise mit kurzer
+    Gültigkeitsdauer obliegt, sowie
+
+
+4.  für die Hersteller und Lieferanten von technischen Systemen und
+    Bestandteilen, die zum Einsatz bei den Verfahren bestimmt sind, die in
+    dieser Verordnung geregelt sind.
+
+
+
+
+
+### § 2 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004300130)
+
+Nach dem Stand der Technik sind zu erfüllen die technischen und
+organisatorischen Anforderungen an
+
+1.  die Erfassung des Lichtbildes und der Fingerabdrücke,
+
+
+2.  die Qualitätssicherung des Lichtbildes und der Fingerabdrücke,
+
+
+3.  die Übermittlung sämtlicher Passantragsdaten zwischen Passbehörde und
+    Passhersteller und
+
+
+4.  das sichere Verfahren der Übermittlung von Lichtbildern von einem
+    Dienstleister an die Passbehörde.
+
+
+
+Die Einhaltung des Standes der Technik wird vermutet, wenn die
+Technischen Richtlinien des Bundesamtes für Sicherheit in der
+Informationstechnik eingehalten worden sind. Die Übersicht über die
+Technischen Richtlinien wird vom Bundesamt für Sicherheit in der
+Informationstechnik im Bundesanzeiger veröffentlicht. Die jeweils
+geltende Fassung der Technischen Richtlinien wird vom Bundesamt für
+Sicherheit in der Informationstechnik im Bundesanzeiger durch Verweis
+auf die Internetseite des Bundesamtes für Sicherheit in der
+Informationstechnik bekannt gemacht.
+
+
+### § 3 Zertifizierung von Systemkomponenten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004400130)
+
+(1) Aus Anlage 1 ergeben sich die Systemkomponenten
+
+1.  der Passbehörden,
+
+
+2.  des Passherstellers,
+
+
+3.  der Anbieter von eingesetzter Hardware und Software im Sinne von § 2
+    Satz 1 Nummer 1 und 2,
+
+
+4.  der Cloudanbieter im Sinne des § 4 Absatz 2 Nummer 1,
+
+
+5.  der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 4 Absatz
+    2 Nummer 2 verwenden,
+
+
+6.  der Anwendungsbestandteile zur Verschlüsselung und Übertragung der
+    Lichtbilder an die Cloud durch den Dienstleister, für die eine
+    Zertifizierung verpflichtend ist.
+
+
+
+Die Art und die Einzelheiten der Zertifizierung sind den Technischen
+Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+zu entnehmen.
+
+(2) Für die Zertifizierung gilt § 9 des BSI-Gesetzes sowie die BSI-
+Zertifizierungs- und -Anerkennungsverordnung.
+
+(3) Die Kosten der Zertifizierung hat der Antragsteller zu tragen.
+
+
+## Abschnitt 2 - Übermittlung des Lichtbildes an die Passbehörde
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000700130)
+
+
+### § 4 Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004500130)
+
+(1) In Fällen, in denen ein Pass bei einer Passbehörde nach § 19
+Absatz 1 Satz 1 des Passgesetzes beantragt wird, kann die
+antragstellende Person einen Dienstleister mit der Fertigung des
+Lichtbilds beauftragen. Der Dienstleister hat das Lichtbild
+elektronisch zu fertigen und im Anschluss durch ein sicheres Verfahren
+an die Passbehörde zu übermitteln. Dienstleister ist jede natürliche
+oder juristische Person, die gewerbsmäßig Lichtbilder von anderen
+Personen anfertigt, die zur Vorlage bei einer Passbehörde bestimmt
+sind.
+
+(2) Ein sicheres Verfahren im Sinne des Absatzes 1 Satz 2 ist:
+
+1.  die Übermittlung des Lichtbilds an die Passbehörde von einem
+    Dienstleister unter Einbindung eines Cloudanbieters oder
+
+
+2.  die Übermittlung des Lichtbilds an die Passbehörde von einem
+    zertifizierten Lichtbildaufnahmegerät eines Dienstleisters, das
+    unmittelbar an das Behördennetz einer Passbehörde angeschlossen ist.
+
+
+
+
+
+### § 5 Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004600130)
+
+(1) Bei einer Übermittlung nach § 4 Absatz 2 Nummer 1 übermittelt der
+Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der
+antragstellenden Person anschließend einen Code, den sie im Rahmen der
+Antragstellung der Passbehörde übergibt.
+
+(2) Mit diesem Code ruft die Passbehörde das Lichtbild bei dem
+Cloudanbieter ab. Durch den Abruf wird das Lichtbild gemeinsam mit dem
+Pseudonym der übermittelnden Person des Dienstleisters an die
+Passbehörde übermittelt.
+
+(3) Die Übermittlung des Lichtbilds vom Dienstleister über den
+Cloudanbieter zur Passbehörde erfolgt verschlüsselt als Ende-zu-Ende-
+Verschlüsselung; eine Entschlüsselung durch den Cloudanbieter ist
+auszuschließen. Eine Übermittlung des Lichtbilds vom Dienstleister zum
+Cloudanbieter ist nur zulässig, wenn hierzu ausschließlich
+zertifizierte Systemkomponenten verwendet werden.
+
+(4) Die Verarbeitung der personenbezogenen Daten darf ausschließlich
+durch einen im Gebiet der Europäischen Union ansässigen Cloudanbieter
+und ausschließlich im Gebiet der Europäischen Union erfolgen.
+
+
+### § 6 Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004700130)
+
+(1) Dienstleister haben sich bei einem Cloudanbieter mit einem
+Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis
+über die Dienstleistereigenschaft sowie ein Nachweis über die
+Identität des Dienstleisters zu erbringen.
+
+(2) Der nach Absatz 1 Satz 2 erforderliche Nachweis über die
+Dienstleistereigenschaft ist zu erbringen durch
+
+1.  einen Nachweis über die Gewerbeanmeldung,
+
+
+2.  einen Auszug aus dem Unternehmensregister,
+
+
+3.  eine Bescheinigung der Mitgliedschaft in der Handwerkskammer oder
+
+
+4.  eine Bestätigung eines Finanzamtes über die Anmeldung einer
+    freiberuflichen Tätigkeit als Fotografin oder Fotograf.
+
+
+
+
+(3) Bei der Registrierung erfolgt der Nachweis der Identität des
+Dienstleisters durch
+
+1.  einen elektronischen Identitätsnachweis nach § 18 des
+    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
+    78 Absatz 5 des Aufenthaltsgesetzes oder
+
+
+2.  ein anderes elektronisches Identifizierungsmittel, das nach Artikel 6
+    der Verordnung (EU) Nr. 910/2014 auf dem Sicherheitsniveau „hoch“ im
+    Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr.
+    910/2014 notifiziert worden ist.
+
+
+
+
+(4) Einem Nutzerkonto können mehrere Personen zugeordnet werden, wenn
+diese vom Dienstleister auf Dauer angelegt beschäftigt werden.
+Personen nach Satz 1 müssen sich bei der Registrierung in einem
+Nutzerkonto ebenfalls mittels eines der in Absatz 3 genannten
+Identifizierungsmittel in dem Nutzerkonto registrieren.
+
+(5) Für jede Person, die sich in einem Nutzerkonto nach Absatz 4
+registriert hat, wird durch den Cloudanbieter ein Pseudonym erzeugt.
+
+(6) Vor jeder Übermittlung eines Lichtbilds an den Cloudanbieter hat
+sich die übermittelnde Person erneut mit einem der in Absatz 3
+genannten Identifizierungsmittel zu identifizieren. Bei jeder
+Übermittlung wird das Lichtbild durch den Cloudanbieter mit dem
+Pseudonym der übermittelnden Person dauerhaft verbunden. Die
+Passbehörde trägt im Passregister nach § 21 Absatz 2 Nummer 16 des
+Passgesetzes das übermittelte Pseudonym als lichtbildaufnehmende
+Stelle ein.
+
+
+### § 7 Pflichten des Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004800130)
+
+(1) Der Cloudanbieter dokumentiert zum Zwecke der Nachverfolgbarkeit
+des Übermittlungsvorgangs eines erstellten und übermittelten
+Lichtbilds
+
+1.  die Übermittlung eines verschlüsselten Lichtbilds durch einen
+    Dienstleister, das Datum und die Uhrzeit der Übermittlung sowie
+
+
+2.  den Abruf eines verschlüsselten Lichtbilds durch die Passbehörde sowie
+    das Datum und die Uhrzeit des Abrufs.
+
+
+
+
+(2) Der Cloudanbieter ist verpflichtet, das Lichtbild unverzüglich
+nach Abruf durch die Passbehörde, spätestens aber sechs Monate nach
+Empfang des Lichtbilds von einem Dienstleister, zu löschen, es sei
+denn, die Passbehörde hat auf Veranlassung der antragstellenden Person
+vermerkt, dass das Lichtbild für einen Zeitraum von höchstens sechs
+Monaten ab Empfang des Lichtbilds durch den Cloudanbieter nicht
+gelöscht werden soll. Im Übrigen ist der Cloudanbieter verpflichtet,
+die bei ihm gespeicherten Daten für folgende Fristen zu speichern und
+nach Fristablauf zu löschen:
+
+1.  die Protokolldaten nach Absatz 1 für zehn Jahre und sechs Monate nach
+    ihrer Erstellung;
+
+
+2.  die personenbezogenen Daten der Dienstleister sowie die ihnen
+    zuzuordnenden Pseudonyme für sechs Monate ab dem Zeitpunkt, ab dem der
+    Dienstleister von dem Cloudanbieter die Auflösung seines Nutzerkontos
+    verlangt hat;
+
+
+3.  abweichend von Nummer 2 die dort genannten Daten für zehn Jahre und
+    sechs Monate ab dem Zeitpunkt der Übermittlung des Lichtbilds an die
+    zuständige Passbehörde, wenn das Lichtbild für die Passbeantragung
+    durch eine dem Nutzerkonto zuzuordnende Person übermittelt wurde.
+
+
+
+
+(3) Wenn bestimmte Tatsachen die Annahme begründen, dass ein beim
+Cloudanbieter abgerufenes Lichtbild auf unzulässige Weise erstellt
+worden ist, kann die Passbehörde vom Cloudanbieter die Auskunft
+verlangen, welcher Person das mit dem Lichtbild verbundene Pseudonym
+zugeordnet ist. Dies gilt auch für den Fall, dass ein Cloudanbieter
+seinen Betrieb einstellt und solange, bis die Daten durch den
+Cloudanbieter gelöscht werden.
+
+
+### § 8 Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004900130)
+
+(1) Bei einer Übermittlung nach § 4 Absatz 2 Nummer 2 fertigt der
+Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das
+mit Zustimmung der jeweiligen Passbehörde unmittelbar an ihr
+Behördennetzwerk angeschlossen ist.
+
+(2) Das Lichtbild wird mit dem Namen des Dienstleisters, der das
+Lichtbildaufnahmegerät zur Verfügung gestellt hat, sowie der Kennung
+des verwendeten Lichtbildaufnahmegeräts übermittelt. Die Passbehörde
+trägt im Passregister als lichtbildaufnehmende Stelle nach § 21 Absatz
+2 Nummer 16 des Passgesetzes den Namen des Dienstleisters und die
+Kennung des verwendeten Lichtbildaufnahmegeräts ein.
+
+
+### § 9 Fertigung des Lichtbilds durch die Passbehörde
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE005000130)
+
+(1) Wird das Lichtbild von der Passbehörde mit einem eigenen
+Lichtbildaufnahmegerät gefertigt, trägt die Passbehörde im
+Passregister als lichtbildaufnehmende Stelle nach § 21 Absatz 2 Nummer
+16 des Passgesetzes die Passbehörde ein.
+
+(2) Die Anfertigung des Lichtbilds mit einem eigenen
+Lichtbildaufnahmegerät ist nur zulässig, wenn das
+Lichtbildaufnahmegerät als Systemkomponente zertifiziert worden ist.
+
+(3) Das nach Absatz 1 gefertigte Lichtbild ist unverzüglich vom
+Lichtbildaufnahmegerät zu löschen, wenn es durch die Passbehörde
+abgerufen wurde. Wird das gefertigte Lichtbild nicht sofort durch die
+Passbehörde abgerufen, so ist dieses bis zum Abruf zu speichern,
+längstens jedoch für 96 Stunden nach dessen Anfertigung.
+
+
+## Abschnitt 3 - Übermittlung der Passantragsdaten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000800130)
+
+
+### § 10 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE005100130)
+
+Die Passbehörde hat durch geeignete technische und organisatorische
+Maßnahmen die erforderliche Qualität der Erfassung des Lichtbildes und
+der Fingerabdrücke sicherzustellen.
+
+
+### § 11 Übermittlung der Daten an den Passhersteller
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE005200130)
+
+(1) Nach ihrer Erfassung werden sämtliche Passantragsdaten in den
+Passbehörden zu einem digitalen Datensatz zusammengeführt und an den
+Passhersteller übermittelt. Die Datenübermittlung umfasst unter
+anderem auch die Qualitätswerte zu den erhobenen Fingerabdrücken und
+zu den Lichtbildern, die Behördenkennzahl, die Versionsnummern der
+Qualitätssicherungssoftware und der Sollwerte, den Zeitstempel des
+Passantrags sowie die Speichergröße der kodierten biometrischen Daten.
+Die Datenübermittlung erfolgt durch Datenübertragung über
+verwaltungseigene Kommunikationsnetze oder über das Internet. Sie
+erfolgt unmittelbar zwischen Passbehörde und Passhersteller oder über
+Vermittlungsstellen. Die zu übermittelnden Daten sind elektronisch zu
+signieren und zu verschlüsseln.
+
+(2) Zum Signieren und Verschlüsseln der nach Absatz 1 zu
+übermittelnden Daten sind gültige Zertifikate gemäß den Anforderungen
+der vom Bundesamt für Sicherheit in der Informationstechnik erstellten
+Sicherheitsleitlinien der Wurzelzertifizierungsinstanz der Verwaltung
+zu nutzen. Diese sind auf der Internetseite des Bundesamtes für
+Sicherheit in der Informationstechnik veröffentlicht und können dort
+auf Anfrage bezogen werden. Der Passhersteller hat geeignete
+technische und organisatorische Regelungen zu treffen, die eine
+Weiterverarbeitung von ungültig signierten Antragsdaten ausschließen.
+
+(3) Die Datenübertragung nach Absatz 1 Satz 3 erfolgt unter Verwendung
+eines XML-basierten Datenaustauschformats (XhD) und auf der Grundlage
+des Datenübermittlungsprotokolls OSCI-Transport, das in der vom
+Bundesamt für Sicherheit in der Informationstechnik festgelegten
+Fassung zu verwenden ist, die im Bundesanzeiger bekannt gemacht ist.
+Das Auswärtige Amt kann für die Datenübertragung an den Passhersteller
+als Übermittlungsprotokoll auch WSDL/SOAP verwenden. Die
+Datenübertragung zwischen den Stellen, die nach § 19 Absatz 2 des
+Passgesetzes für Passangelegenheiten im Ausland zuständig sind, und
+dem Auswärtigen Amt muss hinsichtlich Datensicherheit und Datenschutz
+ein den Anforderungen der Verordnung entsprechendes Niveau aufweisen.
+Zu Testzwecken kann nach Genehmigung durch das Bundesministerium des
+Innern von den Vorgaben für das Datenaustauschformat nach Satz 1
+abgewichen werden.
+
+(4) XhD ist ein auf XML basierendes Datenaustauschformat für
+Dokumentendaten und dokumentenabhängige Geschäftsprozesse in
+Nachrichten zwischen den Passbehörden und dem Passhersteller. OSCI-
+Transport ist der am 6. Juni 2002 vom Kooperationsausschuss ADV
+Bund/Länder/Kommunaler Bereich herausgegebene Standard für ein
+Datenübermittlungsprotokoll. Hinsichtlich des Standards OSCI-Transport
+gilt § 3 Absatz 4 und 5 der Ersten
+Bundesmeldedatenübermittlungsverordnung entsprechend.
+
+(5) Vor der Übermittlung der Passantragsdaten hinterlegen Passbehörden
+und Passhersteller alle für eine elektronische und automatisierte
+Kommunikation benötigten technischen Verbindungsparameter im Deutschen
+Verwaltungsdiensteverzeichnis, insbesondere die dafür erforderlichen
+Zertifikate. Der Passhersteller nutzt eine Funktionalität des
+Deutschen Verwaltungsdiensteverzeichnisses, um die Passbehörde als
+eine solche zu verifizieren. Das Auswärtige Amt kann die benötigten
+technischen Verbindungsparameter und die damit verbundenen
+erforderlichen Zertifikate technisch unabhängig vom Deutschen
+Verwaltungsdiensteverzeichnis lösen. Die Lösung muss hinsichtlich
+Datensicherheit und Datenschutz ein den Anforderungen dieser
+Verordnung entsprechendes Niveau aufweisen.
+
+(6) Soweit die Datenübermittlung über Vermittlungsstellen erfolgt,
+gelten die Absätze 1 bis 5 für die Datenübermittlung zwischen
+Vermittlungsstelle und Passhersteller entsprechend. Die
+Datenübermittlung zwischen Passbehörde und Vermittlungsstelle muss
+hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen der
+Verordnung entsprechendes Niveau aufweisen. Die Einzelheiten richten
+sich nach dem jeweiligen Landesrecht.
+
+
+### § 12 Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE005300130)
+
+Der Passhersteller erstellt eine Qualitätsstatistik. Sie enthält
+anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die
+sowohl in der Passbehörde als auch beim Passhersteller ermittelt und
+vom Passhersteller ausgewertet werden. Der Passhersteller stellt die
+Ergebnisse der Auswertung und auf Verlangen die in der Statistik
+erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern
+und dem Bundesamt für Sicherheit in der Informationstechnik zur
+Verfügung.
+
+
+## Abschnitt 4 - Passmuster; Ausgabe und Versand des Passes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000102130)
+
+
+### § 13 Muster des Reisepasses; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000203130)
+
+(1) Der Reisepass der Bundesrepublik Deutschland ist nach dem in der
+Anlage 2 oder Anlage 2a abgedruckten Muster auszustellen. Für die
+einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+
+(2) Zur Änderung des Wohnortes kann ein Änderungsaufkleber nach dem in
+der Anlage 2b abgedruckten Muster verwendet werden.
+
+(3) Hat der Passinhaber eine elektronische Anmeldung nach § 23a des
+Bundesmeldegesetzes durchgeführt, wird ein Aufkleber nach Anlage 2c
+mit dem neuen Wohnort durch die Passbehörde auf dem Postweg an die
+Zuzugsanschrift der antragstellenden Person versendet. Der Passinhaber
+hat den Aufkleber unverzüglich nach Erhalt auf dem Pass auf dem für
+den Wohnort vorgesehenen Feld anzubringen.
+
+(4) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
+dem in der Anlage 2d abgedruckten Muster verwendet werden.
+
+
+### § 14 Muster des vorläufigen Reisepasses; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000404130)
+
+(1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach
+dem in der Anlage 3 abgedruckten Muster auszustellen. Für die
+einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+
+(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
+dem in der Anlage 2d abgedruckten Muster verwendet werden.
+
+
+### § 15 Muster des amtlichen Passes; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000504130)
+
+(1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der
+Anlage 4 abgedruckten Muster auszustellen.
+
+(2) Der Diplomatenpass der Bundesrepublik Deutschland ist nach dem in
+der Anlage 5 abgedruckten Muster auszustellen.
+
+(3) Der vorläufige Dienstpass der Bundesrepublik Deutschland ist nach
+dem in der Anlage 6 abgedruckten Muster auszustellen.
+
+(4) Der vorläufige Diplomatenpass der Bundesrepublik Deutschland ist
+nach dem in der Anlage 7 abgedruckten Muster auszustellen.
+
+(5) Für die einzutragenden Daten gelten die formalen Anforderungen der
+Anlage 11. Für die Änderung des Dienstortes und der Dienstbezeichnung
+kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten
+Muster verwendet werden.
+
+
+### § 16 Lichtbild
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000603130)
+
+(1) Ein Lichtbild, das gemäß § 6 Absatz 2 Satz 3 des Passgesetzes
+gefertigt wird, muss aktuell sein und den Vorgaben der Technischen
+Richtlinie TR-03121 des Bundesamtes für Sicherheit in der
+Informationstechnik in der jeweils geltenden Fassung entsprechen.
+
+(2) Das Lichtbild muss die Person in einer Frontalaufnahme, ohne
+Kopfbedeckung und ohne Bedeckung der Augen sowie ohne Uniformteile
+zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8
+entsprechen. Die Passbehörde kann vom Gebot der fehlenden
+Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen
+Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender
+Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei
+Lichtbildern von Kindern regelt Anlage 8.
+
+(3) Abweichend von Absatz 1 kann für einen Pass, der im Ausland bei
+der Passbehörde nach § 19 Absatz 2 des Passgesetzes beantragt wird,
+auch ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35
+Millimeter im Hochformat und ohne Rand vorgelegt werden, sofern die
+elektronische Fertigung durch Geräte der Behörde zur Lichtbildaufnahme
+nicht möglich ist. In diesem Fall trägt die Passbehörde im
+Passregister als lichtbildaufnehmende Stelle nach § 21 Absatz 2 Nummer
+16 des Passgesetzes „nicht verifizierbar“ ein.
+
+
+### § 17 Ausgabe und Versand des Passes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004001130)
+
+(1) Der Pass wird von der Passbehörde an die antragstellende Person,
+an eine andere nach § 6 Absatz 1 des Passgesetzes berechtigte Person
+oder an eine von der antragstellenden Person bevollmächtigte Person
+ausgegeben.
+
+(2) Der Pass wird durch den Passhersteller auf dem Postweg an die
+zustellfähige inländische Meldeadresse der antragstellenden Person
+versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder
+einer öffentlich-rechtlichen Körperschaft besitzt, der eine
+einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber
+der Passbehörde im Inland in dieses Verfahren eingewilligt hat. Ein
+Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige
+inländische Meldeadresse vorhanden ist. Der bisherige Pass ist bei der
+Beantragung zu entwerten, es sei denn, er enthält zu diesem Zeitpunkt
+noch gültige Sichtvermerke anderer Staaten. Der Zusteller hat vor der
+Übergabe die Identität der antragstellenden Person durch Vorlage eines
+in Satz 1 genannten Lichtbildausweises zu überprüfen. Der
+Passhersteller informiert die Passbehörde über die erfolgte Übergabe
+des Passes an die antragstellende Person.
+
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2
+der Passbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der
+Passbehörde noch nicht vorliegt. Die Passbehörde übermittelt diese
+E-Mail-Adresse an den Passhersteller, damit dieser die E-Mail-Adresse
+dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der
+antragstellenden Person den Zeitraum der Übergabe durch Versand einer
+E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf
+ausschließlich die Anrede, den Hinweis auf die bevorstehende
+Zustellung des Passes, den voraussichtlichen Zustellzeitpunkt sowie
+die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die
+E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie
+gespeichert wurde, und ist bei der Passbehörde, beim Passhersteller
+und beim Zusteller unverzüglich nach der Übergabe des Passes an die
+antragstellende Person zu löschen, sofern sie ausschließlich für das
+Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe
+nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der
+Passhersteller und der Zusteller die E-Mail-Adresse unverzüglich nach
+der Hinterlegung des Passes bei der zuständigen Passbehörde, die
+Passbehörde diese unverzüglich nach der Ausgabe des Passes an die
+antragstellende Person zu löschen haben.
+
+(4) Abweichend von Absatz 2 darf die Passbehörde im Ausland Pässe auch
+auf dem Postweg versenden, ohne dass der Zusteller die antragstellende
+Person identifiziert, sofern die Abholung des Passes für die
+antragstellende Person nur unter unzumutbaren Umständen möglich wäre
+und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr
+für eine ordnungsgemäße Übergabe besteht. Als unzustellbar
+zurückgesandte Pässe gibt die Passbehörde nach Maßgabe von Absatz 1 an
+die antragstellende Person aus.
+
+
+## Abschnitt 5 - Befreiung von der Passpflicht und Passersatzpapiere
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000201130)
+
+
+### § 18 Befreiung von der Passpflicht
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000701130)
+
+Von der Passpflicht sind befreit:
+
+1.  Deutsche als Besatzungsmitglieder und Reisende auf Schiffen der See-
+    und Küstenschifffahrt, auf Fischerei-, Sport- und anderen
+    Wasserfahrzeugen, wenn weder ein ausländischer Hafen angelaufen noch
+    auf andere Weise Landverbindung mit dem Ausland aufgenommen wird;
+
+
+2.  deutsche Seelotsen im Sinne des § 1 des Seelotsengesetzes in Ausübung
+    ihres Berufes, die sich durch amtliche Papiere über ihre Person und
+    ihre Eigenschaft als Seelotse ausweisen;
+
+
+3.  Deutsche, die auf Grund zwischenstaatlicher Vereinbarungen von der
+    Passpflicht befreit sind;
+
+
+4.  Deutsche, die bei Unglücks- oder Katastrophenfällen Hilfe leisten oder
+    in Anspruch nehmen wollen;
+
+
+5.  Deutsche, die zum Flug- oder Begleitpersonal von Rettungsflügen
+    gehören.
+
+
+
+
+
+### § 19 Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000802130)
+
+(1) Als Passersatz für Deutsche sind zugelassen:
+
+1.  Personalausweise und vorläufige Personalausweise;
+
+
+2.  Ausweise für Binnenschiffer und deren Familienangehörige für die
+    Flussschifffahrt auf der Donau;
+
+
+3.  (weggefallen)
+
+
+4.  Ausweise, die auf Grund des Europäischen Übereinkommens über die
+    Regelung des Personenverkehrs zwischen den Mitgliedstaaten des
+    Europarates vom 13. Dezember 1957 (BGBl. 1959 II S. 389) in der
+    Fassung der Bekanntmachung vom 5. Dezember 2000 (BGBl. 2000 II S.
+    1571) zum Grenzübertritt berechtigen;
+
+
+5.  Ausweise für Abgeordnete der Parlamentarischen Versammlung des
+    Europarates und Ausweise für Mitglieder und Bedienstete der Organe der
+    Europäischen Gemeinschaften;
+
+
+6.  Ausweise, die auf Grund zwischenstaatlicher Vereinbarungen zum
+    Grenzübertritt berechtigen;
+
+
+7.  Ausweise, die von den Behörden und Dienststellen ausgestellt werden,
+    die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs
+    zuständig sind;
+
+
+8.  Ausweise, die ausschließlich zur Einreise in die Bundesrepublik
+    Deutschland berechtigen;
+
+
+9.  Rückkehrausweise, die im Falle des Verlustes von Pässen zum Zwecke der
+    Wiedereinreise in das Gebiet der Europäischen Union von einer
+    Auslandsvertretung eines anderen Mitgliedstaates der Europäischen
+    Union ausgestellt werden, wenn keine deutsche Auslandsvertretung vor
+    Ort existiert.
+
+
+
+
+(2) Ein nach Absatz 1 zugelassener Passersatz gilt für alle Länder,
+sofern sich aus dem Passersatz, aus Rechtsvorschriften oder aus
+zwischenstaatlichen Vereinbarungen keine Beschränkung des
+Geltungsbereichs ergibt.
+
+(3) Wer mit einem nach Absatz 1 zugelassenen Passersatz über eine
+Auslandsgrenze aus dem Geltungsbereich dieser Verordnung ausreist oder
+in ihn einreist, ist verpflichtet, den Passersatz mitzuführen und sich
+damit auszuweisen.
+
+(4) Für Deutsche, die aus dem Ausland in das Gebiet der Bundesrepublik
+Deutschland ausgewiesen, abgeschoben, zurückgewiesen oder übernommen
+werden, gelten – sofern dies nach den bestehenden zwischenstaatlichen
+Vereinbarungen nicht formlos zu geschehen hat – die für diesen Zweck
+ausgestellten Bescheinigungen als Passersatz.
+
+
+### § 20 Muster der amtlichen Ausweise als Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000901130)
+
+(1) Der Ausweis, der von den für die polizeiliche Kontrolle des
+grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen
+ausgestellt wird (§ 19 Absatz 1 Nummer 7), ist nach dem in der Anlage
+9 abgedruckten Muster auszustellen.
+
+(2) Der Ausweis, der ausschließlich zur Einreise in die Bundesrepublik
+Deutschland berechtigt (§ 19 Absatz 1 Nummer 8), ist nach dem in der
+Anlage 10 abgedruckten Muster auszustellen.
+
+
+### § 21 Lichtbilder für den Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001003130)
+
+Sofern auf einem Passersatz die Anbringung eines Lichtbilds vorgesehen
+ist, ist der Passbehörde ein aktuelles Lichtbild ohne Rand vorzulegen,
+das 45 Millimeter hoch und 35 Millimeter breit ist. § 16 Absatz 2 gilt
+entsprechend.
+
+
+### § 22 Gültigkeitsdauer des Passersatzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001101130)
+
+Die Gültigkeitsdauer
+
+1.  eines Ausweises, der von den für die polizeiliche Kontrolle des
+    grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen
+    ausgestellt wird (§ 19 Absatz 1 Nummer 7), oder
+
+
+2.  eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
+    Deutschland berechtigt (§ 19 Absatz 1 Nummer 8),
+
+
+
+ist nach der Dauer der beabsichtigten Reise zu bemessen. Ein Ausweis
+nach Nummer 1 darf nicht länger als drei Monate, ein Ausweis nach
+Nummer 2 nicht länger als einen Monat gültig sein.
+
+
+### § 23 Andere Regelungen für einen Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001201130)
+
+Die in anderen Rechtsvorschriften oder in zwischenstaatlichen
+Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz
+sowie die dort getroffenen Regelungen über Lichtbilder und
+Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
+
+
+## Abschnitt 6 - Amtliche Pässe
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000301130)
+
+
+### § 24 Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001301130)
+
+(1) Ein amtlicher Pass wird vom Auswärtigen Amt zur Wahrnehmung
+dienstlicher Aufgaben oder in den Fällen des § 1 Absatz 4 Satz 2 des
+Passgesetzes ausgestellt. Ein Anspruch auf Ausstellung eines amtlichen
+Passes besteht nicht. Eine Änderung des amtlichen Passes durch eine
+andere Behörde ist nicht zulässig.
+
+(2) Das Auswärtige Amt kann das persönliche Erscheinen des
+Passbewerbers verlangen. Von diesem Verlangen kann Abstand genommen
+werden, wenn die Behörde, in deren Auftrag die dienstliche Aufgabe
+wahrgenommen wird, die für die Passausstellung erforderlichen
+Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke
+übermittelt.
+
+
+### § 25 Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001401130)
+
+(1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der
+dienstlichen Aufgabe oder des amtlichen Auftrags im Sinne des § 1
+Absatz 4 Satz 2 des Passgesetzes zu bemessen. Dabei darf eine
+Gültigkeitsdauer von zehn Jahren nicht überschritten werden.
+
+(2) Ein vorläufiger Dienstpass oder ein vorläufiger Diplomatenpass
+wird für eine Gültigkeitsdauer von bis zu einem Jahr ausgestellt.
+
+(3) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
+
+
+### § 26 Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001501130)
+
+(1) Ein amtlicher Pass ist dem Auswärtigen Amt unverzüglich
+zurückzugeben, wenn
+
+1.  der Pass ungültig ist,
+
+
+2.  die dienstliche Aufgabe oder der amtliche Auftrag, für die er
+    ausgestellt ist, erledigt ist,
+
+
+3.  der Passinhaber aus dem Dienst ausscheidet oder
+
+
+4.  das Auswärtige Amt oder die Behörde, in deren Auftrag die dienstliche
+    Aufgabe wahrgenommen wird, den Passinhaber dazu auffordert.
+
+
+
+
+(2) Das Auswärtige Amt kann abweichend von Absatz 1 Ausnahmen
+zulassen, wenn ein besonderes Interesse der Bundesrepublik Deutschland
+an der Belassung des amtlichen Passes vorliegt.
+
+
+## Abschnitt 7 - Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000401130)
+
+
+### § 27 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001610130)
+
+(1) An Gebühren sind zu erheben
+
+*    *   1.
+
+    *   für die Ausstellung
+
+    *
+
+*    *
+    *   a)
+
+    *   eines Reisepasses nach Anlage 2 an Personen, die das 24. Lebensjahr
+        vollendet haben,
+
+    *   70 Euro,
+
+
+*    *
+    *   b)
+
+    *   eines Reisepasses nach Anlage 2 an Personen, die das 24. Lebensjahr
+        noch nicht vollendet haben,
+
+    *   37,50 Euro,
+
+
+*    *
+    *   c)
+
+    *   eines Reisepasses mit 48 Seiten nach Anlage 2a zusätzlich zu der in
+        Nummer 1a und 1b bestimmten Gebühr
+
+    *   22 Euro,
+
+
+*    *
+    *   d)
+
+    *   eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich
+        zu den dort bestimmten Gebühren
+
+    *   32 Euro,
+
+
+*    *
+    *   e)
+
+    *   eines vorläufigen Reisepasses
+
+    *   26 Euro,
+
+
+*    *
+    *   f)
+
+    *   eines Ausweises für Binnenschiffer und deren Familienangehörige für
+        die Flussschifffahrt auf der Donau (§ 19 Absatz 1 Nummer 2)
+
+    *   16 Euro,
+
+
+*    *
+    *   g)
+
+    *   eines Ausweises, der von den Behörden und Dienststellen ausgestellt
+        wird, die für die polizeiliche Kontrolle des grenzüberschreitenden
+        Verkehrs zuständig sind (§ 19 Absatz 1 Nummer 7)
+
+    *   32 Euro,
+
+
+*    *
+    *   h)
+
+    *   eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
+        Deutschland berechtigt (§ 7 Absatz 1 Nummer 8)
+
+    *   8 Euro,
+
+
+*    *   2.
+
+    *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und
+        für die Verlängerung oder Änderung eines anderen unter Nummer 1
+        genannten Ausweises
+
+    *   6 Euro,
+
+
+*    *   3.
+
+    *   für die Zustellung nach § 17 Absatz 2
+
+    *   15 Euro,
+
+
+*    *   4.
+
+    *   für ein Lichtbild, das durch die Passbehörde gefertigt wurde,
+        zusätzlich zu den jeweils
+        in Nummer 1 Buchstabe a bis f und h genannten Gebühren
+
+    *   6 Euro.
+
+
+
+
+(2) Die Gebühr ist zu verdoppeln
+
+1.  für eine der in Absatz 1 Nummer 1 Buchstabe e bis h und Nummer 2
+    genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers
+    außerhalb der behördlichen Dienstzeit vorgenommen werden;
+
+
+2.  für eine der in Absatz 1 Nummer 1 Buchstabe a, b, e und Nummer 2
+    genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers
+    von einer nicht zuständigen Behörde vorgenommen werden.
+
+
+
+
+(3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen
+Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind
+die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 36 Euro, die
+Gebühren nach Absatz 1 Nummer 1 Buchstabe e und h um 49 Euro und die
+Gebühren nach Absatz 1 Nummer 2 um 20 Euro anzuheben.
+
+(4) Gebühren sind nicht zu erheben
+
+1.  für die Ausstellung oder Änderung eines amtlichen Passes;
+
+
+2.  für die Ausstellung oder Änderung eines Reisepasses, eines vorläufigen
+    Reisepasses oder eines anderen in Absatz 1 Nummer 1 genannten
+    Ausweises, wenn die Ausstellung von Amts wegen erfolgt oder die
+    Änderung von Amts wegen eingetragen wird;
+
+
+3.  für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen
+    Reisepass oder in einem anderen in Absatz 1 Nummer 1 genannten
+    Ausweis.
+
+
+
+
+
+### § 28 Ermäßigung und Befreiung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001801130)
+
+Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen
+werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
+
+
+## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000501130)
+
+
+### § 29 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001905130)
+
+Kinderreisepässe, die maschinenlesbar und mit einem digitalen
+Lichtbild versehen sind und vor Inkrafttreten dieser Verordnung
+ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum
+ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
+
+(zu § 2 Absatz 1)
+
+### Anlage 1 Übersicht über die zu zertifizierenden Systemkomponenten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE005400130)
+
+(Fundstelle: BGBl. I 2010, S. 1456)
+
+*    *   Nr.
+
+    *   Bezeichnung der Systemkomponente
+
+    *   Verpflichtung/Option
+
+
+*    *   1
+
+    *   Chip auf der Passkartendatenseite
+
+    *   Verpflichtung für den Passhersteller
+
+
+*    *   2
+
+    *   Hardware zur Erfassung und Echtheitsbewertung von Fingerabdrücken
+
+    *   Verpflichtung für die Anbieter dieser Geräte
+
+
+*    *   Verpflichtung für den Passhersteller
+
+
+*    *   Verpflichtung für die Passbehörden
+
+
+*    *   3
+
+    *   Software zur Erfassung, Echtheitsbewertung und Qualitätssicherung des
+        Lichtbilds und der Fingerabdrücke
+
+    *   Verpflichtung für den Passhersteller
+
+
+*    *   Verpflichtung für die Passbehörden
+
+
+*    *   Verpflichtung für die Anbieter dieser Software
+
+
+*    *   4
+
+    *   Erfassungsstation zur Fertigung des Lichtbildes
+
+    *   Verpflichtung für die Passbehörden, die das Lichtbild gemäß § 9 selbst
+        fertigen oder für Dienstleister, die Lichtbildaufnahmegeräte im Sinne
+        des § 4 Absatz 2 Nummer 2 verwenden.
+
+
+*    *   Verpflichtung für die Anbieter dieser Geräte
+
+
+*    *   5
+
+    *   Modul für die Datenübermittlung von der Passbehörde an den
+        Passhersteller
+
+    *   Verpflichtung für den Passhersteller
+
+
+*    *   Verpflichtung für die Passbehörden
+
+
+*    *   6
+
+    *   Modul zur Sicherung der Authentizität und Vertraulichkeit der
+        Antragsdaten
+
+    *   Verpflichtung für den Passhersteller
+
+
+*    *   Verpflichtung für die Passbehörden
+
+
+*    *   7
+
+    *   Hard- und Software zum Betrieb der Cloud
+
+    *   Verpflichtung für den Cloudanbieter
+
+
+*    *   8
+
+    *   Software zur Verschlüsselung und Übertragung der Lichtbilder von
+        Dienstleistern an die Cloud
+
+    *   Verpflichtung für die Softwarehersteller.
+
+
+
+
+
+### Anlage 2b Muster des Aufklebers zur Änderung des Wohnortes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003701130)
+
+(Fundstelle: BGBl. I 2021, 3684;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *        ![bgbl1_2021_j3682-1_0010.jpg](bgbl1_2021_j3682-1_0010.jpg)
+
+
+
+
+### Anlage 2 Passmuster Reisepass (32 Seiten)
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003105130)
+
+   (Fundstelle: BGBl. 2024 I Nr. 125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Reisepass (32 Seiten)
+
+    *   Einband
+
+
+
+
+![bgbl1_2024_j01250_0010.jpg](bgbl1_2024_j01250_0010.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Vorsatz und Passkartentitelseite
+
+
+
+
+![bgbl1_2024_j01250_0020.jpg](bgbl1_2024_j01250_0020.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passkartendatenseite und Buchseite 1
+
+
+
+
+![bgbl1_2024_j01250_0030.jpg](bgbl1_2024_j01250_0030.jpg)
+Die Seiten 1 bis 32 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
+
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 2 und 3
+
+
+
+
+![bgbl1_2024_j01250_0040.jpg](bgbl1_2024_j01250_0040.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 4 und 5
+
+
+
+
+![bgbl1_2024_j01250_0050.jpg](bgbl1_2024_j01250_0050.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 6 und 7
+
+
+
+
+![bgbl1_2024_j01250_0060.jpg](bgbl1_2024_j01250_0060.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 8 und 9
+
+
+
+
+![bgbl1_2024_j01250_0070.jpg](bgbl1_2024_j01250_0070.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 10 und 11
+
+
+
+
+![bgbl1_2024_j01250_0080.jpg](bgbl1_2024_j01250_0080.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 12 und 13
+
+
+
+
+![bgbl1_2024_j01250_0090.jpg](bgbl1_2024_j01250_0090.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 14 und 15
+
+
+
+
+![bgbl1_2024_j01250_0100.jpg](bgbl1_2024_j01250_0100.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 16 und 17
+
+
+
+
+![bgbl1_2024_j01250_0110.jpg](bgbl1_2024_j01250_0110.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 18 und 19
+
+
+
+
+![bgbl1_2024_j01250_0120.jpg](bgbl1_2024_j01250_0120.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 20 und 21
+
+
+
+
+![bgbl1_2024_j01250_0130.jpg](bgbl1_2024_j01250_0130.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 22 und 23
+
+
+
+
+![bgbl1_2024_j01250_0140.jpg](bgbl1_2024_j01250_0140.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 24 und 25
+
+
+
+
+![bgbl1_2024_j01250_0150.jpg](bgbl1_2024_j01250_0150.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 26 und 27
+
+
+
+
+![bgbl1_2024_j01250_0160.jpg](bgbl1_2024_j01250_0160.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 28 und 29
+
+
+
+
+![bgbl1_2024_j01250_0170.jpg](bgbl1_2024_j01250_0170.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseiten 30 und 31
+
+
+
+
+![bgbl1_2024_j01250_0180.jpg](bgbl1_2024_j01250_0180.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Buchseite 32 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2024_j01250_0190.jpg](bgbl1_2024_j01250_0190.jpg)
+
+### Anlage 2a Passmuster Reisepass (48 Seiten)
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003204130)
+
+(Fundstelle: BGBl. 2024 I Nr. 125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Reisepass (48 Seiten)
+
+    *   Einband
+
+
+
+
+![bgbl1_2024_j01250_0200.jpg](bgbl1_2024_j01250_0200.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Vorsatz und Passkartentitelseite
+
+
+
+
+![bgbl1_2024_j01250_0210.jpg](bgbl1_2024_j01250_0210.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passkartendatenseite und Buchseite 1
+
+
+
+
+![bgbl1_2024_j01250_0220.jpg](bgbl1_2024_j01250_0220.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
+
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 2 und 3
+
+
+
+
+![bgbl1_2024_j01250_0230.jpg](bgbl1_2024_j01250_0230.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 4 und 5
+
+
+
+
+![bgbl1_2024_j01250_0240.jpg](bgbl1_2024_j01250_0240.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 6 und 7
+
+
+
+
+![bgbl1_2024_j01250_0250.jpg](bgbl1_2024_j01250_0250.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 8 und 9
+
+
+
+
+![bgbl1_2024_j01250_0260.jpg](bgbl1_2024_j01250_0260.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 10 und 11
+
+
+
+
+![bgbl1_2024_j01250_0270.jpg](bgbl1_2024_j01250_0270.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 12 und 13
+
+
+
+
+![bgbl1_2024_j01250_0280.jpg](bgbl1_2024_j01250_0280.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 14 und 15
+
+
+
+
+![bgbl1_2024_j01250_0290.jpg](bgbl1_2024_j01250_0290.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 16 und 17
+
+
+
+
+![bgbl1_2024_j01250_0300.jpg](bgbl1_2024_j01250_0300.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 18 und 19
+
+
+
+
+![bgbl1_2024_j01250_0310.jpg](bgbl1_2024_j01250_0310.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 20 und 21
+
+
+
+
+![bgbl1_2024_j01250_0320.jpg](bgbl1_2024_j01250_0320.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 22 und 23
+
+
+
+
+![bgbl1_2024_j01250_0330.jpg](bgbl1_2024_j01250_0330.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 24 und 25
+
+
+
+
+![bgbl1_2024_j01250_0340.jpg](bgbl1_2024_j01250_0340.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 26 und 27
+
+
+
+
+![bgbl1_2024_j01250_0350.jpg](bgbl1_2024_j01250_0350.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 28 und 29
+
+
+
+
+![bgbl1_2024_j01250_0360.jpg](bgbl1_2024_j01250_0360.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 30 und 31
+
+
+
+
+![bgbl1_2024_j01250_0370.jpg](bgbl1_2024_j01250_0370.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 32 und 33
+
+
+
+
+![bgbl1_2024_j01250_0380.jpg](bgbl1_2024_j01250_0380.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 34 und 35
+
+
+
+
+![bgbl1_2024_j01250_0390.jpg](bgbl1_2024_j01250_0390.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 36 und 37
+
+
+
+
+![bgbl1_2024_j01250_0400.jpg](bgbl1_2024_j01250_0400.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 38 und 39
+
+
+
+
+![bgbl1_2024_j01250_0410.jpg](bgbl1_2024_j01250_0410.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 40 und 41
+
+
+
+
+![bgbl1_2024_j01250_0420.jpg](bgbl1_2024_j01250_0420.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 42 und 43
+
+
+
+
+![bgbl1_2024_j01250_0430.jpg](bgbl1_2024_j01250_0430.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 44 und 45
+
+
+
+
+![bgbl1_2024_j01250_0440.jpg](bgbl1_2024_j01250_0440.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseiten 46 und 47
+
+
+
+
+![bgbl1_2024_j01250_0450.jpg](bgbl1_2024_j01250_0450.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Buchseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2024_j01250_0460.jpg](bgbl1_2024_j01250_0460.jpg)
+
+
+### Anlage 2c Muster des Aufklebers zur Änderung des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003801130)
+
+(Fundstelle: BGBl. I 2021, 3684;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *        ![bgbl1_2021_j3682-1_0020.jpg](bgbl1_2021_j3682-1_0020.jpg)
+
+
+
+
+### Anlage 2d Muster des Aufklebers zur Eintragung amtlicher Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003901130)
+
+   (Fundstelle: BGBl. I 2021, 3685;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *        ![bgbl1_2021_j3682-1_0030.jpg](bgbl1_2021_j3682-1_0030.jpg)
+
+
+
+
+### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002304130)
+
+   (Fundstelle: BGBl. I 2007, 2413 - 2420;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   Vorläufiger Reisepass
+
+    *   Decke
+
+
+*    *        ![bgbl1_2007_j23860_0240.jpg](bgbl1_2007_j23860_0240.jpg)
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Vorsatz und Buchseite 1
+
+
+*    *        ![bgbl1_2007_j23860_0250.jpg](bgbl1_2007_j23860_0250.jpg)
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Buchseiten 2 und 3
+
+
+*    *        ![bgbl1_2007_j23860_0260.jpg](bgbl1_2007_j23860_0260.jpg)
+
+*    *   Die Seiten 1 bis 16 und die hintere Passdecke werden
+        am unteren Rand mit der Dokumentennummer versehen
+
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Buchseiten 4 und 5
+
+
+*    *        ![bgbl1_2007_j23860_0270.jpg](bgbl1_2007_j23860_0270.jpg)
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Buchseiten 6 und 7
+
+
+*    *        ![bgbl1_2015_j0218-1_0100.jpg](bgbl1_2015_j0218-1_0100.jpg)
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Buchseiten 8 und 9
+
+
+*    *        ![bgbl1_2007_j23860_0290.jpg](bgbl1_2007_j23860_0290.jpg)
+
+*    *   Seiten 8 bis 15 gleichlautend
+
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Buchseite 16 und Vorsatz
+
+
+*    *        ![bgbl1_2007_j23860_0300.jpg](bgbl1_2007_j23860_0300.jpg)
+
+
+
+*    *   Vorläufiger Reisepass
+
+    *   Aufkleber Personaldaten
+
+
+*    *        ![bgbl1_2013_j0330-1_0040.jpg](bgbl1_2013_j0330-1_0040.jpg)
+
+
+
+
+### Anlage 4 Passmuster Dienstpass
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003304130)
+
+   (Fundstelle: BGBl. 2024 I Nr. 125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Dienstpass
+
+    *   Einband
+
+
+
+
+![bgbl1_2024_j01250_0470.jpg](bgbl1_2024_j01250_0470.jpg)
+
+*    *   Dienstpass
+
+    *   Vorsatz und Passkartentitelseite
+
+
+
+
+![bgbl1_2024_j01250_0480.jpg](bgbl1_2024_j01250_0480.jpg)
+
+*    *   Dienstpass
+
+    *   Passkartendatenseite und Buchseite 1
+
+
+
+
+![bgbl1_2024_j01250_0490.jpg](bgbl1_2024_j01250_0490.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
+
+
+*    *   Dienstpass
+
+    *   Buchseiten 2 und 3
+
+
+
+
+![bgbl1_2024_j01250_0500.jpg](bgbl1_2024_j01250_0500.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 4 und 5
+
+
+
+
+![bgbl1_2024_j01250_0510.jpg](bgbl1_2024_j01250_0510.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 6 und 7
+
+
+
+
+![bgbl1_2024_j01250_0520.jpg](bgbl1_2024_j01250_0520.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 8 und 9
+
+
+
+
+![bgbl1_2024_j01250_0530.jpg](bgbl1_2024_j01250_0530.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 10 und 11
+
+
+
+
+![bgbl1_2024_j01250_0540.jpg](bgbl1_2024_j01250_0540.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 12 und 13
+
+
+
+
+![bgbl1_2024_j01250_0550.jpg](bgbl1_2024_j01250_0550.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 14 und 15
+
+
+
+
+![bgbl1_2024_j01250_0560.jpg](bgbl1_2024_j01250_0560.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 16 und 17
+
+
+
+
+![bgbl1_2024_j01250_0570.jpg](bgbl1_2024_j01250_0570.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 18 und 19
+
+
+
+
+![bgbl1_2024_j01250_0580.jpg](bgbl1_2024_j01250_0580.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 20 und 21
+
+
+
+
+![bgbl1_2024_j01250_0590.jpg](bgbl1_2024_j01250_0590.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 22 und 23
+
+
+
+
+![bgbl1_2024_j01250_0600.jpg](bgbl1_2024_j01250_0600.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 24 und 25
+
+
+
+
+![bgbl1_2024_j01250_0610.jpg](bgbl1_2024_j01250_0610.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 26 und 27
+
+
+
+
+![bgbl1_2024_j01250_0620.jpg](bgbl1_2024_j01250_0620.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 28 und 29
+
+
+
+
+![bgbl1_2024_j01250_0630.jpg](bgbl1_2024_j01250_0630.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 30 und 31
+
+
+
+
+![bgbl1_2024_j01250_0640.jpg](bgbl1_2024_j01250_0640.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 32 und 33
+
+
+
+
+![bgbl1_2024_j01250_0650.jpg](bgbl1_2024_j01250_0650.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 34 und 35
+
+
+
+
+![bgbl1_2024_j01250_0660.jpg](bgbl1_2024_j01250_0660.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 36 und 37
+
+
+
+
+![bgbl1_2024_j01250_0670.jpg](bgbl1_2024_j01250_0670.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 38 und 39
+
+
+
+
+![bgbl1_2024_j01250_0680.jpg](bgbl1_2024_j01250_0680.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 40 und 41
+
+
+
+
+![bgbl1_2024_j01250_0690.jpg](bgbl1_2024_j01250_0690.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 42 und 43
+
+
+
+
+![bgbl1_2024_j01250_0700.jpg](bgbl1_2024_j01250_0700.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 44 und 45
+
+
+
+
+![bgbl1_2024_j01250_0710.jpg](bgbl1_2024_j01250_0710.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseiten 46 und 47
+
+
+
+
+![bgbl1_2024_j01250_0720.jpg](bgbl1_2024_j01250_0720.jpg)
+
+*    *   Dienstpass
+
+    *   Buchseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2024_j01250_0730.jpg](bgbl1_2024_j01250_0730.jpg)
+
+### Anlage 5 Passmuster Diplomatenpass
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003404130)
+
+(Fundstelle: BGBl. 2024 I Nr. 125;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Diplomatenpass
+
+    *   Einband
+
+
+
+
+![bgbl1_2024_j01250_0740.jpg](bgbl1_2024_j01250_0740.jpg)
+
+*    *   Diplomatenpass
+
+    *   Vorsatz und Passkartentitelseite
+
+
+
+
+![bgbl1_2024_j01250_0750.jpg](bgbl1_2024_j01250_0750.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passkartendatenseite und Buchseite 1
+
+
+
+
+![bgbl1_2024_j01250_0760.jpg](bgbl1_2024_j01250_0760.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
+
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 2 und 3
+
+
+
+
+![bgbl1_2024_j01250_0770.jpg](bgbl1_2024_j01250_0770.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 4 und 5
+
+
+
+
+![bgbl1_2024_j01250_0780.jpg](bgbl1_2024_j01250_0780.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 6 und 7
+
+
+
+
+![bgbl1_2024_j01250_0790.jpg](bgbl1_2024_j01250_0790.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 8 und 9
+
+
+
+
+![bgbl1_2024_j01250_0800.jpg](bgbl1_2024_j01250_0800.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 10 und 11
+
+
+
+
+![bgbl1_2024_j01250_0810.jpg](bgbl1_2024_j01250_0810.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 12 und 13
+
+
+
+
+![bgbl1_2024_j01250_0820.jpg](bgbl1_2024_j01250_0820.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 14 und 15
+
+
+
+
+![bgbl1_2024_j01250_0830.jpg](bgbl1_2024_j01250_0830.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 16 und 17
+
+
+
+
+![bgbl1_2024_j01250_0840.jpg](bgbl1_2024_j01250_0840.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 18 und 19
+
+
+
+
+![bgbl1_2024_j01250_0850.jpg](bgbl1_2024_j01250_0850.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 20 und 21
+
+
+
+
+![bgbl1_2024_j01250_0860.jpg](bgbl1_2024_j01250_0860.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 22 und 23
+
+
+
+
+![bgbl1_2024_j01250_0870.jpg](bgbl1_2024_j01250_0870.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 24 und 25
+
+
+
+
+![bgbl1_2024_j01250_0880.jpg](bgbl1_2024_j01250_0880.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 26 und 27
+
+
+
+
+![bgbl1_2024_j01250_0890.jpg](bgbl1_2024_j01250_0890.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 28 und 29
+
+
+
+
+![bgbl1_2024_j01250_0900.jpg](bgbl1_2024_j01250_0900.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 30 und 31
+
+
+
+
+![bgbl1_2024_j01250_0910.jpg](bgbl1_2024_j01250_0910.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 32 und 33
+
+
+
+
+![bgbl1_2024_j01250_0920.jpg](bgbl1_2024_j01250_0920.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 34 und 35
+
+
+
+
+![bgbl1_2024_j01250_0930.jpg](bgbl1_2024_j01250_0930.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 36 und 37
+
+
+
+
+![bgbl1_2024_j01250_0940.jpg](bgbl1_2024_j01250_0940.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 38 und 39
+
+
+
+
+![bgbl1_2024_j01250_0950.jpg](bgbl1_2024_j01250_0950.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 40 und 41
+
+
+
+
+![bgbl1_2024_j01250_0960.jpg](bgbl1_2024_j01250_0960.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 42 und 43
+
+
+
+
+![bgbl1_2024_j01250_0970.jpg](bgbl1_2024_j01250_0970.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 44 und 45
+
+
+
+
+![bgbl1_2024_j01250_0980.jpg](bgbl1_2024_j01250_0980.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseiten 46 und 47
+
+
+
+
+![bgbl1_2024_j01250_0990.jpg](bgbl1_2024_j01250_0990.jpg)
+
+*    *   Diplomatenpass
+
+    *   Buchseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2024_j01250_1000.jpg](bgbl1_2024_j01250_1000.jpg)
+
+### Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002604130)
+
+(Fundstelle: BGBl. I 2007, 2437 - 2444
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   Vorläufiger Dienstpass
+
+    *   Decke
+
+
+*    *        ![bgbl1_2007_j23860_0480.jpg](bgbl1_2007_j23860_0480.jpg)
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Vorsatz und Buchseite 1
+
+
+*    *        ![bgbl1_2007_j23860_0490.jpg](bgbl1_2007_j23860_0490.jpg)
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Buchseiten 2 und 3
+
+
+*    *        ![bgbl1_2007_j23860_0500.jpg](bgbl1_2007_j23860_0500.jpg)
+
+*    *   Die Seiten 1 bis 16 und die hintere Passdecke werden
+        am unteren Rand mit der Dokumentennummer versehen.
+
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Buchseiten 4 und 5
+
+
+*    *        ![bgbl1_2007_j23860_0510.jpg](bgbl1_2007_j23860_0510.jpg)
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Buchseiten 6 und 7
+
+
+*    *        ![bgbl1_2015_j0218-1_0190.jpg](bgbl1_2015_j0218-1_0190.jpg)
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Buchseiten 8 und 9
+
+
+*    *        ![bgbl1_2007_j23860_0530.jpg](bgbl1_2007_j23860_0530.jpg)
+
+*    *   Seiten 8 bis 15 gleichlautend
+
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Buchseite 16 und Vorsatz
+
+
+*    *        ![bgbl1_2007_j23860_0540.jpg](bgbl1_2007_j23860_0540.jpg)
+
+
+
+*    *   Vorläufiger Dienstpass
+
+    *   Aufkleber Personaldaten
+
+
+*    *        ![bgbl1_2013_j0330-1_0050.jpg](bgbl1_2013_j0330-1_0050.jpg)
+
+
+
+
+### Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002704130)
+
+   (Fundstelle: BGBl. I 2007, 2445 - 2452
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Decke
+
+
+*    *        ![bgbl1_2007_j23860_0560.jpg](bgbl1_2007_j23860_0560.jpg)
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Vorsatz und Buchseite 1
+
+
+*    *        ![bgbl1_2007_j23860_0570.jpg](bgbl1_2007_j23860_0570.jpg)
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Buchseiten 2 und 3
+
+
+*    *        ![bgbl1_2007_j23860_0580.jpg](bgbl1_2007_j23860_0580.jpg)
+
+*    *   Die Seiten 1 bis 16 und die hintere Passdecke werden
+        am unteren Rand mit der Dokumentennummer versehen.
+
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Buchseiten 4 und 5
+
+
+*    *        ![bgbl1_2007_j23860_0590.jpg](bgbl1_2007_j23860_0590.jpg)
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Buchseiten 6 und 7
+
+
+*    *        ![bgbl1_2015_j0218-1_0200.jpg](bgbl1_2015_j0218-1_0200.jpg)
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Buchseiten 8 und 9
+
+
+*    *        ![bgbl1_2007_j23860_0610.jpg](bgbl1_2007_j23860_0610.jpg)
+
+*    *   Seiten 8 bis 15 gleichlautend
+
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Buchseite 16 und Vorsatz
+
+
+*    *        ![bgbl1_2007_j23860_0620.jpg](bgbl1_2007_j23860_0620.jpg)
+
+
+
+*    *   Vorläufiger Diplomatenpass
+
+    *   Aufkleber Personaldaten
+
+
+*    *        ![bgbl1_2013_j0330-1_0060.jpg](bgbl1_2013_j0330-1_0060.jpg)
+
+
+
+
+### Anlage 7a Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung
 [Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003501116)
 
-(Fundstelle: BGBl. I 2021, 3685)
+   (Fundstelle: BGBl. I 2021, 3685)
 
 
 *    *        ![bgbl1_2021_j3682-1_0040.jpg](bgbl1_2021_j3682-1_0040.jpg)
 
 
 
+   (zu § 16 Absatz 2)
 
-## Anlage 9
+### Anlage 8 Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002803130)
+
+(Fundstelle: BGBl. 2025 I Nr. 260, S. 7 – 10;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *        ![bgbl1_2025_j02600_0040.jpg](bgbl1_2025_j02600_0040.jpg)
+    *   Das Foto zeigt das Gesicht von der Kinnspitze bis zum oberen Kopfende.
+        Beide Gesichtshälften sind deutlich erkennbar. Das Gesicht nimmt 70
+        bis 80 % der Höhe des Fotos ein.
+
+    *
+    *
+    *
+
+*    *        ![bgbl1_2025_j02600_0050.jpg](bgbl1_2025_j02600_0050.jpg)
+    *   **Ausleuchtung**
+        Das Gesicht ist an allen Stellen gleichmäßig ausgeleuchtet und
+        reflektiert nicht. Rote Augen sind zu vermeiden.
+
+    *        ![bgbl1_2025_j02600_0060.jpg](bgbl1_2025_j02600_0060.jpg)
+    *        ![bgbl1_2025_j02600_0070.jpg](bgbl1_2025_j02600_0070.jpg)
+    *        ![bgbl1_2025_j02600_0080.jpg](bgbl1_2025_j02600_0080.jpg)
+
+*    *   Schlagschatten
+
+    *   Zu dunkel
+
+    *   Reflexion im Gesicht
+
+
+*    *        ![bgbl1_2025_j02600_0090.jpg](bgbl1_2025_j02600_0090.jpg)
+    *   **Kopfposition**
+        Der Kopf ist mittig im Foto positioniert und gerade.
+
+    *        ![bgbl1_2025_j02600_0100.jpg](bgbl1_2025_j02600_0100.jpg)
+    *        ![bgbl1_2025_j02600_0110.jpg](bgbl1_2025_j02600_0110.jpg)
+    *        ![bgbl1_2025_j02600_0120.jpg](bgbl1_2025_j02600_0120.jpg)
+
+*    *   Kopfneigung zur Seite
+
+    *   Nach unten oder oben
+
+    *   Nicht zentriert
+
+
+*    *        ![bgbl1_2025_j02600_0130.jpg](bgbl1_2025_j02600_0130.jpg)
+    *   **Schärfe und Kontrast**
+        Das Gesicht ist in allen Bereichen scharf abgebildet und
+        kontrastreich.
+
+    *        ![bgbl1_2025_j02600_0140.jpg](bgbl1_2025_j02600_0140.jpg)
+    *        ![bgbl1_2025_j02600_0150.jpg](bgbl1_2025_j02600_0150.jpg)
+    *        ![bgbl1_2025_j02600_0160.jpg](bgbl1_2025_j02600_0160.jpg)
+
+*    *   Schärfe unzureichend
+
+    *   Mangelnder Kontrast
+        (zu dunkel)
+
+    *   Mangelnder Kontrast
+        (zu hell)
+
+
+*    *        ![bgbl1_2025_j02600_0170.jpg](bgbl1_2025_j02600_0170.jpg)
+    *   **Hintergrund**
+        Der schattenfreie Hintergrund ist einfarbig und bildet zum Gesicht
+        sowie zu den Haaren einen deutlichen Kontrast.
+
+    *        ![bgbl1_2025_j02600_0180.jpg](bgbl1_2025_j02600_0180.jpg)
+    *        ![bgbl1_2025_j02600_0190.jpg](bgbl1_2025_j02600_0190.jpg)
+    *        ![bgbl1_2025_j02600_0200.jpg](bgbl1_2025_j02600_0200.jpg)
+
+*    *   Hintergrund mit Muster
+
+    *   Hintergrund ohne Kontrast
+
+    *   Hintergrund mit Schatten
+
+
+*    *        ![bgbl1_2025_j02600_0210.jpg](bgbl1_2025_j02600_0210.jpg)
+    *   **Fotoqualität**
+        Die Farben und insbesondere der Hautton werden auf dem Foto
+        realitätsgetreu wiedergegeben. Digitale Fotos liegen in Farbe vor.
+
+    *        ![bgbl1_2025_j02600_0220.jpg](bgbl1_2025_j02600_0220.jpg)
+    *        ![bgbl1_2025_j02600_0230.jpg](bgbl1_2025_j02600_0230.jpg)
+    *        ![bgbl1_2025_j02600_0240.jpg](bgbl1_2025_j02600_0240.jpg)
+
+*    *   Mit Retuschen/Filter
+
+    *   Weichzeichen
+
+    *   Zu geringe Auflösung
+
+
+*    *        ![bgbl1_2025_j02600_0250.jpg](bgbl1_2025_j02600_0250.jpg)
+    *   **Gesichtsausdruck**
+        Der Gesichtsausdruck ist neutral. Der Blick ist geradeaus in die
+        Kamera gerichtet und der Mund geschlossen.
+
+    *        ![bgbl1_2025_j02600_0260.jpg](bgbl1_2025_j02600_0260.jpg)
+    *        ![bgbl1_2025_j02600_0270.jpg](bgbl1_2025_j02600_0270.jpg)
+    *        ![bgbl1_2025_j02600_0280.jpg](bgbl1_2025_j02600_0280.jpg)
+
+*    *   Lachen, Mund offen
+
+    *   Augen zu, zusammengekniffen
+
+    *   Grimasse
+
+
+*    *        ![bgbl1_2025_j02600_0290.jpg](bgbl1_2025_j02600_0290.jpg)
+    *   **Sichtbarkeit der Augen**
+        Die Augen sind klar und deutlich erkennbar. Sie sind nicht verdeckt.
+
+    *        ![bgbl1_2025_j02600_0300.jpg](bgbl1_2025_j02600_0300.jpg)
+    *        ![bgbl1_2025_j02600_0310.jpg](bgbl1_2025_j02600_0310.jpg)
+    *        ![bgbl1_2025_j02600_0320.jpg](bgbl1_2025_j02600_0320.jpg)
+
+*    *   Brillenrahmen verdeckt Augen
+
+    *   Haare verdecken
+        die Augen,
+        Rote-Augen-Effekt
+
+    *   Brillengläser zu dunkel, Spiegelung
+
+
+*    *        ![bgbl1_2025_j02600_0330.jpg](bgbl1_2025_j02600_0330.jpg)
+    *   **Kopfbedeckung**
+        Kopfbedeckungen sind nur aus religiösen Gründen zulässig. In diesen
+        Fällen gilt: Das Gesicht ist von der unteren Kinnkante bis zur Stirn
+        sichtbar. Schatten auf dem Gesicht sind nicht erkennbar.
+
+    *        ![bgbl1_2025_j02600_0340.jpg](bgbl1_2025_j02600_0340.jpg)
+    *        ![bgbl1_2025_j02600_0350.jpg](bgbl1_2025_j02600_0350.jpg)
+    *        ![bgbl1_2025_j02600_0360.jpg](bgbl1_2025_j02600_0360.jpg)
+
+*    *   Mütze
+
+    *   Burka
+
+    *   Gesicht nicht ausreichend sichtbar
+
+
+*    *        ![bgbl1_2025_j02600_0370.jpg](bgbl1_2025_j02600_0370.jpg)
+    *   **Kinder**
+        Das Gesicht nimmt 50 bis 80 % der Höhe des Fotos ein. Bis zum
+        vollendeten 10. Lebensjahr sind im Übrigen kleinere Abweichungen
+        zulässig.
+
+    *        ![bgbl1_2025_j02600_0380.jpg](bgbl1_2025_j02600_0380.jpg)
+    *        ![bgbl1_2025_j02600_0390.jpg](bgbl1_2025_j02600_0390.jpg)
+    *        ![bgbl1_2025_j02600_0400.jpg](bgbl1_2025_j02600_0400.jpg)
+
+*    *   Kopfbedeckung
+
+    *   Gegenstand im Bild
+
+    *   Grimasse
+
+
+*    *        ![bgbl1_2025_j02600_0410.jpg](bgbl1_2025_j02600_0410.jpg)
+    *   **(Klein-)Kinder und Babys**
+        Es handelt sich um eine Frontalaufnahme. Bis zum vollendeten 6.
+        Lebensjahr sind auf dem Foto weitere Ausnahmen in der Kopfposition, im
+        Gesichtsausdruck und bei der Sichtbarkeit der Augen zulässig.
+
+    *        ![bgbl1_2025_j02600_0420.jpg](bgbl1_2025_j02600_0420.jpg)
+    *        ![bgbl1_2025_j02600_0430.jpg](bgbl1_2025_j02600_0430.jpg)
+    *        ![bgbl1_2025_j02600_0440.jpg](bgbl1_2025_j02600_0440.jpg)
+
+*    *   Kopf zu groß
+
+    *   Zweite Person, Gegenstand im Hintergrund
+
+    *   Keine Frontalaufnahme
+
+
+
+
+
+### Anlage 9
 [Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002900000)
 
-   ( Fundstelle: BGBl. I 2007, 2456 - 2457 )
+( Fundstelle: BGBl. I 2007, 2456 - 2457 )
 
 *    *   Reiseausweis als Passersatz
 
@@ -55,7 +2527,7 @@ Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
 
 
 
-## Anlage 10
+### Anlage 10
 [Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003000000)
 
    ( Fundstelle: BGBl. I 2007, 2458 - 2459 )
@@ -81,7 +2553,7 @@ Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
 
 
 
-## Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
+### Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
 [Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003606130)
 
    (Fundstelle: BGBl. I 2017, 221 - 225;

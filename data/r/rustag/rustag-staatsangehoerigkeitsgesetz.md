@@ -959,6 +959,74 @@ teilt dies der ersuchenden Staatsangehörigkeitsbehörde unverzüglich
 mit.
 
 
+## § 33
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005905125)
+
+(1) Das Bundesverwaltungsamt (Registerbehörde) führt ein Register der
+Entscheidungen in Staatsangehörigkeitsangelegenheiten. In das Register
+werden eingetragen:
+
+1.  Entscheidungen zu Staatsangehörigkeitsurkunden,
+
+
+2.  Entscheidungen zum Bestand und gesetzlichen Verlust der deutschen
+    Staatsangehörigkeit,
+
+
+3.  Entscheidungen, die eine Sperrfrist nach § 35a auslösen,
+
+
+4.  Entscheidungen zu Erwerb, Bestand und Verlust der deutschen
+    Staatsangehörigkeit, die nach dem 31. Dezember 1960 und vor dem 28.
+    August 2007 getroffen worden sind.
+
+
+
+
+(2) Im Einzelnen dürfen in dem Register gespeichert werden:
+
+1.  die Grundpersonalien der betroffenen Person (Familienname,
+    Geburtsname, frühere Namen, Vornamen, Tag und Ort der Geburt,
+    Geschlecht sowie die Anschrift im Zeitpunkt der Entscheidung),
+
+
+2.  Rechtsgrund und Datum der Urkunde oder der Entscheidung sowie
+    Rechtsgrund und der Tag des Erwerbs oder Verlusts der
+    Staatsangehörigkeit, im Fall des § 3 Absatz 2 auch der Zeitpunkt, auf
+    den der Erwerb zurückwirkt und im Fall des § 35a der Beginn und das
+    Ende der Sperrfrist,
+
+
+3.  Bezeichnung, Anschrift und Aktenzeichen der Behörde, die die
+    Entscheidung getroffen hat.
+
+
+
+
+(3) Die Staatsangehörigkeitsbehörden sind verpflichtet, die in Absatz
+2 genannten personenbezogenen Daten zu den Entscheidungen nach Absatz
+1 Satz 2 Nr. 1 und 2, die sie nach dem 28. August 2007 treffen,
+unverzüglich an die Registerbehörde zu übermitteln.
+
+(4) Die Registerbehörde übermittelt den Staatsangehörigkeitsbehörden
+und Auslandsvertretungen auf Ersuchen die in Absatz 2 genannten Daten,
+soweit die Kenntnis der Daten für die Erfüllung der
+staatsangehörigkeitsrechtlichen Aufgaben dieser Stellen erforderlich
+ist. Für die Übermittlung an andere öffentliche Stellen und für
+Forschungszwecke gelten die Bestimmungen des
+Bundesdatenschutzgesetzes. Die Übermittlung von Angaben nach Absatz 1
+zu Forschungszwecken ist nur in anonymisierter Form oder dann
+zulässig, wenn das wissenschaftliche Interesse an der Durchführung des
+Forschungsvorhabens das Interesse der betroffenen Person an dem
+Ausschluss der Verarbeitung erheblich überwiegt.
+
+(5) Die Staatsangehörigkeitsbehörde teilt nach ihrer Entscheidung,
+dass eine Person eingebürgert worden ist oder die deutsche
+Staatsangehörigkeit weiterhin besitzt, verloren, aufgegeben oder nicht
+erworben hat, der zuständigen Meldebehörde oder Auslandsvertretung die
+in Absatz 2 genannten Daten unverzüglich mit.
+
+
 ## § 34
 [Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006004377)
 
@@ -1001,6 +1069,28 @@ rechtswidrigen Bescheinigung nach § 15 Absatz 1 oder 2 des
 Bundesvertriebenengesetzes, die nach § 15 Absatz 4 des
 Bundesvertriebenengesetzes mit Wirkung für die Vergangenheit erfolgt
 ist, gelten Absatz 2 sowie Satz 1 entsprechend.
+
+
+## § 35a Sperrfrist
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006700125)
+
+Die Einbürgerung ist für die Dauer von zehn Jahren ausgeschlossen,
+wenn
+
+1.  die Einbürgerung nach § 35 unanfechtbar zurückgenommen worden ist oder
+
+
+2.  die zuständige Staatsangehörigkeitsbehörde im Einbürgerungsverfahren
+    feststellt, dass ein Antragsteller, um für sich oder einen anderen
+    eine Einbürgerung zu erwirken, arglistig getäuscht, gedroht oder
+    bestochen hat oder vorsätzlich unrichtige oder unvollständige Angaben
+    zu wesentlichen Voraussetzungen der Einbürgerung gemacht oder benutzt
+    hat.
+
+
+
+Die Feststellungsentscheidung nach Nummer 2 ist sofort vollziehbar;
+Widerspruch und Klage haben keine aufschiebende Wirkung.
 
 
 ## § 36

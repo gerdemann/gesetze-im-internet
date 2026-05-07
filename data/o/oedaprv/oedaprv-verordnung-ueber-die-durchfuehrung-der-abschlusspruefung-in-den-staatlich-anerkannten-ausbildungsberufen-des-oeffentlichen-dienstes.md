@@ -348,6 +348,136 @@ zuständigen Stelle zur Verfügung gestellt wird.
 (4) Der Antrag ist schriftlich oder elektronisch zu stellen.
 
 
+#### § 12 Erforderliche Unterlagen für den Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001402131)
+
+(1) Dem Antrag auf Zulassung zur Abschlussprüfung sind die folgenden
+Unterlagen beizufügen:
+
+1.  in den Fällen, in denen die Ausbildungsordnung eine Zwischenprüfung
+    und eine Abschlussprüfung vorsieht:
+
+    a)  die Bescheinigung über die Teilnahme an der Zwischenprüfung und
+
+
+    b)  den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
+        Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+        schriftlich oder elektronisch vorgelegt werden muss,
+
+
+
+
+
+2.  in den Fällen, in denen die Abschlussprüfung aus zwei Teilen besteht,
+
+    a)  für Teil 1: den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
+        Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+        schriftlich oder elektronisch vorgelegt werden muss, und
+
+
+    b)  für Teil 2:
+
+        aa) entweder die Bescheinigung über die Ablegung von Teil 1 der
+            Abschlussprüfung oder die Bescheinigung darüber, von der Ablegung von
+            Teil 1 der Abschlussprüfung befreit zu sein aufgrund einer Regelung in
+            der Ausbildungsordnung, die aufgrund des § 5 Absatz 2 Satz 1 Nummer 3
+            des Berufsbildungsgesetzes getroffen worden ist, und
+
+
+        bb) den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
+            Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+            schriftlich oder elektronisch vorgelegt werden muss.
+
+
+
+
+
+
+
+
+
+
+(2) Wer einen Antrag stellt, dass er vor Ablauf der Ausbildungsdauer
+zur Abschlussprüfung zugelassen wird (§ 45 Absatz 1 des
+Berufsbildungsgesetzes), hat dem Antrag zusätzlich die folgenden
+Unterlagen beizufügen:
+
+1.  das letzte Zeugnis der Berufsschule und
+
+
+2.  eine Stellungnahme des oder der Ausbildenden.
+
+
+
+
+(3) Wer einen Antrag auf Nachteilsausgleich stellt, hat dem Antrag auf
+Zulassung zusätzlich beizufügen:
+
+1.  ein ärztliches Attest über die Beeinträchtigung,
+
+
+2.  eine Bescheinigung über Art und Umfang der Behinderungen oder
+
+
+3.  eine Kopie des Schwerbehindertenausweises.
+
+
+
+
+(4) Fügt ein Mensch mit Behinderungen dem Antrag auf Zulassung zur
+Abschlussprüfung eine Bescheinigung über Art und Umfang der
+Behinderungen bei, so entfällt für ihn das Erfordernis, die folgenden
+Unterlagen beizufügen:
+
+1.  die Bescheinigung
+
+    a)  über die Teilnahme an der Zwischenprüfung oder
+
+
+    b)  über die Ablegung von Teil 1 der Abschlussprüfung und
+
+
+
+
+
+2.  den Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des
+    Berufsbildungsgesetzes, der über den Ausbilder oder die Ausbilderin
+    schriftlich oder elektronisch vorgelegt werden muss.
+
+
+
+
+(5) Wer mindestens das Eineinhalbfache der Zeit, die als
+Ausbildungsdauer vorgeschrieben ist, in dem Beruf tätig gewesen ist,
+in dem die Abschlussprüfung abgelegt werden soll (§ 45 Absatz 2 des
+Berufsbildungsgesetzes), hat dem Antrag die folgenden Unterlagen
+beizufügen:
+
+1.  die Tätigkeitsnachweise,
+
+
+2.  im Falle des § 45 Absatz 2 Satz 2 den Nachweis über die in der
+    Ausbildungsordnung vorgeschriebene erforderliche Dauer der
+    Berufsausbildung im Ausbildungsberuf oder in einem anderen
+    einschlägigen Ausbildungsberuf oder eine Bescheinigung über den Erwerb
+    der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten und
+
+
+3.  im Falle des § 45 Absatz 2 Satz 3 eine glaubhafte Darlegung über den
+    Erwerb der beruflichen Handlungsfähigkeit.
+
+
+
+(6) Wer im Rahmen eines Verfahrens nach § 1 Absatz 6 des
+Berufsbildungsgesetzes das Zeugnis der vollständigen Vergleichbarkeit
+seiner individuellen beruflichen Handlungsfähigkeit mit der für die
+Ausübung des im Antrag bestimmten anerkannten Ausbildungsberufs
+erforderlichen beruflichen Handlungsfähigkeit erhalten hat, hat dem
+Antrag das Zeugnis über die Feststellung der vollständigen
+Vergleichbarkeit der beruflichen Handlungsfähigkeit nach § 50c Absatz
+3 Satz 2 des Berufsbildungsgesetzes beizufügen.
+
+
 #### § 13 Entscheidung über die Zulassung
 [Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001500000)
 
@@ -393,6 +523,16 @@ Person nicht mitwirken, wenn bei ihr
 
 Die Gliederung der Abschlussprüfung richtet sich nach der
 Ausbildungsordnung.
+
+
+#### § 16 Leitung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001801131)
+
+Die Abschlussprüfung wird unter der Leitung des Vorsitzes vom gesamten
+Prüfungsausschuss durchgeführt. Dessen unbeschadet können die Abnahme
+und die abschließende Bewertung von einzelnen Prüfungsleistungen auf
+Prüferdelegationen, auf zwei Mitglieder des Prüfungsausschusses oder
+auf zwei Mitglieder einer Prüferdelegation übertragen werden.
 
 
 #### § 17 Prüfungsaufgaben
@@ -1064,6 +1204,123 @@ die Bescheinigung dem Prüfling zuzuleiten und das Empfangsdatum
 aktenkundig zu machen.
 
 (4) Die Bescheinigung ersetzt nicht das Prüfungszeugnis.
+
+
+#### § 43 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004501131)
+
+(1) Das Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des
+Berufsbildungsgesetzes wird von der zuständigen Stelle ausgestellt.
+
+(2) Das Prüfungszeugnis enthält
+
+1.  die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des
+    Berufsbildungsgesetzes“,
+
+
+2.  den Namen und die Vornamen des Prüflings,
+
+
+3.  das Geburtsdatum des Prüflings,
+
+
+4.  die Bezeichnung des Ausbildungsberufs, gegebenenfalls mit Fachrichtung
+    oder Schwerpunkt,
+
+
+5.  die Ergebnisse der Prüfungsbereiche in Punkten und als Note,
+
+
+6.  das Gesamtergebnis der Abschlussprüfung als Note, falls ein solches in
+    der Ausbildungsordnung vorgesehen ist,
+
+
+7.  das Datum, an dem das Bestehen der Abschlussprüfung festgestellt
+    worden ist,
+
+
+8.  die Namenswiedergabe als Faksimile oder die Unterschrift vom Vorsitz
+    des Prüfungsausschusses und von der beauftragten Person der
+    zuständigen Stelle sowie
+
+
+9.  das Siegel der zuständigen Stelle.
+
+
+
+
+(3) Sieht die Ausbildungsordnung aufgrund des § 5 Absatz 2 Satz 1
+Nummer 2 des Berufsbildungsgesetzes vor, dass bei einer
+Abschlussprüfung, die in zwei zeitlich auseinanderfallenden Teilen
+durchgeführt wird, bei nicht bestandener Abschlussprüfung in einem
+dreijährigen oder dreieinhalbjährigen Ausbildungsberuf, der auf einem
+zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen
+Ausbildungsberufs erworben wird, sofern im ersten Teil der
+Abschlussprüfung mindestens ausreichende Prüfungsleistungen erbracht
+worden sind, und hat ein Prüfling von dieser Regelung Gebrauch
+gemacht, so enthält das Prüfungszeugnis
+
+1.  die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des
+    Berufsbildungsgesetzes“,
+
+
+2.  den Namen und die Vornamen des Prüflings,
+
+
+3.  das Geburtsdatum des Prüflings,
+
+
+4.  die einleitende Bemerkung, dass der Prüfling aufgrund der
+    Prüfungsleistungen, die er in Teil 1 der Abschlussprüfung eines zu
+    benennenden drei- oder dreieinhalbjährigen Ausbildungsberufs erbracht
+    hat, den Abschluss des zu benennenden zweijährigen Ausbildungsberufs
+    erworben hat,
+
+
+5.  die Ergebnisse der Prüfungsbereiche von Teil 1 in Punkten und als
+    Note,
+
+
+6.  gegebenenfalls das Ergebnis der zu benennenden Prüfungsbereiche aus
+    Teil 2 der Abschlussprüfung, wenn die Fertigkeiten, Kenntnisse und
+    Fähigkeiten, die durch die Abschlussprüfung des zweijährigen
+    Ausbildungsberufs nachgewiesen werden, nicht hinreichend abgedeckt
+    werden durch die Fertigkeiten, Kenntnisse und Fähigkeiten, die in Teil
+    1 der Abschlussprüfung nachgewiesen worden sind,
+
+
+7.  die Feststellung, dass in Teil 1 der Abschlussprüfung und in den zu
+    benennenden Prüfungsbereichen von Teil 2 der Abschlussprüfung
+    ausreichende Leistungen entsprechend den Bestehensregelungen im
+    zweijährigen Ausbildungsberuf erbracht worden sind,
+
+
+8.  das Datum, an dem das Ergebnis von Teil 2 der Abschlussprüfung
+    festgestellt worden ist,
+
+
+9.  die Namenswiedergabe als Faksimile oder die Unterschrift des Vorsitzes
+    des Prüfungsausschusses und der beauftragten Person der zuständigen
+    Stelle sowie
+
+
+10. das Siegel der zuständigen Stelle.
+
+
+
+
+(4) Das Abschlusszeugnis kann zusätzlich nichtamtliche Bemerkungen zur
+Information enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Berufsausbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
 
 
 #### § 44 Bescheid über die nichtbestandene Abschlussprüfung

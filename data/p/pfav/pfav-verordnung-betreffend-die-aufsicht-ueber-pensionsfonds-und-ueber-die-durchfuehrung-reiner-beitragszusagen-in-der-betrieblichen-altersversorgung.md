@@ -812,6 +812,479 @@ handelsrechtlich gebotene Bewertung von Vermögensgegenständen (§ 341
 Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuchs).
 
 
+#### § 17 Anlageformen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001906128)
+
+(1) Das Sicherungsvermögen darf angelegt werden in
+
+1.  Forderungen, für die ein Grundpfandrecht an einem in einem Staat des
+    EWR oder in einem Vollmitgliedstaat der OECD belegenen Grundstück oder
+    grundstücksgleichen Recht besteht, wenn das Grundpfandrecht die
+    Erfordernisse der §§ 14 und 16 Absatz 1 bis 3 des Pfandbriefgesetzes,
+    im Fall von Erbbaurechten darüber hinaus die Erfordernisse des § 13
+    Absatz 2 des Pfandbriefgesetzes erfüllt oder wenn das Grundpfandrecht
+    die entsprechenden Vorschriften des anderen Staates erfüllt;
+
+
+2.  Forderungen,
+
+    a)  die ausreichend durch Geldzahlung gesichert oder für die Guthaben oder
+        Wertpapiere entsprechend § 200 Absatz 1 bis 3 des
+        Kapitalanlagegesetzbuchs oder gleichwertiger Vorschriften eines
+        anderen Staates des EWR oder eines Vollmitgliedstaates der OECD
+        verpfändet oder zur Sicherung übertragen sind (Wertpapierdarlehen),
+
+
+    b)  für die Schuldverschreibungen nach Nummer 6 oder 7 verpfändet oder zur
+        Sicherung übertragen sind oder
+
+
+    c)  die aus liquiden Abrechnungsforderungen des Pensionsfonds gegenüber
+        einem Rückversicherer, abzüglich etwaiger Abrechnungsverbindlichkeiten
+        aus Prämienforderungen des Rückversicherers gegen den Pensionsfonds,
+        bestehen;
+
+
+
+
+
+3.  Darlehen
+
+    a)  an die Bundesrepublik Deutschland, ihre Länder, Gemeinden und
+        Gemeindeverbände,
+
+
+    b)  an einen anderen Staat des EWR oder einen Vollmitgliedstaat der OECD,
+
+
+    c)  an Regionalregierungen und örtliche Gebietskörperschaften eines
+        anderen Staates des EWR oder eines Vollmitgliedstaates der OECD,
+
+
+    d)  an eine internationale Organisation, der auch die Bundesrepublik
+        Deutschland als Vollmitglied angehört,
+
+
+    e)  für deren Verzinsung und Rückzahlung eine der unter Buchstabe a, b
+        oder d genannten Stellen, ein geeignetes Kreditinstitut im Sinne der
+        Nummer 18 Buchstabe b, ein öffentlich-rechtliches Kreditinstitut im
+        Sinne der Nummer 18 Buchstabe c oder eine multilaterale
+        Entwicklungsbank im Sinne der Nummer 18 Buchstabe d die volle
+        Gewährleistung übernommen hat oder ein Versicherungsunternehmen im
+        Sinne des Artikels 14 der Richtlinie 2009/138/EG des Europäischen
+        Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme
+        und Ausübung der Versicherungs- und der Rückversicherungstätigkeit
+        (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1), die zuletzt durch
+        die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert
+        worden ist, das Ausfallrisiko versichert hat, oder
+
+
+    f)  an Abwicklungsanstalten im Sinne des § 8a Absatz 1 des
+        Stabilisierungsfondsgesetzes, soweit eine unter Buchstabe a, b oder d
+        genannte Stelle für diese Abwicklungsanstalt die
+        Verlustausgleichspflicht gemäß § 8a Absatz 4 Satz 1 Nummer 1 Satz 1
+        und Nummer 1a des Stabilisierungsfondsgesetzes übernommen hat;
+
+
+
+
+
+4.  Darlehen
+
+    a)  an Unternehmen mit Sitz in einem Staat des EWR oder in einem
+        Vollmitgliedstaat der OECD mit Ausnahme von Kreditinstituten, sofern
+        auf Grund der bisherigen und der zu erwartenden künftigen Entwicklung
+        der Ertrags- und Vermögenslage des Unternehmens die vertraglich
+        vereinbarte Verzinsung und Rückzahlung gewährleistet erscheinen und
+        die Darlehen ausreichend
+
+        aa) durch erstrangige Grundpfandrechte gesichert sind,
+
+
+        bb) durch verpfändete oder zur Sicherung übertragene Forderungen oder zum
+            Handel zugelassene oder an einem anderen organisierten Markt nach § 2
+            Absatz 11 des Wertpapierhandelsgesetzes zugelassene oder in diesen
+            einbezogene Wertpapiere gesichert sind oder
+
+
+        cc) in vergleichbarer Weise gesichert sind; eine Verpflichtungserklärung
+            des Darlehensnehmers gegenüber dem Pensionsfonds (Negativerklärung)
+            kann eine Sicherung des Darlehens nur ersetzen, wenn und solange der
+            Darlehensnehmer bereits auf Grund seines Status die Gewähr für die
+            Verzinsung und Rückzahlung des Darlehens bietet;
+
+
+
+
+
+    b)  an Unternehmen im Sinne von Nummer 14 Buchstabe a, an denen der
+        Pensionsfonds als Gesellschafter beteiligt ist (Gesellschafter-
+        Darlehen), wenn die Darlehen die Erfordernisse des § 240 Absatz 1 und
+        Absatz 2 Satz 1 Nummer 1 des Kapitalanlagegesetzbuchs erfüllen;
+
+
+    c)  an andere Unternehmen mit Sitz in einem Staat des EWR oder in einem
+        Vollmitgliedstaat der OECD mit Ausnahme von Kreditinstituten, sofern
+        diese Darlehen ausreichend dinglich oder schuldrechtlich gesichert
+        sind;
+
+
+
+
+
+5.  Versicherungsverträgen, die bei Lebensversicherungsunternehmen im
+    Sinne des § 1 Absatz 2 Satz 1 des Altersvorsorgeverträge-
+    Zertifizierungsgesetzes zur Deckung von Verpflichtungen gegenüber den
+    Versorgungsberechtigten eingegangen werden;
+
+
+6.  Pfandbriefen, Kommunalobligationen und anderen Schuldverschreibungen
+    von Kreditinstituten mit Sitz in einem Staat des EWR oder in einem
+    Vollmitgliedstaat der OECD, wenn die Kreditinstitute auf Grund
+    gesetzlicher Vorschriften zum Schutz der Inhaber dieser
+    Schuldverschreibungen einer besonderen öffentlichen Aufsicht
+    unterliegen und die mit der Ausgabe der Schuldverschreibungen
+    aufgenommenen Mittel nach den gesetzlichen Vorschriften in
+    Vermögenswerten angelegt werden, die während der gesamten Laufzeit der
+    Schuldverschreibungen die sich aus ihnen ergebenden Verbindlichkeiten
+    ausreichend decken und die bei einem Ausfall des Ausstellers vorrangig
+    für die fällig werdenden Rückzahlungen und die Zahlung der Zinsen
+    bestimmt sind (kraft Gesetzes bestehende besondere Deckungsmasse);
+
+
+7.  Schuldverschreibungen,
+
+    a)  die an einer Börse zum Handel zugelassen sind oder an einem anderen
+        organisierten Markt zugelassen oder in diesen einbezogen sind,
+
+
+    b)  deren Einbeziehung in einen organisierten Markt nach den
+        Ausgabebedingungen zu beantragen ist, sofern die Einbeziehung dieser
+        Schuldverschreibungen innerhalb eines Jahres nach ihrer Ausgabe
+        erfolgt, oder
+
+
+    c)  die in einem Staat außerhalb des EWR an einer Börse zum Handel
+        zugelassen sind oder dort an einem anderen organisierten Markt
+        zugelassen oder in diesen einbezogen sind;
+
+
+
+
+
+8.  anderen Schuldverschreibungen;
+
+
+9.  Forderungen aus nachrangigen Verbindlichkeiten gegen Unternehmen oder
+    aus Genussrechten an Unternehmen, die
+
+    a)  ihren Sitz in einem Staat des EWR oder in einem Vollmitgliedstaat der
+        OECD haben oder
+
+
+    b)  an einer Börse zum Handel zugelassen sind oder an einem anderen
+        organisierten Markt zugelassen oder in diesen einbezogen sind oder in
+        einem Staat außerhalb des EWR an einer Börse zum Handel zugelassen
+        sind oder dort an einem anderen organisierten Markt zugelassen oder in
+        diesen einbezogen sind;
+
+
+
+
+
+10. Asset Backed Securities (strukturierte Finanzinstrumente, die mit
+    Forderungsrechten besichert sind) und Credit Linked Notes (mit
+    Kreditrisiken verknüpfte Finanzinstrumente) sowie andere Anlagen nach
+    § 17 Absatz 1, deren Ertrag oder Rückzahlung an Kreditrisiken gebunden
+    sind oder mittels derer Kreditrisiken eines Dritten übertragen werden,
+
+    a)  gegen Unternehmen mit Sitz in einem Staat des EWR oder in einem
+        Vollmitgliedstaat der OECD oder
+
+
+    b)  die an einer Börse zum Handel zugelassen sind oder an einem anderen
+        organisierten Markt zugelassen oder in diesen einbezogen sind oder in
+        einem Staat außerhalb des EWR an einer Börse zum Handel zugelassen
+        sind oder dort an einem anderen organisierten Markt zugelassen oder in
+        diesen einbezogen sind;
+
+
+
+
+
+11. Forderungen, die in das Schuldbuch der Bundesrepublik Deutschland,
+    eines ihrer Länder oder in ein entsprechendes Verzeichnis eines
+    anderen Staates des EWR oder eines Vollmitgliedstaates der OECD
+    eingetragen sind oder deren Eintragung als Schuldbuchforderung
+    innerhalb eines Jahres nach ihrer Ausgabe erfolgt, sowie in
+    Liquiditätspapieren im Sinne des § 42 Absatz 1 des Gesetzes über die
+    Deutsche Bundesbank;
+
+
+12. Aktien, die an einer Börse zum Handel zugelassen sind oder an einem
+    anderen organisierten Markt zugelassen oder in diesen einbezogen sind
+    oder in einem Staat außerhalb des EWR an einer Börse zum Handel
+    zugelassen sind oder dort an einem anderen organisierten Markt
+    zugelassen oder in diesen einbezogen sind;
+
+
+13. Beteiligungen in Form von
+
+    a)  anderen Aktien, Geschäftsanteilen an einer Gesellschaft mit
+        beschränkter Haftung, Kommanditanteilen und Beteiligungen als stiller
+        Gesellschafter im Sinne des Handelsgesetzbuchs, wenn das Unternehmen
+        über ein Geschäftsmodell verfügt, unternehmerische Risiken eingeht und
+
+        aa) seinen Sitz in einem Staat des EWR oder in einem Vollmitgliedstaat der
+            OECD hat,
+
+
+        bb) dem Pensionsfonds den letzten Jahresabschluss zur Verfügung stellt,
+            der in entsprechender Anwendung der für Kapitalgesellschaften
+            geltenden Vorschriften aufgestellt und geprüft ist,
+
+
+        cc) sich verpflichtet, auch künftig zu jedem Bilanzstichtag einen
+            derartigen Jahresabschluss vorzulegen;
+
+
+
+
+
+    b)  Anteilen und Aktien an inländischen geschlossenen Alternativen
+        Investmentfonds (AIF) im Sinne des § 1 Absatz 3 des
+        Kapitalanlagegesetzbuchs,
+
+        aa) die direkt oder indirekt in Vermögensgegenstände nach § 261 Absatz 1
+            Nummer 2 und 4 des Kapitalanlagegesetzbuchs, eigenkapitalähnliche
+            Instrumente sowie andere Instrumente der Unternehmensfinanzierung
+            investieren und
+
+
+        bb) die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
+            über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs
+            verfügt oder nach § 44 des Kapitalanlagegesetzbuchs registriert ist,
+            oder von einer Verwaltungsgesellschaft mit Sitz in einem Staat des EWR
+            oder in einem Vollmitgliedstaat der OECD, die zum Schutz der Anleger
+            einer öffentlichen Aufsicht unterliegt und über eine Erlaubnis oder
+            Registrierung verfügt, die mit der Erlaubnis nach § 20 Absatz 1 des
+            Kapitalanlagegesetzbuchs oder der Registrierung nach § 44 des
+            Kapitalanlagegesetzbuchs vergleichbar ist,
+
+
+
+        sowie von Anteilen und Aktien an geschlossenen ausländischen
+        Investmentvermögen, die dem Recht eines Staates des EWR oder eines
+        Vollmitgliedstaates der OECD unterliegen, die Anforderung nach
+        Doppelbuchstabe aa in vergleichbarer Weise erfüllen und von einer
+        Gesellschaft im Sinne von Doppelbuchstabe bb verwaltet werden;
+
+
+
+
+
+14. Immobilien in Form von
+
+    a)  bebauten, in Bebauung befindlichen oder zur alsbaldigen Bebauung
+        bestimmten, in einem Staat des EWR oder in einem Vollmitgliedstaat der
+        OECD belegenen Grundstücken, dort belegenen grundstücksgleichen
+        Rechten sowie Anteilen an einem Unternehmen, dessen alleiniger Zweck
+        der Erwerb, die Bebauung und Verwaltung von in einem solchen Staat
+        belegenen Grundstücken oder grundstücksgleichen Rechten ist; der
+        Pensionsfonds hat die Angemessenheit des Kaufpreises auf der Grundlage
+        des Gutachtens eines vereidigten Sachverständigen oder in
+        vergleichbarer Weise zu prüfen,
+
+
+    b)  Aktien einer REIT-Aktiengesellschaft oder von Anteilen an einer
+        vergleichbaren Kapitalgesellschaft mit Sitz in einem Staat des EWR
+        oder in einem Vollmitgliedstaat der OECD, die die Voraussetzungen des
+        REIT-Gesetzes oder die vergleichbaren Vorschriften des anderen Staates
+        erfüllen,
+
+
+    c)  Anteilen und Aktien an inländischen Spezial-AIF im Sinne des § 1
+        Absatz 6 des Kapitalanlagegesetzbuchs oder von Anteilen und Aktien an
+        inländischen geschlossenen Publikums-AIF im Sinne des § 1 Absatz 3 in
+        Verbindung mit Absatz 6 Satz 2 des Kapitalanlagegesetzbuchs,
+
+        aa) die direkt oder indirekt investieren in Vermögensgegenstände nach §
+            231 Absatz 1 Satz 1 Nummer 1 bis 6, 8 und Absatz 3 sowie § 235 Absatz
+            1 des Kapitalanlagegesetzbuchs und in Liquiditätsanlagen, die
+            näherungsweise den Anforderungen des § 253 Absatz 1 Satz 1 des
+            Kapitalanlagegesetzbuchs entsprechen, und
+
+
+        bb) die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
+            über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs
+            verfügt, oder von einer Verwaltungsgesellschaft mit Sitz in einem
+            Staat des EWR, die zum Schutz der Anleger einer öffentlichen Aufsicht
+            unterliegt und über eine Erlaubnis verfügt, die mit der Erlaubnis nach
+            § 20 Absatz 1 des Kapitalanlagegesetzbuchs vergleichbar ist,
+
+
+
+        sowie von Anteilen und Aktien an EU-Investmentvermögen im Sinne des §
+        1 Absatz 8 des Kapitalanlagegesetzbuchs in Form von Spezial-AIF und
+        geschlossenen Publikums-AIF, die die Anforderung nach Doppelbuchstabe
+        aa in vergleichbarer Weise erfüllen und von einer Gesellschaft im
+        Sinne von Doppelbuchstabe bb verwaltet werden;
+
+
+
+
+
+15. Anteilen und Anlageaktien an inländischen offenen
+    Publikumsinvestmentvermögen im Sinne des § 1 Absatz 2 des
+    Kapitalanlagegesetzbuchs (OGAW) sowie in Anteilen und Aktien an
+    vergleichbaren EU-Investmentvermögen im Sinne des § 1 Absatz 8 des
+    Kapitalanlagegesetzbuchs, sofern diese Vermögen von einer OGAW-
+    Verwaltungsgesellschaft mit Sitz in einem Staat des EWR verwaltet
+    werden;
+
+
+16. Anteilen und Anlageaktien an inländischen offenen Spezial-AIF im Sinne
+    des § 1 Absatz 6 Satz 1 des Kapitalanlagegesetzbuchs,
+
+    a)  die die Anforderungen nach § 284 des Kapitalanlagegesetzbuchs erfüllen
+        und nicht von Nummer 14 Buchstabe c erfasst werden und
+
+
+    b)  die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
+        über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs
+        verfügt, oder von einer Verwaltungsgesellschaft mit Sitz in einem
+        Staat des EWR, die zum Schutz der Anleger einer öffentlichen Aufsicht
+        unterliegt und über eine Erlaubnis verfügt, die mit der Erlaubnis nach
+        § 20 Absatz 1 des Kapitalanlagegesetzbuchs vergleichbar ist,
+
+
+
+    sowie in Anteilen und Aktien an EU-Investmentvermögen im Sinne des § 1
+    Absatz 8 des Kapitalanlagegesetzbuchs in Form von offenen Spezial-AIF,
+    die die Anforderung nach Buchstabe a in vergleichbarer Weise erfüllen
+    und von einer Gesellschaft im Sinne von Buchstabe b verwaltet werden;
+
+
+17. Anteilen und Aktien an inländischen Investmentvermögen im Sinne des §
+    1 Absatz 1 des Kapitalanlagegesetzbuchs,
+
+    a)  die nicht Publikumsinvestmentvermögen in Form von Immobilien-
+        Sondervermögen nach den §§ 230 bis 260 des Kapitalanlagegesetzbuchs
+        sind,
+
+
+    b)  die nicht von Nummer 13 Buchstabe b, Nummer 14 Buchstabe c, Nummer 15
+        und 16 erfasst werden und
+
+
+    c)  die von einer Kapitalverwaltungsgesellschaft verwaltet werden, die
+        über eine Erlaubnis nach § 20 Absatz 1 des Kapitalanlagegesetzbuchs
+        verfügt, oder von einer Verwaltungsgesellschaft mit Sitz in einem
+        Staat des EWR, die zum Schutz der Anleger einer öffentlichen Aufsicht
+        unterliegt und über eine Erlaubnis verfügt, die mit der Erlaubnis nach
+        § 20 Absatz 1 des Kapitalanlagegesetzbuchs vergleichbar ist,
+
+
+
+    sowie in Anteilen und Aktien an EU-Investmentvermögen im Sinne des § 1
+    Absatz 8 des Kapitalanlagegesetzbuchs, die die Anforderung nach
+    Buchstabe a in vergleichbarer Weise erfüllen, nicht von den in
+    Buchstabe b genannten Anlageformen erfasst werden und von einer
+    Gesellschaft im Sinne von Buchstabe c verwaltet werden;
+
+
+18. Anlagen bei
+
+    a)  der Europäischen Zentralbank oder bei der Zentralnotenbank eines
+        Staates des EWR oder eines Vollmitgliedstaates der OECD,
+
+
+    b)  einem Kreditinstitut mit Sitz in einem Staat des EWR, das den
+        Anforderungen der Richtlinie 2013/36/EU des Europäischen Parlaments
+        und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von
+        Kreditinstituten und die Beaufsichtigung von Kreditinstituten und
+        Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur
+        Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom
+        27\.6.2013, S. 338), die zuletzt durch die Richtlinie
+        2014/59/EU (ABl. L 173 vom 12.6.2014, S. 190) geändert worden ist,
+        unterliegt, wenn das Kreditinstitut dem Pensionsfonds schriftlich
+        bestätigt, dass es die an seinem Sitz geltenden Vorschriften über das
+        Eigenkapital und die Liquidität der Kreditinstitute einhält
+        (geeignetes Kreditinstitut),
+
+
+    c)  öffentlich-rechtlichen Kreditinstituten, die nach Artikel 2 Absatz 5
+        der Richtlinie 2013/36/EU vom Geltungsbereich dieser Richtlinie
+        ausgenommen sind,
+
+
+    d)  multilateralen Entwicklungsbanken, die nach Artikel 117 Absatz 2 der
+        Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+        vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
+        Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012
+        (ABl. L 176 vom 27.6.2013, S. 1), die zuletzt durch die Delegierte
+        Verordnung (EU) 2015/62 (ABl. L 11 vom 17.1.2015, S. 37) geändert
+        worden ist, ein Risikogewicht von 0 Prozent erhalten;
+
+
+
+    als Anlagen gelten auch laufende Guthaben.
+
+
+
+
+(2) Das Sicherungsvermögen kann darüber hinaus in Anlagen angelegt
+werden, die in Absatz 1 nicht genannt sind oder die Voraussetzungen
+nach Absatz 1 nicht erfüllen (Öffnungsklausel).
+
+(3) Die Aufsichtsbehörde kann auch Anlagen in Vermögenswerten, die in
+den vorangehenden Absätzen nicht genannt sind oder die Voraussetzungen
+der vorangehenden Absätze nicht erfüllen, sowie Überschreitungen der
+in § 18 Absatz 1 Satz 2 und § 19 Absatz 1 bis 4 genannten Begrenzungen
+gestatten, wenn
+
+1.  die Belange der Versorgungsanwärter und Versorgungsempfänger
+    (Versorgungsberechtigte) dadurch nicht beeinträchtigt werden und
+
+
+2.  die Mitgliedstaaten diese Abweichungen zulassen können nach Artikel 19
+    der Richtlinie (EU) 2016/2341.
+
+
+
+
+(4) Nicht zulässig sind direkte und indirekte Anlagen
+
+1.  in Konsumentenkrediten, Betriebsmittelkrediten, beweglichen Sachen
+    oder Ansprüchen auf bewegliche Sachen sowie in immateriellen Werten,
+
+
+2.  die gemäß Artikel 19 der Richtlinie (EU) 2016/2341 nicht zulässig
+    sind,
+
+
+3.  in Beteiligungen bei Konzernunternehmen des Pensionsfonds im Sinne des
+    § 18 des Aktiengesetzes mit Ausnahme von Anlagen nach Absatz 1 Nummer
+    5 sowie von Unternehmen, an denen der Pensionsfonds nur passiv
+    beteiligt ist, ohne operativ auf das Geschäft Einfluss zu nehmen oder
+    laufende Projektentwicklung zu betreiben, und
+
+
+4.  bei Unternehmen, auf die der Pensionsfonds oder seine
+    Konzernunternehmen im Sinne des § 18 des Aktiengesetzes ihren
+    Geschäftsbetrieb ganz oder teilweise im Wege der Ausgliederung (§ 7
+    Nummer 2 des Versicherungsaufsichtsgesetzes) von Funktionen übertragen
+    hat oder die in unmittelbarem Zusammenhang mit dem Betrieb von
+    Pensionsfondsgeschäften stehende Tätigkeiten für den Pensionsfonds
+    oder seine Konzernunternehmen im Sinne des § 18 des Aktiengesetzes
+    ausführen, wenn bei diesen Unternehmen der Umfang des
+    Geschäftsbetriebes wesentlich vom Gegenstand der Ausgliederung von
+    Funktionen oder der Dienstleistungstätigkeit bestimmt wird.
+
+
+
+
+
 #### § 18 Mischung
 [Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002000000)
 
@@ -1447,6 +1920,10 @@ festgelegte Muster zu verwenden.
 (4) (weggefallen)
 
 
+### Kapitel 7 - Lebenslange Zahlungen und Raten einer Kapitalzahlung im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000704128)
+
+
 #### § 29 Anfängliche Höhe der lebenslangen Zahlung
 [Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003101118)
 
@@ -1501,6 +1978,47 @@ hat er die an die Rentenempfänger des Pensionsplans zu erbringenden
 Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
 
+#### § 31a Kapitalzahlung in Raten
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005600128)
+
+Wird die Leistung als Kapitalzahlung in Raten erbracht, werden für die
+Ermittlung der Raten die §§ 29 bis 31 entsprechend angewendet. Dabei
+sind in den Barwerten die Zahlungsströme der Kapitalzahlung
+anzusetzen. Die Berechnung der Leistungen und ihrer Mindesthöhen wird
+getrennt für die Gruppe der Empfänger einer lebenslangen Zahlung und
+für die Gruppe der Empfänger von Raten einer Kapitalzahlung
+durchgeführt.
+
+
+#### § 32 Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003901128)
+
+(1) Der Nachweis der Zusage des Arbeitgebers, für die Erbringung der
+Mindesthöhe der lebenslangen Zahlung nach § 30 einzustehen, erfolgt
+gegenüber der Aufsichtsbehörde durch den Pensionsfonds. Zusage und
+Nachweis bedürfen der Schriftform.
+
+(2) In der Zusage nach Absatz 1 muss bestimmt sein, dass sich die
+Einstandspflicht des Arbeitgebers auf den Differenzbetrag zwischen der
+Mindesthöhe nach § 30 und der durch den Pensionsfonds zu erbringenden
+lebenslangen Zahlung bezieht, sofern und solange diese die Mindesthöhe
+nicht erreicht.
+
+(3) Ergibt sich auf Grund der Pflichten nach § 31 Absatz 3, dass die
+an die Rentenempfänger durch den Pensionsfonds zu erbringenden
+lebenslangen Zahlungen unter die Mindesthöhe nach § 30 abgesenkt
+werden, ist der Arbeitgeber unverzüglich über seine Einstandspflicht
+unter Angabe des Beginns und der Höhe zu informieren.
+
+(4) Der Pensionsfonds ist berechtigt, gegen Erstattung der Kosten die
+Funktion einer Zahlstelle zur Erfüllung der Einstandsverpflichtung der
+Arbeitgeber zu übernehmen.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für die nach § 30 in
+Verbindung mit § 31a bestimmte Mindesthöhe der Rate einer
+Kapitalzahlung.
+
+
 ## Teil 2 - Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
 [Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000900124)
 
@@ -1521,6 +2039,42 @@ anderes Lebensversicherungsunternehmen.
 Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen
 Altersversorgung eingezahlt werden, sind anzulegen. Für die Anlage
 dieser Beiträge sind die §§ 16 bis 20 entsprechend anzuwenden.
+
+
+### § 35 Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004301128)
+
+(1) In der Ansparphase ist die Deckungsrückstellung das planmäßig
+zuzurechnende Versorgungskapital auf der Grundlage der gezahlten
+Beiträge und der daraus erzielten Erträge. Dabei kann ein kollektives
+Versorgungskapital gebildet werden, das den Versorgungsanwärtern
+insgesamt planmäßig zugerechnet ist.
+
+(2) In der Rentenbezugszeit ist die Deckungsrückstellung nach der
+retrospektiven Methode zu bilden, wobei die Deckungsrückstellung bei
+Rentenbeginn dem vorhandenen Versorgungskapital des
+Versorgungsanwärters entspricht.
+
+(3) Mit Zusatzbeiträgen nach § 23 Absatz 1 des Betriebsrentengesetzes
+und daraus erzielten Erträgen kann eine zusätzliche
+Deckungsrückstellung gebildet werden, die den Versorgungsberechtigten
+insgesamt zugeordnet ist.
+
+(4) Der zusätzlichen Deckungsrückstellung nach Absatz 3 können
+Nettokapitalerträge aus der Vermögensanlage nach § 34 zugeführt
+werden, wenn die Vermögensanlage der reinen Beitragszusage für die
+Versorgungsanwärter und Versorgungsempfänger zusammen erfolgt und der
+Tarifvertrag, der der reinen Beitragszusage zugrunde liegt, die
+Zuführung zur zusätzlichen Deckungsrückstellung vorsieht. Zugeführt
+werden dürfen Nettokapitalerträge, die einen in Prozent der
+Vermögensanlage festgelegten Schwellenwert übersteigen. Der
+Prozentsatz muss mindestens doppelt so hoch sein wie der
+Rechnungszins, mit dem der in § 36 Absatz 1 angegebene Barwert
+berechnet wird. Der Prozentsatz ist in Abhängigkeit von der erwarteten
+Volatilität dieses Rechnungszinses festzulegen. Dem nach diesem Absatz
+finanzierten Teil der zusätzlichen Deckungsrückstellung dürfen keine
+Nettokapitalerträge zugeführt werden, wenn sie über einer angemessen
+festgelegten Obergrenze liegt.
 
 
 ### § 36 Kapitaldeckungsgrad

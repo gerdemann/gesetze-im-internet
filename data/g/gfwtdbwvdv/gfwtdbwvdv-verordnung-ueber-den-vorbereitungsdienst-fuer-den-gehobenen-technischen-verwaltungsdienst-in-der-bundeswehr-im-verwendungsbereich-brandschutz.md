@@ -37,6 +37,58 @@ gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000100000)
 
 
+### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000301311)
+
+Die Ausbildung und Prüfung nach dieser Verordnung sind der
+Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in
+der Bundeswehr im Verwendungsbereich Brandschutz.
+
+
+### § 2 Ziel und Inhalt des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000401311)
+
+(1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und
+Anwärter zu befähigen,
+
+1.  Einsatzaufgaben auf allen Führungsebenen der Feuerwehr zu übernehmen
+    und
+
+
+2.  in den Dienststellen der Bundeswehr die Aufgaben des technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz zu erfüllen, die ingenieurwissenschaftlichen oder
+    naturwissenschaftlichen Sachverstand erfordern.
+
+
+
+
+(2) Die Ausbildung vermittelt den Anwärterinnen und Anwärtern in enger
+Verbindung von Theorie und Praxis die Methoden und Kenntnisse sowie
+die berufspraktischen Fähigkeiten, die zur Aufgabenerfüllung in ihrer
+Laufbahn und Laufbahngruppe erforderlich sind. Dazu gehören
+
+1.  feuerwehr- und brandschutzspezifische Fähigkeiten und Fertigkeiten,
+
+
+2.  die Fähigkeit zur Anwendung der einschlägigen allgemeinen und
+    bundeswehrspezifischen Rechtsvorschriften sowie
+
+
+3.  die Fähigkeit zur Erbringung von Dienstleistungen und zur
+    Zusammenarbeit.
+
+
+
+Darüber hinaus werden allgemeine berufliche Fähigkeiten vermittelt,
+insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen
+Überprüfen des eigenen Handelns und zum selbständigen und
+wirtschaftlichen Handeln sowie soziale Kompetenz.
+
+(3) Die Anwärterinnen und Anwärter werden auf ihre Verantwortung in
+einem demokratischen und sozialen Rechtsstaat vorbereitet.
+
+
 ### § 3 Arten des Vorbereitungsdienstes
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000500000)
 
@@ -82,8 +134,49 @@ Erholungsurlaub soll nur während der praktischen Ausbildung (§ 27)
 gewährt werden.
 
 
+### § 6 Einstellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000801311)
+
+(1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement
+der Bundeswehr. Die Einstellungsbehörde ist zuständig für die
+Einstellung und die Betreuung der Anwärterinnen und Anwärter. Sie
+trifft die Entscheidungen über die Verkürzung und die Verlängerung des
+Vorbereitungsdienstes nach den §§ 18 und 19 der
+Bundeslaufbahnverordnung.
+
+(2) Die Einstellungsbehörde ist die personalbearbeitende Dienststelle
+der Anwärterinnen und Anwärter. Sie kann Aufgaben im Rahmen des
+Einstellungsverfahrens auf eine nachgeordnete Behörde übertragen.
+
+
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000200000)
+
+
+### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000902311)
+
+(1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
+Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
+diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund
+ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den
+Vorbereitungsdienst geeignet und befähigt sind.
+
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
+Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
+schwerbehinderte Menschen und diesen gleichgestellte behinderte
+Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit
+mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne
+Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der
+Ausschreibung genannten Voraussetzungen erfüllen.
+
+(3) Wer zum Auswahlverfahren nicht zugelassen wird, erhält eine
+schriftliche Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen
+werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht.
+Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke
+elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach
+Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch
+zurückgesandt.
 
 
 ### § 8 Anforderungen im Auswahlverfahren; Auswahlinstrumente
@@ -318,6 +411,23 @@ unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht
 ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
+### § 15b Praktischer Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006401311)
+
+(1) Im praktischen Teil des Auswahlverfahrens werden
+Auswahlinstrumente eingesetzt, die speziell auf den technischen
+Verwaltungsdienst im Verwendungsbereich Brandschutz ausgerichtet sind.
+
+(2) Der praktische Teil des Auswahlverfahrens dauert in der Regel
+einen halben Arbeitstag.
+
+(3) Bei der Bewertung von Leistungen kann sich die Auswahlkommission
+durch Informationstechnologie und durch dafür ausgebildete
+Beschäftigte unterstützen lassen. Die Bewertungsentscheidungen dürfen
+nicht ausschließlich auf eine automatisierte Auswertung gestützt
+werden.
+
+
 ### § 15c Gesamtergebnis und Rangfolge
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006500311)
 
@@ -354,12 +464,109 @@ und Bewerbern ist das Ergebnis des praktischen Teils maßgeblich für
 die Festlegung der Rangfolge.
 
 
+### § 15d Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006601311)
+
+(1) In den Vorbereitungsdienst für den gehobenen technischen
+Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz
+kann eingestellt werden, wer
+
+1.  bei einem Vorbereitungsdienst
+
+    a)  nach § 3 Nummer 1 einen Bachelorabschluss oder einen gleichwertigen
+        Abschluss in einer ingenieurwissenschaftlichen oder
+        naturwissenschaftlichen Studienrichtung besitzt oder
+
+
+    b)  nach § 3 Nummer 2
+
+        aa) über eine Hochschulzugangsberechtigung verfügt, die am Sitz der
+            kooperierenden Hochschuleinrichtung zum Studium berechtigt, und
+
+
+        bb) ein Vorpraktikum nachweist, falls die Studien- und Prüfungsordnung der
+            kooperierenden Hochschuleinrichtung ein Vorpraktikum verlangt,
+
+
+
+
+
+
+
+
+2.  erfolgreich am Auswahlverfahren teilgenommen hat und
+
+
+3.  nach amtsärztlichem Gutachten oder nach dem Ergebnis einer
+    Einstellungsuntersuchung die gesundheitlichen Anforderungen des
+    gehobenen technischen Verwaltungsdienstes in der Bundeswehr im
+    Verwendungsbereich Brandschutz erfüllt.
+
+
+
+In den Fällen, in denen der Vorbereitungsdienst nach § 3 Nummer 2
+durchgeführt wird und für die Bewerberin oder den Bewerber von der
+kooperierenden Hochschuleinrichtung eine Zugangsprüfung vorgesehen
+ist, muss das Einvernehmen der Einstellungsbehörde mit der
+kooperierenden Hochschuleinrichtung über die Zulassung zum Studium
+vorliegen.
+
+(2) Die Kosten des amtsärztlichen Gutachtens trägt die
+Bundeswehrverwaltung. Sie kann die Einstellungsuntersuchung auch
+selbst vornehmen.
+
+(3) Auch bei schwerbehinderten Bewerberinnen und Bewerbern und
+gleichgestellten behinderten Bewerberinnen und Bewerbern muss die
+Tauglichkeit für den Feuerwehrdienst amtsärztlich festgestellt werden
+und sie müssen die Mindestergebnisse im praktischen Teil des
+Auswahlverfahrens erreichen. Darüber hinaus wird von ihnen nur ein
+Mindestmaß an körperlicher Eignung verlangt.
+
+(4) Die Einstellungsbehörde entscheidet über die Einstellung der
+Bewerberinnen und Bewerber auf der Grundlage der Rangfolge, die die
+Auswahlkommission festgelegt hat.
+
+(5) Wer nicht eingestellt wird, erhält eine schriftliche Ablehnung.
+Für die Bewerbungsunterlagen gilt § 7 Absatz 3 Satz 2 bis 4
+entsprechend.
+
+
 ## Abschnitt 3 - Ausbildung
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000300000)
 
 
 ### Unterabschnitt 1 - Berufspraktische Studienzeit
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000400000)
+
+
+#### § 16 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001801311)
+
+(1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
+erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
+Persönlichkeit geeignet ist.
+
+(2) In der Einstellungsbehörde werden Beamtinnen oder Beamte des
+höheren oder des gehobenen Verwaltungsdienstes als Ausbildungsleitung
+bestellt. Die Ausbildungsleitung lenkt und überwacht die Ausbildung
+der Anwärterinnen und Anwärter. Sie ist für die ordnungsgemäße
+Gestaltung und Organisation der Ausbildung verantwortlich.
+
+(3) Das Bundesministerium der Verteidigung bestellt im Bundesamt für
+Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr eine
+Ausbildungsbeauftragte oder einen Ausbildungsbeauftragten für den
+Brandschutz in der Bundeswehr, die oder der die Ausbildung fachlich
+verantwortet. Die oder der Ausbildungsbeauftragte unterrichtet die
+Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand.
+
+(4) Die Anwärterinnen und Anwärter werden in den einzelnen
+Ausbildungsstationen Beschäftigten der Bundeswehr zur Unterweisung und
+Anleitung zugeteilt. Den Ausbildenden dürfen nicht mehr Anwärterinnen
+und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können.
+Soweit erforderlich, werden die Ausbildenden von anderen
+Dienstgeschäften entlastet. Die Ausbildenden unterrichten die
+Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig
+über den erreichten Ausbildungsstand.
 
 
 #### § 17 Rahmenlehrplan
@@ -406,6 +613,107 @@ Bundeswehr abzustimmen.
 Ausbildungsplans.
 
 
+#### § 20 Ausbildungsabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002201311)
+
+(1) Der Vorbereitungsdienst besteht aus den folgenden
+Ausbildungsabschnitten:
+
+1.  dem Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen
+    technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“,
+
+
+2.  dem Lehrgang „Menschenführung“,
+
+
+3.  dem Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“,
+
+
+4.  dem Lehrgang „Gruppenführung“,
+
+
+5.  dem Lehrgang „Zugführung“,
+
+
+6.  dem Lehrgang „Verbandsführung“ und
+
+
+7.  der praktischen Ausbildung.
+
+
+
+Die Lehrgänge und die praktische Ausbildung können durch Exkursionen
+ergänzt werden.
+
+(2) Die Lehrgänge und die praktische Ausbildung vermitteln
+berufspraktische Fähigkeiten und Kenntnisse, die für den gehobenen
+technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich
+Brandschutz erforderlich sind und über die im Studium vermittelten
+Kenntnisse hinausgehen.
+
+(3) Die Anwärterinnen und Anwärter sind zum Selbststudium
+verpflichtet. Das Selbststudium ist zu fördern.
+
+(4) Die Lehrinhalte und die Dauer der Lehrgänge nach Absatz 1 Satz 1
+Nummer 1 bis 6 werden auf Basis des Rahmenlehrplans in Lehrplänen
+geregelt. Die Lehrpläne werden aufgestellt
+
+1.  für die Lehrgänge nach Absatz 1 Satz 1 Nummer 1 und 4 bis 6 vom
+    Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
+    Bundeswehr und
+
+
+2.  für die Lehrgänge nach Absatz 1 Satz 1 Nummer 2 und 3 vom
+    Bildungszentrum der Bundeswehr.
+
+
+
+
+(5) Die Durchführung der Lehrgänge obliegt
+
+1.  für die Lehrgänge nach Absatz 1 Satz 1 Nummer 1 und 4 bis 6 dem
+    Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
+    Bundeswehr und
+
+
+2.  für die Lehrgänge nach Absatz 1 Satz 1 Nummer 2 und 3 dem
+    Bildungszentrum der Bundeswehr.
+
+
+
+Die Lehrgänge können mit Zustimmung des Bundesministeriums der
+Verteidigung auch an einer anderen Dienststelle der Bundeswehr, an
+einer kooperierenden Hochschuleinrichtung oder an einer
+Lehreinrichtung der Länder durchgeführt werden. In diesem Fall gelten
+die Lehrpläne nach Absatz 4 entsprechend.
+
+
+#### § 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002301311)
+
+Im Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen
+technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“
+werden den Anwärterinnen und Anwärtern allgemeine berufsbezogene
+Grundlagen und fachbezogene Grundlagen für den Feuerwehrdienst
+vermittelt. Sie werden zur Brandbekämpfung sowie zur Hilfeleistung,
+insbesondere zur Rettung von Menschen und Tieren aus
+lebensbedrohlichen Lagen, befähigt. Es werden ihnen die notwendigen
+Kenntnisse in den folgenden Bereichen vermittelt:
+
+1.  einsatztaktische und einsatztechnische Grundlagen der Brandbekämpfung
+    und der Hilfeleistung,
+
+
+2.  Funktion und Einsatz der Rettungsgeräte sowie
+
+
+3.  Fahrzeugtechnik und feuerwehrtechnische Ausstattung der
+    Feuerwehrfahrzeuge.
+
+
+
+
+
 #### § 22 Lehrgang „Menschenführung“
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002400000)
 
@@ -443,6 +751,39 @@ folgenden Bereichen vermittelt:
 
 
 3.  Grundlagen der Betriebswirtschaftslehre.
+
+
+
+
+
+#### § 24 Lehrgang „Gruppenführung“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002601311)
+
+Im Lehrgang „Gruppenführung“ werden den Anwärterinnen und Anwärtern
+aufbauend auf dem Lehrgang „Feuerwehrtechnische Grundausbildung für
+den gehobenen technischen Verwaltungsdienst im Verwendungsbereich
+Brandschutz“ die Kenntnisse für den Einsatz als Einheitsführerin oder
+Einheitsführer vermittelt. Die Anwärterinnen und Anwärter sollen in
+der Lage sein,
+
+1.  Einheiten in Trupp-, Staffel- oder Gruppenstärke als selbständige
+    taktische Einheit zu führen,
+
+
+2.  taktische Aufgaben nach Weisung innerhalb eines Zuges eigenständig
+    auszuführen,
+
+
+3.  die Funktion einer Einsatzleiterin oder eines Einsatzleiters bis
+    Gruppenstärke zu übernehmen,
+
+
+4.  bei Einsätzen zur Bekämpfung atomarer, biologischer und chemischer
+    Gefahren die entsprechende Ausrüstung einzusetzen und entsprechend
+    ausgebildete Einsatzkräfte taktisch richtig zu führen und
+
+
+5.  die Aus- und Fortbildung auf Standortebene durchzuführen.
 
 
 
@@ -492,6 +833,34 @@ und Anwärter werden befähigt
 
 
 
+
+
+#### § 27 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002901311)
+
+(1) In der praktischen Ausbildung werden die Anwärterinnen und
+Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der
+militärischen Dienststellen und der Feuerwachen sowie dem
+Zusammenwirken mit anderen Organisationseinheiten vertraut gemacht.
+Die praktische Ausbildung ist insbesondere auf die Vermittlung
+praxisorientierter Kenntnisse, Fertigkeiten und Fähigkeiten
+ausgerichtet. Darüber hinaus werden die Kenntnisse, die in den
+Lehrgängen „Feuerwehrtechnische Grundausbildung für den gehobenen
+technischen Verwaltungsdienst im Verwendungsbereich Brandschutz“,
+„Gruppenführung“ und „Zugführung“ erworben worden sind, durch
+praktische Übungen und Einsatzaufgaben in den anzuwendenden
+Einsatztechniken vertieft.
+
+(2) Die praktische Ausbildung wird in mehreren Abschnitten bei der
+Bundeswehr-Feuerwehr und in Dienststellen mit Brandschutzzuständigkeit
+durchgeführt. Die Einstellungsbehörde kann im Einvernehmen mit dem
+Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
+Bundeswehr vorsehen, dass die praktische Ausbildung teilweise auch bei
+Berufsfeuerwehren der Kommunen oder bei hauptberuflichen
+Werkfeuerwehren durchgeführt wird.
+
+(3) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen
+den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ### Unterabschnitt 2 - Bachelorstudium mit studienbegleitender berufspraktischer Studienzeit
@@ -628,6 +997,106 @@ eingerichtet.
 übertragen.
 
 
+### § 34 Einrichtung von Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003601311)
+
+(1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung
+mindestens eine Prüfungskommission ein.
+
+(2) Die Prüfungstätigkeit erfolgt im besonderen dienstlichen Interesse
+und ist eine herausgehobene Tätigkeit.
+
+(3) Werden für einen Teil der Laufbahnprüfung mehrere
+Prüfungskommissionen eingerichtet, kann das Prüfungsamt eine Beamtin
+oder einen Beamten des höheren Verwaltungsdienstes mit der Leitung
+dieses Teils der Prüfung beauftragen.
+
+
+### § 35 Mitglieder der Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003702311)
+
+(1) Mitglieder einer Prüfungskommission für die Bewertung der
+schriftlichen Prüfung sind:
+
+1.  für die Klausur zum Prüfungsgebiet „Organisation, Recht und
+    Betriebswirtschaftslehre“ (§ 39 Absatz 2 Nummer 1)
+
+    a)  eine Lehrkraft des Bildungszentrums der Bundeswehr oder eine Beamtin
+        oder ein Beamter des höheren nichttechnischen Verwaltungsdienstes als
+        Vorsitzende oder Vorsitzender und
+
+
+    b)  eine Beamtin oder ein Beamter des höheren oder gehobenen
+        nichttechnischen Verwaltungsdienstes als Beisitzende oder Beisitzender
+        sowie
+
+
+
+
+
+2.  für die Klausuren zu den Prüfungsgebieten „vorbeugender Brandschutz“
+    und „abwehrender Brandschutz“ (§ 39 Absatz 2 Nummer 2 und 3)
+
+    a)  jeweils eine Beamtin oder ein Beamter des höheren technischen
+        Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+        Brandschutz als Vorsitzende oder Vorsitzender und
+
+
+    b)  jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen
+        technischen Verwaltungsdienstes in der Bundeswehr im
+        Verwendungsbereich Brandschutz als Beisitzende oder Beisitzender.
+
+
+
+
+
+
+
+(2) Mitglieder einer Prüfungskommission für die praktische Prüfung
+sind:
+
+1.  eine Beamtin oder ein Beamter des höheren technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz als Vorsitzende oder Vorsitzender und
+
+
+2.  zwei Angehörige des gehobenen technischen Verwaltungsdienstes in der
+    Bundeswehr im Verwendungsbereich Brandschutz als Beisitzende.
+
+
+
+
+(3) Mitglieder einer Prüfungskommission für die mündliche Prüfung
+sind:
+
+1.  eine Beamtin oder ein Beamter des höheren technischen
+    Verwaltungsdienstes in der Bundeswehr im Verwendungsbereich
+    Brandschutz als Vorsitzende oder Vorsitzender,
+
+
+2.  zwei Angehörige des gehobenen technischen Verwaltungsdienstes in der
+    Bundeswehr im Verwendungsbereich Brandschutz als Beisitzende und
+
+
+3.  eine Beamtin oder ein Beamter des höheren oder gehobenen
+    nichttechnischen Verwaltungsdienstes als Beisitzende oder
+    Beisitzender.
+
+
+
+
+(4) Arbeitnehmerinnen und Arbeitnehmer sowie Soldatinnen und Soldaten
+können als Mitglieder der Prüfungskommissionen bestellt werden, wenn
+sie über die erforderlichen Fähigkeiten und Kenntnisse verfügen und
+nach ihrer Persönlichkeit geeignet sind.
+
+(5) Die Mitglieder der Prüfungskommissionen werden vom Prüfungsamt
+bestellt. Die Spitzenorganisationen der Gewerkschaften und
+Berufsverbände des öffentlichen Dienstes können Mitglieder
+vorschlagen. Die Mitglieder werden für die Dauer von höchstens fünf
+Jahren bestellt. Wiederbestellung ist zulässig.
+
+
 ### § 36 Entscheidungen der Prüfungskommission
 [Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003800000)
 
@@ -642,6 +1111,32 @@ Vorsitzende und insgesamt mehr als die Hälfte der Mitglieder anwesend
 ist. Die Prüfungskommission entscheidet mit Stimmenmehrheit. Bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
+
+
+### § 37 Nichtöffentlichkeit der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003901311)
+
+(1) Die Laufbahnprüfung ist nicht öffentlich.
+
+(2) Bei der praktischen und der mündlichen Prüfung können Angehörige
+des Prüfungsamts anwesend sein.
+
+(3) Das Prüfungsamt kann Personen, die mit der Ausbildung oder Prüfung
+von Anwärterinnen und Anwärtern für den Vorbereitungsdienst für den
+gehobenen technischen Verwaltungsdienst in der Bundeswehr im
+Verwendungsbereich Brandschutz befasst sind, die Anwesenheit bei der
+praktischen und der mündlichen Prüfung gestatten.
+
+(4) Auf Wunsch von schwerbehinderten und diesen gleichgestellten
+behinderten Anwärterinnen und Anwärtern kann bei ihrer praktischen und
+ihrer mündlichen Prüfung die Schwerbehindertenvertretung anwesend
+sein.
+
+(5) Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen
+nur die Mitglieder der Prüfungskommission anwesend sein.
+
+(6) Die Aufsichtsbefugnisse des Prüfungsamts und des
+Bundesministeriums der Verteidigung bleiben unberührt.
 
 
 ### § 38 Prüfungsort und Prüfungstermin

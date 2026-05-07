@@ -140,6 +140,176 @@ Absatzes 1 Nr. 1
 
 
 
+### § 3 Bergfreie und grundeigene Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005103125)
+
+(1) Bodenschätze sind mit Ausnahme von Wasser alle mineralischen
+Rohstoffe in festem oder flüssigem Zustand und Gase, die in
+natürlichen Ablagerungen oder Ansammlungen (Lagerstätten) in oder auf
+der Erde, auf dem Meeresgrund, im Meeresuntergrund oder im Meerwasser
+vorkommen.
+
+(2) Grundeigene Bodenschätze stehen im Eigentum des Grundeigentümers.
+Auf bergfreie Bodenschätze erstreckt sich das Eigentum an einem
+Grundstück nicht.
+
+(3) Bergfreie Bodenschätze sind, soweit sich aus aufrechterhaltenen
+alten Rechten (§§ 149 bis 159) oder aus Absatz 4 nichts anderes
+ergibt:
+Actinium und die Actiniden, Aluminium, Antimon, Arsen, Beryllium,
+Blei, Bor, Caesium, Chrom, Eisen, Francium, Gallium, Germanium, Gold,
+Hafnium, Indium, Iridium, Kadmium, Kobalt, Kupfer, Lanthan und die
+Lanthaniden, Mangan, Molybdän, Nickel, Niob, Osmium, Palladium,
+Phosphor, Platin, Polonium, Quecksilber, Radium, Rhenium, Rhodium,
+Rubidium, Ruthenium, Scandium, Schwefel, Selen, Silber, Strontium,
+Tantal, Tellur, Thallium, Titan, Vanadium, Wismut, Wolfram, Yttrium,
+Zink, Zinn, Zirkonium - gediegen und als Erze außer in Raseneisen-,
+Alaun- und Vitriolerzen -;
+Lithium; Kohlenwasserstoffe nebst den bei ihrer Gewinnung anfallenden
+Gasen;
+Stein- und Braunkohle nebst den im Zusammenhang mit ihrer Gewinnung
+auftretenden Gasen; Graphit;
+Stein-, Kali-, Magnesia- und Borsalze nebst den mit diesen Salzen in
+der gleichen Lagerstätte auftretenden Salzen; Sole;
+Flußspat und Schwerspat; Helium und Wasserstoff.
+Als bergfreie Bodenschätze gelten:
+
+1.  alle Bodenschätze im Bereich des Festlandsockels und,
+
+
+2.  soweit sich aus aufrechterhaltenen alten Rechten (§§ 149 bis 159)
+    nichts anderes ergibt,
+
+    a)  alle Bodenschätze im Bereich der Küstengewässer sowie
+
+
+    b)  Erdwärme aus Bohrungen ab einer Teufe von 400 Metern und die im
+        Zusammenhang mit ihrer Gewinnung auftretenden anderen Energien.
+
+
+
+
+
+
+
+(4) Grundeigene Bodenschätze im Sinne dieses Gesetzes sind nur, soweit
+sich aus aufrechterhaltenen alten Rechten (§§ 149 bis 159) nichts
+anderes ergibt:
+
+1.  Basaltlava mit Ausnahme des Säulenbasaltes; Bauxit; Bentonit und
+    andere montmorillonitreiche Tone; Dachschiefer; Feldspat, Kaolin,
+    Pegmatitsand; Glimmer; Kieselgur; Quarz und Quarzit, soweit sie sich
+    zur Herstellung von feuerfesten Erzeugnissen oder Ferrosilizium
+    eignen; Speckstein, Talkum; Ton, soweit er sich zur Herstellung von
+    feuerfesten, säurefesten oder nicht als Ziegeleierzeugnisse
+    anzusehenden keramischen Erzeugnissen oder zur Herstellung von
+    Aluminium eignet; Traß;
+
+
+2.  alle anderen nicht unter Absatz 3 oder Nummer 1 fallenden
+    Bodenschätze, soweit sie untertägig aufgesucht oder gewonnen werden.
+
+
+
+
+
+### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005202125)
+
+(1) Aufsuchen (Aufsuchung) ist die mittelbar oder unmittelbar auf die
+Entdeckung oder Feststellung der Ausdehnung von Bodenschätzen
+gerichtete Tätigkeit mit Ausnahme
+
+1.  der Tätigkeiten im Rahmen der amtlichen geologischen Landesaufnahme,
+
+
+2.  der Tätigkeiten, die ausschließlich und unmittelbar Lehr- oder
+    Unterrichtszwecken dienen und
+
+
+3.  des Sammelns von Mineralien in Form von Handstücken oder kleinen
+    Proben für mineralogische oder geologische Sammlungen.
+
+
+
+Eine großräumige Aufsuchung ist eine mit Hilfe von geophysikalischen
+oder geochemischen Verfahren durchgeführte Untersuchung, wenn sie auf
+die Ermittlung von Kennwerten beschränkt ist, die großräumige
+Rückschlüsse auf das mögliche Vorkommen von Bodenschätzen zulassen.
+
+(2) Gewinnen (Gewinnung) ist das Lösen oder Freisetzen von
+Bodenschätzen einschließlich der damit zusammenhängenden
+vorbereitenden, begleitenden und nachfolgenden Tätigkeiten;
+ausgenommen ist das Lösen oder Freisetzen von Bodenschätzen
+
+1.  in einem Grundstück aus Anlaß oder im Zusammenhang mit dessen
+    baulicher oder sonstiger städtebaulicher Nutzung und
+
+
+2.  in oder an einem Gewässer als Voraussetzung für dessen Ausbau oder
+    Unterhaltung.
+
+
+
+
+(3) Aufbereiten (Aufbereitung) ist das
+
+1.  Trennen oder Anreichern von Bodenschätzen nach stofflichen
+    Bestandteilen oder geometrischen Abmessungen auf physikalischer oder
+    physikalisch-chemischer Grundlage einschließlich der damit
+    zusammenhängenden vorbereitenden, begleitenden und nachfolgenden
+    Tätigkeiten,
+
+
+2.  Brikettieren, Verschwelen, Verkoken, Vergasen, Verflüssigen und
+    Verlösen von Bodenschätzen,
+
+
+
+wenn der Unternehmer Bodenschätze der aufzubereitenden Art in
+unmittelbarem betrieblichem Zusammenhang selbst gewinnt oder wenn die
+Bodenschätze in unmittelbarem räumlichem Zusammenhang mit dem Ort
+ihrer Gewinnung aufbereitet werden. Eine Aufbereitung liegt nicht vor,
+wenn eine Tätigkeit im Sinne des Satzes 1 mit einer sonstigen
+Bearbeitung oder Verarbeitung von Bodenschätzen (Weiterverarbeitung)
+oder mit der Herstellung anderer Erzeugnisse (Nebengewinnung)
+durchgeführt wird und das Schwergewicht der Tätigkeit nicht bei der
+Aufbereitung liegt; die Nutzung von Erdwärme ist einer
+Weiterverarbeitung gleichzustellen.
+
+(4) Wiedernutzbarmachung ist die ordnungsgemäße Gestaltung der vom
+Bergbau in Anspruch genommenen Oberfläche unter Beachtung des
+öffentlichen Interesses.
+
+(5) Unternehmer ist eine natürliche oder juristische Person oder
+Personenhandelsgesellschaft, die eine der in § 2 Absatz 1 Nummer 1 und
+2 sowie Absatz 2 und 3 bezeichneten Tätigkeiten auf eigene Rechnung
+durchführt oder durchführen läßt.
+
+(6) Gewinnungsberechtigung ist das Recht zur Gewinnung von bergfreien
+oder grundeigenen Bodenschätzen.
+
+(7) Feld einer Erlaubnis, Bewilligung oder eines Bergwerkseigentums
+ist ein Ausschnitt aus dem Erdkörper, der von geraden Linien an der
+Oberfläche und von lotrechten Ebenen nach der Tiefe begrenzt wird,
+soweit nicht die Grenzen des Geltungsbereichs dieses Gesetzes einen
+anderen Verlauf erfordern.
+
+(8) Gewinnungsbetrieb sind Einrichtungen zur Gewinnung von bergfreien
+und grundeigenen Bodenschätzen.
+
+(9) Untergrundspeicher ist eine Anlage zur unterirdischen
+behälterlosen Speicherung von Gasen, Flüssigkeiten und festen Stoffen
+mit Ausnahme von Wasser. Abweichend von Satz 1 ist eine Anlage zur
+Speicherung von Wärme ab einer Teufe von 400 Metern ein
+Untergrundspeicher, auch wenn die Wärme wasserbasiert gespeichert
+wird.
+
+(10) Transit-Rohrleitung ist eine Rohrleitung, die vom Festlandsockel
+oder vom Gebiet eines anderen Staates in den Festlandsockel der
+Bundesrepublik Deutschland führt oder diesen durchquert.
+
+
 ### § 5 Anwendung des Verwaltungsverfahrensgesetzes
 [Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005301360)
 
@@ -477,6 +647,20 @@ Anforderungen einer sinnvollen und planmäßigen Aufsuchung oder
 Gewinnung am besten Rechnung trägt; dabei sind die sonstigen
 bergbaulichen Tätigkeiten des Antragstellers zu berücksichtigen. § 12
 Abs. 2 bleibt unberührt.
+
+
+##### § 15 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006301125)
+
+(1) Die zuständige Behörde hat vor der Entscheidung über den Antrag
+den Behörden Gelegenheit zur Stellungnahme zu geben, zu deren Aufgaben
+die Wahrnehmung öffentlicher Interessen im Sinne des § 11 Nummer 10
+gehört.
+
+(2) Handelt es sich um einen Antrag zur Aufsuchung oder Gewinnung von
+Erdwärme und ist innerhalb einer Frist von zwei Monaten keine
+Stellungnahme abgegeben worden, so ist davon auszugehen, dass die
+beteiligte Behörde sich nicht äußern will.
 
 
 ##### § 16 Form, Inhalt und Nebenbestimmungen
@@ -1062,6 +1246,45 @@ fortzuführen (grenzüberschreitender Abbau), wenn
 
 
 
+#### § 36 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008402311)
+
+(1) Auf das Verfahren sind die Vorschriften über das förmliche
+Verwaltungsverfahren nach Teil V Abschnitt 1 des
+Verwaltungsverfahrensgesetzes nach Maßgabe der Absätze 2 bis 5
+anzuwenden.
+
+(2) Beteiligter ist auch, wem ein Recht zur Gewinnung in dem Feld der
+fremden Berechtigung zusteht, sowie der Inhaber eines dinglichen
+Rechtes an der fremden Berechtigung. Liegt die fremde Berechtigung
+ganz oder teilweise im Bezirk einer anderen zuständigen Behörde, so
+ist auch diese zu laden.
+
+(3) Von Amts wegen ist ein Vertreter auch zu bestellen für
+Mitberechtigte, wenn sie der Aufforderung der zuständigen Behörde,
+einen gemeinsamen Vertreter zu bestellen, innerhalb der ihnen
+gesetzten Frist nicht nachgekommen sind.
+
+(4) In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken.
+Kommt eine Einigung zustande, so ist diese in der
+Verhandlungsniederschrift zu beurkunden. Auf die Beurkundung sind die
+§§ 3 bis 13b, 16 und 17 bis 26 des Beurkundungsgesetzes entsprechend
+anzuwenden. Die Niederschrift über die Einigung steht einer
+notariellen Beurkundung der Einigung gleich. Eine Auflassung kann die
+zuständige Behörde nicht entgegennehmen.
+
+(5) Kommt eine Einigung nicht zustande, so entscheidet die zuständige
+Behörde über den Antrag. Das Recht zum grenzüberschreitenden Abbau ist
+für ein bestimmtes Feld, für bestimmte Bodenschätze und zeitlich
+beschränkt zu erteilen. § 16 Absatz 3 ist entsprechend anzuwenden.
+
+(6) An die Stelle der Vorschriften über das förmliche
+Verwaltungsverfahren nach Teil V Abschnitt 1 des
+Verwaltungsverfahrensgesetzes treten die entsprechenden Vorschriften
+der Verwaltungsverfahrensgesetze der Länder, soweit dies
+landesrechtlich angeordnet ist.
+
+
 #### § 37 Entschädigung
 [Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008500315)
 
@@ -1490,6 +1713,133 @@ enthalten muß. Wesentliche Änderungen des Abbauplanes sind der
 zuständigen Behörde unverzüglich anzuzeigen.
 
 
+#### § 51 Betriebsplanpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009901125)
+
+(1) Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur
+Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen)
+errichtet, geführt und eingestellt werden, die vom Unternehmer
+aufgestellt und von der zuständigen Behörde zugelassen worden sind.
+Zum Betrieb gehören auch die in § 2 Abs. 1 bezeichneten Tätigkeiten
+und Einrichtungen. Die Betriebsplanpflicht gilt auch für die
+Einstellung im Falle der Rücknahme, des Widerrufs oder der Aufhebung
+einer Erlaubnis, einer Bewilligung oder eines Bergwerkseigentums sowie
+im Falle des Erlöschens einer sonstigen Bergbauberechtigung.
+
+(2) Absatz 1 gilt nicht für einen Aufsuchungsbetrieb, in dem weder
+Vertiefungen in der Oberfläche angelegt noch Verfahren unter Anwendung
+maschineller Kraft, Arbeiten unter Tage oder mit
+explosionsgefährlichen oder zum Sprengen bestimmten explosionsfähigen
+Stoffen durchgeführt werden.
+
+(3) Die zuständige Behörde kann Betriebe von geringer Gefährlichkeit
+auf Antrag des Unternehmers ganz oder teilweise oder für einen
+bestimmten Zeitraum von der Betriebsplanpflicht befreien, wenn der
+Schutz Beschäftigter und Dritter und das Wiedernutzbarmachen der
+Oberfläche nach diesem Gesetz und der auf Grund dieses Gesetzes
+erlassenen Rechtsverordnungen auch ohne Betriebsplanpflicht
+sichergestellt werden können. Dies gilt nicht für die Errichtung und
+die Einstellung des Betriebes und für Betriebe im Bereich des
+Festlandsockels.
+
+
+#### § 52 Betriebspläne für die Errichtung und Führung des Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010008125)
+
+(1) Für die Errichtung und Führung eines Betriebes sind
+Hauptbetriebspläne für einen zwei Jahre nicht überschreitenden
+Zeitraum aufzustellen. Eine Unterbrechung des Betriebes für einen
+Zeitraum bis zu zwei Jahren gilt als Führung des Betriebes, eine
+längere Unterbrechung nur dann, wenn sie von der zuständigen Behörde
+genehmigt wird. Die zuständige Behörde soll abweichend von Satz 1 eine
+längere Befristung von mindestens vier und höchstens acht Jahren
+zulassen, wenn ihr eine Kontrolle des Betriebes auch bei einer
+längeren Laufzeit möglich ist.
+
+(2) Die zuständige Behörde kann verlangen, daß
+
+1.  für einen bestimmten längeren, nach den jeweiligen Umständen
+    bemessenen Zeitraum Rahmenbetriebspläne aufgestellt werden, die
+    allgemeine Angaben über das beabsichtigte Vorhaben, dessen technische
+    Durchführung und voraussichtlichen zeitlichen Ablauf enthalten müssen;
+
+
+2.  für bestimmte Teile des Betriebes oder für bestimmte Vorhaben
+    Sonderbetriebspläne aufgestellt werden.
+
+
+
+
+(2a) Die Aufstellung eines Rahmenbetriebsplanes ist zu verlangen und
+für dessen Zulassung ein Planfeststellungsverfahren nach Maßgabe der
+§§ 57a und 57b durchzuführen, wenn ein Vorhaben gemäß der Verordnung
+nach § 57c in Verbindung mit den Vorschriften des Teils 2 Abschnitt 1
+des Gesetzes über die Umweltverträglichkeitsprüfung einer
+Umweltverträglichkeitsprüfung bedarf. Bei einem Vorhaben, das einzeln
+oder im Zusammenwirken mit anderen Vorhaben, Projekten oder Plänen
+geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen,
+wird die Verträglichkeitsprüfung nach § 34 Absatz 1 des
+Bundesnaturschutzgesetzes zusammen mit der
+Umweltverträglichkeitsprüfung im Planfeststellungsverfahren nach Satz
+1 vorgenommen. Anforderungen eines vorsorgenden Umweltschutzes, die
+sich bei der Umweltverträglichkeitsprüfung ergeben und über die
+Zulassungsvoraussetzungen des § 55 sowie der auf das Vorhaben
+anwendbaren Vorschriften in anderen Gesetzen hinausgehen, sind dabei
+öffentliche Interessen im Sinne des § 48 Abs. 2.
+
+(2b) Für Vorhaben einschließlich notwendiger Folgemaßnahmen, die wegen
+ihrer räumlichen Ausdehnung oder zeitlichen Erstreckung in
+selbständigen Abschnitten oder Stufen durchgeführt werden, kann der
+Rahmenbetriebsplan nach Absatz 2a Satz 1 entsprechend den Abschnitten
+oder Stufen aufgestellt und zugelassen werden, es sei denn, daß
+dadurch die erforderliche Einbeziehung der erheblichen Auswirkungen
+des gesamten Vorhabens auf die Umwelt ganz oder teilweise unmöglich
+wird. Für Vorhaben, die einem besonderen Verfahren im Sinne des § 54
+Abs. 2 Satz 3 unterliegen, finden Absatz 2a, § 11 Absatz 1
+Wasserhaushaltsgesetz und § 17 Absatz 10 Bundesnaturschutzgesetz und
+entsprechende Vorschriften über Verfahren zur Durchführung der
+Umweltverträglichkeitsprüfung in anderen Rechtsvorschriften keine
+Anwendung, wenn in diesem Verfahren die Durchführung einer
+Umweltverträglichkeitsprüfung gewährleistet ist, die den Anforderungen
+dieses Gesetzes entspricht. Das Ergebnis dieser
+Umweltverträglichkeitsprüfung ist bei Zulassungen, Genehmigungen oder
+sonstigen behördlichen Entscheidungen über die Zulässigkeit des
+Vorhabens nach Maßgabe der dafür geltenden Vorschriften zu
+berücksichtigen.
+
+(2c) Die Absätze 2a und 2b gelten auch für die wesentliche Änderung
+eines Vorhabens.
+
+(2d) Bei Vorhaben nach Absatz 2a Satz 1 hat die zuständige Behörde
+nach Maßgabe der auf das Vorhaben anwendbaren Vorschriften
+festzulegen, welche Maßnahmen der Unternehmer zur Überwachung
+erheblicher nachteiliger Auswirkungen auf die Umwelt zu treffen hat.
+Die Festlegung kann auch im Rahmen der Zulassung des Haupt-, Sonder-
+oder Abschlussbetriebsplans erfolgen. Bei der Auswahl der Art der zu
+überwachenden Parameter und der Dauer der Überwachung sind nach
+Maßgabe der anwendbaren Vorschriften insbesondere die Art, der
+Standort und der Umfang des Vorhabens sowie das Ausmaß seiner
+Auswirkungen auf die Umwelt zu berücksichtigen.
+
+(3) Für Arbeiten und Einrichtungen, die von mehreren Unternehmen nach
+einheitlichen Gesichtspunkten durchgeführt, errichtet oder betrieben
+werden müssen, haben die beteiligten Unternehmer auf Verlangen der
+zuständigen Behörde gemeinschaftliche Betriebspläne aufzustellen.
+
+(4) Die Betriebspläne müssen eine Darstellung des Umfanges, der
+technischen Durchführung und der Dauer des beabsichtigten Vorhabens
+sowie den Nachweis enthalten, daß die in § 55 Abs. 1 Satz 1 Nr. 1 und
+3 bis 13 bezeichneten Voraussetzungen erfüllt sind. Sie können
+verlängert, ergänzt und abgeändert werden.
+
+(5) Für bestimmte Arbeiten und Einrichtungen, die nach einer auf Grund
+dieses Gesetzes erlassenen Rechtsverordnung einer besonderen
+Genehmigung bedürfen oder allgemein zuzulassen sind, kann in Haupt-
+und Sonderbetriebsplänen an Stelle der nach Absatz 4 Satz 1
+erforderlichen Darstellung und Nachweise der Nachweis treten, daß die
+Genehmigung oder Zulassung vorliegt oder beantragt ist.
+
+
 #### § 53 Betriebsplan für die Einstellung des Betriebes, Betriebschronik
 [Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010100315)
 
@@ -1716,6 +2066,47 @@ Absatz 1 Satz 1 Nr. 2 bis 13 mit der Maßgabe entsprechend, daß
 
 
 
+
+
+#### § 56 Form und Inhalt der Zulassung, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010401125)
+
+(1) Die Zulassung eines Betriebsplanes bedarf der Schriftform. Die
+nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist
+zulässig, wenn sie
+
+1.  für den Unternehmer und für Einrichtungen der von ihm betriebenen Art
+    wirtschaftlich vertretbar und
+
+
+2.  nach den allgemein anerkannten Regeln der Technik erfüllbar
+
+
+
+sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs.
+1 Satz 1 Nr. 2 bis 13 und Absatz 2 erforderlich ist.
+
+(2) Die zuständige Behörde kann die Zulassung von der Leistung einer
+Sicherheit abhängig machen, soweit diese erforderlich ist, um die
+Erfüllung der in § 55 Abs. 1 Satz 1 Nr. 3 bis 13 und Absatz 2
+genannten Voraussetzungen zu sichern. Der Nachweis einer
+entsprechenden Versicherung des Unternehmers mit einem im
+Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb zugelassenen
+Versicherer darf von der zuständigen Behörde als Sicherheitsleistung
+nur abgelehnt werden, wenn die Deckungssumme nicht angemessen ist.
+Über die Freigabe einer gestellten Sicherheit entscheidet die
+zuständige Behörde.
+
+(3) Die zuständige Behörde soll bei der Zulassung eines Betriebsplans
+für die Aufsuchung und Gewinnung von Erdwärme einen Nachweis über die
+Absicherung für Bergschäden verlangen. Die Behörde kann dabei
+insbesondere einen Nachweis der Mitgliedschaft in einer
+Bergschadensausfallkasse nach § 122 Absatz 1, einer privaten
+Bergschadensausfallkasse oder einer Kommunal- oder
+Haftpflichtversicherung, die Bergschäden absichert, fordern.
+
+(4) Die Absätze 1 bis 3 gelten für die Verlängerung, Ergänzung oder
+Änderung eines Betriebsplanes entsprechend.
 
 
 #### § 57 Abweichungen von einem zugelassenen Betriebsplan
@@ -1958,6 +2349,113 @@ Absatz 1 Satz 3 ist anzuwenden.
 soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren,
 bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch
 verbindliche Vorgaben Rechnung getragen worden ist.
+
+
+#### § 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024201125)
+
+(1) Für die Zulassung von Betriebsplänen für Vorhaben im Zusammenhang
+mit der Gewinnung von Erdwärme nach diesem Gesetz, für bei der
+Förderung von Erdwärme gewonnene weitere Bodenschätze sowie für
+Vorhaben zur Errichtung und zum Betrieb eines Untergrundspeichers zur
+Speicherung von Wasserstoff, Wasserstoffgemischen oder von Wärme nach
+§ 4 Absatz 9 Satz 2 sind die Absätze 2 bis 7 anzuwenden.
+
+(2) Auf Antrag werden das Verfahren zur Zulassung von Betriebsplänen
+für ein Vorhaben nach Absatz 1 sowie alle sonstigen
+Zulassungsverfahren, die für die Durchführung des Vorhabens nach
+Bundes- oder Landesrecht erforderlich sind, über eine einheitliche
+Stelle abgewickelt. Die Verfahren sind elektronisch durchzuführen.
+
+(3) Die einheitliche Stelle stellt ein Verfahrenshandbuch für Träger
+des Vorhabens bereit und macht die im Verfahrenshandbuch enthaltenen
+Informationen auch im Internet zugänglich. Hierbei weist die
+einheitliche Stelle auch darauf hin, für welche Vorhaben sie zuständig
+ist und falls weitere einheitliche Stellen im jeweiligen Land für
+Vorhaben nach Absatz 1 zuständig sind.
+
+(4) Eine Behörde, deren Aufgabenbereich durch ein Vorhaben nach Absatz
+1 berührt wird, wird elektronisch durch die zuständige Behörde über
+das Verfahren informiert und übermittelt ihre Stellungnahme
+ausschließlich elektronisch an die zuständige Behörde. Hat eine zu
+beteiligende Behörde bei einem Verfahren auf Zulassung einer Anlage
+nach Absatz 1 innerhalb einer Frist von einem Monat keine
+Stellungnahme abgegeben, so ist davon auszugehen, dass die zu
+beteiligende Behörde sich nicht äußern will. Soweit für das Vorhaben
+selbst oder für weitere damit unmittelbar in einem räumlichen oder
+betrieblichen Zusammenhang stehende Vorhaben, die für die Genehmigung
+Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben
+ist, wirkt die zuständige Behörde auf eine vollständige Koordinierung
+der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen hin.
+
+(5) Sind die Antragsunterlagen vollständig, so bestätigt die
+zuständige Behörde dies in den Fällen des Absatzes 2 Satz 1 gegenüber
+der einheitlichen Stelle, andernfalls gegenüber dem Träger des
+Vorhabens innerhalb von 45 Tagen nach Eingang des Antrags. Die
+Antragsunterlagen sind vollständig, wenn sie sich zu allen relevanten
+Aspekten des Vorhabens verhalten und die Behörde in die Lage
+versetzen, den Antrag unter Berücksichtigung dieser Aspekte zu prüfen.
+Sind die Antragsunterlagen nicht vollständig, so fordert die
+zuständige Behörde, in den Fällen des Absatzes 2 Satz 1 über die
+einheitliche Stelle, den Träger des Vorhabens unter Bezeichnung der
+fehlenden Angaben und Antragsunterlagen innerhalb der Frist nach Satz
+1 auf, die Antragsunterlagen unverzüglich zu ergänzen. Nach Eingang
+der vollständigen Antragsunterlagen erstellt die zuständige Behörde
+einen Zeitplan für das weitere Verfahren. Den Zeitplan teilt die
+zuständige Behörde dem Unternehmer und in den Fällen des Absatzes 2
+auch der einheitlichen Stelle mit.
+
+(6) Die zuständige Behörde entscheidet über die Zulassung innerhalb
+der folgenden Fristen:
+
+1.  bei Vorhaben zur Gewinnung von Erdwärme sowie bei Vorhaben zur
+    Errichtung und zum Betrieb eines Untergrundspeichers zur Speicherung
+    von Wärme nach § 4 Absatz 9 Satz 2 innerhalb eines Jahres,
+
+
+2.  abweichend von Nummer 1 bei Vorhaben zur Gewinnung von Erdwärme nach
+    diesem Gesetz, wenn diese mittels Installation von Wärmepumpen mit
+    einer thermischen Leistung bis zu 50 Megawatt realisiert werden,
+    innerhalb von drei Monaten,
+
+
+3.  bei Vorhaben zur Errichtung und zum Betrieb eines Untergrundspeichers
+    zur Speicherung von Wasserstoff oder Wasserstoffgemischen innerhalb
+    von zwei Jahren.
+
+
+
+Die zuständige Behörde kann die Frist nach Satz 1 Nummer 1 und 3 in
+durch außergewöhnliche Umstände hinreichend begründeten Fällen
+einmalig um bis zu sechs Monate verlängern. Bei Vorhaben mit einer
+Stromerzeugungskapazität von weniger als 150 Kilowatt und bei Vorhaben
+zur Modernisierung von Anlagen zur Gewinnung von Erdwärme beträgt die
+Verlängerungsfrist abweichend von Satz 2 längstens drei Monate. Die
+zuständige Behörde teilt in den Fällen des Absatzes 2 Satz 1 der
+einheitlichen Stelle, andernfalls dem Träger des Vorhabens, die
+außergewöhnlichen Umstände mit, die die jeweilige Verlängerung der
+Frist nach Satz 1 Nummer 1 und 3 rechtfertigen. Die Fristen nach Satz
+1 beginnen mit Bestätigung der Vollständigkeit der Antragsunterlagen
+durch die zuständige Behörde oder, falls die Behörde nicht reagiert,
+mit Ablauf der Frist nach Absatz 5 Satz 1. Wenn die Behörde oder in
+den Fällen des Absatzes 2 Satz 1 die einheitliche Stelle den Träger
+des Vorhabens zur Ergänzung der Antragsunterlagen aufgefordert hat,
+beginnt die jeweilige Frist nach Satz 1 mit Bestätigung des
+vollständigen Eingangs der von der Behörde erstmalig nachgeforderten
+Antragsunterlagen.
+
+(7) Die Entscheidung wird dem Träger des Vorhabens zugestellt. Im
+Übrigen wird die Entscheidung öffentlich bekannt gegeben. Die
+öffentliche Bekanntgabe wird dadurch bewirkt, dass die Entscheidung
+auf der Internetseite der zuständigen Behörde und durch eine
+Veröffentlichung in einer Tageszeitung oder auf eine andere Weise
+öffentlich bekannt gemacht wird.
+
+(8) Ist bei Vorhaben im Zusammenhang mit der Aufsuchung oder Gewinnung
+von Erdwärme oder der Speicherung von Wärme- oder Wasserstoff nach
+diesem Gesetz ein Planfeststellungsverfahren nach § 52 Absatz 2a
+erforderlich, ist kein Erörterungstermin nach § 73 Absatz 6 des
+Verwaltungsverfahrensgesetzes durchzuführen.
 
 
 ### Drittes Kapitel - Verantwortliche Personen
@@ -4367,6 +4865,55 @@ anzuwenden, wenn die Anlage ihrer Art nach auch zur unterirdischen
 behälterlosen Speicherung geeignet ist.
 
 
+### § 127 Bohrungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017701125)
+
+(1) Für die nicht unter § 2 fallenden Bohrungen und die dazugehörigen
+Betriebseinrichtungen gelten, wenn die Bohrungen mehr als hundert
+Meter in den Boden eindringen sollen, die §§ 50 bis 62 und 65 bis 74
+mit folgender Maßangabe entsprechend:
+
+1.  Beginn und Einstellung der Bohrarbeiten sind mindestens zwei Wochen
+    vorher anzuzeigen. Müssen Bohrarbeiten schon in kürzerer Frist
+    eingestellt werden, so ist die Anzeige unverzüglich zu erstatten.
+
+
+2.  § 51 Abs. 1 gilt nur, wenn die zuständige Behörde die Einhaltung der
+    Betriebsplanpflicht im Einzelfall mit Rücksicht auf den Schutz
+    Beschäftigter oder Dritter oder die Bedeutung des Betriebes für
+    erforderlich erklärt.
+
+
+3.  Als Unternehmer ist auch anzusehen, wer eine Bohrung auf fremde
+    Rechnung ausführt.
+
+
+4.  Die Auskunftspflicht nach § 70 Abs. 1 gilt auch für die
+    Aufschlußergebnisse.
+
+
+5.  Die Erfüllung der Pflichten durch einen Unternehmer befreit die
+    übrigen mitverpflichteten Unternehmer.
+
+
+
+
+(2) Im Fall der Anzeige einer Bohrung bis zu einer Teufe von 400
+Metern zur Aufsuchung oder zur Gewinnung von Erdwärme hat die
+zuständige Behörde die Unterlagen innerhalb von vier Wochen zu prüfen.
+Äußert sich die zuständige Behörde innerhalb dieser Frist nicht, so
+gilt die Einhaltung einer Betriebsplanpflicht nach Absatz 1 Nummer 2
+als nicht erforderlich. Soweit ein zentrales Bohranzeigeportal durch
+die zuständige Behörde eingerichtet ist, kann die Anzeige nach Absatz
+1 Nummer 1 an das Bohranzeigeportal erfolgen. Eine Anzeige nach Absatz
+1 Nummer 1 darf frühestens neun Monate vor Beginn der Bohrung
+erfolgen.
+
+(3) Die Vorschriften des Wasserhaushaltsgesetzes, der
+Landeswassergesetze und der auf Grund dieser Gesetze erlassenen
+Rechtsverordnungen bleiben unberührt.
+
+
 ### § 128 Alte Halden
 [Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017800315)
 
@@ -4801,6 +5348,190 @@ der Rechtsstreit eine Ausgleichszahlung betrifft.
 
 (5) Das Gericht übersendet der nach § 92 zuständigen Behörde eine
 Ausfertigung der Entscheidung oder des Vergleichs.
+
+
+### § 145 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019711125)
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 6 Satz 1 bergfreie Bodenschätze ohne Erlaubnis aufsucht
+    oder ohne Bewilligung oder Bergwerkseigentum gewinnt,
+
+
+2.  einer vollziehbaren Auflage nach § 16 Abs. 3 zuwiderhandelt,
+
+
+3.  die Grenze seiner Gewinnungsberechtigung überschreitet, ohne daß die
+    Voraussetzungen des § 44 Abs. 1 Satz 1, auch in Verbindung mit § 47
+    Abs. 1 Satz 1 Nr. 1, vorliegen,
+
+
+4.  entgegen § 50 Abs. 1 Satz 1 oder Absatz 2 Satz 1 die Errichtung,
+    Aufnahme oder Einstellung eines dort bezeichneten Betriebes nicht
+    rechtzeitig anzeigt,
+
+
+5.  entgegen § 50 Abs. 3 Satz 1 der Anzeige nicht einen vorschriftsmäßigen
+    Abbauplan beifügt oder entgegen § 50 Abs. 3 Satz 2 eine wesentliche
+    Änderung nicht unverzüglich anzeigt,
+
+
+6.  einen nach § 51 betriebsplanpflichtigen Betrieb ohne zugelassenen
+    Betriebsplan errichtet, führt oder, ohne daß die Voraussetzungen des §
+    57 Abs. 1 Satz 1 oder Absatz 2 vorliegen, einstellt oder Abweichungen
+    von einem zugelassenen Betriebsplan anordnet,
+
+
+7.  entgegen § 53 Abs. 2 dem Abschlußbetriebsplan nicht die
+    vorgeschriebene Betriebschronik beifügt,
+
+
+8.  einer mit einer Betriebsplanzulassung nach § 55 verbundenen
+    vollziehbaren Auflage oder einer vollziehbaren Auflage nach § 56
+    Absatz 1 Satz 2, auch in Verbindung mit § 56 Absatz 4, zuwiderhandelt,
+
+
+9.  entgegen § 57 Abs. 1 Satz 2, auch in Verbindung mit § 57 Abs. 2, eine
+    Anordnung nicht, nicht richtig, nicht vollständig oder nicht
+    unverzüglich anzeigt,
+
+
+10. einer Vorschrift des § 59 Abs. 1 oder § 60 Abs. 1 über die
+    Beschäftigung, Bestellung oder Abberufung verantwortlicher Personen
+    oder des § 60 Abs. 2 über die Namhaftmachung verantwortlicher Personen
+    oder die Anzeige der Änderung ihrer Stellung oder ihres Ausscheidens
+    zuwiderhandelt,
+
+
+11. entgegen § 61 Abs. 2 Satz 1 Verwaltungsakte den verantwortlichen
+    Personen nicht, nicht richtig, nicht vollständig oder nicht
+    unverzüglich zur Kenntnis gibt,
+
+
+12. entgegen § 61 Abs. 2 Satz 2 nicht dafür sorgt, daß Betriebspläne und
+    deren Zulassung jederzeit eingesehen werden können,
+
+
+13. entgegen § 63 Abs. 1 bis 3 Satz 1 das Rißwerk nicht vorschriftsmäßig
+    anfertigt oder nachträgt, der zuständigen Behörde nicht einreicht oder
+    nicht ordnungsgemäß aufbewahrt,
+
+
+13a. (weggefallen)
+
+
+14. entgegen § 70 Abs. 1 eine Auskunft nicht, nicht richtig oder nicht
+    vollständig erteilt oder Unterlagen nicht vorlegt,
+
+
+15. entgegen § 70 Abs. 2 Satz 4 oder 5 das Betreten von Grundstücken,
+    Geschäftsräumen, Einrichtungen oder Wasserfahrzeugen, die Vornahme von
+    Prüfungen oder Befahrungen, die Entnahme von Proben oder die
+    Einsichtnahme in geschäftliche oder betriebliche Unterlagen nicht
+    duldet oder Beauftragte bei Befahrungen nicht begleitet,
+
+
+16. entgegen einer vollziehbaren Untersagung nach § 73 Abs. 1 Satz 1 eine
+    verantwortliche Person weiterbeschäftigt,
+
+
+17. entgegen § 74 Abs. 2 Satz 1 auf Verlangen die erforderlichen
+    Arbeitskräfte oder Hilfsmittel nicht unverzüglich zur Verfügung
+    stellt,
+
+
+18. entgegen § 74 Abs. 3 ein Betriebsereignis nicht, nicht richtig, nicht
+    vollständig oder nicht unverzüglich anzeigt,
+
+
+19. entgegen § 125 Abs. 1 Satz 1 oder 2 die verlangten Messungen nicht
+    durchführt oder deren Ergebnisse nicht, nicht richtig, nicht
+    vollständig oder nicht unverzüglich einreicht oder entgegen § 125 Abs.
+    3 Satz 1 das Betreten eines Grundstücks oder das Anbringen von
+    Meßmarken nicht duldet,
+
+
+20. ohne Genehmigung nach § 132 Abs. 1 Satz 1 Forschungshandlungen im
+    Bereich des Festlandsockels vornimmt,
+
+
+21. ohne die Genehmigungen nach § 133 Abs. 1 Satz 1, auch in Verbindung
+    mit Abs. 4, ein Unterwasserkabel oder eine Transit-Rohrleitung in oder
+    auf dem Festlandsockel verlegt, errichtet oder betreibt,
+
+
+22. entgegen § 169 Abs. 1 Nr. 1 den Betrieb nicht unverzüglich anzeigt
+    oder entgegen § 169 Abs. 1 Nr. 3 verantwortliche Personen nicht
+    rechtzeitig bestellt oder nicht namhaft macht.
+
+
+
+
+(2) Die Vorschriften des Absatzes 1
+
+a)  Nummer 4, 6 und 8 bis 18 gelten auch für Untersuchungen des
+    Untergrundes und Untergrundspeicher nach § 126 Abs. 1, für die
+    Errichtung und den Betrieb von Anlagen zur Lagerung, Sicherstellung
+    oder Endlagerung radioaktiver Stoffe nach § 126 Abs. 3 sowie für das
+    Aufsuchen und Gewinnen mineralischer Rohstoffe in alten Halden nach §
+    128,
+
+
+b)  Nummer 4, 6, 8 bis 12 und 14 bis 18 gelten auch für Bohrungen nach §
+    127 Abs. 1,
+
+
+c)  Nummer 4, 6, 8 bis 16 und 18 gelten auch für Versuchsgruben nach § 129
+    Abs. 1,
+
+
+d)  Nummer 4, 6, 8 bis 12, 14 bis 16 und 18 gelten auch für bergbauliche
+    Ausbildungsstätten sowie für Besucherbergwerke und Besucherhöhlen nach
+    § 129 Abs. 1,
+
+
+e)  Nummer 10, 11 und 14 bis 17 gelten auch für Hauptstellen für das
+    Grubenrettungswesen nach § 131 Abs. 3,
+
+
+f)  Nummer 14 und 15 gelten auch für Forschungshandlungen nach § 132 Abs.
+    3,
+
+
+g)  Nummer 10, 11, 14 bis 16 und 18 gelten auch für Transit-Rohrleitungen
+    nach § 133 Abs. 3 und Unterwasserkabel nach § 133 Abs. 4.
+
+
+
+
+(3) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig einer
+Rechtsverordnung nach
+
+1.  § 32 Abs. 1, §§ 67, 123, § 125 Abs. 4 oder § 131 Abs. 2 oder
+
+
+2.  § 65 und § 66 mit Ausnahme von Satz 1 Nr. 4 Buchstabe e
+
+
+
+zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese
+Bußgeldvorschrift verweist.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 2,
+6, 8 bis 11, 15 bis 18, 20, 21 und des Absatzes 3 Nr. 2 mit einer
+Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
+1 Nr. 3 bis 5, 7, 12 bis 14, 19, 22 und des Absatzes 3 Nr. 1 mit einer
+Geldbuße bis zu zweitausendfünfhundert Euro, jeweils auch in
+Verbindung mit Absatz 2, geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
+über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des
+Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und
+mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten
+Behörden des Bundes die vom Bundesministerium für Verkehr und digitale
+Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+bestimmte Behörde.
 
 
 ### § 146 Straftaten

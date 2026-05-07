@@ -31,6 +31,18 @@ des Vorstands der Deutschen Post AG im Einvernehmen mit dem
 Bundesministerium des Innern:
 
 
+## § 1 Monatliche Sonderzahlung
+[Direktlink](https://www.gesetze-im-internet.de/postszv/BJNR212000007.html#BJNR212000007BJNE000306119)
+
+Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
+Dienstbezügen erhalten bis einschließlich Dezember 2026 eine
+monatliche Sonderzahlung in Höhe von 4 Prozent der Dienstbezüge nach §
+78 Absatz 1 des Bundesbesoldungsgesetzes. Beamtinnen und Beamte der
+Besoldungsgruppe A 2 bis A 8 erhalten zusätzlich eine monatliche
+Sonderzahlung in Höhe von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1
+des Bundesbesoldungsgesetzes gelten entsprechend.
+
+
 ## § 2 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/postszv/BJNR212000007.html#BJNR212000007BJNE000403124)
 

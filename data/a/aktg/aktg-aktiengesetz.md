@@ -94,6 +94,41 @@ Das Grundkapital muß auf einen Nennbetrag in Euro lauten.
 Der Mindestnennbetrag des Grundkapitals ist fünfzigtausend Euro.
 
 
+#### § 8 Form und Mindestbeträge der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001205129)
+
+(1) Die Aktien können entweder als Nennbetragsaktien oder als
+Stückaktien begründet werden.
+
+(2) Nennbetragsaktien müssen auf mindestens einen Euro lauten. Aktien
+über einen geringeren Nennbetrag sind nichtig. Für den Schaden aus der
+Ausgabe sind die Ausgeber den Inhabern als Gesamtschuldner
+verantwortlich. Höhere Aktiennennbeträge müssen auf volle Euro lauten.
+
+(3) Stückaktien lauten auf keinen Nennbetrag. Die Stückaktien einer
+Gesellschaft sind am Grundkapital in gleichem Umfang beteiligt. Der
+auf die einzelne Aktie entfallende anteilige Betrag des Grundkapitals
+darf einen Euro nicht unterschreiten. Absatz 2 Satz 2 und 3 findet
+entsprechende Anwendung.
+
+(4) Der Anteil am Grundkapital bestimmt sich bei Nennbetragsaktien
+nach dem Verhältnis ihres Nennbetrags zum Grundkapital, bei
+Stückaktien nach der Zahl der Aktien.
+
+(5) Die Aktien sind unteilbar.
+
+(6) Diese Vorschriften gelten auch für Anteilscheine, die den
+Aktionären vor der Ausgabe der Aktien erteilt werden
+(Zwischenscheine).
+
+(7) Die Satzung kann vorsehen, dass Nennbetragsaktien einen geringeren
+Nennwert haben dürfen. In diesem Fall müssen sie auf mindestens einen
+Eurocent lauten. Für Stückaktien kann die Satzung vorsehen, dass der
+auf die einzelne Aktie entfallende anteilige Betrag des Grundkapitals
+einen Eurocent betragen darf. Im Übrigen findet Absatz 2 Satz 2 und 3
+entsprechende Anwendung.
+
+
 #### § 9 Ausgabebetrag der Aktien
 [Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001301307)
 

@@ -39,6 +39,96 @@ Aufgabenbereich ein unabhängiges Organ der Rechtspflege.
 (2) Seine Tätigkeit ist kein Gewerbe.
 
 
+### § 3 Recht zur Beratung und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004210129)
+
+(1) Der Patentanwalt leistet nach Maßgabe dieses Gesetzes unabhängige
+Beratung und Vertretung.
+
+(2) Der Patentanwalt hat die berufliche Aufgabe,
+
+1.  in Angelegenheiten der Erlangung, Aufrechterhaltung, Verteidigung und
+    Anfechtung eines Patents, eines ergänzenden Schutzzertifikats, eines
+    Gebrauchsmusters, eines eingetragenen Designs, des Schutzes einer
+    Topographie, einer Marke, eines anderen nach dem Markengesetz
+    geschützten Kennzeichens, eines Agrargeoschutzes im Sinne des § 1
+    Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes oder eines
+    Sortenschutzrechts (gewerbliche Schutzrechte) andere zu beraten und
+    Dritten gegenüber zu vertreten;
+
+
+2.  in Angelegenheiten, die zum Geschäftskreis des Deutschen Patent- und
+    Markenamts oder des Bundespatentgerichts gehören, andere vor diesen
+    Stellen zu vertreten;
+
+
+3.  in Verfahren wegen Erklärung der Nichtigkeit oder Zurücknahme des
+    Patents oder ergänzenden Schutzzertifikats oder wegen Erteilung einer
+    Zwangslizenz andere vor dem Bundesgerichtshof zu vertreten;
+
+
+4.  in Angelegenheiten des Agrargeoschutzes, die Schutzbezeichnungen im
+    Sinne des § 1 Absatz 2 oder 5 des Agrargeoschutz-Durchführungsgesetzes
+    betreffen, andere vor der Bundesanstalt für Landwirtschaft und
+    Ernährung zu vertreten;
+
+
+
+
+5.  in Angelegenheiten des Sortenschutzes andere vor dem Bundessortenamt
+    zu vertreten.
+
+
+
+
+(3) Der Patentanwalt ist ferner befugt, in Angelegenheiten, für die
+eine Frage von Bedeutung ist, die ein gewerbliches Schutzrecht, ein
+Datenverarbeitungsprogramm, eine nicht geschützte Erfindung oder eine
+sonstige die Technik bereichernde Leistung oder eine nicht geschützte,
+den Pflanzenbau bereichernde Leistung auf dem Gebiet der
+Pflanzenzüchtung betrifft oder für die eine mit einer solchen Frage
+zusammenhängende Rechtsfrage von Bedeutung ist,
+
+1.  andere zu beraten und Dritten gegenüber zu vertreten, auch wenn die
+    Voraussetzungen des Absatzes 2 Nummer 1 nicht vorliegen;
+
+
+2.  andere vor Schiedsgerichten und vor anderen als den in Absatz 2
+    bezeichneten Verwaltungsbehörden zu vertreten.
+
+
+
+
+(4) Jede Person hat das Recht, sich von einem Patentanwalt ihrer Wahl
+nach Maßgabe der gesetzlichen Vorschriften beraten und vertreten zu
+lassen.
+
+(5) Das Recht der Rechtsanwälte zur Beratung und Vertretung in allen
+Rechtsangelegenheiten (§ 3 der Bundesrechtsanwaltsordnung) bleibt
+unberührt.
+
+
+### § 4 Auftreten vor den Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004310129)
+
+(1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im
+Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im
+Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz,
+im Agrargeoschutzrecht in Bezug auf Schutzbezeichnungen im Sinne des
+Agrargeoschutz-Durchführungsgesetzes oder im Sortenschutzgesetz
+geregelten Rechtsverhältnisse geltend gemacht wird, ist auf Antrag
+einer Partei ihrem Patentanwalt das Wort zu gestatten.
+
+(2) Das Gleiche gilt in sonstigen Rechtsstreitigkeiten, für deren
+Entscheidung eine der in § 3 Absatz 3 Nummer 1 genannten Fragen oder
+Rechtsfragen von Bedeutung ist.
+
+(3) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, ist
+der Patentanwalt in den Fällen der Absätze 1 und 2 als
+Bevollmächtigter vertretungsbefugt. § 67 der
+Verwaltungsgerichtsordnung bleibt unberührt.
+
+
 ### § 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe
 [Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028000360)
 
@@ -983,6 +1073,21 @@ Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der
 Abgabenordnung.
 
 
+#### § 35 Ersetzung der Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007404129)
+
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform
+vorgeschrieben, so kann die Erklärung auch über das besondere
+elektronische Bürger- und Organisationenpostfach abgegeben werden,
+wenn Erklärender und Empfänger über ein solches verfügen. Ist die
+Erklärung von einer natürlichen Person abzugeben, so ist das Dokument
+mit einer qualifizierten elektronischen Signatur der Person zu
+versehen oder von ihr zu signieren und selbst zu versenden. Andere
+Postfächer nach § 130a Absatz 4 Satz 1 Nummer 1, 2 und 4 der
+Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und
+Organisationenpostfach nach Satz 1 gleich.
+
+
 #### (XXXX) §§ 36 bis 38 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE030100125)
 
@@ -1482,6 +1587,42 @@ ausüben, so kann die Patentanwaltskammer ihm auf seinen Antrag eine
 Vertretung bestellen.
 
 (3) (weggefallen)
+
+
+#### § 43 Pflicht zu Übernahme der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008210129)
+
+(1) Der Patentanwalt muss
+
+1.  in Verfahren vor dem Deutschen Patent- und Markenamt, dem
+    Bundespatentgericht und dem Bundesgerichtshof die Vertretung von
+    Beteiligten übernehmen, wenn er ihnen auf Grund des § 133 des
+    Patentgesetzes, des § 21 Absatz 2 des Gebrauchsmustergesetzes, des §
+    11 Absatz 2 des Halbleiterschutzgesetzes, des § 81a Absatz 2 des
+    Markengesetzes, des § 24 des Designgesetzes oder des § 36 des
+    Sortenschutzgesetzes zur vorläufig unentgeltlichen Wahrnehmung ihrer
+    Rechte beigeordnet ist;
+
+
+2.  in Verfahren vor dem Verwaltungsgericht die Vertretung von Beteiligten
+    übernehmen, wenn er ihnen nach § 39 Absatz 1 Satz 2 des
+    Agrargeoschutz-Durchführungsgesetzes beigeordnet worden ist;
+
+
+3.  in gerichtlichen Verfahren die Beratung einer Partei und die
+    Unterstützung ihres Rechtsanwalts übernehmen, wenn er der Partei nach
+    § 4a beigeordnet ist.
+
+
+
+
+(2) Der Patentanwalt kann beantragen, die Beiordnung aufzuheben, wenn
+hierfür wichtige Gründe vorliegen.
+
+(3) Der Patentanwalt ist verpflichtet, bei Einrichtungen der
+Patentanwaltskammer für die Beratung von Rechtsuchenden mit geringem
+Einkommen mitzuwirken. Er kann die Mitwirkung im Einzelfall aus
+wichtigem Grund ablehnen.
 
 
 #### § 43a Vergütung

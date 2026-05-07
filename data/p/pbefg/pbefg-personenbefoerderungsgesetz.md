@@ -291,6 +291,211 @@ verbunden sein. Die technischen Vorgaben des Nationalen Zugangspunktes
 sind einzuhalten.
 
 
+### § 3b Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012101123)
+
+(1) Der Nationale Zugangspunkt ist befugt, die Daten nach § 3a Absatz
+1 zu erheben, zu speichern, zu verwenden und auf Anfrage nach Maßgabe
+der nach § 57 Absatz 1 Nummer 12 zu erlassenden Rechtsverordnung an
+die folgenden Empfänger zu übermitteln:
+
+1.  Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a und c und Nummer
+    2 Buchstabe a an Behörden nach dem § 8 Absatz 3 sowie den §§ 11 und 29
+    zur Überprüfung von Maßgaben nach den §§ 40, 41, 49 Absatz 4, § 50
+    Absatz 3 und 4 sowie den §§ 51 und 51a und Daten nach § 3a Absatz 1
+    Nummer 2 Buchstabe b an Behörden nach § 8 Absatz 3 und § 11 zur
+    Überwachung von Maßgaben nach § 49 Absatz 4, § 50 Absatz 3 und 4 sowie
+    zur Überwachung von Maßgaben nach § 51a Absatz 1, 2 und 4;
+
+
+2.  Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a und c und Nummer
+    2 Buchstabe a sowie Daten im Sinne von § 3a Absatz 1 Nummer 2
+    Buchstabe b in anonymisierter Form an Länder, Behörden nach § 8 Absatz
+    3 und Kommunen zur Durchführung von Verkehrsuntersuchungen, zur
+    Ausgestaltung von Maßnahmen zur effizienten Verkehrsplanung und
+    Verkehrslenkung oder zur Durchführung von Maßnahmen im Bereich des
+    Klimaschutzes oder zur Fortentwicklung der Barrierefreiheit nach § 50
+    Absatz 3 und §§ 64b und 64c;
+
+
+3.  Daten im Sinne von § 3a Absatz 1 Nummer 1 und 2 an Dritte zur
+    Erbringung bedarfsgesteuerter Mobilitätsdienstleistungen oder
+    multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2
+    Nummer 12 der Delegierten Verordnung (EU) 2017/1926 der Kommission vom
+    31\. Mai 2017 zur Ergänzung der Richtlinie 2010/40/EU des Europäischen
+    Parlaments und des Rates hinsichtlich der Bereitstellung EU-weiter
+    multimodaler Reiseinformationsdienste (ABl. L 272 vom 21.10.2017, S.
+    1; L 125 vom 14.5.2019, S. 24); Daten nach § 3a Absatz 1 Nummer 2
+    Buchstabe b dürfen vom Nationalen Zugangspunkt nicht übermittelt
+    werden, wenn er Kenntnis davon erlangt, dass auf Grund der besonderen
+    Umstände des Einzelfalls die Gefahr besteht, dass mit diesen Daten
+    Bewegungen oder Standorte individualisierbarer Personen nachvollzogen
+    werden können und diese Personen nicht in die Übermittlung
+    eingewilligt haben;
+
+
+4.  Daten im Sinne von § 3a Absatz 1 Nummer 1 und 2 Buchstabe a an das
+    Bundesministerium für Verkehr zur Erfüllung seiner Aufgaben,
+    insbesondere seiner Berichtspflichten nach § 66, sowie zur
+    Fortentwicklung von Maßnahmen im Zusammenhang mit der Entwicklung
+    intelligenter Verkehrssysteme nach § 4 des Intelligente
+    Verkehrssysteme Gesetzes sowie zur Erfüllung der Berichtspflicht aus
+    Artikel 10 Absatz 2 der Delegierten Verordnung (EU) 2017/1926;
+
+
+5.  Daten im Sinne von § 3a Absatz 1 Nummer 1 Buchstabe a, b und c an das
+    Statistische Bundesamt und die jeweiligen Landesämter für Statistik
+    zur Erfüllung von Aufgaben nach § 1 Nummer 7 des
+    Verkehrsstatistikgesetzes.
+
+
+
+
+(2) Der Nationale Zugangspunkt darf Daten nach § 3a Absatz 1 in
+anonymisierter Form ferner zur Verfügung stellen
+
+1.  den Bundesministerien für eigene oder in deren Auftrag durchzuführende
+    wissenschaftliche Studien sowie
+
+
+2.  den Ländern und Kommunen für hoheitliche Zwecke, wie etwa die
+    Verkehrslenkung oder den Klimaschutz,
+
+
+
+wenn die Daten zur Erreichung dieser Zwecke erforderlich sind. Die
+Bundesministerien dürfen die nach Satz 1 erhaltenen Daten auch Dritten
+zur Durchführung wissenschaftlicher Studien zur Verfügung stellen,
+wenn die Dritten ihnen gegenüber die Fachkunde nachgewiesen und die
+vertrauliche Behandlung der Daten zugesichert haben.
+
+(3) Behörden nach § 8 Absatz 3 sowie §§ 11 und 29 sind befugt,
+
+1.  Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2
+    Buchstabe a zu erheben, zu speichern und zu verwenden, soweit dies zur
+    Überprüfung von Maßgaben nach den §§ 40, 41, 49 Absatz 4, § 50 Absatz
+    3 und 4 sowie §§ 51 und 51a erforderlich ist, und
+
+
+2.  Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b zu erheben, zu speichern
+    und zu verwenden, soweit dies zur Überwachung von Maßgaben nach § 49
+    Absatz 4, § 50 Absatz 3 und 4 sowie § 51a Absatz 4 erforderlich ist.
+
+
+
+
+(4) Erbringer bedarfsgesteuerter Mobilitätsdienstleistungen oder
+multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2
+Nummer 12 der Delegierten Verordnung (EU) 2017/1926 sind befugt, Daten
+nach § 3a Absatz 1 zu erheben, zu speichern und zu verwenden, soweit
+dies zur Erbringung ihrer Dienste gegenüber Endnutzern erforderlich
+ist.
+
+(5) Das Bundesministerium für Verkehr ist befugt, Daten nach § 3a
+Absatz 1 Nummer 1 und 2 Buchstabe a zu erheben, zu speichern und zu
+verwenden, soweit dies jeweils erforderlich ist
+
+1.  zur Erfüllung der Berichtspflichten nach § 66,
+
+
+2.  zur Fortentwicklung von Maßnahmen im Zusammenhang mit der Entwicklung
+    intelligenter Verkehrssysteme nach § 4 des Intelligente
+    Verkehrssysteme Gesetzes oder
+
+
+3.  zur Erfüllung der Berichtspflicht aus Artikel 10 Absatz 2 der
+    Delegierten Verordnung (EU) 2017/1926.
+
+
+
+
+(6) Das Statistische Bundesamt und die Landesämter für Statistik sind
+befugt, Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a, b und c zu
+erheben, zu speichern und zu verwenden, soweit dies zur Erstellung der
+Personenverkehrsstatistik nach § 1 Nummer 7 des
+Verkehrsstatistikgesetzes erforderlich ist.
+
+
+### § 3c Datenlöschung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012201123)
+
+(1) Der Nationale Zugangspunkt und Behörden nach § 8 Absatz 3 sowie §§
+11 und 29 haben personenbezogene Daten unverzüglich zu löschen, wenn
+sie für die in § 3b Absatz 1 oder 3 genannten Zwecke nicht mehr
+erforderlich sind, spätestens jedoch
+
+1.  sobald der jeweilige Empfänger
+
+    a)  im Fall von Adressdaten des Unternehmers Kenntnis über den Widerruf,
+        die Rücknahme oder das Erlöschen der Genehmigung oder über den Ablauf
+        der Geltungsdauer erlangt hat,
+
+
+    b)  im Fall von Adressdaten des Vermittlers Kenntnis über die
+        Geschäftsaufgabe erlangt hat und
+
+
+
+
+
+2.  im Fall von Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b, soweit die
+    Daten nicht durch Überschreiben gelöscht wurden, drei Monate nach
+    deren Übermittlung.
+
+
+
+Der Nationale Zugangspunkt hat dynamische Daten nach § 3a Absatz 1
+Nummer 2 Buchstabe b, bei denen er davon Kenntnis erlangt, dass auf
+Grund der besonderen Umstände des Einzelfalls die Gefahr besteht, dass
+mit diesen Daten Bewegungen und Standorte individualisierbarer
+Personen nachvollzogen werden können und diese Personen nicht in die
+Übermittlung eingewilligt haben, unverzüglich zu löschen.
+
+(2) Erbringer bedarfsgesteuerter Mobilitätsdienstleistungen oder
+multimodaler Reiseinformationsdienste für Endnutzer nach Artikel 2
+Nummer 12 der Delegierten Verordnung (EU) 2017/1926 haben
+personenbezogene Daten unverzüglich zu löschen, wenn sie für die in §
+3b Absatz 4 genannten Zwecke nicht mehr erforderlich sind, spätestens
+jedoch wenn
+
+1.  im Fall von Adressdaten des Unternehmers Kenntnis über den Widerruf,
+    die Rücknahme oder das Erlöschen der Genehmigung oder über den Ablauf
+    der Geltungsdauer erlangt wurde,
+
+
+2.  im Fall von Adressdaten des Vermittlers Kenntnis über die
+    Geschäftsaufgabe erlangt wurde,
+
+
+3.  im Fall von Daten nach § 3a Absatz 1 Nummer 2 Buchstabe b eine
+    Reiseinformation an Endnutzer übermittelt wurde oder
+
+
+4.  ihnen durch den Nationalen Zugangspunkt die Zulassung zur
+    Datenverarbeitung entzogen wurde.
+
+
+
+
+(3) Das Bundesministerium für Verkehr hat personenbezogene Daten zu
+löschen, wenn diese nicht mehr für die in § 3b Absatz 5 genannten
+Zwecke erforderlich sind, spätestens jedoch
+
+1.  ein Jahr nach Erfüllung der jeweiligen Berichtspflicht oder
+
+
+2.  ein Jahr nach Inkrafttreten einer Maßnahme nach § 4 des Intelligente
+    Verkehrssysteme Gesetzes.
+
+
+
+
+(4) Das Statistische Bundesamt und die Landesämter für Statistik haben
+personenbezogene Daten zu löschen, wenn diese nicht mehr für die in §
+3b Absatz 6 genannten Zwecke erforderlich sind, spätestens jedoch ein
+Jahr nach Erstellung der jeweiligen Statistik.
+
+
 ### § 4 Straßenbahnen, Obusse, Kraftfahrzeuge
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE001903305)
 
@@ -651,6 +856,54 @@ Vorschriften dieses Gesetzes unterliegt oder welcher Verkehrsart oder
 Verkehrsform ein Verkehr zugehört oder wer Unternehmer im Sinne des §
 3 Abs. 1 und 2 ist, so entscheidet die für den Sitz des Unternehmers
 zuständige, von der Landesregierung bestimmte Behörde.
+
+
+### § 11 Genehmigungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002608123)
+
+(1) Die Genehmigung erteilt die von der Landesregierung bestimmte
+Behörde.
+
+(2) Zuständig ist
+
+1.  bei einem Straßenbahn-, Obusverkehr oder einem Linienverkehr mit
+    Kraftfahrzeugen die Genehmigungsbehörde, in deren Bezirk der Verkehr
+    ausschließlich betrieben werden soll,
+
+
+2.  bei einem Gelegenheitsverkehr mit Kraftfahrzeugen die
+    Genehmigungsbehörde, in deren Bezirk der Unternehmer seinen Sitz oder
+    seine Niederlassung im Sinne des Handelsrechts hat.
+
+
+
+
+(3) Soll ein Straßenbahn-, Obusverkehr oder ein Linienverkehr mit
+Kraftfahrzeugen in den Bezirken mehrerer Genehmigungsbehörden
+desselben Landes betrieben werden, so ist die Genehmigungsbehörde
+zuständig, in deren Bezirk die Linie ihren Ausgangspunkt hat. Wird
+eine Genehmigung gemäß § 9 Absatz 2 für mehrere Linien gebündelt
+erteilt, ist die Genehmigungsbehörde zuständig, in deren Bezirk die
+Mehrzahl der Linien betrieben werden soll. Bestehen Zweifel über die
+Zuständigkeit, so wird die zuständige Genehmigungsbehörde von der von
+der Landesregierung bestimmten Behörde benannt. Die zuständige
+Genehmigungsbehörde trifft ihre Entscheidung im Einvernehmen mit den
+an der Linienführung beteiligten Genehmigungsbehörden;
+Genehmigungsbehörden, deren Bezirke im Transit durchfahren werden,
+sind nicht zu beteiligen. Kommt ein Einvernehmen nicht zustande, so
+entscheidet die von der Landesregierung bestimmte Behörde.
+
+(4) Soll ein Straßenbahn-, Obus- oder Linienverkehr mit
+Kraftfahrzeugen in mehreren Ländern betrieben werden, so ist Absatz 3
+Satz 1, 2 und 4 entsprechend anzuwenden. Bestehen zwischen den
+beteiligten Ländern Zweifel über die Zuständigkeit und kommt eine
+Einigung der obersten Landesverkehrsbehörden darüber nicht zustande,
+so entscheidet auf Antrag einer beteiligten obersten
+Landesverkehrsbehörde das Bundesministerium für Verkehr. Das gleiche
+gilt, wenn über die Entscheidung eines Genehmigungsantrags zwischen
+den Genehmigungsbehörden der beteiligten Länder ein Einvernehmen nicht
+hergestellt und auch ein Einvernehmen zwischen den obersten
+Landesverkehrsbehörden darüber nicht erzielt werden kann.
 
 
 ### § 12 Antragstellung
@@ -1102,6 +1355,93 @@ Rechte nach § 42a Satz 3 berührt sein können; Absatz 1 Satz 1 Nummer 3
 ist nicht anzuwenden.
 
 
+### § 15 Erteilung und Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003006123)
+
+(1) Die Entscheidung über den Antrag erfolgt schriftlich oder in
+elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach §
+37 Absatz 4 des Verwaltungsverfahrensgesetzes; sie ist den
+Antragstellern und, soweit diese Einwendungen erhoben haben, auch den
+in § 14 Abs. 1 Nr. 1 und 2 genannten Personen und Stellen zuzustellen.
+Über den Antrag ist innerhalb von 3 Monaten nach Eingang bei der
+Genehmigungsbehörde zu entscheiden. Kann die Prüfung des Antrags in
+dieser Zeit nicht abgeschlossen werden, ist die Frist vor ihrem Ablauf
+in einem den Antragstellern mitzuteilenden Zwischenbescheid um den
+Zeitraum zu verlängern, der notwendig ist, um die Prüfung abschließen
+zu können. Die Verlängerung der in Satz 2 bezeichneten Frist darf
+höchstens 3 Monate betragen. Die Genehmigung gilt als erteilt, wenn
+sie nicht innerhalb der Frist versagt wird. Die Frist für eine
+Entscheidung über einen Antrag auf Erteilung einer Genehmigung für
+einen Verkehr mit Straßenbahnen, Obussen oder Kraftfahrzeugen im
+Linienverkehr beginnt frühestens mit dem ersten Kalendertag nach dem
+Ablauf der Antragsfrist in § 12 Absatz 5 oder 6.
+
+(2) Ist die Entscheidung über den Antrag unanfechtbar geworden, wird
+dem Antragsteller eine Genehmigungsurkunde erteilt. Einer juristischen
+Person darf die Genehmigungsurkunde erst ausgehändigt werden, wenn die
+Eintragung in das Register nachgewiesen ist.
+
+(3) Die Genehmigung kann unter Bedingungen und Auflagen erteilt
+werden, sofern sich diese Nebenbestimmungen im Rahmen des Gesetzes und
+der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen halten.
+Wurden dem Genehmigungsantrag weitere Bestandteile im Sinne des § 12
+Absatz 1a hinzugefügt, so ist deren Einhaltung durch eine Auflage zur
+Genehmigung abzusichern, in deren Kontrolle die zuständige Behörde auf
+ihren Wunsch eingebunden werden kann.
+
+(4) Die Genehmigung darf nicht vorläufig oder mit einem Vorbehalt des
+Widerrufs erteilt werden.
+
+(5) Die Genehmigungsbehörde hat die zuständige Berufsgenossenschaft
+von der Erteilung der Genehmigung zu unterrichten.
+
+
+### § 16 Geltungsdauer der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003107123)
+
+(1) Die Geltungsdauer der Genehmigung für Straßenbahn-und Obusverkehr
+beträgt höchstens 15 Jahre. Sie kann unter den Voraussetzungen des
+Artikels 4 Absatz 4 der Verordnung (EG) Nr. 1370/2007 für einen
+längeren Zeitraum festgelegt werden. Bei Wiedererteilung der
+Genehmigung ist die Geltungsdauer so zu bemessen, dass die Genehmigung
+mit Vereinbarungen und Entscheidungen über die Benutzung öffentlicher
+Straßen nach § 31 Absatz 2 und 5 in Einklang steht. Ist die beantragte
+Verkehrsleistung Gegenstand eines öffentlichen
+Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1 der
+Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der Genehmigung
+die Laufzeit des öffentlichen Dienstleistungsauftrages nicht
+überschreiten.
+
+(2) Die Geltungsdauer der Genehmigung für Linienverkehr mit
+Kraftfahrzeugen ist unter Berücksichtigung der öffentlichen
+Verkehrsinteressen zu bemessen. Sie beträgt höchstens zehn Jahre. Die
+Genehmigung kann unter den Voraussetzungen des Artikels 4 Absatz 3
+Satz 2 oder Absatz 4 der Verordnung (EG) Nr. 1370/2007 für einen
+längeren Zeitraum festgelegt werden. Ist die beantragte
+Verkehrsleistung Gegenstand eines öffentlichen
+Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1 der
+Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der Genehmigung
+die Laufzeit des öffentlichen Dienstleistungsauftrages nicht
+überschreiten. Im öffentlichen Personennahverkehr ist § 8 Absatz 3 zu
+beachten.
+
+(3) Weicht im öffentlichen Personennahverkehr ein Genehmigungsantrag
+für einen eigenwirtschaftlichen Verkehr wesentlich vom bisherigen
+Verkehrsangebot ab und sichert die zuständige Behörde der
+Genehmigungsbehörde die Vergabe eines dem bisherigen Verkehrsangebot
+entsprechenden öffentlichen Dienstleistungsauftrages zu, so ist die
+Geltungsdauer der Genehmigung so zu bemessen, dass sie zu dem
+Zeitpunkt endet, den die zuständige Behörde als Zeitpunkt der
+geplanten Betriebsaufnahme des zugesicherten Verkehrs angibt. Setzt
+die zuständige Behörde ihre Zusicherung nicht um, so ist die
+Geltungsdauer der Genehmigung unter Beachtung der Absätze 1 und 2 neu
+festzusetzen.
+
+(4) Die Geltungsdauer der Genehmigungen für Gelegenheitsverkehr mit
+Kraftomnibussen beträgt höchstens zehn Jahre und für sonstigen
+Gelegenheitsverkehr mit Kraftfahrzeugen höchstens fünf Jahre.
+
+
 ### § 17 Genehmigungsurkunde
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003207119)
 
@@ -1234,6 +1574,49 @@ oder der für die Führung der Geschäfte bestellten Person darf ein
 Dritter das Unternehmen bis zu einem Jahr weiterführen. In ausreichend
 begründeten Sonderfällen kann diese Frist um sechs Monate verlängert
 werden.
+
+
+### § 20 Einstweilige Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003505123)
+
+(1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche
+Änderung eines Straßenbahn-, Obusverkehrs oder Linienverkehrs mit
+Kraftfahrzeugen im öffentlichen Verkehrsinteresse liegt, kann die
+Genehmigungsbehörde, in deren Bezirk der Verkehr betrieben werden
+soll, dem Antragsteller eine widerrufliche einstweilige Erlaubnis
+erteilen; die Voraussetzungen des § 13 Abs. 1 oder Absatz 1a müssen
+vorliegen. Die Erteilung ist auch den in § 14 Abs. 1 Nr. 1 genannten
+Unternehmern bekanntzugeben.
+
+(2) Die einstweilige Erlaubnis muss enthalten
+
+1.  den Hinweis auf diese Vorschrift mit einem Zusatz, dass die
+    einstweilige Erlaubnis einen Anspruch auf Erteilung einer Genehmigung
+    nicht begründet,
+
+
+2.  Name, Wohn- und Betriebssitz des Unternehmers,
+
+
+3.  Geltungsdauer,
+
+
+4.  etwaige Bedingungen und Auflagen,
+
+
+5.  Linienführung oder beim Linienbedarfsverkehr das Gebiet, in dem der
+    Verkehr betrieben wird.
+
+
+
+
+(3) Die einstweilige Erlaubnis erlischt nach sechs Monaten, soweit sie
+nicht vorher widerrufen wird. In den Fällen des Artikels 5 Absatz 5
+der Verordnung (EG) Nr. 1370/2007 kann die einstweilige Erlaubnis auf
+bis zu zwei Jahre befristet werden. Sie begründet keinen Anspruch auf
+Erteilung einer Genehmigung. § 15 Abs. 3 und 5 gilt entsprechend.
+
+(4) § 17 Abs. 3, 4 und 5 gilt entsprechend.
 
 
 ### § 20a (weggefallen)
@@ -1384,6 +1767,36 @@ Satz 2 gilt entsprechend.
 
 (4) Die Absätze 1 bis 3a sind auf den Widerruf der Genehmigung für die
 Übertragung der Betriebsführung entsprechend anzuwenden.
+
+
+### § 25a Untersagung von Personenkraftverkehrsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010801123)
+
+Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit
+Kraftomnibussen der Unternehmer oder der Verkehrsleiter die
+Voraussetzungen hinsichtlich der Zuverlässigkeit nach Artikel 6 der
+Verordnung (EG) Nr. 1071/2009 nicht erfüllt, kann dem Unternehmer oder
+dem Verkehrsleiter die Führung von Personenkraftverkehrsgeschäften
+untersagt werden. Das Untersagungsverfahren kann unabhängig von einem
+Verfahren auf Widerruf der Genehmigung durchgeführt werden. Auf Antrag
+ist dem Unternehmer oder dem Verkehrsleiter die Führung von
+Personenkraftverkehrsgeschäften von der Behörde, die die Führung von
+Personenkraftverkehrsgeschäften untersagt hat, wieder zu gestatten,
+wenn
+
+1.  Tatsachen die Annahme rechtfertigen, dass eine Unzuverlässigkeit im
+    Sinne des Satzes 1 nicht mehr vorliegt, und
+
+
+2.  der Betroffene eine Prüfung nach Artikel 14 Absatz 1 Unterabsatz 2 der
+    Verordnung (EG) Nr. 1071/2009 in der Fassung vom 15. Juli 2020
+    bestanden hat.
+
+
+
+Die Wiederaufnahme der Führung von Personenkraftverkehrsgeschäften
+kann nicht vor Ablauf eines Jahres nach Bestandskraft der
+Untersagungsverfügung gestattet werden.
 
 
 ### § 26 Erlöschen der Genehmigung
@@ -1627,6 +2040,123 @@ machen. § 23 des Gesetzes über die Umweltverträglichkeitsprüfung gilt
 entsprechend. Maßgeblich ist der Inhalt des im Rahmen des
 Genehmigungsverfahrens zur Einsicht ausgelegten Plans. Hierauf ist bei
 der Zugänglichmachung hinzuweisen.
+
+
+#### § 29 Planfeststellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004511123)
+
+(1) Planfeststellungsbehörde ist die Genehmigungsbehörde nach § 11.
+Diese stellt den Plan nach § 28 Absatz 1 fest, erteilt die
+Plangenehmigung nach § 28 Absatz 2 und § 74 Absatz 6 des
+Verwaltungsverfahrensgesetzes oder trifft die Entscheidung nach § 74
+Absatz 7 des Verwaltungsverfahrensgesetzes.
+
+(1a) Für das Anhörungsverfahren gilt § 73 des
+Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+
+1.  Die Anhörungsbehörde kann von einer Erörterung im Sinne des § 73
+    Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz
+    4 des Gesetzes über die Umweltverträglichkeitsprüfung absehen. Findet
+    keine Erörterung statt, so hat die Anhörungsbehörde ihre Stellungnahme
+    innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben
+    und zusammen mit den sonstigen in § 73 Absatz 9 des
+    Verwaltungsverfahrensgesetzes aufgeführten Unterlagen der
+    Planfeststellungsbehörde zuzuleiten.
+
+
+2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
+
+
+
+
+(2) Werden Einwendungen gegen den Plan mit der Begründung erhoben, daß
+öffentliche Interessen im Bereich von Bundesbehörden oder von
+Behörden, die im Auftrag des Bundes tätig werden, beeinträchtigt
+werden und kommt eine Einigung zwischen der Planfeststellungsbehörde
+und den genannten Behörden nicht zustande, entscheidet die
+Planfeststellungsbehörde im Benehmen mit dem Bundesministerium für
+Verkehr.
+
+(3) Kommt eine Einigung über Einwendungen nichtbundeseigener
+Eisenbahnen oder von Bergbahnunternehmen nicht zustande, hat die
+Planfeststellungsbehörde die Entscheidung der von der Landesregierung
+bestimmten Behörde einzuholen und der Planfeststellung zugrunde zu
+legen.
+
+(4) Für die Rechtswirkungen der Planfeststellung und Plangenehmigung
+gilt § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+
+1.  Wird mit der Durchführung des Plans nicht innerhalb von fünf Jahren
+    nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft,
+    es sei denn, er wird vorher auf Antrag des Unternehmers von der
+    Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
+
+
+2.  Vor der Entscheidung nach Nummer 1 ist eine auf den Antrag begrenzte
+    Anhörung nach dem für die Planfeststellung oder für die
+    Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
+
+
+3.  Für die Zustellung und Auslegung sowie die Anfechtung der Entscheidung
+    über die Verlängerung sind die Bestimmungen über den
+    Planfeststellungsbeschluss entsprechend anzuwenden.
+
+
+4.  Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75
+    Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und
+    unverzüglich betrieben, bleibt die Durchführung des Vorhabens insoweit
+    zulässig, als es von der Planergänzung oder dem Ergebnis des
+    ergänzenden Verfahrens offensichtlich nicht berührt ist.
+
+
+
+
+(5) Für die Planergänzung und das ergänzende Verfahren im Sinne des §
+75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
+Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
+Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
+Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im
+Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18
+Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung
+abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die
+Vorschriften dieses Gesetzes.
+
+(6) Vor Erhebung einer verwaltungsgerichtlichen Klage gegen einen
+Planfeststellungsbeschluß oder gegen eine Plangenehmigung für den Bau
+oder die Änderung von Betriebsanlagen für Straßenbahnen bedarf es
+keiner Nachprüfung in einem Vorverfahren. Die Anfechtungsklage gegen
+einen Planfeststellungsbeschluß oder eine Plangenehmigung für den Bau
+oder die Änderung von Betriebsanlagen für Straßenbahnen hat keine
+aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden
+Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluß
+oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der
+Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach
+Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung
+gestellt und begründet werden. Treten später Tatsachen ein, die die
+Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch
+den Planfeststellungsbeschluß oder die Plangenehmigung Beschwerte
+einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der
+Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
+stellen. Die Frist beginnt in dem Zeitpunkt, in dem der Beschwerte von
+den Tatsachen Kenntnis erlangt.
+
+(7) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
+Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und
+Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach
+Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der
+Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund
+ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht,
+wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne
+Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch
+den Vorsitzenden oder den Berichterstatter auf Antrag verlängert
+werden, wenn der Kläger in dem Verfahren, in dem die angefochtene
+Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
+6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
+
+(8) (weggefallen)
 
 
 #### § 29a Vorzeitige Besitzeinweisung
@@ -2561,6 +3091,96 @@ Höchstbeförderungsentgelte nicht überschritten werden dürfen.
 
 
 
+### § 52 Grenzüberschreitender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006912123)
+
+(1) Für die Beförderung von Personen im grenzüberschreitenden Verkehr
+mit Kraftfahrzeugen durch Unternehmer, die ihren Betriebssitz im
+Inland oder Ausland haben, gelten, soweit nichts anderes bestimmt ist,
+die Vorschriften dieses Gesetzes und die hierzu erlassenen
+Rechtsverordnungen. Auf Unternehmen, die ihren Betriebssitz im Ausland
+haben, sind nicht anzuwenden
+
+1.  § 13 Absatz 1 Satz 1 Nummer 4 und
+
+
+2.  § 13 Absatz 1a, soweit Artikel 3 Absatz 1 Buchstabe a der Verordnung
+    (EG) Nr. 1071/2009 einzuhalten ist.
+
+
+
+
+(2) Die nach diesem Gesetz erforderliche Genehmigung eines
+grenzüberschreitenden Linienverkehrs erteilt für die deutsche
+Teilstrecke die von der Landesregierung bestimmte Behörde im Benehmen
+mit dem Bundesministerium für Verkehr. § 11 Abs. 2 bis 4 ist
+entsprechend anzuwenden. Während der Herstellung des Benehmens ruht
+die Frist für die Entscheidung über den Antrag nach § 15 Absatz 1 Satz
+2 bis 5.
+
+(3) Einer Genehmigung für den grenzüberschreitenden
+Gelegenheitsverkehr von Unternehmern, die ihren Betriebssitz im
+Ausland haben, bedarf es nicht, soweit entsprechende Übereinkommen mit
+dem Ausland bestehen. Besteht ein solches Übereinkommen nicht oder
+soll abweichend von den Bedingungen des Übereinkommens
+grenzüberschreitender Gelegenheitsverkehr ausgeführt werden, so kann
+das Bundesministerium für Verkehr oder eine von ihm beauftragte
+Behörde entsprechenden Anträgen stattgeben. Die Genehmigung für
+grenzüberschreitende Ferienziel-Reisen erteilt für die deutsche
+Teilstrecke die von der Landesregierung bestimmte Behörde, in deren
+Gebiet die Ferienziel-Reise endet. Abweichend von § 9 Abs. 1 Nr. 4
+wird die Genehmigung für den grenzüberschreitenden Gelegenheitsverkehr
+mit Kraftomnibussen auch für die Form des Gelegenheitsverkehrs
+erteilt.
+
+(4) Die Grenzpolizei und die Zollstellen an den Grenzen sind
+berechtigt, Kraftfahrzeuge zurückzuweisen, wenn nicht die
+erforderliche Genehmigung vorgelegt wird, deren Mitführung
+vorgeschrieben ist. Das Bundesministerium für Verkehr kann Unternehmen
+mit Betriebssitz außerhalb des Geltungsbereichs dieses Gesetzes bei
+wiederholten oder schweren Verstößen gegen Vorschriften dieses
+Gesetzes und der auf diesem Gesetz beruhenden Verordnungen sowie gegen
+Vorschriften der Verordnungen der Europäischen Gemeinschaften und
+internationalen Übereinkommen über den grenzüberschreitenden Verkehr
+dauernd oder vorübergehend vom Verkehr in oder durch die
+Bundesrepublik Deutschland ausschließen.
+
+
+### § 53 Transit-(Durchgangs-)Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007010123)
+
+(1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr
+mit Kraftfahrzeugen, der das Gebiet des Geltungsbereichs dieses
+Gesetzes unter Ausschluß innerdeutschen Zwischenverkehrs berührt,
+gelten, soweit nichts anderes bestimmt ist, die Vorschriften dieses
+Gesetzes und die hierzu erlassenen Rechtsverordnungen. Nicht
+anzuwenden sind
+
+1.  § 13 Absatz 1 Satz 1 Nummer 4,
+
+
+2.  § 13 Absatz 1a, soweit Artikel 3 Absatz 1 Buchstabe a der Verordnung
+    (EG) Nr. 1071/2009 einzuhalten ist und
+
+
+3.  § 42b.
+
+
+
+
+(2) Die Genehmigung eines Transitlinienverkehrs erteilt die von der
+Landesregierung bestimmte Behörde, in deren Gebiet der erste
+Grenzübergang bei der Einfahrt stattfindet, im Benehmen mit dem
+Bundesministerium für Verkehr. § 11 Abs. 3 und 4 ist entsprechend
+anzuwenden.
+
+(3) § 52 Abs. 3 ist auf den Gelegenheitsverkehr vom Ausland durch das
+Gebiet des Geltungsbereichs dieses Gesetzes entsprechend anzuwenden,
+jedoch ist bei Ferienziel-Reisen die von der Landesregierung bestimmte
+Behörde zuständig, in deren Gebiet der erste Grenzübergang bei der
+Einfahrt stattfindet. § 52 Abs. 4 gilt entsprechend.
+
+
 ## V. - Aufsicht, Prüfungsbefugnisse
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001001305)
 
@@ -2635,6 +3255,17 @@ Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 nach § 45a Abs. 2 zur Festlegung der Kostensätze befugte Behörde.
 
 
+### § 54b Risikoeinstufung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010901123)
+
+Die Aufsichtsbehörden führen ein Risikoeinstufungssystem im Sinne des
+Artikels 12 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1071/2009 ein.
+Dabei sind die Häufigkeit und die Intensität der Kontrollen abhängig
+von der Anzahl und dem Ausmaß der Rechtsverstöße, wie dies in den
+Durchführungsbestimmungen zu Artikel 6 Absatz 2a der Verordnung (EG)
+Nr. 1071/2009 konkretisiert wird.
+
+
 ### § 54c Verkehrsunternehmensdatei
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011000308)
 
@@ -2647,6 +3278,15 @@ Personenverkehrs mit Kraftomnibussen geführt.
 ## VI. - Rechtsbehelfsverfahren und Gebühren
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001102305)
 
+
+
+### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007308123)
+
+Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt
+angefochten wird, den eine oberste Landesverkehrsbehörde oder das
+Bundesministerium für Verkehr erlassen hat. § 28 Absatz 3a Satz 9 und
+§ 29 Absatz 6 Satz 1 bleiben unberührt.
 
 
 ### § 56 Gebühren
@@ -2667,6 +3307,165 @@ August 2013 geltenden Fassung Anwendung.
 ## VII. - Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001202305)
 
+
+
+### § 57 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007516123)
+
+(1) Das Bundesministerium für Verkehr erläßt mit Zustimmung des
+Bundesrates durch Rechtsverordnung die zur Durchführung dieses
+Gesetzes, internationaler Abkommen sowie der Verordnungen des Rates
+oder der Kommission der Europäischen Gemeinschaften erforderlichen
+Vorschriften
+
+1.  über Straßenbahnen und Obusse; diese regeln
+
+    a)  Anforderungen an den Bau und die Einrichtungen der Betriebsanlagen und
+        Fahrzeuge sowie deren Betriebsweise,
+
+
+    b)  die Sicherheit und Ordnung des Betriebs sowie den Schutz der
+        Betriebsanlagen und Fahrzeuge gegen Schäden und Störungen;
+
+
+
+
+
+2.  über den Betrieb von Kraftfahrunternehmen im Personenverkehr; diese
+    regeln
+
+    a)  Anforderungen an den Bau und die Einrichtungen der in diesen
+        Unternehmen verwendeten Fahrzeuge,
+
+
+    b)  die Sicherheit und Ordnung des Betriebs;
+
+
+
+
+
+3.  über Anforderungen an die Befähigung, Eignung und das Verhalten der
+    Betriebsbediensteten und über die Bestellung, Bestätigung und Prüfung
+    von Betriebsleitern sowie deren Aufgaben und Befugnisse;
+
+
+4.  über den Nachweis der Genehmigungsvoraussetzungen nach § 13 Absatz 1
+    oder 1a; darin können insbesondere Vorschriften enthalten sein über
+    die Voraussetzungen, unter denen ein Betrieb als leistungsfähig
+    anzusehen ist, über die Zuverlässigkeit des Unternehmers oder der für
+    die Führung der Geschäfte bestellten Personen sowie über die
+    Voraussetzungen, unter denen eine Tätigkeit angemessen ist, über den
+    Prüfungsstoff, den Prüfungsausschuß und das Prüfungsverfahren;
+    außerdem kann bestimmt werden, in welchen Fällen Unternehmer, Inhaber
+    von Abschlußzeugnissen für staatlich anerkannte Ausbildungsberufe und
+    Absolventen von Hoch- und Fachschulen vom Nachweis der angemessenen
+    Tätigkeit oder der Ablegung einer Prüfung befreit werden;
+
+
+5.  über einheitliche Allgemeine Beförderungsbedingungen für den
+    Straßenbahn- und Obusverkehr sowie für den Linienverkehr mit
+    Kraftfahrzeugen und, vorbehaltlich des § 51 Abs. 1 Satz 1, für den
+    Gelegenheitsverkehr mit Kraftfahrzeugen;
+
+
+6.  über die Ordnung des grenzüberschreitenden Verkehrs und des
+    Transitverkehrs, die Organisation einschließlich der Klärung
+    konkurrierender Zuständigkeiten, das Verfahren und die Mittel der
+    Kontrolle sowie die Befreiung von Unternehmen mit Betriebssitz im
+    Ausland von der Genehmigungspflicht für den Gelegenheitsverkehr oder
+    von der Einhaltung anderer Ordnungsvorschriften dieses Gesetzes,
+    soweit Gegenseitigkeit verbürgt ist;
+
+
+7.  (weggefallen)
+
+
+8.  durch die für bestimmte im Rahmen des Gesamtverkehrs nicht besonders
+    ins Gewicht fallende Beförderungsfälle allgemein Befreiung von den
+    Vorschriften dieses Gesetzes erteilt wird;
+
+
+9.  die bestimmen, wer Auszubildender im Sinne des § 45a Abs. 1 ist,
+    welche Kostenbestandteile bei der Berechnung des Ausgleichs zu
+    berücksichtigen sind, welches Verfahren für die Gewährung des
+    Ausgleichs anzuwenden ist, welche Angaben der Antrag auf Gewährung des
+    Ausgleichs enthalten muß und wie die Erträge und die Personen-
+    Kilometer zu ermitteln sind;
+
+
+10. die die gebührenpflichtigen Tatbestände im Linienverkehr und im
+    Gelegenheitsverkehr näher bestimmen und feste Gebührensätze oder
+    Rahmensätze festlegen. Die Gebühren dürfen im Linienverkehr 2 500
+    Euro, im Gelegenheitsverkehr 1 500 Euro nicht überschreiten;
+
+
+11. zur Bezeichnung der Tatbestände, die als Ordnungswidrigkeit nach § 61
+    Abs. 1 Nr. 5 geahndet werden können;
+
+
+12. über die in § 3a genannte Verpflichtung zur Bereitstellung dort
+    genannter Daten durch den Unternehmer und den Vermittler sowie zu
+    deren Verwendung hinsichtlich
+
+    a)  Art und Inhalt der bereitzustellenden Daten und Datenformate,
+
+
+    b)  Art und Weise der Erfüllung,
+
+
+    c)  technischen Anforderungen und Interoperabilität,
+
+
+    d)  Zulassung von Dritten zur Bereitstellung und Nutzung des Nationalen
+        Zugangspunktes,
+
+
+    e)  Nutzungsbedingungen und
+
+
+    f)  Regelungen zur Weiterverwendung der Daten durch Dritte zur
+        Bereitstellung multimodaler Mobilitäts- und Reiseinformationsdienste
+
+
+
+    näher auszugestalten. Hierbei ist das Bundesamt für Sicherheit in der
+    Informationstechnik anzuhören, soweit die Sicherheit
+    informationstechnischer Systeme betroffen ist.
+
+
+
+
+(2) Rechtsverordnungen nach Absatz 1 Nr. 1 können auch Vorschriften
+zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-
+Immissionsschutzgesetzes enthalten; dabei können Immissionsgrenzwerte
+unter Berücksichtigung der technischen Entwicklung auch für einen
+Zeitpunkt nach Inkrafttreten der Rechtsverordnung festgesetzt werden.
+Vorschriften nach Satz 1 werden vom Bundesministerium für Verkehr und
+vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit erlassen. Die Ermächtigung nach Satz 1 gilt nicht,
+soweit § 43 des Bundes-Immissionsschutzgesetzes Anwendung findet.
+
+(3) Rechtsverordnungen nach Absatz 1 Nr. 1 können auch festlegen, wie
+der Nachweis für die Erfüllung dieser Vorschriften zu erbringen ist,
+insbesondere welche Prüfungen, Abnahmen, Erlaubnisse, Zustimmungen
+oder Bescheinigungen erforderlich sind.
+
+(4) Soweit es die öffentliche Sicherheit erfordert, können einzelne
+Vorschriften der nach Absatz 1 Nr. 2 erlassenen Rechtsverordnung auf
+Beförderungen ausgedehnt werden, die nach § 2 von der
+Genehmigungspflicht befreit sind oder für die durch die nach Absatz 1
+Nr. 8 erlassene Rechtsverordnung Befreiung erteilt wird.
+
+(5) (weggefallen)
+
+(6) Im Bereich der Gebühren der Landesbehörden übt das
+Bundesministerium für Verkehr die Ermächtigung nach Absatz 1 Nummer 10
+auf der Grundlage eines Antrags oder einer Stellungnahme von
+mindestens fünf Ländern beim Bundesministerium für Verkehr aus. Der
+Antrag oder die Stellungnahme sind mit einer Schätzung des Personal-
+und Sachaufwands zu begründen. Das Bundesministerium für Verkehr kann
+die übrigen Länder ebenfalls zur Beibringung einer Schätzung des
+Personal- und Sachaufwands auffordern.
 
 
 ### § 58 Allgemeine Verwaltungsvorschriften
@@ -2975,4 +3774,57 @@ gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
 
 
 
+
+
+### § 66 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008807123)
+
+(1) Das Bundesministerium für Verkehr legt mit Ablauf von fünf Jahren
+nach Inkrafttreten des Gesetzes zur Modernisierung des
+Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem
+Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form vor:
+
+1.  zur Umsetzung der nach § 57 Absatz 1 Nummer 12 erlassenen Verordnung,
+    insbesondere
+
+    a)  zur Vollständigkeit und Zugänglichkeit der nach § 3a
+        bereitzustellenden Daten, auch im Hinblick auf die regelmäßige Öffnung
+        von Schnittstellen zur Verknüpfung von Informationssystemen;
+
+
+    b)  zur Anzahl der Dienstleistungsangebote, die sich nach der umfassenden
+        Bereitstellung von Mobilitätsdaten entwickelt haben oder sich in der
+        Entwicklung befinden;
+
+
+    c)  zu Marktbarrieren im Hinblick auf die Weiterverwendungsmöglichkeit von
+        Daten nach § 3b und
+
+
+    d)  zu Vorschlägen hinsichtlich der Verbesserung der Nutzung von Daten;
+
+
+
+
+
+2.  zur Umsetzung der in § 64c Absatz 1 und 2 niedergelegten Vorgaben und
+    deren Wirksamkeit.
+
+
+
+Das Bundesministerium für Verkehr kann insbesondere Vorschläge zur
+Verbesserung der Nutzung der Daten unterbreiten. Den Ländern,
+Kommunen, den Verbraucherschutzverbänden, Verbänden für Menschen mit
+Behinderungen, dem oder der Beauftragten der Bundesregierung für
+Menschen mit Behinderungen, dem oder der Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit sowie den betroffenen
+Wirtschaftskreisen wird Gelegenheit zur Stellungnahme gegeben.
+
+(2) Die Bundesregierung legt mit Ablauf von fünf Jahren nach
+Inkrafttreten des Gesetzes zur Modernisierung des
+Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem
+Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form zu
+den mit der Einführung der neuen Verkehrsformen verfolgten Zielen und
+deren Auswirkungen auf Klimaschutz und Nachhaltigkeit vor. Absatz 1
+Satz 2 gilt entsprechend.
 

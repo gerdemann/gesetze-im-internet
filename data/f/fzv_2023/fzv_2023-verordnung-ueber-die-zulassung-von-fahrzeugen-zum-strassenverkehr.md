@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2025 I Nr. 382
-
-Änderung durch
-:   Art. 2 V v. 5.3.2026 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 5.3.2026 I Nr. 63
 
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 
@@ -40,6 +37,225 @@ Diese Verordnung ist anzuwenden auf
 
 
 
+
+
+### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000302123)
+
+Im Sinne dieser Verordnung ist
+
+1.  Kraftfahrzeug: nicht dauerhaft spurgeführtes Landfahrzeug, das durch
+    Maschinenkraft bewegt wird;
+
+
+2.  Anhänger: zum Anhängen an ein Kraftfahrzeug bestimmtes und geeignetes
+    Fahrzeug;
+
+
+3.  Fahrzeug: Kraftfahrzeug und dessen Anhänger;
+
+
+4.  EU-Typgenehmigung: die von einem Mitgliedstaat der Europäischen Union
+    erteilte Typgenehmigung in Anwendung
+
+    a)  der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des
+        Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung
+        von land- und forstwirtschaftlichen Fahrzeugen (ABl. L 60 vom
+        2\.3.2013, S. 1) in der jeweils geltenden Fassung,
+
+
+    b)  der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des
+        Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung
+        von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom
+        2\.3.2013, S. 52; L 77 vom 23.3.2016, S. 65; L 64 vom 10.3.2017, S.
+        116; L 398 vom 11.11.2021, S. 54) in der jeweils geltenden Fassung und
+
+
+    c)  der Verordnung (EU) Nr. 2018/858 des Europäischen Parlaments und des
+        Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung
+        von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen,
+        Bauteilen und selbstständigen technischen Einheiten für diese
+        Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG)
+        Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. Nr. L
+        151 vom 14.06.2018, S. 1) in der jeweils geltenden Fassung;
+
+
+
+
+
+5.  nationale Typgenehmigung: die behördliche Bestätigung, dass der zur
+    Prüfung vorgestellte Typ eines Fahrzeuges, eines Systems, eines
+    Bauteils oder einer selbstständigen technischen Einheit den geltenden
+    Bauvorschriften entspricht;
+
+
+6.  Fahrzeug-Einzelgenehmigung: die von einem Mitgliedstaat der
+    Europäischen Union (Mitgliedstaat) in Anwendung der Verordnung (EU)
+    2018/858 erteilte Bestätigung, dass ein bestimmtes einzelnes Fahrzeug,
+    das eine oder keine Einzelausführung darstellt, den einschlägigen
+    Vorschriften und technischen Anforderungen für die EU-Fahrzeug-
+    Einzelgenehmigung entspricht oder eine in Anwendung der
+    Straßenverkehrs-Zulassungs-Ordnung erteilte behördliche Bestätigung,
+    dass das betreffende Fahrzeug, System, Bauteil oder die selbstständige
+    technische Einheit den geltenden Bauvorschriften entspricht;
+
+
+7.  Übereinstimmungsbescheinigung: das in Anwendung der Artikel 36 und 37
+    der Verordnung (EU) Nr. 2018/858, des Artikels 38 der Verordnung (EU)
+    Nr. 168/2013 und des Artikels 33 der Verordnung (EU) Nr. 167/2013
+    ausgestellte Dokument;
+
+
+8.  Datenbestätigung: die vom Inhaber einer nationalen Typgenehmigung für
+    Fahrzeuge ausgestellte Bescheinigung, dass das Fahrzeug zum Zeitpunkt
+    seiner Herstellung dem genehmigten Typ und den ausgewiesenen Angaben
+    über die Beschaffenheit entspricht;
+
+
+9.  Kraftrad: zweirädriges Kraftfahrzeug mit oder ohne Beiwagen, mit einem
+    Hubraum von mehr als 50 Kubikzentimetern im Fall eines
+    Verbrennungsmotors, oder mit einer bauartbedingten
+    Höchstgeschwindigkeit von mehr als 45 Kilometern pro Stunde;
+
+
+10. Leichtkraftrad: Kraftrad mit einer Nennleistung von nicht mehr als 11
+    Kilowatt und im Fall eines Verbrennungsmotors mit einem Hubraum von
+    mehr als 50 Kubikzentimetern und höchstens 125 Kubikzentimetern;
+
+
+11. Kleinkraftrad: zweirädriges oder dreirädriges Kraftfahrzeug mit einer
+    bauartbedingten Höchstgeschwindigkeit von nicht mehr als 45 Kilometern
+    pro Stunde und folgenden Eigenschaften:
+
+    a)  zweirädriges Kleinkraftrad mit Verbrennungsmotor, dessen Hubraum nicht
+        mehr als 50 Kubikzentimeter beträgt, oder mit Elektromotor, dessen
+        höchste Nenndauerleistung nicht mehr als 4 Kilowatt beträgt;
+
+
+    b)  dreirädriges Kleinkraftrad mit Fremdzündungsmotor, dessen Hubraum
+        nicht mehr als 50 Kubikzentimeter beträgt, mit einem anderen
+        Verbrennungsmotor, dessen höchste Nutzleistung nicht mehr als 4
+        Kilowatt beträgt, oder mit einem Elektromotor, dessen höchste
+        Nenndauerleistung nicht mehr als 4 Kilowatt beträgt;
+
+
+
+
+
+12. leichtes vierrädriges Kraftfahrzeug: leichtes vierrädriges
+    Kraftfahrzeug im Sinne des Artikels 4 Absatz 2 Buchstabe f in
+    Verbindung mit dem Anhang I der Verordnung (EU) Nr. 168/2013;
+
+
+13. motorisierter Krankenfahrstuhl: einsitziges, nach der Bauart zum
+    Gebrauch durch körperlich behinderte Personen bestimmtes Kraftfahrzeug
+    mit Elektroantrieb, einer Leermasse von nicht mehr als 300 Kilogramm
+    einschließlich Batterie, jedoch ohne Fahrer, einer zulässigen
+    Gesamtmasse von nicht mehr als 500 Kilogramm, einer bauartbedingten
+    Höchstgeschwindigkeit von nicht mehr als 15 Kilometern pro Stunde und
+    einer Breite von höchstens 110 Zentimetern;
+
+
+14. Zugmaschine: Kraftfahrzeug, das nach seiner Bauart überwiegend zum
+    Ziehen von Anhängern bestimmt und geeignet ist;
+
+
+15. Sattelzugmaschine: Zugmaschine für Sattelanhänger;
+
+
+16. land- oder forstwirtschaftliche Zugmaschine: Kraftfahrzeug, dessen
+    Funktion im Wesentlichen in der Erzeugung einer Zugkraft besteht und
+    das besonders zum Ziehen, Schieben, Tragen und zum Antrieb von
+    auswechselbaren Geräten für land- oder forstwirtschaftliche Arbeiten
+    oder zum Ziehen von Anhängern in land- oder forstwirtschaftlichen
+    Betrieben bestimmt und geeignet ist, auch wenn es zum Transport von
+    Lasten im Zusammenhang mit land- oder forstwirtschaftlichen Arbeiten
+    eingerichtet oder mit Beifahrersitzen ausgestattet ist;
+
+
+17. selbstfahrende Arbeitsmaschine: Kraftfahrzeug, das nach seiner Bauart
+    und seinen besonderen, mit dem Fahrzeug fest verbundenen Einrichtungen
+    zur Verrichtung von Arbeiten, jedoch nicht zur Beförderung von
+    Personen oder Gütern bestimmt und geeignet ist;
+
+
+18. Stapler: Kraftfahrzeug, das nach seiner Bauart für das Aufnehmen,
+    Heben, Bewegen und Positionieren von Lasten bestimmt und geeignet ist;
+
+
+19. Sattelanhänger: Anhänger, der mit einem Kraftfahrzeug so verbunden
+    ist, dass er teilweise auf dem Kraftfahrzeug aufliegt und ein
+    wesentlicher Teil seines Gewichts oder seiner Ladung von dem
+    Kraftfahrzeug getragen wird;
+
+
+20. land- oder forstwirtschaftliches Arbeitsgerät: Gerät zum Einsatz in
+    der Land- und Forstwirtschaft, welches dazu bestimmt ist, von einer
+    Zugmaschine gezogen zu werden und die Funktion der Zugmaschine
+    verändert oder erweitert;
+
+
+21. Sitzkarren: einachsiger Anhänger, der nach seiner Bauart nur dazu
+    bestimmt und geeignet ist, einer Person das Führen einer einachsigen
+    Zug- oder Arbeitsmaschine von einem Sitz aus zu ermöglichen;
+
+
+22. Oldtimer: Fahrzeug, das zum Zeitpunkt seiner Begutachtung als Oldtimer
+    vor mindestens 30 Jahren erstmals in Verkehr gekommen ist,
+    weitestgehend dem Originalzustand entspricht, in einem guten
+    Erhaltungszustand ist und zur Pflege des kraftfahrzeugtechnischen
+    Kulturgutes dient;
+
+
+23. Probefahrt: die Fahrt zur Feststellung und zum Nachweis der
+    Gebrauchsfähigkeit des Fahrzeuges;
+
+
+24. Prüfungsfahrt: die Fahrt zur Durchführung der Prüfung eines Fahrzeuges
+    durch einen Berechtigten eines benannten Technischen Dienstes, einer
+    Technischen Prüfstelle für den Kraftfahrzeugverkehr oder einer
+    anerkannten Überwachungsorganisation nach Anlage VIIIb der
+    Straßenverkehrs-Zulassungs-Ordnung einschließlich der Fahrt des
+    Fahrzeuges zum Prüfungsort und zurück;
+
+
+25. Überführungsfahrt: die Fahrt zur Überführung des Fahrzeuges an einen
+    anderen Ort, auch zur Durchführung von Um- oder Aufbauten.
+
+
+
+Die nationale Typgenehmigung nach Satz 1 Nummer 5 ist eine
+Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine
+Allgemeine Betriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-
+Ordnung. Die Fahrzeug-Einzelgenehmigung nach Satz 1 Nummer 6 ist eine
+Betriebserlaubnis im Sinne des Straßenverkehrsgesetzes und eine
+Einzelbetriebserlaubnis im Sinne der Straßenverkehrs-Zulassungs-
+Ordnung. Unter den Begriff der selbstfahrenden Arbeitsmaschine nach
+Satz 1 Nummer 17 fällt auch
+
+1.  ein selbstfahrender Futtermischwagen mit einer bauartbedingten
+    Höchstgeschwindigkeit von nicht mehr als 25 Kilometern pro Stunde,
+
+
+2.  ein Holzrückefahrzeug mit einer bauartbedingten Höchstgeschwindigkeit
+    von nicht mehr als 25 Kilometern pro Stunde, das mit einer Vorrichtung
+    für Lade- und Sortierprozesse ausgerüstet ist und dessen im
+    öffentlichen Straßenverkehr zulässige Nutzlast 500 Kilogramm nicht
+    überschreitet.
+
+
+
+Ein land- oder forstwirtschaftliches Arbeitsgerät nach Satz 1 Nummer
+20 kann auch mit einer Ladeplattform ausgestattet sein, die für die
+Aufnahme der zur Ausführung der Arbeiten erforderlichen Geräte und
+Vorrichtungen oder die für die zeitweilige Lagerung der bei der Arbeit
+erzeugten und benötigten Materialien konstruiert und gebaut ist. Des
+Weiteren zählt zu einem land- oder forstwirtschaftlichen Arbeitsgerät
+nach Satz 1 Nummer 20 auch ein Fahrzeug, das dazu bestimmt ist, von
+einer Zugmaschine gezogen zu werden, und das dauerhaft mit einem Gerät
+ausgerüstet oder für die Bearbeitung von Materialien ausgelegt ist,
+sofern der Quotient zwischen der technisch zulässigen Gesamtmasse und
+der Leermasse dieses Fahrzeuges weniger als 3,0 beträgt.
 
 
 ### § 3 Notwendigkeit einer Zulassung
@@ -165,6 +381,99 @@ zulassungspflichtigen Fahrzeuges nur anordnen oder zulassen, wenn das
 Fahrzeug zugelassen ist.
 
 
+### § 4 Voraussetzungen für die Inbetriebsetzung eines zulassungsfreien Fahrzeuges
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000501123)
+
+(1) Ein zulassungsfreies Fahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1
+Buchstabe a bis f und Nummer 2 Buchstabe a bis g sowie ein land- oder
+forstwirtschaftliches Arbeitsgerät mit einer zulässigen Gesamtmasse
+von mehr als drei Tonnen darf von der das Fahrzeug führenden Person
+auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn es einem
+genehmigten Typ entspricht oder eine Fahrzeug-Einzelgenehmigung
+erteilt ist.
+
+(2) Eine das Fahrzeug führende Person darf folgende Fahrzeuge nach
+Absatz 1 auf öffentlichen Straßen nur dann in Betrieb setzen, wenn das
+jeweilige Fahrzeug zudem ein Kennzeichen nach § 9 Absatz 1 Satz 1
+führt:
+
+1.  Kraftfahrzeuge nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe a und b mit
+    einer bauartbedingten Höchstgeschwindigkeit von mehr als 20 Kilometern
+    pro Stunde,
+
+
+2.  Kraftfahrzeuge nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe c,
+
+
+3.  Anhänger nach § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe d und e, die
+    nicht für eine Höchstgeschwindigkeit von nicht mehr als 25 Kilometern
+    pro Stunde in der durch § 58 Absatz 1 der Straßenverkehrs-Zulassungs-
+    Ordnung vorgeschriebenen Weise gekennzeichnet sind.
+
+
+
+Auf die Zuteilung des Kennzeichens sind die Bestimmungen über die
+Kennzeichenzuteilung im Zulassungsverfahren mit Ausnahme der
+Vorschriften über die Zulassungsbescheinigung Teil II anzuwenden.
+
+(3) Eine das Fahrzeug führende Person darf ein Kraftfahrzeug nach § 3
+Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f nur dann auf öffentlichen
+Straßen in Betrieb setzen, wenn es ein gültiges
+Versicherungskennzeichen nach § 52 Absatz 1 Satz 1 führt. Besteht
+keine Versicherungspflicht, darf das Fahrzeug nur mit einem
+Kennzeichen nach § 9 Absatz 1 Satz 1 in Betrieb gesetzt werden, sofern
+nicht von einer Ausstellung des Versicherungskennzeichens nach § 52
+Absatz 4 Satz 1 Gebrauch gemacht wird. Im Fall des Satzes 2 sind auf
+die Zuteilung des Kennzeichens die Bestimmungen über die
+Kennzeichenzuteilung im Zulassungsverfahren mit Ausnahme der
+Vorschriften über die Zulassungsbescheinigung Teil II anzuwenden.
+
+(4) Ein Kraftfahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe a
+und b mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr
+als 20 Kilometern pro Stunde muss der Halter zum Betrieb auf
+öffentlichen Straßen zudem mit seinem Vornamen, Namen und Wohnort oder
+der Bezeichnung seiner Firma und deren Sitz kennzeichnen, wobei die
+Angaben vom Halter dauerhaft und deutlich lesbar auf der linken Seite
+des Fahrzeuges anzubringen sind. Ein motorisierter Krankenfahrstuhl
+nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe e muss zum Betrieb auf
+öffentlichen Straßen zudem vom Halter mit einer Kennzeichnungstafel
+nach der Regelung Nr. 69 der Wirtschaftskommission der Vereinten
+Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die
+Genehmigung von Tafeln zur hinteren Kennzeichnung von bauartbedingt
+langsam fahrenden Kraftfahrzeugen und ihrer Anhänger vom 24. Oktober
+2009 (ABl. L 200 vom 31.7.2010, S. 1) gekennzeichnet sein, die an der
+Fahrzeugrückseite oben anzubringen ist.
+
+(5) Wird ein Fahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe a
+bis f und Nummer 2, für das keine Zulassungsbescheinigung Teil I
+ausgestellt wurde, auf öffentlichen Straßen geführt oder mitgeführt,
+so ist von der das Fahrzeug führenden Person die
+Übereinstimmungsbescheinigung, die Datenbestätigung oder die
+Bescheinigung über die Fahrzeug-Einzelgenehmigung mitzuführen und
+zuständigen Personen auf Verlangen zur Prüfung auszuhändigen. Bei
+einer einachsigen Zugmaschine nach § 3 Absatz 3 Satz 1 Nummer 1
+Buchstabe b und Anhängern nach § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe
+a, c, d, g und h genügt es, wenn die das Fahrzeug führende Person im
+Fall des Satzes 1 die Übereinstimmungsbescheinigung, die
+Datenbestätigung oder die Bescheinigung über die Fahrzeug-
+Einzelgenehmigung nach Satz 1 aufbewahrt und zuständigen Personen auf
+Verlangen zur Prüfung aushändigt.
+
+(6) Der Halter darf die Inbetriebsetzung eines Fahrzeuges auf
+öffentlichen Straßen nur anordnen oder zulassen, wenn das Fahrzeug
+
+1.  in den Fällen des Absatz 1 einem genehmigten Typ entspricht oder eine
+    Fahrzeug-Einzelgenehmigung erteilt ist und
+
+
+2.  in den Fällen des Absatz 2 Satz 1 und Absatz 3 Satz 2 ein Kennzeichen
+    oder in den Fällen des Absatz 3 Satz 1 ein Versicherungskennzeichen
+    führt.
+
+
+
+
+
 ### § 5 Beschränkung und Untersagung des Betriebs von Fahrzeugen
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000600000)
 
@@ -211,6 +520,311 @@ mehrere Anordnungen nach Satz 1 treffen.
 
 ## Abschnitt 2 - Zulassungsverfahren
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000200000)
+
+
+### § 6 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000702123)
+
+(1) Die Zulassung eines Fahrzeuges ist bei der nach § 75 zuständigen
+Zulassungsbehörde zu beantragen. Im Antrag sind zur Erhebung und
+Speicherung in den Fahrzeugregistern folgende Halterdaten nach § 33
+Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes anzugeben und auf
+Verlangen nachzuweisen:
+
+1.  bei natürlichen Personen:
+
+    Familienname, Geburtsname, Vornamen, vom Halter für die Zuteilung des
+    Kennzeichens angegebener Ordens- oder Künstlername, Geburtsdatum und
+    Geburtsort oder, wenn dieser nicht bekannt ist, Staat der Geburt,
+    Geschlecht und Anschrift des Halters;
+
+
+2.  bei juristischen Personen und Behörden:
+
+    Name oder Bezeichnung und Anschrift;
+
+
+3.  bei Vereinigungen, soweit ihnen ein Recht zustehen kann:
+
+    Name und Anschrift der Vereinigung.
+
+
+
+Bei beruflich selbstständigen Haltern sind außerdem die Daten nach §
+33 Absatz 2 des Straßenverkehrsgesetzes über Beruf oder Gewerbe
+anzugeben und auf Verlangen nachzuweisen.
+
+(2) Ein Halter ohne Wohnsitz und ohne gewöhnlichen Aufenthalt oder
+ohne Sitz und ohne Geschäftsleitung in der Bundesrepublik Deutschland,
+dessen Fahrzeug seinen regelmäßigen Standort in der Bundesrepublik
+Deutschland hat, hat der Zulassungsbehörde auf Verlangen einen
+Empfangsbevollmächtigten in der Bundesrepublik Deutschland zu
+benennen. Dies gilt nicht, wenn der Halter seinen Wohnsitz oder
+gewöhnlichen Aufenthalt oder seinen Sitz oder seine Geschäftsleitung
+
+1.  in einem Mitgliedstaat oder einem Vertragsstaat des Abkommens über den
+    Europäischen Wirtschaftsraum (Vertragsstaat) hat, in den eine
+    Zustellung nach § 9 Absatz 1 Nummer 1 oder Nummer 4 des
+    Verwaltungszustellungsgesetzes möglich ist, oder
+
+
+2.  in einem Staat hat, in dem das Europäische Übereinkommen vom 24.
+    November 1977 über die Zustellung von Schriftstücken in
+    Verwaltungssachen im Ausland (BGBl. 1981 II S. 533, 535) in Kraft ist.
+
+
+
+
+(3) Mit dem Antrag ist die Zulassungsbescheinigung Teil II vorzulegen.
+Wenn diese noch nicht vorhanden ist, ist ihre Ausfertigung nach § 14
+zu beantragen.
+
+(4) Bei erstmaliger Zulassung (Erstzulassung) sind folgende Nachweise
+zu führen:
+
+1.  bei einem Fahrzeug mit EU-Typgenehmigung der Nachweis, dass das
+    Fahrzeug einem Typ entspricht, für den eine EU-Typgenehmigung
+    vorliegt, durch Vorlage der Übereinstimmungsbescheinigung,
+
+
+2.  bei einem Fahrzeug mit nationaler Typgenehmigung der Nachweis, dass
+    das Fahrzeug einem Typ entspricht, für den eine nationale
+    Typgenehmigung vorliegt, durch
+
+    a)  die Vorlage der Zulassungsbescheinigung Teil II mit eingetragener Typ-
+        sowie Varianten-/Versionsschlüsselnummer nach § 20 Absatz 3a Satz 6
+        der Straßenverkehrs-Zulassungs-Ordnung oder
+
+
+    b)  die nach § 20 Absatz 3a Satz 1 der Straßenverkehrs-Zulassungs-Ordnung
+        vorgeschriebene Datenbestätigung,
+
+
+
+
+
+3.  bei einem Fahrzeug mit Fahrzeug-Einzelgenehmigung der Nachweis, dass
+    für das Fahrzeug eine Fahrzeug-Einzelgenehmigung vorliegt, durch
+    Vorlage der entsprechenden Bescheinigung,
+
+
+4.  bei einem im Sinne des § 3 Absatz 3 zulassungsfreien Fahrzeug durch
+    Vorlage der Übereinstimmungsbescheinigung, der Datenbestätigung oder
+    der Bescheinigung über die Fahrzeug-Einzelgenehmigung.
+
+
+
+Die Nachweise nach Satz 1 sind mit dem Antrag auf Erstzulassung
+vorzulegen. Der Nachweis nach Satz 1 Nummer 1 gilt als geführt, wenn
+die Daten der Übereinstimmungsbescheinigung zu diesem Fahrzeug von der
+zuständigen Zulassungsbehörde unter Angabe der Fahrzeug-
+Identifizierungsnummer abgerufen worden sind aus
+
+1.  der Zentralen Datenbank der Übereinstimmungsbescheinigungen des
+    Kraftfahrt-Bundesamtes oder
+
+
+2.  der Datenbank der Übereinstimmungsbescheinigungen eines anderen
+    Mitgliedstaates, sofern sie in der in Nummer 1 bezeichneten Datenbank
+    nicht vorliegen.
+
+
+
+
+(5) Im Antrag sind zur Erhebung und Speicherung in den
+Fahrzeugregistern zusätzlich folgende Fahrzeugdaten, sofern
+zutreffend, anzugeben und auf Verlangen nachzuweisen:
+
+1.  die Verwendung des Fahrzeuges als Taxi, als Mietwagen, zur Vermietung
+    an Selbstfahrer, im freigestellten Schülerverkehr, als Kraftomnibus
+    oder Oberleitungsomnibus im Linienverkehr oder eine sonstige
+    Verwendung, sofern sie nach dieser Verordnung oder einer sonstigen auf
+    § 6 des Straßenverkehrsgesetzes beruhenden Rechtsvorschrift der
+    Zulassungsbehörde anzuzeigen ist oder in der Zulassungsbescheinigung
+    Teil I einzutragen ist,
+
+
+2.  Name und Anschrift des Verfügungsberechtigten über die
+    Zulassungsbescheinigung Teil II, sofern eine solche ausgefertigt
+    worden ist,
+
+
+3.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  Name und Anschrift oder Schlüsselnummer des Versicherers,
+
+
+    b)  Nummer des Versicherungsscheins oder der Versicherungsbestätigung und
+
+
+    c)  Beginn des Versicherungsschutzes oder
+
+
+    d)  die Angabe, dass der Halter von der gesetzlichen Versicherungspflicht
+        befreit ist,
+
+
+
+
+
+4.  Name und Anschrift des Empfangsbevollmächtigten oder Name und
+    Anschrift des gesetzlichen oder benannten Vertreters und
+
+
+5.  Anschrift des regelmäßigen Standortes des Fahrzeuges im Fall des
+    Absatzes 2 in Verbindung mit § 75 Absatz 2 Satz 3.
+
+
+
+
+(6) In Fällen des innergemeinschaftlichen Erwerbs neuer Kraftfahrzeuge
+im Sinne des § 1b Absatz 2 und 3 des Umsatzsteuergesetzes sind die
+folgenden Daten, soweit diese der Zulassungsbehörde nicht bereits
+vorliegen, zur Übermittlung an die zuständigen Finanzbehörden
+anzugeben und auf Verlangen nachzuweisen:
+
+1.  Name und Anschrift des Antragstellers sowie das für ihn nach § 21 der
+    Abgabenordnung zuständige Finanzamt,
+
+
+2.  Name und Anschrift des Lieferers,
+
+
+3.  Tag der Lieferung,
+
+
+4.  Tag der ersten Inbetriebsetzung,
+
+
+5.  Kilometerstand am Tag der Lieferung,
+
+
+6.  Fahrzeugart, Fahrzeughersteller oder Marke, Fahrzeugtyp und Fahrzeug-
+    Identifizierungsnummer und
+
+
+7.  Verwendungszweck.
+
+
+
+
+(7) Sofern das Fahrzeug aus einem Staat, der nicht Mitgliedstaat oder
+nicht anderer Vertragsstaat ist, eingeführt oder aus dem Besitz der im
+Bundesgebiet stationierten ausländischen Streitkräfte, der im
+Bundesgebiet errichteten internationalen militärischen Hauptquartiere
+oder ihrer Mitglieder erworben wurde, so ist mit dem Antrag der
+Verzollungsnachweis vorzulegen. Wird dieser nicht vorgelegt, hat die
+Zulassungsbehörde das zuständige Hauptzollamt über die Zulassung zu
+unterrichten.
+
+(8) Zusätzlich zu den Daten nach Absatz 5 sind zur Erhebung und
+Speicherung in den Fahrzeugregistern mit dem Antrag folgende
+Fahrzeugdaten anzugeben und auf Verlangen nachzuweisen, sofern sie
+nicht in den mit dem Antrag vorzulegenden Unterlagen enthalten sind:
+
+1.  Fahrzeugklasse und Art des Aufbaus,
+
+
+2.  Marke, Typ, Variante, Version und Handelsbezeichnung des Fahrzeuges
+    sowie, wenn für das Fahrzeug eine EU-Typgenehmigung oder eine
+    nationale Typgenehmigung erteilt worden ist, die Nummer und das Datum
+    der Erteilung der Genehmigung, soweit diese Angaben feststellbar sind,
+
+
+3.  Fahrzeug-Identifizierungsnummer,
+
+
+4.  bei Personenkraftwagen: die vom Hersteller auf dem Fahrzeug
+    angebrachte Farbe,
+
+
+5.  Datum der Erstzulassung oder ersten Inbetriebsetzung des Fahrzeuges,
+
+
+6.  bei Zuteilung eines neuen Kennzeichens nach Entstempelung oder
+    Abhandenkommen des bisherigen Kennzeichens das bisherige Kennzeichen,
+
+
+7.  zur Beschaffenheit und Ausrüstung des Fahrzeuges:
+
+    a)  Kraftstoffart oder Energiequelle,
+
+
+    b)  Höchstgeschwindigkeit in Kilometern pro Stunde,
+
+
+    c)  Hubraum in Kubikzentimetern,
+
+
+    d)  technisch zulässige Gesamtmasse in Kilogramm, Masse des in Betrieb
+        befindlichen Fahrzeuges (Leermasse) in Kilogramm, Stützlast in
+        Kilogramm, technisch zulässige Anhängelast – gebremst und ungebremst –
+        in Kilogramm, technisch zulässige maximale Achslast/Masse je
+        Achsgruppe in Kilogramm und bei Krafträdern das Leistungsgewicht in
+        Kilowatt/Kilogramm,
+
+
+    e)  Zahl der Achsen und der Antriebsachsen,
+
+
+    f)  Zahl der Sitzplätze einschließlich Fahrersitz und Zahl der Stehplätze,
+
+
+    g)  Rauminhalt des Tanks bei Tankfahrzeugen in Kubikmetern,
+
+
+    h)  Nennleistung in Kilowatt und Nenndrehzahl in min
+        –1,
+
+
+    i)  Abgaswert für Kohlenstoffdioxid in Gramm pro Kilometer,
+
+
+    j)  Länge, Breite und Höhe jeweils als Maße über alles in Millimetern,
+
+
+    k)  eine Größenbezeichnung der Bereifung je Achse, die in der EU-
+        Typgenehmigung, nationalen Typgenehmigung oder Fahrzeug-
+        Einzelgenehmigung bezeichnet wurde oder in dem zum Zweck der Erteilung
+        einer Einzelgenehmigung nach § 21 der Straßenverkehrs-Zulassungs-
+        Ordnung erstellten Gutachten als vorschriftsmäßig bescheinigt wurde,
+
+
+    l)  Standgeräusch in Dezibel (A) mit Drehzahl bei min
+        –1 und Fahrgeräusch in Dezibel (A),
+
+
+
+
+
+8.  bei Fahrzeugen mit autonomen oder automatisierten Fahrfunktionen:
+
+    a)  die Nummer, die ausstellende Behörde und das Datum der
+        Betriebserlaubnis,
+
+
+    b)  die Nummer, die ausstellende Behörde und das Datum der
+        Erprobungsgenehmigung,
+
+
+    c)  die Nummer, die ausstellende Behörde und das Datum der
+        Betriebsbereichsgenehmigung sowie
+
+
+    d)  Angaben zur Ausrüstung mit autonomen oder automatisierten Fahr- und
+        Zusatzfunktionen.
+
+
+
+
+
+
+Die Zulassungsbehörde kann bei fehlenden Fahrzeugdaten die Vorlage
+eines Gutachtens anfordern, das von einem amtlich anerkannten
+Sachverständigen für den Kraftfahrzeugverkehr oder von einem
+Unterschriftsberechtigten eines zur Prüfung von Gesamtfahrzeugen der
+jeweiligen Fahrzeugklasse benannten Technischen Dienstes erstellt
+worden ist und aus dem sich die fehlenden Fahrzeugdaten ergeben.
 
 
 ### § 7 Tageszulassung
@@ -264,6 +878,263 @@ in Betrieb gesetzt werden. Bei der Inbetriebsetzung des Fahrzeuges auf
 öffentlichen Straßen hat die das Fahrzeug führende Person den
 vorläufigen Zulassungsnachweis bis zum Ablauf des Tages der
 Erstzulassung von außen gut lesbar im Fahrzeug auszulegen.
+
+
+### § 8 Zulassung in der Bundesrepublik Deutschland nach vorheriger Zulassung in einem anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000901123)
+
+(1) Die Zulassungsbehörde ist befugt, unter Übermittlung des
+Kennzeichens oder der Fahrzeug-Identifizierungsnummer oder weiterer
+Fahrzeugdaten Auskünfte aus ausländischen Registern, auch über
+nationale Kontaktstellen, oder von ausländischen Stellen einzuholen,
+soweit dies im Rahmen der Zulassung eines Fahrzeuges, zur Prüfung
+einer vorherigen oder anderen Zulassung, der Identität oder der
+Rechtslage hinsichtlich dieses Fahrzeuges erforderlich ist. Sofern die
+ausländische Zulassungsbescheinigung aus zwei Teilen besteht, kann bei
+Fehlen des Teils II das Fahrzeug nur zugelassen werden, wenn über das
+Kraftfahrt-Bundesamt die Bestätigung der zuständigen ausländischen
+Behörde über die frühere Zulassung eingeholt wurde. Mit dem Antrag auf
+Zulassung ist die Nummer der ausländischen Zulassungsbescheinigung
+oder sind die Nummern der Teile I und II der ausländischen
+Zulassungsbescheinigungen zur Erhebung und Speicherung im Zentralen
+Fahrzeugregister mit dem Antrag auf Zulassung nachzuweisen.
+
+(2) Bei einem Fahrzeug, für das eine EU-Typgenehmigung vorliegt und
+das bereits in einem anderen Mitgliedstaat oder in einem anderen
+Vertragsstaat in Betrieb war, ist vor der Zulassung eine Untersuchung
+nach § 29 der Straßenverkehrs-Zulassungs-Ordnung durchzuführen, wenn
+bei Anwendung der Anlage VIII Abschnitt 2 der Straßenverkehrs-
+Zulassungs-Ordnung zwischenzeitlich eine Untersuchung hätte
+stattfinden müssen. Satz 1 gilt nicht, wenn eine Untersuchung im Sinne
+der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates
+vom 3. April 2014 über die regelmäßige technische Überwachung von
+Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der
+Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2014, S. 51; L 334 vom
+22\.12.2015, S. 66; L 219 vom 22.8.2019, S. 25) in der jeweils
+geltenden Fassung in einem anderen Mitgliedstaat oder in einem anderen
+Vertragsstaat, in dem das Fahrzeug in Betrieb war, nachgewiesen wird.
+Hinsichtlich der Frist für die nächste Hauptuntersuchung gilt
+Abschnitt 2 der Anlage VIII der Straßenverkehrs-Zulassungs-Ordnung.
+Der Antragsteller hat nachzuweisen, wann das Fahrzeug in einem
+Mitgliedstaat oder in einem anderen Vertragsstaat erstmals in Betrieb
+gesetzt worden ist. Kann dieser Nachweis nicht erbracht werden, ist
+vor der Zulassung eine Untersuchung nach § 29 der Straßenverkehrs-
+Zulassungs-Ordnung durchzuführen.
+
+(3) Bei einem Fahrzeug, für das eine EU-Typgenehmigung vorliegt und
+das in einem Staat außerhalb der Europäischen Union oder außerhalb des
+Europäischen Wirtschaftsraums in Betrieb war, ist vor der Zulassung
+eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
+durchzuführen.
+
+(4) Die Zulassungsbehörde hat die ausländische Zulassungsbescheinigung
+einzuziehen, ab dem Zeitpunkt der Einziehung sechs Monate
+aufzubewahren und nach Ablauf der Aufbewahrungsfrist unverzüglich zu
+vernichten. Sie hat das Kraftfahrt-Bundesamt über die Einziehung
+umgehend, spätestens innerhalb eines Monats, elektronisch zu
+unterrichten. Ausführungsregelungen zur technisch-organisatorischen
+Ausgestaltung der Datenübermittlung hat das Kraftfahrt-Bundesamt
+festzulegen und auf seiner Internetseite in entsprechenden Standards
+rechtzeitig zu veröffentlichen. Das Kraftfahrt-Bundesamt hat auf
+Änderungen im Verkehrsblatt hinzuweisen. Auf Verlangen der zuständigen
+ausländischen Behörde hat die Zulassungsbehörde die nach Satz 1
+eingezogene Zulassungsbescheinigung innerhalb der Aufbewahrungsfrist
+über das Kraftfahrt-Bundesamt zurückzusenden. Bei berechtigtem
+Interesse des Antragstellers ist die eingezogene ausländische
+Zulassungsbescheinigung auf Antrag zu entwerten und dem Antragsteller
+auszuhändigen.
+
+
+### § 9 Zuteilung von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001001123)
+
+(1) Die Zulassungsbehörde hat dem Fahrzeug ein Kennzeichen zuzuteilen,
+um eine Identifizierung des Halters zu ermöglichen. Das Kennzeichen
+hat zu bestehen aus
+
+1.  einem Unterscheidungszeichen mit ein bis drei Buchstaben für den
+    Verwaltungsbezirk, in dem das Fahrzeug zugelassen ist, und
+
+
+2.  einer auf das einzelne Fahrzeug bezogenen Erkennungsnummer.
+
+
+
+Die Zeichenkombination der Erkennungsnummer sowie die Kombination aus
+Unterscheidungszeichen und Erkennungsnummer dürfen nicht gegen die
+guten Sitten verstoßen. Die Zuteilung der Erkennungsnummer hat nach
+Anlage 1 zu erfolgen. Das für die Zuteilung vorgesehene Kennzeichen
+ist dem Antragsteller auf Verlangen vor der Zuteilung mitzuteilen.
+Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der
+Bundesfinanzverwaltung, der Bundespolizei, des Bundeskriminalamts, der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
+Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des
+Diplomatischen Corps und bevorrechtigter internationaler
+Organisationen können besondere Kennzeichen nach Anlage 2 erhalten.
+Die Erkennungsnummern dieser Fahrzeuge dürfen nur aus höchstens
+sechsstelligen Zahlen bestehen.
+
+(2) Bei der Zulassung von zwei Fahrzeugen auf denselben Halter oder
+der Zuteilung eines Kennzeichens für zwei zulassungsfreie
+kennzeichenpflichtige Fahrzeuge desselben Halters ist im Rahmen des
+Absatzes 1 Satz 1 auf dessen Antrag für diese Fahrzeuge ein
+Wechselkennzeichen zuzuteilen, sofern die Fahrzeuge zu der gleichen
+Fahrzeugklasse der Fahrzeugklassen M1, L oder O1 nach Anlage XXIX der
+Straßenverkehrs-Zulassungs-Ordnung gehören und Kennzeichenschilder
+gleicher Anzahl und Abmessungen an den Fahrzeugen verwendet werden
+können. Ein Wechselkennzeichen darf nicht als Saisonkennzeichen, rotes
+Kennzeichen, Kurzzeitkennzeichen oder Ausfuhrkennzeichen ausgeführt
+werden. Das Wechselkennzeichen hat aus einem gemeinsamen
+Kennzeichenteil für alle Fahrzeuge und einem fahrzeugbezogenen Teil
+für jedes einzelne Fahrzeug zu bestehen. Absatz 1 Satz 2 bis 4 gilt
+mit der Maßgabe, dass
+
+1.  Unterscheidungszeichen und der bis auf die letzte Ziffer gleiche Teil
+    der Erkennungsnummer den gemeinsamen Kennzeichenteil bilden und
+
+
+2.  die letzte Ziffer der Erkennungsnummer den jeweiligen
+    fahrzeugbezogenen Teil bildet.
+
+
+
+Ein Wechselkennzeichen darf von der das Fahrzeug führenden Person zur
+selben Zeit nur an einem der Fahrzeuge, für die es zugeteilt worden
+ist, geführt werden. Ein Fahrzeug, für das ein Wechselkennzeichen
+zugeteilt ist, darf von der das Fahrzeug führenden Person auf
+öffentlichen Straßen nur
+
+1.  in Betrieb gesetzt werden oder
+
+
+2.  abgestellt werden,
+
+
+
+wenn das Wechselkennzeichen an diesem Fahrzeug vollständig angebracht
+ist. Der Halter darf
+
+1.  die Inbetriebsetzung eines Fahrzeuges oder
+
+
+2.  das Abstellen eines Fahrzeuges
+
+
+
+auf öffentlichen Straßen nur anordnen oder zulassen, wenn die
+Voraussetzungen nach Satz 6 vorliegen. § 41 Absatz 1 bleibt unberührt.
+
+(3) Die Unterscheidungszeichen der Verwaltungsbezirke werden auf
+Antrag der Länder vom Bundesministerium für Verkehr festgelegt oder
+aufgehoben. Die Buchstabenkombination des Unterscheidungszeichens darf
+nicht gegen die guten Sitten verstoßen. Die Länder können auch die
+Festlegung von mehr als einem Unterscheidungszeichen für einen
+Verwaltungsbezirk beantragen. Die Beantragung eines zusätzlichen
+Unterscheidungszeichens für einen Verwaltungsbezirk kann seitens der
+Länder erfolgen, wenn ohne dieses ein Verbrauch der verfügbaren
+Kennzeichenkombinationen unmittelbar bevorsteht. Die Festlegung und
+Aufhebung der Unterscheidungszeichen ist vom Bundesministerium für
+Verkehr unverzüglich im Bundesanzeiger zu veröffentlichen. Ein
+Kennzeichen, dessen Unterscheidungszeichen aufgehoben ist, darf bis
+zur Außerbetriebsetzung des betroffenen Fahrzeuges weitergeführt
+werden.
+
+(4) Die Zulassungsbehörde kann das zugeteilte Kennzeichen von Amts
+wegen oder auf Antrag ändern. Hierzu kann sie die Vorlage der
+bisherigen abgestempelten Kennzeichenschilder zur Entstempelung sowie
+die Vorführung des Fahrzeuges anordnen.
+
+
+### § 10 Besondere Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001101123)
+
+(1) Auf Antrag ist für ein Fahrzeug, für das ein Gutachten nach § 23
+der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein
+Oldtimerkennzeichen zuzuteilen. Dieses Kennzeichen hat aus einem
+Unterscheidungszeichen und einer Erkennungsnummer nach § 9 Absatz 1 zu
+bestehen. Es hat als Oldtimerkennzeichen den Kennbuchstaben „H“ als
+amtlichen Zusatz hinter der Erkennungsnummer, der von der
+Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil
+II zu vermerken ist, zu führen. Die Zulassungsbehörde kann im
+Einzelfall bei der Berechnung des in § 2 Satz 1 Nummer 22 geforderten
+Mindestzeitraums vor dem Zeitpunkt des erstmaligen Inverkehrbringens
+liegende Zeiten, in denen das Fahrzeug außerhalb des öffentlichen
+Straßenverkehrs in Betrieb war, anrechnen.
+
+(2) Für ein Fahrzeug, dessen Halter von der Kraftfahrzeugsteuer
+befreit ist, ist abweichend von § 12 Absatz 1 ein Kennzeichen mit
+grüner Beschriftung auf weißem Grund (grünes Kennzeichen) zuzuteilen.
+Ausgenommen von Satz 1 sind:
+
+1.  Fahrzeuge von Behörden,
+
+
+2.  Fahrzeuge des Personals von diplomatischen und konsularischen
+    Vertretungen,
+
+
+3.  Kraftomnibusse und Personenkraftwagen mit acht oder neun Sitzplätzen
+    einschließlich Fahrersitz sowie Anhänger, die hinter diesen Fahrzeugen
+    mitgeführt werden, wenn das Fahrzeug überwiegend im Linienverkehr
+    eingesetzt wird,
+
+
+4.  Leichtkrafträder und Kleinkrafträder,
+
+
+5.  Fahrzeuge von schwerbehinderten Personen im Sinne des § 3a Absatz 1
+    und 2 des Kraftfahrzeugsteuergesetzes,
+
+
+6.  besonders emissionsreduzierte Kraftfahrzeuge im Sinne des
+    Kraftfahrzeugsteuergesetzes und
+
+
+7.  Fahrzeuge mit einem Wechselkennzeichen.
+
+
+
+Ein grünes Kennzeichen ist auch für Anhänger zuzuteilen, wenn dies für
+Zwecke der Sonderregelung für Kraftfahrzeuganhänger nach § 10 des
+Kraftfahrzeugsteuergesetzes beantragt wird. Die Zuteilung ist in der
+Zulassungsbescheinigung Teil I zu vermerken.
+
+(3) Auf Antrag ist einem Fahrzeug ein Saisonkennzeichen zuzuteilen. Es
+hat aus einem Unterscheidungszeichen und einer Erkennungsnummer nach §
+9 Absatz 1 zu bestehen und einen Betriebszeitraum als amtlichen Zusatz
+hinter der Erkennungsnummer anzugeben. Der Betriebszeitraum ist auf
+volle Monate zu bemessen. Der Betriebszeitraum muss mindestens zwei
+Monate und darf höchstens elf Monate umfassen und ist von der
+Zulassungsbehörde auch in der Zulassungsbescheinigung Teil I und Teil
+II in Klammern hinter dem Kennzeichen, in den Fällen des Absatz 1 Satz
+3 oder § 11 Absatz 2 Satz 2 hinter dem jeweiligen Kennbuchstaben, zu
+vermerken. Auch grüne Kennzeichen nach Absatz 2 können als
+Saisonkennzeichen zugeteilt werden. Das Fahrzeug darf von der das
+Fahrzeug führenden Person auf öffentlichen Straßen nur während des
+angegebenen Betriebszeitraums
+
+1.  in Betrieb gesetzt werden oder
+
+
+2.  abgestellt werden.
+
+
+
+Der Halter darf
+
+1.  die Inbetriebsetzung eines Fahrzeuges oder
+
+
+2.  das Abstellen eines Fahrzeuges
+
+
+
+auf öffentlichen Straßen nur anordnen oder zulassen, wenn die
+Voraussetzungen nach Satz 6 vorliegen. Saisonkennzeichen gelten
+außerhalb des Betriebszeitraums bei Fahrten zur Außerbetriebsetzung
+und bei Rückfahrten nach Abstempelung der Kennzeichenschilder als
+ungestempelte Kennzeichen im Sinne des § 12 Absatz 4. Die §§ 41 und 42
+bleiben unberührt.
 
 
 ### § 11 Kennzeichnung elektrisch betriebener Fahrzeuge
@@ -324,6 +1195,233 @@ Plaketten für elektrisch betriebene Fahrzeuge gleich.
     Vorschriften und der Vorschriften für die Dienste der
     Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 [^F825991_02_BJNR0C70B0023BJNE001200000]: 
+
+### § 12 Ausgestaltung und Anbringung der Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001302123)
+
+(1) Das Unterscheidungszeichen und die Erkennungsnummern sind mit
+schwarzer Schrift auf weißem schwarz gerandetem Grund auf ein
+Kennzeichenschild aufzubringen. § 41 Absatz 1 und § 43 Absatz 1
+bleiben unberührt.
+
+(2) Ein Kennzeichenschild darf nicht spiegeln, verdeckt oder
+verschmutzt sein und es darf nicht zusätzlich mit Glas, Folien oder
+ähnlichen unzulässigen Abdeckungen versehen sein. Form, Größe und
+Ausgestaltung einschließlich Beschriftung müssen den Mustern,
+Abmessungen und Angaben in Anlage 4 entsprechen. Ein Kennzeichenschild
+muss reflektierend sein und dem Normblatt DIN 74069, Ausgabe Oktober
+2022, Abschnitt 1 bis 8, entsprechen sowie auf der Vorderseite das
+DIN-Prüf- und Überwachungszeichen mit der zugehörigen Registernummer
+tragen. Davon ausgenommen ist ein Kennzeichenschild an einem Fahrzeug
+der Bundeswehr nach Anlage 4 Abschnitt 3 sowie ein Kennzeichenschild
+an einem Fahrzeug der im Bundesgebiet errichteten internationalen
+militärischen Hauptquartiere.
+
+(3) Das Kennzeichenschild mit zugeteiltem Kennzeichen muss der
+Zulassungsbehörde zur Abstempelung durch eine Stempelplakette
+vorgelegt werden. Die Stempelplakette enthält das farbige Wappen des
+Landes, dem die Zulassungsbehörde angehört, die Bezeichnung des
+Landes, die Bezeichnung der Zulassungsbehörde und eine eindeutige
+Druckstücknummer, die für jede Stempelplakette nur einmal vergeben
+sein darf. Die Stempelplakette muss einen verdeckt angebrachten
+Sicherheitscode bergen, der erst durch Freilegen unumkehrbar sichtbar
+gemacht werden kann. Die Stempelplakette muss so beschaffen sein und
+so befestigt werden, dass sie bei einem Entfernen zerstört wird. Die
+Stempelplakette einschließlich Druckstücknummer und Sicherheitscode
+muss die Anforderungen des Abschnitts B der Anlage 5 erfüllen. Ist die
+Stempelplakette auf einem Plakettenträger angebracht, richtet sich die
+Ausgestaltung des Plakettenträgers nach Abschnitt C der Anlage 5. Die
+Stempelplakette und der Plakettenträger müssen dem Normblatt DIN
+74069, Ausgabe Oktober 2022, entsprechen.
+
+(4) Fahrten, die im Zusammenhang mit dem Zulassungsverfahren stehen,
+insbesondere Fahrten zur Anbringung der Stempelplakette sowie Fahrten
+zur Durchführung einer Hauptuntersuchung oder einer
+Sicherheitsprüfung, dürfen innerhalb des Zulassungsbezirks und eines
+angrenzenden Zulassungsbezirks mit ungestempelten Kennzeichenschildern
+durchgeführt werden, wenn die Zulassungsbehörde vorab ein solches
+zugeteilt hat oder eine Reservierung nach § 16 Absatz 1 Satz 5 besteht
+und die Fahrten von der Kraftfahrzeug-Haftpflichtversicherung erfasst
+sind. Rückfahrten nach Entfernung der Stempelplakette dürfen mit dem
+bisher zugeteilten Kennzeichen bis zum Ablauf des Tages der
+Außerbetriebsetzung des Fahrzeuges durchgeführt werden, wenn sie von
+der Kraftfahrzeug-Haftpflichtversicherung erfasst sind.
+
+(5) Kennzeichen müssen an der Vorderseite und an der Rückseite des
+Kraftfahrzeugs vorhanden und fest angebracht sein. Bei
+Wechselkennzeichen im Sinne des § 9 Absatz 2 Satz 3 sind der
+gemeinsame Kennzeichenteil und der fahrzeugbezogene Teil jeweils fest
+anzubringen. Bei einer einachsigen Zugmaschine genügt die Anbringung
+an der Vorderseite, bei einem Anhänger und bei einem Kraftrad die
+Anbringung an deren Rückseite. An einem Fahrzeug der Klasse L5e nach
+dem Artikel 4 Absatz 2 Buchstabe e in Verbindung mit Anhang I der
+Verordnung (EU) 168/2013, das ein amtliches Kennzeichen führt, muss
+kein vorderes Kennzeichen vorhanden sein.
+
+(6) Die Anbringung und Sichtbarkeit des hinteren Kennzeichens müssen
+folgenden Vorgaben entsprechen:
+
+1.  bei einem Fahrzeug nach Maßgabe der Verordnung (EU) Nr. 167/2013 sowie
+    bei einem Fahrzeug, das nach den Baumerkmalen seines Fahrgestells
+    einem Fahrzeug nach Maßgabe der Verordnung (EU) Nr. 167/2013
+    gleichzusetzen ist, den Anforderungen des Anhangs XIX der Delegierten
+    Verordnung (EU) 2015/208 der Kommission vom 8. Dezember 2014 zur
+    Ergänzung der Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments
+    und des Rates hinsichtlich der Anforderungen an die funktionale
+    Sicherheit von Fahrzeugen für die Genehmigung von land- und
+    forstwirtschaftlichen Fahrzeugen (ABl. L 42 vom 17.2.2015, S. 1; L 278
+    vom 14.10.2016, S. 52), in der jeweils geltenden Fassung,
+
+
+2.  bei einem Fahrzeug nach Maßgabe der Verordnung (EU) Nr. 168/2013 sowie
+    bei einem Fahrzeug, das nach den Baumerkmalen seines Fahrgestells
+    einem Fahrzeug nach Maßgabe der Verordnung (EU) Nr. 168/2013
+    gleichzusetzen ist, den Anforderungen des Anhangs XIV der Delegierten
+    Verordnung (EU) Nr. 44/2014 der Kommission vom 21. November 2013 zur
+    Ergänzung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments
+    und des Rates hinsichtlich der Anforderungen an die Bauweise von
+    Fahrzeugen und der allgemeinen Anforderungen im Zusammenhang mit der
+    Typgenehmigung von zwei-, drei- und vierrädrigen Fahrzeugen (ABl. L 25
+    vom 28.1.2014, S. 1), in der jeweils geltenden Fassung,
+
+
+3.  bei einem Fahrzeug nach Maßgabe der Verordnung (EU) 2018/858 sowie bei
+    einem Fahrzeug, das nach den Baumerkmalen seines Fahrgestells einem
+    Fahrzeug nach Maßgabe der Verordnung (EU) 2018/858 gleichzusetzen ist,
+    den Anforderungen des Anhangs III Teil 2 der Durchführungsverordnung
+    (EU) 2021/535 der Kommission vom 31. März 2021 mit
+    Durchführungsbestimmungen zur Verordnung (EU) 2019/2144 des
+    Europäischen Parlaments und des Rates hinsichtlich einheitlicher
+    Verfahren und technischer Spezifikationen für die Typgenehmigung von
+    Fahrzeugen sowie von Systemen, Bauteilen und selbstständigen
+    technischen Einheiten für diese Fahrzeuge im Hinblick auf ihre
+    allgemeinen Baumerkmale und ihre Sicherheit (ABl. L 117 vom 6.4.2021,
+    S. 1), in der jeweils geltenden Fassung, und
+
+
+4.  bei einem anderen als den unter den Nummern 1 bis 3 genannten Fahrzeug
+    wahlweise den Anforderungen nach den Nummern 1 bis 3.
+
+
+
+
+(7) Das hintere Kennzeichen muss eine Beleuchtungseinrichtung haben,
+die eine Genehmigung nach der Regelung Nummer 4 der
+Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) über
+einheitliche Bedingungen für die Genehmigung der
+Beleuchtungseinrichtungen für das hintere Kennzeichenschild von
+Kraftfahrzeugen und ihren Anhängern (ABl. L 31 vom 31.1.2009, S. 35)
+und den Anbauvorschriften der Regelung Nummer 48 der UNECE über
+einheitliche Bedingungen für die Genehmigung von Fahrzeugen
+hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen
+(ABl. L 347 vom 30.9.2021, S. 1) in der jeweils geltenden Fassung
+entspricht und die das ganze Kennzeichen aus einer Entfernung von bis
+zu 20 Metern lesbar macht. Für ein Fahrzeug, dass nach der Verordnung
+(EU) Nr. 168/2013 genehmigt ist, gelten hinsichtlich der
+Beleuchtungseinrichtung für das hintere Kennzeichen die technischen
+Anforderungen im Anhang IX der Delegierten Verordnung (EU) Nr. 3/2014
+der Kommission vom 24. Oktober 2013 zur Ergänzung der Verordnung (EU)
+Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich
+der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die
+Genehmigung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen
+(ABl. L 7 vom 10.1.2014, S. 1). Für Fahrzeuge, die nach der Verordnung
+(EU) Nr. 167/2013 genehmigt sind, gelten hinsichtlich der
+Beleuchtungseinrichtung für das hintere Kennzeichen die technischen
+Anforderungen im Anhang XI und XII der Delegierten Verordnung (EU)
+2015/208.
+
+(8) Das vordere Kennzeichen darf bis zu einem Vertikalwinkel von 30
+Grad gegen die Fahrtrichtung geneigt sein. Der untere Rand des
+vorderen Kennzeichens darf nicht weniger als 200 Millimeter über der
+Fahrbahn liegen und die sonst vorhandene Bodenfreiheit des Fahrzeuges
+nicht verringern. Das vordere und das hintere Kennzeichen müssen in
+einem Winkelbereich von je 30 Grad beiderseits der Fahrzeuglängsachse
+stets aus mindestens 20 Meter Entfernung lesbar sein.
+
+(9) Ein Anhänger nach § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe a bis c,
+f und g sowie Anhänger nach § 3 Absatz 3 Satz 1 Nummer 2 Buchstabe d
+und e, die nicht ein eigenes Kennzeichen nach § 4 Absatz 2 Satz 1 oder
+Absatz 3 Satz 1 führen müssen, haben an der Rückseite ein Kennzeichen
+zu führen, das der Halter des Zugfahrzeuges für eines seiner
+Zugfahrzeuge verwenden darf. Eine Abstempelung ist nicht erforderlich.
+
+(10) Wird das hintere Kennzeichen durch einen Ladungsträger oder durch
+mitgeführte Ladung teilweise oder vollständig verdeckt, so muss am
+Fahrzeug oder am Ladungsträger das Kennzeichen wiederholt werden. Eine
+Abstempelung ist nicht erforderlich. Bei einem Fahrzeug, an dem nach §
+49a Absatz 9 der Straßenverkehrs-Zulassungs-Ordnung Leuchtenträger
+zulässig sind, darf das hintere Kennzeichen auf dem Leuchtenträger
+angebracht sein.
+
+(11) Am Fahrzeug darf außer dem Kennzeichen nur das
+Unterscheidungszeichen für den Zulassungsstaat nach Artikel 37 in
+Verbindung mit Anhang 3 des Übereinkommens vom 8. November 1968 über
+den Straßenverkehr (BGBl. 1977 II S. 809) angebracht werden. Für die
+Bundesrepublik Deutschland ist dies der Großbuchstabe „D“.
+
+(12) Zeichen und Einrichtungen aller Art, die zu Verwechslungen mit
+Kennzeichen oder dem Unterscheidungszeichen nach Absatz 11 Satz 1
+führen oder deren Wirkung beeinträchtigen können, dürfen an Fahrzeugen
+nicht angebracht werden. Über die Anbringung der Zeichen „CD“ für
+Fahrzeuge von Angehörigen diplomatischer Vertretungen und „CC“ für
+Fahrzeuge von Angehörigen konsularischer Vertretungen entscheidet das
+Bundesministerium für Verkehr. Die Zeichen CD und CC dürfen an einem
+Fahrzeug auf öffentlichen Straßen von der das Fahrzeug führenden
+Person nur geführt werden, wenn die Berechtigung in der
+Zulassungsbescheinigung Teil I eingetragen ist. Der Halter darf die
+Inbetriebsetzung eines Fahrzeuges auf öffentlichen Straßen nur
+anordnen oder zulassen, wenn die Voraussetzungen nach Satz 3
+vorliegen.
+
+(13) Unbeschadet des Absatzes 4 darf ein Fahrzeug auf öffentlichen
+Straßen von der das Fahrzeug führenden Person nur in Betrieb gesetzt
+werden, wenn
+
+1.  das zugeteilte Kennzeichen auf einem Kennzeichenschild nach Absatz 1
+    Satz 1, Absatz 2 Satz 1 bis 3, Absatz 5 Satz 1 und 2, Absatz 6, Absatz
+    7, Absatz 8 Satz 1 und Satz 2, Absatz 9 Satz 1 sowie Absatz 10 Satz 1
+    ausgestaltet, angebracht und beleuchtet ist,
+
+
+2.  die Stempelplakette nach Absatz 3 vorhanden ist und
+
+
+3.  keine verwechslungsfähigen oder beeinträchtigenden Zeichen und
+    Einrichtungen nach Absatz 12 Satz 1 am Fahrzeug angebracht sind.
+
+
+
+Der Halter darf die Inbetriebsetzung eines Fahrzeuges nur anordnen
+oder zulassen, wenn die Voraussetzungen nach Satz 1 vorliegen.
+
+(14) Abweichend von Absatz 2 Satz 1 und Absatz 7 dürfen nach § 22a
+Absatz 1 Nummer 21 der Straßenverkehrs-Zulassungs-Ordnung
+bauartgenehmigte Beleuchtungseinrichtungen für hintere transparente
+Kennzeichen oder Beleuchtungseinrichtungen, die mit dem Kennzeichen
+eine Einheit bilden oder bei der sich das Kennzeichen hinter einer
+durchsichtigen, lichtleitenden Abschlussscheibe befindet,
+
+1.  weißes Licht nach hinten abstrahlen oder
+
+
+2.  mit einer Abschlussscheibe vor dem Kennzeichen versehen sein,
+
+
+
+soweit jeweils die Nummern 22 und 22a der Technischen Anforderungen an
+Fahrzeugteile bei der Bauartprüfung nach § 22a StVZO vom 5. Juli 1973
+(VkBl. 1973 S. 558), die zuletzt durch die Bekanntmachung vom 21. Juli
+2006 (VkBl. 2006 S. 645) geändert worden sind, eingehalten werden. Die
+bauartgenehmigte Beleuchtungseinrichtung muss mit dem amtlich
+zugeteilten Prüfzeichen gekennzeichnet sein.
+
+    Absatz 2 in Verbindung mit Anlage 4 und Absatz 3 in Verbindung mit
+    Anlage 5 notifiziert gemäß Richtlinie (EU) 2015/1535 des Europäischen
+    Parlaments und des Rates vom 9. September 2015 über ein
+    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
+    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
+    241 vom 17.9.2015, S. 1).
+[^F825991_03_BJNR0C70B0023BJNE001302123]: 
 
 ### § 13 Zulassungsbescheinigung Teil I
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001400000)
@@ -996,6 +2094,68 @@ werden.
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000400000)
 
 
+#### § 19 Portal
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002001123)
+
+(1) Sofern ein nach dieser Verordnung erforderlicher Antrag
+elektronisch gestellt werden soll, hat dies über das von der
+Zulassungsbehörde hierfür eingerichtete informationstechnische System
+(Portal) zu erfolgen. Nach der Antragstellung werden die in das Portal
+eingegebenen und von diesem Portal erstellten Daten zusammen mit der
+vollständig durch eine automatische Einrichtung des Portals erlassenen
+Entscheidung (automatisierte Entscheidung) an die internen
+informationstechnischen Verfahren der Zulassungsbehörde übermittelt.
+Die Übermittlung erfolgt nach Abruf der automatisierten Entscheidung
+durch die antragstellende Person oder spätestens nach dem Ende deren
+Bereitstellungsdauer. Sofern die maschinelle Prüfung scheitert, wird
+die Entscheidung der Zulassungsbehörde übertragen, ohne dass diese an
+das Ergebnis der maschinellen Vorprüfung im Portal gebunden ist. Die
+Übermittlung der Daten und der automatisierten Entscheidung nach Satz
+2 erfolgt elektronisch über ein vom Kraftfahrt-Bundesamt
+eingerichtetes Verfahren. Die im Portal zu dem jeweiligen Dialog
+gespeicherten Daten sind entweder unverzüglich nach ihrer Übermittlung
+nach Satz 2 oder, bei einem Abbruch des Vorgangs, spätestens 30
+Minuten nach dem Abbruch zu löschen. Können die im Portal zu dem
+jeweiligen Dialog gespeicherten Daten aus technischen Gründen
+vorübergehend nicht nach Satz 2 übermittelt werden, sind sie bis zu
+ihrer Übermittlung nach Satz 2 zu speichern und danach unverzüglich zu
+löschen. Bei der Übermittlung der Daten und der automatisierten
+Entscheidung nach Satz 2 ist anzugeben, dass es sich um die Daten und
+die Entscheidung eines internetbasierten Antrags handelt.
+
+(2) Nach Maßgabe des § 18 Absatz 3 erfolgen
+
+1.  die Datenübermittlung nach Absatz 1 Satz 2 sowie
+
+
+2.  die Datenübermittlung
+
+    a)  zur Verifizierung der elektronischen Versicherungsbestätigung,
+
+
+    b)  für die Kraftfahrzeugsteuerrückstandsprüfung und
+
+
+    c)  zur Verifizierung der Bankverbindung.
+
+
+
+
+
+
+Verfahren, die mit der beantragten Amtshandlung in Zusammenhang
+stehen, ohne hierfür Voraussetzung zu sein, sind nicht an die
+Standards für die Datenübermittlung nach § 18 Absatz 3 Satz 1 Nummer 1
+gebunden, sie müssen jedoch den Standards für die
+Mindestsicherheitsanforderungen an die beteiligten
+informationstechnischen Systeme nach § 18 Absatz 3 Satz 1 Nummer 2 und
+3 entsprechen. Werden im Fall des Satzes 2 die Standards für die
+Datenübermittlung nach § 18 Absatz 3 Satz 1 Nummer 1 nicht beachtet,
+ist durch die Zulassungsbehörden sicherzustellen, dass diese Verfahren
+im Zusammenhang mit der elektronischen Antragstellung nach Absatz 1
+Satz 1 verwendet werden können.
+
+
 #### § 20 Antrag
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002102123)
 
@@ -1284,6 +2444,55 @@ das Kraftfahrt-Bundesamt die Zulassungsbehörde darüber zu
 unterrichten.
 
 
+#### § 23 Bekanntgabe und Wirksamkeit der Entscheidung sowie Vorbehalt der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002401123)
+
+(1) Die Zulassungsbehörde hat der antragstellenden Person die
+automatisierte Entscheidung unmittelbar nach Abschluss des
+maschinellen Prüfungsvorgangs in Form eines Textes in ihrem Portal
+anzuzeigen und gleichzeitig in Form eines schreibgeschützten
+elektronischen Bescheides nach Maßgabe der Vorschriften für das
+jeweilige Zulassungsverfahren in einem üblichen Format in ihrem Portal
+für die Dauer von 30 Minuten zum Abruf durch die antragstellende
+Person bereitzustellen. Sofern der Abruf nicht innerhalb der
+Bereitstellungsdauer nach Satz 1 erfolgt, hat die Zulassungsbehörde
+einen Ausdruck des automatisierten Bescheides an den Halter zu
+übersenden. Im Fall der manuellen Bearbeitung und Entscheidung der
+Zulassungsbehörde nach § 19 Absatz 1 Satz 4 hat die Zulassungsbehörde
+dem Halter die Entscheidung durch Übersendung eines schriftlichen
+Bescheides bekannt zu geben.
+
+(2) Die Zulassung oder ihre Änderung gilt am Tag der Anzeige der
+Entscheidung in Textform und der gleichzeitigen Bereitstellung des
+schreibgeschützten elektronischen Bescheides im Portal der
+Zulassungsbehörde als bekannt gegeben.
+
+(3) Eine automatisierte Entscheidung nach § 19 Absatz 1 Satz 2 steht
+beginnend mit dem Tag, an dem die Zulassung oder ihre Änderung nach
+Absatz 2 wirksam wird, einen Monat unter dem Vorbehalt der
+Nachprüfung, Aufhebung und Neuentscheidung durch die
+Zulassungsbehörde. Die Zulassungsbehörde hat zu gewährleisten, dass
+
+1.  durch Stichproben eine hinreichende Anzahl automatisierter
+    Entscheidungen zur manuellen Nachprüfung ausgewählt wird und, sofern
+    die Entscheidungen automatisiert ausgewählt werden, in regelmäßig
+    festgesetzten Zeitabständen Entscheidungen auch manuell ausgewählt
+    werden und
+
+
+2.  die Arbeitsweise der automatischen Einrichtung einsehbar gemacht
+    werden kann und überprüfbar ist.
+
+
+
+
+(4) Ist die Bekanntgabe einer automatisierten Entscheidung nach Absatz
+1 Satz 1 erfolgt, sind die Daten aus dem Portal zusätzlich zu § 19
+Absatz 1 Satz 2 über das vom Kraftfahrt-Bundesamt eingerichtete
+Verfahren unverzüglich an das Kraftfahrt-Bundesamt zur Erhebung und
+Speicherung im Zentralen Fahrzeugregister zu übermitteln.
+
+
 ### Unterabschnitt 2 - Internetbasierte Außerbetriebsetzung
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000500000)
 
@@ -1361,6 +2570,44 @@ Zulassungsbescheinigung Teil I nach Absatz 2 Satz 1 Nummer 3 erfasst
 werden. Die Halterdaten sind vom Portal aus dem Zentralen
 Fahrzeugregister zu erheben, zu speichern und für die Antragsprüfung
 zu verwenden.
+
+
+#### § 25 Außerbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002602123)
+
+(1) Liegen die Voraussetzungen für die Außerbetriebsetzung nach
+maschineller Prüfung durch das Portal vor, ist das Fahrzeug mittels
+einer automatisierten Entscheidung nach § 19 Absatz 1 Satz 2 außer
+Betrieb zu setzen. Abweichend von § 23 Absatz 1 Satz 2 erfolgt die
+Bekanntgabe der automatisierten Entscheidung, sofern diese nicht von
+der antragstellenden Person aus dem Portal abgerufen wird, durch
+
+1.  Versendung einer De-Mail-Nachricht im Sinne des § 3a Absatz 3 Nummer 3
+    Buchstabe b des Verwaltungsverfahrensgesetzes, wenn der Halter in
+    seinem elektronischen Antrag ein auf seinen Namen eingerichtetes De-
+    Mail-Konto benennt,
+
+
+2.  durch Übersendung des Ausdrucks des elektronischen Dokuments
+
+
+
+und ist die Außerbetriebsetzung abweichend von § 23 Absatz 2 Halbsatz
+2 am Tag der Absendung des Ausdrucks wirksam. Sofern die maschinelle
+Prüfung der Voraussetzungen für die Außerbetriebsetzung nicht erfolgen
+kann, hat die Entscheidung nach § 19 Absatz 1 Satz 4 zu erfolgen und
+ist im Fall einer antragsgemäßen Entscheidung die Außerbetriebsetzung
+abweichend von § 23 Absatz 2 am Tag der Absendung des schriftlichen
+Bescheides wirksam.
+
+(2) Der Vermerk über die Außerbetriebsetzung in der
+Zulassungsbescheinigung Teil I und die Aushändigung der entstempelten
+Kennzeichenschilder nach § 16 Absatz 1 Satz 4 werden durch die
+Erhebung, Speicherung und Verwendung der freigelegten Sicherheitscodes
+nach § 21 Absatz 1 Nummer 1 und 2 zur Prüfung des Antrags auf
+Außerbetriebsetzung ersetzt.
+
+(3) (weggefallen)
 
 
 ### Unterabschnitt 3 - Internetbasierte Erstzulassung, Tageszulassung, Wiederzulassung und Änderung bei Halter- und Wohnsitzwechsel
@@ -1634,8 +2881,153 @@ Nummer 2 maschinell verifiziert und zum Zweck dieser Verifizierung
 erhoben, gespeichert und verwendet.
 
 
+#### § 30 Internetbasierte Änderung bei Halter- oder Wohnsitzwechsel, sofortige Inbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003101123)
+
+(1) Die Änderung der Zulassung bei
+
+1.  einem Wechsel des Wohnsitzes oder des Sitzes des Halters im Sinne des
+    § 15 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 4 Satz 1,
+    oder
+
+
+2.  einem Wechsel des Halters im Sinne des § 15 Absatz 5 Satz 4
+
+
+
+kann internetbasiert nach dem Verfahren des § 26 nach Maßgabe der
+folgenden Absätze beantragt werden (internetbasierte Änderung bei
+Halter- oder Wohnsitzwechsel).
+
+(2) § 15 Absatz 1 gilt mit den folgenden Maßgaben:
+
+1.  Die Vorlage der Zulassungsbescheinigung Teil I nach § 15 Absatz 1 Satz
+    1 wird durch die Erfassung und Verifizierung ihres Sicherheitscodes
+    nach § 21 Absatz 1 Nummer 2 ersetzt.
+
+
+2.  Die Vorlage der Zulassungsbescheinigung Teil II nach § 15 Absatz 1
+    Satz 1 wird, vorbehaltlich des Absatzes 3 Satz 2, durch die Erfassung
+    und Verifizierung ihres Sicherheitscodes nach § 21 Absatz 1 Nummer 3
+    ersetzt.
+
+
+
+
+(3) Verlegt der Halter seinen Wohnsitz oder Sitz innerhalb des
+bisherigen Zulassungsbezirks oder in einen anderen Zulassungsbezirk,
+so sind die Angaben nach § 26 Absatz 2 Nummer 2 bis 3 nicht
+erforderlich. Soll in den Fällen des Satzes 1 das bisherige
+Kennzeichen weitergeführt werden, sind ebenfalls nicht erforderlich
+
+1.  der Nachweis des Besitzes der Zulassungsbescheinigung Teil II
+    abweichend von § 26 Absatz 1 Nummer 4 und
+
+
+2.  die Ausstellung der Zulassungsbescheinigung Teil II abweichend von §
+    26 Absatz 4 Satz 1 Nummer 3.
+
+
+
+
+(4) Für das Weiterführen des bisherigen Kennzeichens gelten die
+folgenden Maßgaben:
+
+1.  Scheitert die maschinelle Prüfung der Zulassungsvoraussetzungen, hat
+    die Entscheidung nach § 19 Absatz 1 Satz 4 zu erfolgen.
+
+
+2.  Die Zuteilung eines neuen Kennzeichens nach § 26 Absatz 1 Nummer 3 in
+    Verbindung mit Absatz 4 Nummer 2 und das Aufbringen der
+    Stempelplaketten auf den Plakettenträger sowie deren Übersendung nach
+    § 26 Absatz 4 Nummer 1 wird durch die in der Zulassungsentscheidung
+    erlaubte Weiterführung des bisherigen Kennzeichens und der
+    Stempelplaketten nach § 15 Absatz 4 Satz 1 Nummer 2 und § 15 Absatz 5
+    Satz 3 Nummer 4 ersetzt.
+
+
+3.  Bis zum Empfang der nach § 26 Absatz 4 Nummer 3 zu übersendenden
+    Zulassungsbescheinigung Teil I, längstens jedoch für die Dauer von
+    zehn Tagen nach dem Abruf der automatisierten Zulassungsentscheidung
+    nach § 23 Absatz 1 Satz 1, genügt das Mitführen und die Aushändigung
+    der Zulassungsentscheidung in unmittelbar lesbarer Form den
+    Anforderungen des § 13 Absatz 6 für die Inbetriebsetzung des
+    Fahrzeuges.
+
+
+
+
+(5) Soll das bisherige Kennzeichen nicht weitergeführt werden, gelten
+für den Fall des Wohnsitzwechsels die Vorschriften des Unterabschnitts
+4 entsprechend.
+
+(6) (weggefallen)
+
+
 ### Unterabschnitt 4 - Sofortige Inbetriebsetzung bei internetbasierten Zulassungsvorgängen
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000700000)
+
+
+#### § 31 Zulässigkeit der sofortigen Inbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003201123)
+
+Ein Fahrzeug darf abweichend von § 12 Absatz 13 Satz 1 Nummer 2 ohne
+Stempelplaketten oder Plakettenträger bis zum Empfang der nach § 26
+Absatz 4 Nummer 4 zu übersendenden Stempelplaketten und
+Plakettenträger, längstens jedoch für vierzehn Tage, in Betrieb
+gesetzt werden. Die Frist des Satzes 1 beginnt mit Abruf der
+automatisierten Entscheidung
+
+1.  über die internetbasierte Erstzulassung,
+
+
+2.  über die die internetbasierte Wiederzulassung oder
+
+
+3.  bei einem Halterwechsel nach § 30 Absatz 4.
+
+
+
+Ein gut lesbarer Ausdruck der abgerufenen automatisierten Entscheidung
+ist von der das Fahrzeug führenden Person mitzuführen und zuständigen
+Personen auf Verlangen zur Prüfung auszuhändigen.
+
+
+#### § 32 Vorläufiger Zulassungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003301123)
+
+(1) Im Fall des § 31 hat die Zulassungsbehörde der antragstellenden
+Person zusätzlich zum Zulassungsbescheid nach § 23 Absatz 1 Satz 1
+einen vorläufigen Zulassungsnachweis auszustellen. Der vorläufige
+Zulassungsnachweis ist mit dem Zulassungsbescheid und in derselben
+Form wie der Zulassungsbescheid zum Abruf bereitzustellen. Der
+Zulassungsnachweis muss folgende Angaben enthalten:
+
+1.  den Namen der Zulassungsbehörde,
+
+
+2.  die Antragsnummer,
+
+
+3.  das Kennzeichen des zugelassenen Fahrzeuges,
+
+
+4.  das Datum der Zulassungsentscheidung und
+
+
+5.  das Enddatum der Berechtigung nach § 31.
+
+
+
+Liegt eine der Angaben nach Satz 3 nicht vor, darf ein vorläufiger
+Zulassungsnachweis nicht erstellt werden.
+
+(2) Bei der Inbetriebsetzung des Fahrzeuges auf öffentlichen Straßen
+ist der vorläufige Zulassungsnachweis von der das Fahrzeug führenden
+Person ununterbrochen bis zum Ablauf des Tages, an dem die
+Berechtigung nach § 31 endet, von außen gut lesbar im Fahrzeug
+auszulegen. Satz 1 gilt nicht für Kraftfahrzeuge der EU-Fahrzeugklasse
+L und Anhänger der EU-Fahrzeugklasse O.
 
 
 ### Unterabschnitt 5 - Großkundenschnittstelle beim Kraftfahrt-Bundesamt
@@ -1658,6 +3050,153 @@ Wiederzulassung, Halter- oder Wohnsitzwechsel oder Außerbetriebsetzung
 über die Großkundenschnittstelle stellen.
 
 
+#### § 34 Registrierung als Großkunde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003502123)
+
+(1) Eine juristische Person des Privatrechts, die jährlich regelmäßig
+mehr als 500 Anträge im Sinne des § 33 Absatz 1 stellt und beim
+Kraftfahrt-Bundesamt einen elektronischen Antrag auf Registrierung als
+Großkunde stellt, ist vom Kraftfahrt-Bundesamt als Großkunde zu
+registrieren. Im Auftrag einer Zulassungsbehörde beteiligte
+Verfahrensanbieter dürfen sich nicht als Großkunden registrieren
+lassen.
+
+(2) Die juristische Person hat sich bei der elektronischen
+Antragstellung im Registrierungsverfahren anhand eines
+Organisationskontos nach § 3 Absatz 2 in Verbindung mit Absatz 3 des
+Onlinezugangsgesetzes zu identifizieren. Dabei hat die Identifizierung
+des Inhabers des Organisationskontos nach § 87a Absatz 6 der
+Abgabenordnung zu erfolgen. Abweichend von Satz 1 kann eine
+juristische Person des Privatrechts mit Sitz außerhalb der
+Bundesrepublik Deutschland, die keinen Zugang zu einem nach Satz 1
+bezeichneten Organisationskonto hat, die Registrierung beim
+Kraftfahrt-Bundesamt durch ein gesondertes Verfahren beantragen.
+
+(3) In dem Antrag auf Registrierung als Großkunde sind folgende Daten
+anzugeben:
+
+1.  der Name und die Anschrift der juristischen Person,
+
+
+2.  eine abweichende Rechnungsanschrift, soweit vorhanden,
+
+
+3.  die Namen, die Anschriften, die E-Mail-Adressen und die Telefonnummern
+    von mindestens zwei natürlichen Personen als Kontaktpersonen,
+
+
+4.  der Name und die Anschrift sämtlicher Vertragspartner, die im Namen
+    des Großkunden Anträge nach § 33 Absatz 1 stellen,
+
+
+5.  die geschätzte Anzahl der zu erwartenden Anträge nach § 33 Absatz 1
+    pro Jahr und
+
+
+6.  die Angabe, ob die Absicht besteht, zusätzlich zu Anträgen auf sich
+    selbst als Halter auch Anträge als Bevollmächtigter für einen Dritten
+    als Antragsteller zu stellen.
+
+
+
+
+(4) Die juristische Person hat sich mit dem Antrag auf Registrierung
+als Großkunde zu Folgendem
+
+1.  zu verpflichten:
+
+    a)  die nach § 18 Absatz 3 vom Kraftfahrt-Bundesamt bestimmten
+        Anforderungen für den Zugang zur Großkundenschnittstelle einzuhalten,
+
+
+    b)  die weiteren vom Kraftfahrt-Bundesamt bestimmten Standards für
+        registrierte Großkunden einzuhalten,
+
+
+    c)  sich nur einmal als Großkunde bei der Großkundenschnittstelle zu
+        registrieren,
+
+
+    d)  ein aktives Nutzerkonto nach § 3 Absatz 2 des Onlinezugangsgesetzes zu
+        führen sowie die darin enthaltenen Stammdaten auf dem aktuellen Stand
+        zu halten,
+
+
+    e)  alle anfallenden Gebührenschulden unverzüglich nach Bekanntgabe des
+        jeweiligen Gebührenbescheides der Zulassungsbehörde und des
+        Kraftfahrt-Bundesamts zu begleichen,
+
+
+    f)  stets eine ausreichende Anzahl von Kennzeichen bei der
+        Zulassungsbehörde zu reservieren,
+
+
+    g)  nur die reservierten Kennzeichen für Anträge nach § 33 Absatz 1 zu
+        nutzen,
+
+
+    h)  als registrierter Großkunde alle Änderungen der Angaben nach den
+        Absätzen 3 und 4 unverzüglich dem Kraftfahrt-Bundesamt anzuzeigen,
+
+
+    i)  die ihm im Rahmen der Registrierung vom Kraftfahrt-Bundesamt zur
+        Verfügung gestellten Daten nicht an Dritte weiterzugeben und
+
+
+    j)  für die Zuverlässigkeit eines Vertragspartners nach § 34 Absatz 3
+        Nummer 4 einzustehen und für dessen Verschulden wie eigenes
+        Verschulden zu haften und
+
+
+
+
+
+2.  zu bestätigen, dass zum Zeitpunkt des Antrags auf Registrierung keine
+    Eintragungen im Bundeszentralregister nach § 1 Absatz 1 des
+    Bundeszentralregistergesetzes für die Vertretungsberechtigten der
+    juristischen Person und die Kontaktpersonen nach Absatz 2 Nummer 3
+    wegen rechtskräftiger Verurteilungen im Bereich der Wirtschaft im
+    Sinne des § 74c Absatz 1 Nummer 1 bis Nummer 6 des
+    Gerichtsverfassungsgesetzes bestehen.
+
+
+
+Satz 1 Nummer 1 Buchstabe a gilt auch im Fall des Beauftragens eines
+Dienstleisters. Satz 1 Nummer 1 Buchstabe d gilt nicht für Großkunden
+nach Absatz 2 Satz 3. Satz 1 Nummer 1 Buchstabe f gilt nicht, wenn ein
+anderes Verfahren zur Kennzeichenvergabe besteht.
+
+(5) Die Daten, die nach den Absätzen 1, 3 und 4 anzugeben sind, sind
+durch ein automatisiertes Programm des Kraftfahrt-Bundesamts
+maschinell zu verifizieren und auf das Vorliegen der
+Registrierungsvoraussetzungen zu überprüfen und zu diesen Zwecken zu
+erheben, zu speichern und zu verwenden. Das Vorliegen der technischen
+Voraussetzungen zur Anbindung als Großkunde sind in einem Probelauf
+nach Vorgaben des Kraftfahrt-Bundesamts zu bestätigen.
+
+(6) Liegen die Voraussetzungen zur Registrierung nach den Absätzen 1,
+3 und 4 vor, ist automatisiert über die Registrierung als Großkunde zu
+entscheiden. Die Entscheidung ist der antragstellenden Person zum
+Abruf bereitzustellen
+
+1.  in Form eines schreibgeschützten Bescheides,
+
+
+2.  in einem üblichen Format,
+
+
+3.  elektronisch gesiegelt und
+
+
+4.  im Postfach des Nutzerkontos im Sinne des § 2 Absatz 7 des
+    Onlinezugangsgesetzes.
+
+
+
+Der Bescheid ist mit einem Widerrufsvorbehalt nach § 36 Absatz 2
+Nummer 3 Verwaltungsverfahrensgesetz zu verbinden.
+
+
 #### § 35 Identifizierungsmerkmal
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003600000)
 
@@ -1669,6 +3208,41 @@ Identifizierungsmerkmal, das eindeutig sein muss, elektronisch zu
 (2) Der Großkunde hat das Identifizierungsmerkmal nach Absatz 1 bei
 jedem Antrag, den er über die Großkundenschnittstelle stellt,
 anzugeben.
+
+
+#### § 36 Überprüfung der Voraussetzungen und Widerruf der Registrierung als Großkunde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003701123)
+
+(1) Das Kraftfahrt-Bundesamt ist jederzeit berechtigt zu überprüfen,
+ob die Voraussetzungen für die Registrierung als Großkunde noch
+vorliegen.
+
+(2) Der Großkunde ist zur Mitwirkung bei der Überprüfung verpflichtet
+und hat auf Anforderung des Kraftfahrt-Bundesamts die entsprechenden
+Nachweise zu den in § 34 Absatz 3 und 4 genannten Daten und
+Voraussetzungen vorzulegen.
+
+(3) Liegen die Voraussetzungen für die Registrierung nicht mehr vor
+oder kommt der Großkunde seinen Mitwirkungspflichten nach Absatz 2
+nicht nach, kann das Kraftfahrt-Bundesamt die Registrierung
+widerrufen. Das Kraftfahrt-Bundesamt kann anstelle des Widerrufes der
+Registrierung nach Satz 1 dem Großkunden aufgeben,
+
+1.  einem Vertragspartner nach § 34 Absatz 3 Nummer 4, der sich als nicht
+    zuverlässig erweist, die weitere Stellung von Anträgen nach § 33
+    Absatz 1 unverzüglich zu untersagen und
+
+
+2.  den Vertragspartner nach Nummer 1 durch technische Maßnahmen von der
+    Antragstellung unverzüglich ausschließen.
+
+
+
+
+(4) Hat das Kraftfahrt-Bundesamt eine Registrierung einmal widerrufen,
+darf eine erneute Registrierung nicht automatisiert erfolgen. Satz 1
+gilt nicht, sofern die Registrierung wegen zu geringer Fallzahlen
+widerrufen wurde.
 
 
 #### § 37 Antragstellung über die Großkundenschnittstelle
@@ -1908,6 +3482,141 @@ tritt.
 
 ## Abschnitt 4 - Zeitweilige Teilnahme am Straßenverkehr
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000900000)
+
+
+### § 41 Prüfungsfahrten, Probefahrten und Überführungsfahrten mit rotem Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004202123)
+
+(1) Ein Fahrzeug darf, wenn es nicht zugelassen ist, auch ohne eine
+EU-Typgenehmigung, eine nationale Typgenehmigung oder eine Fahrzeug-
+Einzelgenehmigung zu einer Prüfungsfahrt, Probefahrt oder
+Überführungsfahrt in Betrieb gesetzt werden, wenn
+
+1.  eine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des
+    Pflichtversicherungsgesetzes besteht und
+
+
+2.  das Fahrzeug unbeschadet des § 42 ein Kennzeichen mit roter
+    Beschriftung auf weißem rot gerandetem Grund (rotes Kennzeichen)
+    führt.
+
+
+
+Dies gilt auch für eine notwendige Fahrt zum Tanken und zur
+Außenreinigung anlässlich einer Fahrt nach Satz 1 sowie für eine
+notwendige Fahrt zum Zweck der Reparatur oder Wartung des betreffenden
+Fahrzeuges. Ein Fahrzeug, dem nach § 10 Absatz 3 ein Saisonkennzeichen
+zugeteilt ist, darf außerhalb des Betriebszeitraums nach Maßgabe der
+Sätze 1 und 2 in Betrieb gesetzt werden, wenn das Saisonkennzeichen
+nicht gleichzeitig geführt wird. Ein Fahrzeug, dem nach § 9 Absatz 2
+ein Wechselkennzeichen zugeteilt ist, darf nach Maßgabe der Sätze 1
+und 2 in Betrieb gesetzt werden, wenn das Wechselkennzeichen weder
+vollständig noch in Teilen gleichzeitig geführt wird. § 31 Absatz 2
+der Straßenverkehrs-Zulassungs-Ordnung bleibt unberührt.
+
+(2) Ein rotes Kennzeichen und ein besonderes Fahrzeugscheinheft für
+Fahrzeuge mit rotem Kennzeichen nach Anlage 13 können durch die
+Zulassungsbehörde einem zuverlässigen Kraftfahrzeughersteller, einem
+zuverlässigen Kraftfahrzeugteilehersteller, einer zuverlässigen
+Kraftfahrzeugwerkstatt, einem zuverlässigen Kraftfahrzeughändler,
+einem zuverlässigen Hersteller von zulassungspflichtigen Anhängern,
+die hinter Kraftfahrzeugen geführt werden, und durch die in der Anlage
+2 genannten Zulassungsbehörden der Bundesanstalt Technisches
+Hilfswerk, der Bundespolizei, dem Bundeskriminalamt, der Polizeien der
+Länder, der Bundeswehr und der Zollverwaltung befristet oder
+widerruflich zur wiederkehrenden betrieblichen Verwendung, auch an
+unterschiedlichen Fahrzeugen, zugeteilt werden. Das rote Kennzeichen
+hat zu bestehen aus einem Unterscheidungszeichen nach § 9 Absatz 1 und
+einer nur aus Ziffern bestehenden und mit „06“ beginnenden
+Erkennungsnummer nach § 9 Absatz 1.
+
+(3) Für jedes Fahrzeug, das ein rotes Kennzeichen führt, ist vom
+Inhaber des roten Kennzeichenschilds eine gesonderte Seite des
+Fahrzeugscheinheftes zur Beschreibung des Fahrzeuges zu verwenden,
+wobei die Angaben zum Fahrzeug vor Antritt der ersten Fahrt
+vollständig und in dauerhafter Schrift einzutragen sind. Das
+Fahrzeugscheinheft ist von der das Fahrzeug führenden Person bei jeder
+Fahrt mitzuführen und zuständigen Personen auf Verlangen
+auszuhändigen. Über jede Prüfungsfahrt, Probefahrt oder
+Überführungsfahrt sind fortlaufende Aufzeichnungen nach Satz 1 zu
+führen, aus denen das verwendete rote Kennzeichen, das Datum der
+Fahrt, deren Beginn und Ende, der Fahrzeugführer mit dessen Anschrift,
+die Fahrzeugklasse und der Hersteller des Fahrzeuges, sowie die
+Fahrzeug-Identifizierungsnummer und die Fahrtstrecke ersichtlich sind.
+Die Aufzeichnungen nach Satz 3 sind vom Inhaber des roten
+Kennzeichenschilds vor dem jeweiligen Fahrtantritt vorzunehmen,
+Angaben zum Ende der Fahrt und zu der Fahrtstrecke dürfen auch
+unverzüglich nach Fahrtende eingetragen werden. Die Aufzeichnungen
+sind vom Inhaber des roten Kennzeichenschilds ein Jahr lang nach
+Erstellung aufzubewahren und den zuständigen Personen jederzeit auf
+Verlangen zur Prüfung auszuhändigen. Das rote Kennzeichenschild hat
+der Inhaber mit dem dazugehörigen Fahrzeugscheinheft der zuständigen
+Zulassungsbehörde unverzüglich zur Entwertung vorzulegen, wenn
+
+1.  die Frist, für die das rote Kennzeichen zugeteilt worden ist,
+    abgelaufen ist,
+
+
+2.  der Inhaber das rote Kennzeichen nicht mehr benötigt oder
+
+
+3.  der Inhaber seinen Wohnsitz oder seinen Sitz in einen anderen
+    Zulassungsbezirk verlegt.
+
+
+
+
+(4) Das rote Kennzeichen und das besondere Fahrzeugscheinheft für
+Fahrzeuge mit rotem Kennzeichen nach Anlage 13 können durch die
+Zulassungsbehörde auch für die Durchführung von Prüfungsfahrten im
+Rahmen von Untersuchungen, Prüfungen und Begutachtungen nach der
+Straßenverkehrs-Zulassungs-Ordnung, nach den jeweils dafür
+anzuwendenden Straßenverkehrsvorschriften oder nach § 5 widerruflich
+zur wiederkehrenden betrieblichen Verwendung an unterschiedlichen
+Fahrzeugen zugeteilt werden an
+
+1.  Technische Prüfstellen,
+
+
+2.  vom Kraftfahrt-Bundesamt zur Prüfung von Gesamtfahrzeugen der
+    jeweiligen Fahrzeugklasse benannte Technische Diensten und
+
+
+3.  anerkannte Überwachungsorganisationen nach Anlage VIIIb der
+    Straßenverkehrs-Zulassungs-Ordnung.
+
+
+
+Das rote Kennzeichen hat zu bestehen aus einem Unterscheidungszeichen
+nach § 9 Absatz 1 und einer nur aus Ziffern bestehenden und mit „05“
+beginnenden Erkennungsnummer nach § 9 Absatz 1. Absatz 3 gilt
+entsprechend.
+
+(5) Mit dem Antrag auf Zuteilung eines roten Kennzeichens hat der
+Antragsteller der Zulassungsbehörde seine in § 6 Absatz 1 Satz 2
+bezeichneten Daten, die in § 6 Absatz 5 Nummer 3 bezeichneten Daten
+zur Kraftfahrzeug-Haftpflichtversicherung und die Angaben über einen
+Empfangsbevollmächtigten nach § 6 Absatz 5 Nummer 4 zum Zweck der
+Erhebung und Speicherung in den Fahrzeugregistern mitzuteilen und auf
+Verlangen nachzuweisen. Änderungen dieser Daten hat der Inhaber des
+roten Kennzeichens der Zulassungsbehörde zum Zweck der Änderung der
+Fahrzeugregister und des Fahrzeugscheinheftes unverzüglich mitzuteilen
+und dabei das Fahrzeugscheinheft vorzulegen. § 15 Absatz 2 gilt
+entsprechend.
+
+(6) Ein rotes Kennzeichen ist nach § 12 Absatz 1, Absatz 2 Satz 1 bis
+3, Absatz 3, Absatz 5 bis 7, Absatz 8 Satz 2 und 3, Absatz 9 Satz 1,
+Absatz 10 Satz 1, Absatz 11 Satz 1 und Absatz 12 Satz 1 in Verbindung
+mit Anlage 4 Abschnitt 1 und 7 auszugestalten und anzubringen. Ein
+rotes Kennzeichen muss nicht fest angebracht sein. Ein Fahrzeug mit
+einem roten Kennzeichen darf von der das Fahrzeug führenden Person im
+Übrigen nur nach Maßgabe des § 12 Absatz 13 Satz 1 in Betrieb gesetzt
+werden. Der Halter darf die Inbetriebsetzung eines Fahrzeuges nur
+anordnen oder zulassen, wenn die Voraussetzungen der Sätze 1 und 3
+vorliegen.
+
+(7) Die §§ 29 und 57b der Straßenverkehrs-Zulassungs-Ordnung sind
+nicht anzuwenden.
 
 
 ### § 42 Probefahrten und Überführungsfahrten mit Kurzzeitkennzeichen
@@ -2232,6 +3941,104 @@ Zulassungsbescheinigung Teil II ist fortzuschreiben. Die Absätze 1 bis
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001000000)
 
 
+### § 46 Vorübergehende Teilnahme am Straßenverkehr in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004702123)
+
+(1) Ein in einem anderen Mitgliedstaat oder einem anderen
+Vertragsstaat zugelassenes Fahrzeug darf vorübergehend am Verkehr in
+der Bundesrepublik Deutschland teilnehmen, wenn für das Fahrzeug von
+einer zuständigen Stelle des anderen Mitgliedstaates oder des anderen
+Vertragsstaates eine gültige Zulassungsbescheinigung ausgestellt ist
+und in der Bundesrepublik Deutschland kein regelmäßiger Standort
+begründet wurde. Die Zulassungsbescheinigung muss mindestens die nach
+Artikel 35 des Übereinkommens vom 8. November 1968 über den
+Straßenverkehr erforderlichen Angaben enthalten. Bei einem Kraftrad
+müssen aus der Zulassungsbescheinigung zusätzlich die Angaben zu
+Hubraum, Nennleistung und Gewicht des Fahrzeuges hervorgehen. Eine
+Zulassungsbescheinigung nach Satz 1, die den Anforderungen der Sätze 2
+und 3 genügt und ausschließlich zum Zweck der Überführung eines
+Fahrzeuges ausgestellt wurde, ist vom Bundesministerium für Verkehr im
+Verkehrsblatt bekannt zu machen. Satz 1 gilt nicht für ein Fahrzeug,
+das sich zum Zeitpunkt der Zulassung durch den anderen Mitgliedstaat
+oder den anderen Vertragsstaat in der Bundesrepublik Deutschland
+befunden hat. Abweichend von Satz 1 dürfen Mietfahrzeuge im Sinne der
+Richtlinie 2006/1/EG des Europäischen Parlamentes und des Rates vom
+18\. Januar 2006 über die Verwendung von ohne Fahrer gemieteten
+Fahrzeugen im Güterkraftverkehr (ABl. L 33 vom 4.2.2006, S. 82) in der
+jeweils geltenden Fassung, die von einem Kraftverkehrsunternehmen mit
+Niederlassung in der Bundesrepublik Deutschland gemietet wurden, für
+die Dauer von bis zu 30 Tagen am gewerblichen Güterkraftverkehr in der
+Bundesrepublik Deutschland teilnehmen, sofern das Mietfahrzeug gemäß
+den Rechtsvorschriften eines anderen Mitgliedstaats zugelassen oder in
+Betrieb genommen wurde und für das Mietfahrzeug von einer zuständigen
+Stelle des anderen Mitgliedstaates eine gültige
+Zulassungsbescheinigung ausgestellt ist.
+
+(2) Ein in einem anderen Mitgliedstaat oder einem anderen
+Vertragsstaat zulassungsfreier Anhänger darf vorübergehend am Verkehr
+in der Bundesrepublik Deutschland teilnehmen, wenn er von einem
+Zugfahrzeug gezogen wird, das in demselben Mitgliedstaat oder in
+demselben Vertragsstaat zugelassen ist und für das in der
+Bundesrepublik Deutschland kein regelmäßiger Standort begründet ist.
+
+(3) Ein in einem Drittstaat zugelassenes Fahrzeug darf vorübergehend
+am Verkehr in der Bundesrepublik Deutschland teilnehmen, wenn für das
+Fahrzeug von einer zuständigen ausländischen Stelle eine gültige
+Zulassungsbescheinigung oder ein Internationaler Zulassungsschein nach
+Artikel 4 und Anlage B des Internationalen Abkommens vom 24. April
+1926 über Kraftfahrzeugverkehr ausgestellt wurde und in der
+Bundesrepublik Deutschland kein regelmäßiger Standort begründet ist.
+Die Zulassungsbescheinigung muss mindestens die nach Artikel 35 des
+Übereinkommens vom 8. November 1968 über den Straßenverkehr
+erforderlichen Angaben enthalten. Satz 1 gilt nicht für ein Fahrzeug,
+das sich zum Zeitpunkt der Zulassung durch den Drittstaat in der
+Bundesrepublik Deutschland befunden hat.
+
+(4) Ein ausländisches Fahrzeug darf vorübergehend am Verkehr in der
+Bundesrepublik Deutschland nur teilnehmen, wenn es betriebs- und
+verkehrssicher ist.
+
+(5) Ist die Zulassungsbescheinigung nicht in deutscher Sprache
+abgefasst und entspricht sie nicht der Richtlinie 1999/37/EG des Rates
+vom 29. April 1999 über Zulassungsdokumente für Fahrzeuge (ABl. L 138
+vom 1.6.1999, S. 57), in der jeweils geltenden Fassung, oder dem
+Artikel 35 des Übereinkommens vom 8. November 1968 über den
+Straßenverkehr, muss sie mit einer von einem Berufskonsularbeamten
+oder Honorarkonsul der Bundesrepublik Deutschland im Ausstellungsstaat
+bestätigten Übersetzung oder mit einer Übersetzung durch einen
+international anerkannten Automobilklub des Ausstellungsstaates oder
+durch eine vom Bundesministerium für Verkehr bestimmte Stelle
+verbunden sein.
+
+(6) Die das Fahrzeug führende Person hat die ausländische
+Zulassungsbescheinigung nach Absatz 1 Satz 1 bis 3 oder 6 oder Absatz
+3 Satz 1 und 2 sowie die nach Absatz 5 erforderliche Übersetzung oder
+den Internationalen Zulassungsschein nach Absatz 3 Satz 1 und 2
+mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
+auszuhändigen.
+
+(7) Als vorübergehend im Sinne der Absätze 1 bis 3 gilt ein Zeitraum
+bis zu einem Jahr. Die Frist beginnt
+
+1.  bei einer Zulassungsbescheinigung mit dem Tag des Grenzübertritts und
+
+
+2.  bei einem internationalen Zulassungsschein nach dem Internationalen
+    Abkommen vom 24. April 1926 über Kraftfahrzeugverkehr mit dem
+    Ausstellungstag.
+
+
+
+Abweichend von Satz 1 kann der Zeitraum im Einzelfall auch länger
+sein, wenn die vorübergehende Verkehrsteilnahme in Wahrnehmung der
+Arbeitnehmerfreizügigkeit, der Niederlassungs- oder
+Dienstleistungsfreiheit nach dem Recht der Europäischen Union
+geschieht. Als vorübergehend gilt dann der Zeitraum, währenddessen die
+Arbeitnehmerfreizügigkeit, die Niederlassungs- oder
+Dienstleistungsfreiheit in Anspruch genommen wird. Der in Satz 4
+bezeichnete Zeitraum darf 3 Jahre nicht überschreiten.
+
+
 ### § 47 Kennzeichen und Unterscheidungszeichen
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004800000)
 
@@ -2444,6 +4251,150 @@ und hierfür die in § 62 genannten Daten, soweit erforderlich, zu
 der vom Kraftfahrt-Bundesamt herausgegebenen Standards zu übermitteln.
 
 
+### § 51 Maßnahmen und Pflichten bei fehlendem Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005201123)
+
+(1) Der Versicherer kann zur Beendigung seiner Haftung nach § 117
+Absatz 2 des Versicherungsvertragsgesetzes der Zulassungsbehörde
+Anzeige erstatten, wenn eine Kraftfahrzeug-Haftpflichtversicherung
+nach § 1 des Pflichtversicherungsgesetzes nicht oder nicht mehr
+besteht. Die Anzeige ist vom Versicherer entsprechend § 49 Absatz 2
+Satz 1 zu übermitteln. Die Anzeige muss folgende Daten enthalten:
+
+1.  den Namen und die Anschrift des Versicherers,
+
+
+2.  die Schlüsselnummer des Versicherers,
+
+
+3.  den Namen und die Anschrift des Versicherungsnehmers,
+
+
+4.  das Kennzeichen des Fahrzeuges,
+
+
+5.  die Fahrzeug-Identifizierungsnummer,
+
+
+6.  die Angabe, ob das Versicherungsverhältnis nicht oder nicht mehr
+    besteht.
+
+
+
+Darüber hinaus darf die Anzeige folgende Daten enthalten, wenn deren
+Übermittlung an die Zulassungsbehörde zur Prüfung dieser Anzeige im
+Einzelfall erforderlich ist:
+
+1.  die Nummer des Versicherungsscheines,
+
+
+2.  den Namen und die Anschrift des Halters, falls dieser nicht mit dem
+    Versicherungsnehmer identisch ist,
+
+
+3.  die Kennzeichenart.
+
+
+
+Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt
+festzulegen und auf der Internetseite des Kraftfahrt-Bundesamts zu
+veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im
+Bundesanzeiger und im Verkehrsblatt hinzuweisen. Eine Anzeige ist zu
+unterlassen, wenn der Zulassungsbehörde die Versicherungsbestätigung
+über den Abschluss einer neuen Kraftfahrzeug-Haftpflichtversicherung
+nach § 1 des Pflichtversicherungsgesetzes zugegangen ist und dies dem
+Versicherer nach § 50 Absatz 1 Nummer 3 mitgeteilt worden ist. Eine
+Versicherungsbestätigung für die Zuteilung eines Kurzzeitkennzeichens
+gilt auch als Anzeige zur Beendigung der Haftung. Satz 8 gilt
+entsprechend, wenn in der Versicherungsbestätigung für die Zuteilung
+eines roten Kennzeichens ein befristeter Versicherungsschutz
+ausgewiesen ist oder wenn die Zuteilung des roten Kennzeichens
+befristet ist.
+
+(2) Die Zulassungsbehörde hat dem Versicherer auf dessen Anzeige nach
+Absatz 1 Satz 1 das Datum des Eingangs der Anzeige mitzuteilen. § 50
+Absatz 2 gilt entsprechend.
+
+(3) Besteht für ein Fahrzeug, für das ein Kennzeichen zugeteilt ist,
+keine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des
+Pflichtversicherungsgesetzes, so hat der Halter das Fahrzeug
+unverzüglich nach Maßgabe des § 16 Absatz 1 Satz 1, auch in Verbindung
+mit § 50 Absatz 1 Nummer 6, außer Betrieb setzen zu lassen.
+
+(4) Erfährt die Zulassungsbehörde durch eine Anzeige nach Absatz 1
+oder auf andere Weise, dass für ein Fahrzeug keine Kraftfahrzeug-
+Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes
+besteht, so hat sie das Fahrzeug unverzüglich außer Betrieb zu setzen.
+Eine Anzeige zu einer Versicherung, für die bereits eine Mitteilung
+nach § 50 Absatz 1 Nummer 3 oder 4 abgesandt wurde, löst keine
+Maßnahmen der Zulassungsbehörde nach Satz 1 aus.
+
+(5) Die Absätze 3 und 4 sind nicht auf ein Fahrzeug anzuwenden, dass
+ein Kurzzeitkennzeichen führt, dessen Ablaufdatum überschritten ist.
+
+
+### § 52 Versicherungskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005302123)
+
+(1) Für ein Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 in
+Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f ist das
+Versicherungskennzeichen der Nachweis, dass für das jeweilige
+Kraftfahrzeug eine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des
+Pflichtversicherungsgesetzes besteht. Nach Abschluss eines
+Versicherungsvertrages und Zahlung der Prämie hat der Versicherer dem
+Halter das Versicherungskennzeichen zusammen mit einer Bescheinigung
+über das Versicherungskennzeichen für das jeweilige Verkehrsjahr zu
+überlassen. Ein Verkehrsjahr hat jeweils den Zeitraum vom 1. März
+eines Jahres bis zum Ablauf des Monats Februar des nächsten Jahres zu
+umfassen. Zur anschließenden Übermittlung an das Kraftfahrt-Bundesamt
+durch den Versicherer zur Erhebung und Speicherung im dort geführten
+Zentralen Fahrzeugregister hat der Halter dem Versicherer die in § 33
+Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes bezeichneten
+Halterdaten, die Angaben zu Fahrzeugklasse, Art des Aufbaus und Marke
+des Fahrzeuges sowie die Fahrzeug-Identifizierungsnummer zu
+übermitteln und auf Verlangen ihm gegenüber nachzuweisen. Das
+Versicherungskennzeichen und die Bescheinigung verlieren ihre
+Gültigkeit mit Ablauf des Verkehrsjahres. Die das Fahrzeug führende
+Person hat die Bescheinigung über das Versicherungskennzeichen
+mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
+auszuhändigen oder vorzuzeigen.
+
+(2) Das Versicherungskennzeichen hat zu bestehen aus einem Schild, das
+eine zur eindeutigen Identifizierung des Kraftfahrzeuges geeignete
+Erkennungsnummer und das Zeichen des zuständigen Verbandes der
+Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das
+Zeichen des Versicherers trägt sowie das Verkehrsjahr angibt, für
+welches das Versicherungskennzeichen gilt. Die Erkennungsnummer hat
+sich aus nicht mehr als drei Ziffern und nicht mehr als drei
+Buchstaben zusammenzusetzen. Die Ziffern sind in einer Zeile über den
+Buchstaben anzugeben. Das Verkehrsjahr ist durch die Angabe des
+Kalenderjahrs zu bezeichnen, in welchem es beginnt. Der zuständige
+Verband der Kraftfahrtversicherer oder, wenn kein Verband zuständig
+ist, das Kraftfahrt-Bundesamt hat jeweils mit Genehmigung des
+Bundesministeriums für Verkehr den Versicherern die Erkennungsnummern
+zuzuteilen.
+
+(3) Der Versicherer hat dem Kraftfahrt-Bundesamt die Halterdaten nach
+§ 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes und die in §
+57 Absatz 5 genannten Fahrzeugdaten sowie Änderungen der Daten
+unverzüglich nach Zuweisung des Versicherungskennzeichens zu
+übermitteln. Die Übermittlung kann auch über eine
+Gemeinschaftseinrichtung der Versicherer erfolgen. Ausführungsregeln
+zur technisch-organisatorischen Ausgestaltung der Datenübermittlung
+hat das Kraftfahrt-Bundesamt festzulegen und die entsprechenden
+Standards auf der Internetseite des Kraftfahrt-Bundesamts zu
+veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im
+Bundesanzeiger und im Verkehrsblatt hinzuweisen.
+
+(4) Ein Eigenversicherer nach § 2 Absatz 1 Nummer 1 bis 4 des
+Pflichtversicherungsgesetzes oder eine juristische Person nach § 2
+Absatz 1 Nummer 5 des Pflichtversicherungsgesetzes ist berechtigt,
+unter dem Zeichen eines Verbandes der Kraftfahrtversicherer
+Versicherungskennzeichen auszustellen. Der Verband teilt dem
+Berechtigten nach Satz 1 die Erkennungsnummer nach Absatz 2 Satz 5 zu.
+Absatz 3 Satz 1 und 3 gilt entsprechend.
+
+
 ### § 53 Ausgestaltung und Anbringung des Versicherungskennzeichens
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005400000)
 
@@ -2506,6 +4457,71 @@ und keine verwechslungsfähigen oder beeinträchtigenden Zeichen und
 Einrichtungen nach Absatz 6 am Fahrzeug angebracht sind.
 
 
+### § 53a Kennzeichenfolie und Trägerplatte
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009900123)
+
+(1) Versicherungskennzeichen nach § 52 dürfen sich abweichend von § 53
+in Verbindung mit Anlage 17 aus einer Kennzeichenfolie und der
+dazugehörigen Trägerplatte zusammensetzen, wenn die Maßgaben der
+Absätze 2 bis 6 erfüllt sind. Eine Kennzeichenfolie darf bis zu
+dreimal mit einer neuen Kennzeichenfolie überklebt werden; sodann sind
+alle Kennzeichenfolien von der Trägerplatte vor Anbringung einer neuen
+Kennzeichenfolie zu entfernen.
+
+(2) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten,
+dass die Festigkeit des Verbundes aus der Kennzeichenfolie und der
+dazugehörigen Trägerplatte den in Nummer 4 Satz 7 der Anlage 17
+genannten Anforderungen entspricht. Dies ist durch das Gutachten eines
+für Bauteilprüfung geeigneten Sachverständigen nachzuweisen.
+
+(3) Die Beschriftung der Kennzeichenfolie erfolgt nach dem
+Schriftmuster „Schrift für Kfz-Kennzeichen“ mit
+fälschungserschwerender Schrift (FE-Schrift). Die Schriftmuster können
+bei der Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01
+50, 51401 Bergisch Gladbach, bezogen werden. Form, Größe und
+Ausgestaltung der Kennzeichenfolie müssen dem Muster und den Angaben
+der Anlage 17a entsprechen.
+
+(4) Der Versicherer, der das Kennzeichen ausgibt, muss gewährleisten,
+dass der Verbund aus der Kennzeichenfolie und der dazugehörigen
+Trägerplatte eine hinreichende Witterungsbeständigkeit aufweist. Durch
+das Gutachten eines für Bauteilprüfung geeigneten Sachverständigen ist
+nachzuweisen, dass das verwendete Material entsprechende Eigenschaften
+aufweist.
+
+(5) Die Kennzeichenfolie samt ihrer vollflächigen Verklebung auf der
+Trägerplatte oder auf einer dort vorhandenen Kennzeichenfolie muss so
+beschaffen sein, dass diese beim Abziehen reißt, oder es müssen durch
+Augenschein deutlich erkennbare Veränderungen der Kennzeichenfolie
+nach einem Entfernen auftreten, so dass diese nicht wiederverwendbar
+wird.
+
+(6) Es ist ein fälschungserschwerendes Merkmal in Form eines
+transparenten diffraktiven Hologrammmotivs vorzusehen, das dauernd
+fest mit der Kennzeichenfolie verbunden ist und die Lesbarkeit der
+Beschriftung der Kennzeichenfolie nicht beeinträchtigt. Das Motiv des
+Hologramms soll die Anmutung eines Glasbruchs haben. Das Hologramm ist
+in Form eines durchgehenden Streifens linksbündig am rechten Rand des
+Versicherungskennzeichens transparent auszugestalten. Dieser Streifen
+ist unterlegt mit dem hellgrauen Schriftzug
+„VERSICHERUNGSKENNZEICHEN“, der von rechts oben nach rechts unten,
+sowohl vertikal als auch horizontal mittig zwischen den
+Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug
+„VERSICHERUNGSKENNZEICHEN“ ist in der Schriftart Arial Fett in
+Schrifthöhe 4 Millimeter in Großbuchstaben auszuführen. Zusätzlich
+muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination
+rechtsbündig in Form eines transparenten Hologramms der Schriftzug
+„GDV“, gefolgt von der jeweiligen Jahreszahl des Versicherungsjahres,
+nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“ mit FE-Schrift in
+einer Schrifthöhe von 8 Millimetern angebracht sein. Auf der
+Kennzeichenfolie muss zudem ein verdecktes Sicherheitsmerkmal nach
+Wahl des Herstellers der Kennzeichenfolie vorhanden sein; es ist so zu
+wählen, dass die automatische Erfassung des Kennzeichens nicht
+erschwert wird.
+
+(7) Im Übrigen bleibt Anlage 17 unberührt.
+
+
 ### § 54 Rote Versicherungskennzeichen
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005500000)
 
@@ -2547,8 +4563,618 @@ Kenntnis zu setzen. Die Zulassungsbehörde hat das
 Versicherungskennzeichen und die Bescheinigung einzuziehen.
 
 
+### § 56 Versicherungsplakette
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005701123)
+
+(1) Für ein Kraftfahrzeug im Sinne des § 1 Absatz 1 der
+Elektrokleinstfahrzeuge-Verordnung in Verbindung mit § 3 Absatz 3 Satz
+1 Nummer 1 Buchstabe g ist die Versicherungsplakette der Nachweis,
+dass für das Kraftfahrzeug eine Kraftfahrzeug-Haftpflichtversicherung
+nach § 1 des Pflichtversicherungsgesetzes besteht.
+
+(2) Die Vorschriften über das Versicherungskennzeichen nach den §§ 52
+und 53 sind mit der Maßgabe entsprechend anzuwenden, dass
+
+1.  es abweichend von § 52 Absatz 1 Satz 7 genügt, wenn die Bescheinigung
+    über die Versicherungsplakette für eine Inbetriebsetzung von der das
+    Fahrzeug führenden Person aufbewahrt und zuständigen Personen auf
+    Verlangen zur Prüfung ausgehändigt wird;
+
+
+2.  die Versicherungsplakette abweichend von § 52 Absatz 2 anstelle eines
+    Schildes aus einem Aufkleber besteht, der eine dauerhafte Verklebung
+    auf der Fahrzeugoberfläche gewährleistet und zusätzlich mit einem
+    fälschungserschwerenden Hologramm ausgestattet ist;
+
+
+3.  Form, Größe und Ausgestaltung der Versicherungsplakette abweichend von
+    § 53 Absatz 1 Satz 6 dem Muster und den Angaben in Anlage 18
+    entsprechen müssen.
+
+
+
+
+(3) Eine Versicherungsplakette ist an der Rückseite des Fahrzeuges
+fest anzubringen, sofern möglich unter der Schlussleuchte. Eine
+Versicherungsplakette darf bis zu einem Vertikalwinkel von 30 Grad in
+Fahrtrichtung geneigt sein. Der untere Rand einer
+Versicherungsplakette darf nicht weniger als 50 Millimetern über der
+Fahrbahn liegen. Eine Versicherungsplakette muss hinter dem Fahrzeug
+auf eine Entfernung von mindestens 8 Metern in der Fahrzeuglängsachse
+lesbar sein.
+
+(4) Ein Kraftfahrzeug im Sinne des § 1 Absatz 1 der
+Elektrokleinstfahrzeuge-Verordnung darf von der das Fahrzeug führenden
+Person auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn
+die Versicherungsplakette nach den Absätzen 2 und 3 ausgestaltet und
+angebracht ist und keine verwechslungsfähigen oder beeinträchtigende
+Zeichen und Einrichtungen am Fahrzeug angebracht sind.
+
+(5) Eine Fahrt im Sinne des § 41 Absatz 1 darf mit einem Kraftfahrzeug
+im Sinne des § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung
+vorbehaltlich des § 2 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung
+auch mit einer roten Versicherungsplakette nach dem Muster in Anlage
+18 unternommen werden. Absatz 2 in Verbindung mit § 52 Absatz 2 und 3
+ist entsprechend mit der Maßgabe anzuwenden, dass der
+Buchstabenbereich der Erkennungsnummer mit dem Buchstaben „Z“ zu
+beginnen hat. Eine rote Versicherungsplakette ist nach den Absätzen 2
+und 3 in Verbindung mit § 53 und Anlage 18 auszugestalten und
+anzubringen. Eine rote Versicherungsplakette muss nicht fest am
+Elektrokleinstfahrzeug angebracht sein. Ein Elektrokleinstfahrzeug mit
+einer roten Versicherungsplakette darf im Übrigen nur nach Maßgabe des
+Absatzes 4 in Betrieb gesetzt werden. Der Versicherer hat dem
+Kraftfahrt-Bundesamt die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer
+2 des Straßenverkehrsgesetzes und die in § 57 Absatz 6 genannten
+Fahrzeugdaten unverzüglich nach Zuweisung der Versicherungsplakette zu
+übermitteln.
+
+(6) Endet das Versicherungsverhältnis vor dem Ablauf des
+Verkehrsjahres, das auf der Versicherungsplakette angegeben ist, hat
+der Versicherer den Halter zur unverzüglichen Entfernung der
+Versicherungsplakette, zur Vorlage eines Nachweises über diese
+Entfernung und zur Rückgabe der ausgehändigten Bescheinigung
+aufzufordern und der Zulassungsbehörde die Beendigung des
+Versicherungsverhältnisses anzuzeigen. Kommt der Halter der
+Aufforderung nicht nach, hat der Versicherer hiervon die nach § 75
+zuständige Zulassungsbehörde in Kenntnis zu setzen. Die
+Zulassungsbehörde hat unverzüglich die Versicherungsplakette zu
+entfernen und die Bescheinigung einzuziehen.
+
+
 ## Abschnitt 7 - Fahrzeugregister
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001200000)
+
+
+### § 57 Erhebung und Speicherung der Fahrzeugdaten im Zentralen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005801123)
+
+(1) Bei einem Fahrzeug, dem ein Kennzeichen zugeteilt ist, sind im
+Zentralen Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu
+speichern:
+
+1.  die der Zulassungsbehörde nach § 6 Absatz 5 Nummer 1, 2, 4 und 5 und
+    Absatz 8 mitzuteilenden Fahrzeugdaten sowie die errechnete Nutzlast
+    des Fahrzeuges, welche sich aus der technisch zulässigen Gesamtmasse
+    abzüglich der Masse des in Betrieb befindlichen Fahrzeuges ergibt,
+
+
+2.  weitere Angaben, soweit deren Eintragung in den Fahrzeugdokumenten
+    vorgeschrieben oder zulässig ist,
+
+
+3.  das Unterscheidungszeichen und die Erkennungsnummer des zugeteilten
+    Kennzeichens sowie das Datum der Zuteilung,
+
+
+4.  bei Zuteilung eines Kennzeichens als Saisonkennzeichen zusätzlich zu
+    den Angaben nach Nummer 3 der Betriebszeitraum,
+
+
+5.  bei Zuteilung eines Oldtimerkennzeichens oder eines Kennzeichens für
+    elektrisch betriebene Fahrzeuge zusätzlich zu den Angaben nach Nummer
+    3 ein Hinweis darauf, dass es sich um ein solches Kennzeichen handelt,
+
+
+5a. bei Zuteilung eines Wechselkennzeichens zusätzlich zu den Angaben nach
+    Nummer 3 ein Hinweis darauf, dass es sich um ein solches Kennzeichen
+    handelt, und das jeweils zugehörige andere Wechselkennzeichen,
+
+
+6.  das Unterscheidungszeichen und die Erkennungsnummer aufgrund von einer
+    Ausnahmegenehmigung zugeteilten weiteren Kennzeichen sowie das Datum
+    der jeweiligen Zuteilung,
+
+
+7.  der Monat und das Jahr des auf die Ausfertigung der
+    Zulassungsbescheinigung folgenden Ablaufs der Frist für die nächste
+    Hauptuntersuchung oder Sicherheitsprüfung nach § 29 der
+    Straßenverkehrs-Zulassungs-Ordnung,
+
+
+8.  bei Verwendung des Nachweisverfahrens der Hauptuntersuchung oder
+    Sicherheitsprüfung mittels Verifizierung der Prüfziffer nach § 22
+    Absatz 1 Satz 1 Nummer 2 die nach § 22 Absatz 5 von den
+    Zulassungsbehörden übermittelten Daten,
+
+
+9.  bei Zuteilung eines grünen Kennzeichens ein Hinweis darauf, dass es
+    sich um ein solches Kennzeichen handelt, und das Datum der Zuteilung,
+
+
+10. das Datum
+
+    a)  der Außerbetriebsetzung des Fahrzeuges und, bei einem mit einem
+        Wechselkennzeichen zugelassenen Fahrzeug zusätzlich einen Hinweis
+        darauf, dass es sich um ein Wechselkennzeichen handelt,
+
+
+    b)  der Entstempelung des Kennzeichens, wobei im Fall der
+        internetbasierten Außerbetriebsetzung das Datum der
+        Außerbetriebsetzung anstelle des Datums der Entstempelung zu speichern
+        ist, und, bei einem mit einem Wechselkennzeichen zugelassenen Fahrzeug
+        zusätzlich das Datum der Entstempelung des fahrzeugbezogenen Teils
+        sowie
+
+
+    c)  des Ablaufs der Reservierung des Kennzeichens,
+
+
+
+
+
+11. die Art der Typgenehmigung oder Fahrzeug-Einzelgenehmigung,
+    einschließlich der Nummer des Einzelgenehmigungsbogens, des Datums der
+    Einzelgenehmigung und der Kennung der Genehmigungsbehörde,
+
+
+12. die Emissionsklasse, in die das Fahrzeug eingestuft ist, und die
+    Grundlage dieser Einstufung,
+
+
+13. die Kennziffer des Zulassungsbezirks einschließlich der
+    Gemeindekennziffer und die Kennziffer früherer Zulassungsbezirke,
+
+
+14. im Fall einer internetbasierten Antragstellung die Antragsnummer und
+    die Angabe, dass eine internetbasierte Antragstellung vorliegt,
+
+
+15. bei Fahrzeugen, für die die Zulassungsbescheinigung Teil II
+    ausgefertigt wurde, die Nummer und der Sicherheitscode der
+    Zulassungsbescheinigung Teil II sowie bei Außerbetriebsetzung des
+    Fahrzeuges ein Hinweis über den Verbleib der Zulassungsbescheinigung
+    Teil II,
+
+
+16. die Nummern früherer Zulassungsbescheinigungen Teil II und Hinweise
+    über deren Verbleib,
+
+
+17. soweit eine Aufbietung der Zulassungsbescheinigungen Teil II erfolgt
+    ist, ein Hinweis darauf,
+
+
+18. die von der Zulassungsbehörde aufgebrachte Nummer, die Vordrucknummer,
+    der Sicherheitscode und die Druckstücknummer der Markierung der
+    Zulassungsbescheinigung Teil I,
+
+
+19. die Sicherheitscodes und die Druckstücknummern der Stempelplaketten,
+
+
+20. das Datum der Aushändigung und der Hinweis über die Rückgabe oder
+    Einziehung der Zulassungsbescheinigung Teil I, wobei im Fall der
+    internetbasierten Wiederzulassung das Datum der Aushändigung entfällt,
+
+
+21. Hinweise über die Ausstellung einer Zulassungsbescheinigung Teil I als
+    Zweitschrift sowie eines Anhängerverzeichnisses und das Datum der
+    jeweiligen Ausstellung,
+
+
+22. bei Ausstellung eines Internationalen Zulassungsscheins ein Hinweis
+    darauf und das Datum der Ausstellung,
+
+
+23. eine Vormerkung zur Inanspruchnahme nach dem Bundesleistungsgesetz,
+    dem Verkehrssicherstellungsgesetz oder dem Verkehrsleistungsgesetz,
+
+
+24. folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  die der Zulassungsbehörde nach § 6 Absatz 5 Nummer 3 mitzuteilenden
+        Daten,
+
+
+    b)  das Datum des Eingangs der Versicherungsbestätigung,
+
+
+    c)  Hinweise auf ein Nichtbestehen oder eine Beendigung des
+        Versicherungsverhältnisses, die Anzeige hierüber sowie das Datum des
+        Eingangs der Anzeige bei der Zulassungsbehörde,
+
+
+    d)  bei Maßnahmen der Zulassungsbehörde auf Grund des Nichtbestehens oder
+        der Beendigung des Versicherungsverhältnisses ein Hinweis darauf und
+
+
+    e)  der Name und die Anschrift oder die Schlüsselnummer der früheren
+        Versicherer und jeweils die Daten zu diesen Versicherungen nach
+        Maßgabe der Buchstaben a bis d,
+
+
+
+
+
+25. fahrzeugbezogene und halterbezogene Ausnahmegenehmigungen sowie
+    Auflagen oder Hinweise auf solche Genehmigungen und Auflagen,
+
+
+26. Hinweise über
+
+    a)  Fahrzeugmängel,
+
+
+    b)  Maßnahmen zur Mängelbeseitigung,
+
+
+    c)  erhebliche Schäden am Fahrzeug aus einem Verkehrsunfall,
+
+
+    d)  die Eintragung der Außerbetriebsetzung des Fahrzeuges in die
+        Zulassungsbescheinigung Teil I,
+
+
+    e)  die Berechtigung zum Betrieb des Fahrzeuges trotz eines
+        Verkehrsverbots,
+
+
+    f)  Verstöße gegen die Vorschriften über die Kraftfahrzeugsteuer,
+
+
+
+
+
+27. Hinweise über die Untersagung oder Beschränkung des Betriebs des
+    Fahrzeuges,
+
+
+28. Angaben zum Ort, an dem das sichergestellte Fahrzeug abgestellt ist,
+
+
+29. das Datum des Eingangs der Anzeige bei der Zulassungsbehörde über die
+    Veräußerung des Fahrzeuges und das Datum der Veräußerung,
+
+
+30. bei Verlegung des Wohnsitzes des Halters in den Bezirk einer anderen
+    Zulassungsbehörde und Zuteilung eines neuen Kennzeichens: das neue
+    Kennzeichen dieses Zulassungsbezirks und das Datum der Zuteilung,
+
+
+31. folgende Daten über frühere Angaben und Ereignisse:
+
+    a)  Kennzeichen,
+
+
+    b)  Fahrzeug-Identifizierungsnummern,
+
+
+    c)  Marke und Typ des Fahrzeuges,
+
+
+    d)  Hinweise über Änderungen in der Beschaffenheit und Ausrüstung des
+        Fahrzeuges sowie das jeweilige Datum der Änderung,
+
+
+    e)  Hinweise über den Grund der sonstigen Änderungen und das jeweilige
+        Datum der Änderung,
+
+
+
+
+
+32. folgende Daten über den Verwertungsnachweis und die Abgabe von
+    Erklärungen nach § 17:
+
+    a)  das Datum der Ausstellung des Verwertungsnachweises und
+
+        aa) die Betriebsnummer des inländischen Demontagebetriebes oder
+
+
+        bb) im Fall des § 17 Absatz 2 der Staat, in dem die Verwertungsanlage
+            ihren Sitz hat,
+
+
+
+        oder
+
+
+    b)  der Hinweis auf die Angabe, dass das Fahrzeug zum Zweck der Entsorgung
+        in einem Drittstaat verbleibt, oder
+
+
+    c)  der Hinweis auf die Angabe, dass das Fahrzeug nicht als Abfall
+        entsorgt wird,
+
+
+
+
+
+33. die Nummer der früheren ausländischen Zulassungsbescheinigung oder die
+    Nummern von deren Teilen I und II, soweit diese jeweils vorhanden
+    sind,
+
+
+34. bei erstmaliger Zulassung eines Fahrzeuges, wobei eine Zulassung
+    außerhalb der Europäischen Union vor weniger als drei Monaten nicht zu
+    berücksichtigen ist, folgende Daten zur Beschaffenheit des Fahrzeuges,
+    sofern das Fahrzeug einem Typ entspricht, für den eine EU-
+    Typgenehmigung vorliegt, die auf Basis der Verordnung (EG) Nr.
+    715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007
+    über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der
+    Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5
+    und Euro 6) und über den Zugang zu Reparatur- und
+    Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1)
+    in Verbindung mit der Verordnung (EU) 2017/1151 der Kommission vom 1.
+    Juni 2017 zur Ergänzung der Verordnung (EG) Nr. 715/2007 des
+    Europäischen Parlaments und des Rates über die Typgenehmigung von
+    Kraftfahrzeugen hinsichtlich der Emissionen von leichten
+    Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den
+    Zugang zu Fahrzeugreparatur- und Wartungsinformationen, zur Änderung
+    der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates,
+    der Verordnung (EG) Nr. 692/2008 der Kommission sowie der Verordnung
+    (EU) Nr. 1230/2012 der Kommission und zur Aufhebung der Verordnung
+    (EG) Nr. 692/2008 der Kommission (ABl. L 175 vom 7.7.2017, S. 1)
+    erteilt worden ist:
+
+    a)  Radstand,
+
+
+    b)  Spurweite,
+
+
+    c)  elektrischer Energieverbrauch in Wattstunden je Kilometer,
+
+
+    d)  bei einem extern aufladbaren Hybridfahrzeug die gleichwertige
+        elektromotorische Reichweite innerorts (EAER City) gemäß Feld 49.5 der
+        Übereinstimmungsbescheinigung,
+
+
+    e)  Codes der Ökoinnovationen,
+
+
+    f)  Kohlenstoffdioxid-Einsparung durch Ökoinnovationen in Gramm pro
+        Kilometer,
+
+
+    g)  Prüfmasse des Fahrzeuges in Kilogramm nach dem weltweit harmonisierten
+        Prüfverfahren für leichte Nutzfahrzeuge (WLTP-Prüfmasse),
+
+
+    h)  Abweichungsfaktor,
+
+
+    i)  Differenzierungsfaktor und
+
+
+    j)  Fahrzeugfamilie.
+
+
+
+
+
+
+
+(2) Bei der Zuteilung eines roten Kennzeichens sind im Zentralen
+Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu speichern:
+
+1.  das Unterscheidungszeichen und die Erkennungsnummer,
+
+
+2.  ein Hinweis auf die Zuteilung und das Datum der Zuteilung sowie die
+    Dauer der Gültigkeit des Kennzeichens,
+
+
+3.  das Datum der Rückgabe oder der Entziehung des Kennzeichens,
+
+
+4.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  die der Zulassungsbehörde nach § 41 Absatz 5 mitzuteilenden Daten zur
+        Kraftfahrzeug-Haftpflichtversicherung,
+
+
+    b)  die nach Absatz 1 Nummer 24 Buchstabe b bis e zu speichernden Daten.
+
+
+
+
+
+
+
+(3) Bei der Zuteilung eines Kurzzeitkennzeichens sind im Zentralen
+Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu speichern:
+
+1.  die nach § 42 Absatz 2 Satz 2 Nummer 3 bis 6 mitzuteilenden
+    Fahrzeugdaten,
+
+
+2.  das Unterscheidungszeichen und die Erkennungsnummer,
+
+
+3.  ein Hinweis auf die Zuteilung und das Datum der Zuteilung des
+    Kennzeichens sowie die Dauer der Gültigkeit des Kennzeichens,
+
+
+4.  die nach § 42 Absatz 5 Satz 2 zu vermerkenden Beschränkungen,
+
+
+5.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  die der Zulassungsbehörde nach § 42 Absatz 2 Satz 2 Nummer 2
+        mitzuteilenden Daten zur Kraftfahrzeug-Haftpflichtversicherung,
+
+
+    b)  die nach Absatz 1 Nummer 24 Buchstabe b bis e zu speichernden Daten.
+
+
+
+
+
+
+
+(4) Bei Zuteilung eines Ausfuhrkennzeichens sind im Zentralen
+Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu speichern:
+
+1.  die der Zulassungsbehörde nach § 45 Absatz 2 Satz 7 mitzuteilenden
+    Fahrzeugdaten,
+
+
+2.  das Unterscheidungszeichen und die Erkennungsnummer sowie
+
+    a)  das Datum der Zuteilung des Kennzeichens und
+
+
+    b)  das Datum des Ablaufs der Gültigkeit der Zulassung des Fahrzeuges mit
+        diesem Kennzeichen im Geltungsbereich dieser Verordnung,
+
+
+
+
+
+3.  die Nummer und der Sicherheitscode der Zulassungsbescheinigung Teil
+    II, falls eine Zulassungsbescheinigung Teil II vorhanden war, und
+    Hinweise zum Verbleib der Zulassungsbescheinigung Teil II,
+
+
+4.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  die der Zulassungsbehörde nach § 45 Absatz 2 Satz 7 mitzuteilenden
+        Daten zur Kraftfahrzeug-Haftpflichtversicherung,
+
+
+    b)  die nach Absatz 1 Nummer 24 Buchstabe b bis e zu speichernden Daten.
+
+
+
+
+
+
+
+(5) Bei Ausgabe eines Versicherungskennzeichens oder einer
+Versicherungsplakette sind im Zentralen Fahrzeugregister folgende
+Fahrzeugdaten zu erheben und zu speichern:
+
+1.  die dem Versicherer nach § 52 Absatz 1 Satz 4, auch in Verbindung mit
+    § 56 Absatz 2, mitzuteilenden Fahrzeugdaten,
+
+
+2.  die Erkennungsnummer,
+
+
+3.  der Beginn des Versicherungsschutzes,
+
+
+4.  der Zeitpunkt der Beendigung der auf dem Versicherungsverhältnis nach
+    § 117 Absatz 2 des Versicherungsvertragsgesetzes beruhenden
+    Leistungspflicht,
+
+
+5.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  der Name und die Anschrift oder die Schlüsselnummer des Versicherers,
+
+
+    b)  die Nummer des Versicherungsscheins oder der Versicherungsbestätigung.
+
+
+
+
+
+
+
+(6) Bei Ausgabe eines roten Versicherungskennzeichens oder einer roten
+Versicherungsplakette sind im Zentralen Fahrzeugregister folgende
+Fahrzeugdaten zu erheben und zu speichern:
+
+1.  die Erkennungsnummer,
+
+
+2.  der Beginn des Versicherungsschutzes,
+
+
+3.  der Zeitpunkt der Beendigung der auf dem Versicherungsverhältnis nach
+    § 117 Absatz 2 des Versicherungsvertragsgesetzes beruhenden
+    Leistungspflicht,
+
+
+4.  folgende Daten zur Kraftfahrzeug-Haftpflichtversicherung:
+
+    a)  der Name und die Anschrift oder die Schlüsselnummer des Versicherers,
+
+
+    b)  die Nummer des Versicherungsscheins oder der Versicherungsbestätigung.
+
+
+
+
+
+
+
+(7) Im Zentralen Fahrzeugregister sind auch die durch
+Ausnahmegenehmigung ohne Zuordnung zu einem bestimmten Fahrzeug
+zugeteilten Kennzeichen zu erheben und zu speichern sowie jeweils das
+Datum der Zuteilung und die Stelle, die über die Verwendung bestimmt.
+
+(8) Soweit das Kraftfahrt-Bundesamt für bestimmte Daten eine
+Schlüsselnummer festgelegt hat, ist auch diese im Zentralen
+Fahrzeugregister zu erheben und zu speichern.
+
+(9) Im Zentralen Fahrzeugregister ist ferner das Datum der Änderung
+der in den Absätzen 1 bis 8 bezeichneten Fahrzeugdaten zu erheben und
+zu speichern.
+
+(10) Im Zentralen Fahrzeugregister sind Hinweise auf Diebstahl oder
+sonstiges Abhandenkommen
+
+1.  eines Fahrzeuges,
+
+
+2.  eines gestempelten Kennzeichens oder eines gestempelten roten
+    Kennzeichens,
+
+
+3.  eines gestempelten Ausfuhrkennzeichens oder eines gestempelten
+    Kurzzeitkennzeichens, dessen jeweilige Gültigkeit noch nicht
+    abgelaufen ist,
+
+
+4.  eines gültigen Versicherungskennzeichens oder einer gültigen
+    Versicherungsplakette,
+
+
+5.  einer ausgefertigten Zulassungsbescheinigung Teil I oder Teil II
+
+
+
+zu erheben und zu speichern. Jeweils zusätzlich sind das Datum des
+Diebstahls oder des sonstigen Abhandenkommens sowie Hinweise darauf zu
+erheben und zu speichern, dass nach dem abhandengekommenen Gegenstand
+gefahndet wird und dass im Fall des Verlustes eines Kennzeichens oder
+einer Versicherungsplakette im Sinne des Satzes 1 Nummer 2 bis 4 diese
+nicht vor deren Wiederauffinden, sonst nicht vor Ablauf von zehn
+Jahren seit Fahndungsbeginn wieder zugeteilt werden dürfen. Bei
+Diebstahl oder sonstigem Abhandenkommen von nicht ausgefertigten
+Zulassungsbescheinigungen Teil I oder Teil II ist jeweils die
+Dokumentennummer zu erheben und zu speichern. Wurde in den Vordruck
+für die Zulassungsbescheinigung Teil II bereits durch den Hersteller
+eine Fahrzeug-Identifizierungsnummer eingetragen, ist auch diese zu
+erheben und zu speichern.
+
+(11) Hinweise auf erhebliche Schäden an einem Fahrzeug sind im
+Zentralen Fahrzeugregister zu erheben und zu speichern, auch wenn das
+Fahrzeug außer Betrieb gesetzt wird.
 
 
 ### § 58 Erhebung und Speicherung der Fahrzeugdaten im örtlichen Fahrzeugregister
@@ -3608,6 +6234,278 @@ sind, die in § 60 vorgeschriebene Datenübermittlung im Wege der
 Datenfernübertragung durch Direkteinstellung vornimmt.
 
 
+### § 66 Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006702123)
+
+(1) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 1 des
+Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
+
+1.  für eine Anfrage unter Verwendung des Kennzeichens, der Fahrzeug-
+    Identifizierungsnummer, der Nummer der Zulassungsbescheinigung, der
+    Vordrucknummer oder der von der Zulassungsbehörde aufgebrachten Nummer
+    der Zulassungsbescheinigung Teil I, der Nummer einer ausländischen
+    Zulassungsbescheinigung oder des Familiennamens, Vornamens, Ordens-
+    oder Künstlernamens, Geburtsnamens, Datums und Ortes der Geburt oder
+    im Fall einer juristischen Person, Behörde oder Vereinigung des Namens
+    oder der Bezeichnung des Halters, sofern erforderlich in Verbindung
+    mit der Anschrift des Halters die in den §§ 57 und 61 genannten
+    Fahrzeugdaten, sowie die in § 59 genannten Halterdaten,
+
+
+2.  für Anfragen unter Verwendung eines Teils des Kennzeichens:
+
+    a)  die mit dem angefragten Teil des Kennzeichens übereinstimmenden
+        Kennzeichen,
+
+
+    b)  die Daten über die Fahrzeugklasse, die Marke, die Handelsbezeichnung,
+        den Typ und bei Personenkraftwagen die Farbe des Fahrzeuges sowie das
+        Datum der ersten Zulassung und
+
+
+    c)  bei Fahrzeugen mit Versicherungskennzeichen oder Versicherungsplakette
+        zusätzlich zu den Angaben nach Buchstabe b der Beginn und das Ende des
+        Versicherungsverhältnisses.
+
+
+
+
+
+
+Satz 1 Nummer 1 gilt nicht für die Sicherheitscodes der
+Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten.
+
+(2) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1, 2, 2a
+und 4, Absatz 2a, 2h, 2l und 3 des Straßenverkehrsgesetzes dürfen
+folgende Daten bereitgehalten werden:
+
+1.  für eine Anfrage unter Verwendung des Kennzeichens, der Fahrzeug-
+    Identifizierungsnummer, der Nummer der Zulassungsbescheinigung, die
+    bei Teil I der Vordrucknummer oder der von der Zulassungsbehörde
+    aufgebrachten Nummer entspricht, der Nummer einer ausländischen
+    Zulassungsbescheinigung oder des Familiennamens, Vornamens, Ordens-
+    oder Künstlernamens, Geburtsnamens, Datums und Ortes der Geburt oder
+    im Fall einer juristischen Person, Behörde oder Vereinigung des Namens
+    oder der Bezeichnung des Halters erforderlichenfalls in Verbindung mit
+    der Anschrift des Halters:
+
+    a)  die in § 57 Absatz 1 Nummer 1 bis 5, 7 bis 22 und 24 Buchstabe c,
+        Nummer 25 und 26 Buchstabe a bis e, Nummer 30 bis 32, Absatz 2 Nummer
+        1 bis 4, Absatz 3 Nummer 1 bis 4, Absatz 4 Nummer 1 bis 4, Absatz 5
+        Nummer 1 bis 5, Absatz 6 Nummer 1 bis 4 und Absatz 8 bis 10 genannten
+        Fahrzeugdaten und
+
+
+    b)  die in § 59 Absatz 1 und 3 genannten Halterdaten,
+
+
+
+
+
+2.  für eine Anfrage unter Verwendung eines Teils des Kennzeichens:
+
+    a)  die mit dem angefragten Teil des Kennzeichens übereinstimmenden
+        Kennzeichen,
+
+
+    b)  die Fahrzeugklasse, die Marke, die Handelsbezeichnung, der Typ und bei
+        Personenkraftwagen die Farbe des Fahrzeuges sowie das Datum der ersten
+        Zulassung und
+
+
+    c)  bei Fahrzeugen mit Versicherungskennzeichen oder Versicherungsplakette
+        zusätzlich zu den Angaben nach Buchstabe b der Beginn und das Ende des
+        Versicherungsverhältnisses.
+
+
+
+
+
+
+Satz 1 Nummer 1 Buchstabe a gilt nicht für die Sicherheitscodes der
+Zulassungsbescheinigung Teil I und Teil II sowie der Stempelplaketten.
+Die in Satz 1 genannten Daten sind zur Übermittlung nach § 36 Absatz
+2l des Straßenverkehrsgesetzes für die Zentralstelle für
+Sanktionsdurchsetzung bereitzuhalten.
+
+(3) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 2 Satz 1 Nummer 1a und
+Absatz 2m des Straßenverkehrsgesetzes dürfen für eine Anfrage unter
+Verwendung des Kennzeichens oder der Fahrzeug-Identifizierungsnummer
+folgende Daten bereitgehalten werden:
+
+1.  das Kennzeichen, das Datum der Zuteilung des Kennzeichens, bei
+    Saisonkennzeichen zusätzlich der Betriebszeitraum und das Datum der
+    Außerbetriebsetzung des Fahrzeuges sowie die nach § 57 Absatz 1 Nummer
+    1 und 25 und Absatz 4 Nummer 1 zu erhebenden und zu speichernden
+    Fahrzeugdaten und
+
+
+2.  die in § 59 Absatz 1 und 3 genannten Halterdaten.
+
+
+
+
+(4) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 2j des
+Straßenverkehrsgesetzes dürfen für eine Anfrage unter Verwendung der
+Fahrzeug-Identifizierungsnummer und des Kennzeichens folgende Daten
+für das Bundesamt für Wirtschaft und Ausfuhrkontrolle bereitgehalten
+werden:
+
+1.  die in § 59 Absatz 1 und 3 genannten aktuellen und früheren
+    Halterdaten und die Anzahl der früheren Halter,
+
+
+2.  die in § 57 Absatz 1 Nummer 1 in Verbindung mit § 6 Absatz 8 Satz 1
+    Nummer 2, 5 und 7 Buchstabe a, § 57 Absatz 1 Nummer 10 Buchstabe a und
+    b sowie § 57 Absatz 1 Nummer 2 und 31 Buchstabe d und e genannten
+    Fahrzeugdaten.
+
+
+
+
+(5) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 2b des
+Straßenverkehrsgesetzes dürfen die nach § 59 Absatz 1 gespeicherten
+Halterdaten und die nach § 57 Absatz 1 Nummer 12 in Verbindung mit § 6
+Absatz 8 Satz 1 Nummer 1 und 7 Buchstabe c bis e gespeicherten
+Fahrzeugdaten bereitgehalten werden, soweit sie für die Ermittlung des
+Schuldners und der Höhe der Mautgebühr nach dem
+Fernstraßenbauprivatfinanzierungsgesetz erforderlich sind. Die Daten
+nach Satz 1 sind für den mit der Erhebung der Mautgebühr nach dem
+Fernstraßenbauprivatfinanzierungsgesetz beliehenen Privaten zum Abruf
+bereitzuhalten. Gleiches gilt für Daten, soweit sie für die Ermittlung
+des Schuldners und der Höhe der Mautgebühr nach Gesetzen der Länder
+über den gebührenfinanzierten Neu- und Ausbau von Straßen erforderlich
+sind.
+
+(6) Die Übermittlung nach § 36 Absatz 2c des Straßenverkehrsgesetzes
+von Fahrzeugdaten und Daten von Fahrzeugkombinationen, die für die
+Erhebung der Maut nach dem Bundesfernstraßenmautgesetz maßgeblich
+sind, ist durch Abruf im automatisierten Verfahren zulässig. Satz 1
+gilt auch für die in Feld 33 des Fahrzeugscheins oder Feld 22 der
+Zulassungsbescheinigung Teil I eingetragenen Fahrzeugdaten und Daten
+von Fahrzeugkombinationen, die im Zentralen Fahrzeugregister erfasst
+sind. Die Daten nach Satz 1 sind bereitzuhalten für das Bundesamt für
+Logistik und Mobilität und eine sonstige öffentliche Stelle, die mit
+der Erhebung der Autobahnmaut beauftragt ist.
+
+(7) Zur Übermittlung durch Abruf im automatisierten Verfahren dürfen
+aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2d, 2e und 2k des
+Straßenverkehrsgesetzes die in Absatz 2 Satz 1 Nummer 1 Buchstabe a
+und b genannten Daten für eine Anfrage unter Verwendung folgender
+Angaben bereitgehalten werden:
+
+1.  im Fall einer natürlichen Person, Familienname, Vornamen, Ordens- oder
+    Künstlername, Geburtsname, Datum und Ort der Geburt oder
+
+
+2.  im Fall einer juristischen Person, Behörde oder Vereinigung der Name
+    oder die Bezeichnung des Halters, sofern erforderlich in Verbindung
+    mit der Anschrift des Halters.
+
+
+
+Die in Satz 1 genannten Daten sind bereitzuhalten für die zentrale
+Behörde nach § 4 des Auslandsunterhaltsgesetzes sowie für
+Gerichtsvollzieher und das Insolvenzgericht.
+
+(8) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 2f des
+Straßenverkehrsgesetzes dürfen die in § 61 Absatz 1 Satz 1 Nummer 7, 9
+bis 12, 15, 16, Absatz 2 Satz 1 Nummer 1 bis 7, 12, 18 bis 20 und
+Absatz 3 genannten Daten der jeweils letzten gespeicherten
+Hauptuntersuchung oder Sicherheitsprüfung für eine Anfrage unter
+Verwendung der Fahrzeug-Identifizierungsnummer und, sofern zugeteilt,
+des Kennzeichens bereitgehalten werden. Die in Satz 1 genannten Daten
+sind bereitzuhalten für die Technischen Prüfstellen für den
+Kraftfahrzeugverkehr und für die amtlich anerkannten
+Überwachungsorganisationen, auch über ihre jeweiligen Kopfstellen,
+sowie über Kopfstellen für die anerkannten Kraftfahrzeugwerkstätten,
+soweit diese Werkstätten Sicherheitsprüfungen durchführen. Die
+Verwendung der Daten durch die Technischen Prüfstellen für den
+Kraftfahrzeugverkehr, durch die amtlich anerkannten
+Überwachungsorganisationen und durch die anerkannten
+Kraftfahrzeugwerkstätten ist auf die Zwecke der Durchführung der
+nächsten Hauptuntersuchung oder Sicherheitsprüfung nach § 29 der
+Straßenverkehrs-Zulassungs-Ordnung beschränkt. Nach Durchführung der
+nächsten Hauptuntersuchung oder Sicherheitsprüfung nach § 29 der
+Straßenverkehrs-Zulassungs-Ordnung sind die Daten unverzüglich zu
+löschen. Die Daten dürfen weder an Dritte übermittelt noch offengelegt
+werden.
+
+(9) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
+Zentralen Fahrzeugregister nach § 36 Absatz 3a des
+Straßenverkehrsgesetzes für Maßnahmen zur Gewährleistung des
+Versicherungsschutzes im Rahmen der Kraftfahrzeug-
+Haftpflichtversicherung dürfen die nach § 59 Absatz 1 zu erhebenden
+und zu speichernden Halterdaten und die in § 57 Absatz 1 Nummer 24,
+Absatz 2 Nummer 4, Absatz 4 Nummer 4, Absatz 5 Nummer 5, Absatz 6
+Nummer 4 genannten Daten zur Kraftfahrzeug-Haftpflichtversicherung
+bereitgehalten werden. Die in Satz 1 genannten Daten sind
+bereitzuhalten für die nach § 8a Absatz 1 Satz 1 des
+Pflichtversicherungsgesetzes eingerichtete Auskunftsstelle.
+
+(10) Die Übermittlung nach § 36 Absatz 3b des Straßenverkehrsgesetzes
+von Fahrzeugdaten nach § 57 Absatz 1 Nummer 1 bis 5, 9 bis 13, 20, 25,
+26 Buchstabe d und f, Nummer 29, 30, 31 Buchstabe d und e, Absatz 2
+Nummer 1 bis 3, Absatz 4 Nummer 2 und Absatz 8 und 9 darf durch Abruf
+im automatisierten Verfahren erfolgen.
+
+(11) Die Übermittlung nach § 36 Absatz 3c des Straßenverkehrsgesetzes
+von Fahrzeugdaten nach § 57 Absatz 1 Nummer 1 bis 5, 9, 25, 31
+Buchstabe d und e und Absatz 4 Nummer 1 und 2 darf durch Abruf im
+automatisierten Verfahren erfolgen.
+
+(12) Zur Übermittlung durch Abruf im automatisierten Verfahren aus den
+örtlichen Fahrzeugregistern nach § 36 Absatz 2 Satz 2 des
+Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
+
+1.  für eine Anfrage unter Verwendung des Kennzeichens oder der Fahrzeug-
+    Identifizierungsnummer:
+
+    a)  die nach § 59 Absatz 1 zu erhebenden und zu speichernden Halterdaten
+        und
+
+
+    b)  die nach § 58 Absatz 1 Nummer 1, 3 bis 5, 7 bis 20, 22 bis 30, Absatz
+        2 Nummer 1 bis 4 und Absatz 4 Nummer 1 bis 4 zu erhebenden und zu
+        speichernden Fahrzeugdaten,
+
+
+
+
+
+2.  für eine Anfrage unter Verwendung eines Teils des Kennzeichens: die in
+    Absatz 2 Satz 1 Nummer 2 bezeichneten Daten,
+
+
+3.  für eine Anfrage unter Verwendung des Familiennamens, Vornamens,
+    Ordens- oder Künstlernamens, Geburtsnamens, Datums und Ortes der
+    Geburt des Halters oder im Fall einer juristischen Person, Behörde
+    oder Vereinigung des Namens oder der Bezeichnung des Halters oder
+    unter Verwendung der Anschrift des Halters: die in Nummer 1
+    bezeichneten Daten.
+
+
+
+
+(13) Ein Abruf im automatisierten Verfahren soll von der
+abrufberechtigten Stelle über Kopfstellen erfolgen. Die Einzelheiten
+zur netztechnischen Anbindung hat das Kraftfahrt-Bundesamt festzulegen
+und auf der Internetseite des Kraftfahrt-Bundesamts zu
+veröffentlichen. Das Kraftfahrt-Bundesamt hat auf Änderungen im
+Bundesanzeiger und im Verkehrsblatt hinzuweisen. Eine Erhebung und
+Speicherung der Anfrage- und Auskunftsdaten bei den Kopfstellen darf
+ausschließlich zum Zweck der Weiterübermittlung erfolgen. Nach
+erfolgter Weiterübermittlung haben die Kopfstellen diese gespeicherten
+Daten unverzüglich, bei elektronischer Speicherung automatisiert, zu
+löschen. § 68 bleibt unberührt.
+
+
 ### § 67 Automatisiertes Anfrage- und Auskunftsverfahren
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006800000)
 
@@ -4063,6 +6961,78 @@ seinen Verpflichtungen nach den Absätzen 4 und 5 nicht nachkommt.
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001300000)
 
 
+### § 75 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007601123)
+
+(1) Diese Verordnung wird, soweit nichts anderes bestimmt ist, von den
+nach Landesrecht zuständigen Behörden ausgeführt.
+
+(2) Örtlich zuständig ist, soweit nichts anderes bestimmt ist,
+
+1.  die Behörde des Wohnorts des Antragstellers oder Betroffenen,
+
+
+2.  bei mehreren Wohnungen des Antragstellers oder Betroffenen die Behörde
+    des Ortes der Hauptwohnung im Sinne des Bundesmeldegesetzes,
+
+
+3.  mangels eines Wohnortes oder einer Hauptwohnung die Behörde des
+    Aufenthaltsortes des Antragstellers oder Betroffenen,
+
+
+4.  bei einer juristischen Person, einem Gewerbetreibenden und einem
+    Selbstständigen mit festem Betriebssitz oder einer Behörde die Behörde
+    des Sitzes oder des Ortes der beteiligten Niederlassung oder
+    Dienststelle.
+
+
+
+Besteht in der Bundesrepublik Deutschland kein Wohnsitz, kein Sitz,
+keine Niederlassung oder keine Dienststelle, so ist die Behörde des
+Wohnorts eines Empfangsbevollmächtigten zuständig. Im Fall des § 6
+Absatz 2 Satz 2 ist die Behörde am regelmäßigen Standort des
+Fahrzeuges zuständig.
+
+(3) Örtlich zuständige Behörde im Sinne des § 15 Absatz 5 Satz 5 und
+des § 51 Absatz 4 ist die Behörde, die das Kennzeichen zugeteilt hat,
+es sei denn, dass im Fall des § 15 Absatz 4 Satz 1 Nummer 2 die für
+den neuen Wohnsitz oder den neuen Sitz zuständige Behörde die
+Zulassungsbescheinigung Teil I bereits nach § 15 Absatz 4 Satz 5
+geändert hat.
+
+(4) Ein Antrag kann mit Zustimmung der örtlich zuständigen
+Verwaltungsbehörde von einer gleichgeordneten auswärtigen Behörde, mit
+Zustimmung der zuständigen obersten Landesbehörden oder der von ihnen
+bestimmten oder nach Landesrecht zuständigen Stellen auch in einem
+anderen Land, behandelt und erledigt werden. Verlangt die
+Verkehrssicherheit ein sofortiges Eingreifen, so kann an Stelle der
+örtlich zuständigen Behörde jede ihr gleichgeordnete Behörde mit
+derselben Wirkung Maßnahmen auf Grund dieser Verordnung vorläufig
+treffen.
+
+(5) Für die Registrierung eines Großkunden nach den Vorschriften über
+die Großkundenschnittstelle in Abschnitt 3 Unterabschnitt 5 ist das
+Kraftfahrt-Bundesamt zuständig.
+
+(6) Die Zuständigkeiten der Verwaltungsbehörden auf Grund dieser
+Verordnung sind für die Dienstbereiche der Bundeswehr, der
+Bundespolizei, des Bundeskriminalamts, der Zollverwaltung, der
+Bundesanstalt Technisches Hilfswerk und der Polizeien der Länder durch
+deren Dienststellen nach Bestimmung der Fachminister und
+Fachministerinnen wahrzunehmen. Die Zuständigkeiten der
+Verwaltungsbehörden in Bezug auf ein Kraftfahrzeug und einen Anhänger
+der auf Grund des Nordatlantikvertrags errichteten internationalen
+militärischen Hauptquartiere sind, soweit das Fahrzeug seinen
+regelmäßigen Standort im Geltungsbereich dieser Verordnung hat, durch
+die Dienststellen der Bundeswehr nach Bestimmung des Bundesministers
+der Verteidigung wahrzunehmen.
+
+(7) Für den Dienstbereich der Polizeien der Länder kann die Zulassung
+eines Kraftfahrzeuges und eines Anhängers nach Bestimmung der
+Fachminister durch die nach Absatz 1 zuständigen Behörden vorgenommen
+werden.
+
+
 ### § 76 Ausnahmen
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007700000)
 
@@ -4248,6 +7218,21 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
+
+
+### § 78 Verweis auf technische Regelwerke
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007901123)
+
+(1) DIN-Normen, EN-Normen und ISO-Normen, auf die in dieser Verordnung
+verwiesen wird, sind bei der DIN Media GmbH, Berlin, zu beziehen und
+bei der Deutschen Nationalbibliothek archivmäßig gesichert
+niedergelegt.
+
+(2) RAL-Farben, auf die in dieser Verordnung Bezug genommen wird, sind
+dem Farbregister RAL 840-HR entnommen. Das Farbregister wird vom RAL
+Deutsches Institut für Gütesicherung und Kennzeichnung e. V.,
+Fränkische Straße 7, 53229 Bonn, herausgegeben und ist dort
+erhältlich.
 
 
 ### § 79 Übergangs- und Anwendungsbestimmungen
@@ -4529,6 +7514,215 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
 
 
 
+(zu § 9 Absatz 1 Satz 6)
+
+### Anlage 2 Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008201123)
+
+(Fundstelle: BGBl. 2023 I Nr. 199, S. 68 - 69)
+
+
+**1.** **Unterscheidungszeichen Bund**
+
+    *        *   BD
+
+        *   Dienstfahrzeuge des Bundestages, des Bundesrates, des
+            Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der
+            Bundesfinanzverwaltung, des Bundesverfassungsgerichts und des
+            Bundeskriminalamtes
+            (Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt;
+            für BD 4 Zulassungsbehörde Karlsruhe;
+            für BD 8 und 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ –
+            Dienstort Offenbach)
+
+
+    *        *   BG
+
+        *   Dienstfahrzeuge der Bundespolizei
+            (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des
+            Innern“ in Bonn als zentrale Zulassungsbehörde)
+            (noch gültig, wird nicht mehr zugeteilt)
+
+
+    *        *   BP
+
+        *   Dienstfahrzeuge der Bundespolizei
+            (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des
+            Innern“ in Bonn als zentrale Zulassungsbehörde)
+
+
+    *        *   BW
+
+        *   Bundes-Wasserstraßen- und Schifffahrtsverwaltung
+            (Generaldirektion Wasserstraßen und Schifffahrt)
+
+
+    *        *   THW
+
+        *   Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
+            (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des
+            Innern“ in Bonn als zentrale Zulassungsbehörde)
+
+
+    *        *   Y
+
+        *   Dienstfahrzeuge der Bundeswehr
+            (Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179
+            Mönchengladbach/Rheindahlen)
+
+
+    *        *   X
+
+        *   Dienstfahrzeuge der auf Grund des Nordatlantikvertrages errichteten
+            internationalen militärischen Hauptquartiere, die ihren regelmäßigen
+            Standort in der Bundesrepublik Deutschland haben
+            (Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179
+            Mönchengladbach/Rheindahlen)
+
+
+
+
+
+**2.** **Unterscheidungszeichen Länder**
+
+    *        *   B
+
+        *   Berlin Senat und Abgeordnetenhaus
+            (Zulassungsbehörde Berlin)
+
+
+    *        *   BBL
+
+        *   Brandenburg Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Potsdam, Stadt; für die Polizei Innenministerium
+            Zentraldienst der Polizei Brandenburg)
+
+
+    *        *   BWL
+
+        *   Baden-Württemberg Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Stuttgart, Stadt; für die Polizei Innenministerium
+            Baden-Württemberg – Landespolizeipräsidium)
+
+
+    *        *   BYL
+
+        *   Bayern Landesregierung und Landtag
+            (Zulassungsbehörde München, Stadt)
+
+
+    *        *   HB
+
+        *   Freie Hansestadt Bremen Senat und Bürgerschaft
+            (Zulassungsbehörde Bremen, Stadt)
+
+
+    *        *   HEL
+
+        *   Hessen Landesregierung und Landtag
+            (Zulassungsbehörde Wiesbaden, Stadt)
+
+
+    *        *   HH
+
+        *   Freie und Hansestadt Hamburg Senat und Bürgerschaft
+            (Zulassungsbehörde Hamburg, Stadt)
+
+
+    *        *   LSA
+
+        *   Sachsen-Anhalt Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Magdeburg, Stadt)
+
+
+    *        *   LSN
+
+        *   Sachsen Landesregierung und Landtag
+            (Zulassungsbehörde Dresden, Stadt)
+
+
+    *        *   MVL
+
+        *   Mecklenburg-Vorpommern Landesregierung
+            (einschließlich Landespolizei) und Landtag (Zulassungsbehörde
+            Schwerin, Stadt)
+
+
+    *        *   NL
+
+        *   Niedersachsen Landesregierung und Landtag
+            (Zulassungsbehörde Hannover, Stadt)
+
+
+    *        *   NRW
+
+        *   Nordrhein-Westfalen Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Düsseldorf, Stadt; für die Polizei Landesamt für
+            Zentrale Polizeiliche Dienste des Landes NRW, Duisburg)
+
+
+    *        *   RPL
+
+        *   Rheinland-Pfalz Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Mainz, Stadt)
+
+
+    *        *   SAL
+
+        *   Saarland Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Stadt Saarbrücken, Stadt und Regionalverband; für
+            die Polizei Landespolizeipräsidium – Direktion LPP 4 Zentrale Dienste
+            – LPP 4.8 Kraftfahrzeugtechnik)
+
+
+    *        *   SH
+
+        *   Schleswig-Holstein Landesregierung, Landtag und Polizei
+            (Zulassungsbehörde Kiel, Stadt)
+
+
+    *        *   THL
+
+        *   Thüringen Landesregierung und Landtag
+            (Zulassungsbehörde Erfurt, Stadt)
+
+
+
+
+
+**3.** **Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter
+    internationaler Organisationen**
+
+    *        *   0, B oder BN
+
+        *   Diplomatische Vertretungen oder internationale Organisationen und in
+            Abhängigkeit vom Status der bevorrechtigten Person
+            (Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt)
+
+
+    *        *   Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats
+
+        *   Berufskonsularische Vertretungen und in Abhängigkeit vom Status der
+            bevorrechtigten Person
+            (Zulassungsbehörde am Sitz des Konsulats)
+
+
+
+
+
+**4.** **Unterscheidungszeichen des Präsidenten des Deutschen Bundestages**
+
+    *        *   1-1
+
+        *   Dienstkraftwagen des Präsidenten des Deutschen Bundestages
+            (Zulassungsbehörde Berlin)
+
+
+
+
+
+
+
 (zu § 11 Absatz 4)
 
 ### Anlage 3 Plakettenmuster für elektrisch betriebene Fahrzeuge
@@ -4568,7 +7762,701 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
     *        ![bgbl1_2023_j01990_0010.jpg](bgbl1_2023_j01990_0010.jpg)
 
 
-   (zu § 12 Absatz 3 Satz 2 bis 7)
+   (zu § 12 Absatz 2, § 41 Absatz 6 Satz 1, § 42 Absatz 3 Satz 2, § 43
+Absatz 2, § 45 Absatz 2 Satz 1 bis 4)
+
+### Anlage 4 Ausgestaltung der Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008401123)
+
+(Fundstelle: BGBl. 2023 I Nr. 199, S. 71 - 91)
+
+## **Abschnitt 1**
+
+## Gemeinsame Vorschriften
+
+
+**1.** **Abmessungen**
+
+    Die Maße der Kennzeichenschilder betragen für:
+
+    a)  einzeilige Kennzeichen: Größtmaß der Breite: 520 mm, Höhe: 110 mm
+
+
+    b)  zweizeilige Kennzeichen: Größtmaß der Breite: 340 mm, bei zwei- und
+        dreirädrigen Kraftfahrzeugen 280 mm, Höhe: 200 mm
+
+
+    c)  Kraftradkennzeichen: Mindest-/Größtmaß der Breite: 180 mm/220 mm,
+        Höhe: 200 mm
+
+
+    d)  verkleinerte zweizeilige Kennzeichen: Größtmaß der Breite: 255 mm,
+        Höhe: 130 mm.
+
+
+
+
+    Verkleinerte zweizeilige Kennzeichen dürfen nur für Leichtkrafträder
+    sowie für Fahrzeuge nach § 12 Absatz 6 Nummer 1 zugeteilt werden.
+
+
+**2.** **Schrift**
+
+
+2.1 Beschriftung (fälschungserschwerende Schrift – FE-Schrift –)
+
+    Die Beschriftung muss den Schriftmustern „Schrift für Kfz-Kennzeichen“
+    entsprechen. Die Schriftmuster können bei der Bundesanstalt für
+    Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch
+    Gladbach, bezogen werden. Der waagerechte Abstand der Beschriftung
+    einschließlich der Plaketten zum schwarzen, grünen oder roten Rand,
+    zum Euro-Feld oder zum Feld, in dem der Betriebszeitraum oder das
+    Ablaufdatum angegeben ist, muss auf beiden Seiten gleich sein. Bei der
+    Fertigung der Kennzeichen dürfen die nachstehenden Toleranzen nicht
+    über- oder unterschritten werden.
+
+
+2.1.1 einzeilige und zweizeilige Kennzeichen:
+
+    a)  Schrifthöhe + 2,0 mm bis – 1,0 mm,
+
+
+    b)  Strichbreite der Beschriftung ± 1,0 mm,
+
+
+    c)  Strichbreite des Randes + 2,0 mm bis – 1,0 mm
+
+
+
+
+
+2.1.2 Kraftradkennzeichen und verkleinerte zweizeilige Kennzeichen:
+
+    a)  Schrifthöhe + 1,0 mm bis – 0,5 mm,
+
+
+    b)  Strichbreite der Beschriftung ± 0,5 mm,
+
+
+    c)  Strichbreite des Randes + 1,0 mm bis – 0,5 mm
+
+
+
+
+
+2.2 Schriftarten
+
+
+2.2.1 Mittelschrift 75 mm
+
+    ![bgbl1_2025_j03820_0010.jpg](bgbl1_2025_j03820_0010.jpg)
+
+2.2.2 Engschrift 75 mm
+
+    ![bgbl1_2023_j01990_0030.jpg](bgbl1_2023_j01990_0030.jpg)
+
+2.2.3 verkleinerte Mittelschrift 49 mm (nur für verkleinerte zweizeilige
+    Kennzeichen und Kraftradkennzeichen)
+
+    ![bgbl1_2023_j01990_0040.jpg](bgbl1_2023_j01990_0040.jpg)
+
+2.3 abweichende Schrift für Kennzeichen der Bundeswehr sowie für
+    Versicherungskennzeichen:
+
+    Soweit sich aus dieser Verordnung nichts anderes ergibt, erfolgt die
+    Beschriftung nach dem anliegenden Schriftmuster der Normvorschrift DIN
+    1451-2:1986-02 (Verkehrsschrift) (nach dem Hilfsnetz hergestellt), und
+    zwar grundsätzlich für Buchstaben und Zahlen in Mittelschrift. Reicht
+    die vorgesehene Höchstlänge des Kennzeichens hierfür nicht aus oder
+    lässt die etwa vorgeschriebene oder die vom Hersteller vorgesehene
+    Anbringungsstelle für Kennzeichen dies nicht zu, so darf fette
+    Engschrift verwendet werden. Bei Umlauten darf die vorgesehene
+    Schrifthöhe nicht überschritten werden. Der waagerechte Abstand der
+    Beschriftung einschließlich Plaketten zum schwarzen, blauen oder
+    grünen Rand muss auf beiden Seiten gleich sein.
+
+
+2.3.1 Mittelschrift
+
+    DIN 1451-2:1986-02
+
+    ![bgbl1_2023_j01990_0050.jpg](bgbl1_2023_j01990_0050.jpg)
+
+2.3.2 Engschrift
+
+    DIN 1451-2:1986-02
+
+    ![bgbl1_2023_j01990_0060.jpg](bgbl1_2023_j01990_0060.jpg)
+
+**3.** **Euro-Feld**
+
+    Zwischen Euro-Feld und schwarzem Rand ist eine Lichtkante bis
+    höchstens 2,0 mm zulässig.
+
+    Ausgestaltung des Sternenkranzes:
+
+    Die Geometrie des Sternenkranzes ergibt sich aus folgender Abbildung:
+
+    ![bgbl1_2023_j01990_0070.jpg](bgbl1_2023_j01990_0070.jpg)
+    Der Durchmesser des Sternenkranzes entspricht dem Sechsfachen des
+    Durchmessers des einzelnen Sterns. Die Ausführung des
+    Erkennungsbuchstabens „D“ erfolgt nach der Verordnung (EG) Nr. 2411/98
+    vom 3. November 1998.
+
+
+3.1 einzeiliges Kennzeichen
+
+    ![bgbl1_2023_j01990_0080.jpg](bgbl1_2023_j01990_0080.jpg)
+
+3.2 zweizeiliges Kennzeichen und Kraftradkennzeichen
+
+    ![bgbl1_2023_j01990_0090.jpg](bgbl1_2023_j01990_0090.jpg)
+
+3.3 verkleinertes zweizeiliges Kennzeichen
+
+    ![bgbl1_2023_j01990_0100.jpg](bgbl1_2023_j01990_0100.jpg)
+
+**4.** **Ergänzungsbestimmungen**
+
+    Mehr als acht Stellen (Buchstaben des Unterscheidungszeichens sowie
+    Buchstaben und Ziffern der Erkennungsnummer) auf einem Kennzeichen
+    sind unzulässig. Für einzeilige Kennzeichen oder zweizeilige
+    Kennzeichen nach Nummer 1 Satz 1 Buchstabe b ist die Mittelschrift zu
+    verwenden, es sei denn, die vorgesehene Höchstlänge des Kennzeichens
+    reicht hierfür nicht aus oder die etwa vorgeschriebene oder die vom
+    Hersteller vorgesehene Anbringungsstelle für Kennzeichen lässt dies
+    nicht zu. In diesem Fall darf für die Buchstaben zur Unterscheidung
+    des Verwaltungsbezirks und/oder für die Buchstaben der
+    Erkennungsnummer und/oder die Zahlen der Erkennungsnummer jeweils die
+    Engschrift verwendet werden. Das Kennzeichen darf nicht größer sein
+    als die etwa vorgeschriebene oder die vom Hersteller vorgesehene
+    Anbringungsstelle dies zulässt. In keinem Fall dürfen die zu den
+    einzelnen Kennzeichenarten angegebenen Größtmaße überschritten werden.
+    Ist es der Zulassungsbehörde nicht möglich, für ein Fahrzeug ein
+    Kennzeichen zuzuteilen, das an der am Fahrzeug vorgesehenen Stelle
+    angebracht werden kann, so hat der Halter Veränderungen am Fahrzeug
+    vorzunehmen, die die Anbringung eines vorschriftsmäßigen Kennzeichens
+    ermöglichen, sofern die Veränderungen nicht unverhältnismäßigen
+    Aufwand erfordern; in Zweifelsfällen kann die Zulassungsbehörde die
+    Vorlage eines Gutachtens eines amtlich anerkannten Sachverständigen
+    für den Kraftfahrzeugverkehr oder eines Technischen Dienstes, der zur
+    Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse zur
+    Erlangung einer EU-Typgenehmigung benannt ist, verlangen. Wird in
+    einem solchen Gutachten festgestellt, dass an einem Kraftfahrzeug die
+    Anbringung eines vorschriftsmäßigen hinteren Kennzeichens nach Nummer
+    1 Satz 1 Buchstabe a, b oder c einen unverhältnismäßigen Aufwand
+    erfordert oder technisch nicht möglich ist, kann die Zulassungsbehörde
+    eine Ausnahme zum Führen eines verkleinerten zweizeiligen Kennzeichens
+    nach Nummer 1 Satz 1 Buchstabe d genehmigen; dies gilt nicht, wenn
+    durch nachträgliche Änderungen oder den Anbau von Zubehör die
+    Anbringung eines vorschriftsmäßigen Kennzeichens nicht mehr möglich
+    ist.
+
+
+**5.** **Anerkennung von Prüfungen aus anderen Mitgliedstaaten und
+    Vertragsstaaten**
+
+    Es werden auch Prüfungen der Kennzeichenschilder anerkannt, die von
+    den zuständigen Prüfstellen anderer Mitgliedstaaten oder anderer
+    Vertragsstaaten entsprechend § 12 Absatz 2 Satz 3 durchgeführt und
+    bescheinigt werden.
+
+
+**6.** **Plaketten**
+
+    In den auf den Kennzeichen vorgesehenen Feldern sind Plaketten
+    anzubringen
+
+    a)  (weggefallen)
+
+
+    b)  nach § 29 Absatz 2 der Straßenverkehrs-Zulassungs-Ordnung auf dem
+        hinteren Kennzeichen oben,
+
+
+    c)  nach § 12 Absatz 3 auf dem vorderen und hinteren Kennzeichen jeweils
+        unten.
+
+
+
+
+    Bei zweizeiligen Kennzeichen dürfen die Plaketten unter dem Euro-Feld
+    angebracht werden. Auf dem Kraftradkennzeichen sind die Plaketten nach
+    Satz 1 Buchstabe b in der Mitte links, auch unter dem Euro-Feld, und
+    nach Satz 1 Buchstabe c in der Mitte rechts anzubringen. Auf
+    verkleinerten zweizeiligen Kennzeichen dürfen die Plaketten nach Satz
+    1 Buchstabe c auch oben zwischen dem Unterscheidungszeichen und der
+    Plakette nach Satz 1 Buchstabe b angebracht werden.
+
+
+
+
+## **Abschnitt 2**
+
+## Allgemeine Kennzeichen
+
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0110.jpg](bgbl1_2023_j01990_0110.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\* 8 mm bis 10 mm**
+
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0120.jpg](bgbl1_2023_j01990_0120.jpg)
+
+**2a.** **Kraftradkennzeichen**
+
+    ![bgbl1_2023_j01990_0130.jpg](bgbl1_2023_j01990_0130.jpg)
+
+**3.** **verkleinertes zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0140.jpg](bgbl1_2023_j01990_0140.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\* 5 mm bis 20 mm**
+
+
+
+
+## **Abschnitt 2a**
+
+## Wechselkennzeichen
+
+Kennzeichen nach Abschnitt 2 Nummer 1, 2 und 2a, Abschnitt 4 Nummer 1,
+2 und 2a und Abschnitt 5a Nummer 1 können als Wechselkennzeichen
+ausgeführt sein. Die Wechselkennzeichen bestehen nach Maßgabe des § 9
+Absatz 2 aus dem gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen
+Teil. Auf dem gemeinsamen Kennzeichenteil ist oberhalb der
+Stempelplakette, bei Kraftradkennzeichen rechts neben der
+Stempelplakette die Kennzeichnung „W“ (Schrifthöhe 20 mm,
+Schriftbreite 25 mm) anzubringen. Auf dem fahrzeugbezogenen Teil ist
+unter der letzten Ziffer der Erkennungsnummer die Beschriftung des
+gemeinsamen Kennzeichenteils in schwarzer Schrift mit einer sich bei
+Ablösung selbstzerstörenden Sicherheitsfolie aufzuführen.
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0150.jpg](bgbl1_2023_j01990_0150.jpg)
+    Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
+
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0160.jpg](bgbl1_2023_j01990_0160.jpg)
+    Die übrigen Abmessungen entsprechen denen der Allgemeinen Kennzeichen.
+
+
+**3.** **Kraftradkennzeichen**
+
+    ![bgbl1_2023_j01990_0170.jpg](bgbl1_2023_j01990_0170.jpg)
+    Die übrigen Abmessungen entsprechen denen der Kraftradkennzeichen.
+
+
+**4.** **Ergänzungsbestimmungen**
+
+    Mehr als acht Stellen (Buchstaben des Unterscheidungszeichens sowie
+    Buchstaben und Ziffern der Erkennungsnummer – ohne Kennzeichnung „W“)
+    auf dem gemeinsamen Kennzeichenteil und dem fahrzeugbezogenen Teil
+    zusammen sind unzulässig. Abschnitt 4 Nummer 4 Satz 1 bis 4 gilt für
+    Oldtimerkennzeichen als Wechselkennzeichen und in Verbindung mit
+    Abschnitt 5a Nummer 1 auch für Kennzeichen für Elektrofahrzeuge als
+    Wechselkennzeichen entsprechend. Bei Oldtimerkennzeichen ist der
+    Kennbuchstabe „H“ und bei Kennzeichen für Elektrofahrzeuge der
+    Kennbuchstabe „E“ jeweils der letzten Ziffer der Erkennungsnummer auf
+    dem fahrzeugbezogenen Teil des Wechselkennzeichens anzufügen. Die
+    Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist auf dem
+    fahrzeugbezogenen Teil des hinteren Kennzeichens oben anzubringen. Die
+    Plakette nach Abschnitt 1 Nummer 6 Satz 1 Buchstabe c ist auf dem
+    vorderen und hinteren gemeinsamen Kennzeichenteil jeweils unten sowie
+    auf dem fahrzeugbezogenen Teil des vorderen Kennzeichens, bei
+    Fahrzeugen der Klasse L, die kein vorderes Kennzeichen führen müssen,
+    auf dem fahrzeugbezogenen Teil des hinteren Kennzeichens unten
+    anzubringen.
+
+
+
+
+## **Abschnitt 3**
+
+## Kennzeichen der Bundeswehr
+
+
+**1.** **Leichtkrafträder und Kleinkrafträder**
+
+
+1.1 Leichtkrafträder und Kleinkrafträder
+
+    ![bgbl1_2023_j01990_0180.jpg](bgbl1_2023_j01990_0180.jpg)
+
+1.2 Kleinkrafträder
+
+    ![bgbl1_2023_j01990_0190.jpg](bgbl1_2023_j01990_0190.jpg)
+
+**2.** **andere Krafträder**
+
+    ![bgbl1_2023_j01990_0200.jpg](bgbl1_2023_j01990_0200.jpg)
+
+**3.** **andere Kraftfahrzeuge und Anhänger – einzeilig**
+
+    ![bgbl1_2023_j01990_0210.jpg](bgbl1_2023_j01990_0210.jpg)
+
+**4.** **andere Kraftfahrzeuge und Anhänger – zweizeilig**
+
+    ![bgbl1_2023_j01990_0220.jpg](bgbl1_2023_j01990_0220.jpg)
+
+**5.** **Ergänzungsbestimmungen**
+
+    Wird die Ziffer „1“ verwendet oder enthält eine Zeile weniger Ziffern
+    als die entsprechende Zeile des Musters, so vergrößern sich die
+    Abstände zwischen den Ziffern der Zeile gleichmäßig. Die Farbtöne des
+    Untergrundes, des Randes und der Beschriftung sind dem Farbregister
+    RAL 840 HR zu entnehmen, und zwar für schwarz RAL 9005 und weiß RAL
+    9001\. Als Farbtöne sind bei den Bundesfarben zu wählen für schwarz:
+    RAL 9005, für rot: RAL 3002 und für gold: RAL 1006. Bei Kennzeichen
+    nach Nummer 3 werden die letzten drei Ziffern von den vorhergehenden
+    Ziffern durch einen Gruppenabstand in dreifacher Größe des normalen
+    Abstandes getrennt.
+
+
+
+
+## **Abschnitt 4**
+
+## Oldtimerkennzeichen
+
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0230.jpg](bgbl1_2023_j01990_0230.jpg)
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0240.jpg](bgbl1_2023_j01990_0240.jpg)
+
+**2a.** **Kraftradkennzeichen**
+
+    ![bgbl1_2023_j01990_0250.jpg](bgbl1_2023_j01990_0250.jpg)
+
+**3.** **verkleinertes zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0260.jpg](bgbl1_2023_j01990_0260.jpg)
+
+**4.** **Ergänzungsbestimmungen**
+
+    Der Kennbuchstabe „H“ ist der Erkennungsnummer ohne Leerzeichen in
+    gleicher Schriftart anzufügen. Mehr als
+
+    a)  sieben Stellen (Buchstaben des Unterscheidungszeichens sowie
+        Buchstaben und Ziffern der Erkennungsnummer – ohne Kennbuchstaben „H“)
+        auf einem Kennzeichen nach Nummer 1,
+
+
+    b)  fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne
+        Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 2 mit einem
+        Größtmaß von 340 mm oder auf einem Kennzeichen nach Nummer 3 oder
+
+
+    c)  vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne
+        Kennbuchstaben „H“) auf einem Kennzeichen nach Nummer 2 mit einem
+        Größtmaß von 280 mm oder einem Kennzeichen nach Nummer 2a
+
+
+
+    sind unzulässig. Für Kennzeichen nach den Nummern 1 und 2 ist die
+    Mittelschrift zu verwenden, es sei denn, die vorgesehene Höchstlänge
+    des Kennzeichens reicht hierfür nicht aus oder die etwa
+    vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle
+    für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die
+    Buchstaben zur Unterscheidung des Verwaltungsbezirks und für die
+    Buchstaben der Erkennungsnummer und die Zahlen der Erkennungsnummer
+    jeweils die Engschrift verwendet werden. Für Oldtimerkennzeichen als
+    Saisonkennzeichen gilt Abschnitt 5a Nummer 2 bis 6 entsprechend.
+
+
+
+
+## **Abschnitt 5**
+
+## Saisonkennzeichen
+
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0270.jpg](bgbl1_2023_j01990_0270.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\* 8 mm bis 10 mm**
+
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0280.jpg](bgbl1_2023_j01990_0280.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\* bei zwei- und dreirädrigen Kraftfahrzeugen 280 mm**
+
+
+**2a.** **Kraftradkennzeichen**
+
+    ![bgbl1_2023_j01990_0290.jpg](bgbl1_2023_j01990_0290.jpg)
+
+**3.** **verkleinertes zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0300.jpg](bgbl1_2023_j01990_0300.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\* 5 mm bis 20 mm**
+
+
+**4.** **Ergänzungsbestimmungen:**
+
+    In dem Feld, das den Betriebszeitraum angibt, kennzeichnet die Zahl
+    über dem Bindestrich den Monat des Beginns, die Zahl unter dem
+    Bindestrich den Monat der Beendigung des Betriebszeitraums. Die
+    Ausführung der Ziffern, die den Betriebszeitraum angeben, erfolgt nach
+    DIN 1451-2:1986-02. Mehr als
+
+    a)  sieben Stellen (Buchstaben des Unterscheidungszeichens sowie
+        Buchstaben und Ziffern der Erkennungsnummer) auf einem Kennzeichen
+        nach Nummer 1 oder
+
+
+    b)  fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern) auf
+        einem Kennzeichen nach Nummer 2, 2a oder 3
+
+
+
+    sind unzulässig.
+
+
+
+
+## **Abschnitt 5a**
+
+## Kennzeichen für Elektrofahrzeuge
+
+
+**1.** **Die Kennzeichen sind entsprechend Abschnitt 4, jedoch mit dem
+    Kennbuchstaben „E“ auszuführen.**
+
+
+**2.** **einzeiliges Saisonkennzeichen**
+
+    ![bgbl1_2023_j01990_0310.jpg](bgbl1_2023_j01990_0310.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\* 8 mm bis 10 mm**
+
+    Die übrigen Abmessungen entsprechen denen der Saisonkennzeichen nach
+    Abschnitt 5 Nummer 1.
+
+
+**3.** **zweizeiliges Saisonkennzeichen**
+
+    ![bgbl1_2023_j01990_0320.jpg](bgbl1_2023_j01990_0320.jpg)
+    ***   Mindestmaß 8 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\*  20 bis 30 mm, bei zwei- und dreirädrigen Kraftfahrzeugen 15
+    mm bis 30mm**
+
+    ***\*\** bei zwei- und dreirädrigen Kraftfahrzeugen 280 mm**
+
+    Die übrigen Abmessungen entsprechen denen der Saisonkennzeichen nach
+    Abschnitt 5 Nummer 2.
+
+
+**4.** **Kraftradkennzeichen als Saisonkennzeichen**
+
+    ![bgbl1_2023_j01990_0330.jpg](bgbl1_2023_j01990_0330.jpg)
+
+**5.** **verkleinertes zweizeiliges Saisonkennzeichen**
+
+    ![bgbl1_2023_j01990_0340.jpg](bgbl1_2023_j01990_0340.jpg)
+    ***   8 mm bis 10 mm**
+
+    **\*\*  15 mm bis 18 mm**
+
+    ***\*\* Mindestmaß 8 mm**
+
+    Die übrigen Abmessungen entsprechen denen der Saisonkennzeichen nach
+    Abschnitt 5 Nummer 3.
+
+
+**6.** **Ergänzungsbestimmungen**
+
+    Der Kennbuchstabe „E“ ist der Erkennungsnummer ohne Leerzeichen in
+    gleicher Schriftart anzufügen. Mehr als
+
+    a)  sechs Stellen (Buchstaben des Unterscheidungszeichens sowie Buchstaben
+        und Ziffern der Erkennungsnummer – ohne Kennbuchstaben „E“) auf einem
+        Kennzeichen nach Nummer 2,
+
+
+    b)  fünf Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne
+        Kennbuchstaben „E“) auf einem Kennzeichen nach Nummer 3 mit einem
+        Größtmaß von 340 mm oder
+
+
+    c)  vier Stellen in der Erkennungsnummer (Buchstaben und Ziffern – ohne
+        Kennbuchstaben „E“) auf einem Kennzeichen nach Nummer 3 mit einem
+        Größtmaß von 280 mm oder einem Kennzeichen nach den Nummern 4 oder 5
+        sind unzulässig. Für Kennzeichen nach den Nummern 2 bis 5 gilt
+        Abschnitt 5 Nummer 4 Satz 1 und 2 entsprechend.
+
+
+
+
+
+
+
+## **Abschnitt 6**
+
+## Kurzzeitkennzeichen
+
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0350.jpg](bgbl1_2023_j01990_0350.jpg)
+    ![bgbl1_2023_j01990_0360.jpg](bgbl1_2023_j01990_0360.jpg)
+    ***  Mindestmaß 8 mm**
+
+    **\*\* 8 mm bis 10 mm**
+
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0370.jpg](bgbl1_2023_j01990_0370.jpg)
+    ***   Mindestmaß 8 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\* bei zwei- und dreirädrigen Kraftfahrzeugen 280 mm**
+
+
+**3.** **zweizeiliges Kennzeichen (verkleinert)**
+
+    ![bgbl1_2023_j01990_0380.jpg](bgbl1_2023_j01990_0380.jpg)
+    ***   Mindestmaß 6 mm**
+
+    **\*\*  8 mm bis 10 mm**
+
+    ***\*\* 5 mm bis 20 mm**
+
+
+**4.** **Ergänzungsbestimmungen**
+
+    Die Ausführung der Ziffern, die das Ablaufdatum angeben, erfolgt nach
+    DIN 1451-2:1986-02. Für Kennzeichen nach den Nummern 1 und 2 ist die
+    Mittelschrift zu verwenden, es sei denn, die vorgesehene Höchstlänge
+    des Kennzeichens reicht hierfür nicht aus oder die etwa
+    vorgeschriebene oder die vom Hersteller vorgesehene Anbringungsstelle
+    für Kennzeichen lässt dies nicht zu. In diesem Fall darf für die
+    Buchstaben zur Unterscheidung des Verwaltungsbezirks und die Zahlen
+    der Erkennungsnummer jeweils die Engschrift verwendet werden. § 12
+    Absatz 3 Satz 1 und 4 ist mit folgenden Maßgaben anzuwenden:
+
+    a)  Es sind Stempelplaketten mit dem Dienststempel der Zulassungsbehörde
+        mit einem Durchmesser von 35 mm mit blauem Untergrund (nach DIN 6171,
+        blau – Euro-Feld) zu verwenden.
+
+
+    b)  Die Plaketten sind wie folgt anzubringen:
+
+        aa) bei den Kennzeichen nach Nummer 1 zwischen dem Unterscheidungszeichen
+            und der Erkennungsnummer jeweils unten;
+
+
+        bb) bei den Kennzeichen nach den Nummern 2 und 3 neben dem
+            Unterscheidungszeichen jeweils oben links; bei Kennzeichen nach Nummer
+            2 mit dreistelligen Unterscheidungszeichen dürfen die Plaketten neben
+            der Erkennungsnummer unter dem Feld, das das Ablaufdatum angibt,
+            angebracht werden.
+
+
+
+
+
+    c)  Die Vorschrift bezüglich der Plakette nach Abschnitt 1 Nummer 6 Satz 1
+        Buchstabe b ist nicht anzuwenden.
+
+
+
+
+    In dem Feld, das das Ablaufdatum angibt, kennzeichnet die obere Zahl
+    den Tag, die mittlere Zahl den Monat und die untere Zahl das Jahr des
+    Ablaufdatums. Die Farbe dieses Feldes ist gelb mit schwarzer
+    Beschriftung.
+
+
+**5.** **Ergänzungen zum Normblatt DIN 74069, Ausgabe Oktober 2022**
+
+    Auf die Prüfung nach den Abschnitten 6 und 7 des Normblattes DIN
+    74069, Ausgabe Oktober 2022, wird verzichtet. Die Registernummer, die
+    der Hersteller des Kennzeichens bei der turnusmäßigen Prüfung seiner
+    Erzeugnisse von der Überwachungsstelle erhalten hat, muss verwendet
+    werden.
+
+
+
+
+## **Abschnitt 7**
+
+## Rote Kennzeichen zur wiederkehrenden Verwendung und rote
+Oldtimerkennzeichen
+
+Die Kennzeichen sind entsprechend Abschnitt 2, jedoch in roter Schrift
+und rotem Rand auszuführen. Die Vorschrift bezüglich der Plakette nach
+Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
+
+
+## **Abschnitt 8**
+
+## Ausfuhrkennzeichen
+
+
+**1.** **einzeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0390.jpg](bgbl1_2023_j01990_0390.jpg)
+    *   Mindestmaß 8 mm
+
+    \*\*  8 mm bis 10 mm
+
+
+**2.** **zweizeiliges Kennzeichen**
+
+    ![bgbl1_2023_j01990_0400.jpg](bgbl1_2023_j01990_0400.jpg)
+
+**3.** **Ergänzungsbestimmungen**
+
+    Die Vorschriften bezüglich der verkleinerten Mittelschrift (Abschnitt
+    1 Nummer 2.2.3), des Euro-Feldes (Abschnitt 1 Nummer 3) sowie der
+    Plakette (Abschnitt 1 Satz 1 Nummer 6 Satz 1 Buchstabe b) sind nicht
+    anzuwenden. Das Feld mit dem Ablaufdatum besteht aus einem roten
+    Untergrund mit schwarzer Beschriftung. Die obere Zahl kennzeichnet den
+    Tag, die mittlere Zahl den Monat und die untere Zahl das Jahr, in
+    welchem die Gültigkeit der Zulassung im Geltungsbereich dieser
+    Verordnung endet. Der rote Untergrund darf nicht retroreflektierend
+    sein. Zur Abstempelung des Kennzeichens sind Stempelplaketten nach §
+    12 Absatz 3 Satz 1 und 4, jedoch mit dem Dienstsiegel der
+    Zulassungsbehörde mit einem Durchmesser von 35 mm mit rotem Untergrund
+    (RAL 2002) zu verwenden.
+
+
+
+
+(zu § 12 Absatz 3 Satz 2 bis 7)
 
 ### Anlage 5 Stempelplaketten und Plakettenträger
 [Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008500000)
@@ -5676,6 +9564,1295 @@ internetbasierten Zulassungsverfahren nach § 22 Absatz 1 Satz 1 Nummer
 Die verifizierten und erstellten Daten werden den Antragsdaten im
 Portal hinzugefügt.
 
+(zu § 37 Absatz 4)
+
+### Anlage 12 Bevollmächtigung zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009201123)
+
+(Fundstelle: BGBl. 2025 I Nr. 382, S. 6 - 14)
+
+Abschnitt A.
+[^F834926_01_BJNR0C70B0023BJNE009201123]
+**Ausgestaltung einer Bevollmächtigung durch eine natürliche Person**
+##
+
+
+**1.** **Vollmacht [Pflichtangaben]**
+
+    **Hiermit bevollmächtige ich/bevollmächtigen wir,**
+
+    Vollmachtgeber/in bzw. betroffene Person (Fahrzeughalter)
+
+    *        *   Name
+
+        *   Vorname
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Ort
+
+
+    *        *   Geburtsdatum
+
+        *   Geburtsort
+
+
+    *        *   Geburtsname
+
+        *
+
+
+
+    □   [optional] Angaben zum Erziehungsberechtigten/gesetzlichen Vertreter
+        bei minderjährigem Fahrzeughalter
+
+        *            *   Name
+
+            *   Vorname
+
+
+        *            *   Straße
+
+            *   Hausnummer
+
+
+        *            *   PLZ
+
+            *   Ort
+
+
+        *            *   Geburtsdatum
+
+            *   Geburtsort
+
+
+        *            *   Geburtsname
+
+            *
+
+
+
+
+
+
+   **– den/die Bevollmächtigte(n) –**
+
+    *        *   Name des Unternehmens
+
+
+    *        *   oder
+
+        *   Name
+
+        *   Vorname
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Postfach
+
+
+    *        *   Ort
+
+        *
+
+
+
+
+**2.** **Einzelzulassung oder Mehrfachzulassung**
+
+    **□** **Option 1 – Einzelzulassung**
+
+        **die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+        oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für
+        das folgende Fahrzeug durchzuführen:**
+
+        **a)** **fahrzeugspezifische Angaben**
+
+            *                *   entweder
+
+                *   Fahrzeug-Identifizierungsnummer (FIN)
+
+
+            *                *   oder
+
+                *   Zulassungsbescheinigung Teil II (ZB II)
+
+
+            *                *   oder bei noch nicht produzierten Fahrzeugen
+
+                *   Herstellerschlüsselnummer (HSN) und
+
+                *   Typschlüsselnummer (TSN)
+
+
+
+
+
+        **b)** **Angaben zur Zustellung der Zulassungsunterlagen**
+
+            □   Ich beantrage die **Abholung** der vollständigen Zulassungsunterlagen
+                nach zuvor elektronisch übermitteltem Zulassungsbescheid **durch den
+                Bevollmächtigten** oder einen durch ihn beauftragten Dritten\*.
+
+
+            □   Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu
+                machen:
+
+                *                    *   Name des Unternehmens
+
+
+                *                    *   oder
+
+                    *   Name
+
+                    *   Vorname
+
+
+                *                    *   Straße
+
+                    *   Hausnummer
+
+
+                *                    *   PLZ
+
+                    *   Ort
+
+
+
+
+
+            □   Ich beantrage den **postalischen Versand** der Zulassungsunterlagen an
+                folgende Adressaten:
+
+                *                    *   Versand der Zulassungsunterlagen
+
+                    *   Zulassungsbescheinigung Teil I und Plaketten
+
+                    *   □ Halter,
+                        □ Bevollmächtigter oder
+                        □ Dritter (D I)\*
+
+
+                *                    *   Zulassungsbescheinigung Teil II
+
+                    *   □ Halter,
+                        □ Bevollmächtigter oder
+                        □ Dritter (D II)\*
+
+
+
+
+                □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die
+                    Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
+
+                    *                        *   Name des Unternehmens
+
+
+                    *                        *   oder
+
+                        *   Name
+
+                        *   Vorname
+
+
+                    *                        *   Straße
+
+                        *   Hausnummer
+
+
+                    *                        *   PLZ
+
+                        *   Ort
+
+
+
+
+
+                □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die
+                    Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden
+                    soll:
+
+                    *                        *   Name des Unternehmens
+
+
+                    *                        *   oder
+
+                        *   Name
+
+                        *   Vorname
+
+
+                    *                        *   Straße
+
+                        *   Hausnummer
+
+
+                    *                        *   PLZ
+
+                        *   Ort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    □   **Option 2 – Mehrfachzulassung**
+
+        **die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+        oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für
+        die folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste
+        können bis zu 100 Fahrzeuge angegeben werden):**
+
+        *            *   a) fahrzeugspezifische Angaben
+
+            *   b) Angaben zur Zustellung der Zulassungsunterlagen
+
+
+        *            *
+            *   entweder FIN
+
+            *   oder ZB II
+
+            *   oder (bei noch nicht produzierten Fahrzeugen)
+
+            *   **Gesammelte Abholung** durch Bevollmächtigten oder Dritten\*
+                (bitte B oder D I
+                in der Tabelle angeben)
+
+            *   **Gesammelte postalische Übersendung** an Halter, Bevollmächtigten
+                oder Dritten\*
+                (bitte H, B, D I oder D II
+                in der Tabelle angeben)
+
+
+        *            *   HSN
+
+            *   TSN
+
+
+        *            *   ZB I + ZB II u. Plaketten
+
+            *   ZB I u. Plaketten
+
+            *   ZB II
+
+
+        *            *   1.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   2.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   3.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   4.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   5.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   6.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   7.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   8.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   9.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   10.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   11.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   12.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   13.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+
+
+        □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die
+            Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
+
+            *                *   Name des Unternehmens
+
+
+            *                *   oder
+
+                *   Name
+
+                *   Vorname
+
+
+            *                *   Straße
+
+                *   Hausnummer
+
+
+            *                *   PLZ
+
+                *   Ort
+
+
+
+
+
+        □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die
+            Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden
+            soll:
+
+            *                *   Name des Unternehmens
+
+
+            *                *   oder
+
+                *   Name
+
+                *   Vorname
+
+
+            *                *   Straße
+
+                *   Hausnummer
+
+
+            *                *   PLZ
+
+                *   Ort
+
+
+
+
+
+
+
+
+
+
+
+**3.** **Einwilligungserklärungen**
+
+    Mir ist bekannt, dass der jeweils internetbasiert beantragte Vorgang
+    in der Regel am Tag der Entscheidung der Zulassungsbehörde wirksam
+    wird.
+
+    Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des
+    jeweiligen Verwaltungsakts einschließlich der Übermittlung des
+    Zulassungsbescheids und des vorläufigen Zulassungsnachweises sowie
+    meiner jeweils hierin enthaltenen personenbezogenen Daten, durch
+    Übermittlung der Zulassungsbehörde an den/die Bevollmächtigte(n).
+
+    Ich willige zu diesem Zweck ein, dass die Zulassungsbehörde dem/der
+    Bevollmächtigten auf geeignetem elektronischem Wege
+
+    •   den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
+
+
+    •   das Kennzeichen,
+
+
+    •   die festgesetzte Gebührenhöhe und
+
+
+    •   im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund
+        für die Zulassung
+
+
+
+
+    jeweils einschließlich meiner jeweils hierin enthaltenen
+    personenbezogenen Daten übermittelt.
+
+    Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine
+    dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen
+    Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung
+    etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des
+    Kraftfahrzeugsteuergesetzes sowie Art und Höhe etwaiger
+    Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner
+    jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben
+    werden dürfen, soweit dies für die Prüfung des jeweiligen
+    internetbasierten Antrags erforderlich ist.
+
+    □   [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der
+        Bevollmächtigten die in der Zulassungsbescheinigung Teil I und
+        Zulassungsbescheinigung Teil II enthaltenen Daten jeweils
+        einschließlich meiner hierin enthaltenen personenbezogenen Daten auf
+        elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt.
+        Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil
+        I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate
+        Einwilligungserklärung unterzeichnet und wurde diesbezüglich von
+        dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
+
+
+
+
+
+
+
+Abschnitt B.
+Ausgestaltung einer Bevollmächtigung
+[^F834926_02_BJNR0C70B0023BJNE009201123]
+**durch eine juristische Person, Behörde, Vereinigung oder eines
+beruflich Selbstständigen**
+##
+
+
+**1.** **Vollmacht [Pflichtangaben]**
+
+    **Hiermit bevollmächtige ich/bevollmächtigen wir,**
+
+    Vollmachtgeber (Fahrzeughalter) als juristische Person
+
+    *        *   Name des Unternehmens
+
+
+    *        *   Wirtschaftszweig nach ErfassRL Kfz
+
+
+    *        *   Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat
+            wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Postfach
+
+
+    *        *   Ort
+
+        *
+
+
+
+   Vollmachtgeber (Fahrzeughalter) als Behörde
+
+    *        *   Name der Behörde
+
+
+    *        *   Wirtschaftszweig nach ErfassRL Kfz
+
+
+    *        *   Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat
+            wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Postfach
+
+
+    *        *   Ort
+
+        *
+
+
+
+   Vollmachtgeber (Fahrzeughalter) als Einzelunternehmen bzw. beruflich
+    Selbstständige
+
+    *        *   Name des Unternehmens
+
+
+    *        *   Bei Einzelunternehmer zusätzlich
+
+        *   Name
+
+        *   Vorname
+
+
+    *        *   Wirtschaftszweig nach ErfassRL Kfz
+
+
+    *        *   Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat
+            wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Postfach
+
+
+    *        *   Ort
+
+        *
+
+
+
+   Vollmachtgeber (Fahrzeughalter) als Vereinigung
+
+    *        *   Vertretungsberechtigter
+
+        *   Name
+
+        *   Vorname
+
+
+    *        *   Name der Vereinigung
+
+
+    *        *   Wirtschaftszweig nach ErfassRL Kfz
+
+
+    *        *   Großkundennummer der Zollverwaltung, sofern vorhanden (SEPA-Mandat
+            wird bei anerkannten Großkunden der Zollverwaltung hierdurch ersetzt)
+
+
+    *        *   Straße
+
+        *   Hausnummer
+
+
+    *        *   PLZ
+
+        *   Postfach
+
+
+    *        *   Ort
+
+        *
+
+
+
+    □   **– den/die Bevollmächtigte(n) –**
+
+        *            *   Name des Unternehmens
+
+
+        *            *   oder
+
+            *   Name
+
+            *   Vorname
+
+
+        *            *   Straße
+
+            *   Hausnummer
+
+
+        *            *   PLZ
+
+            *   Postfach
+
+
+        *            *   Ort
+
+            *
+
+
+
+
+
+
+
+**2.** **Einzelzulassung, Mehrfachzulassung oder Dauervollmacht**
+
+    □   **Option 1 – Einzelzulassung**
+
+        **die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+        oder Adressänderung) nach der Fahrzeug-Zulassungsverordnung (FZV) für
+        das folgende Fahrzeug durchzuführen:**
+
+        **a)** **fahrzeugspezifische Angaben**
+
+            *                *   entweder
+
+                *   Fahrzeug-Identifizierungsnummer (FIN)
+
+
+            *                *   oder
+
+                *   Zulassungsbescheinigung Teil II (ZB II)
+
+
+            *                *   oder bei noch nicht produzierten Fahrzeugen
+
+                *   Herstellerschlüsselnummer (HSN) und
+
+                *   Typschlüsselnummer (TSN)
+
+
+
+
+
+        **b)** **Angaben zur Zustellung der Zulassungsunterlagen**
+
+            □   Ich beantrage die **Abholung** der vollständigen Zulassungsunterlagen
+                nach zuvor elektronisch übermitteltem Zulassungsbescheid **durch den
+                Bevollmächtigten** oder einen durch ihn beauftragten Dritten\*.
+
+
+            □   Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu
+                machen:
+
+                *                    *   Name des Unternehmens
+
+
+                *                    *   oder
+
+                    *   Name
+
+                    *   Vorname
+
+
+                *                    *   Straße
+
+                    *   Hausnummer
+
+
+                *                    *   PLZ
+
+                    *   Ort
+
+
+
+
+
+            □   Ich beantrage den **postalischen Versand** der Zulassungsunterlagen an
+                folgende Adressaten:
+
+                *                    *   Versand der Zulassungsunterlagen
+
+                    *   Zulassungsbescheinigung Teil I und Plaketten
+
+                    *   □ Halter,
+                        □ Bevollmächtigter oder
+                        □ Dritter (D I)\*
+
+
+                *                    *   Zulassungsbescheinigung Teil II
+
+                    *   □ Halter,
+                        □ Bevollmächtigter oder
+                        □ Dritter (D II)\*
+
+
+
+
+                □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die
+                    Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
+
+                    *                        *   Name des Unternehmens
+
+
+                    *                        *   oder
+
+                        *   Name
+
+                        *   Vorname
+
+
+                    *                        *   Straße
+
+                        *   Hausnummer
+
+
+                    *                        *   PLZ
+
+                        *   Ort
+
+
+
+
+
+                □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die
+                    Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden
+                    soll:
+
+                    *                        *   Name des Unternehmens
+
+
+                    *                        *   oder
+
+                        *   Name
+
+                        *   Vorname
+
+
+                    *                        *   Straße
+
+                        *   Hausnummer
+
+
+                    *                        *   PLZ
+
+                        *   Ort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    □   **Option 2 – Mehrfachzulassung**
+
+        **die Zulassung (inkl. Wiederzulassung, Tageszulassung und Halter-
+        oder Adressänderung) gemäß Fahrzeug-Zulassungsverordnung (FZV) für die
+        folgenden Fahrzeuge durchzuführen (in der untenstehenden Liste können
+        bis zu 100 Fahrzeuge angegeben werden):**
+
+        *            *   a) fahrzeugspezifische Angaben
+
+            *   b) Angaben zur Zustellung der Zulassungsunterlagen
+
+
+        *            *
+            *   entweder FIN
+
+            *   oder ZB II
+
+            *   oder (bei noch nicht produzierten Fahrzeugen)
+
+            *   **Gesammelte Abholung** durch Bevollmächtigten oder Dritten\*
+                (bitte B oder D I
+                in der Tabelle angeben)
+
+            *   **Gesammelte postalische Übersendung** an Halter, Bevollmächtigten
+                oder Dritten\*
+                (bitte H, B, D I oder D II
+                in der Tabelle angeben)
+
+
+        *            *   HSN
+
+            *   TSN
+
+
+        *            *   ZB I + ZB II u. Plaketten
+
+            *   ZB I u. Plaketten
+
+            *   ZB II
+
+
+        *            *   1.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   2.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   3.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   4.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   5.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   6.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   7.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   8.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   9.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   10.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   11.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   12.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *   13.
+
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+
+
+        □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die
+            Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
+
+            *                *   Name des Unternehmens
+
+
+            *                *   oder
+
+                *   Name
+
+                *   Vorname
+
+
+            *                *   Straße
+
+                *   Hausnummer
+
+
+            *                *   PLZ
+
+                *   Ort
+
+
+
+
+
+        □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die
+            Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden
+            soll:
+
+            *                *   Name des Unternehmens
+
+
+            *                *   oder
+
+                *   Name
+
+                *   Vorname
+
+
+            *                *   Straße
+
+                *   Hausnummer
+
+
+            *                *   PLZ
+
+                *   Ort
+
+
+
+
+
+
+
+
+    □   **Option 3 – Dauervollmacht zur Regelung folgender Angelegenheiten**
+
+        □   alle Vorgänge gemäß Fahrzeug-Zulassungsverordnung (FZV) (einschl.
+            Zulassungen, Tageszulassungen, Wiederzulassungen und Halter- oder
+            Adressänderungen) durchzuführen.
+
+            **a)** **Befristung der Dauervollmacht (Gültigkeit max. 1 Jahr)**
+
+                Die Dauervollmacht muss jedem Einzelantrag beigefügt werden. Sie
+                erlischt spätestens am \_\_\__\_\__\_\__\_\_, spätestens jedoch ein
+                Jahr ab Unterzeichnung. Die Dauervollmacht ist jederzeit widerrufbar.
+
+
+            **b)** **Angaben zur Zustellung der Zulassungsunterlagen**
+
+                □   Ich beantrage die **Abholung** der vollständigen Zulassungsunterlagen
+                    nach zuvor elektronisch übermitteltem Zulassungsbescheid **durch den
+                    Bevollmächtigten** oder ein durch ihn beauftragtes drittes*
+                    Unternehmen oder Person.
+
+
+                □   Für den Fall der Abholung durch einen Dritten sind folgende Angaben zu
+                    machen:
+
+                    *                        *   Name des Unternehmens
+
+
+                    *                        *   oder
+
+                        *   Name
+
+                        *   Vorname
+
+
+                    *                        *   Straße
+
+                        *   Hausnummer
+
+
+                    *                        *   PLZ
+
+                        *   Ort
+
+
+
+
+
+                □   Ich beantrage den **postalischen Versand** der Zulassungsunterlagen an
+                    folgende Adressaten:
+
+                    *                        *   Versand der Zulassungsunterlagen
+
+                        *   Zulassungsbescheinigung Teil I und Plaketten
+
+                        *   □ Halter,
+                            □ Bevollmächtigter oder
+                            □ Dritter (D I)\*
+
+
+                    *                        *   Zulassungsbescheinigung Teil II
+
+                        *   □ Halter,
+                            □ Bevollmächtigter oder
+                            □ Dritter (D II)\*
+
+
+
+
+                    □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil I und die
+                        Plaketten an die Adresse eines Dritten (D I) versandt werden sollen:
+
+                        *                            *   Name des Unternehmens
+
+
+                        *                            *   oder
+
+                            *   Name
+
+                            *   Vorname
+
+
+                        *                            *   Straße
+
+                            *   Hausnummer
+
+
+                        *                            *   PLZ
+
+                            *   Ort
+
+
+
+
+
+                    □   * Nur auszufüllen, falls die Zulassungsbescheinigung Teil II an die
+                        Adresse eines Dritten (D II, z. B. ein Kreditinstitut) versandt werden
+                        soll:
+
+                        *                            *   Name des Unternehmens
+
+
+                        *                            *   oder
+
+                            *   Name
+
+                            *   Vorname
+
+
+                        *                            *   Straße
+
+                            *   Hausnummer
+
+
+                        *                            *   PLZ
+
+                            *   Ort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**3.** **Einwilligungserklärungen**
+
+    Mir ist bekannt, dass der jeweils internetbasiert beantragte Vorgang
+    in der Regel am Tag der Entscheidung der Zulassungsbehörde wirksam
+    wird.
+
+    Ich willige zu diesem Zweck ein in die elektronische Bekanntgabe des
+    jeweiligen Verwaltungsakts einschließlich der Übermittlung des
+    Zulassungsbescheids und des vorläufigen Zulassungsnachweises,
+    einschließlich meiner jeweils hierin enthaltenen personenbezogenen
+    Daten, durch Übermittlung der Zulassungsbehörde an den/die
+    Bevollmächtigte(n).
+
+    Ich willige zu diesem Zweck ein, dass die Zulassungsbehörde dem/der
+    Bevollmächtigten auf geeignetem elektronischem Wege
+
+    •   den Zeitpunkt der Wirksamkeit der Fahrzeugzulassung,
+
+
+    •   das Kennzeichen,
+
+
+    •   die festgesetzte Gebührenhöhe und
+
+
+    •   im Falle einer Entscheidung gegen die Zulassung, den Ablehnungsgrund
+        für die Zulassung
+
+
+
+    jeweils einschließlich meiner jeweils hierin enthaltenen
+    personenbezogenen Daten übermittelt.
+
+    Ich willige zu diesem Zweck ein, dass dem/der Bevollmächtigten meine
+    dem Steuergeheimnis unterliegenden kraftfahrzeugsteuerlichen
+    Verhältnisse im Rahmen der Mitteilung über das Ergebnis der Prüfung
+    etwaiger Kraftfahrzeugsteuerrückstände nach § 13 Absatz 2 des
+    Kraftfahrzeugsteuergesetz sowie Art und Höhe etwaiger
+    Gebührenrückstände durch die Zulassungsbehörde, einschließlich meiner
+    jeweils hierin enthaltenen personenbezogenen Daten, bekannt gegeben
+    werden dürfen, soweit dies für die Prüfung des jeweiligen
+    internetbasierten Antrags erforderlich ist.
+
+    □   [optional] Ich bitte darum, dass die Zulassungsbehörde dem/der
+        Bevollmächtigten die in der Zulassungsbescheinigung Teil I und
+        Zulassungsbescheinigung Teil II enthaltenen Daten jeweils
+        einschließlich meiner hierin enthaltenen personenbezogenen Daten auf
+        elektronischem Weg nach der wirksamen Zulassung zur Verfügung stellt.
+        Hierfür habe ich hinsichtlich der in der Zulassungsbescheinigung Teil
+        I und Zulassungsbescheinigung Teil II enthaltenen Daten eine separate
+        Einwilligungserklärung unterzeichnet und wurde diesbezüglich von
+        dem/der Bevollmächtigten nach der Datenschutz-Grundverordnung belehrt.
+
+
+
+
+
+
+
+    Ersetzt nicht die nach der Datenschutz-Grundverordnung vorgesehenen
+    Einwilligungserklärungen.
+[^F834926_01_BJNR0C70B0023BJNE009201123]:     Ersetzt nicht die nach der Datenschutz-Grundverordnung vorgesehenen
+    Einwilligungserklärungen.
+[^F834926_02_BJNR0C70B0023BJNE009201123]: 
 (zu § 41 Absatz 2 Satz 1)
 
 ### Anlage 13 Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
@@ -6139,4 +11316,401 @@ Die Bestätigung enthält die Daten zur Kraftfahrzeug-
 Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und
 zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des
 Versicherungsschutzes.
+
+(zu § 53 Absatz 1 Satz 6, § 53a Absatz 2)
+
+### Anlage 17 Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009701123)
+
+(Fundstelle: BGBl. 2023 I Nr. 199, S. 129 - 130)
+
+
+**1.** **Schematische Darstellung eines Versicherungskennzeichens mit
+    fälschungserschwerender Schrift – FE-Schrift**
+
+    ![bgbl1_2023_j01990_0620.jpg](bgbl1_2023_j01990_0620.jpg)
+    Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei
+    Buchstaben, so sind Zahlen und Buchstaben in der Mitte der Zeile
+    anzubringen. Der Abstand vom Rand ist entsprechend zu vergrößern; die
+    übrigen Abstände dürfen nur bis zum angegebenen Höchstmaß vergrößert
+    werden.
+
+
+**2.** **Schrift**
+
+    Schriftart und -größe richten sich nach DIN 1451-2:1986-02 (Anlage 4
+    Abschnitt 1 Nummer 2.3.1 und 2.3.2). Abweichend davon darf die
+    Beschriftung auch nach dem Schriftmuster „Schrift für Kfz-Kennzeichen“
+    (fälschungserschwerende Schrift – FE-Schrift) erfolgen. Die
+    Beschriftung muss dann den Schriftmustern „Schrift für Kfz-
+    Kennzeichen“ entsprechen. Die Schriftmuster können bei der
+    Bundesanstalt für Straßen- und Verkehrswesen, Postfach 10 01 50, 51401
+    Bergisch Gladbach, bezogen werden.
+
+
+**3.** **Maße**
+
+    *        *   Art der Beschriftung
+
+        *   Schrifthöhe
+
+        *   Schriftbreite
+
+        *   Waagerechter Abstand
+            der Ziffern und Buchstaben
+[^F825991_31_BJNR0C70B0023BJNE009701123]
+            voneinander
+
+        *   Waagerechter Abstand der
+            Beschriftung vom schwarzen,
+[^F825991_32_BJNR0C70B0023BJNE009701123]
+            blauen oder grünen Rand
+            mindestens
+
+        *   Senkrechter Abstand
+            der Ziffern und Buchstaben
+            voneinander
+
+        *   Senkrechter Abstand der
+            Beschriftung vom schwarzen,
+            blauen oder grünen Rand
+
+        *   Länge
+            des Trennungsstriches
+
+        *   Breite des schwarzen,
+            blauen oder grünen Randes
+
+        *   Höhe des Kennzeichens
+            einschließlich schwarzem,
+            blauem oder grünem Rand
+
+        *   Breite des Rahmens
+            einschließlich schwarzem,
+            blauem oder grünem Rand
+
+
+    *        *
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+
+    *        *   a)
+
+        *   des Kennzeichens
+
+        *   49
+
+        *   7
+
+        *   Ziffern:
+            8 bis 15
+            Buchstaben:
+            5 bis 15
+
+        *   Ziffern:
+            9
+            Buchstaben:
+            6
+
+        *   12
+
+        *   6
+
+        *   –
+
+        *   4
+
+        *   130
+
+        *   105,5
+
+
+    *        *   b)
+
+        *   des unteren
+            Randes
+
+        *   4
+
+        *   0,57
+
+        *[^F825991_33_BJNR0C70B0023BJNE009701123]
+   1
+
+        *   2
+
+        *   –
+
+        *   –
+
+        *   2
+
+        *   –
+
+        *   –
+
+        *   –
+
+
+
+
+
+
+**4.** **Ergänzungsbestimmungen**
+
+    Die Ecken des Versicherungskennzeichens müssen mit einem Halbmesser
+    von 10 mm abgerundet sein. Die Beschriftung des Kennzeichens darf
+    nicht mehr als 1,5 mm über die Grundfläche hervortreten. Beim
+    Zusammentreffen von mehr als 2 Buchstaben oder mehr als 2 Ziffern
+    erfolgt die Beschriftung in fetter Engschrift. Bei Verwendung der
+    Mittel- oder Engschrift nach DIN 1451-2:1986-02 darf der Buchstabe Q
+    nicht verwendet werden. Die Farbtöne des Randes und der Beschriftung
+    sind dem Farbregister RAL 840 HR zu entnehmen, und zwar für schwarz
+    RAL 9005, blau RAL 5012 und grün RAL 6010; der Farbton des
+    Untergrundes des Kennzeichens ist weiß (ws) nach DIN 6171, Tabelle 3.
+    Bei Verwendung von Stahlblech muss die Blechstärke mindestens 0,35 mm,
+    bei Aluminiumblech mindestens 0,50 mm betragen. Wird anderes Material
+    verwendet, so muss es eine entsprechende Festigkeit besitzen.
+
+
+
+
+    Der Abstand der Buchstaben oder Ziffern untereinander muss gleich
+    sein.
+[^F825991_31_BJNR0C70B0023BJNE009701123]:     Der waagerechte Abstand der Beschriftung vom schwarzen, blauen oder
+    grünen Rand muss auf beiden Seiten gleich sein.
+[^F825991_32_BJNR0C70B0023BJNE009701123]:     Zwischen den Buchstaben- und Zahlengruppen (Jahreszahl) ist ein
+    Gruppenabstand in dreifacher Größe des normalen Abstandes
+    freizulassen.
+[^F825991_33_BJNR0C70B0023BJNE009701123]: 
+(zu § 53a)
+
+### Anlage 17a Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE010000123)
+
+(Fundstelle: BGBl. 2025 I Nr. 382, S. 15 - 16)
+
+
+**1.** **Schematische Darstellung mit Maßen der Beschriftung**
+
+    ![bgbl1_2025_j03820_0020.jpg](bgbl1_2025_j03820_0020.jpg)
+
+**2.** **Schematische Darstellung des Hologramms**
+
+    ![bgbl1_2025_j03820_0030.jpg](bgbl1_2025_j03820_0030.jpg)
+
+
+
+(zu § 56 Absatz 2 Nummer 3)
+
+### Anlage 18 Versicherungsplakette für Elektrokleinstfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009801123)
+
+(Fundstelle: BGBl. 2023 I Nr. 199, S. 131 - 133)
+
+
+**1.** **Schematische Darstellung**
+
+    ![bgbl1_2023_j01990_0630.jpg](bgbl1_2023_j01990_0630.jpg)
+    Enthält eine Zeile nur eine oder zwei Ziffern oder einen oder zwei
+    Buchstaben, so sind Zahlen und Buchstaben in der Mitte der Zeile
+    anzubringen. Der Abstand vom Rand ist entsprechend zu vergrößern; die
+    übrigen Abstände dürfen nur bis zum angegebenen Höchstmaß vergrößert
+    werden.
+
+
+2.  **Schrift**
+
+    Die Beschriftung der Kennzeichenfolie erfolgt nach dem Schriftmuster
+    „Schrift für Kfz-Kennzeichen“ mit fälschungserschwerender Schrift –
+    FE-Schrift. Die Schriftmuster können bei der Bundesanstalt für
+    Straßen- und Verkehrswesen, Postfach 10 01 50, 51401 Bergisch
+    Gladbach, bezogen werden. Form, Größe und Ausgestaltung der
+    Kennzeichenfolie müssen dem Muster und den Angaben der Anlage
+    entsprechen.
+
+
+**3.** **Maße der Beschriftung und des Randes**
+
+    *        *   Art der Beschriftung
+
+        *   Schrifthöhe
+
+        *   Schriftbreite
+
+        *   Waagerechter Abstand
+            der Ziffern und Buchstaben
+            voneinander
+
+        *   Waagerechter Abstand der
+            Beschriftung vom schwarzen,
+            blauen oder grünen Rand
+            mindestens
+
+        *   Senkrechter Abstand der
+            Ziffern und Buchstaben
+            voneinander
+
+        *   Senkrechter Abstand der
+            Beschriftung vom schwarzen,
+            blauen oder grünen Rand
+
+        *   Breite des schwarzen,
+            blauen oder grünen Randes
+
+        *   Höhe des Rahmens
+            einschließlich schwarzem,
+            blauem oder grünem Rand
+
+        *   Breite des Rahmens
+            einschließlich schwarzem,
+            blauem oder grünem Rand
+
+        *   Außenradius an allen 4 Ecken
+
+
+    *        *
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+        *   mm
+
+
+    *        *   der Plakette
+
+        *   24,5
+
+        *   Ziffern:
+            10,5
+            Buchstaben:
+            12,3
+
+        *   Ziffern:
+            4,1
+            Buchstaben:
+            3,0
+
+        *   Ziffern:
+            4,6
+            Buchstaben:
+            3,0
+
+        *   6,0
+
+        *   3,0
+
+        *   2,0
+
+        *   65,0
+
+        *   52,9
+
+        *   5,0
+
+
+    *        *   des unteren
+            Randes
+
+        *   1,5
+
+        *   0,9
+
+        *   mindestens 0,1
+
+        *   mindestens 0,5
+
+        *   –
+
+        *   –
+
+        *   –
+
+        *   –
+
+        *   –
+
+        *   –
+
+
+    *        *   Allgemeintoleranzen nach ISO 2768-1 – Toleranzklasse c (grob)
+
+
+
+
+
+**4.** **Farben**
+
+    Die Farbtöne des Randes und der Beschriftung sind dem Farbregister RAL
+    840 HR zu entnehmen, und zwar für schwarz RAL 9005, blau RAL 5012 und
+    grün RAL 6010. Der Farbton des Untergrundes der Plakette ist weiß nach
+    DIN 6171 Teil 1: 03.89, Tabelle 3.
+
+
+**5.** **Ergänzungsbestimmungen**
+
+    Das verwendete Material muss eine hinreichende Festigkeit sowie
+    Witterungsbeständigkeit des Aufklebers Kennzeichenfolie gewährleisten.
+    Die Plakette samt ihrer vollflächigen Verklebung muss so beschaffen
+    sein, dass diese beim Abziehen reißt, oder es müssen durch Augenschein
+    deutlich erkennbare Veränderungen des Folienkörpers Kennzeichenfolie
+    nach einem Entfernen aufgetreten sein, so dass dieser nicht
+    wiederverwendbar wird. Das fälschungserschwerende Merkmal ist in
+    Gestalt Form eines transparenten diffraktiven Hologrammmotivs, das
+    dauernd fest mit der Folie verbunden ist und die Lesbarkeit der
+    Versicherungsplaketten-Beschriftung nicht beeinträchtigt, vorzusehen.
+    Das verwendete Motiv soll dabei die Anmutung eines Glasbruchs haben.
+    Das Hologramm ist in Form eines durchgehenden Streifens linksbündig am
+    rechten Rand der Versicherungsplakette transparent auszugestalten.
+    Dieser Streifen ist unterlegt mit dem hellgrauen Schriftzug
+    „ELEKTROKLEINSTFAHRZEUG“, der von rechts oben nach rechts unten,
+    sowohl vertikal als auch horizontal mittig zwischen den
+    Rahmeninnenseiten platziert, verlaufen soll. Der Schriftzug
+    „ELEKTROKLEINSTFAHRZEUG“ ist in der Schriftart Arial Fett in
+    Schrifthöhe 2 Millimeter in Großbuchstaben auszuführen. Zusätzlich
+    muss zwischen den beiden Zeilen der Zahlen-Buchstaben-Kombination der
+    Versicherungsplakette rechtsbündig in Form eines transparenten
+    Hologramms der Schriftzug „GDV“ gefolgt von der jeweiligen Jahreszahl
+    des Versicherungsjahres angebracht sein. Der Schriftzug „GDV“ sowie
+    die Jahreszahl sind in der Schriftart „Euro Plate“ bzw. Schriftmuster
+    „Schrift für Kfz-Kennzeichen“ (fälschungserschwerende Schrift – FE-
+    Schrift) in Schrifthöhe 4 Millimeter auszuführen.
+
+    Schematische Darstellung des Hologramms
+
+    ![bgbl1_2023_j01990_0640.jpg](bgbl1_2023_j01990_0640.jpg)
+
+
 

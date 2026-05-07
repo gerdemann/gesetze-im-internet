@@ -90,6 +90,19 @@ Schneidwaren im Sinne des § 1 sind insbesondere:
 
 
 
+## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000501129)
+
+Diese Verordnung tritt an dem Tag außer Kraft, an dem das Amt der
+Europäischen Union für geistiges Eigentum auf der Grundlage eines
+gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten
+Antrags die hiernach geschützte Angabe in das Unionsregister nach der
+Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig
+abschließend entscheidet. Das Bundesministerium der Justiz und für
+Verbraucherschutz gibt den Tag des Außerkrafttretens im
+Bundesgesetzblatt bekannt.
+
+
 ## Schlußformel
 [Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000600000)
 

@@ -1,0 +1,55 @@
+---
+Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Karlsruhe
+jurabk: AufgÜbertrV OFD Karlsr
+layout: default
+origslug: BJNR019280973
+slug: aufguebertrv_ofd_karlsr
+
+---
+
+# Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Karlsruhe (AufgÜbertrV OFD Karlsr)
+
+Ausfertigungsdatum
+:   1973-12-17
+
+Fundstelle
+:   BGBl I: 1973, 1928
+
+
+
+## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aufg_bertrv_ofd_karlsr/BJNR019280973.html#BJNR019280973BJNE000100311)
+
+Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes in der Fassung
+des Artikels 5 des Finanzanpassungsgesetzes vom 30. August 1971
+(Bundesgesetzbl. I S. 1426) wird verordnet:
+
+
+## § 1
+[Direktlink](https://www.gesetze-im-internet.de/aufg_bertrv_ofd_karlsr/BJNR019280973.html#BJNR019280973BJNE000200311)
+
+Die Aufgaben der Bundesvermögensabteilung der Oberfinanzdirektion
+Karlsruhe werden auf die Bundesvermögensabteilung der
+Oberfinanzdirektion Freiburg übertragen. Sitz und Bezirk der örtlichen
+Behörden ändern sich hierdurch nicht.
+
+
+## § 2
+[Direktlink](https://www.gesetze-im-internet.de/aufg_bertrv_ofd_karlsr/BJNR019280973.html#BJNR019280973BJNE000300311)
+
+Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
+Verbindung mit § 23 des Finanzverwaltungsgesetzes auch im Land Berlin.
+
+
+## § 3
+[Direktlink](https://www.gesetze-im-internet.de/aufg_bertrv_ofd_karlsr/BJNR019280973.html#BJNR019280973BJNE000400311)
+
+Diese Verordnung tritt am 1. Januar 1974 in Kraft.
+
+
+## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/aufg_bertrv_ofd_karlsr/BJNR019280973.html#BJNR019280973BJNE000500311)
+
+Der Bundesminister der Finanzen
+

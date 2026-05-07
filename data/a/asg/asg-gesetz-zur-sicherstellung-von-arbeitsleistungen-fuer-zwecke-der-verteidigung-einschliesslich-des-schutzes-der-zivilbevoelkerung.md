@@ -80,6 +80,113 @@ Ausbildungsveranstaltungen (§ 29) ist auch zulässig, wenn die
 Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
 
 
+### § 4 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001811131)
+
+(1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur
+Sicherstellung von Arbeitsleistungen
+
+1.  bei der Bundeswehr und bei den verbündeten Streitkräften,
+
+
+1a. bei mehrheitlich im Eigentum des Bundes befindlichen Gesellschaften,
+    soweit sie zur Versorgung der Bundeswehr und der verbündeten
+    Streitkräfte dienen,
+
+
+1b. bei sonstigen Unternehmen, soweit deren Leistungserbringung im Rahmen
+    von Vertragsverhältnissen zur Versorgung der Bundeswehr und der
+    verbündeten Streitkräfte erforderlich ist,
+
+
+1c. bei Betrieben, soweit sie Militärausrüstung, einschließlich
+    dazugehöriger Teile, Bauteile oder Bausätze liefern, erzeugen oder
+    Dienstleistungen in unmittelbarem Zusammenhang dazu erbringen, sowie
+
+
+1d. bei Forschungseinrichtungen, soweit sie militärisch forschen,
+
+
+2.  bei Dienststellen des Bundes, der Länder, der Gemeindeverbände, der
+    Gemeinden und der sonstigen juristischen Personen des öffentlichen
+    Rechts,
+
+
+3.  bei Verbänden und Einrichtungen des Zivilschutzes,
+
+
+4.  in Betrieben der Wasser- und Energieversorgung sowie der Abwasser- und
+    Abfallbeseitigung,
+
+
+4a. in Ernährungsunternehmen nach § 2 Nummer 6 des
+    Ernährungssicherstellungs- und
+    -vorsorgegesetzes,
+
+
+5.  in Krankenanstalten und anderen Einrichtungen, in denen
+    pflegebedürftige Personen betreut werden,
+
+
+6.  in Betrieben der Mineralöl-, Gas-, Kohle- und Wasserstoffversorgung,
+
+
+7.  in Verkehrsunternehmen einschließlich Unternehmen des Personen- und
+    Güterbeförderungsgewerbes in der See- und Binnenschifffahrt,
+
+
+8.  bei der Deutschen Telekom AG sowie bei Unternehmen, die nach Kapitel
+    12 des Postgesetzes oder Teil 10 Abschnitt 2 des
+    Telekommunikationsgesetzes verpflichtet sind,
+
+
+9.  bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten
+    Flugsicherungsorganisation und, soweit die
+    Flugsicherungsorganisationen hoheitliche Aufgaben betreffend den
+    Luftraum über dem Hoheitsgebiet der Bundesrepublik Deutschland
+    wahrnehmen, bei den nach § 31f Absatz 1, auch in Verbindung mit Absatz
+    2 Satz 2, des Luftverkehrsgesetzes oder durch internationale
+    Vereinbarung beauftragten Flugsicherungsorganisationen,
+
+
+10. bei Betrieben, soweit sie Leistungen zur Sicherstellung der
+    Funktionsfähigkeit oder der Sicherheit der Informationstechnik
+    gegenüber Betrieben oder Dienststellen im Sinne der Nummern 1a bis 9
+    erbringen.
+
+
+
+Militärausrüstung im Sinne des Satzes 1 Nummer 1c ist jede Ausrüstung,
+die eigens zu militärischen Zwecken konzipiert oder für militärische
+Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder
+Kriegsmaterial bestimmt ist.
+
+(2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der
+Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3)
+durch Rechtsverordnung bestimmen, daß Verpflichtungen und
+Beschränkungen auch in anderen Bereichen innerhalb des
+Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes
+zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch
+einschränken oder abgrenzen. Die Bundesregierung hat die
+Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
+
+(3) Verpflichtungen und Beschränkungen nach § 2 sind gegenüber
+deutschen Staatsangehörigen bei einem Beschäftigungsort außerhalb des
+Hoheitsgebietes der Bundesrepublik Deutschland auch zulässig zur
+Sicherstellung von Arbeitsleistungen
+
+1.  nach Absatz 1 Satz 1 Nummer 1 sowie, wenn der versorgende Betrieb der
+    Gesellschaft oder des Unternehmens seinen Sitz im Gebiet der
+    Bundesrepublik Deutschland hat, nach Absatz 1 Satz 1 Nummer 1a und 1b
+    und
+
+
+2.  nach Absatz 1 Satz 1 Nummer 9.
+
+
+
+
+
 ### § 5 Befreiungen
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001904308)
 
@@ -137,6 +244,16 @@ Rechtsverordnung weitere Personengruppen von der Anwendung des § 2 Nr.
 2 und 3 befreien, wenn die Fortführung ihrer Tätigkeit oder
 Berufsausbildung im öffentlichen Interesse liegt und mit der
 Verpflichtung nach dieser Vorschrift unvereinbar ist.
+
+
+### § 6 Abgrenzung zum Wehrdienst und anderen Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002002131)
+
+Die Verpflichtung zum Dienst in den Streitkräften, in der
+Bundespolizei, in einem Zivilschutzverband und im Zivildienst geht
+einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor.
+Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des
+Zivildienstgesetzes bleiben unberührt.
 
 
 ## Zweiter Abschnitt - Beschränkung der Beendigung eines Arbeitsverhältnisses im Verteidigungsfall und in Spannungszeiten
@@ -812,7 +929,85 @@ persönlichen Verhältnissen zumutbar, Gefahren und Erschwernisse auf
 sich zu nehmen.
 
 
-#### § 32 Verletzung von Sicherstellungsvorschriften
+## Sechster Abschnitt - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG001201131)
+
+
+
+### § 31a Datenübermittlung von den Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005600131)
+
+(1) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall
+und nach Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die
+folgenden Daten aller männlichen Personen vom vollendeten 18.
+Lebensjahr bis zum Ablauf des Jahres, in dem die Person das 60.
+Lebensjahr vollendet, bei den Meldebehörden abzurufen:
+
+1.  Familienname,
+
+
+2.  Vornamen,
+
+
+3.  Geburtsdatum und Geburtsort,
+
+
+4.  derzeitige Staatsangehörigkeiten,
+
+
+5.  derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.
+
+
+
+
+(2) Die Bundesagentur für Arbeit ist berechtigt, im Verteidigungsfall
+die in Absatz 1 Satz 1 genannten Daten aller weiblichen Personen vom
+vollendeten 18. Lebensjahr bis zum vollendeten 55. Lebensjahr bei den
+Meldebehörden abzurufen.
+
+(3) Ist der Datenabruf nicht möglich, so erfolgt die Datenübermittlung
+durch elektronische Datenübertragung nach § 34 Absatz 2 Satz 1 Nummer
+2 des Bundesmeldegesetzes.
+
+
+### § 31b Datenübermittlung durch die Jobcenter; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005700131)
+
+Die Jobcenter sind verpflichtet, im Verteidigungsfall oder nach
+Maßgabe von Artikel 80a Absatz 1 des Grundgesetzes die zur
+Durchführung dieses Gesetzes erforderlichen Daten an die Bundesagentur
+für Arbeit zu übermitteln. Das Bundesministerium für Arbeit und
+Soziales legt durch Rechtsverordnung mit Zustimmung des Bundestages
+und des Bundesrates die erforderlichen Daten fest.
+
+
+### § 31c Zweck der Verarbeitung und Löschung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005800131)
+
+(1) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten dürfen durch die Bundesagentur für
+Arbeit ausschließlich zur Erfüllung der Aufgaben nach diesem Gesetz
+verarbeitet werden.
+
+(2) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten einer Person sind zu löschen, wenn die
+jeweilige Person das in § 31a Absatz 1 oder 2 genannte Lebensjahr
+vollendet hat.
+
+(3) Die nach § 15d des Wehrpflichtgesetzes und den §§ 31a und 31b
+dieses Gesetzes erhobenen Daten einer Person sind nach Beendigung des
+Verteidigungsfalls oder eines Falls nach Maßgabe von Artikel 80a
+Absatz 1 des Grundgesetzes zu löschen, soweit diese nicht für aufgrund
+dieses Gesetzes begründete individuelle Rechtsverhältnisse weiter
+erforderlich sind.
+
+
+## Siebter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG001300131)
+
+
+
+### § 32 Verletzung von Sicherstellungsvorschriften
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004601308)
 
 (1) Ordnungswidrig handelt, wer
@@ -872,13 +1067,13 @@ Sicherstellung von Arbeitsleistungen im allgemeinen oder im Einzelfall
 zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 
 
-#### § 33
+### § 33
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004700319)
 
 -
 
 
-#### § 34 Koordinierung und Bedarfsdeckung
+### § 34 Koordinierung und Bedarfsdeckung
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004802126)
 
 Die Bundesregierung erläßt durch Rechtsverordnung Vorschriften über
@@ -889,7 +1084,7 @@ Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn diese nicht
 ausreichen, den Bedarf zu decken.
 
 
-#### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit
+### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004904126)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zur
@@ -901,14 +1096,14 @@ Durchführung dieses Gesetzes entstehenden Kosten. Sie werden ihr vom
 Bund erstattet.
 
 
-#### § 36 Begriffsbestimmung
+### § 36 Begriffsbestimmung
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005000319)
 
 Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte
 einschließlich der zu ihrer Berufsausbildung Beschäftigten.
 
 
-#### § 37 Öffentlich-rechtliche Dienstverhältnisse
+### § 37 Öffentlich-rechtliche Dienstverhältnisse
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005100319)
 
 Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche
@@ -917,7 +1112,24 @@ Vorschriften geregelt, die für die Dienstverhältnisse im jeweiligen
 Bereich gelten.
 
 
-#### § 39 Einschränkung von Grundrechten
+### § 38 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005203131)
+
+(1) Für Arbeitnehmer bei der Bundeswehr und den verbündeten
+Streitkräften sowie bei Gesellschaften im Sinne von § 4 Absatz 1 Satz
+1 Nummer 1a und bei sonstigen Unternehmen im Sinne von § 4 Absatz 1
+Satz 1 Nummer 1b, deren Leistungserbringung im Rahmen von
+Vertragsverhältnissen zur Versorgung der Bundeswehr und der
+verbündeten Streitkräfte erforderlich ist, gelten § 7 Absatz 1, § 9
+Absatz 1 und 2 sowie § 32 Absatz 1 Nummer 1 und Absatz 4 mit der
+Maßgabe, dass an die Stelle der Agentur für Arbeit die vom
+Bundesministerium der Verteidigung durch Rechtsverordnung bestimmte
+Stelle tritt.
+
+(2) Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
+
+
+### § 39 Einschränkung von Grundrechten
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005300319)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
@@ -928,7 +1140,7 @@ Grundgesetzes) und der freien Wahl des Arbeitsplatzes (Artikel 12 Abs.
 eingeschränkt.
 
 
-#### § 40 Inkrafttreten
+### § 40 Inkrafttreten
 [Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005400319)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

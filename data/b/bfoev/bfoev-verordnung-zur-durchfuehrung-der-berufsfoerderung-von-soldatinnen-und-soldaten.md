@@ -691,6 +691,55 @@ Europäischen Union kann gefördert werden, wenn
 
 
 
+### § 16 Durchführung der Förderung der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004801311)
+
+(1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie
+bis zum Ablauf von sieben Jahren nach Beendigung des
+Dienstverhältnisses, bei Soldatinnen auf Zeit und Soldaten auf Zeit
+mit einer Gesamtdienstzeit von mindestens 20 Jahren bis zum Ablauf von
+acht Jahren nach Beendigung des Dienstverhältnisses, begonnen werden;
+die Förderung kann bis zum Erreichen der jeweiligen
+Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes
+erfolgen.
+
+(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann nach §
+7 Absatz 12 des Soldatenversorgungsgesetzes ausnahmsweise bis zu drei
+Monate vor dem Dienstzeitende gefördert werden, wenn
+
+1.  der Beginn der Maßnahme unabänderlich ist und
+
+
+2.  durch die Förderung eine Verzögerung bei der Umsetzung des
+    Förderungsplans vermieden wird.
+
+
+
+Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer
+Gesamtdienstzeit von mindestens 20 Jahren mit der Maßgabe, dass die
+Förderung bis zu sechs Monate vor dem Dienstzeitende erfolgen kann.
+Als Ermessensleistung können die Förderungsberechtigten zur Teilnahme
+an der Maßnahme vom militärischen Dienst freigestellt werden.
+
+(3) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst –
+entscheidet auf der Grundlage einer Stellungnahme der oder des
+nächsten Disziplinarvorgesetzten und im Einvernehmen mit der
+personalbearbeitenden Stelle über die Freistellung. Die Freistellung
+kann jederzeit auf der Grundlage einer Stellungnahme der oder des
+nächsten Disziplinarvorgesetzten und im Einvernehmen mit der
+personalbearbeitenden Stelle widerrufen werden, wenn
+
+1.  sich nachträglich dienstliche Gründe ergeben, die die volle Erfüllung
+    der Dienstleistungspflicht erfordern, und
+
+
+2.  ohne den Widerruf die Erfüllung der dienstlichen Aufgaben erheblich
+    gefährdet wäre.
+
+
+
+
+
 ### § 17 Antragstellung
 [Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001903377)
 
@@ -748,6 +797,177 @@ Bundeswehrfachschule, die Disziplinarvorgesetzten, die Bundesagentur
 für Arbeit, Ausbildungsbehörden, Schulen, Industrie- und
 Handelskammern, Handwerks- und Landwirtschaftskammern sowie
 berufsständische Organisationen gutachtlich gehört werden.
+
+
+### § 19 Kosten der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002104311)
+
+(1) Soweit die Soldatinnen auf Zeit und Soldaten auf Zeit oder die zu
+ihrem Unterhalt Verpflichteten die Kosten selbst tragen müssten, wenn
+kein Anspruch auf berufliche Förderung bestünde, werden folgende
+Kosten nach Maßgabe dieser Verordnung erstattet:
+
+1.  Lehrgangs- und Studiengebühren (§ 20),
+
+
+2.  Kosten für Ausbildungsmittel (§ 21),
+
+
+3.  Reise- und Trennungsauslagen (§ 23),
+
+
+4.  Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen
+    Bildung (§ 24),
+
+
+5.  Kosten für Eignungsfeststellungsverfahren (§ 25) und
+
+
+6.  Umzugsauslagen (§ 26).
+
+
+
+Sonstige Kosten dürfen nur mit Zustimmung des Bundesministeriums der
+Verteidigung oder der von ihm bestimmten Stelle erstattet werden.
+Kosten dürfen nur erstattet werden, wenn sie nach Art und Höhe zur
+Erreichung des angestrebten schulischen und beruflichen Bildungsziels
+notwendig sind. Leistungen Dritter, die für denselben Zweck gewährt
+werden, sind anzurechnen.
+
+(2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich
+nur bis zu folgenden Höchstbeträgen erstattet:
+
+*    *
+    *   Dauer der Förderung nach § 7 Absatz 5
+        des Soldatenversorgungsgesetzes in Monaten
+
+    *   Höchstbetrag in Euro
+
+
+*    *   1
+
+    *   1
+
+    *   1 200
+
+
+*    *   2
+
+    *   2
+
+    *   2 400
+
+
+*    *   3
+
+    *   3
+
+    *   3 600
+
+
+*    *   4
+
+    *   12
+
+    *   5 000
+
+
+*    *   5
+
+    *   18
+
+    *   7 000
+
+
+*    *   6
+
+    *   24
+
+    *   9 000
+
+
+*    *   7
+
+    *   30
+
+    *   11 000
+
+
+*    *   8
+
+    *   36
+
+    *   13 000
+
+
+*    *   9
+
+    *   42
+
+    *   15 000
+
+
+*    *   10
+
+    *   48
+
+    *   17 000
+
+
+*    *   11
+
+    *   54
+
+    *   19 000
+
+
+*    *   12
+
+    *   60
+
+    *   21 000
+
+
+
+Wenn sich die Förderungsdauer nicht nach § 7 Absatz 5 des
+Soldatenversorgungsgesetzes richtet, reduziert oder erhöht sich der
+Höchstbetrag für jeden Monat, für den Anspruch auf Förderung nicht
+besteht beziehungsweise besteht, um 333,33 Euro, insbesondere
+
+1.  bei einer Verminderung der Förderungsdauer nach § 7 Absatz 7 bis 9 und
+    11 des Soldatenversorgungsgesetzes,
+
+
+2.  in den Fällen des § 7 Absatz 10 des Soldatenversorgungsgesetzes oder
+
+
+3.  bei einer Kürzung der Förderungsdauer nach den §§ 22 und 23 des
+    Soldatenversorgungsgesetzes.
+
+
+
+Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens
+15 Jahren um 1 000 Euro, von mindestens 20 Jahren um 2 000 Euro und
+von 25 Jahren um 3 000 Euro. In Ausnahmefällen kann das
+Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle
+eine Überschreitung des Höchstbetrags zulassen. Wird eine ehemalige
+Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit erneut in ein
+Dienstverhältnis als Soldatin auf Zeit oder als Soldat auf Zeit
+berufen, werden bereits erfolgte Kostenerstattungen nach § 5 des
+Soldatenversorgungsgesetzes auf den Höchstbetrag angerechnet, der auf
+Grund der neuen Verpflichtungsdauer besteht. Nicht ausgeschöpfte
+Beträge werden nicht ausgezahlt.
+
+(3) Ist der Höchstbetrag nach Absatz 2 ausgeschöpft worden und hätte
+eine sich nachträglich ergebende Verminderung der Förderungsdauer,
+Kürzung der Förderungshöchstdauer, Dienstzeitverkürzung oder Ernennung
+zur Berufssoldatin oder zum Berufssoldaten eine geringere Förderung
+ergeben, führt dies nicht zu einer Rückforderung der
+Förderungsleistung.
+
+(4) Nach § 5 Absatz 2 gewährte Leistungen werden auf Leistungen nach §
+7 Absatz 2 in Verbindung mit Absatz 1 Satz 1 des
+Soldatenversorgungsgesetzes nicht angerechnet.
 
 
 ### § 20 Lehrgangs- und Studiengebühren
@@ -1314,6 +1534,48 @@ Vorstellungsreise schriftlich oder elektronisch zu stellen; § 15
 Absatz 6 und § 23 gelten entsprechend.
 
 (4) (weggefallen)
+
+
+### § 34 Berufsorientierungspraktika nach § 9 Absatz 2 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE005001311)
+
+(1) Über die Freistellung vom militärischen Dienst zur Teilnahme an
+einem Berufsorientierungspraktikum nach § 9 Absatz 2 des
+Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums
+schriftlich oder elektronisch gestellten Antrag der
+Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3
+entschieden.
+
+(2) Grundsätzlich wird nur die Teilnahme an kostenfreien Praktika
+gefördert. Im Einzelfall kann die Teilnahme an einem entgeltlichen
+Praktikum unter Anrechnung der Kosten auf den Höchstbetrag nach § 19
+Absatz 2 bewilligt werden. Hinsichtlich der Fahrtkosten und der Kosten
+für auswärtige Unterkunft und Verpflegung gilt § 23 entsprechend.
+
+(3) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
+
+
+### § 35 Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE005101311)
+
+(1) Über die Freistellung vom militärischen Dienst nach § 9 Absatz 3
+des Soldatenversorgungsgesetzes zur Teilnahme an einem
+Berufsorientierungspraktikum entscheidet das Karrierecenter der
+Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt
+entsprechend. Der Antrag ist vor Beginn des
+Berufsorientierungspraktikums zu stellen.
+
+(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 3 des
+Soldatenversorgungsgesetzes liegt in der Regel vor, wenn die
+Förderungsberechtigten noch keine abschließende Berufswahlentscheidung
+getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder
+berufliche Alternativen erprobt werden sollen.
+
+(3) Bei einer Teilnahme an einem Berufsorientierungspraktikum werden
+Kosten nicht erstattet. Über Ausnahmen entscheidet das
+Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle.
+
+(4) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
 
 
 ### § 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen

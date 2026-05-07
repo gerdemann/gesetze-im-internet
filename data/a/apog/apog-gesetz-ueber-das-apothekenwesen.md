@@ -397,6 +397,90 @@ Bekanntmachung der Feststellung genannten Arzneimittels entsprechend
 Absatz 3 Satz 1 und 2 gestatten.
 
 
+### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004002130)
+
+Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß
+§ 43 Absatz 1 Satz 1 des Arzneimittelgesetzes und gemäß den §§ 43 und
+44a Absatz 2 des Tierarzneimittelgesetzes ist dem Inhaber einer
+Erlaubnis nach § 2 auf Antrag zu erteilen, wenn er schriftlich oder
+elektronisch versichert, dass er im Falle der Erteilung der Erlaubnis
+folgende Anforderungen erfüllen wird:
+
+1.  Der Versand wird aus einer öffentlichen Apotheke zusätzlich zu dem
+    üblichen Apothekenbetrieb und nach den dafür geltenden Vorschriften
+    erfolgen, soweit für den Versandhandel keine gesonderten Vorschriften
+    bestehen.
+
+
+2.  Mit einem Qualitätssicherungssystem wird sichergestellt, dass
+
+    a)  das zu versendende Arzneimittel so verpackt, transportiert und
+        ausgeliefert wird, dass seine Qualität und Wirksamkeit erhalten
+        bleibt,
+
+
+    b)  das versandte Arzneimittel der Person ausgeliefert wird, die von dem
+        Auftraggeber der Bestellung der Apotheke mitgeteilt wird. Diese
+        Festlegung kann insbesondere die Aushändigung an eine namentlich
+        benannte natürliche Person oder einen benannten Personenkreis
+        beinhalten,
+
+
+    c)  die Patientin oder der Patient auf das Erfordernis hingewiesen wird,
+        mit dem behandelnden Arzt Kontakt aufzunehmen, sofern Probleme bei der
+        Medikation auftreten und
+
+
+    d)  die Beratung durch pharmazeutisches Personal in deutscher Sprache
+        erfolgen wird.
+
+
+
+
+
+3.  Es wird sichergestellt, dass
+
+    a)  innerhalb von zwei Arbeitstagen nach Eingang der Bestellung das
+        bestellte Arzneimittel versandt wird, soweit das Arzneimittel in
+        dieser Zeit zur Verfügung steht, es sei denn, es wurde eine andere
+        Absprache mit der Person getroffen, die das Arzneimittel bestellt hat;
+        soweit erkennbar ist, dass das bestellte Arzneimittel nicht innerhalb
+        der in Satz 1 genannten Frist versendet werden kann, ist der Besteller
+        in geeigneter Weise davon zu unterrichten,
+
+
+    b)  alle bestellten Arzneimittel geliefert werden, soweit sie im
+        Geltungsbereich des Arzneimittelgesetzes in den Verkehr gebracht
+        werden dürfen und verfügbar sind,
+
+
+    c)  für den Fall von bekannt gewordenen Risiken bei Arzneimitteln ein
+        geeignetes System zur Meldung solcher Risiken durch Kunden, zur
+        Information der Kunden über solche Risiken und zu innerbetrieblichen
+        Abwehrmaßnahmen zur Verfügung steht,
+
+
+    d)  eine kostenfreie Zweitzustellung veranlasst wird,
+
+
+    e)  ein System zur Sendungsverfolgung unterhalten wird und
+
+
+    f)  eine Transportversicherung abgeschlossen wird.
+
+
+
+
+
+
+Im Falle des elektronischen Handels mit zur Anwendung beim Menschen
+bestimmten apothekenpflichtigen Arzneimitteln sowie nicht
+verschreibungspflichtigen Tierarzneimitteln gilt Satz 1 mit der
+Maßgabe, dass die Apotheke auch über die dafür geeigneten
+Einrichtungen und Geräte verfügen wird.
+
+
 ### § 11b
 [Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004100310)
 
@@ -1284,6 +1368,16 @@ Betriebserlaubnis oder die Bestätigung als Pächter als Erlaubnis nach
 Verwaltung einer Apotheke, die den §§ 9 und 13 nicht entsprechen,
 bleiben bis zum Ablauf der vereinbarten Vertragsdauer in Kraft, wenn
 sie nicht zu einem früheren Zeitpunkt ihre Gültigkeit verlieren.
+
+
+### § 28a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003803130)
+
+Eine vor dem 1. Januar 2026 ausgestellte Erlaubnis zum Versand von
+apothekenpflichtigen Arzneimitteln gemäß § 43 Absatz 1 Satz 1 des
+Arzneimittelgesetzes gilt auch als Erlaubnis für den Versand von
+apothekenpflichtigen Tierarzneimitteln gemäß den §§ 43 und 44a Absatz
+2 des Tierarzneimittelgesetzes.
 
 
 ### § 29

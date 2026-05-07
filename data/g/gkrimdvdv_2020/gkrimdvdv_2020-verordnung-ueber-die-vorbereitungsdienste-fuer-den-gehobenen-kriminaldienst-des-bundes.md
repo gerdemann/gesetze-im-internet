@@ -636,6 +636,17 @@ Das Studium hat insbesondere zum Ziel,
 
 
 
+##### § 10 Dauer des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001101311)
+
+(1) Das Studium dauert nach § 16 Absatz 1 der Bundeslaufbahnverordnung
+in der Regel sechs Semester.
+
+(2) Das Studium ist so zu konzipieren, dass die Studierenden je
+Semester 30 Leistungspunkte nach dem Europäischen System zur
+Übertragung und Akkumulierung von Studienleistungen erwerben können.
+
+
 ##### § 11 Gliederung des Studiums und Teilnahmepflicht
 [Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001202311)
 

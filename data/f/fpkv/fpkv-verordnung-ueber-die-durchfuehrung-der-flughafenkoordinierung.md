@@ -31,6 +31,122 @@ geändert durch das Gesetz vom 17. Dezember 1993 (BGBl. I S. 2123),
 verordnet das Bundesministerium für Verkehr:
 
 
+## § 1 Der Koordinierung und Flugplanvermittlung unterliegende Flugplätze und Verfahren der Flugplanvermittlung und Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000206119)
+
+(1) Folgende Verkehrsflughäfen sind flugplanvermittelte oder
+koordinierte Verkehrsflughäfen im Sinne des Artikels 2 Buchstabe g, h
+und i der Verordnung (EWG) Nr. 95/93, bei denen Start- und Landezeiten
+zu koordinieren sind:
+
+1.  Berlin Brandenburg
+
+
+2.  Bremen,
+
+
+3.  Dresden,
+
+
+4.  Düsseldorf,
+
+
+5.  Erfurt,
+
+
+6.  Frankfurt/Main,
+
+
+7.  Hamburg,
+
+
+8.  Hannover,
+
+
+9.  Karlsruhe/Baden-Baden,
+
+
+10. Köln/Bonn,
+
+
+11. Leipzig/Halle,
+
+
+12. Memmingen,
+
+
+13  München,
+
+
+14. Münster/Osnabrück,
+
+
+15. Nürnberg,
+
+
+16. Saarbrücken,
+
+
+17. Stuttgart.
+
+
+
+
+(2) Die Erklärung eines in Absatz 1 genannten Verkehrsflughafens zum
+koordinierten Flughafen nach Maßgabe der Verordnung (EWG) Nr. 95/93
+erfolgt im Einvernehmen mit der obersten Luftfahrtbehörde des Landes,
+im Benehmen mit dem betroffenen Flughafenunternehmer und nach Anhörung
+des Koordinierungsausschusses nach § 2 durch das Bundesministerium für
+Verkehr; sie wird im Bundesanzeiger sowie in den Nachrichten für
+Luftfahrer bekanntgemacht. Das Bundesministerium für Verkehr bestimmt
+dabei im Einvernehmen mit der obersten Luftfahrtbehörde des Landes, ob
+der Verkehrsflughafen während seiner gesamten Betriebszeit oder nur
+für die Zeiträume, in denen Kapazitätsprobleme auftreten, für
+koordiniert erklärt wird.
+
+(3) Übersteigt innerhalb bestimmter Zeiträume die Nachfrage nach
+Start- und Landezeiten regelmäßig nicht die Flugplatz- und
+Flugsicherungskapazität der in Absatz 1 genannten Verkehrsflughäfen,
+kann das Bundesministerium für Verkehr im Einvernehmen mit der
+obersten Luftfahrtbehörde des Landes, im Benehmen mit dem betroffenen
+Flughafenunternehmer und nach Anhörung des Koordinierungsausschusses
+nach § 2 einzelne Verkehrsflughäfen innerhalb dieser Zeiträume aus der
+Koordinierungspflicht entlassen. Die Entlassung aus der
+Koordinierungspflicht wird im Bundesanzeiger sowie in den Nachrichten
+für Luftfahrer bekannt gemacht.
+
+(4) Über Einzelfragen der zweckdienlichen Auslegung und Anwendung der
+Vorschriften über den Vorrang bei der Zuweisung von Start- und
+Landezeiten (Slots) sowie der Vorschriften über die Durchführung der
+Flughafenkoordination entscheidet das Bundesministerium für Verkehr im
+Rahmen seiner Rechts- und Fachaufsicht.
+
+
+## § 2 Koordinierungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000306119)
+
+(1) Für jeden koordinierten Verkehrsflughafen wird ein
+Koordinierungsausschuss eingesetzt. Er besteht aus je einem Vertreter
+der Flugsicherungsorganisation, der betroffenen Flughafenunternehmer,
+der Spitzenverbände des gewerblichen Luftverkehrs sowie des
+Geschäftsluftverkehrs. Soweit Luftfahrtunternehmen es für erforderlich
+halten, können sie je einen Vertreter für den Koordinierungsausschuss
+entsenden.
+
+(2) Der Koordinierungsausschuss gibt sich eine Geschäftsordnung nach
+Maßgabe des Artikels 5 Abs. 3 der Verordnung (EWG) Nr. 95/93. Die
+betroffenen obersten Luftfahrtbehörden der Länder werden zu allen
+Sitzungen als Beobachter eingeladen. Der Flughafenkoordinator nimmt an
+allen Sitzungen als Beobachter teil. Die Geschäftsführung für den
+Koordinierungsausschuss obliegt dem jeweiligen Flughafenunternehmer.
+
+(3) Wird vom Koordinierungsausschuss ein Bedarf festgestellt oder wird
+ein Verkehrsflughafen zum koordinierten Flughafen erklärt, setzt das
+Bundesministerium für Verkehr für den betreffenden Verkehrsflughafen
+einen Koordinierungsausschuss ein, der für diesen Flughafen die
+Aufgaben des Koordinierungsausschusses nach Absatz 1 wahrnimmt.
+
+
 ## § 3 Umfang der Koordinierungspflicht
 [Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000401308)
 

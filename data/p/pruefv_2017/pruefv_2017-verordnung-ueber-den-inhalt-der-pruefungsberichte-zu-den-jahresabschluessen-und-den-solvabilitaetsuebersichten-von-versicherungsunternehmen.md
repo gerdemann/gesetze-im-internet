@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2846
 
 Zuletzt geändert durch
-:   Art. 11 G v. 19.3.2020 I 529
-
-Änderung durch
-:   Art. 1 V v. 29.4.2026 I Nr. 124 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 29.4.2026 I Nr. 124
 
 
 ## Eingangsformel
@@ -104,6 +101,19 @@ und die Lesbarkeit des Prüfungsberichts nicht beeinträchtigt wird.
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000300000)
 
 
+#### § 4 Gegenstand der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000601128)
+
+Gegenstand der Berichterstattung ist die Prüfung der
+Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe
+der Artikel 9 Buchstabe a, Artikel 10 Buchstabe a, Artikel 11
+Buchstabe a und des Artikels 30 Absatz 1 Buchstabe a der
+Durchführungsverordnung (EU) 2023/894 in den Meldebogen S.02.01.01 aus
+Anhang I der Durchführungsverordnung (EU) 2023/894 eingetragen hat.
+Von der Prüfung ausgenommen sind die Angaben in der Spalte „Bewertung
+im gesetzlichen Abschluss“ des Meldebogens.
+
+
 #### § 5 Grundsätze zur Berichterstattung
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000700000)
 
@@ -146,6 +156,11 @@ unerheblich nach oben oder unten beeinflusst, anzugeben und zu
 beurteilen.
 
 
+#### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000901128)
+
+
+
 ### Abschnitt 2 - Ansatz und Bewertung
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000400000)
 
@@ -158,6 +173,77 @@ Solvabilitätsübersicht einbezogenen Vermögenswerte und
 Verbindlichkeiten vollständig sind und ob in der
 Solvabilitätsübersicht Vermögenswerte und Verbindlichkeiten enthalten
 sind, für die ein Ansatzverbot besteht.
+
+
+#### § 9 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001101128)
+
+(1) Der Prüfer hat darüber zu berichten, ob Artikel 9 Absatz 1 bis 3,
+5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35
+beachtet wurden.
+
+(2) Erfolgt die Bewertung
+
+1.  anhand der Marktpreise, die in aktiven Märkten für ähnliche
+    Vermögenswerte notiert sind, ist darauf einzugehen, ob die verwendeten
+    Werte angepasst wurden und die vorgenommenen Anpassungen angemessen
+    sind;
+
+
+2.  anhand eines Bewertungsmodells, ist darauf einzugehen, ob das Modell
+    angemessen ist und so weit wie möglich auf beobachtbaren Daten
+    basiert;
+
+
+3.  mit alternativen Bewertungsverfahren, ist darauf einzugehen, ob die
+    Bewertung unter Beachtung des Bewertungsprinzips nach § 74 des
+    Versicherungsaufsichtsgesetzes angemessen ist.
+
+
+
+
+(3) Wird ein ökonomischer Szenariogenerator zur Bewertung von
+Vermögenswerten und Verbindlichkeiten verwendet, ist dessen Eignung zu
+beurteilen.
+
+(4) Werden bei der Bewertung Vereinfachungsmethoden verwendet, hat der
+Prüfer zu beurteilen, ob das Unternehmen die Eignung dieser
+Vereinfachungsmethoden angemessen einschätzt.
+
+(5) Veränderungen der Bewertungsmethoden gegenüber dem Vorjahr sind zu
+erläutern und hinsichtlich ihrer Zulässigkeit zu beurteilen.
+
+
+#### § 10 Erleichterungen bei der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001201128)
+
+Macht das Unternehmen von der Erleichterung gemäß Artikel 9 Absatz 4
+der Delegierten Verordnung (EU) 2015/35 Gebrauch, muss der
+Prüfungsbericht Ausführungen dazu enthalten,
+
+1.  ob und warum die Bewertungsmethode mit § 74 des
+    Versicherungsaufsichtsgesetzes im Einklang steht,
+
+
+2.  ob und warum die Bewertungsmethode nach Art, Umfang und Komplexität
+    der mit den Geschäften des Unternehmens oder der Gruppe verbundenen
+    Risiken angemessen ist,
+
+
+3.  dass die Vermögenswerte oder die Verbindlichkeiten im Jahresabschluss
+    oder im konsolidierten Abschluss nicht gemäß den internationalen
+    Rechnungslegungsstandards bewertet werden, die die Europäische
+    Kommission durch die Verordnung (EU) 2023/1803 zur Anwendung
+    übernommen hat, und
+
+
+4.  ob und warum eine Bewertung der Vermögenswerte oder der
+    Verbindlichkeiten nach internationalen Rechnungslegungsstandards für
+    das Unternehmen oder die Gruppe mit unverhältnismäßigen Kosten
+    verbunden wäre.
+
+
+
 
 
 #### § 11 Eventualverbindlichkeiten
@@ -928,6 +1014,245 @@ nach Maßgabe des Absatzes 1 Satz 2 und des Absatzes 2 zu berichten.
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001500000)
 
 
+#### § 40 Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004202128)
+
+(1) Der Prüfer hat zu beurteilen
+
+1.  die Verfahren zur Ermittlung aller OTC-Derivate-
+    Kontrakte, die der Pflicht zum Clearing durch eine zentrale
+    Gegenpartei unterliegen, und
+
+
+2.  die Einhaltung der Clearingpflicht gemäß Artikel 4 Absatz 1, 2 und 3
+    Unterabsatz 2 der Verordnung (EU) Nr. 648/2012.
+
+
+
+Unterliegen gruppeninterne Transaktionen der Ausnahme des Artikels 4
+Absatz 2 der Verordnung (EU) Nr. 648/2012, so sind die
+organisatorischen Maßnahmen zur Einhaltung der damit verbundenen
+Voraussetzungen zu beurteilen.
+
+(2) Der Prüfer hat die Prozesse zur Erfüllung der Meldepflichten nach
+Artikel 9 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012 sowie zur
+Einhaltung der Unterrichtungspflicht gegenüber der Bundesanstalt nach
+Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr.
+648/2012, jeweils auch in Verbindung mit einer auf Grund des § 31 Satz
+1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, zu
+beurteilen.
+
+(2a) Der Prüfer hat jeweils die Angemessenheit der Vorkehrungen und
+Systeme zu beurteilen, über die das Unternehmen verfügt, um die
+Einhaltung der
+
+1.  Anzeigepflicht gegenüber der Europäischen Wertpapier- und
+    Marktaufsichtsbehörde nach Artikel 4a Absatz 1 Unterabsatz 2 Buchstabe
+    a der Verordnung (EU) Nr. 648/2012,
+
+
+2.  Anzeigepflicht gegenüber der Bundesanstalt nach Artikel 4a Absatz 1
+    Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 648/2012, auch in
+    Verbindung mit einer auf Grund des § 31 Satz 1 des
+    Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, und
+
+
+3.  Nachweispflicht gegenüber der Bundesanstalt nach Artikel 4a Absatz 2
+    Unterabsatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit
+    einer auf Grund des § 31 Satz 1 des Wertpapierhandelsgesetzes
+    erlassenen Rechtsverordnung,
+
+
+
+sicherzustellen.
+
+(3) Der Prüfer hat die Angemessenheit der Risikominderungstechniken
+für OTC-Derivate-Kontrakte, die nicht einer Pflicht zum Clearing durch
+eine zentrale Gegenpartei unterliegen, zu beurteilen nach Maßgabe des
+Artikels 11 der Verordnung (EU) Nr. 648/2012 und der technischen
+Regulierungsstandards, die nach Artikel 11 Absatz 14 und 15 der
+Verordnung (EU) Nr. 648/2012 erlassen worden sind. Dazu hat der Prüfer
+insbesondere Folgendes zu beurteilen:
+
+1.  die Prozesse zur rechtzeitigen Bestätigung der Bedingungen
+    abgeschlossener Geschäfte,
+
+
+2.  die Prozesse zur Abstimmung von Portfolien,
+
+
+3.  den Umfang, in dem das Unternehmen Gebrauch gemacht hat von der
+    Möglichkeit der Portfoliokomprimierung gemäß Artikel 14 der
+    Delegierten Verordnung (EU) Nr. 149/2013,
+
+
+4.  die Prozesse zur Identifizierung streitbefangener Geschäfte und zur
+    Beilegung solcher Streitigkeiten, einschließlich der Anzeige
+    streitbefangener Geschäfte nach Artikel 15 Absatz 2 der Delegierten
+    Verordnung (EU) Nr. 149/2013, sowie
+
+
+5.  die Besicherung nicht zentral geclearter Kontrakte sowie den Umfang
+    der Befreiung von der Besicherungspflicht nach Artikel 11 Absatz 5, 6,
+    8 und 10 der Verordnung (EU) Nr. 648/2012.
+
+
+
+
+(4) Soweit nach Artikel 11 Absatz 5 der Verordnung (EU) Nr. 648/2012
+gruppeninterne Transaktionen von der Besicherungspflicht nach Artikel
+11 Absatz 3 dieser Verordnung ausgenommen sind, ist zu beurteilen, ob
+die Voraussetzungen für die Ausnahme von dieser Besicherungspflicht
+vorliegen. Wurden gruppeninterne Transaktionen von der
+Besicherungspflicht unter den Voraussetzungen des Artikels 11 Absatz
+6, 8 oder 10 der Verordnung (EU) Nr. 648/2012 befreit, so ist zu
+beurteilen, ob die organisatorischen Maßnahmen des Unternehmens
+gewährleisten können, dass die Voraussetzungen für diese Befreiung
+eingehalten werden, einschließlich der Veröffentlichungspflicht nach
+Artikel 11 Absatz 11 der Verordnung (EU) Nr. 648/2012, auch in
+Verbindung mit Artikel 20 der Delegierten Verordnung (EU) Nr.
+149/2013.
+
+(5) Sofern die Erfüllung der in den Absätzen 1 bis 4 genannten
+Pflichten oder Prozesse durch das Unternehmen vertraglich auf eine
+dritte Person oder ein anderes Unternehmen übertragen worden ist, hat
+der Prüfer hierüber zu berichten.
+
+
+#### § 40a Einhaltung der Pflichten gemäß der Verordnung (EU) 2019/2088 und gemäß der Verordnung (EU) 2020/852
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE006100128)
+
+(1) Der Prüfer hat zu beurteilen, ob und inwieweit die Angaben zur
+Erfüllung der Anforderungen nach den Artikeln 3 bis 13 der Verordnung
+(EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung (EU)
+2020/852 den gesetzlichen Anforderungen entsprechen. Die Beurteilung
+hat unter Berücksichtigung von Leitlinien und Verlautbarungen zur
+einheitlichen Auslegung der in Satz 1 genannten Verordnungen zu
+erfolgen, die von folgenden Institutionen veröffentlicht werden:
+
+1.  der Europäischen Kommission,
+
+
+2.  den Europäischen Aufsichtsbehörden des Europäischen
+    Finanzaufsichtssystems und
+
+
+3.  der Bundesanstalt.
+
+
+
+Die Prüfungsergebnisse sind jeweils zusammenfassend für die
+unternehmensbezogenen Offenlegungspflichten nach den Artikeln 3 bis 5
+in Verbindung mit Artikel 12 der Verordnung (EU) 2019/2088, für die
+produktbezogenen Offenlegungspflichten nach den Artikeln 6 bis 12 der
+Verordnung (EU) 2019/2088 und nach den Artikeln 5 bis 7 der Verordnung
+(EU) 2020/852 sowie für die Widerspruchsfreiheit zwischen
+Marketingmitteilungen und zu veröffentlichenden Informationen nach
+Artikel 13 der Verordnung (EU) 2019/2088 darzustellen. Die Beurteilung
+und deren Begründung hat jeweils separat für die in den jeweiligen
+Artikeln aufgestellten Anforderungen zu erfolgen, wobei die
+festgestellten Mängel darzustellen und nach ihrer Schwere zu bewerten
+sind. Bei geprüften Produkten, bei denen Widersprüche zwischen
+Marketingmitteilungen und zu veröffentlichenden Informationen im Sinne
+des Artikels 13 der Verordnung (EU) 2019/2088 festgestellt wurden,
+sind diese Widersprüche darzustellen.
+
+(2) Darüber hinaus hat der Prüfer die organisatorischen Vorkehrungen
+zur Erfüllung der Anforderungen nach den Artikeln 3 bis 13 der
+Verordnung (EU) 2019/2088 zusammenfassend darzustellen und zu
+beurteilen, inwieweit diese angemessen sind. Dabei hat der Prüfer auch
+die organisatorischen Vorkehrungen darzustellen, die sicherstellen
+sollen, dass die Marketingmitteilungen nicht im Widerspruch zu den
+gemäß der Verordnung (EU) 2019/2088 veröffentlichten Informationen
+stehen, und die festgestellten organisatorischen Mängel anzugeben.
+
+
+#### § 40b Berücksichtigung der Informations- und Kommunikationstechnologie des Versicherungsunternehmens bei der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE006200128)
+
+(1) Der Prüfer hat im Prüfungsbericht zusammenfassend über die
+Organisation der Informations- und Kommunikationstechnologie des
+Unternehmens und diejenigen Systeme der Informations- und
+Kommunikationstechnologie, die wesentliche Geschäftsprozesse des
+Unternehmens unterstützen oder aufsichtsrechtlich relevante Daten
+verarbeiten, zu berichten. Wesentliche Änderungen an diesen Systemen
+sowie die der Änderung dienenden Projekte sind im Prüfungsbericht
+darzustellen. Der Prüfer hat darzustellen und zu beurteilen, ob die
+organisatorischen, personellen und technischen Vorkehrungen zur
+Sicherstellung der Integrität, der Vertraulichkeit, der Authentizität
+und der Verfügbarkeit dieser Systeme angemessen sind und wirksam
+umgesetzt werden. Werden externe Ressourcen der Informations- und
+Kommunikationstechnologie eingesetzt, so erstrecken sich die
+vorgenannten Berichtspflichten auch auf diese Ressourcen.
+
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob das
+Unternehmen die Anforderungen der Artikel 5 bis 14, 16 bis 19, 24, 25,
+28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in
+Verbindung mit Rechtsakten, die gemäß den Artikeln 15, 16, 20, 28 oder
+30 der Verordnung (EU) 2022/2554 erlassen wurden, unter
+Berücksichtigung des Grundsatzes der Verhältnismäßigkeit gemäß Artikel
+4 der Verordnung (EU)
+2022/2554, angemessen und wirksam einhält. Dabei ist insbesondere
+einzugehen auf
+
+1.  das auf die Informations- und Kommunikationstechnologie bezogene
+    Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung
+    (EU) 2022/2554,
+
+
+2.  die Dokumentation des auf die Informations- und
+    Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß
+    Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der
+    Verordnung (EU) 2022/2554,
+
+
+3.  die auf die Informations- und Kommunikationstechnologie bezogene
+    Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der
+    Verordnung (EU) 2022/2554,
+
+
+4.  die Behandlung und Klassifizierung von auf die Informations- und
+    Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung
+    darüber gemäß den Artikeln 17 bis 19 der Verordnung (EU) 2022/2554,
+
+
+5.  das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24
+    und 25 der Verordnung (EU) 2022/2554,
+
+
+6.  das Management des auf die Informations- und Kommunikationstechnologie
+    bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der
+    Verordnung (EU) 2022/2554 und
+
+
+7.  die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen über
+    den Austausch von Informationen gemäß Artikel 45 Absatz 3 der
+    Verordnung (EU) 2022/2554.
+
+
+
+
+
+#### § 41 Berichterstattung über die Verwendung von Ratings
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004301128)
+
+(1) Im Prüfungsbericht ist darauf einzugehen, wie und in welchem
+Umfang das Unternehmen oder die Gruppe eigene Kreditrisikobewertungen
+vornimmt, um zu vermeiden, dass das Unternehmen oder die Gruppe sich
+bei der Bewertung der Bonität eines Unternehmens oder eines
+Finanzinstruments automatisch auf Ratings stützt. Zur Angemessenheit
+dieser zusätzlichen Bewertungen ist dabei unter Berücksichtigung von
+Art, Umfang und Komplexität der Risiken, denen das Unternehmen oder
+die Gruppe ausgesetzt ist, Stellung zu nehmen.
+
+(2) Sofern das geprüfte Unternehmen oder die Gruppe als Emittent von
+strukturierten Finanzinstrumenten fungiert, sind die betreffenden
+Finanzinstrumente darzustellen. Es ist anzugeben, auf welche Weise die
+Anforderungen eingehalten worden sind, die sich ergeben aus den
+Artikeln 8b bis 8d der Verordnung (EG) Nr. 1060/2009 und aus den
+technischen Regulierungsstandards.
+
+
 #### § 42 Anzeigewesen
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004400000)
 
@@ -1327,8 +1652,22 @@ dargestellt ist.
 (4) § 24 Absatz 2 und § 44 sind entsprechend anzuwenden.
 
 
+### § 53 Ort der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005501128)
+
+Die Berichterstattung nach diesem Kapitel kann auch im Prüfungsbericht
+für den Einzelabschluss des Mutterunternehmens erfolgen.
+
+
 ## Kapitel 5 - Schlussvorschriften
 [Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001900000)
+
+
+### § 54 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005601128)
+
+Die §§ 40a und 40b sind erstmals auf ein nach dem 31. Dezember 2024
+beginnendes Geschäftsjahr anzuwenden.
 
 
 ### § 55 Inkrafttreten

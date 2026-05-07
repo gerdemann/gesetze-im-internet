@@ -19,9 +19,89 @@ Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2025 I Nr. 354
 
 
+## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000105128)
+
+(1) In den Wirtschaftsbereichen „Arzt- und Zahnarztpraxen“ sowie
+„Erbringung von Dienstleistungen von Psychotherapeutinnen und
+-therapeuten, klinischen und Gesundheitspsychologinnen und
+-psychologen, ohne ärztliche Therapien“ werden jährlich
+Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die
+Erhebungen erstrecken sich auf die folgenden Wirtschaftsklassen bzw.
+-unterklassen nach Anhang I der Verordnung (EG) Nr. 1893/2006 in
+Verbindung mit der vom Statistischen Bundesamt daraus erstellten
+Klassifikation der Wirtschaftszweige:
+
+1.  86.21.0 – Arztpraxen für Allgemeinmedizin,
+
+
+2.  86.22.0 – Facharztpraxen,
+
+
+3.  86.23.0 – Zahnarztpraxen,
+
+
+4.  86.93.0 – Erbringung von Dienstleistungen von Psychotherapeutinnen und
+    -therapeuten, klinischen und Gesundheitspsychologinnen und
+    -psychologen, ohne ärztliche Therapien.
+
+
+
+
+(2) Erhebungseinheiten sind Unternehmen und Einrichtungen zur Ausübung
+einer freiberuflichen Tätigkeit, die in den Wirtschaftszweigen nach
+Absatz 1 Satz 3 tätig sind.
+
+(3) Zu der freiberuflichen Tätigkeit nach Absatz 2 gehört die
+selbstständige Berufstätigkeit von Angehörigen der in § 18 Absatz 1
+Nummer 1 Satz 2 des Einkommensteuergesetzes bezeichneten Berufe.
+
+(4) Das Statistische Bundesamt übermittelt den statistischen Ämtern
+der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen
+auf regionaler Ebene.
+
+
 ## § 2 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000205125)
 
+
+
+## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000302128)
+
+(1) Die Kostenstrukturerhebungen nach § 1 erfassen folgende
+Tatbestände:
+
+1.  den Wert
+
+    a)  der steuerlichen und wirtschaftlichen Einnahmen,
+
+
+    b)  der Bruttoinvestitionen in Sachanlagen;
+
+
+
+
+
+2.  die Kosten, untergliedert nach Kostenarten;
+
+
+3.  die beschäftigten Personen.
+
+
+
+
+(2) Außer den in Absatz 1 bezeichneten Tatbeständen werden Angaben zur
+Kennzeichnung der Art und Zusammenarbeit der Unternehmen und der
+Einrichtungen zur Ausübung einer freiberuflichen Tätigkeit erhoben,
+die zu einer zutreffenden Beurteilung der statistischen Zuordnung
+erforderlich sind. In den Wirtschaftszweigen „Arztpraxen für
+Allgemeinmedizin“ und „Facharztpraxen“ wird zusätzlich die
+Durchführung von Operationen erfasst. Im Wirtschaftszweig
+„Zahnarztpraxen“ wird zusätzlich der Betrieb eines eigenen
+Praxislabors erfasst.
+
+(3) (weggefallen)
 
 
 ## § 4

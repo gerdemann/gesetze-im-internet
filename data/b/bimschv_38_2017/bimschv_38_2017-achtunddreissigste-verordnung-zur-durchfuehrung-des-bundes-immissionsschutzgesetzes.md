@@ -70,6 +70,132 @@ Immissionsschutzgesetzes und zu den Berichtspflichten nach § 37f des
 Bundes-Immissionsschutzgesetzes.
 
 
+### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000405130)
+
+(1) Stromanbieter ist jedes Energieversorgungsunternehmen im Sinne des
+§ 3 Nummer 39 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
+S. 1970, 3621), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom
+20\. Juli 2017 (BGBl. I S. 2808; 2018 I S. 472) geändert worden ist,
+das elektrischen Strom an Letztverbraucher liefert.
+
+(2) Ein Straßenfahrzeug mit Elektroantrieb ist ein reines
+Batterieelektrofahrzeug im Sinne des § 2 Nummer 2 des
+Elektromobilitätsgesetzes vom 5. Juni 2015 (BGBl. I S. 898), das
+zuletzt durch Artikel 2 Absatz 34 des Gesetzes vom 20. Dezember 2022
+(BGBl. I S. 2752) geändert worden ist, oder ein von außen aufladbares
+Hybridelektrofahrzeug der Klassen M 1 und N 1 im Sinne des § 2 Nummer
+3 des Elektromobilitätsgesetzes.
+
+(3) Ein reines Batterieelektrofahrzeug ist ein Kraftfahrzeug im Sinne
+des § 2 Nummer 2 des Elektromobilitätsgesetzes.
+
+(4) Nahrungs- und Futtermittelpflanzen sind Kulturpflanzen mit hohem
+Stärkegehalt, Zuckerpflanzen oder Ölpflanzen, die als Hauptkulturen
+auf landwirtschaftlichen Flächen produziert werden, ausgenommen
+Reststoffe, Abfälle und lignozellulosehaltiges Material und
+Zwischenfrüchte wie Zweitfrüchte und Deckpflanzen, es sei denn, die
+Verwendung solcher Zwischenfrüchte führt zu einer zusätzlichen
+Nachfrage nach Land.
+
+(5) Erneuerbare Energien sind Energien aus erneuerbaren, nichtfossilen
+Energiequellen in Form von
+
+1.  Wind,
+
+
+2.  Sonne,
+
+
+3.  geothermischer Energie,
+
+
+4.  Umgebungsenergie,
+
+
+5.  Gezeiten-, Wellen- und sonstiger Meeresenergie,
+
+
+6.  Wasserkraft,
+
+
+7.  Energie aus Biomasse, Deponiegas, Klärgas und Biogas.
+
+
+
+
+(6) (weggefallen)
+
+(7) (weggefallen)
+
+(8) (weggefallen)
+
+(9) (weggefallen)
+
+(10) API-Grad ist eine Maßeinheit für die Dichte von Rohöl. Der API-
+Grad wird mit dem Testverfahren D287-12b der American Society for
+Testing and Materials gemessen.
+
+(11) Konventionelles Rohöl ist jeder Raffinerierohstoff, der
+
+1.  in einer Lagerstättenformation am Ursprungsort einen API-Grad von mehr
+    als 10 aufweist, und
+
+
+2.  nicht unter die Definition des KN-Codes 2714 gemäß Anhang I der
+    Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
+    zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
+    Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38;
+    L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom
+    8\.6.2016, S. 22), die zuletzt durch die Durchführungsverordnung (EU)
+    2017/1344 (ABl. L 186 vom 19.7.2017, S. 3) geändert worden ist, fällt.
+
+
+
+
+(12) Naturbitumen ist jede Quelle für Raffinerierohstoffe,
+
+1.  die in einer Lagerstättenformation am Förderort einen API-Grad von
+    höchstens 10 aufweist,
+
+
+2.  die eine Viskosität im jährlichen Durchschnitt bei
+    Lagerstättentemperatur hat, die höher ist als die durch die Gleichung
+    Viskosität (in Centipoise) = 518,98\*e
+    -0,038\*T berechnete Viskosität; wobei T die Temperatur in Grad
+    Celsius ist,
+
+
+3.  die unter die Definition für bituminöse Sande des KN-Codes 2714 gemäß
+    der Verordnung (EWG) Nr. 2658/87 fällt und
+
+
+4.  die durch Bergbau oder thermisch unterstützte Schwerkraftdrainage
+    erschlossen wird, wobei die Wärmeenergie hauptsächlich aus anderen
+    Quellen als der Rohstoffquelle selbst gewonnen wird.
+
+
+
+
+(13) Ölschiefer ist jede Quelle für Raffinerierohstoffe,
+
+1.  die sich am Förderort innerhalb einer Felsformation befand,
+
+
+2.  die festes Kerogen enthält,
+
+
+3.  die unter die Definition für ölhaltigen Schiefer des KN-Codes 2714
+    gemäß der Verordnung (EWG) Nr. 2658/87 fällt und
+
+
+4.  die durch Bergbau oder thermisch unterstützte Schwerkraftdrainage
+    erschlossen wird.
+
+
+
+
+
 ## Teil 2 - Berechnung der Treibhausgasemissionen und weitere Optionen zur Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen
 [Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000200000)
 
@@ -160,6 +286,136 @@ Biokraftstoffen entsprechend.
 
 ### Abschnitt 2 - Straßenfahrzeuge mit Elektroantrieb
 [Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000400000)
+
+
+#### § 5 Anrechnung von in Straßenfahrzeugen mit Elektroantrieb genutztem elektrischem Strom
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000703130)
+
+(1) Elektrischer Strom, der im Verpflichtungsjahr von
+Letztverbrauchern nachweislich zur Verwendung in Straßenfahrzeugen mit
+Elektroantrieb aus dem Netz entnommen wurde, kann auf die Erfüllung
+der Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet
+werden, sofern die Entnahme im Steuergebiet des Stromsteuergesetzes
+erfolgte. Dritter im Sinne des § 37a Absatz 6 des Bundes-
+Immissionsschutzgesetzes ist der Betreiber eines Ladepunktes im Sinne
+des Artikel 2 Nummer 39 der Verordnung (EU) 2023/1804 oder eine von
+ihm bestimmte Person.
+
+(2) Die Bestimmung der Person als Dritter, die nicht der Betreiber des
+Ladepunktes ist, erfolgt durch eine Vereinbarung in Textform. In jedem
+Verpflichtungsjahr kann von jedem Betreiber nur ein einziger Dritter
+bestimmt werden. Bestimmt der Betreiber eines Ladepunktes entgegen
+Satz 2 mehrere Dritte, stellt die zuständige Stelle nach § 20 Absatz 1
+die Bescheinigung nach § 8 Absatz 2 Satz 1 nur an denjenigen Dritten
+aus, der die Angaben zu den energetischen Mengen des elektrischen
+Stroms nach § 8 Absatz 1 Satz 1 im jeweiligen Verpflichtungsjahr
+zuerst mitgeteilt hat. Die zuständige Stelle nach § 20 Absatz 1 kann
+die Vorlage der Vereinbarung nach Satz 1 verlangen. Eine Änderung des
+Dritten ist nach dem Zeitpunkt der Mitteilung nach § 8 Absatz 1 Satz 1
+ausgeschlossen.
+
+(3) Bei der Berechnung des Referenzwertes nach § 37a Absatz 4 Satz 3
+des Bundes-Immissionsschutzgesetzes wird die energetische Menge
+elektrischen Stroms nach Absatz 1 mit dem Faktor 3 multipliziert. Die
+Treibhausgasemissionen des elektrischen Stroms nach Absatz 1 werden
+berechnet durch die Multiplikation der energetischen Menge des zur
+Verwendung in den Straßenfahrzeugen mit Elektroantrieb entnommenen
+Stroms
+
+1.  mit dem Faktor 3 sowie
+
+
+2.  mit dem Wert der für die durchschnittlichen Treibhausgasemissionen pro
+    Energieeinheit des Stroms in Deutschland und dem Anpassungsfaktor für
+    die Antriebseffizienz nach Anlage 3.
+
+
+
+
+(4) Der Wert der durchschnittlichen Treibhausgasemissionen pro
+Energieeinheit des Stroms in Deutschland wird von der nach § 20 Absatz
+1 zuständigen Stelle jährlich auf Basis geeigneter internationaler
+Normen ermittelt und bis zum Ablauf des 31. Oktober für das
+darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben.
+
+(5) Zur Berechnung der Treibhausgasemissionen des elektrischen Stroms
+nach Absatz 3 wird ab dem Verpflichtungsjahr 2024 der Wert der
+durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der
+jeweiligen erneuerbaren Energie in Deutschland verwendet, wenn im Fall
+des § 6
+
+1.  ausschließlich Strom aus erneuerbaren Energien in Form von Wind oder
+    Sonne (§ 2 Absatz 5 Nummer 1 oder 2) eingesetzt wird und
+
+
+2.  der Strom nicht aus dem Netz im Sinne des § 3 Nummer 35 des
+    Erneuerbare-Energien-Gesetzes entnommen wird, sondern nachweislich
+    direkt von einer Stromerzeugungsanlage hinter demselben
+    Netzverknüpfungspunkt bezogen wird.
+
+
+
+Als Nachweis nach Satz 1 Nummer 2 gelten Messwerte des
+Messstellenbetreibers von Messeinrichtungen nach § 2 Satz 1 Nummer 10,
+12 und 14 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I
+S. 2034), das zuletzt durch Artikel 2 des Gesetzes vom 22. Mai 2023
+(BGBl. 2023 I Nr. 133) geändert worden ist, des zeitgleichen
+Verbrauchs bezogen auf jedes 15-Minuten-Intervall. Die Werte der
+durchschnittlichen Treibhausgasemissionen pro Energieeinheit Strom der
+erneuerbaren Energien in Deutschland werden von der zuständigen Stelle
+nach § 20 Absatz 1 jährlich auf Basis geeigneter internationaler
+Normen ermittelt und bis zum Ablauf des 31. Oktober für das
+darauffolgende Verpflichtungsjahr im Bundesanzeiger bekannt gegeben.
+Für Strommengen, die nur anteilig die Voraussetzungen nach Satz 1
+erfüllen, gilt Satz 1 nur für den entsprechenden Anteil. Der Dritte im
+Sinne des Absatz 1 Satz 2 führt Aufzeichnungen über den Standort und
+die Art der Stromerzeugungsanlage und fügt die Aufzeichnungen sowie
+den Nachweis nach Satz 2 der Mitteilung der energetischen Menge nach §
+8 Absatz 1 Satz 1 bei. Wird der Nachweis nach Satz 2 nicht oder nicht
+vollständig erbracht, wird zur Berechnung der Treibhausgasemissionen
+der Wert nach Absatz 4 verwendet.
+
+
+#### § 6 Energetische Menge des elektrischen Stroms aus öffentlich zugänglichen Ladepunkten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000803130)
+
+(1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über
+die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2
+Nummer 2 der Ladesäulenverordnung vom 23. Dezember 2025 (BGBl. 2025 I
+Nr. 367) in der jeweils geltenden Fassung unter Angabe
+
+1.  des genauen Standortes, an dem sich der Ladepunkt befindet,
+
+
+2.  der energetischen Menge des zur Verwendung in Straßenfahrzeugen mit
+    Elektroantrieb entnommenen Stroms in Megawattstunden und
+
+
+3.  des Zeitraums, in dem die Strommenge entnommen wurde, sofern der
+    Zeitraum nicht das gesamte Verpflichtungsjahr umfasst.
+
+
+
+Die zuständige Stelle nach § 20 Absatz 1 kann im Bundesanzeiger
+bekannt geben, welche weitere Angaben den Aufzeichnungen beizufügen
+sind, um nachzuweisen, dass es sich um einen öffentlich zugänglichen
+Ladepunkt im Sinne des § 2 Nummer 2 der Ladesäulenverordnung handelt.
+
+(2) Der Dritte fügt bei Aufbau und Außerbetriebnahme von Ladepunkten
+den Aufzeichnungen die Anzeige des Ladepunktbetreibers gegenüber der
+Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
+Eisenbahnen gemäß § 4 Absatz 1 der Ladesäulenverordnung bei. Für
+bereits bestehende Ladepunkte ist die Anzeige, die zum Zeitpunkt des
+Aufbaus gegenüber der Bundesnetzagentur für Elektrizität, Gas,
+Telekommunikation, Post und Eisenbahnen abgegeben wurde, beizufügen.
+
+(3) Die Anrechnung von Strom, der über einen öffentlich zugänglichen
+Ladepunkt entnommen wurde, auf die Erfüllung der Verpflichtung zur
+Minderung der Treibhausgasemissionen ist nur dann möglich, wenn die
+Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
+Eisenbahnen den angezeigten Ladepunkt veröffentlicht hat oder der
+Dritte der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen die Zustimmung zur Veröffentlichung erteilt hat.
 
 
 #### § 7 Energetische Menge des elektrischen Stroms in anderen Fällen

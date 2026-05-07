@@ -692,6 +692,23 @@ Anspruch auf Übernahme in das Beamtenverhältnis auf Probe.
 
 
 
+### § 22 Aufstieg, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002202311)
+
+(1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an
+wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß
+§ 44 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des
+höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes
+zugelassen werden.
+
+(2) In einem Auswahlverfahren wird von einer Auswahlkommission die
+Eignung für die künftige Laufbahn festgestellt. § 6 Abs. 4 bis 7 gilt
+entsprechend.
+
+(3) Über die Zulassung zum Aufstieg entscheidet die zuständige oberste
+Dienstbehörde auf Grund des Ergebnisses des Auswahlverfahrens.
+
+
 ### § 23 Einführung
 [Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002300000)
 

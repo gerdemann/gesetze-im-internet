@@ -708,6 +708,16 @@ Für die Verjährung der Ansprüche auf Beitragsanteile gilt § 25 des
 Vierten Buches Sozialgesetzbuch entsprechend.
 
 
+###### § 20
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004703126)
+
+Die Künstlersozialkasse hat dem Versicherten und dem
+Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die
+Berechnung der von ihm und für ihn erbrachten Beitragsleistungen
+ersichtlich ist. Die Jahresabrechnung gilt als Mitteilung im Sinne des
+§ 28a Absatz 5 des Vierten Buches Sozialgesetzbuch.
+
+
 ##### Dritter Unterabschnitt - Erstattungen
 [Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001501308)
 

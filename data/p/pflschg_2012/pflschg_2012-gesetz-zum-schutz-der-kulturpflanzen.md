@@ -672,6 +672,28 @@ Anzeigeverfahren zu erlassen. Die Landesregierungen können diese
 Befugnis durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 
+### § 11 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001201119)
+
+(1) Die Aufzeichnungen nach Artikel 67 Absatz 1 Satz 1 der Verordnung
+(EG) Nr. 1107/2009 können elektronisch oder schriftlich geführt
+werden.
+
+(2) Die nach Artikel 67 Absatz 1 Satz 2 der Verordnung (EG) Nr.
+1107/2009 in Verbindung mit Artikel 2 der Durchführungsverordnung (EU)
+2023/564 grundsätzlich elektronisch zu führenden Aufzeichnungen der
+beruflichen Verwender können bis zum Ablauf des 31. Dezember 2026 auch
+schriftlich geführt werden. Der Leiter eines landwirtschaftlichen,
+forstwirtschaftlichen oder gärtnerischen Betriebes ist verpflichtet,
+die Aufzeichnungen für die bewirtschafteten Flächen seines Betriebes
+unter Angabe des jeweiligen Anwenders zusammen zu führen.
+
+(3) Die Fristen des Artikels 67 Absatz 1 Satz 1 oder 2 der Verordnung
+(EG) Nr. 1107/2009 zur Aufbewahrung der Aufzeichnungen rechnen ab dem
+Beginn des Jahres, das auf das Jahr des Entstehens der jeweiligen
+Aufzeichnung folgt.
+
+
 ## Abschnitt 4 - Anwendung von Pflanzenschutzmitteln
 [Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000400000)
 
@@ -1404,6 +1426,35 @@ Bundesrates
 
 
 zu regeln.
+
+
+### § 21 Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002202119)
+
+(1) Das Julius Kühn-Institut ist zuständig für die Erhebung von Daten
+in nicht personenbezogener Form über die Anwendung von
+Pflanzenschutzmitteln und erstellt Statistiken zur Erfüllung der
+Anforderungen des Artikel 4 Absatz 1 und 5 Buchstabe b in Verbindung
+mit Artikel 5 Absatz 1 Buchstabe e und Absatz 2 und mit dem Anhang
+Buchstabe e der Verordnung (EU) 2022/2379. Die zuständigen Behörden
+der Länder wirken bei den Erhebungen mit. Die nach Satz 1 erhobenen
+Daten dürfen nur zur Erfüllung der Verpflichtungen aus Artikel 4
+Absatz 1 und 5 Buchstabe b in Verbindung mit Artikel 5 Absatz 1
+Buchstabe e und Absatz 2 und mit dem Anhang Buchstabe e der Verordnung
+(EU) 2022/2379 sowie zur Überprüfung der Maßnahmen nach dem
+Aktionsplan im Sinne des § 4 verwendet werden. § 63 ist nicht
+anzuwenden.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Inhalt und Form der Erhebungen zu regeln.
+
+(3) Das Julius Kühn-Institut macht die Auswertung der Erhebungen im
+Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt. Es
+übermittelt die Ergebnisse gemäß Artikel 4 Absatz 1 und 5 Buchstabe b
+in Verbindung mit Artikel 5 Absatz 1 Buchstabe e und Absatz 2 und mit
+dem Anhang Buchstabe e der Verordnung (EU) 2022/2379 an die
+zuständigen Dienststellen der Europäischen Kommission.
 
 
 ### § 22 Weitergehende Länderbefugnisse
@@ -3434,6 +3485,54 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383
 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+
+### § 64 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006503119)
+
+(1) Jährlich bis zum 31. März haben dem Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit für das vorangegangene
+Kalenderjahr zu melden
+
+1.  der Hersteller von Pflanzenschutzmitteln,
+
+
+2.  derjenige, der ein Pflanzenschutzmittel erstmals in den Verkehr
+    gebracht hat, und
+
+
+3.  bei der Einfuhr oder dem innergemeinschaftlichen Verbringen von
+    Pflanzenschutzmitteln derjenige, der die Ware in den freien Verkehr
+    überführt oder überführen lässt,
+
+
+
+Art und Menge der von ihm an Empfänger mit Wohnsitz oder Sitz im
+Inland abgegebenen oder ausgeführten Pflanzenschutzmittel und der
+jeweils in ihnen enthaltenen Wirkstoffe und soweit bekannt der in
+ihnen enthaltenen Safener und Synergisten. Die Meldung hat für jedes
+Pflanzenschutzmittel getrennt und unter Angabe der Bezeichnung zu
+erfolgen. Wird ein Pflanzenschutzmittel sowohl für berufliche als auch
+für nichtberufliche Verwender angeboten, so hat die Meldung hierzu
+jeweils getrennt zu erfolgen. Die Sätze 1 und 2 finden keine
+Anwendung, soweit Pflanzenschutzmittel auf Grund einer Genehmigung
+nach Artikel 54 der Verordnung (EG) Nr. 1107/2009 abgegeben werden.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie und für Umwelt, Naturschutz und nukleare Sicherheit durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+Näheres über Inhalt und Form der Meldungen zu regeln.
+
+(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+unterrichtet die zuständigen Behörden der Länder über die Ergebnisse
+der Meldungen. Es erstellt aus den ihm nach Absatz 1 vorliegenden
+Meldungen die Statistik über das Inverkehrbringen nach Artikel 4
+Absatz 5 Buchstabe a in Verbindung mit Anhang Buchstabe e der
+Verordnung (EU) 2022/2379 und übermittelt die Ergebnisse gemäß Artikel
+5 Absatz 3 der Verordnung (EU) 2022/2379 an die Dienststellen der
+Europäischen Kommission. Es veröffentlicht die Ergebnisse der Erhebung
+nach Absatz 1 im Bundesanzeiger oder im elektronischen Bundesanzeiger.
 
 
 ### § 65 Geheimhaltung

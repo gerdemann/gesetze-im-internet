@@ -51,6 +51,199 @@ dient damit
 Identifikationsnummern und Metadaten.
 
 
+## § 2 Bundeseinheitliche Wirtschaftsnummer für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000201128)
+
+(1) Einem Unternehmen nach § 3 Absatz 1 wird im Basisregister eine
+bundeseinheitliche Wirtschaftsnummer für Unternehmen zugeordnet. Als
+bundeseinheitliche Wirtschaftsnummer für Unternehmen dient die
+Wirtschafts-Identifikationsnummer nach § 139c der Abgabenordnung.
+
+(2) Die bundeseinheitliche Wirtschaftsnummer für Unternehmen dient dem
+Zweck der registerübergreifenden eindeutigen Identifikation der im
+Basisregister geführten Unternehmen.
+
+(3) Die öffentlichen Stellen nach § 4 Absatz 1 und § 5 Absatz 1 dürfen
+die bundeseinheitliche Wirtschaftsnummer für Unternehmen in ihren
+Registern oder sonstigen Datenbeständen speichern, verwenden und an
+öffentliche Stellen weitergeben, soweit dies für ihre eigene
+Aufgabenerfüllung und die Aufgabenerfüllung der empfangenden
+öffentlichen Stelle erforderlich ist. Die bundeseinheitliche
+Wirtschaftsnummer für Unternehmen ist bei jeder Übermittlung an das
+und aus dem Basisregister anzugeben, wenn sie vergeben und durch das
+Basisregister an die Quellregister übermittelt wurde.
+
+
+## § 3 Inhalt des Basisregisters
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000303128)
+
+(1) Folgende in den Registern oder sonstigen Datenbeständen der
+öffentlichen Stellen nach § 4 Absatz 1 und der Global Legal Entity
+Identifier Foundation gespeicherte Einheiten werden im Basisregister
+als Unternehmen geführt:
+
+1.  Kaufleute im Sinne des Handelsgesetzbuchs,
+
+
+2.  Genossenschaften im Sinne des Genossenschaftsgesetzes,
+
+
+3.  eingetragene Gesellschaften bürgerlichen Rechts,
+
+
+4.  Partnerschaften im Sinne des Partnerschaftsgesellschaftsgesetzes,
+
+
+5.  Vereine im Sinne des Bürgerlichen Gesetzbuchs,
+
+
+6.  wirtschaftlich Tätige im Sinne der Abgabenordnung:
+
+    a)  natürliche Personen, die wirtschaftlich tätig sind,
+
+
+    b)  juristische Personen und
+
+
+    c)  Personenvereinigungen sowie
+
+
+
+
+
+7.  weitere Unternehmen im Sinne des Siebten Buches Sozialgesetzbuch.
+
+
+
+Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz
+1 Nummer 6 Buchstabe a wird als Unternehmen geführt. Daten zu
+natürlichen Personen, die nicht im Zusammenhang mit einer
+wirtschaftlichen Tätigkeit stehen, werden nicht gespeichert.
+
+(2) Im Basisregister werden zu einem Unternehmen nach Absatz 1, soweit
+vorhanden, folgende Stammdaten gespeichert:
+
+1.  für den Rechtsverkehr verbindliche Angabe der Firma oder des Namens
+    entsprechend der Eintragung im Handelsregister,
+    Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister
+    oder Vereinsregister,
+
+
+2.  für Verwaltungszwecke aktuelle Angabe der Firma oder des Namens
+    entsprechend der Führung im Datenbestand der öffentlichen Stelle nach
+    § 4 Absatz 1,
+
+
+3.  Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach,
+    Postleitzahl, Ort und Länderkennzeichen,
+
+
+4.  Sitz (Ort),
+
+
+5.  Geschäftsanschrift entsprechend der Eintragung im Handelsregister,
+    Genossenschaftsregister, Gesellschaftsregister, Partnerschaftsregister
+    oder Vereinsregister unter Angabe von Straße, Hausnummer,
+    Postleitzahl, Ort und Länderkennzeichen, soweit die Pflicht zur
+    Eintragung besteht,
+
+
+6.  Rechtsform und
+
+
+7.  Haupttätigkeit nach Klassifikation der Wirtschaftszweige.
+
+
+
+
+(3) Zu einem Unternehmen nach Absatz 1 werden, soweit vorhanden,
+folgende Identifikationsnummern gespeichert:
+
+1.  bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2,
+
+
+2.  Handelsregisternummer, einschließlich Orts- und Gerichtskennzeichen
+    des zuständigen Registergerichts,
+
+
+3.  Eintragungsnummer des Genossenschaftsregisters, einschließlich Orts-
+    und Gerichtskennzeichen des zuständigen Registergerichts,
+
+
+4.  Eintragungsnummer des Gesellschaftsregisters, einschließlich Orts- und
+    Gerichtskennzeichen des zuständigen Registergerichts,
+
+
+5.  Eintragungsnummer des Partnerschaftsregisters, einschließlich Orts-
+    und Gerichtskennzeichen des zuständigen Registergerichts,
+
+
+6.  Vereinsregisternummer, einschließlich Orts- und Gerichtskennzeichen
+    des zuständigen Registergerichts,
+
+
+7.  Unternehmernummer, einschließlich Anhang gemäß § 136a des Siebten
+    Buches Sozialgesetzbuch,
+
+
+8.  Betriebsnummern gemäß § 18i des Vierten Buches Sozialgesetzbuch als
+    Liste aller Betriebsnummern, die einem Unternehmen zugeordnet sind,
+
+
+9.  Wirtschafts-Identifikationsnummer gemäß § 139c der Abgabenordnung,
+    einschließlich des Unterscheidungsmerkmals gemäß § 139c Absatz 5a der
+    Abgabenordnung,
+
+
+10. die gültige Rechtsträgerkennung (LEI) gemäß Artikel 13 Absatz 1 der
+    Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016
+    zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen
+    Parlaments und des Rates durch technische Regulierungsstandards für
+    die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom
+    31\.3.2017, S. 449),
+
+
+11. das Kennzeichen, das zur Organisation der Datenbestände einer
+    öffentlichen Stelle verwendet wird, welche aufgrund einer nach § 10
+    Nummer 6 erlassenen Rechtsverordnung Daten an die Registerbehörde
+    übermittelt, und
+
+
+12. die EUID gemäß Nummer 9 des Anhangs Technische Spezifikationen und
+    Verfahren der Durchführungsverordnung (EU) 2021/1042.
+
+
+
+
+(4) Zu den Stammdaten nach Absatz 2 und den Identifikationsnummern
+nach Absatz 3 werden folgende Metadaten gespeichert:
+
+1.  Bezeichnung des Registers oder sonstigen Datenbestands der
+    öffentlichen Stelle nach § 4 Absatz 1, aus dem das im Basisregister
+    gespeicherte Datum stammt,
+
+
+2.  Meldedatum an das Register oder den sonstigen Datenbestand der
+    öffentlichen Stelle nach § 4 Absatz 1, aus dem das im Basisregister
+    gespeicherte Datum stammt,
+
+
+3.  Datum, ab dem ein Unternehmen in keinem Register nach § 4 Absatz 1 und
+    3 mehr geführt oder nur noch als gelöscht geführt wird
+    (Beendigungsdatum der bundeseinheitlichen Wirtschaftsnummer für
+    Unternehmen) und
+
+
+4.  Speicherdatum im Basisregister.
+
+
+
+
+(5) Die Registerbehörde hat fünf Jahre, nachdem das Unternehmen in
+keinem Register nach § 4 Absatz 1 und 3 mehr geführt oder als gelöscht
+geführt wird, die Unternehmensbasisdaten zu löschen.
+
+
 ## § 4 Datenübermittlung an die Registerbehörde
 [Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000402128)
 
@@ -90,6 +283,160 @@ Daten zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3 sowie
 die Rechtsträgerkennung (LEI) nach § 3 Absatz 3 Nummer 10 verwenden,
 soweit diese bei der Global Legal Entity Identifier Foundation
 gespeichert sind.
+
+
+## § 5 Datenübermittlung durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000504128)
+
+(1) Die Registerbehörde darf an folgende öffentliche Stellen zu
+folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
+übermitteln:
+
+1.  an die Registergerichte zur Pflege der Daten des Handels-,
+    Genossenschafts-, Gesellschafts-, Partnerschafts- und
+    Vereinsregisters,
+
+
+2.  an die Landesjustizverwaltungen zur Verknüpfung mit den Indexdaten zu
+    Eintragungen im Handels-, Genossenschafts-, Gesellschafts-,
+    Partnerschafts- und Vereinsregister,
+
+
+3.  an die das Unternehmensregister im Sinne des § 8b des
+    Handelsgesetzbuchs führende Stelle zur Pflege der Daten des
+    Unternehmensregisters,
+
+
+4.  für Ermittlungs- und Durchsetzungsmaßnahmen gegen Unternehmen nach dem
+    EU-Verbraucherschutzdurchführungsgesetz und der Verordnung (EU)
+    2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember
+    2017 über die Zusammenarbeit zwischen den für die Durchsetzung der
+    Verbraucherschutzgesetze zuständigen nationalen Behörden und zur
+    Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom
+    27\.12.2017, S. 1), zuletzt geändert durch die Richtlinie (EU) 2019/771
+    (ABl. L 136 vom 22.5.2019, S. 28) (CPC-Verordnung) an die nach § 2 des
+    EU-Verbraucherschutzdurchführungsgesetzes zuständigen Behörden und die
+    zentrale Verbindungsstelle nach § 3 des EU-
+    Verbraucherschutzdurchführungsgesetzes,
+
+
+5.  an das Bundesamt für Justiz
+
+    a)  zur Pflege der Daten des Gewerbezentralregisters nach § 149 der
+        Gewerbeordnung,
+
+
+    b)  zur Durchführung von
+
+        aa) Ordnungsgeldverfahren nach § 335 des Handelsgesetzbuchs, auch in
+            Verbindung mit den §§ 335b, 339 Absatz 3 oder den §§ 340o, 341o, 341y
+            oder 342p des Handelsgesetzbuchs, mit § 21 des Publizitätsgesetzes,
+            mit § 49 des D-Markbilanzgesetzes, mit § 31 des
+            Vermögensanlagengesetzes, mit den §§ 6c oder 28l des
+            Energiewirtschaftsgesetzes, mit § 8 des Telekommunikationsgesetzes
+            oder mit § 123 Absatz 1, § 148 Absatz 1 oder § 160 Absatz 1 des
+            Kapitalanlagegesetzbuchs,
+
+
+        bb) Bußgeldverfahren aufgrund der §§ 334, 341x oder 342o des
+            Handelsgesetzbuchs, des § 20 des Publizitätsgesetzes, des § 48 des
+            D-Markbilanzgesetzes, des § 30 des Vermögensanlagengesetzes, des § 405
+            des Aktiengesetzes, des § 87 des Gesetzes betreffend die
+            Gesellschaften mit beschränkter Haftung, des § 152 des
+            Genossenschaftsgesetzes, des § 145 des Markengesetzes oder des § 4 des
+            Netzwerkdurchsetzungsgesetzes,
+
+
+        cc) Verwaltungsverfahren nach § 4a Absatz 2 des
+            Netzwerkdurchsetzungsgesetzes,
+
+
+        dd) Vollstreckungsverfahren, in denen das Bundesamt für Justiz
+            Vollstreckungsbehörde nach § 2 Absatz 2 des Justizbeitreibungsgesetzes
+            ist,
+
+
+        ee) Verfahren zur Eintragung in die Listen nach den §§ 4 und 4d des
+            Unterlassungsklagengesetzes und nach § 8b des Gesetzes gegen den
+            unlauteren Wettbewerb sowie Verfahren zur Überprüfung der Eintragungen
+            in diesen Listen,
+
+
+
+
+
+
+
+
+6.  an die Deutsche Gesetzliche Unfallversicherung e. V. zur Pflege der
+    Daten im zentralen Unternehmerverzeichnis der gesetzlichen
+    Unfallversicherung (§ 136a des Siebten Buches Sozialgesetzbuch),
+
+
+7.  an das Bundeszentralamt für Steuern zur Pflege der Daten in der
+    Wirtschafts-Identifikationsnummer-Datenbank (§ 139c der
+    Abgabenordnung),
+
+
+8.  an die Deutsche Bundesbank zur Speicherung und zur Verwendung im
+    Datenregister der Europäischen Zentralbank über Institute und
+    verbundene Unternehmen,
+
+
+9.  an die Bundesagentur für Arbeit zur Pflege der Daten in den
+    Datenbeständen, die zur Erfüllung ihrer Aufgaben nach § 281 des
+    Dritten Buches Sozialgesetzbuch sowie nach § 18i Absatz 6 des Vierten
+    Buches Sozialgesetzbuch geführt werden,
+
+
+10. an die vom Bundesministerium des Innern mit Zustimmung des Bundesrates
+    nach § 3 Absatz 2 Satz 2 des Onlinezugangsgesetzes bestimmte
+    öffentliche Stelle zur Verwendung in einem Organisationskonto im Sinne
+    des § 2 Absatz 5 des Onlinezugangsgesetzes und
+
+
+11. an das Statistische Bundesamt zur Pflege des Unternehmensregisters für
+    statistische Verwendungszwecke nach § 13 Absatz 1 des
+    Bundesstatistikgesetzes.
+
+
+
+Die Registerbehörde darf an öffentliche Stellen nach Satz 1 nur
+Unternehmensbasisdaten zu denjenigen Unternehmen nach § 3 Absatz 1
+übermitteln, für deren Daten die öffentliche Stelle nach den für sie
+geltenden datenschutzrechtlichen Bestimmungen verarbeitungsbefugt ist.
+
+(2) Die Registerbehörde übermittelt anlassbezogen an die öffentlichen
+Stellen nach Absatz 1 Satz 1 Nummer 1 bis 3, 6 bis 9 und 11 in
+automatisierten Verfahren Unternehmensbasisdaten aufgrund folgender
+Ereignisse:
+
+1.  einmalig nach Errichtung des Basisregisters nach § 1 Absatz 1,
+
+
+2.  regelmäßig und wiederkehrend bei Neugründung, Änderung oder Beendigung
+    eines Unternehmens nach § 3 Absatz 1.
+
+
+
+Die öffentlichen Stellen nach Satz 1 sind berechtigt, von der
+Registerbehörde durch automatisierte Verfahren Unternehmensbasisdaten
+zu erhalten, soweit dies zur Erfüllung der in ihrer Zuständigkeit
+liegenden Aufgaben erforderlich ist.
+
+(3) Die Registerbehörde übermittelt den öffentlichen Stellen nach
+Absatz 1 Satz 1 Nummer 4, 5 und 10 auf Ersuchen durch ein
+automatisiertes Abrufverfahren Unternehmensbasisdaten, soweit dies zur
+Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich
+ist. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt
+die abrufende öffentliche Stelle. Die Registerbehörde überprüft die
+Zulässigkeit der Abrufe durch geeignete Stichprobenverfahren sowie
+wenn dazu Anlass besteht.
+
+(4) Unternehmensbasisdaten eines Unternehmens im Sinne von § 3 Absatz
+1 dürfen zur Verwendung in dessen Organisationskonto abweichend von
+Absatz 1 Satz 1 Nummer 10 und Absatz 3 nur mit vorheriger Einwilligung
+des Unternehmens übermittelt und abgerufen werden.
 
 
 ## § 6 Datenschutzrechtliche Verantwortlichkeit
@@ -156,6 +503,52 @@ Protokollierung zu treffen.
 
 (2) Die Einzelheiten nach Absatz 1 sind durch die Rechtsverordnung
 nach § 10 Satz 1 Nummer 2 festzulegen.
+
+
+## § 10 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE001002128)
+
+Das Bundesministerium der Finanzen, das Bundesministerium für
+Wirtschaft und Energie und das Bundesministerium der Justiz und für
+Verbraucherschutz werden ermächtigt, durch gemeinsame Rechtsverordnung
+mit Zustimmung des Bundesrates Folgendes zu regeln:
+
+1.  die Zuständigkeit, die Form und das nähere Verfahren der Mitteilung
+    der bundeseinheitlichen Wirtschaftsnummer für Unternehmen nach § 2 an
+    die betroffenen Unternehmen,
+
+
+2.  Maßnahmen zur Sicherstellung des Datenschutzes und der
+    Datensicherheit,
+
+
+3.  nähere Bestimmungen zur Auskunftserteilung nach § 7 Absatz 3 an die
+    Unternehmen nach § 3 Absatz 1 bezüglich ihrer Daten aus dem
+    Basisregister,
+
+
+4.  die Festlegung technischer und organisatorischer Standards für den
+    Betrieb des Basisregisters,
+
+
+5.  die Festlegung technischer und organisatorischer Standards der
+    Datenübermittlungen nach den §§ 4 und 5,
+
+
+6.  die Bestimmung einzelner öffentlicher Stellen, die Daten an die
+    Registerbehörde zum Aufbau und zur Pflege des Basisregisters
+    übermitteln, einschließlich der von diesen zu übermittelnden Daten und
+
+
+7.  die Bestimmung einzelner öffentlicher Stellen, die Daten von der
+    Registerbehörde zur Erfüllung ihrer gesetzlichen Aufgaben übermittelt
+    bekommen, einschließlich der an diese zu übermittelnden Daten.
+
+
+
+Die Maßnahmen zur Sicherstellung der Datensicherheit nach Satz 1
+Nummer 2 sowie deren Überprüfung sind im Einvernehmen mit dem
+Bundesamt für Sicherheit in der Informationstechnik zu erarbeiten.
 
 
 ## § 11 Evaluierung

@@ -282,6 +282,80 @@ Anspruch nimmt. Der deutsche Hilfeempfänger ist der Bundesrepublik
 Deutschland zum Ersatz dieser Auslagen verpflichtet.
 
 
+### § 10 Beurkundungen im allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001702130)
+
+(1) Die Konsularbeamten sind befugt, über Tatsachen und Vorgänge, die
+sie in Ausübung ihres Amts wahrgenommen haben, Niederschriften oder
+Vermerke aufzunehmen, insbesondere
+
+1.  vor ihnen abgegebene Willenserklärungen und Versicherungen an Eides
+    statt zu beurkunden,
+
+
+2.  Unterschriften, Handzeichen sowie Abschriften zu beglaubigen oder
+    sonstige einfache Zeugnisse (z.B. Lebensbescheinigungen) auszustellen.
+
+
+
+
+(2) Die von einem Konsularbeamten aufgenommenen Urkunden stehen den
+von einem inländischen Notar aufgenommenen gleich.
+
+(3) Für das Verfahren bei der Beurkundung gelten die Vorschriften des
+Beurkundungsgesetzes mit folgenden Abweichungen:
+
+1.  Urkunden können auf Verlangen auch in einer anderen als der deutschen
+    Sprache errichtet werden.
+
+
+2.  Dolmetscher brauchen nicht vereidigt zu werden.
+
+
+3.  Die Abschrift einer nicht beglaubigten Abschrift soll nicht beglaubigt
+    werden.
+
+
+4.  Die Urschrift einer Niederschrift soll den Beteiligten ausgehändigt
+    werden, wenn nicht einer von ihnen amtliche Verwahrung verlangt. In
+    diesem Fall soll die Urschrift dem Amtsgericht Schöneberg in Berlin
+    zur amtlichen Verwahrung übersandt werden. Hat sich einer der
+    Beteiligten der Zwangsvollstreckung unterworfen, so soll die Urschrift
+    der Niederschrift dem Gläubiger ausgehändigt werden, wenn die
+    Beteiligten keine anderweitige Bestimmung getroffen haben und auch
+    keiner von ihnen amtliche Verwahrung verlangt hat.
+
+
+5.  Solange die Urschrift nicht ausgehändigt oder an das Amtsgericht
+    abgesandt ist, sind die Konsularbeamten befugt, Ausfertigungen zu
+    erteilen. Wem und an welchem Tag eine Ausfertigung erteilt worden ist,
+    soll auf der Urschrift vermerkt werden. Vollstreckbare Ausfertigungen
+    können nur von dem Amtsgericht erteilt werden, das die Urschrift
+    verwahrt.
+
+
+6.  Mit elektronischen Niederschriften (§ 8 Absatz 2 und § 36 Absatz 2 des
+    Beurkundungsgesetzes) und elektronischen Vermerken im Sinne des § 39a
+    des Beurkundungsgesetzes muss eine Bestätigung der
+    Konsularbeamteneigenschaft durch die zuständige Stelle verbunden
+    werden.
+
+
+7.  Ein nach § 8 Absatz 2 oder § 36 Absatz 2 des Beurkundungsgesetzes
+    erstelltes elektronisches Dokument soll den Beteiligten überlassen
+    werden. Verlangt einer der Beteiligten eine amtliche Verwahrung, so
+    soll das elektronische Dokument dem Amtsgericht Schöneberg in Berlin
+    zur amtlichen Verwahrung übermittelt werden. Das vom Amtsgericht
+    Schöneberg in Berlin verwahrte elektronische Dokument gilt als
+    Urschrift. Ergibt sich aus einer Rechtsvorschrift die Pflicht, auf der
+    amtlich verwahrten Urschrift etwas zu vermerken, so ist der Vermerk in
+    einem gesonderten elektronischen Dokument niederzulegen, das zusammen
+    mit dem amtlich verwahrten elektronischen Dokument zu verwahren ist.
+
+
+
+
+
 ### § 11 Besonderheiten für Verfügungen von Todes wegen
 [Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001803377)
 
@@ -326,6 +400,62 @@ Die Konsularbeamten sind befugt,
 
 
 
+
+
+### § 13 Legalisation ausländischer öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002001130)
+
+(1) Die Konsularbeamten sind befugt, die in ihrem Amtsbezirk
+ausgestellten öffentlichen Urkunden zu legalisieren.
+
+(2) Die Legalisation bestätigt die Echtheit der Unterschrift, die
+Eigenschaft, in welcher der Unterzeichner der Urkunde gehandelt hat,
+und gegebenenfalls die Echtheit des Siegels, mit dem die Urkunde
+versehen ist (Legalisation im engeren Sinn).
+
+(3) Die Legalisation wird durch einen auf die Urkunde zu setzenden
+Vermerk vollzogen. Der Vermerk soll den Namen und die Amts- oder
+Dienstbezeichnung des Unterzeichners der Urkunde enthalten. Er soll
+den Ort und den Tag seiner Ausstellung angeben und ist mit
+Unterschrift und Präge- oder Farbdrucksiegel zu versehen.
+
+(4) Auf Antrag kann, sofern über die Rechtslage kein Zweifel besteht,
+in dem Vermerk auch bestätigt werden, daß der Aussteller zur Aufnahme
+der Urkunde zuständig war und daß die Urkunde in der den Gesetzen des
+Ausstellungsorts entsprechenden Form aufgenommen worden ist
+(Legalisation im weiteren Sinn).
+
+(5) Eine ausländische elektronische Urkunde kann zur Legalisation mit
+einem elektronischen Vermerk versehen werden, wenn sie zur Überzeugung
+des Konsularbeamten aufgrund eines der folgenden elektronischen
+Sicherheitsmerkmale als echt anzusehen ist:
+
+1.  einer Signatur, die die Anforderungen an fortgeschrittene
+    elektronische Signaturen nach Artikel 3 Nummer 11 der Verordnung (EU)
+    910/2014 erfüllt, oder eines Siegels, das die Anforderungen an
+    fortgeschrittene elektronische Siegel nach Artikel 3 Nummer 26 der
+    Verordnung (EU) 910/2014 erfüllt, oder
+
+
+2.  einer anderen Methode, die nach Einschätzung des Konsularbeamten ein
+    gleichwertiges Sicherheitsniveau gewährleistet.
+
+
+
+Der elektronische Vermerk soll Ort und Tag seiner Ausstellung nennen
+und das Ergebnis der Prüfung der elektronischen Sicherheitsmerkmale
+dokumentieren. Der elektronische Vermerk ist mit einer qualifizierten
+elektronischen Signatur, aus der die Amtsträgereigenschaft des
+Konsularbeamten hervorgeht, zu versehen. Bei der Legalisierung ist der
+Bezug zwischen dem elektronischen Vermerk und der zu legalisierenden
+ausländischen elektronischen Urkunde durch kryptografische Verfahren
+nach dem Stand der Technik herzustellen. Die elektronischen
+Sicherheitsmerkmale der ausländischen elektronischen Urkunde sollen
+dabei erhalten bleiben.
+
+(6) Urkunden, die gemäß zwei- oder mehrseitiger völkerrechtlicher
+Übereinkunft von der Legalisation befreit sind, sollen nicht
+legalisiert werden.
 
 
 ### § 14 Bestätigung der Echtheit inländischer öffentlicher Urkunden
@@ -620,6 +750,21 @@ Gastland ein Zuschlag erhoben werden kann. Der Zuschlag kann bis zu
 Die Erstattung von Auslagen kann auch verlangt werden, wenn für die
 individuell zurechenbare öffentliche Leistung keine Gebühr vorgesehen
 ist.
+
+
+### § 26 Erstattungsansprüche bei Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003303130)
+
+(1) Im Falle der Amtshilfe hat die ersuchende Behörde keine
+Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu
+erstatten, wenn sie im Einzelfall 70 Euro übersteigen. Wird die
+Amtshilfe für eine Bundesbehörde geleistet, so werden die Auslagen
+nicht erstattet.
+
+(2) Nehmen die Auslandsvertretungen oder die Honorarkonsularbeamten
+zur Durchführung der Amtshilfe eine gebührenpflichtige individuell
+zurechenbare öffentliche Leistung vor, so stehen ihnen die von einem
+Dritten hierfür geschuldeten Gebühren und Auslagen zu.
 
 
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften

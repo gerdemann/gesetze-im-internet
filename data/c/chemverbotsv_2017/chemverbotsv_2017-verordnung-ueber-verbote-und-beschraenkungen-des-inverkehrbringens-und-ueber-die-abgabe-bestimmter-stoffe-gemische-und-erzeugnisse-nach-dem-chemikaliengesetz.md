@@ -84,6 +84,88 @@ Im Sinne dieser Verordnung ist
 [Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000200000)
 
 
+### § 3 Verbote und Beschränkungen des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000302126)
+
+(1) Beschränkungen des Inverkehrbringens bestimmter Stoffe, Gemische
+und Erzeugnisse ergeben sich insbesondere aus Artikel 67 in Verbindung
+mit Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen
+Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung,
+Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur
+Schaffung einer Europäischen Chemikalienagentur, zur Änderung der
+Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr.
+793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der
+Richtlinie 76/769/EWG des Rates sowie der Richtlinien
+91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L
+396 vom 30.12.2006, S. 1, L 136 vom 29.5.2007, S. 3, L 141 vom
+31\.5.2008, S. 22, L 36 vom 5.2.2009, S. 84) in ihrer jeweils geltenden
+Fassung.
+
+(2) Darüber hinaus ist das Inverkehrbringen von Stoffen und Gemischen,
+die in Anlage 1 Spalte 1 bezeichnet sind, sowie von Stoffen, Gemischen
+und Erzeugnissen, die diese freisetzen können oder enthalten, in dem
+in Anlage 1 Spalte 2 genannten Umfang nach Maßgabe der in Anlage 1
+Spalte 3 aufgeführten Ausnahmen verboten.
+
+(3) Sofern in Anlage 1 Spalte 3 nicht etwas anderes bestimmt ist, gilt
+Absatz 2 nicht für das Inverkehrbringen
+
+1.  von Stoffen, Gemischen oder Erzeugnissen, soweit es sich lediglich um
+    einen Transitverkehr unter zollamtlicher Überwachung, bei dem keine
+    Be- oder Verarbeitung erfolgt, handelt oder die den Ausnahmen nach § 2
+    Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 des Chemikaliengesetzes
+    unterliegen,
+
+
+2.  zu Forschungs-, wissenschaftlichen Lehr- und Ausbildungszwecken sowie
+    Analysezwecken in den dafür erforderlichen Mengen oder
+
+
+3.  zur ordnungsgemäßen und schadlosen Abfallverwertung in einer dafür
+    zugelassenen Anlage oder zur gemeinwohlverträglichen
+    Abfallbeseitigung.
+
+
+
+
+(4) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit gibt im Bundesanzeiger für die in Anlage 1 genannten Stoffe
+und Stoffgruppen den Wortlaut derjenigen geeigneten analytischen
+Verfahren für Probenahmen und Untersuchungen bekannt, die
+wissenschaftlich anerkannten Prüfverfahren entsprechen. Stehen
+geeignete Verfahren zur Verfügung, die (C)EN-Normen entsprechen, ist
+im Zusammenhang mit der spezifischen Vorschrift zur Probeentnahme ein
+Verweis auf diese Normen ausreichend.
+
+
+### § 4 Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000401131)
+
+(1) Die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII
+Eintrag 6 der Verordnung (EG) Nr. 1907/2006 gelten nicht für das
+Inverkehrbringen
+
+1.  von Verkehrsmitteln, die vor dem 31. Dezember 1994 hergestellt worden
+    sind und die aufgrund ihres Originalherstellungsprozesses die in
+    Anhang XVII Eintrag 6 Spalte 1 der Verordnung (EG) Nr. 1907/2006
+    bezeichneten Asbestfasern enthalten, und
+
+
+2.  von kulturhistorischen Gegenständen, die vor dem 31. Dezember 1994
+    hergestellt worden sind, für Sammlungs- oder Ausstellungszwecke.
+
+
+
+
+(2) Das Verbot des Inverkehrbringens nach Artikel 67 in Verbindung mit
+Anhang XVII Eintrag 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt
+nicht für die dort genannten Bleiverbindungen in oder für Farben, die
+zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken
+und historischen Bestandteilen oder von Einrichtungen
+denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von
+Ersatzstoffen nicht möglich ist.
+
+
 ## Abschnitt 3 - Regelungen zur Abgabe
 [Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000300000)
 

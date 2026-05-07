@@ -624,6 +624,11 @@ nach Satz 1 nur den Personen mit Zugang zu den Emissionsbedingungen zu
 gewähren.
 
 
+### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001801129)
+
+
+
 ### § 18 Teilnahme an einem Kryptowertpapierregister; Beschwerde
 [Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001900000)
 

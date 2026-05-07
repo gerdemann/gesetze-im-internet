@@ -390,6 +390,121 @@ mit dem Verband der privaten Krankenversicherungen.
 [Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNG000200116)
 
 
+### § 11 Förderungsfähige Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001203130)
+
+(1) Ein Vorhaben wird nach § 12a Absatz 1 in Verbindung mit Absatz 2
+Satz 1 oder Satz 4 des Krankenhausfinanzierungsgesetzes gefördert,
+wenn
+
+1.  ein Krankenhaus oder Teile von akutstationären
+    Versorgungseinrichtungen eines Krankenhauses dauerhaft geschlossen
+    werden, insbesondere wenn ein Standort, eine unselbständige
+    Betriebsstätte oder eine Fachrichtung eines Krankenhauses geschlossen
+    wird,
+
+
+2.  akutstationäre Versorgungskapazitäten, insbesondere Fachrichtungen
+    mehrerer Krankenhäuser, in wettbewerbsrechtlich zulässiger Weise
+    standortübergreifend konzentriert werden, insbesondere sofern
+
+    a)  Versorgungseinrichtungen betroffen sind, die von einem nicht
+        universitären Krankenhaus an eine Einrichtung eines Hochschulklinikums
+        verlegt werden, und für die
+
+        aa) der Gemeinsame Bundesausschuss Mindestmengen festgelegt hat oder
+
+
+        bb) in den Krankenhausplänen der Länder Mindestfallzahlen vorgesehen sind,
+
+
+
+
+
+    b)  es sich um Versorgungseinrichtungen zur Behandlung seltener
+        Erkrankungen handelt, die von einem nicht universitären Krankenhaus an
+        eine Einrichtung eines Hochschulklinikums verlegt werden, oder
+
+
+    c)  die beteiligten Krankenhäuser eine dauerhafte Zusammenarbeit im Rahmen
+        eines Krankenhausverbunds, etwa durch gemeinsame Abstimmung des
+        Versorgungsangebots, vereinbart haben,
+
+
+
+
+
+3.  ein Krankenhaus oder Teile von akutstationären
+    Versorgungseinrichtungen eines Krankenhauses, insbesondere ein
+    Standort, eine unselbständige Betriebsstätte oder eine Fachrichtung,
+    mindestens aber eine Abteilung eines Krankenhauses, umgewandelt werden
+    in
+
+    a)  eine bedarfsnotwendige andere Fachrichtung oder
+
+
+    b)  eine nicht akutstationäre Versorgungseinrichtung, insbesondere in eine
+        Einrichtung der ambulanten, der sektorenübergreifenden oder der
+        palliativen Versorgung, in eine stationäre Pflegeeinrichtung oder in
+        eine Einrichtung der stationären Rehabilitation; bei Umwandlung eines
+        gesamten Krankenhauses in eine Einrichtung der sektorenübergreifenden
+        Versorgung muss mindestens die Hälfte der stationären
+        Versorgungskapazitäten des Krankenhauses von der Umwandlung betroffen
+        sein,
+
+
+
+
+
+4.  die Beschaffung, Errichtung, Erweiterung oder Entwicklung
+    informationstechnischer oder kommunikationstechnischer Anlagen,
+    Systeme oder Verfahren oder bauliche Maßnahmen erforderlich sind, um
+
+    a)  die Informationstechnik der Krankenhäuser, die die Voraussetzungen des
+        Anhangs 5 Teil 3 der BSI-Kritisverordnung vom 22. April 2016 (BGBl. I
+        S. 958), die zuletzt durch Artikel 1 der Verordnung vom 29. November
+        2023 (BGBl. 2023 I Nr. 339) geändert worden ist, erfüllen, an die
+        Anforderungen der §§ 30, 31 und 39 des BSI-Gesetzes anzupassen oder
+
+
+    b)  telemedizinische Netzwerkstrukturen insbesondere zwischen
+        Krankenhäusern der Schwerpunkt- und Maximalversorgung einschließlich
+        der Hochschulkliniken einerseits und Krankenhäusern der Grund- und
+        Regelversorgung andererseits zu schaffen; im Rahmen der geförderten
+        telemedizinischen Netzwerkstrukturen sind Dienste und Anwendungen der
+        Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch zu
+        nutzen, sobald diese zur Verfügung stehen,
+
+
+
+
+
+5.  es die Bildung integrierter Notfallstrukturen insbesondere durch
+    bauliche Maßnahmen zum Gegenstand hat oder
+
+
+6.  Ausbildungskapazitäten in mit den Krankenhäusern notwendigerweise
+    verbundenen Ausbildungsstätten nach § 2 Nummer 1a Buchstabe e bis g
+    des Krankenhausfinanzierungsgesetzes geschaffen oder erweitert werden.
+
+
+
+
+(2) Als Beginn der Umsetzung eines zu fördernden Vorhabens gilt der
+Abschluss eines der Ausführung zuzurechnenden Liefer-,
+Dienstleistungs- oder Werkvertrags. Im Fall von Baumaßnahmen gelten
+Planungen und Baugrunduntersuchungen nicht als Beginn des Vorhabens.
+Einzelne Vorhaben, die selbständige Abschnitte eines vor dem 1. Januar
+2019 begonnenen Vorhabens darstellen, können gefördert werden, wenn
+sie nach dem 1. Januar 2019 begonnen werden und die Voraussetzungen
+des Absatzes 1 erfüllen.
+
+(3) Nicht gefördert werden können Vorhaben nach Absatz 1 Nummer 1,
+wenn ein zeitlicher und örtlicher Zusammenhang mit dem Aufbau von
+Behandlungsplätzen oder der Neuaufnahme entsprechender Fachrichtungen
+an anderen Krankenhäusern besteht.
+
+
 ### § 12 Förderungsfähige Kosten
 [Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001401116)
 
@@ -499,6 +614,115 @@ nähere Bestimmungen zur Durchführung des Förderverfahrens treffen und
 verlangen, dass die Unterlagen nach den §§ 14 und 17 in einem
 einheitlichen Format oder in einer maschinell auswertbaren Form
 übermittelt werden.
+
+
+### § 14 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001603130)
+
+(1) Die Länder können bis zum 31. Dezember 2025 Anträge an das
+Bundesversicherungsamt auf Auszahlung von Fördermitteln nach § 12a des
+Krankenhausfinanzierungsgesetzes aus dem Strukturfonds stellen.
+
+(2) Dem Antrag sind die in § 4 Absatz 2 Satz 1 Nummer 1, 2 und 7
+genannten Unterlagen sowie darüber hinaus folgende Unterlagen
+beizufügen:
+
+1.  die Erklärung zur Verpflichtung, die Voraussetzungen des § 12a Absatz
+    3 Satz 1 Nummer 3 des Krankenhausfinanzierungsgesetzes einzuhalten,
+
+
+2.  bei Vorhaben nach § 11 Absatz 1 Nummer 1 die Bestätigung, dass
+
+    a)  die stillgelegte Versorgungsfunktion durch Krankenhäuser in
+        erreichbarer Nähe sichergestellt ist,
+
+
+    b)  der betroffene Krankenhausträger gegenüber dem antragstellenden Land
+        auf Grund der Schließung nicht zur Rückzahlung von Mitteln für die
+        Investitionsfinanzierung verpflichtet ist,
+
+
+
+
+
+3.  bei allen Vorhaben nach § 11 Absatz 1 Nummer 2 die Bestätigung,
+
+    a)  dass die Konzentration von akutstationären Versorgungskapazitäten
+        wettbewerbsrechtlich zulässig ist,
+
+
+    b)  der betroffene Krankenhausträger gegenüber dem antragstellenden Land
+        auf Grund des Vorhabens nicht zur Rückzahlung von Mitteln für die
+        Investitionsfinanzierung verpflichtet ist,
+
+
+
+
+
+4.  bei Vorhaben nach § 11 Absatz 1 Nummer 2 Buchstabe a zusätzlich die
+    Bestätigung, dass für die betroffenen akutstationären
+    Versorgungskapazitäten Mindestmengen oder Mindestfallzahlen bestehen,
+
+
+5.  bei Vorhaben nach § 11 Absatz 1 Nummer 2 Buchstabe b zusätzlich die
+    Bestätigung, dass es sich bei den betroffenen akutstationären
+    Versorgungskapazitäten um Versorgungseinrichtungen zur Behandlung
+    seltener Erkrankungen handelt,
+
+
+6.  bei Vorhaben nach § 11 Absatz 1 Nummer 2 Buchstabe c zusätzlich die
+    Bestätigung, dass die beteiligten Krankenhäuser eine dauerhafte
+    Zusammenarbeit im Rahmen eines Krankenhausverbunds vereinbart haben,
+
+
+7.  bei Vorhaben nach § 11 Absatz 1 Nummer 3 Buchstabe b die Erklärung,
+    dass die mit der Umwandlung beabsichtigte Nachfolgenutzung in
+    Übereinstimmung mit den maßgeblichen rechtlichen Vorgaben steht,
+
+
+8.  bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe a die Bestätigung,
+    dass die vorgesehenen Maßnahmen erforderlich sind, um die
+    Informationstechnik des Krankenhauses an die Anforderungen der §§ 30,
+    31 und 39 des BSI-Gesetzes anzupassen,
+
+
+9.  bei Vorhaben nach § 11 Absatz 1 Nummer 4 Buchstabe b die Bestätigung,
+    dass die vorhandenen Dienste und Anwendungen der
+    Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch genutzt
+    werden, sobald diese zur Verfügung stehen,
+
+
+10. die Berechnung des Barwerts nach § 12 Absatz 3 in Verbindung mit § 2
+    Absatz 3 Satz 3 einschließlich einer Erläuterung der zu Grunde
+    gelegten versicherungsmathematischen Annahmen, wenn ein förderfähiges
+    Vorhaben durch Aufnahme eines Darlehens des Krankenhausträgers
+    finanziert werden soll,
+
+
+11. bei länderübergreifenden Vorhaben zusätzlich die Erklärung,
+
+    a)  in welchem Umfang die beteiligten Länder jeweils die Kosten des
+        Vorhabens nach § 12a Absatz 3 Satz 1 Nummer 2 des
+        Krankenhausfinanzierungsgesetzes tragen,
+
+
+    b)  in welchem Verhältnis die Fördermittel an die beteiligten Länder
+        auszuzahlen sind,
+
+
+    c)  in welchem Umfang die beteiligten Länder den ihnen zustehenden Anteil
+        nach § 12a Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes in
+        Anspruch nehmen und
+
+
+    d)  in welchem Umfang die beteiligten Länder jeweils zurückzuzahlende
+        Beträge aufbringen würden.
+
+
+
+
+
+
 
 
 ### § 15 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung

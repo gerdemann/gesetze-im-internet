@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 2246
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.12.2021 II 1282
-
-Änderung durch
-:   Art. 7 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 10.12.2025 I Nr. 320
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -67,6 +64,26 @@ Der Notar führt die folgenden Akten:
 
 
 
+
+
+### § 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000402131)
+
+(1) Urschriften, Ausfertigungen und beglaubigte Abschriften von
+Urkunden sind so herzustellen, dass sie gut lesbar, dauerhaft und
+fälschungssicher sind. Satz 1 gilt für die Erstellung elektronischer
+Urkunden entsprechend.
+
+(2) Im Schriftbild der Urschrift einer Urkunde darf nichts unleserlich
+gemacht werden.
+
+(3) Auf jeder Urschrift, Ausfertigung oder Abschrift einer Urkunde
+sind die Urkundenverzeichnisnummer und die Jahreszahl anzugeben. Satz
+1 gilt für das nach § 39a des Beurkundungsgesetzes erstellte
+elektronische Dokument entsprechend. Auf einem nach § 8 Absatz 2, §
+16b oder § 36 Absatz 2 des Beurkundungsgesetzes erstellten
+elektronischen Dokument müssen die Urkundenverzeichnisnummer und die
+Jahreszahl nicht angegeben werden.
 
 
 ### § 4 Form und Übergabe elektronischer Aufzeichnungen
@@ -137,6 +154,104 @@ verarbeitet werden.
 
 ## Abschnitt 2 - Urkundenverzeichnis
 [Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000201000)
+
+
+### § 7 Urkundenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000803131)
+
+(1) In das Urkundenverzeichnis einzutragen sind
+
+1.  Niederschriften (§ 8 Absatz 1 und § 36 Absatz 1 des
+    Beurkundungsgesetzes),
+
+
+2.  elektronische Niederschriften (§ 8 Absatz 2, §§ 16b und 36 Absatz 2
+    des Beurkundungsgesetzes),
+
+
+3.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die Folgendes
+    enthalten:
+
+    a)  die Beglaubigung einer Unterschrift oder eines Handzeichens,
+
+
+    b)  die Beglaubigung der Zeichnung einer Namensunterschrift,
+
+
+    c)  die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt
+        worden ist,
+
+
+    d)  sonstige einfache Zeugnisse im Sinne des § 39 des
+        Beurkundungsgesetzes,
+
+
+
+
+
+4.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
+    die Folgendes enthalten:
+
+    a)  die Beglaubigung einer qualifizierten elektronischen Signatur, einer
+        elektronischen Unterschrift oder eines elektronischen Handzeichens,
+
+
+    b)  die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt
+        worden ist,
+
+
+    c)  sonstige einfache Zeugnisse im Sinne des § 39 des
+        Beurkundungsgesetzes,
+
+
+
+
+
+5.  Vollstreckbarerklärungen nach § 796c Absatz 1 und § 1053 Absatz 4 der
+    Zivilprozessordnung und
+
+
+6.  Einigungen, Abschlussprotokolle, Vertragsbeurkundungen und
+    Vertragsbestätigungen nach § 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, §
+    98 Absatz 2 Satz 1 und § 99 Satz 1 des
+    Sachenrechtsbereinigungsgesetzes.
+
+
+
+
+(2) Nicht in das Urkundenverzeichnis einzutragen sind insbesondere
+
+1.  Niederschriften über Wechsel- und Scheckproteste,
+
+
+2.  Vermerke im Sinne des § 39 des Beurkundungsgesetzes, die im
+    Zusammenhang mit einer anderen Beurkundung erstellt werden und
+
+    a)  die auf die betreffende Urschrift oder eine Ausfertigung der Urkunde
+        oder ein damit zu verbindendes Blatt gesetzt werden oder
+
+
+    b)  deren elektronische Fassung zusammen mit einer elektronischen
+        Urschrift verwahrt wird, und
+
+
+
+
+
+3.  elektronische Vermerke im Sinne des § 39a des Beurkundungsgesetzes,
+    die im Zusammenhang mit einer anderen Beurkundung erstellt werden und
+
+    a)  deren Ausdruck mit einer Urschrift oder einer Ausfertigung der Urkunde
+        verbunden wird oder
+
+
+    b)  die zusammen mit einer elektronischen Urschrift verwahrt werden.
+
+
+
+
+
+
 
 
 ### § 8 Führung des Urkundenverzeichnisses
@@ -214,6 +329,97 @@ Zur Amtsperson sind anzugeben
 
 
 
+
+
+### § 12 Angabe der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001303131)
+
+(1) Als Beteiligte sind einzutragen
+
+1.  bei Niederschriften nach § 8 Absatz 1 des Beurkundungsgesetzes und
+    elektronischen Niederschriften nach § 8 Absatz 2 und § 16b des
+    Beurkundungsgesetzes die Erschienenen, deren Erklärungen beurkundet
+    worden sind,
+
+
+2.  bei Beglaubigungen (§§ 39 bis 41 des Beurkundungsgesetzes) diejenigen,
+    welche die Unterschrift, die qualifizierte elektronische Signatur, das
+    Handzeichen oder die Zeichnung vollzogen oder anerkannt haben,
+
+
+3.  bei Vollstreckbarerklärungen (§ 796c Absatz 1 und § 1053 Absatz 4 der
+    Zivilprozessordnung) die Parteien,
+
+
+4.  bei Amtshandlungen nach § 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, § 98
+    Absatz 2 Satz 1 und § 99 Satz 1 des Sachenrechtsbereinigungsgesetzes
+    die Beteiligten im Sinne des Sachenrechtsbereinigungsgesetzes,
+
+
+5.  bei allen übrigen Beurkundungen (§§ 36, 39, 39a und 43 des
+    Beurkundungsgesetzes) diejenigen, welche die Beurkundung veranlasst
+    haben.
+
+
+
+Sind mehr als 20 Beteiligte einzutragen, genügt auch eine
+zusammenfassende Bezeichnung, es sei denn, dass die Beteiligten in den
+Fällen der §§ 8 oder 16b des Beurkundungsgesetzes Erklärungen zur
+Niederschrift abgegeben haben.
+
+(2) Zu den Beteiligten sind anzugeben
+
+1.  der Vorname oder die Vornamen,
+
+
+2.  der Familienname,
+
+
+3.  der Geburtsname, wenn dieser nicht der Familienname ist,
+
+
+4.  das Geburtsdatum und
+
+
+5.  der Wohnort.
+
+
+
+Sofern dies zur Unterscheidung der Beteiligten erforderlich ist, sind
+weitere Angaben aufzunehmen. Haben Beteiligte in Vertretung für eine
+andere Person gehandelt und wurde dabei in eine Niederschrift oder
+elektronische Niederschrift statt des Wohnorts eines Beteiligten ein
+Dienst- oder Geschäftsort aufgenommen, so tritt dieser auch im
+Urkundenverzeichnis an die Stelle des Wohnorts. Bei Beteiligten, die
+keine natürlichen Personen sind, sind statt der in Satz 1 genannten
+Angaben ihr Name und ihr Sitz anzugeben.
+
+(3) Zu den Beteiligten kann angegeben werden
+
+1.  die Anschrift,
+
+
+2.  die steuerliche Identifikationsnummer,
+
+
+3.  die Wirtschafts-Identifikationsnummer und
+
+
+4.  die Registernummer.
+
+
+
+
+(4) Haben Beteiligte in Vertretung für eine andere Person gehandelt,
+sind neben den Beteiligten auch die vertretenen Personen aufzuführen.
+Absatz 2 Satz 1, 2 und 4 und Absatz 3 gelten insoweit entsprechend.
+Sind mehr als 20 vertretene Personen aufzuführen, genügt auch eine
+zusammenfassende Bezeichnung. Vertretende und vertretene Personen
+sollen jeweils als solche gekennzeichnet werden.
+
+(5) In gesellschaftsrechtlichen Angelegenheiten ist die Gesellschaft
+auch dann einzutragen, wenn sie nicht Beteiligte ist. Absatz 2 Satz 4
+und Absatz 3 gelten entsprechend.
 
 
 ### § 13 Angabe des Geschäftsgegenstands
@@ -622,6 +828,122 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 [Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000401000)
 
 
+### § 31 Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003203131)
+
+(1) In der Urkundensammlung sind zu verwahren
+
+1.  bei Niederschriften über eine Verfügung von Todes wegen
+
+    a)  eine beglaubigte Abschrift, wenn die Beteiligten dies wünschen, und
+
+
+    b)  ein Ausdruck der Bestätigung oder der Bestätigungen über die
+        Registrierung im Zentralen Testamentsregister,
+
+
+
+
+
+2.  bei sonstigen Niederschriften, die in das Urkundenverzeichnis
+    einzutragen sind, die Urschrift,
+
+
+3.  bei elektronischen Niederschriften ein beglaubigter Ausdruck des
+    elektronischen Dokuments,
+
+
+4.  bei Vermerken im Sinne des § 39 des Beurkundungsgesetzes, die in das
+    Urkundenverzeichnis einzutragen sind,
+
+    a)  die Urschrift, wenn diese in notarieller Verwahrung verbleibt,
+
+
+    b)  eine Abschrift, wenn die Urschrift ausgehändigt wird und der Notar die
+        Urkunde entworfen hat,
+
+
+    c)  in den übrigen Fällen nach Ermessen des Notars eine Abschrift,
+
+
+
+
+
+5.  bei einfachen elektronischen Zeugnissen im Sinne des § 39a des
+    Beurkundungsgesetzes, die in das Urkundenverzeichnis einzutragen sind,
+
+    a)  ein beglaubigter Ausdruck des elektronischen Dokuments, wenn dieses in
+        notarieller Verwahrung verbleibt,
+
+
+    b)  ein Ausdruck des elektronischen Dokuments, wenn dieses ausgehändigt
+        wird und der Notar die Urkunde entworfen hat,
+
+
+    c)  in den übrigen Fällen nach Ermessen des Notars ein Ausdruck des
+        elektronischen Dokuments,
+
+
+
+
+
+6.  bei Vollstreckbarerklärungen nach § 796c Absatz 1 der
+    Zivilprozessordnung die Urschrift mit der Urschrift des Vergleichs,
+
+
+7.  bei Vollstreckbarerklärungen nach § 1053 Absatz 4 der
+    Zivilprozessordnung die Urschrift mit einer beglaubigten Abschrift des
+    Schiedsspruchs,
+
+
+8.  bei Einigungen, Abschlussprotokollen, Vertragsbeurkundungen und
+    Vertragsbestätigungen nach § 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, §
+    98 Absatz 2 Satz 1 und § 99 Satz 1 des
+    Sachenrechtsbereinigungsgesetzes die Urschrift.
+
+
+
+
+(2) Die Urkundensammlung ist nach der Reihenfolge der Eintragungen im
+Urkundenverzeichnis zu ordnen.
+
+(3) Nachweise für die Vertretungsberechtigung, die nach § 12 Absatz 1
+Satz 1 des Beurkundungsgesetzes der Niederschrift beigefügt werden
+sollen, werden der Urschrift beigefügt und mit ihr in der
+Urkundensammlung verwahrt. Nachweise, die nach § 12 Absatz 1 Satz 2
+des Beurkundungsgesetzes der elektronischen Niederschrift beigefügt
+werden sollen, werden dem in der Urkundensammlung verwahrten
+beglaubigten Ausdruck der elektronischen Niederschrift in Urschrift
+oder in beglaubigter Abschrift beigefügt und mit ihm in der
+Urkundensammlung verwahrt.
+
+(4) Einem in der Urkundensammlung verwahrten Dokument können andere
+Urschriften oder Unterlagen beigefügt und mit ihm verwahrt werden,
+wenn
+
+1.  diese mit dem verwahrten Dokument inhaltlich derart zusammenhängen,
+    dass das verwahrte Dokument ohne die anderen Urschriften oder
+    Unterlagen nicht in zweckdienlicher Weise verwendet werden kann, oder
+
+
+2.  sie für die Rechtswirksamkeit oder die Durchführung des beurkundeten
+    Rechtsvorgangs bedeutsam sind.
+
+
+
+
+(5) Anstelle der Urschrift ist eine Ausfertigung oder eine beglaubigte
+Abschrift in der Urkundensammlung zu verwahren, wenn nach dem
+Beurkundungsgesetz die Ausfertigung oder die beglaubigte Abschrift an
+die Stelle der Urschrift tritt. Anstelle eines beglaubigten Ausdrucks
+der elektronischen Urschrift ist eine Ausfertigung oder eine
+beglaubigte Abschrift in der Urkundensammlung zu verwahren, wenn nach
+dem Beurkundungsgesetz die elektronische Fassung einer Ausfertigung
+oder einer beglaubigten Abschrift an die Stelle der elektronischen
+Urschrift tritt und die Verwahrung eines beglaubigten Ausdrucks der
+elektronischen Urschrift nicht möglich ist.
+
+
 ### § 32 Erbvertragssammlung
 [Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003300000)
 
@@ -660,6 +982,66 @@ Urkundensammlung zu nehmen ist.
 
 ## Abschnitt 5 - Elektronische Urkundensammlung, Sondersammlung
 [Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000501000)
+
+
+### § 34 Elektronische Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003503131)
+
+(1) In der elektronischen Urkundensammlung werden die Dokumente in
+elektronischer Form verwahrt, die nach § 31 in der Urkundensammlung
+verwahrt werden.
+
+(2) Dokumente, die in Papierform erstellt wurden, können verwahrt
+werden als
+
+1.  elektronische Fassung (§ 56 des Beurkundungsgesetzes),
+
+
+2.  elektronisch beglaubigte Abschrift, wenn es sich bei ihnen um
+    Ausfertigungen, beglaubigte Abschriften oder einfache Abschriften
+    handelt, oder
+
+
+3.  elektronische Abschriften, wenn es sich bei ihnen um einfache
+    Abschriften handelt.
+
+
+
+
+(3) Dokumente, die in elektronischer Form erstellt wurden, können in
+dieser Form oder als elektronische Fassung des Ausdrucks, der in der
+Urkundensammlung verwahrt wird, verwahrt werden. In der Form, in der
+sie erstellt wurden, sind zu verwahren:
+
+1.  elektronische Niederschriften und
+
+
+2.  einfache elektronische Zeugnisse im Sinne des § 39a des
+    Beurkundungsgesetzes, wenn das zu ihrer Errichtung erstellte
+    elektronische Dokument in notarieller Verwahrung verbleibt.
+
+
+
+
+(4) Nachweise für die Vertretungsberechtigung, die nach § 12 Absatz 1
+Satz 2 des Beurkundungsgesetzes der elektronischen Niederschrift
+beigefügt werden sollen, werden zusammen mit der elektronischen
+Urschrift in der elektronischen Urkundensammlung verwahrt.
+
+(5) Tritt nach dem Beurkundungsgesetz eine Ausfertigung oder eine
+beglaubigte Abschrift an die Stelle der Urschrift, so ist die
+elektronische Fassung der Urschrift zu verwahren. Ist eine Verwahrung
+der elektronischen Fassung der Urschrift nicht möglich, so ist eine
+elektronische Fassung der Ausfertigung oder der beglaubigten Abschrift
+zu verwahren, die an die Stelle der Urschrift getreten ist. Tritt nach
+dem Beurkundungsgesetz die elektronische Fassung einer Ausfertigung
+oder einer beglaubigten Abschrift an die Stelle der elektronischen
+Urschrift, so ist diese anstelle der elektronischen Urschrift zu
+verwahren.
+
+(6) In der elektronischen Urkundensammlung kann neben einer
+Niederschrift oder einer elektronischen Niederschrift auch eine
+vollständige oder auszugsweise Reinschrift von dieser verwahrt werden.
 
 
 ### § 35 Einstellung von Dokumenten
