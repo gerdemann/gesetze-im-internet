@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1283
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2022; 2023 I Nr. 1
-
-Änderung durch
-:   Art. 2 V v. 17.12.2025 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 17.12.2025 I Nr. 337
 
 Diese Verordnung dient in Verbindung mit dem Arbeitsschutzgesetz
 der Umsetzung der EG-Richtlinie 92/57/EWG des Rates vom
@@ -344,7 +341,6 @@ Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
 
 
 
-    der Gefahrstoffverordnung,
 
 
 3.  Arbeiten mit ionisierenden Strahlungen, die die Festlegung von
