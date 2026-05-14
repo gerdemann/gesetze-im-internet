@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 2368
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.6.2024 I Nr. 203
+:   Art. 1 V v. 8.5.2026 I Nr. 132
 
 Stand: Ersetzt V 310-4-16 v. 23.8.2012 I 1822 (ZVFV)
 

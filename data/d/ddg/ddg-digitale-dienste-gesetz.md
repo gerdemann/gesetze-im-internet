@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 149
 
-Geändert durch
-:   Art. 5 G v. 3.2.2026 I Nr. 29
-
-Änderung durch
-:   Art. 26 Abs. 2 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 26 Abs. 2 G v. 25.3.2026 I Nr. 81
 
 [^F829870_01_BJNR0950B0024]:     Die §§ 1, 2, 3, 4, 5, 6 und 23 dienen der Umsetzung der Richtlinie
     2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000

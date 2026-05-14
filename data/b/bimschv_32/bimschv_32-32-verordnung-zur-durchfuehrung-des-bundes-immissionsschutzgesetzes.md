@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3478
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.10.2025 I Nr. 249
+:   Art. 1 V v. 11.5.2026 I Nr. 133
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

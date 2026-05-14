@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206;
 
 Zuletzt geändert durch
-:   Art. 8b G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 7a G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7a G v. 9.4.2026 I Nr. 98
 
 
 ## Eingangsformel

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 113
 
-Änderung durch
-:   Art. 4 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 4 G v. 9.4.2026 I Nr. 98
 
 
 ## Eingangsformel
@@ -803,8 +803,6 @@ Liquiditätsreserve des Gesundheitsfonds zugeführt, sofern sie
 
 
 
-
-(8) (weggefallen)
 
 
 ## § 8 Aufgaben des Bundesamtes für Soziale Sicherung

@@ -17,7 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 929
 
-Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 1.8.2023 hinaus bis zum 1.8.2026 verlängert worden
+Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 u. d. Art. 1 Nr. 2 V v. 8.5.2026 I Nr. 130 über den 31.7.2023 hinaus bis zum 31.7.2028 verlängert worden
+Zuletzt geändert durch
+:   Art. 1 V v. 8.5.2026 I Nr. 130
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000101123)
@@ -34,9 +37,9 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
-[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000201123)
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000202131)
 
-Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2026 von der
+Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2028 von der
 Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über
 erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen
 über das Bestehen der Abschluss- oder Gesellenprüfung in
@@ -78,10 +81,10 @@ gleichgestellt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000301123)
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000302131)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1.
-August 2026 außer Kraft.
+August 2028 außer Kraft.
 
 
 ## Schlussformel
