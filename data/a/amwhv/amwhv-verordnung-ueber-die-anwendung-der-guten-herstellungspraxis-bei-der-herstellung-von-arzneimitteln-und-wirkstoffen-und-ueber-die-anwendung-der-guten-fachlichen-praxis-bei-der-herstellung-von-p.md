@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 2 Abs. 5 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000100000)

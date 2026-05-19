@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7a G v. 9.4.2026 I Nr. 98
 
+Änderung durch
+:   Art. 1 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE000900311)

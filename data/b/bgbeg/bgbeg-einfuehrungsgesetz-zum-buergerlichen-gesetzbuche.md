@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 3.2.2026 I Nr. 28
 
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 139 mit Wirkung vom 20.11.2026 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000103377)

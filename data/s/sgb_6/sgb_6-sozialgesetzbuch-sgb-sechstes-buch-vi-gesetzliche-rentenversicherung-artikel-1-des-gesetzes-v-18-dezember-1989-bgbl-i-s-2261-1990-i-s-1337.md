@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 27.4.2026 I Nr. 119
 
+Änderung durch
+:   Art. 2 Abs. 10 G v. 12.5.2026 I Nr. 143 mWv 1.6.2026 noch nicht berücksichtigt
+
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis

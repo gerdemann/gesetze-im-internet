@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 25.3.2026 I Nr. 81
 
+Änderung durch
+:   Art. 10 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
 [^F1_783652_BJNR427000013]:     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den

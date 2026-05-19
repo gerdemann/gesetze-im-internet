@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 31 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 140 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen
 [Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000100000)

@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 28.5.2014 I 601, 1582
 
+Änderung durch
+:   Art. 2 Abs. 3 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000101116)

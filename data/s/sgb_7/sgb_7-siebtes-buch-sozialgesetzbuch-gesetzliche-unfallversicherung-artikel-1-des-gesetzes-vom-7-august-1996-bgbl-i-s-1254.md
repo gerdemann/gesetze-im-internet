@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 6 G v. 16.4.2026 I Nr. 107
+:   Art. 3 G v. 12.5.2026 I Nr. 140
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall

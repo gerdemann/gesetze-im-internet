@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 7.7.2017 I 2842
 
+Änderung durch
+:   Art. 2 Abs. 2 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f770878_01_BJNR051200008]:     Diese Verordnung dient zur Umsetzung der –Richtlinie 2004/23/EG des
     Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung
     von Qualitäts- und Sicherheitsstandards für die Spende, Beschaffung,

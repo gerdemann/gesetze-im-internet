@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 2 Abs. 4 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000104310)

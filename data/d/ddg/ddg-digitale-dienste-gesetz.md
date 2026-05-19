@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 Abs. 2 G v. 25.3.2026 I Nr. 81
 
+Änderung durch
+:   Art. 1 G v. 12.5.2026 I Nr. 138 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F829870_01_BJNR0950B0024]:     Die §§ 1, 2, 3, 4, 5, 6 und 23 dienen der Umsetzung der Richtlinie
     2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000
     über bestimmte rechtliche Aspekte der Dienste der

@@ -28,6 +28,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 23.4.2026 I Nr. 112 ist berücksichtigt
 
+Änderung durch
+:   Art. 8 Abs. 5 G v. 12.5.2026 I Nr. 137 ist berücksichtigt
+
+Änderung durch
+:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143 mWv 1.6.2026 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000100328)

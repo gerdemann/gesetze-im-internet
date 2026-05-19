@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2026, Nr. 84
 
+Änderung durch
+:   Art. 8 Abs. 6 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F835971_01_BJNR0540B0026]:     Dieses Gesetz dient der Umsetzung der –Richtlinie (EU) 2023/2413 des
     Europäischen Parlaments und des Rates vom 18. Oktober 2023 zur
     Änderung der Richtlinie (EU) 2018/2001, der Verordnung (EU) 2018/1999

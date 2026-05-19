@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 16a Abs. 1 G v. 28.4.2020 I 960
 
+Änderung durch
+:   Art. 2 Abs. 6 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Samenspenderregister
 [Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000101116)

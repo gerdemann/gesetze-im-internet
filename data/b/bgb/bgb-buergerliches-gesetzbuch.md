@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 29.3.2026 I Nr. 83
 
+Änderung durch
+:   Art. 1 G v. 12.5.2026 I Nr. 139 mit Wirkung vom 19.5.2026 bzw. 20.11.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 Abs. 1 G v. 12.5.2026 I Nr. 143 ist berücksichtigt
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung

@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 12 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000100000)

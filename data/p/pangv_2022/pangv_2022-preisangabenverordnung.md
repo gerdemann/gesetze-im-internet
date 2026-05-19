@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 3.2.2026 I Nr. 28
 
+Änderung durch
+:   Art. 8 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

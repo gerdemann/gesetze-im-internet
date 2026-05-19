@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1065
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.11.2019 I 1746
+:   Art. 2 Abs. 7 G v. 12.5.2026 I Nr. 143
 
 Mittelbare änderung durch
 :   Art. 12b G v. 11.2.2021 I 154 ist berücksichtigt

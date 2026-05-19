@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 27.4.2026 I Nr. 119
 
+Änderung durch
+:   Art. 8 Abs. 1 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Zweck
 [Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000100000)

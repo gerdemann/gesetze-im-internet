@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 Abs. 12 G v. 16.4.2026 I Nr. 107
 
+Änderung durch
+:   Art. 2 Abs. 8 G v. 12.5.2026 I Nr. 143 mWv 1.6.2026 noch nicht berücksichtigt
+
 Änderung der inhaltsübersicht durch
 :   Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
 

@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 30 G v. 27.7.2021 I 3146
 
+Änderung durch
+:   Art. 1 G v. 12.5.2026 I Nr. 140 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen
 [Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000100000)
