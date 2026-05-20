@@ -32,7 +32,7 @@ Zuletzt geändert durch
 :   Art. 8 Abs. 5 G v. 12.5.2026 I Nr. 137 ist berücksichtigt
 
 Änderung durch
-:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143 mWv 1.6.2026 noch nicht berücksichtigt
+:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften

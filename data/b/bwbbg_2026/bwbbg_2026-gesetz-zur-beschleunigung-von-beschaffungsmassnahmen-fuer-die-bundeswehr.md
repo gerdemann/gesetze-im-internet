@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2026, Nr. 40
 
+Änderung durch
+:   Art. 7 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt G 703-13 v. 11.7.2022 I 1078 (BwBBG)
 
 ## Teil 1 - Allgemeine Bestimmungen

@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 23.2.2026 I Nr. 46 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
 

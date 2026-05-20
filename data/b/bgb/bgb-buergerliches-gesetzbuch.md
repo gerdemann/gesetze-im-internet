@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 29.3.2026 I Nr. 83
 
 Änderung durch
-:   Art. 1 G v. 12.5.2026 I Nr. 139 mit Wirkung vom 19.5.2026 bzw. 20.11.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 Abs. 1 G v. 12.5.2026 I Nr. 143 ist berücksichtigt
@@ -8471,7 +8471,7 @@ Marktwertes der erbrachten Leistung zu berechnen.
 
 
 ###### § 358 Mit dem widerrufenen Vertrag verbundener Vertrag
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262107360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262109360)
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags über
 die Lieferung einer Ware oder die Erbringung einer anderen Leistung
@@ -8509,23 +8509,25 @@ Durchführung des Projekts Funktionen des Veräußerers übernimmt oder
 den Veräußerer einseitig begünstigt.
 
 (4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig
-von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
-Vertrags, die §§ 357 bis 357c entsprechend anzuwenden. Ist der
-verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem
-körperlichen Datenträger befindlichen digitalen Inhalten, hat der
-Verbraucher abweichend von § 357a Absatz 3 unter den Voraussetzungen
-des § 356 Absatz 5 Nummer 2 Wertersatz für die bis zum Widerruf
-gelieferten digitalen Inhalte zu leisten. Ist der verbundene Vertrag
-ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener
-Ratenlieferungsvertrag, sind neben § 355 Absatz 3 auch die §§ 357 und
-357a entsprechend anzuwenden; im Übrigen gelten für verbundene
-Ratenlieferungsverträge § 355 Absatz 3 und § 357d entsprechend. Im
-Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und
-Kosten aus der Rückabwicklung des Darlehensvertrags gegen den
-Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum
-Verbraucher hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte
-und Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn
-das Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits
+von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
+Vertrags, § 357 Absatz 1 bis 3 sowie 5 bis 8 und die §§ 357a bis 357c
+entsprechend anzuwenden. Ist der verbundene Vertrag ein Vertrag über
+die Lieferung von nicht auf einem körperlichen Datenträger
+befindlichen digitalen Inhalten, hat der Verbraucher abweichend von §
+357a Absatz 3 unter den Voraussetzungen des § 356 Absatz 5 Nummer 2
+Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu
+leisten. Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb
+von Geschäftsräumen geschlossener Ratenlieferungsvertrag, so sind
+neben § 355 Absatz 3 auch § 357 Absatz 1 bis 3 sowie 5 bis 8 und
+§ 357a entsprechend anzuwenden; im Übrigen gelten für verbundene
+Ratenlieferungsverträge § 355 Absatz 3, § 357 Absatz 1 bis 3 und 6
+sowie § 357d Satz 2 und 3 entsprechend. Im Falle des Absatzes 1 sind
+jedoch Ansprüche auf Zahlung von Zinsen und Kosten aus der
+Rückabwicklung des Darlehensvertrags gegen den Verbraucher
+ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum Verbraucher
+hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und
+Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn das
+Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits
 zugeflossen ist.
 
 (5) Die Absätze 2 und 4 sind nicht anzuwenden auf Darlehensverträge,
@@ -11566,7 +11568,7 @@ vorenthalten oder diese gefälscht hat.
 
 
 ###### § 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265001123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265002360)
 
 (1) Der Darlehensnehmer kann einen Allgemein-
 Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung
@@ -11581,6 +11583,8 @@ Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener
 Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der
 Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn
 hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
+Liegen die Voraussetzungen für die vorzeitige Rückzahlung vor, findet
+§ 490 Absatz 2 keine Anwendung.
 
 
 ###### § 501 Kostenermäßigung bei vorzeitiger Rückzahlung und bei Kündigung
