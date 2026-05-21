@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 958
 
 Zuletzt geändert durch
-:   Art. 9 G v. 11.3.2026 I Nr. 66
+:   Art. 3 Abs. 1 G v. 15.5.2026 I Nr. 148
 
 
 ## Eingangsformel
@@ -3486,7 +3486,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 7 Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
-[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001803129)
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001804126)
 
 (Fundstelle: BGBl. I 2017, 1918 - 1922
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3663,7 +3663,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     1.22 Intelligentes Verkehrssystem
 
         ein intelligentes Verkehrssystem im Sinne des § 2 Nummer 1 des
-        Intelligente Verkehrssysteme Gesetz.
+        Intelligente-Verkehrssysteme-Gesetzes.
 
 
     1.23 Schienennetz und Stellwerke des öffentlichen Straßenpersonenverkehrs

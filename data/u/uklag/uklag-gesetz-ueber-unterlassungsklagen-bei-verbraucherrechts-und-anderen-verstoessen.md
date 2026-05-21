@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 62 Abs. 8 G v. 4.2.2026 I Nr. 33
 
 Änderung durch
-:   Art. 4 G v. 12.5.2026 I Nr. 139 mit Wirkung vom 20.11.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen

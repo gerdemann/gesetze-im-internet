@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.7.2022 I 1039
 
+Änderung durch
+:   Art. 2 G v. 15.5.2026 I Nr. 148 mWv 21.5.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000100000)

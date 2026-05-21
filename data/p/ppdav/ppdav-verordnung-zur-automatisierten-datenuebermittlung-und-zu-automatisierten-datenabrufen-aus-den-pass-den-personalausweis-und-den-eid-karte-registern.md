@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3682
 
-Geändert durch
-:   Art. 5 V v. 30.10.2023 I Nr. 290
-
-Änderung durch
-:   Art. 2 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 V v. 30.1.2026 I Nr. 31
 
 
 ## § 1 Anwendungsbereich und Verfahrensgrundsätze

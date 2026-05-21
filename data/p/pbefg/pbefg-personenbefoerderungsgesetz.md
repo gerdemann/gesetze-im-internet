@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.8.1990 I 1690;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.5.2026 I Nr. 137
+:   Art. 3 Abs. 2 G v. 15.5.2026 I Nr. 148
 
 
 ## I. - Allgemeine Vorschriften
