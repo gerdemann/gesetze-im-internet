@@ -455,7 +455,7 @@ im Sinne von Satz 3 ist ferner jede Justizvollzugsanstalt.
 
 
 ### § 5b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
-[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006800130)
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006801130)
 
 (1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 1 übermittelt der
 Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der
@@ -546,7 +546,7 @@ Personalausweisgesetzes das übermittelte Pseudonym ein.
 
 
 ### § 5d Pflichten des Cloudanbieters
-[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007000130)
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007001130)
 
 Wenn bestimmte Tatsachen die Annahme begründen, dass ein beim
 Cloudanbieter abgerufenes Lichtbild auf unzulässige Weise erstellt
@@ -558,7 +558,7 @@ die Daten durch den Cloudanbieter gelöscht werden.
 
 
 ### § 5e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
-[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007100130)
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007101130)
 
 (1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 2 fertigt der
 Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das

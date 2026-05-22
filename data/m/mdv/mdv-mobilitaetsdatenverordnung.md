@@ -16,11 +16,9 @@ Fundstelle
 :   BGBl I: 2021, 4728
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.7.2022 I 1039
+:   Art. 2 G v. 15.5.2026 I Nr. 148
 
-Änderung durch
-:   Art. 2 G v. 15.5.2026 I Nr. 148 mWv 21.5.2026 noch nicht berücksichtigt
-
+Stand: Die V tritt gem. § 9 idF d. Art. 2 G v. 15.5.2026 I Nr. 148 mit Ablauf des 30.11.2028 außer Kraft
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000100000)
@@ -312,10 +310,10 @@ jederzeit gewährleisten, dass eine Datenweitergabe an den Nationalen
 Zugangspunkt auch in Echtzeit möglich ist.
 
 
-## § 9 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE001000000)
+## § 9 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE001001119)
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 30. November 2028 außer Kraft.
 
 
 ## Schlussformel
