@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 26 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 13 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
 ## Erster Abschnitt - Das Patent

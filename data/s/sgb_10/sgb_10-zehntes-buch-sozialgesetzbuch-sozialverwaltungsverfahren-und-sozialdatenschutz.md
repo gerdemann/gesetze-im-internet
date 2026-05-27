@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.4.2026 I Nr. 106
+:   Art. 17 G v. 20.5.2026 I Nr. 152
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -2147,7 +2147,7 @@ Vorschriften über das Zustellungsverfahren.
 
 
 #### § 66 Vollstreckung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008806126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008807126)
 
 (1) Für die Vollstreckung zugunsten der Behörden des Bundes, der
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -2190,8 +2190,8 @@ Verwaltungsvollstreckungsverfahren. Für die landesunmittelbaren
 Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gilt
 Absatz 1 Satz 2 bis 5 entsprechend. Abweichend von Satz 1 vollstrecken
 die nach Landesrecht zuständigen Vollstreckungsbehörden zugunsten der
-landesunmittelbaren Krankenkassen, die sich über mehr als ein
-Bundesland erstrecken, nach den Vorschriften des Verwaltungs-
+landesunmittelbaren Krankenkassen, die sich über mehr als ein Land
+erstrecken, nach den Vorschriften des Verwaltungs-
 Vollstreckungsgesetzes.
 
 (4) Aus einem Verwaltungsakt kann auch die Zwangsvollstreckung in
@@ -2203,6 +2203,10 @@ oder ein anderer auf Antrag eines Leistungsträgers von der
 Aufsichtsbehörde ermächtigter Angehöriger des öffentlichen Dienstes.
 Bei den Versicherungsträgern und der Bundesagentur für Arbeit tritt in
 Satz 3 an die Stelle der Aufsichtsbehörden der Vorstand.
+
+(5) Bei einer Vollstreckung nach Absatz 4 besteht keine Pflicht zur
+Nutzung der mit Rechtsverordnung nach § 753 Absatz 3, § 758a Absatz 6
+und § 829 Absatz 4 der Zivilprozessordnung eingeführten Formulare.
 
 
 ## Zweites Kapitel - Schutz der Sozialdaten

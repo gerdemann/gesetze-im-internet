@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 25 G v. 22.12.2025 I Nr. 349 ist berücksichtigt
 
+Änderung durch
+:   Art. 11 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000101311)

@@ -16,8 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 43
 
-Geändert durch
-:   Art. 2 V v. 9.12.2020 I 2883
+Zuletzt geändert durch
+:   Art. 1 V v. 18.5.2026 I Nr. 155
+
+Stand: Zukünftige amtl. Langüberschrift: Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes (ab 1.6.2026 I Nr. 155)
+Stand: Zukünftige amtl. Buchstabenabkürzung: HKrimDVDV (ab 1.6.2026 I Nr. 155)
+[^f004300_01_BJNR004300011]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v.
+    18\.5.2026 I Nr. 155 mWv 1.6.2026 wie folgt gefasst: Verordnung über
+    den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes
+    HKrimDVDV
 
 
 ## Eingangsformel
