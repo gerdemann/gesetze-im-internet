@@ -32123,11 +32123,6 @@ anzuwenden.
 
 
 
-##### Untertitel 3 - (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012803125)
-
-
-
 ###### (XXXX) §§ 1558 bis 1563 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148605125)
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.10.2024 I Nr. 299
-
-Änderung durch
-:   Art. 3 G v. 23.2.2026 I Nr. 46 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 23.2.2026 I Nr. 46
 
 Änderung durch
 :   Art. 6 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

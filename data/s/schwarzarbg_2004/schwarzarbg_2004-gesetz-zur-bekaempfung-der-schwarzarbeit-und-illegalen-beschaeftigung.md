@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.4.2026 I Nr. 119
-
-Änderung durch
-:   Art. 8 Abs. 1 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 1 G v. 12.5.2026 I Nr. 137
 
 
 ## Abschnitt 1 - Zweck

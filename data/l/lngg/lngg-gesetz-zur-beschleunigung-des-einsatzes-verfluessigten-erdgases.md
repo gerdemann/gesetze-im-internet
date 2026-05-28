@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 802
 
 Zuletzt geändert durch
-:   Art. 6 G v. 3.7.2024 I Nr. 225
-
-Änderung durch
-:   Art. 5 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 12.5.2026 I Nr. 137
 
 Stand: Gem. § 14 Abs. 2 Satz 1 treten die §§ 1 bis 10 mit Ausnahme des § 5 Abs. 2 u. § 9 Abs. 2, 3 und 5 mit Ablauf des 30.6.2025 außer Kraft. Gem. § 14 Abs. 2 Satz 2 tritt § 13 mit Ablauf des 30.6.2027 außer Kraft.
 § 4 dieses Gesetzes dient auch der Umsetzung folgender Richtlinie:
