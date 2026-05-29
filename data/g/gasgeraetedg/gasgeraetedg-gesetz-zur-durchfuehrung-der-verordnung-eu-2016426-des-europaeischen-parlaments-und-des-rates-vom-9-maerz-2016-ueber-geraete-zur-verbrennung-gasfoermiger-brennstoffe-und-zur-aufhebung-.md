@@ -25,53 +25,51 @@ Geändert durch
 
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000101131)
 
 Die Notifizierungen von Konformitätsbewertungsstellen entsprechend
-Kapitel IV der Verordnung (EU)
-2016/426 des Europäischen Parlaments und des Rates vom 9. März 2016
-über Geräte zur Verbrennung gasförmiger Brennstoffe und zur Aufhebung
-der Richtlinie 2009/142/EG (ABl. L 81 vom 31.3.2016, S. 99) werden von
-der Befugnis erteilenden Behörde nach § 10 Absatz 1 Satz 1 erster
-Halbsatz des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I
-S. 2178, 2179; 2012 I S. 131), das durch Artikel 435 der Verordnung
-vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
-durchgeführt.
+Kapitel IV der Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober
+2024 werden von der Befugnis erteilenden Behörde nach § 10 Absatz 1
+Satz 1 erster Halbsatz des Produktsicherheitsgesetzes durchgeführt.
 
 
 ## § 2 Richtwert für Stichproben bei der Marktüberwachung
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000201126)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000202131)
 
 Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob
 die Geräte und Ausrüstungen die Anforderungen der Verordnung (EU)
-2016/426 erfüllen. Diese Stichproben bilden eine Teilmenge des
-Richtwerts nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
+2016/426 in der Fassung vom 9. Oktober 2024 erfüllen. Diese
+Stichproben bilden eine Teilmenge des Richtwerts nach § 25 Absatz 2
+des Produktsicherheitsgesetzes.
 
 
 ## § 3 Unterrichtung bei Nichtkonformität eines Geräts oder einer Ausrüstung
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000301131)
 
 Unterrichtungen nach Artikel 37 Absatz 2 und 4 Unterabsatz 2 der
-Verordnung (EU) 2016/426 bei Nichtkonformität eines Geräts oder einer
-Ausrüstung richtet die Marktüberwachungsbehörde unverzüglich über die
-Bundesanstalt für Arbeitsschutz und Arbeitsmedizin an die Europäische
-Kommission und an die übrigen Mitgliedstaaten der Europäischen Union.
+Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober 2024 bei
+Nichtkonformität eines Geräts oder einer Ausrüstung richtet die
+Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin an die Europäische Kommission und an
+die übrigen Mitgliedstaaten der Europäischen Union.
 
 
 ## § 4 Nichtkonformität eines Geräts oder einer Ausrüstung in einem anderen Mitgliedstaat der Europäischen Union
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000401131)
 
 (1) Erhält die Marktüberwachungsbehörde Informationen nach Artikel 37
-Absatz 4 Unterabsatz 2 der Verordnung (EU) 2016/426 darüber, dass in
-einem anderen Mitgliedstaat der Europäischen Union aufgrund der
-Nichtkonformität eines Geräts oder einer Ausrüstung eine vorläufige
-Maßnahme nach Artikel 37 Absatz 4 Unterabsatz 1 der Verordnung (EU)
-2016/426 getroffen worden ist, und hält die Marktüberwachungsbehörde
-diese Maßnahme für gerechtfertigt, so trifft sie ihrerseits alle
-geeigneten vorläufigen Maßnahmen. Sie unterrichtet unverzüglich über
-die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin die Europäische
-Kommission und die übrigen Mitgliedstaaten der Europäischen Union
+Absatz 4 Unterabsatz 2 der Verordnung (EU) 2016/426 in der Fassung vom
+9\. Oktober 2024 darüber, dass in einem anderen Mitgliedstaat der
+Europäischen Union aufgrund der Nichtkonformität eines Geräts oder
+einer Ausrüstung eine vorläufige Maßnahme nach Artikel 37 Absatz 4
+Unterabsatz 1 der Verordnung (EU) 2016/426 in der Fassung vom 9.
+Oktober 2024 getroffen worden ist, und hält die
+Marktüberwachungsbehörde diese Maßnahme für gerechtfertigt, so trifft
+sie ihrerseits alle geeigneten vorläufigen Maßnahmen. Sie unterrichtet
+unverzüglich über die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin die Europäische Kommission und die übrigen
+Mitgliedstaaten der Europäischen Union
 
 1.  über die geeigneten vorläufigen Maßnahmen, die sie selbst getroffen
     hat, sowie
@@ -89,8 +87,8 @@ nicht für gerechtfertigt hält, unterrichtet sie über die Bundesanstalt
 für Arbeitsschutz und Arbeitsmedizin die Europäische Kommission und
 die übrigen Mitgliedstaaten der Europäischen Union darüber und gibt
 ihre Einwände an. Die Unterrichtung muss innerhalb der in Artikel 37
-Absatz 7 der Verordnung (EU) 2016/426 genannten Frist von drei Monaten
-erfolgen.
+Absatz 7 der Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober
+2024 genannten Frist von drei Monaten erfolgen.
 
 (3) Erachtet die Europäische Kommission den Einwand der
 Marktüberwachungsbehörde nach Absatz 2 für nicht gerechtfertigt, so
@@ -101,60 +99,92 @@ Maßnahmen zu unterrichten.
 
 
 ## § 5 Unterrichtung bei Risiken trotz Konformität eines Geräts oder einer Ausrüstung
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000501131)
 
 Die Unterrichtung über die Feststellung, dass konforme Geräte oder
 Ausrüstungen ein Risiko für die Gesundheit von Personen, für Haus-
 oder Nutztiere oder für Güter darstellen, sowie die Unterrichtung über
 die getroffenen Korrekturmaßnahmen nach Artikel 39 Absatz 3 der
-Verordnung (EU) 2016/426 richtet die Marktüberwachungsbehörde
-unverzüglich über die Bundesanstalt für Arbeitsschutz und
-Arbeitsmedizin an die Europäische Kommission und an die übrigen
-Mitgliedstaaten der Europäischen Union.
+Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober 2024 richtet
+die Marktüberwachungsbehörde unverzüglich über die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin an die Europäische Kommission und an
+die übrigen Mitgliedstaaten der Europäischen Union.
 
 
-## § 6 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000601126)
+## § 6 Notfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000602131)
 
+(1) Sofern die zuständige Behörde das Inverkehrbringen eines
+bestimmten Geräts oder einer bestimmten Ausrüstung nach Artikel 40c
+Absatz 1 der Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober
+2024 genehmigt, hat sie unverzüglich die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin zu unterrichten, die ihrerseits
+unverzüglich die Europäische Kommission und die übrigen
+Mitgliedstaaten der Europäischen Union zu unterrichten hat.
+
+(2) Der nach Artikel 40c Absatz 2 Unterabsatz 2 der Verordnung (EU)
+2016/426 in der Fassung vom 9. Oktober 2024 auf einem Gerät oder einer
+Ausrüstung anzubringende Hinweis ist in deutscher Sprache abzufassen.
+
+(3) Sofern die zuständige Behörde eine in einem anderen Mitgliedstaat
+der Europäischen Union nach Artikel 40c Absatz 1 der Verordnung (EU)
+2016/426 in der Fassung vom 9. Oktober 2024 erteilte Genehmigung nach
+Artikel 40c Absatz 4 der Verordnung (EU) 2016/426 in der Fassung vom
+9\. Oktober 2024 anerkannt hat, hat sie unverzüglich die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin zu unterrichten, die ihrerseits
+unverzüglich die Europäische Kommission und die übrigen
+Mitgliedstaaten der Europäischen Union zu unterrichten hat.
+
+(4) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle ergriffenen
+Abhilfemaßnahmen und beschränkenden Maßnahmen in Bezug auf solche
+Geräte und Ausrüstungen zu unterrichten, für die eine Genehmigung nach
+Artikel 40c Absatz 1, 2 oder 4 der Verordnung (EU) 2016/426 in der
+Fassung vom 9. Oktober 2024 gültig ist; die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat ihrerseits unverzüglich die
+Europäische Kommission und die übrigen Mitgliedstaaten der
+Europäischen Union hierüber zu unterrichten.
 
 
 ## § 7 Sprache der Gebrauchsanleitungen, der Sicherheitsinformationen und der EU-Konformitätserklärungen
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000701131)
 
 (1) Bei Geräten und Ausrüstungen sind folgende Unterlagen in deutscher
 Sprache abzufassen:
 
 1.  die Gebrauchsanleitung und die Sicherheitsinformationen sowie die
     Abschrift der EU-Konformitätserklärung nach Artikel 7 Absatz 7
-    Unterabsatz 1 Satz 1 und Unterabsatz 2 der Verordnung (EU) 2016/426,
+    Unterabsatz 1 Satz 1 und Unterabsatz 2 der Verordnung (EU) 2016/426 in
+    der Fassung vom 9. Oktober 2024,
 
 
 2.  die Gebrauchsanleitung und die Sicherheitsinformationen sowie die
     Abschrift der EU-Konformitätserklärung nach Artikel 9 Absatz 4
-    Unterabsatz 1 und 2 der Verordnung (EU) 2016/426 sowie
+    Unterabsatz 1 und 2 der Verordnung (EU) 2016/426 in der Fassung vom 9.
+    Oktober 2024 sowie
 
 
 3.  die EU-Konformitätserklärungen nach Artikel 15 Absatz 2 Satz 2 und
-    Absatz 3 Satz 2 der Verordnung (EU) 2016/426.
+    Absatz 3 Satz 2 der Verordnung (EU) 2016/426 in der Fassung vom 9.
+    Oktober 2024.
 
 
 
 
 (2) Die Händler müssen nach Artikel 10 Absatz 2 Unterabsatz 1 und 2
-der Verordnung (EU) 2016/426 überprüfen, ob die Gebrauchsanleitung und
-die Sicherheitsinformationen, die dem Gerät beigefügt sind, oder die
+der Verordnung (EU) 2016/426 in der Fassung vom 9. Oktober 2024
+überprüfen, ob die Gebrauchsanleitung und die
+Sicherheitsinformationen, die dem Gerät beigefügt sind, oder die
 Abschrift der EU-Konformitätserklärung, die der Ausrüstung beigefügt
 ist, in deutscher Sprache abgefasst sind.
 
 
 ## § 8 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000801131)
 
-(1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/426 des
-Europäischen Parlaments und des Rates vom 9. März 2016 über Geräte zur
-Verbrennung gasförmiger Brennstoffe und zur Aufhebung der Richtlinie
-2009/142/EG (ABl. L 81 vom 31.3.2016, S. 99) verstößt, indem er
-vorsätzlich oder fahrlässig
+(1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/426 in
+der Fassung vom 9. Oktober 2024 verstößt, indem er vorsätzlich oder
+fahrlässig
 
 1.  entgegen Artikel 7 Absatz 3, auch in Verbindung mit Artikel 8 Absatz 2
     Satz 1 in Verbindung mit Satz 2 Buchstabe a, oder entgegen Artikel 9
@@ -263,12 +293,18 @@ vorsätzlich oder fahrlässig
 
 
 18. einer vollziehbaren Anordnung nach Artikel 37 Absatz 4 Unterabsatz 1
-    oder Artikel 40 Absatz 2 zuwiderhandelt oder
+    oder Artikel 40 Absatz 2 zuwiderhandelt,
 
 
 19. entgegen Artikel 39 Absatz 2 nicht gewährleistet, dass sich eine
     Korrekturmaßnahme auf sämtliche betroffene Geräte oder Ausrüstungen
-    erstreckt.
+    erstreckt oder
+
+
+20. als Wirtschaftsakteur entgegen Artikel 40c Absatz 2 Unterabsatz 2 Satz
+    1 in Verbindung mit Satz 3 einen Hinweis nicht, nicht richtig, nicht
+    vollständig, nicht in der vorgeschriebenen Weise oder nicht zum
+    Zeitpunkt des Inverkehrbringens anbringt.
 
 
 

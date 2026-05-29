@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.5.2013 I 1274; 2021, 123;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2025 I Nr. 348
-
-Änderung durch
-:   Art. 2 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 29.3.2026 I Nr. 84
 
 
 ## Erster Teil - Allgemeine Vorschriften
