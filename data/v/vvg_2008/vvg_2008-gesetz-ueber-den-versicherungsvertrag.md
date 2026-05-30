@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 13 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeiner Teil
 [Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000100000)

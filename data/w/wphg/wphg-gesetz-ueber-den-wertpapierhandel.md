@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 9.4.2026 I Nr. 97
+:   Art. 11 G v. 26.5.2026 I Nr. 156
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates
 der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei

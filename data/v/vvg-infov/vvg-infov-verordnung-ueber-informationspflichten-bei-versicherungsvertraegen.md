@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 9.6.2021 I 1666
 
+Änderung durch
+:   Art. 13 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F769932.1_BJNR300400007]:     Die Verordnung dient der Umsetzung der Richtlinie 92/49/EWG des Rates
     vom 18. Juni 1992 zur Koordinierung der Rechts- und
     Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der

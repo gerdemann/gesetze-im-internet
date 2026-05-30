@@ -48,7 +48,7 @@ des Ausschusses für Produktsicherheit:
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000301126)
 
 (1) Diese Verordnung ist auf neue Aufzüge anzuwenden, die in den
 Verkehr gebracht oder ausgestellt werden, wenn diese Aufzüge
@@ -114,18 +114,16 @@ anzuwenden, die auf dem Markt bereitgestellt oder ausgestellt werden.
 
 
 (4) Werden bei einem Aufzug oder einem Sicherheitsbauteil für Aufzüge
-die in der Richtlinie 2014/33/EU des Europäischen Parlaments und des
-Rates vom 26. Februar 2014 zur Angleichung der Rechtsvorschriften der
-Mitgliedstaaten über Aufzüge und Sicherheitsbauteile für Aufzüge (ABl.
-L 96 vom 29.3.2014, S. 251) genannten Risiken ganz oder teilweise von
-speziellen Rechtsvorschriften erfasst, durch die andere
-Rechtsvorschriften der Europäischen Union in deutsches Recht umgesetzt
-werden, so gilt diese Verordnung nicht für diese Aufzüge oder diese
-Sicherheitsbauteile für Aufzüge und die entsprechenden Risiken.
+die in der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024
+genannten Risiken ganz oder teilweise von speziellen
+Rechtsvorschriften erfasst, durch die andere Rechtsvorschriften der
+Europäischen Union in deutsches Recht umgesetzt werden, so gilt diese
+Verordnung nicht für diese Aufzüge oder diese Sicherheitsbauteile für
+Aufzüge und die entsprechenden Risiken.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000401126)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000402126)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -165,19 +163,11 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 5.  EU-Konformitätserklärung: eine Erklärung gemäß Artikel 17 der
-    Richtlinie 2014/33/EU,
+    Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024,
 
 
 6.  harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2
-    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des
-    Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur
-    europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und
-    93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG,
-    97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG
-    des Europäischen Parlaments und des Rates und zur Aufhebung des
-    Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG
-    des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012,
-    S. 12),
+    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012,
 
 
 7.  Hersteller: jede natürliche oder juristische Person, die ein
@@ -213,9 +203,9 @@ Im Sinne dieser Verordnung ist oder sind
 11. Musteraufzug: ein repräsentativer, mit Hilfe objektiver Parameter
     definierter Aufzug, dessen technische Unterlagen verdeutlichen, wie
     die von ihm abgeleiteten Aufzüge, die identische Sicherheitsbauteile
-    für Aufzüge verwenden, die in Anhang I der Richtlinie 2014/33/EU
-    festgelegten wesentlichen Gesundheitsschutz- und
-    Sicherheitsanforderungen einhalten,
+    für Aufzüge verwenden, die in Anhang I der Richtlinie 2014/33/EU in
+    der Fassung vom 9. Oktober 2024 festgelegten wesentlichen
+    Gesundheitsschutz- und Sicherheitsanforderungen einhalten,
 
 
 12. Rückruf: jede Maßnahme, die
@@ -234,7 +224,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 13. Sicherheitsbauteile für Aufzüge: Bauteile, die in Aufzügen im Sinne
     dieser Verordnung verwendet werden und in Anhang III der Richtlinie
-    2014/33/EU aufgeführt sind,
+    2014/33/EU in der Fassung vom 9. Oktober 2024 aufgeführt sind,
 
 
 14. technische Spezifikation: ein Dokument, in dem die technischen
@@ -243,7 +233,15 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 15. Wirtschaftsakteure: der Montagebetrieb, der Hersteller, der
-    Bevollmächtigte, der Einführer und der Händler.
+    Bevollmächtigte, der Einführer und der Händler,
+
+
+16. krisenrelevante Waren: krisenrelevante Waren im Sinne von Artikel 3
+    Nummer 6 der Verordnung (EU) 2024/2747,
+
+
+17. Notfallmodus für den Binnenmarkt: der Notfallmodus für den Binnenmarkt
+    im Sinne von Artikel 3 Nummer 3 der Verordnung (EU) 2024/2747.
 
 
 
@@ -283,15 +281,15 @@ bestimmungsgemäß betrieben werden.
 
 
 ### § 4 Konformitätsvermutung
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000601126)
 
 Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die
 harmonisierten Normen oder Teilen dieser Normen entsprechen, deren
 Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden
 sind, wird vermutet, dass sie die wesentlichen Gesundheitsschutz- und
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU
-erfüllen, soweit diese von den betreffenden Normen oder von Teilen
-dieser Normen abgedeckt sind.
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfüllen, soweit diese von den
+betreffenden Normen oder von Teilen dieser Normen abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
@@ -299,33 +297,34 @@ dieser Normen abgedeckt sind.
 
 
 ### § 5 Allgemeine Pflichten des Montagebetriebs
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000701126)
 
 (1) Der Montagebetrieb stellt sicher, wenn er einen Aufzug in den
 Verkehr bringt, dass dieser Aufzug nach den wesentlichen
 Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der
-Richtlinie 2014/33/EU entworfen, hergestellt, eingebaut und geprüft
-wurde.
+Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 entworfen,
+hergestellt, eingebaut und geprüft wurde.
 
 (2) Der Montagebetrieb darf einen Aufzug nur in den Verkehr bringen,
 wenn die erforderlichen technischen Unterlagen nach Anhang IV Teil B
-Nummer 3 oder Anhang VIII Nummer 3 der Richtlinie 2014/33/EU erstellt
-wurden und das Konformitätsbewertungsverfahren nach § 15 Absatz 1
-durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren
-nachgewiesen, dass der Aufzug die wesentlichen Gesundheitsschutz- und
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU
-erfüllt, so stellt der Montagebetrieb eine EU-Konformitätserklärung
-aus und bringt die CE-Kennzeichnung gemäß § 7 des
-Produktsicherheitsgesetzes in dem Fahrkorb an. Der Montagebetrieb hat
-sicherzustellen, dass jedem Aufzug die EU-Konformitätserklärung
-beigefügt ist.
+Nummer 3 oder Anhang VIII Nummer 3 der Richtlinie 2014/33/EU in der
+Fassung vom 9. Oktober 2024 erstellt wurden und das
+Konformitätsbewertungsverfahren nach § 15 Absatz 1 durchgeführt wurde.
+Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen, dass der
+Aufzug die wesentlichen Gesundheitsschutz- und
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfüllt, so stellt der Montagebetrieb
+eine EU-Konformitätserklärung aus und bringt die CE-Kennzeichnung
+gemäß § 7 des Produktsicherheitsgesetzes in dem Fahrkorb an. Der
+Montagebetrieb hat sicherzustellen, dass jedem Aufzug die EU-
+Konformitätserklärung beigefügt ist.
 
 (3) Der Montagebetrieb muss die technischen Unterlagen, die EU-
 Konformitätserklärung sowie gegebenenfalls die Zulassungen der
 Qualitätssicherungssysteme nach den Anhängen X, XI oder XII der
-Richtlinie
-2014/33/EU ab dem Inverkehrbringen des Aufzugs für die Dauer von zehn
-Jahren für die Marktüberwachungsbehörden bereithalten.
+Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 ab dem
+Inverkehrbringen des Aufzugs für die Dauer von zehn Jahren für die
+Marktüberwachungsbehörden bereithalten.
 
 (4) Wenn es der Montagebetrieb angesichts der Risiken, die mit einem
 von ihm in den Verkehr gebrachten Aufzug verbunden sind, als
@@ -345,7 +344,7 @@ die ergriffenen Korrekturmaßnahmen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Montagebetriebs
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000801126)
 
 (1) Der Montagebetrieb hat dafür zu sorgen, dass seine Aufzüge beim
 Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine
@@ -361,7 +360,7 @@ Marktüberwachungsbehörden leicht verstanden werden kann.
 
 (3) Der Montagebetrieb hat dafür zu sorgen, dass dem Aufzug die
 Betriebsanleitung nach Anhang I Nummer 6.2 der Richtlinie 2014/33/EU
-in deutscher Sprache beigefügt ist.
+in der Fassung vom 9. Oktober 2024 in deutscher Sprache beigefügt ist.
 
 (4) Alle Kennzeichnungen und die Betriebsanleitung müssen klar,
 verständlich und deutlich sein.
@@ -380,42 +379,44 @@ gebracht hat.
 
 
 ### § 7 Allgemeine Pflichten des Herstellers
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000901126)
 
 (1) Der Hersteller stellt sicher, wenn er Sicherheitsbauteile für
 Aufzüge in den Verkehr bringt, dass sie
 
 1.  nach den wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen
-    nach Anhang I der Richtlinie 2014/33/EU entworfen und hergestellt
-    wurden und
+    nach Anhang I der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober
+    2024 entworfen und hergestellt wurden und
 
 
 2.  es ermöglichen, dass die Aufzüge, in die sie eingebaut werden, die
     wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach
-    Anhang I der Richtlinie 2014/33/EU erfüllen.
+    Anhang I der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024
+    erfüllen.
 
 
 
 
 (2) Der Hersteller darf Sicherheitsbauteile für Aufzüge nur in den
 Verkehr bringen, wenn die erforderlichen technischen Unterlagen nach
-Anhang IV Teil A Nummer 3 der Richtlinie 2014/33/EU erstellt wurden
-und das Konformitätsbewertungsverfahren nach § 16 durchgeführt wurde.
-Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen, dass das
+Anhang IV Teil A Nummer 3 der Richtlinie 2014/33/EU in der Fassung vom
+9\. Oktober 2024 erstellt wurden und das
+Konformitätsbewertungsverfahren nach § 16 durchgeführt wurde. Wurde
+mit dem Konformitätsbewertungsverfahren nachgewiesen, dass das
 Sicherheitsbauteil für Aufzüge die wesentlichen Gesundheitsschutz- und
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU
-erfüllt, so stellt der Hersteller eine EU-Konformitätserklärung aus
-und bringt die CE-Kennzeichnung gemäß § 7 des
-Produktsicherheitsgesetzes an. Der Hersteller hat sicherzustellen,
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfüllt, so stellt der Hersteller eine
+EU-Konformitätserklärung aus und bringt die CE-Kennzeichnung gemäß § 7
+des Produktsicherheitsgesetzes an. Der Hersteller hat sicherzustellen,
 dass jedem Sicherheitsbauteil für Aufzüge die EU-Konformitätserklärung
 beigefügt ist.
 
 (3) Der Hersteller muss die technischen Unterlagen, die EU-
 Konformitätserklärung sowie gegebenenfalls die Zulassungen der
 Qualitätssicherungssysteme nach Anhang VI oder VII der Richtlinie
-2014/33/EU ab dem Inverkehrbringen des Sicherheitsbauteils für Aufzüge
-für die Dauer von zehn Jahren für die Marktüberwachungsbehörden
-bereithalten.
+2014/33/EU in der Fassung vom 9. Oktober 2024 ab dem Inverkehrbringen
+des Sicherheitsbauteils für Aufzüge für die Dauer von zehn Jahren für
+die Marktüberwachungsbehörden bereithalten.
 
 (4) Der Hersteller hat durch geeignete Verfahren dafür zu sorgen, dass
 bei Serienfertigung stets Konformität mit den Anforderungen dieser
@@ -448,7 +449,7 @@ Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
 
 ### § 8 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001001126)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Sicherheitsbauteile
 für Aufzüge beim Inverkehrbringen eine Typen-, Chargen- oder
@@ -473,7 +474,8 @@ Marktüberwachungsbehörden leicht verstanden werden kann.
 
 (3) Der Hersteller hat dafür zu sorgen, dass dem Sicherheitsbauteil
 für Aufzüge die Betriebsanleitung nach Anhang I Nummer 6.1 der
-Richtlinie 2014/33/EU in deutscher Sprache beigefügt ist.
+Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 in deutscher
+Sprache beigefügt ist.
 
 (4) Alle Kennzeichnungen und die Betriebsanleitung müssen klar,
 verständlich und deutlich sein.
@@ -531,7 +533,7 @@ Bevollmächtigten übertragen.
 
 
 ### § 10 Allgemeine Pflichten des Einführers
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001201126)
 
 (1) Der Einführer darf nur Sicherheitsbauteile für Aufzüge in den
 Verkehr bringen, die die Anforderungen dieser Verordnung erfüllen.
@@ -551,8 +553,8 @@ Verkehr bringen, wenn er sichergestellt hat, dass
 
 
 4.  dem Sicherheitsbauteil für Aufzüge die Betriebsanleitung nach Anhang I
-    Nummer 6.1 der Richtlinie 2014/33/EU in deutscher Sprache beigefügt
-    ist und
+    Nummer 6.1 der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober
+    2024 in deutscher Sprache beigefügt ist und
 
 
 5.  der Hersteller die Pflichten nach § 8 Absatz 1 und 2 erfüllt hat.
@@ -573,8 +575,8 @@ Verantwortungsbereich des Einführers befindet,
 ist dieser dafür verantwortlich, dass die Lagerungs- und
 Transportbedingungen die Übereinstimmung des Sicherheitsbauteils für
 Aufzüge mit den wesentlichen Gesundheitsschutz- und
-Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU nicht
-beeinträchtigen.
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 nicht beeinträchtigen.
 
 (5) Wenn es der Einführer angesichts der Risiken, die mit einem von
 ihm auf dem Markt bereitgestellten Sicherheitsbauteil für Aufzüge
@@ -632,7 +634,7 @@ die er in den Verkehr gebracht hat.
 
 
 ### § 12 Pflichten des Händlers
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001401126)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er ein Sicherheitsbauteil
@@ -646,8 +648,8 @@ bereitstellt, hat er zu überprüfen, ob
 
 
 2.  dem Sicherheitsbauteil für Aufzüge die Betriebsanleitung nach Anhang I
-    Nummer 6.1 der Richtlinie 2014/33/EU in deutscher Sprache beigefügt
-    ist und
+    Nummer 6.1 der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober
+    2024 in deutscher Sprache beigefügt ist und
 
 
 3.  der Hersteller seine Pflichten nach § 8 Absatz 1 und 2 und der
@@ -735,47 +737,263 @@ bereithalten.
 
 
 ### § 15 Konformitätsbewertungsverfahren für Aufzüge
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001700000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001701126)
 
 (1) Für Aufzüge sind die Konformitätsbewertungsverfahren nach Artikel
 16 Absatz 1 in Verbindung mit Anhang IV Teil B, den Anhängen V, VIII,
-X, XI oder Anhang XII der Richtlinie 2014/33/EU durchzuführen.
+X, XI oder Anhang XII der Richtlinie 2014/33/EU in der Fassung vom 9.
+Oktober 2024 durchzuführen.
 
 (2) Wenn die in Artikel 16 Absatz 1 Buchstabe a und b der Richtlinie
-2014/33/EU genannten Konformitätsbewertungsverfahren durchgeführt
-werden, muss die für den Entwurf und die Herstellung des Aufzugs
-zuständige Person der für den Einbau und die Prüfungen des Aufzugs
-zuständigen Person alle Unterlagen und alle notwendigen Informationen
-zur Verfügung stellen, damit der Aufzug ordnungsgemäß und sicher
-eingebaut und ordnungsgemäß geprüft werden kann. Satz 1 ist nur
-anzuwenden, sofern die jeweils zuständigen Personen nicht identisch
-sind.
+2014/33/EU in der Fassung vom 9. Oktober 2024 genannten
+Konformitätsbewertungsverfahren durchgeführt werden, muss die für den
+Entwurf und die Herstellung des Aufzugs zuständige Person der für den
+Einbau und die Prüfungen des Aufzugs zuständigen Person alle
+Unterlagen und alle notwendigen Informationen zur Verfügung stellen,
+damit der Aufzug ordnungsgemäß und sicher eingebaut und ordnungsgemäß
+geprüft werden kann. Satz 1 ist nur anzuwenden, sofern die jeweils
+zuständigen Personen nicht identisch sind.
 
 (3) Wird der Aufzug gemäß Artikel 16 Absatz 1 Buchstabe a der
-Richtlinie 2014/33/EU nach einem Musteraufzug entworfen und
-hergestellt, sind alle zulässigen Abweichungen des Aufzugs von dem
-Musteraufzug in den technischen Unterlagen eindeutig unter Angabe der
-Höchst- und Mindestwerte zu dokumentieren.
+Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 nach einem
+Musteraufzug entworfen und hergestellt, sind alle zulässigen
+Abweichungen des Aufzugs von dem Musteraufzug in den technischen
+Unterlagen eindeutig unter Angabe der Höchst- und Mindestwerte zu
+dokumentieren.
 
 (4) Es ist zulässig, die Ähnlichkeit der unterschiedlichen
 Ausführungen einer Baureihe hinsichtlich der Erfüllung der in Anhang I
-der Richtlinie 2014/33/EU festgelegten wesentlichen Gesundheitsschutz-
-und Sicherheitsanforderungen rechnerisch oder anhand von
+der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024
+festgelegten wesentlichen Gesundheitsschutz- und
+Sicherheitsanforderungen rechnerisch oder anhand von
 Konstruktionszeichnungen oder durch Anwendung beider Methoden
 nachzuweisen.
 
 
 ### § 16 Konformitätsbewertungsverfahren für Sicherheitsbauteile für Aufzüge
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001800000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001801126)
 
 Für Sicherheitsbauteile für Aufzüge sind die
 Konformitätsbewertungsverfahren nach Artikel 15 in Verbindung mit
 Anhang IV Teil A, den Anhängen VI, VII oder Anhang IX der Richtlinie
-2014/33/EU durchzuführen.
+2014/33/EU in der Fassung vom 9. Oktober 2024 durchzuführen.
 
 
-## Abschnitt 4 - Marktüberwachung
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000400000)
+## Abschnitt 4 - Notfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000600126)
+
+
+### § 16a Anwendung der Notfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002800126)
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+1.  die Europäische Kommission nach Artikel 28 Absatz 1 Satz 1 der
+    Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf
+    Aufzüge oder Sicherheitsbauteile für Aufzüge erlassen hat, für die
+    diese Verordnung anzuwenden ist, und
+
+
+2.  diese Aufzüge oder Sicherheitsbauteile für Aufzüge nach Nummer 1 in
+    der Liste krisenrelevanter Waren nach Artikel 18 Absatz 4 Satz 1 der
+    Verordnung (EU) 2024/2747 enthalten sind.
+
+
+
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während
+der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz 1
+der Verordnung (EU) 2024/2747 aktiviert ist. § 16d Absatz 3 bleibt
+unberührt.
+
+
+### § 16b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Aufzügen und Sicherheitsbauteilen für Aufzüge
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002900126)
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung
+der Aufzüge oder Sicherheitsbauteile für Aufzüge, die in dem in § 16a
+Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind und
+die den Konformitätsbewertungsverfahren nach den §§ 15 und 16
+unterliegen, vorrangig bearbeiten. Dies gilt unabhängig davon, ob ein
+Antrag vor oder nach der Aktivierung der Notfallverfahren gemäß § 16a
+Absatz 2 Satz 1 gestellt wurde.
+
+(2) Dem antragstellenden Montagebetrieb oder dem antragstellenden
+Hersteller dürfen durch die Priorisierung von Anträgen auf
+Konformitätsbewertung nach Absatz 1 keine unverhältnismäßigen
+zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu
+unternehmen, ihre Prüfkapazitäten für die genannten Aufzüge oder
+Sicherheitsbauteile für Aufzüge nach Absatz 1, für die sie notifiziert
+wurden, zu erhöhen.
+
+
+### § 16c Ausnahme von den Konformitätsbewertungsverfahren,bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE003000126)
+
+(1) Abweichend von den §§ 15 und 16 kann die zuständige Behörde auf
+Antrag eines Wirtschaftsakteurs genehmigen, dass ein in einem in § 16a
+Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführter
+bestimmter Aufzug oder ein bestimmtes Sicherheitsbauteil für Aufzüge
+ohne Durchführung der in den §§ 15 und 16 genannten
+Konformitätsbewertungsverfahren, bei denen die Einschaltung einer
+notifizierten Stelle vorgeschrieben ist, in den Verkehr gebracht wird.
+Die Genehmigung nach Satz 1 setzt voraus, dass die Erfüllung der
+wesentlichen Gesundheitsschutz- und Sicherheitsanforderungen nach
+Anhang I der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024
+nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen
+und Anforderungen zu bestimmen, unter denen der Aufzug oder das
+Sicherheitsbauteil für Aufzüge in den Verkehr gebracht werden darf.
+Die Genehmigung hat insbesondere Folgendes zu bestimmen:
+
+1.  das Enddatum für die Gültigkeit der Genehmigung, das nicht über den
+    letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus
+    für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747
+    aktiviert wurde,
+
+
+2.  Maßnahmen, die beim Auslaufen oder der Deaktivierung des Notfallmodus
+    für den Binnenmarkt in Bezug auf den betreffenden Aufzug oder das
+    betreffende Sicherheitsbauteil für Aufzüge zu ergreifen sind.
+
+
+
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz 1
+Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit denen die
+Einhaltung der geltenden wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfolgreich nachgewiesen wurde. Die
+Genehmigung kann in Bezug auf die Rückverfolgbarkeit des betreffenden
+Aufzugs oder Sicherheitsbauteils für Aufzüge und in Bezug auf die
+Notwendigkeit einer fortlaufenden Konformitätsbewertung Anforderungen
+festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin unverzüglich über jede nach Absatz 1 Satz 1 erteilte
+Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin hat die Informationen unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union
+zuzuleiten.
+
+(5) Auf Verlangen der Europäischen Kommission hat die
+Marktüberwachungsbehörde Stellung zu der technischen Bewertung, die
+der in Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung
+zu nehmen und sachdienliche Informationen bereitzustellen, die von der
+Europäischen Kommission zum Erlass eines Durchführungsrechtsakts nach
+Artikel 41c Absatz 3 Unterabsatz 1 der Richtlinie 2014/33/EU in der
+Fassung vom 9. Oktober 2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf einem
+Aufzug oder einem Sicherheitsbauteil für Aufzüge, für den oder das
+eine Genehmigung erteilt wurde, die durch einen Durchführungsrechtsakt
+der Europäischen Kommission nach Artikel 41c Absatz 3 Unterabsatz 1
+der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 auf das
+Gebiet der gesamten Europäischen Union ausgedehnt wurde, den Hinweis,
+dass der Aufzug oder das Sicherheitsbauteil für Aufzüge als
+„krisenrelevante Ware“ in den Verkehr gebracht wird, gemäß Satz 2
+anzubringen. Vorbehaltlich näherer oder abweichender Bestimmungen in
+dem betreffenden Durchführungsrechtsakt muss der Hinweis in deutscher
+Sprache abgefasst und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 41c Absatz 3
+Unterabsatz 1 der Richtlinie 2014/33/EU in der Fassung vom 9. Oktober
+2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer
+von einem anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung
+der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen
+Union erteilten Genehmigung zu informieren. Die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+(8) Die Montagebetriebe oder Hersteller von Aufzügen oder
+Sicherheitsbauteilen für Aufzüge, die dem in Absatz 1 genannten
+Genehmigungsverfahren unterliegen, erklären auf eigene Verantwortung,
+dass die betreffenden Aufzüge oder Sicherheitsbauteile für Aufzüge
+alle geltenden wesentlichen Gesundheitsschutz- und
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfüllen. Die Montagebetriebe und
+Hersteller sind für die Durchführung aller von der zuständigen Behörde
+vorgegebenen Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Aufzüge oder Sicherheitsbauteile für Aufzüge, für die eine
+Genehmigung nach Absatz 1 erteilt wurde, dürfen nicht mit der CE-
+Kennzeichnung versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr
+getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu
+informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+hat die Informationen der Marktüberwachungsbehörde unverzüglich der
+Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+
+### § 16d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE003100126)
+
+(1) Bei Aufzügen oder Sicherheitsbauteilen für Aufzüge, die den in
+einem Durchführungsrechtsakt nach Artikel 41d Absatz 1 der Richtlinie
+2014/33/EU in der Fassung vom 9. Oktober 2024 genannten Normen oder
+gemeinsamen Spezifikationen oder Teilen davon entsprechen, wird
+vermutet, dass sie die wesentlichen Gesundheitsschutz- und
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024 erfüllen, soweit diese von den
+betreffenden Normen oder gemeinsamen Spezifikationen oder Teilen davon
+abgedeckt sind.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des
+Notfallmodus für den Binnenmarkt folgt, können sich Montagebetriebe
+und Hersteller nicht mehr auf die Konformitätsvermutung nach Absatz 1
+berufen.
+
+(3) In den Verkehr gebrachte Aufzüge oder Sicherheitsbauteile für
+Aufzüge, die mit den in Absatz 1 genannten Normen oder gemeinsamen
+Spezifikationen übereinstimmen, gelten auch nach dem Außerkrafttreten
+eines Durchführungsrechtsakts nach Absatz 1 oder nach dem Auslaufen
+oder der Deaktivierung des Notfallmodus für den Binnenmarkt als
+konform mit den wesentlichen Gesundheitsschutz- und
+Sicherheitsanforderungen nach Anhang I der Richtlinie 2014/33/EU in
+der Fassung vom 9. Oktober 2024, sofern kein hinreichender Grund zu
+der Annahme besteht, dass diese ein Risiko für die Gesundheit oder
+Sicherheit von Menschen darstellen.
+
+
+### § 16e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE003200126)
+
+(1) Die Marktüberwachungsbehörde hat Marktüberwachungstätigkeiten für
+Aufzüge oder Sicherheitsbauteile für Aufzüge, die in dem in § 16a
+Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind,
+Vorrang einzuräumen.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen Anstrengungen
+zu unternehmen, um die Marktüberwachungsbehörden der anderen
+Mitgliedstaaten der Europäischen Union während eines Notfallmodus für
+den Binnenmarkt zu unterstützen. Auf Ersuchen der
+Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen
+Union ist die Marktüberwachungsbehörde gehalten,
+
+1.  eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des
+    Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+
+
+2.  logistische Unterstützung zu leisten, insbesondere durch den Ausbau
+    der Prüfkapazitäten für jene Aufzüge oder Sicherheitsbauteile für
+    Aufzüge, die in dem in § 16a Absatz 1 Nummer 1 genannten
+    Durchführungsrechtsakt aufgeführt sind.
+
+
+
+
+
+## Abschnitt 5 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000401126)
 
 
 ### § 17 Korrekturmaßnahmen der Wirtschaftsakteure
@@ -831,7 +1049,7 @@ bereitgestellt hat.
 
 
 ### § 18 Vorläufige Maßnahmen der Marktüberwachungsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002001126)
 
 (1) Ergreift der Montagebetrieb innerhalb der nach § 17 Absatz 2
 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft die
@@ -873,7 +1091,8 @@ dass
 
 1.  der Aufzug oder das Sicherheitsbauteil für Aufzüge die wesentlichen
     Gesundheitsschutz- und Sicherheitsanforderungen nach Anhang I der
-    Richtlinie 2014/33/EU nicht erfüllt oder
+    Richtlinie 2014/33/EU in der Fassung vom 9. Oktober 2024 nicht erfüllt
+    oder
 
 
 2.  die harmonisierten Normen, bei deren Einhaltung gemäß § 4 eine
@@ -885,20 +1104,20 @@ dass
 (5) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem
 anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme
-nach Artikel 38 Absatz 4 der Richtlinie 2014/33/EU getroffen wurde,
-trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für
-gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach den
-Absätzen 1 oder 2. Sie informiert die Bundesanstalt für Arbeitsschutz
-und Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden
-Informationen hinsichtlich der Nichtkonformität des Aufzugs oder des
-Sicherheitsbauteils für Aufzüge. Sofern die Marktüberwachungsbehörde
-die von dem anderen Mitgliedstaat getroffene vorläufige Maßnahme nicht
-für gerechtfertigt hält, informiert sie die Bundesanstalt für
-Arbeitsschutz und Arbeitsmedizin innerhalb von zwei Monaten darüber
-und gibt ihre Einwände an. Die Bundesanstalt für Arbeitsschutz und
-Arbeitsmedizin leitet die Informationen gemäß den Sätzen 2 und 3
-unverzüglich der Europäischen Kommission und den übrigen
-Mitgliedstaaten der Europäischen Union zu.
+nach Artikel 38 Absatz 4 der Richtlinie 2014/33/EU in der Fassung vom
+9\. Oktober 2024 getroffen wurde, trifft die Marktüberwachungsbehörde,
+sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten
+vorläufigen Maßnahmen nach den Absätzen 1 oder 2. Sie informiert die
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin darüber sowie über
+alle weiteren ihr vorliegenden Informationen hinsichtlich der
+Nichtkonformität des Aufzugs oder des Sicherheitsbauteils für Aufzüge.
+Sofern die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat
+getroffene vorläufige Maßnahme nicht für gerechtfertigt hält,
+informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die
+Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 (6) Liegen der Marktüberwachungsbehörde innerhalb von drei Monaten
 nach einer Information gemäß Absatz 3 Satz 1 oder nach Erhalt einer
@@ -1013,12 +1232,12 @@ die folgenden Fälle der Nichtkonformität zu korrigieren:
 
 
 
-## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000500000)
+## Abschnitt 6 - Ordnungswidrigkeiten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000501126)
 
 
 ### § 21 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002301126)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002302126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1048,11 +1267,15 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 6.  entgegen § 8 Absatz 1 Satz 2 nicht dafür sorgt, dass eine dort
-    genannte Information angegeben wird, oder
+    genannte Information angegeben wird,
 
 
 7.  entgegen § 10 Absatz 2 Nummer 1, 3 oder Nummer 4 ein
-    Sicherheitsbauteil für Aufzüge in den Verkehr bringt.
+    Sicherheitsbauteil für Aufzüge in den Verkehr bringt oder
+
+
+8.  entgegen § 16c Absatz 6 Satz 1 einen Hinweis nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig anbringt.
 
 
 
@@ -1080,24 +1303,18 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-### § 22 Straftaten
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002401126)
+### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002402126)
 
-Wer eine in § 21 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
-wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 23 Übergangsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002500000)
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002501126)
 
-(1) Aufzüge, die die Anforderungen der Richtlinie
-95/16/EG des Europäischen Parlaments und des Rates vom 29. Juni 1995
-zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über
-Aufzüge (ABl. L 213 vom 7.9.1995, S. 1), die durch die Richtlinie
-2014/33/EU aufgehoben worden ist, erfüllen und vor dem 20. April 2016
-in den Verkehr gebracht wurden, dürfen in Betrieb genommen werden.
+(1) Aufzüge, die die Anforderungen der Richtlinie 95/16/EG in der
+Fassung vom 25. Oktober 2012, die durch die Richtlinie 2014/33/EU
+aufgehoben worden ist, erfüllen und vor dem 20. April 2016 in den
+Verkehr gebracht wurden, dürfen in Betrieb genommen werden.
 
 (2) Sicherheitsbauteile für Aufzüge, die die Anforderungen der
 Richtlinie 95/16/EG erfüllen und vor dem 20. April 2016 in den Verkehr

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 10.2.2026 I Nr. 39
 
+Änderung durch
+:   Art. 4 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt I - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000101301)
