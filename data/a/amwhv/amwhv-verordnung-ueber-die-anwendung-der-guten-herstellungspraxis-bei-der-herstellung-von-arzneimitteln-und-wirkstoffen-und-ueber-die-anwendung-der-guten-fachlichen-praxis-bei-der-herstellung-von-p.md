@@ -2529,7 +2529,7 @@ Prüfergebnisse richtig sind.
 
 
 ### § 34 Gewinnung von Gewebe durch die Entnahmeeinrichtung
-[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003705116)
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003706130)
 
 (1) § 4 findet für Entnahmeeinrichtungen keine Anwendung. Das
 Personal, das das Gewebe entnimmt, muss vor der Ausführung dieser
@@ -2668,7 +2668,7 @@ Probenahme hervorgehen.
 
 (7) Die Gewebeentnahme und die Probenahme sind gemäß der
 Entnahmeanweisung nach Absatz 3 durchzuführen und unbeschadet der
-ärztlichen Dokumentationspflichten nach § 8d Abs. 2 des
+ärztlichen Dokumentationspflichten nach § 8e Abs. 2 des
 Transplantationsgesetzes vollständig aufzuzeichnen (Entnahmebericht).
 Der Entnahmebericht muss mindestens folgende Angaben enthalten:
 
@@ -2716,7 +2716,7 @@ für die Entnahme verantwortliche Person hat im Entnahmebericht mit
 Datum und Unterschrift zu bestätigen, dass die Entnahme entsprechend
 der Entnahmeanweisung durchgeführt worden ist und die Gewebe für die
 Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung
-im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
+im Sinne des § 8e Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
 freigegeben sind. Der Entnahmebericht ist der Gewebeeinrichtung, die
 das entnommene Gewebe be- oder verarbeitet, zu übermitteln. Die
 Anforderungen an die Spenderakte gemäß § 5 der TPG-Gewebeverordnung

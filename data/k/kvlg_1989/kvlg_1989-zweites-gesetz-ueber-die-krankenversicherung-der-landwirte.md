@@ -491,7 +491,7 @@ Vierten Buches Sozialgesetzbuch zulässig.
 
 
 ### § 8 Grundsatz
-[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001712126)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001713126)
 
 (1) Für die Leistungen nach diesem Gesetz gilt das Dritte Kapitel des
 Fünften Buches Sozialgesetzbuch, soweit nachfolgend nichts
@@ -519,7 +519,7 @@ die Krankenkasse das Mitglied schriftlich darauf hinzuweisen, dass es
 im Falle der Hilfebedürftigkeit die Übernahme der Beiträge durch den
 zuständigen Sozialleistungsträger beantragen kann.
 
-(2b) Für Leistungen im Zusammenhang mit einer nach den §§ 8 und 8a des
+(2b) Für Leistungen im Zusammenhang mit einer nach den §§ 8 und 8b des
 Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
 oder im Zusammenhang mit einer im Sinne von § 9 des
 Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von

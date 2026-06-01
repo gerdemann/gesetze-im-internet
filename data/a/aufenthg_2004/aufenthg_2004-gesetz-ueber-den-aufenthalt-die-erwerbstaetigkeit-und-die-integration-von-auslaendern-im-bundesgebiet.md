@@ -141,7 +141,7 @@ Die Regelungen in anderen Gesetzen bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019807311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019808311)
 
 (1) Ausländer ist jeder, der nicht Deutscher im Sinne des Artikels 116
 Abs. 1 des Grundgesetzes ist.
@@ -369,11 +369,10 @@ c)  der begründete Verdacht vorliegt, dass sich der Ausländer der
 Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die
 Anordnung der Überstellungshaft vorzuführen. Auf das Verfahren auf
 Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr.
-604/2013 finden § 62d sowie die Vorschriften des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das
-Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend
-geregelt ist.
+604/2013 finden die Vorschriften des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der
+Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
 
 
 ## Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
@@ -9206,14 +9205,9 @@ Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die
 Anordnung der Haft nach Absatz 1 vorzuführen.
 
 
-#### § 62d Bestellung eines anwaltlichen Vertreters
-[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE023200311)
+#### § 62d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE023201311)
 
-Zur richterlichen Entscheidung über die Anordnung von Abschiebungshaft
-nach § 62 und Ausreisegewahrsam nach § 62b bestellt das Gericht dem
-Betroffenen, der noch keinen anwaltlichen Vertreter hat, von Amts
-wegen für die Dauer des Verfahrens einen anwaltlichen Vertreter als
-Bevollmächtigten.
 
 
 ## Kapitel 6 - Haftung und Gebühren

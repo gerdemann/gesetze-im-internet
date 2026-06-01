@@ -3687,7 +3687,7 @@ Kraftfahrzeugen im Inland.
 
 
 #### § 47 Verfahrensregelungen
-[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005102308)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005103123)
 
 (1) Nach der Entziehung sind von einer deutschen Behörde ausgestellte
 nationale und internationale Führerscheine unverzüglich der
@@ -3713,12 +3713,26 @@ Auflagen werden diese in den Führerschein eingetragen. Die
 entscheidende Behörde teilt die Aberkennung der Fahrberechtigung oder
 die Feststellung der fehlenden Fahrberechtigung in Deutschland der
 Behörde, die den Führerschein ausgestellt hat, über das Kraftfahrt-
-Bundesamt mit. Erfolgt die Entziehung durch die erteilende oder eine
-sonstige zuständige ausländische Behörde, sind ausländische und im
-Ausland ausgestellte internationale Führerscheine unverzüglich der
-Fahrerlaubnisbehörde vorzulegen und dort in Verwahrung zu nehmen. Die
-Fahrerlaubnisbehörde sendet die Führerscheine über das Kraftfahrt-
-Bundesamt an die entziehende Stelle zurück.
+Bundesamt mit. Die Sätze 1 bis 5 gelten nicht, sofern es sich um einen
+Führerschein handelt, der in einem anderen Mitgliedstaat der
+Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum ausgestellt wurde und dessen Inhaber
+seinen ordentlichen Wohnsitz nicht im Inland hat. In den Fällen des
+Satzes 6 teilt die zuständige Behörde über das Kraftfahrt-Bundesamt
+die Aberkennung der Fahrberechtigung oder die Feststellung der
+fehlenden Fahrberechtigung in Deutschland der zuständigen Behörde des
+anderen Mitgliedstaates der Europäischen Union oder des
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+mit, in dem der Inhaber des Führerscheins seinen ordentlichen Wohnsitz
+hat, andernfalls der Behörde, die den Führerschein ausgestellt hat.
+
+(2a) Erfolgt die Entziehung der Fahrerlaubnis durch die erteilende
+oder eine sonstige zuständige ausländische Behörde, so sind
+ausländische und im Ausland ausgestellte internationale Führerscheine
+unverzüglich der Fahrerlaubnisbehörde vorzulegen und dort in
+Verwahrung zu nehmen. Die Fahrerlaubnisbehörde sendet die
+Führerscheine über das Kraftfahrt-Bundesamt an die entziehende Stelle
+zurück.
 
 (3) Ist dem Betroffenen nach § 31 eine deutsche Fahrerlaubnis erteilt
 worden, ist er aber noch im Besitz des ausländischen Führerscheins,
@@ -4846,7 +4860,7 @@ automatisierten Verfahren abgerufen werden. § 52 Absatz 2, 3 und 5, §§
 
 
 #### § 59 Speicherung von Daten im Fahreignungsregister
-[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006506116)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006507123)
 
 (1) Im Fahreignungsregister sind im Rahmen von § 28 Absatz 3 des
 Straßenverkehrsgesetzes folgende Daten zu speichern:
@@ -4927,7 +4941,7 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
     Ablaufs der Sperrfrist,
 
 
-11. bei einem Fahrverbot der Hinweis auf § 25 Absatz 2a Satz 1 des
+11. bei einem Fahrverbot der Hinweis auf § 25 Absatz 3 des
     Straßenverkehrsgesetzes und der Tag des Fristablaufs sowie bei einem
     Verbot oder einer Beschränkung, ein fahrerlaubnisfreies Fahrzeug zu
     führen, der Tag des Ablaufs oder der Aufhebung der Maßnahme,
@@ -5138,7 +5152,7 @@ dass andere Behörden zuständig sind.
 
 
 #### § 61 Abruf im automatisierten Verfahren nach § 30a des Straßenverkehrsgesetzes
-[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006702305)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006703123)
 
 (1) Zur Übermittlung nach § 30a Absatz 1 und 3 des
 Straßenverkehrsgesetzes durch Abruf im automatisierten Verfahren
@@ -5171,7 +5185,7 @@ dürfen folgende Daten bereitgehalten werden:
         Vorschriften, die Höhe der Geldbuße und das Fahrverbot,
 
 
-    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 2a Satz 1 des
+    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 3 des
         Straßenverkehrsgesetzes und den Tag des Fristablaufs,
 
 
@@ -5265,8 +5279,8 @@ dürfen folgende Daten bereitgehalten werden:
         mit zwei Punkten und die entsprechende Kennziffer,
 
 
-    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 2a Satz 1 des
-        Straßenverkehrsgesetzes oder § 44 Absatz 3 Satz 1 des
+    d)  bei einem Fahrverbot den Hinweis auf § 25 Absatz 3 des
+        Straßenverkehrsgesetzes oder § 44 Absatz 3 Satz 1 und 2 des
         Strafgesetzbuches und den Tag des Fristablaufs,
 
 

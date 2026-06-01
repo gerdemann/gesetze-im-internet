@@ -186,7 +186,7 @@ Als Arbeitnehmer im Sinne des Satzes 1 Nr. 1, 2, 7 und 9 gelten
 
 
 #### § 3 Sonstige Versicherte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010639126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010641126)
 
 Versicherungspflichtig sind Personen in der Zeit,
 
@@ -238,7 +238,7 @@ Versicherungspflichtig sind Personen in der Zeit,
     truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
     Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das
     Landesrecht dies vorsieht, Leistungen für den Ausfall von
-    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8b des
     Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     oder im Zusammenhang mit einer im Sinne von § 9 des
     Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
@@ -9331,7 +9331,7 @@ Beschäftigung behandelt werden.
 
 
 ###### § 166 Beitragspflichtige Einnahmen sonstiger Versicherter
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063614126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063616126)
 
 (1) Beitragspflichtige Einnahmen sind
 
@@ -9401,7 +9401,7 @@ Beschäftigung behandelt werden.
     truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
     Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
     Landesrecht dies vorsieht, Leistungen für den Ausfall von
-    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8b des
     Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     oder im Zusammenhang mit einer im Sinne von § 9 des
     Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
@@ -9701,7 +9701,7 @@ Die Beiträge werden getragen
 
 
 ###### § 170 Beitragstragung bei sonstigen Versicherten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027438126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027439126)
 
 (1) Die Beiträge werden getragen
 
@@ -9734,14 +9734,14 @@ Die Beiträge werden getragen
         Leistungsträger,
 
 
-    d)  für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im
-        Zusammenhang mit einer nach den §§ 8 und 8a des
-        Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
-        oder im Zusammenhang mit einer im Sinne von § 9 des
-        Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
-        Blutstammzellen oder anderen Blutbestandteilen erhalten, von der
-        Stelle, die die Leistung erbringt; wird die Leistung von mehreren
-        Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
+    d)  Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
+        einer nach den §§ 8 und 8b des Transplantationsgesetzes erfolgenden
+        Spende von Organen oder Geweben oder im Zusammenhang mit einer im
+        Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur
+        Separation von Blutstammzellen oder anderen Blutbestandteilen
+        erhalten, von der Stelle, die die Leistung erbringt; wird die Leistung
+        von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig
+        zu tragen,
 
 
     e)  Pflegeunterstützungsgeld beziehen, von den Beziehern der Leistung zur

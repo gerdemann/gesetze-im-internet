@@ -5097,7 +5097,7 @@ Absatz 1 gelten § 106 Abs. 2 Satz 1, § 107 Satz 2 erster Halbsatz, die
 
 
 #### § 111a Vorläufige Entziehung der Fahrerlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017803311)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017804126)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, daß die
 Fahrerlaubnis entzogen werden wird (§ 69 des Strafgesetzbuches), so
@@ -5119,27 +5119,29 @@ Union oder eines anderen Vertragsstaates des Abkommens über den
 Europäischen Wirtschaftsraum ausgestellt worden ist, sofern der
 Inhaber seinen ordentlichen Wohnsitz im Inland hat.
 
-(4) Ist ein Führerschein beschlagnahmt, weil er nach § 69 Abs. 3 Satz
-2 des Strafgesetzbuches eingezogen werden kann, und bedarf es einer
-richterlichen Entscheidung über die Beschlagnahme, so tritt an deren
-Stelle die Entscheidung über die vorläufige Entziehung der
-Fahrerlaubnis.
+(4) Ist ein Führerschein beschlagnahmt, weil er nach § 69 Absatz 3
+Satz 2 oder nach § 69b Absatz 2 Satz 1 des Strafgesetzbuches
+eingezogen werden kann, und bedarf es einer richterlichen Entscheidung
+über die Beschlagnahme, so tritt an deren Stelle die Entscheidung über
+die vorläufige Entziehung der Fahrerlaubnis.
 
 (5) Ein Führerschein, der in Verwahrung genommen, sichergestellt oder
-beschlagnahmt ist, weil er nach § 69 Abs. 3 Satz 2 des
-Strafgesetzbuches eingezogen werden kann, ist dem Beschuldigten
-zurückzugeben, wenn der Richter die vorläufige Entziehung der
-Fahrerlaubnis wegen Fehlens der in Absatz 1 bezeichneten
-Voraussetzungen ablehnt, wenn er sie aufhebt oder wenn das Gericht im
-Urteil die Fahrerlaubnis nicht entzieht. Wird jedoch im Urteil ein
-Fahrverbot nach § 44 des Strafgesetzbuches verhängt, so kann die
-Rückgabe des Führerscheins aufgeschoben werden, wenn der Beschuldigte
-nicht widerspricht.
+beschlagnahmt ist, weil er nach § 69 Absatz 3 Satz 2 oder nach § 69b
+Absatz 2 Satz 1 des Strafgesetzbuches eingezogen werden kann, ist dem
+Beschuldigten zurückzugeben, wenn der Richter die vorläufige
+Entziehung der Fahrerlaubnis wegen Fehlens der in Absatz 1
+bezeichneten Voraussetzungen ablehnt, wenn er sie aufhebt oder wenn
+das Gericht im Urteil die Fahrerlaubnis nicht entzieht. Wird jedoch im
+Urteil ein Fahrverbot nach § 44 des Strafgesetzbuches verhängt, so
+kann die Rückgabe des Führerscheins aufgeschoben werden, wenn der
+Beschuldigte nicht widerspricht.
 
-(6) In anderen als in Absatz 3 Satz 2 genannten ausländischen
-Führerscheinen ist die vorläufige Entziehung der Fahrerlaubnis zu
-vermerken. Bis zur Eintragung dieses Vermerkes kann der Führerschein
-beschlagnahmt werden (§ 94 Abs. 3, § 98).
+(6) In ausländischen Führerscheinen, die weder von einem Mitgliedstaat
+der Europäischen Union noch von einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurden,
+ist die vorläufige Entziehung der Fahrerlaubnis zu vermerken. Bis zur
+Eintragung dieses Vermerkes kann der Führerschein beschlagnahmt werden
+(§ 94 Abs. 3, § 98).
 
 
 #### § 111b Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung
@@ -10711,13 +10713,14 @@ Der Beschluß ist mit dem Urteil zu verkünden.
 
 
 #### § 268c Belehrung bei Anordnung eines Fahrverbots
-[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038803311)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038804126)
 
 Wird in dem Urteil ein Fahrverbot angeordnet, so belehrt der
-Vorsitzende den Angeklagten über den Beginn der Verbotsfrist (§ 44
-Abs. 3 Satz 1 des Strafgesetzbuches). Die Belehrung wird im Anschluß
-an die Urteilsverkündung erteilt. Ergeht das Urteil in Abwesenheit des
-Angeklagten, so ist er schriftlich zu belehren.
+Vorsitzende den Angeklagten in den Fällen des § 44 Absatz 3 Satz 1 und
+2 des Strafgesetzbuches über den Beginn der Verbotsfrist. Die
+Belehrung wird im Anschluß an die Urteilsverkündung erteilt. Ergeht
+das Urteil in Abwesenheit des Angeklagten, so ist er schriftlich zu
+belehren.
 
 
 #### § 268d Belehrung bei vorbehaltener Sicherungsverwahrung
@@ -15870,7 +15873,7 @@ gewöhnlichen Aufenthaltsort hatte.
 
 
 #### § 463b Beschlagnahme von Führerscheinen
-[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059505311)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059506126)
 
 (1) Ist ein Führerschein nach § 44 Abs. 2 Satz 2 und 3 des
 Strafgesetzbuches amtlich zu verwahren und wird er nicht freiwillig
@@ -15878,8 +15881,8 @@ herausgegeben, so ist er zu beschlagnahmen.
 
 (2) Ausländische Führerscheine können zur Eintragung eines Vermerks
 über das Fahrverbot oder über die Entziehung der Fahrerlaubnis und die
-Sperre (§ 44 Abs. 2 Satz 4, § 69b Abs. 2 des Strafgesetzbuches)
-beschlagnahmt werden.
+Sperre (§ 44 Abs. 2 Satz 4, § 69b Absatz 2 Satz 2 des
+Strafgesetzbuches) beschlagnahmt werden.
 
 (3) Der Verurteilte hat, wenn der Führerschein bei ihm nicht
 vorgefunden wird, auf Antrag der Vollstreckungsbehörde bei dem

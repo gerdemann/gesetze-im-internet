@@ -58,22 +58,22 @@ Bundesärztekammer und weiterer Sachverständiger:
 
 
 ## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000201130)
 
 Diese Verordnung findet Anwendung auf Gewebeeinrichtungen im Sinne des
-§ 1a Nr. 8 des Transplantationsgesetzes, die Gewebe im Sinne des § 1a
-Nr. 4 des Transplantationsgesetzes entnehmen (Entnahmeeinrichtung)
-oder die die für Gewebespender erforderlichen Laboruntersuchungen in
-einem Untersuchungslabor nach § 8e des Transplantationsgesetzes
-durchführen oder durchführen lassen. Sie gilt ferner für Einrichtungen
-der medizinischen Versorgung, die Gewebe im Sinne des § 1a Nr. 4 des
-Transplantationsgesetzes übertragen.
+§ 1a Nummer 12 des Transplantationsgesetzes, die Gewebe im Sinne des
+§ 1a Nummer 4 des Transplantationsgesetzes entnehmen
+(Entnahmeeinrichtung) oder die die für Gewebespender erforderlichen
+Laboruntersuchungen in einem Untersuchungslabor nach § 8f des
+Transplantationsgesetzes durchführen oder durchführen lassen. Sie gilt
+ferner für Einrichtungen der medizinischen Versorgung, die Gewebe im
+Sinne des § 1a Nummer 4 des Transplantationsgesetzes übertragen.
 
 
 ## § 2 Anforderungen an die Entnahme von Geweben
-[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000301130)
 
-Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8d
+Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8e
 Abs. 1 Satz 2 Nr. 1 des Transplantationsgesetzes ist die
 Entnahmeeinrichtung insbesondere verpflichtet, sicherzustellen, dass
 die Art und Weise der Entnahme hinsichtlich der Art der gespendeten
@@ -82,10 +82,10 @@ biologischen und physikalischen Eigenschaften erhalten bleiben.
 
 
 ## § 3 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
-[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000401130)
 
 (1) Die ärztliche Beurteilung zur medizinischen Eignung des toten
-Spenders nach § 8d Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes
+Spenders nach § 8e Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes
 beruht auf der Risikobewertung in Bezug auf die jeweilige Verwendung
 und der Art des Gewebes. Dabei sind die in Anlage 1 Nr. 1 genannten
 Anforderungen zu beachten. Der Spender ist von der Spende
@@ -100,10 +100,10 @@ dass die in Anlage 2 genannten Anforderungen zu beachten sind.
 
 
 ## § 4 Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000501130)
 
 Bei den für Gewebespender erforderlichen Laboruntersuchungen im Sinne
-des § 8d Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die
+des § 8e Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die
 Entnahmeeinrichtung mindestens die in Anlage 3 Nr. 1 genannten
 Laboruntersuchungen für Gewebespender mit Ausnahme von Keimzellen in
 einem Untersuchungslabor durchzuführen oder durchführen zu lassen. Bei
@@ -112,7 +112,7 @@ in Anlage 3 Nr. 2 festgelegten Anforderungen einzuhalten.
 
 
 ## § 5 Anforderungen an Spenderakte und Entnahmebericht
-[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000603116)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000604130)
 
 (1) Die Entnahmeeinrichtung legt vor der Entnahme oder Untersuchung
 eine Spenderakte an, in der ausschließlich folgende Angaben
@@ -132,7 +132,7 @@ dokumentiert werden:
     Transplantationsgesetzes genannten Person oder der Einwilligung der
     Frau, die mit dem Embryo oder Fötus schwanger war, nach § 4a Abs. 1
     Satz 1 Nr. 2 des Transplantationsgesetzes und bei lebenden Spendern
-    die Einwilligung des Spenders nach § 8, § 8b oder § 8c des
+    die Einwilligung des Spenders nach den §§ 8, 8c oder 8d des
     Transplantationsgesetzes;
 
 
@@ -207,7 +207,7 @@ mindestens folgende Angaben enthält:
 
 Im Entnahmebericht ist zu dokumentieren, dass die Gewebe für die
 Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung
-im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
+im Sinne des § 8e Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
 freigegeben sind.
 
 

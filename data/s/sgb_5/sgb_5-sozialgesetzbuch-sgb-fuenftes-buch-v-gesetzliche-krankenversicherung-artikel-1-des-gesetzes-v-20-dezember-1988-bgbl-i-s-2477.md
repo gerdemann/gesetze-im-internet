@@ -3447,7 +3447,7 @@ Satz 1 gemeinsame Rahmenvereinbarungen.
 
 
 ##### § 27 Krankenbehandlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011018126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011019126)
 
 (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie
 notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre
@@ -3498,22 +3498,22 @@ sexuellen Nötigung oder einer Vergewaltigung sein können.
 
 (1a) Spender von Organen oder Geweben oder von Blut zur Separation von
 Blutstammzellen oder anderen Blutbestandteilen (Spender) haben bei
-einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden
+einer nach den §§ 8 und 8b des Transplantationsgesetzes erfolgenden
 Spende von Organen oder Geweben oder im Zusammenhang mit einer im
 Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende zum Zwecke
 der Übertragung auf Versicherte (Entnahme bei lebenden Spendern)
 Anspruch auf Leistungen der Krankenbehandlung. Dazu gehören die
 ambulante und stationäre Behandlung der Spender, die medizinisch
-erforderliche Vor- und Nachbetreuung, Leistungen zur medizinischen
+erforderliche Vor- und Nachsorge, Leistungen zur medizinischen
 Rehabilitation sowie die Erstattung des Ausfalls von Arbeitseinkünften
-als Krankengeld nach § 44a und erforderlicher Fahrkosten; dies gilt
+als Krankengeld nach § 44a und erforderlicher Fahrkosten; dies gilt
 auch für Leistungen, die über die Leistungen nach dem Dritten Kapitel
 dieses Gesetzes, auf die ein Anspruch besteht, hinausgehen, soweit sie
 vom Versicherungsschutz des Spenders umfasst sind. Zuzahlungen sind
 von den Spendern nicht zu leisten. Zuständig für Leistungen nach den
 Sätzen 1 und 2 ist die Krankenkasse der Empfänger von Organen, Geweben
 oder Blutstammzellen sowie anderen Blutbestandteilen (Empfänger). Im
-Zusammenhang mit der Spende von Knochenmark nach den §§ 8 und 8a des
+Zusammenhang mit der Spende von Knochenmark nach den §§ 8 und 8b des
 Transplantationsgesetzes, von Blutstammzellen oder anderen
 Blutbestandteilen nach § 9 des Transfusionsgesetzes können die
 Erstattung der erforderlichen Fahrkosten des Spenders und die
@@ -3532,12 +3532,22 @@ ist befugt, die für die Leistungserbringung nach den Sätzen 1 und 2
 erforderlichen personenbezogenen Daten an die Krankenkasse oder das
 private Krankenversicherungsunternehmen der Empfänger zu übermitteln;
 dies gilt auch für personenbezogene Daten von nach dem
+Künstlersozialversicherungsgesetz Krankenversicherungspflichtigen. Im
+Rahmen von Überkreuzlebendnierenspenden und nicht gerichteten anonymen
+Nierenspenden sind die nach § 12 des Transplantationsgesetzes zur
+Vermittlung der Organe bestimmten Stellen befugt, die für die
+Leistungserbringung erforderlichen Daten an die Krankenkassen oder die
+privaten Krankenversicherungsunternehmen des Spenders und des
+Empfängers zu übermitteln sowie dem Spender die nach Satz 4 zuständige
+Krankenkasse oder das private Krankenversicherungsunternehmen des
+Empfängers zu benennen; dies gilt auch für Daten von nach dem
 Künstlersozialversicherungsgesetz Krankenversicherungspflichtigen. Die
-nach Satz 9 übermittelten Daten dürfen nur für die Erbringung von
-Leistungen nach den Sätzen 1 und 2 verarbeitet werden. Die
-Datenverarbeitung nach den Sätzen 9 und 10 darf nur mit schriftlicher
-Einwilligung der Spender, der eine umfassende Information
-vorausgegangen ist, erfolgen.
+nach den Sätzen 9 und 10 übermittelten Daten dürfen nur für die
+Erbringung von Leistungen nach den Sätzen 1 und 2 verarbeitet werden.
+Die Datenverarbeitung nach den Sätzen 9 bis 11 darf nur mit
+schriftlicher Einwilligung der Spender und, in dem in Satz 10
+genannten Fall, der Empfänger erfolgen, der jeweils eine umfassende
+Information vorausgegangen ist.
 
 (2) Versicherte, die sich nur vorübergehend im Inland aufhalten,
 Ausländer, denen eine Aufenthaltserlaubnis nach § 25 Abs. 4 bis 5 des
@@ -19621,7 +19631,7 @@ Rahmenempfehlungen zum Inhalt der Verträge nach Absatz 1 abgeben.
 
 
 #### § 115a Vor- und nachstationäre Behandlung im Krankenhaus
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041707308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041708126)
 
 (1) Das Krankenhaus kann bei Verordnung von Krankenhausbehandlung
 Versicherte in medizinisch geeigneten Fällen ohne Unterkunft und
@@ -19663,8 +19673,8 @@ gewährleistet. Das Krankenhaus hat den einweisenden Arzt über die vor-
 oder nachstationäre Behandlung sowie diesen und die an der weiteren
 Krankenbehandlung jeweils beteiligten Ärzte über die
 Kontrolluntersuchungen und deren Ergebnis unverzüglich zu
-unterrichten. Die Sätze 2 bis 6 gelten für die Nachbetreuung von
-Organspendern nach § 8 Abs. 3 Satz 1 des Transplantationsgesetzes
+unterrichten. Die Sätze 2 bis 6 gelten für die Nachsorge von
+Organspendern nach § 8 Absatz 4 des Transplantationsgesetzes
 entsprechend.
 
 (3) Die Landesverbände der Krankenkassen, die Ersatzkassen und der
@@ -31618,7 +31628,7 @@ Die freiwillige Mitgliedschaft endet
 
 
 ##### § 192 Fortbestehen der Mitgliedschaft Versicherungspflichtiger
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027616126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027617126)
 
 (1) Die Mitgliedschaft Versicherungspflichtiger bleibt erhalten,
 solange
@@ -31639,7 +31649,7 @@ solange
     truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
     Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das
     Landesrecht dies vorsieht, Leistungen für den Ausfall von
-    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
+    Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8b des
     Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
     oder im Zusammenhang mit einer Spende von Blut zur Separation von
     Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9 des

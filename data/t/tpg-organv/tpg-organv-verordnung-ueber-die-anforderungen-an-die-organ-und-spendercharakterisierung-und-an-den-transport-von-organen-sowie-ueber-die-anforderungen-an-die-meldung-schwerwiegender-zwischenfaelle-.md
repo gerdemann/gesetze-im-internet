@@ -521,11 +521,11 @@ und die Vermittlungsstelle hiervon zu unterrichten.
 
 
 ### § 11 Meldung von Vorfällen bei der Lebendspende von Organen
-[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000701116)
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000702130)
 
 Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden
 Vorfall, der im Rahmen der ärztlich empfohlenen Nachbetreuung nach § 8
-Absatz 3 Satz 1 des Transplantationsgesetzes beim lebenden Spender
+Absatz 4 des Transplantationsgesetzes beim lebenden Spender
 festgestellt wird und der sich auf die Qualität und Sicherheit des
 gespendeten Organs auswirkt, oder jede schwerwiegende unerwünschte
 Reaktion nach § 6 Absatz 4 Satz 2 beim lebenden Spender, die infolge

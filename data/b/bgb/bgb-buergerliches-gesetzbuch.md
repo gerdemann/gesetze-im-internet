@@ -33238,7 +33238,7 @@ in diesem Falle ist § 1600d Abs. 2 und 3 entsprechend anzuwenden.
 
 
 ##### § 1600d Gerichtliche Feststellung der Vaterschaft
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE155305123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE155306360)
 
 (1) Besteht keine Vaterschaft nach § 1592 Nr. 1 und 2, § 1593, so ist
 die Vaterschaft gerichtlich festzustellen.
@@ -33256,7 +33256,7 @@ Empfängniszeit.
 
 (4) Ist das Kind durch eine ärztlich unterstützte künstliche
 Befruchtung in einer Einrichtung der medizinischen Versorgung im Sinne
-von § 1a Nummer 9 des Transplantationsgesetzes unter heterologer
+von § 1a Nummer 13 des Transplantationsgesetzes unter heterologer
 Verwendung von Samen gezeugt worden, der vom Spender einer
 Entnahmeeinrichtung im Sinne von § 2 Absatz 1 Satz 1 des
 Samenspenderregistergesetzes zur Verfügung gestellt wurde, so kann der

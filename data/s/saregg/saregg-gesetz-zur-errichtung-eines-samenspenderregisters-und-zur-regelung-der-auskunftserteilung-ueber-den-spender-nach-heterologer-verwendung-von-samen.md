@@ -156,11 +156,11 @@ Absatz 3 Satz 2 widerrufen hat.
 
 
 ## § 3 Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung
-[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000301130)
 
 (1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur
 an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a
-Nummer 9 des Transplantationsgesetzes (Einrichtung der medizinischen
+Nummer 13 des Transplantationsgesetzes (Einrichtung der medizinischen
 Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1
 Satz 2 erfüllt ist.
 

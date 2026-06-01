@@ -2298,7 +2298,7 @@ Abs. 1 einer Erlaubnis bedarf.
 
 
 ### § 20b Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen
-[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021803116)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021804130)
 
 (1) Eine Einrichtung, die zur Verwendung bei Menschen bestimmte Gewebe
 im Sinne von § 1a Nr. 4 des Transplantationsgesetzes gewinnen
@@ -2313,7 +2313,7 @@ und zu transportieren. Die Erlaubnis darf nur versagt werden, wenn
 1.  eine angemessen ausgebildete Person mit der erforderlichen
     Berufserfahrung (verantwortliche Person nach § 20b) nicht vorhanden
     ist, die, soweit es sich um eine Entnahmeeinrichtung handelt, zugleich
-    die ärztliche Person im Sinne von § 8d Abs. 1 Satz 1 des
+    die ärztliche Person im Sinne von § 8e Absatz 1 Satz 1 des
     Transplantationsgesetzes sein kann,
 
 
