@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 4.3.2026 I Nr. 60
 
+Neufassung durch
+:   Bek. v. 21.5.2026 I Nr. 160 noch nicht berücksichtigt
+
 [^f818426_01_BJNR453010021]:     Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/6 des
     Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
     Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4
