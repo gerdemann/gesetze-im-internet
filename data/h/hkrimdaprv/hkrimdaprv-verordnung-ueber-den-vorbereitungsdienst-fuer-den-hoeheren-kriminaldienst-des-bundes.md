@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des
+Title: Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des
   Bundes
 jurabk: HKrimDAPrV
 layout: default
@@ -8,7 +8,7 @@ slug: hkrimdaprv
 
 ---
 
-# Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes (HKrimDAPrV)
+# Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes (HKrimDAPrV)
 
 Ausfertigungsdatum
 :   2011-01-15
@@ -18,13 +18,6 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 1 V v. 18.5.2026 I Nr. 155
-
-Stand: Zukünftige amtl. Langüberschrift: Verordnung über den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes (ab 1.6.2026 I Nr. 155)
-Stand: Zukünftige amtl. Buchstabenabkürzung: HKrimDVDV (ab 1.6.2026 I Nr. 155)
-[^f004300_01_BJNR004300011]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v.
-    18\.5.2026 I Nr. 155 mWv 1.6.2026 wie folgt gefasst: Verordnung über
-    den Vorbereitungsdienst für den höheren Kriminaldienst des Bundes
-    HKrimDVDV
 
 
 ## Eingangsformel

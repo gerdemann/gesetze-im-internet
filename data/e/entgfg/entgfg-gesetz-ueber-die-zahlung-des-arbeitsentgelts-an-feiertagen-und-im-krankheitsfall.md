@@ -18,12 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 7 G v. 12.5.2026 I Nr. 143
 
-Mittelbare änderung durch
-:   Art. 12b G v. 11.2.2021 I 154 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 4b G v. 23.3.2022 I 482 ist berücksichtigt
-
 
 ## § 1 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000100307)

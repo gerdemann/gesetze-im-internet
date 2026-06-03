@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.5.2026 I Nr. 129
+:   Art. 1 V v. 26.5.2026 I Nr. 161
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -6085,9 +6085,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage C (zu § 26 Absatz 2 Satz 1)
-[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008707311)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008708311)
 
-Indien
 Jordanien
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige
 Jordaniens, sofern sie

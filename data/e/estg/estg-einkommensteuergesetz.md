@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 26.5.2026 I Nr. 156 mWv 1.1.2028 noch nicht berücksichtigt
+:   Art. 3 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Steuerpflicht
