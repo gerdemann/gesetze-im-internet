@@ -6613,7 +6613,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         -   ausgenommen, wenn der Verkehr mit ihnen (ausgenommen der Anbau)
             Zierzwecken dient und wenn im getrockneten Zustand ihr Gehalt an
             Morphin 0,02 vom Hundert nicht übersteigt; in diesem Fall finden die
-            betäubungsmittelrechtlichen Vorschriften zur Anwendung auf die
+            betäubungsmittelrechtlichen Vorschriften nur Anwendung auf die
             Einfuhr, Ausfuhr und Durchfuhr -
 
 

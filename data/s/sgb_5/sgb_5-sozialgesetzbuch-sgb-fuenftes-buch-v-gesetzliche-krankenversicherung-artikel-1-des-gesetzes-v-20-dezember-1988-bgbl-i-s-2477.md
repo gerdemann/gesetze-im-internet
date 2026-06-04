@@ -17,22 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 8 G v. 3.2.2026 I Nr. 28
-
-Änderung durch
-:   Art. 1 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 16.4.2026 I Nr. 107 ist berücksichtigt
-
-Änderung durch
-:   Art. 4 G v. 23.4.2026 I Nr. 112 ist berücksichtigt
-
-Änderung durch
-:   Art. 8 Abs. 5 G v. 12.5.2026 I Nr. 137 ist berücksichtigt
-
-Änderung durch
-:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143 ist berücksichtigt
+:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
