@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 348
 
+Änderung durch
+:   Art. 2 G v. 1.6.2026 I Nr. 163 mWv noch nicht berücksichtigt
+
 Stand: Ersetzt V 2129-8-37 v. 15.5.2017 I 1195 (BImSchV 37)
 [^F829792_01_BJNR0830A0024]:     Diese Verordnung dient der Umsetzung der Delegierten Verordnung (EU)
     2023/1184 der Kommission vom 10. Februar 2023 zur Ergänzung der

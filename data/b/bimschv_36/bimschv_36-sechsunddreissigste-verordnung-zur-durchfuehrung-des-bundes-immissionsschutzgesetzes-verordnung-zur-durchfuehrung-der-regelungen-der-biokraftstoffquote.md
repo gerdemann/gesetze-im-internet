@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.6.2024 I Nr. 183
 
+Änderung durch
+:   Art. 4 G v. 1.6.2026 I Nr. 163 mWv noch nicht berücksichtigt
+
 
 
 ## § 1 Einlagerer

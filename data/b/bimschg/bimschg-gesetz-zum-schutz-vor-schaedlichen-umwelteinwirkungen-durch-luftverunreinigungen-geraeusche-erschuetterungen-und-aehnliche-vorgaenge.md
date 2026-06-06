@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 29.3.2026 I Nr. 84
 
+Änderung durch
+:   Art. 1 G v. 1.6.2026 I Nr. 163 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000103360)

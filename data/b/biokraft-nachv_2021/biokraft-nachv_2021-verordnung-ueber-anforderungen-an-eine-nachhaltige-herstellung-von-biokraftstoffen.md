@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5126, 5143
 
+Geändert durch
+:   Art. 5 G v. 1.6.2026 I Nr. 163
+
 Stand: Ersetzt V 754-22-4 v. 30.9.2009 I 3182 (Biokraft-NachV)
 Diese Verordnung ist notifiziert gemäß der Richtlinie (EU) 2015/1535
 des Europäischen Parlaments und des Rates vom 9. September 2015 über
