@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 4.6.2024 I Nr. 183
 
 Änderung durch
-:   Art. 4 G v. 1.6.2026 I Nr. 163 mWv noch nicht berücksichtigt
+:   Art. 4 G v. 1.6.2026 I Nr. 163 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -154,7 +154,7 @@ diese Verordnung nichts anderes bestimmt.
 
 
 ## § 9 Tierische Fette und Öle
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE001302116)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE001303130)
 
 (1) Biokraftstoffe, die zielgerichtet vollständig oder teilweise aus
 tierischen Fetten oder Ölen hergestellt werden, können nicht auf die
@@ -170,7 +170,7 @@ Verordnung (EG) Nr. 1774/2002 in ihrer jeweils geltenden Fassung.
 (2) Sofern Biokraftstoffe aus pflanzlichen Rohstoffen hergestellt
 wurden, die nicht gewollte, nicht zu vermeidende unwesentliche
 Verunreinigungen mit tierischen Fetten und Ölen enthalten, finden die
-Vorgaben von § 37b Absatz 8 Satz 1 Nummer 3 des Bundes-
+Vorgaben von § 37b Absatz 8 Satz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes in Bezug auf diese Biokraftstoffe keine
 Anwendung. Eine nicht zu vermeidende unwesentliche Verunreinigung
 besteht, wenn die Verunreinigung mengenmäßig nur geringfügig ist und
@@ -180,7 +180,7 @@ nicht oder nur mit erheblichem Aufwand beseitigt werden könnte.
 Braten oder Frittieren von Speisen verwendet worden sind, hergestellt
 wurden, die in Folge ihrer üblichen Verwendung zum Frittieren oder
 Braten von tierischen Produkten einen Anteil an tierischen Fetten oder
-Ölen enthalten, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 3
+Ölen enthalten, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 7
 des Bundes-Immissionsschutzgesetzes in Bezug auf diese Biokraftstoffe
 keine Anwendung.
 
@@ -206,7 +206,7 @@ keine Anwendung.
 
 hergestellt worden sind und der Betrieb, in dem die Stoffe angefallen
 sind, nachweislich kein Entgelt für die Abgabe dieser Stoffe erhalten
-hat, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 3 des
+hat, finden die Vorgaben von § 37b Absatz 8 Satz 1 Nummer 7 des
 Bundes-Immissionsschutzgesetzes in Bezug auf diese Biokraftstoffe
 keine Anwendung. Satz 1 gilt nur, sofern die tierischen Fette oder Öle
 den Abfällen oder den getrennt erfassten Bioabfällen nicht
@@ -230,12 +230,9 @@ Verlag GmbH, Berlin, erschienen und in der Deutschen
 Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 
-## § 11 Anpassung der Treibhausgasminderungs-Quote
-[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE002100130)
+## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE002101130)
 
-Die in § 37a Absatz 4 Satz 2 des Bundes-Immissionsschutzgesetzes
-genannten Prozentsätze für das Kalenderjahr 2024 und die nachfolgenden
-Kalenderjahre werden um jeweils 0,1 Prozentpunkte angehoben.
 
 (zu § 4)
 

@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 25.3.2026 I Nr. 81 ist berücksichtigt
 
 Änderung durch
-:   Art. 11 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 12.5.2026 I Nr. 139 ist berücksichtigt
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
