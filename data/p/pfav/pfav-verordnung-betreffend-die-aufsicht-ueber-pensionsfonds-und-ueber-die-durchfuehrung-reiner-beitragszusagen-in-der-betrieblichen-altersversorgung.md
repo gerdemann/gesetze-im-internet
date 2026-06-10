@@ -2270,6 +2270,10 @@ versicherungsmathematischen Gutachtens nach § 17 der
 Versicherungsberichterstattungs-Verordnung.
 
 
+## Teil 3 - Einreichungsvorgaben und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG001001128)
+
+
 ### § 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde
 [Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005100128)
 
@@ -2387,10 +2391,6 @@ entsprechen.
 (2) Zurückgewiesene Datensätze gelten als nicht eingereicht. Die
 Zurückweisungsnachricht ist einschließlich der Angabe des
 Zurückweisungsgrundes im MVP-Portal abrufbar.
-
-
-## Teil 3 - Schlussbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG001000124)
 
 
 ### § 43 Übergangsvorschriften zu Teil 1
