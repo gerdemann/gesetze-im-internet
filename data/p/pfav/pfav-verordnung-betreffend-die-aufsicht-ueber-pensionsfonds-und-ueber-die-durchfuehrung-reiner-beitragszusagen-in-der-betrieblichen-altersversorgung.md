@@ -2270,7 +2270,7 @@ versicherungsmathematischen Gutachtens nach § 17 der
 Versicherungsberichterstattungs-Verordnung.
 
 
-## Teil 3 - Einreichungsvorgaben und Schlussbestimmungen
+## Teil 3 - Schlussbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG001001128)
 
 

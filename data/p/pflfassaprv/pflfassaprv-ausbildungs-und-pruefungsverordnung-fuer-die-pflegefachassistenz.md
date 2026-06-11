@@ -47,10 +47,6 @@ Bundesministerium der Finanzen:
 [Direktlink](https://www.gesetze-im-internet.de/pflfassaprv/BJNR0A60A0026.html#BJNR0A60A0026BJNE000300000)
 
 
-#### (XXXX) Anlage 1 bis 11 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/pflfassaprv/BJNR0A60A0026.html#BJNR0A60A0026BJNE010100000)
-
-
 ## Teil 2 - (zukünftig in Kraft)
 [Direktlink](https://www.gesetze-im-internet.de/pflfassaprv/BJNR0A60A0026.html#BJNR0A60A0026BJNG000300000)
 
@@ -355,4 +351,8 @@ Die §§ 90 bis 95 treten am Tag nach der Verkündung in Kraft. Im
 [Direktlink](https://www.gesetze-im-internet.de/pflfassaprv/BJNR0A60A0026.html#BJNR0A60A0026BJNE010000000)
 
 Der Bundesrat hat zugestimmt.
+
+
+#### (XXXX) Anlagen 1 bis 11 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassaprv/BJNR0A60A0026.html#BJNR0A60A0026BJNE010100000)
 
