@@ -872,8 +872,8 @@ mindestens Folgendes:
 
     a)  dem Ausmaß der Abhängigkeit von in anderen Mitgliedstaaten der
         Europäischen Union und Drittstaaten ansässigen kritischen
-        Einrichtungen im Sinne des Artikels 2 Nummer 1 der Richtlinie (EU)
-        2022/2057 sowie,
+        Einrichtungen im Sinne des Artikels 2 Nummer 1 der
+        Richtlinie (EU) 2022/2557 sowie,
 
 
     b)  soweit bekannt, den Auswirkungen, die eine in einem Sektor auftretende

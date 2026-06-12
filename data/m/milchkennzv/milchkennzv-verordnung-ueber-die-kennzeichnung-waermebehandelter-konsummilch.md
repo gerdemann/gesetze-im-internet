@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1974, 1301
 
 V aufgeh. durch
-:   § 5 dieser V idF v. 24.11.2025 mWv 14.7.2026
+:   § 5 dieser V idF v. 21.5.2026 mWv 14.6.2026
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 1 V v. 24.11.2025 I Nr. 280
+:   Art. 4 V v. 21.5.2026 I Nr. 168
 
 
 ## Eingangsformel
@@ -236,7 +236,7 @@ Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 5 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000804119)
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000805129)
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.
 

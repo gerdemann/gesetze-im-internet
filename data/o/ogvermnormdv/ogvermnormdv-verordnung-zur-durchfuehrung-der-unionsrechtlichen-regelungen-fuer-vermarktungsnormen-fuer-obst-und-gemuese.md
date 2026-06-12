@@ -17,6 +17,9 @@ Fundstelle
 :   BGBl. I: 2024, Nr. 347
 
 Stand: Ersetzt V 7849-2-2-17 v. 10.6.2009 I 1269 (EG-ObstGemüseV) u. V 7849-2-2-3 v. 17.6.1996 I 857 (QNormBanV)
+Geändert durch
+:   Art. 2 V v. 21.5.2026 I Nr. 168
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000100000)
@@ -204,12 +207,12 @@ sein Verweigerungsrecht nach Satz 1 aufzuklären.
 
 
 ## § 6 Verbot, Sicherstellungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000701129)
 
 (1) Es ist verboten, als Händler ein Erzeugnis im Sinne des Artikel 76
 Absatz 1 der Verordnung (EU)
-Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1 und Anhang I Teil A
-der Delegierten Verordnung (EU)
+Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, Artikel 4 Absatz 1
+und Anhang I sowie Artikel 3 der Delegierten Verordnung (EU)
 2023/2429 anzubieten, feilzuhalten, zu bewerben, zu liefern, zu
 verkaufen oder sonst in den Verkehr zu bringen, wenn es nicht den dort
 genannten Anforderungen entspricht.

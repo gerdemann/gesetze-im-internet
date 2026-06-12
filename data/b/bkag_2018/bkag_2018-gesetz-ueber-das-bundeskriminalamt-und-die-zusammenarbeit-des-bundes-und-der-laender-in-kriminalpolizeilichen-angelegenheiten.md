@@ -2600,7 +2600,7 @@ nationalen Teils des SIS.
 
 
 ### § 33b Auf das SIS zugriffsberechtigte Stellen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009702130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009703130)
 
 (1) Die auf Grundlage der in § 33a Absatz 1 Satz 1 genannten
 Verordnungen auf das SIS zugriffsberechtigten staatlichen Stellen sind
@@ -2687,8 +2687,14 @@ Absatz 3 Satz 1 Nummer 1 bis 7 genannten Behörden:
 
 
 
-Die in Satz 1 Nummer 1 bis 17 genannten berechtigten staatlichen
-Stellen haben einen direkten Zugriff auf das N.SIS.
+Die nach § 71 Absatz 3 Nummer 9 und Absatz 4a des Aufenthaltsgesetzes
+zuständigen Behörden sind auf das SIS zugriffsberechtigt für Zwecke
+der Artikel 14, 15 und 16 der Verordnung (EU) 2024/1356. Die in Satz 2
+genannten Behörden können sich bei der Zurverfügungstellung des
+Zugriffs nach Satz 2 der technischen Unterstützung durch das
+Bundesverwaltungsamt bedienen. Die in Satz 1 Nummer 1 bis 17 genannten
+berechtigten staatlichen Stellen haben einen direkten Zugriff auf das
+N.SIS.
 
 (2) Ausschreibungen des Bundesamtes für Verfassungsschutz, des
 Militärischen Abschirmdienstes und des Bundesnachrichtendienstes nach

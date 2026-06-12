@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1997, 144
 
 V aufgeh. durch
-:   § 19 dieser V mWv 14.7.2026
+:   § 19 dieser V mWv 14.6.2026
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 4 V v. 24.11.2025 I Nr. 280
+:   Art. 7 V v. 21.5.2026 I Nr. 168
 
 Diese Verordnung ist nach der Richtlinie 83/189/EWG des Rates vom 28.
 März 1983 über ein Informationsverfahren auf dem Gebiet der Normen und
@@ -680,7 +680,7 @@ Fassung weiter anzuwenden. Die Absätze 2 und 3 bleiben unberührt.
 
 
 ### § 19 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002700119)
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002701129)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 

@@ -1581,7 +1581,7 @@ in das Führungszeugnis aufzunehmen ist. § 38 Abs. 2 gilt entsprechend.
 
 
 ##### § 41 Umfang der Auskunft
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005432125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005433126)
 
 (1) Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden,
 sowie Suchvermerke dürfen, unbeschadet der §§ 42 und 57, nur zur
@@ -1615,9 +1615,10 @@ Kenntnis gegeben werden
 
 
 7.  den Ausländerbehörden, den mit der polizeilichen Kontrolle des
-    grenzüberschreitenden Verkehrs beauftragten Behörden und dem Bundesamt
-    für Migration und Flüchtlinge, wenn sich die Auskunft auf einen
-    Ausländer bezieht,
+    grenzüberschreitenden Verkehrs beauftragten Behörden, den für die
+    Überprüfung nach § 15b des Aufenthaltsgesetzes zuständigen Behörden
+    des Bundes und der Länder und dem Bundesamt für Migration und
+    Flüchtlinge, wenn sich die Auskunft auf einen Ausländer bezieht,
 
 
 8.  den Gnadenbehörden für Gnadensachen,

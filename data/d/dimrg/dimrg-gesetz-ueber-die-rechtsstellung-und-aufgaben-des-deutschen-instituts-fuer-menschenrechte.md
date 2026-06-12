@@ -21,7 +21,7 @@ Geändert durch
 Stand: § 1 Abs. 1 Satz 2 ist gem. § 8 Satz 2 dieses G am 1.1.2016 in Kraft getreten
 
 ## § 1 Rechtsstellung und Finanzierung
-[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000101000)
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000102360)
 
 (1) Der eingetragene Verein Deutsches Institut für Menschenrechte ist
 die unabhängige nationale Institution der Bundesrepublik Deutschland
@@ -36,7 +36,9 @@ Aufgaben gemäß § 2 Absatz 2, 4 und 5 stehen dem Deutschen Institut für
 Menschenrechte e. V. Mittel zur Verfügung, soweit sie im Haushaltsplan
 des Deutschen Bundestages etatisiert sind und die in den §§ 2 bis 7
 genannten Mindestvoraussetzungen in der jeweiligen Satzung des
-Instituts erfüllt sind.
+Instituts erfüllt sind. Satz 2 gilt entsprechend für Aufgaben nach § 2
+Absatz 4a, soweit nicht eine Finanzierung aus europäischen Fonds
+erfolgt.
 
 (2) Das Deutsche Institut für Menschenrechte e. V. hat zugleich die
 Funktionen eines unabhängigen Mechanismus gemäß Artikel 33 Absatz 2
@@ -44,9 +46,17 @@ des Übereinkommens der Vereinten Nationen vom 13. Dezember 2006 über
 die Rechte von Menschen mit Behinderungen (BGBl. 2008 II S. 1419,
 1420).
 
+(3) Das Deutsche Institut für Menschenrechte e. V. hat zugleich die
+Funktionen eines unabhängigen Mechanismus zur Überwachung der
+Einhaltung der Grundrechte (unabhängiger Überwachungsmechanismus)
+gemäß Artikel 10 Absatz 2 der Verordnung (EU) 2024/1356 und Artikel 43
+Absatz 4 der Verordnung (EU) 2024/1348, mit Ausnahme der Überwachung
+der Einhaltung der Vorschriften über die Inhaftnahme und die
+Unterbringung.
+
 
 ## § 2 Aufgaben
-[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000201360)
 
 (1) Das Deutsche Institut für Menschenrechte e. V. soll die
 Öffentlichkeit über die Lage der Menschenrechte im In- und Ausland
@@ -107,6 +117,14 @@ verfügbar sind:
 Rechte von Menschen mit Behinderungen soll das Deutsche Institut für
 Menschenrechte e. V. die in dem Übereinkommen beschriebenen Aufgaben
 wahrnehmen.
+
+(4a) Als Teil des unabhängigen Überwachungsmechanismus gemäß Artikel
+10 Absatz 2 der Verordnung (EU) 2024/1356 und Artikel 43 Absatz 4 der
+Verordnung (EU) 2024/1348 soll das Deutsche Institut für
+Menschenrechte e. V. die in Artikel 10 Absatz 2 Unterabsatz 1
+Buchstabe a und b der Verordnung (EU) 2024/1356 genannten Aufgaben
+wahrnehmen, mit Ausnahme der Überwachung der Einhaltung der
+Vorschriften über die Inhaftnahme und die Unterbringung.
 
 (5) Das Deutsche Institut für Menschenrechte e. V. legt dem Deutschen
 Bundestag jährlich einen Bericht über die Arbeit der Institution sowie
@@ -186,7 +204,7 @@ Durchführung der Mitgliederversammlung werden in der Satzung geregelt.
 
 
 ## § 6 Kuratorium
-[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000601360)
 
 (1) In der Satzung muss bestimmt werden, dass das Kuratorium aus
 ehrenamtlichen Kuratoren besteht und diese entsprechend den Absätzen 2
@@ -221,39 +239,40 @@ Stimmrecht benannt werden
 
 
 
-(3) In der Satzung muss bestimmt werden, dass als Kuratoren ohne
-Stimmrecht benannt werden je ein Vertreter oder eine Vertreterin
+(3) In der Satzung muss bestimmt werden, dass je ein
+Kuratoriumsmitglied ohne Stimmrecht benannt wird durch:
 
-1.  von der Beauftragten der Bundesregierung für Migration, Flüchtlinge
-    und Integration,
-
-
-2.  von dem Beauftragten der Bundesregierung für Menschenrechte und
-    Humanitäre Hilfe,
+1.  den Beauftragten oder die Beauftragte der Bundesregierung für
+    Aussiedlerfragen und nationale Minderheiten,
 
 
-3.  von der Beauftragten der Bundesregierung für Menschenrechtsfragen,
+2.  den Beauftragten oder die Beauftragte der Bundesregierung für
+    Menschenrechtspolitik und Humanitäre Hilfe im Auswärtigen Amt,
 
 
-4.  von der Beauftragten der Bundesregierung für Aussiedlerfragen und
-    nationale Minderheiten,
+3.  den Beauftragten oder die Beauftragte der Bundesregierung für die
+    Belange von Menschen mit Behinderung,
 
 
-5.  von der Beauftragten der Bundesregierung für die Belange behinderter
-    Menschen,
+4.  den Beauftragten oder die Beauftragte der Bundesregierung für
+    Migration, Flüchtlinge und Integration,
 
 
-6.  des Bundesministeriums für wirtschaftliche Zusammenarbeit und
-    Entwicklung,
+5.  das Bundesministerium der Verteidigung,
 
 
-7.  des Bundesministeriums für Familie, Senioren, Frauen und Jugend,
+6.  das Bundesministerium der Justiz und für Verbraucherschutz,
 
 
-8.  des Bundesministeriums der Verteidigung,
+7.  das Bundesministerium für Bildung, Familie, Senioren, Frauen und
+    Jugend,
 
 
-9.  des Bundesrates.
+8.  das Bundesministerium für wirtschaftliche Zusammenarbeit und
+    Entwicklung und
+
+
+9.  den Bundesrat.
 
 
 

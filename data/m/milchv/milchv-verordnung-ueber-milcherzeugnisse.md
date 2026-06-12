@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1970, 1150
 
 V aufgeh. durch
-:   § 8 dieser V idF v. 24.11.2025 mWv 14.7.2026
+:   § 8 dieser V idF v. 21.5.2026 mWv 14.6.2026
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 2 V v. 24.11.2025 I Nr. 280
+:   Art. 5 V v. 21.5.2026 I Nr. 168
 
 
 ## Eingangsformel
@@ -545,9 +545,9 @@ Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 8 Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001502119)
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001503129)
 
-Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
+Diese Verordnung tritt am 14. Juni 2026 außer Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
