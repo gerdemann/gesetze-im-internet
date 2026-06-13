@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 145
 
+Geändert durch
+:   Art. 1 V v. 8.6.2026 I Nr. 171
+
 Stand: Ersetzt V 2032-1-37 v. 17.8.2010 I 1177, 1244 (AuslZuschlV 2010)
 
 ## Abschnitt 1 - Auslandszuschlag

@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 279
 
-Geändert durch
-:   Art. 1 V v. 17.12.2024 I Nr. 419
-
-Änderung durch
-:   Art. 1 V v. 8.6.2026 I Nr. 167 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 8.6.2026 I Nr. 167
 
 Stand: Ersetzt V 860-5-78 v. 7.10.2021 I 4634 (GIGV)
 
