@@ -33,7 +33,7 @@ und Technologie:
 
 
 ## § 1 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000204119)
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000205119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -218,22 +218,37 @@ Im Sinne dieser Verordnung sind:
 
 18. Milcherzeugnisse:
 
-    a)  Butter und andere Milchstreichfette im Sinne der Butterverordnung,
+    a)  Butter: Butter im Sinne des § 3 Absatz 1 Nummer 16 der
+        Milchproduktqualitätsverordnung,
 
 
-    b)  Käse und Erzeugnisse aus Käse im Sinne der Käseverordnung,
+    b)  Käse: Käse im Sinne des § 26 der Milchproduktqualitätsverordnung,
 
 
-    c)  Milcherzeugnisse im Sinne der Verordnung über Milcherzeugnisse,
+    c)  Erzeugnisse aus Käse: Erzeugnisse aus Käse im Sinne des § 34 der
+        Milchproduktqualitätsverordnung,
 
 
-    d)  sonstige Milcherzeugnisse,
+    d)  bestimmte andere Milchstreichfette: bestimmte andere Milchstreichfette
+        im Sinne des § 3 Absatz 1 Nummer 17 der
+        Milchproduktqualitätsverordnung,
 
 
-    e)  Mischfetterzeugnisse nach Nummer 11 sowie
+    e)  eingedickte Milch: eingedickte Milch im Sinne des § 3 Absatz 1 Nummer
+        27 der Milchproduktqualitätsverordnung,
 
 
-    f)  Zubereitungen von Mischfetterzeugnissen,
+    f)  Trockenmilch: Trockenmilch im Sinne des § 3 Absatz 1 Nummer 30 der
+        Milchproduktqualitätsverordnung,
+
+
+    g)  weitere Milcherzeugnisse: Milcherzeugnisse im Sinne der Anlage 8 der
+        Milchproduktqualitätsverordnung,
+
+
+    h)  sonstige Milcherzeugnisse: Milcherzeugnisse im Sinne des § 3 Absatz 1
+        Nummer 6 der Milchproduktqualitätsverordnung, soweit sie nicht unter
+        die Buchstaben a bis g fallen,
 
 
 
@@ -1080,7 +1095,7 @@ Erzeugniskategorie zu machen:
 
 
 ## § 5 Meldepflichten der Milchwirtschaft
-[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000605119)
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000606119)
 
 (1) Abnehmer von Milch haben monatliche Meldungen nach Maßgabe des § 6
 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben
@@ -1144,10 +1159,10 @@ Meldungen nach § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit
 folgenden Angaben abzugeben:
 
 1.  die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von
-    Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d,
-    gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des
-    jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in
-    Eiweißeinheiten, und zusätzlich bei
+    Milcherzeugnissen im Sinne des § 1 Nummer 18, gesondert nach dem
+    jeweiligen Erzeugnis in Kilogramm unter Angabe des jeweiligen
+    Fettgehalts in Fetteinheiten und des Eiweißgehalts in Eiweißeinheiten,
+    und zusätzlich bei
 
     a)  Konsummilch, Buttermilcherzeugnissen und Milchmischerzeugnissen auch
         untergliedert nach Gebindegrößen,
@@ -1165,10 +1180,10 @@ folgenden Angaben abzugeben:
 
 
 2.  für jede Gruppe von Milcherzeugnissen, im Fall von
-    Trockenmilcherzeugnissen, Butter, Milchfett- und
-    Milchstreichfetterzeugnissen gesondert nach dem jeweiligen Erzeugnis,
-    die zur Herstellung verarbeitete Menge an Vollmilch und an Magermilch
-    jeweils in Kilogramm,
+    Trockenmilcherzeugnissen und Butter gesondert nach dem jeweiligen
+    Erzeugnis, sowie für Mischfetterzeugnisse und Zubereitungen aus
+    Mischfetterzeugnissen die zur Herstellung verarbeitete Menge an
+    Vollmilch und an Magermilch jeweils in Kilogramm,
 
 
 3.  für Molkenerzeugnisse die verarbeitete Menge an Molke in Kilogramm
@@ -1296,7 +1311,7 @@ Buchstabe b der Durchführungsverordnung (EU) 2017/1185 abzugeben.
 
 
 ## § 5b Meldepflichten des Lebensmitteleinzelhandels
-[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE004101119)
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE004102119)
 
 (1) Unternehmen des Lebensmitteleinzelhandels haben die Angaben nach
 den Absätzen 4, 5 und 7 nach Maßgabe des § 6 Absatz 3 zu melden.
@@ -1353,7 +1368,7 @@ zu melden für
     abgepackt, oder tiefgefroren in Packungen bis zu 500 Gramm,
 
 
-5.  Deutsche Markenbutter, geformt, in Packungen von 250 Gramm,
+5.  Markenbutter, geformt, in Packungen von 250 Gramm,
 
 
 6.  schnittfesten Mozzarella mit mindestens 45 Prozent Trockenmasse,

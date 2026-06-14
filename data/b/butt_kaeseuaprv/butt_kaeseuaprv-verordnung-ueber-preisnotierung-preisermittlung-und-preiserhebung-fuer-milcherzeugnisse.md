@@ -23,39 +23,39 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000202308)
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000203119)
 
 (1) Im Sinne dieser Verordnung sind
 
-1.  Butter: Markenbutter im Sinne der Butterverordnung,
+1.  Milcherzeugnis: ein Milcherzeugnis im Sinne des § 3 Absatz 1 Nummer 6
+    der Milchproduktqualitätsverordnung,
 
 
-2.  Käse: Käse im Sinne der Käseverordnung,
+2.  Markenbutter: Markenbutter im Sinne des § 15 Absatz 1 der
+    Milchproduktqualitätsverordnung,
 
 
-3.  andere Milcherzeugnisse: Milcherzeugnisse im Sinne der
-    Milcherzeugnisverordnung, soweit in dieser Verordnung nicht
-    ausdrücklich etwas anderes bestimmt ist.
+3.  Käse: Käse im Sinne des § 26 der Milchproduktqualitätsverordnung.
 
 
 
 
 (2) Im Sinne dieser Verordnung sind ferner
 
-1.  Hersteller: Unternehmen, die Butter, Käse oder andere Milcherzeugnisse
-    herstellen und direkt an Absatzzentralen, Händler, Verarbeiter oder
-    Verpacker liefern,
+1.  Hersteller: Unternehmen, die Markenbutter, Käse oder andere
+    Milcherzeugnisse herstellen und direkt an Absatzzentralen, Händler,
+    Verarbeiter oder Verpacker liefern,
 
 
-2.  Absatzzentralen: Unternehmen, die anstelle von Herstellern Butter,
-    Käse oder andere Milcherzeugnisse direkt an andere Absatzzentralen,
-    Händler, Verarbeiter oder Verpacker liefern,
+2.  Absatzzentralen: Unternehmen, die anstelle von Herstellern
+    Markenbutter, Käse oder andere Milcherzeugnisse direkt an andere
+    Absatzzentralen, Händler, Verarbeiter oder Verpacker liefern,
 
 
-3.  Händler: Unternehmen, die Butter, Käse oder andere Milcherzeugnisse an
-    eigene Niederlassungen oder Filialen oder an Wiederverkäufer,
-    Verarbeiter, Verpacker, gewerbliche Verwender oder Großverbraucher
-    liefern, ohne Hersteller oder Absatzzentrale zu sein.
+3.  Händler: Unternehmen, die Markenbutter, Käse oder andere
+    Milcherzeugnisse an eigene Niederlassungen oder Filialen oder an
+    Wiederverkäufer, Verarbeiter, Verpacker, gewerbliche Verwender oder
+    Großverbraucher liefern, ohne Hersteller oder Absatzzentrale zu sein.
 
 
 
@@ -171,7 +171,7 @@ dem jeweiligen Abstimmungsverhältnis enthält.
 
 
 ## § 5 Inhalt und Veröffentlichung der Notierung
-[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000602308)
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000603119)
 
 (1) Die Notierungskommission hat auf der Grundlage von freiwilligen
 Preismeldungen der Käufer und Verkäufer die Preise und die
@@ -184,7 +184,9 @@ und Ernährung mitzuteilen.
 Anlage I genannten, in Deutschland hergestellten Milcherzeugnisse.
 Eine Notierung der Preise der in Anlage I genannten Milcherzeugnisse
 anderer Herkunft sowie weiterer Milcherzeugnisse kann in der
-Geschäftsordnung festgelegt werden.
+Geschäftsordnung festgelegt werden. Eine Festlegung nach Satz 2 darf
+nicht erfolgen, sofern für Milcherzeugnisse Meldungen in der
+Marktordnungswaren-Meldeverordnung geregelt sind.
 
 (3) Die Notierungskommission stellt für jedes zu notierende
 Milcherzeugnis fest
@@ -300,10 +302,11 @@ bleiben unberührt.
 
 (zu § 4 Absatz 1 Satz 2)
 
-## Anlage I Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
-[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001302308)
+## Anlage I Liste für Preisnotierungen
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001303119)
 
-(Fundstelle: BGBl. I 2011, 1024)
+(Fundstelle: BGBl. I 2011, 1024;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Markenbutter
 
@@ -334,10 +337,11 @@ bleiben unberührt.
 
 (zu § 6 Absatz 1 Satz 1)
 
-## Anlage II Liste für repräsentative Preisermittlung der ZMP
-[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001402308)
+## Anlage II Liste für die repräsentative Preisermittlung
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001403119)
 
-(Fundstelle: BGBl. I 2011, 1024)
+(Fundstelle: BGBl. I 2011, 1024;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Magermilchpulver, Lebensmittel- und Futtermittelqualität
 
@@ -350,11 +354,13 @@ bleiben unberührt.
 
 
 
+(zu § 6a Absatz 1 Satz 1)
 
-## Anlage III (zu § 6a Absatz 1 Satz 1)
-[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001701308)
+## Anlage III Liste für die repräsentative Preiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001702119)
 
-(Fundstelle: BGBl. I 2011, 1024)
+(Fundstelle: BGBl. I 2011, 1024;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Käse
 
