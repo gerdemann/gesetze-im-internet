@@ -463,14 +463,13 @@ regeln.
 
 
 ### § 7 Beauftragung Dritter mit der Erstellung von Spezifikationen
-[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000801131)
 
 (1) Das Kompetenzzentrum kann fachlich geeignete natürliche Personen
 oder fachlich geeignete juristische Personen des öffentlichen oder
-privaten Rechts mit der Spezifikation von technischen, semantischen
-und syntaktischen Standards, Profilen, Leitfäden,
-Informationsmodellen, Referenzarchitekturen und Softwarekomponenten
-beauftragen.
+privaten Rechts mit der Erstellung und Fortschreibung von
+Spezifikationen nach § 384 Satz 1 Nummer 7 des Fünften Buches
+Sozialgesetzbuch beauftragen.
 
 (2) Fachlich geeignet ist, wer die technischen, organisatorischen und
 wirtschaftlichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt, die
@@ -712,7 +711,7 @@ andernfalls lehnt das Kompetenzzentrum den Antrag ab.
 
 
 ### § 14 Zertifikat
-[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001501131)
 
 (1) Ein informationstechnisches System wird zertifiziert, wenn es die
 in Anlage 1 verbindlich festgelegten Anforderungen erfüllt.
@@ -755,12 +754,19 @@ in Anlage 1 verbindlich festgelegten Anforderungen erfüllt.
 Antragsteller in elektronischer Form bekannt gegeben.
 
 (4) Die Angaben über gestellte Anträge, die Ausstellung, die
-Versagung, die Rücknahme oder den Widerruf eines Zertifikats sind vom
-Kompetenzzentrum auf der Plattform nach § 6 zu veröffentlichen.
+Verlängerung, die Versagung, die Rücknahme oder den Widerruf eines
+Zertifikats sind vom Kompetenzzentrum auf der Plattform nach § 6 zu
+veröffentlichen.
 
-(5) Auf die Rücknahme oder den Widerruf der Ausstellung eines
-Zertifikats sind die §§ 48 und 49 des Verwaltungsverfahrensgesetzes
-anzuwenden.
+(5) Die Gültigkeitsdauer des Zertifikats nach Absatz 2 Nummer 4 kann
+durch das Kompetenzzentrum auf Antrag eines Herstellers oder Anbieters
+im Verfahren nach § 387 Absatz 1 des Fünften Buches Sozialgesetzbuch
+und innerhalb des Rahmens des § 387 Absatz 4 Satz 1 des Fünften Buches
+Sozialgesetzbuch verlängert werden, soweit und solange ein bereits
+zertifiziertes informationstechnisches System mit den geltenden
+Interoperabilitätsanforderungen übereinstimmt. Auf die Rücknahme oder
+den Widerruf der Ausstellung eines Zertifikats sind die §§ 48 und 49
+des Verwaltungsverfahrensgesetzes anzuwenden.
 
 (6) Die beim Kompetenzzentrum beschäftigten oder von ihm beauftragten
 Personen dürfen bei ihrer Tätigkeit erhaltene vertrauliche
@@ -981,13 +987,12 @@ Bundesministerium für Gesundheit auf der Wissensplattform.
 
 
 ### § 19 Evaluation
-[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002001131)
 
 Das Bundesministerium für Gesundheit beauftragt eine externe
 Forschungseinrichtung mit der Evaluation des Kompetenzzentrums und der
 Erfüllung seiner Aufgaben nach § 2 Absatz 2. Das Evaluationsgutachten
-soll alle drei Jahre, zum ersten Mal zum 30. September 2026,
-vorliegen.
+soll alle drei Jahre, zum ersten Mal zum 31. März 2028, vorliegen.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
@@ -1000,7 +1005,7 @@ Gleichzeitig tritt die IOP-Governance-Verordnung vom 7. Oktober 2021
 (zu § 13 Absatz 1 Satz 1)
 
 ### Anlage 1 Verbindlich festgelegte Anforderungen
-[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002200000)
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002201131)
 
 (Fundstelle: BGBl. 2024 I Nr. 279, S. 11)
 
@@ -1072,6 +1077,9 @@ Datum (Inkrafttreten dieser Verordnung): 14.09.2024
     *   Praxisverwaltungssysteme (PVS),
 
 
+*    *
+    *
+
 *    *   2.
 
     *   Zahnärzt-
@@ -1088,6 +1096,31 @@ Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 
     *   Apothekenverwaltungs-
         systeme (AVS)
+
+
+*    *   002
+
+    *   IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für
+        informationstechnische Systeme in Krankenhäusern
+
+    *   Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der
+        Interoperabilität zwischen informationstechnischen Systemen im
+        Krankenhaus (ISiK) Stufe 5
+
+    *   1.0.0
+
+    *
+    *   15.06.2026
+
+    *   31.05.2027
+
+    *   § 373
+        Absatz 1 Satz 3
+        Fünftes Buch
+        Sozialgesetzbuch
+
+    *
+    *   Krankenhausinformationssysteme (KIS)
 
 
 
