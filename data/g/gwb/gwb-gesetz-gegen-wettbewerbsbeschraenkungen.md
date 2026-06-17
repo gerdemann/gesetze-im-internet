@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.4.2026 I Nr. 119
-
-Änderung durch
-:   Art. 1 G v. 12.5.2026 I Nr. 137 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 12.5.2026 I Nr. 137
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
