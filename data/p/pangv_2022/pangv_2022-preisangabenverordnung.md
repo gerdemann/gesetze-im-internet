@@ -218,7 +218,7 @@ die Zahl der Portionen zusätzlich zur Gesamtfüllmenge angegeben ist.
 
 
 ### § 6 Preisangaben bei Fernabsatzverträgen
-[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000700000)
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000701128)
 
 (1) Wer als Unternehmer Verbrauchern Waren oder Leistungen zum
 Abschluss eines Fernabsatzvertrages anbietet, hat zusätzlich zu den
@@ -240,7 +240,7 @@ sonstige Kosten an, so ist deren Höhe anzugeben, soweit diese Kosten
 vernünftigerweise im Voraus berechnet werden können.
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden auf die in § 312 Absatz
-2 Nummer 2, 3, 6, 9 und 10 und Absatz 6 des Bürgerlichen Gesetzbuchs
+2 Nummer 2, 3, 6, 9 und 10 und Absatz 4 des Bürgerlichen Gesetzbuchs
 genannten Verträge.
 
 

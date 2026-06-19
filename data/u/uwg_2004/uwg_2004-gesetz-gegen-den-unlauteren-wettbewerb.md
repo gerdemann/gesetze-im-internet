@@ -304,7 +304,7 @@ die Zwangslage von Verbrauchern.
 
 
 ### § 5 Irreführende geschäftliche Handlungen
-[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000505360)
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000506129)
 
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung
 vornimmt, die geeignet ist, den Verbraucher oder sonstigen
@@ -386,6 +386,9 @@ eines Preises zu werben, sofern der Preis nur für eine unangemessen
 kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem
 Zeitraum der Preis gefordert worden ist, so trifft die Beweislast
 denjenigen, der mit der Preisherabsetzung geworben hat.
+
+(6) Eine geschäftliche Handlung, die gegen § 312d Absatz 2 Satz 2 des
+Bürgerlichen Gesetzbuchs verstößt, ist irreführend.
 
 
 ### § 5a Irreführung durch Unterlassen

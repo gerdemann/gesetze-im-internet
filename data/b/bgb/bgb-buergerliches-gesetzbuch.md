@@ -5784,7 +5784,7 @@ der Sache.
 
 
 ###### § 312 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260908360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260909129)
 
 (1) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind auf
 Verbraucherverträge anzuwenden, bei denen sich der Verbraucher zu der
@@ -5802,20 +5802,14 @@ verarbeitet.
 (2) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist
 nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
 
-1.  notariell beurkundete Verträge
-
-    a)  über Finanzdienstleistungen, die außerhalb von Geschäftsräumen
-        geschlossen werden,
-
-
-    b)  die keine Verträge über Finanzdienstleistungen sind; für Verträge, für
-        die das Gesetz die notarielle Beurkundung des Vertrags oder einer
-        Vertragserklärung nicht vorschreibt, gilt dies nur, wenn der Notar
-        darüber belehrt, dass die Informationspflichten nach § 312d Absatz 1
-        und das Widerrufsrecht nach § 312g Absatz 1 entfallen,
-
-
-
+1.  Notariell beurkundete Verträge mit Ausnahme von Fernabsatzverträgen
+    über Bankdienstleistungen sowie Dienstleistungen im Zusammenhang mit
+    einer Kreditgewährung, Versicherung, Altersversorgung von
+    Einzelpersonen, Geldanlage oder Zahlung (Finanzdienstleistungen); für
+    Verträge, für die das Gesetz die notarielle Beurkundung des Vertrags
+    oder einer Vertragserklärung nicht vorschreibt, gilt dies nur, wenn
+    der Notar darüber belehrt, dass die Informationspflichten nach § 312d
+    Absatz 1 und das Widerrufsrecht nach § 312g Absatz 1 entfallen,
 
 
 2.  Verträge über die Begründung, den Erwerb oder die Übertragung von
@@ -5825,10 +5819,12 @@ nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
 3.  Verbraucherbauverträge nach § 650i Absatz 1,
 
 
-4.  (weggefallen)
+4.  Verträge über soziale Dienstleistungen wie Kinderbetreuung oder
+    Unterstützung von dauerhaft oder vorübergehend hilfsbedürftigen
+    Familien oder Personen, einschließlich Langzeitpflege,
 
 
-5.  (weggefallen)
+5.  Verträge über die Vermietung von Wohnraum,
 
 
 6.  Verträge über Teilzeit-Wohnrechte, langfristige Urlaubsprodukte,
@@ -5861,78 +5857,60 @@ nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
 12. außerhalb von Geschäftsräumen geschlossene Verträge, bei denen die
     Leistung bei Abschluss der Verhandlungen sofort erbracht und bezahlt
     wird und das vom Verbraucher zu zahlende Entgelt 40 Euro nicht
-    überschreitet, und
+    überschreitet,
 
 
 13. Verträge über den Verkauf beweglicher Sachen auf Grund von
-    Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen.
+    Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen und
+
+
+14. Verträge über die Beförderung von Personen; hier findet auch § 312a
+    Absatz 5 Anwendung.
 
 
 
 
-(3) Auf Verträge über soziale Dienstleistungen, wie Kinderbetreuung
-oder Unterstützung von dauerhaft oder vorübergehend hilfsbedürftigen
-Familien oder Personen, einschließlich Langzeitpflege, sind von den
-Vorschriften der Kapitel 1 und 2 dieses Untertitels nur folgende
-anzuwenden:
+(3) Auf Verträge über soziale Dienstleistungen (Absatz 2 Nummer 4) und
+auf Verträge über die Vermietung von Wohnraum (Absatz 2 Nummer 5) sind
+von den Vorschriften der Kapitel 1 und 2 dieses Untertitels zudem
+folgende Vorschriften anzuwenden:
 
-1.  die Definitionen der außerhalb von Geschäftsräumen geschlossenen
-    Verträge und der Fernabsatzverträge nach den §§ 312b und 312c,
-
-
-2.  § 312a Absatz 1 über die Pflicht zur Offenlegung bei Telefonanrufen,
+1.  die §§ 312b und 312c hinsichtlich der dort geregelten
+    Begriffsbestimmungen zu außerhalb von Geschäftsräumen geschlossenen
+    Verträgen und Fernabsatzverträgen,
 
 
-3.  § 312a Absatz 3 über die Wirksamkeit der Vereinbarung, die auf eine
-    über das vereinbarte Entgelt für die Hauptleistung hinausgehende
-    Zahlung gerichtet ist,
-
-
-4.  § 312a Absatz 4 über die Wirksamkeit der Vereinbarung eines Entgelts
-    für die Nutzung von Zahlungsmitteln,
-
-
-5.  § 312a Absatz 6,
-
-
-6.  § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 2 und 3 des
+2.  § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 2 und 3 des
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche über die Pflicht zur
-    Information über das Widerrufsrecht und
+    Information über das Widerrufsrecht,
 
 
-7.  § 312g über das Widerrufsrecht.
+3.  § 312g über das Widerrufsrecht.
 
 
 
+Die in Satz 1 Nummer 1 bis 3 genannten Bestimmungen sind jedoch nicht
+auf die Begründung eines Mietverhältnisses über Wohnraum anzuwenden,
+wenn der Mieter die Wohnung zuvor besichtigt hat.
 
-(4) Auf Verträge über die Vermietung von Wohnraum sind von den
-Vorschriften der Kapitel 1 und 2 dieses Untertitels nur die in Absatz
-3 Nummer 1 bis 7 genannten Bestimmungen anzuwenden. Die in Absatz 3
-Nummer 1, 6 und 7 genannten Bestimmungen sind jedoch nicht auf die
-Begründung eines Mietverhältnisses über Wohnraum anzuwenden, wenn der
-Mieter die Wohnung zuvor besichtigt hat.
+(4) Auf Verträge über Versicherungen sowie auf Verträge über deren
+Vermittlung ist von den Vorschriften der Kapitel 1 und 2 dieses
+Untertitels nur § 312a Absatz 3 bis 6 anzuwenden.
 
-(5) Bei Vertragsverhältnissen über Bankdienstleistungen sowie
-Dienstleistungen im Zusammenhang mit einer Kreditgewährung,
-Versicherung, Altersversorgung von Einzelpersonen, Geldanlage oder
-Zahlung (Finanzdienstleistungen), die eine erstmalige Vereinbarung mit
-daran anschließenden aufeinanderfolgenden Vorgängen oder eine daran
-anschließende Reihe getrennter, in einem zeitlichen Zusammenhang
-stehender Vorgänge gleicher Art umfassen, sind die Vorschriften der
-Kapitel 1 und 2 dieses Untertitels nur auf die erste Vereinbarung
-anzuwenden. § 312a Absatz 1, 3, 4 und 6 ist daneben auf jeden Vorgang
-anzuwenden. Wenn die in Satz 1 genannten Vorgänge ohne eine solche
-Vereinbarung aufeinanderfolgen, gelten die Vorschriften über
+(5) Bei Vertragsverhältnissen über Finanzdienstleistungen, die eine
+erstmalige Vereinbarung mit daran anschließenden aufeinanderfolgenden
+Vorgängen oder eine daran anschließende Reihe getrennter, in einem
+zeitlichen Zusammenhang stehender Vorgänge gleicher Art umfassen, sind
+die Vorschriften der Kapitel 1 und 2 dieses Untertitels nur auf die
+erste Vereinbarung anzuwenden. § 312a Absatz 5 ist daneben auf jeden
+Vorgang anzuwenden. Wenn die in Satz 1 genannten Vorgänge ohne eine
+solche Vereinbarung aufeinanderfolgen, gelten die Vorschriften über
 Informationspflichten des Unternehmers nur für den ersten Vorgang.
 Findet jedoch länger als ein Jahr kein Vorgang der gleichen Art mehr
 statt, so gilt der nächste Vorgang als der erste Vorgang einer neuen
 Reihe im Sinne von Satz 3.
 
-(6) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist
-auf Verträge über Versicherungen sowie auf Verträge über deren
-Vermittlung nur § 312a Absatz 3, 4 und 6 anzuwenden.
-
-(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den
+(6) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den
 Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§
 312i, 312j Absatz 2 bis 5 und § 312m anzuwenden; diese Vorschriften
 finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der
@@ -5942,19 +5920,18 @@ Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf
 denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung
 des Verbrauchers geführt worden.
 
-(8) Auf Verträge über die Beförderung von Personen ist von den
-Vorschriften der Kapitel 1 und 2 dieses Untertitels nur § 312a Absatz
-1 und 3 bis 6 anzuwenden.
-
 
 ###### § 312a Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261005360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261006129)
 
 (1) Ruft der Unternehmer oder eine Person, die in seinem Namen oder
 Auftrag handelt, den Verbraucher an, um mit diesem einen Vertrag zu
 schließen, hat der Anrufer zu Beginn des Gesprächs seine Identität und
 gegebenenfalls die Identität der Person, für die er anruft, sowie den
-geschäftlichen Zweck des Anrufs offenzulegen.
+geschäftlichen Zweck des Anrufs offenzulegen. Bei Fernabsatzverträgen
+über Finanzdienstleistungen ist der Verbraucher vom Unternehmer in
+Kenntnis zu setzen, wenn der Anruf aufgezeichnet wird oder
+aufgezeichnet werden könnte.
 
 (2) Der Unternehmer ist verpflichtet, den Verbraucher nach Maßgabe des
 Artikels 246 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu
@@ -6071,8 +6048,8 @@ versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach
 § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 
-###### § 312d Informationspflichten
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261309360)
+###### § 312d Informationspflichten; Gestaltungspflichten bezüglich Online-Benutzeroberflächen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261310129)
 
 (1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei
 Fernabsatzverträgen ist der Unternehmer verpflichtet, den Verbraucher
@@ -6085,8 +6062,12 @@ vereinbart.
 (2) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei
 Fernabsatzverträgen über Finanzdienstleistungen ist der Unternehmer
 abweichend von Absatz 1 verpflichtet, den Verbraucher nach Maßgabe des
-Artikels 246b des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu
-informieren.
+Artikels 246b §§ 1 bis 3 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche zu informieren. Bei Fernabsatzverträgen über
+Finanzdienstleistungen ist der Unternehmer zudem verpflichtet, seine
+Online-Benutzeroberfläche nach Maßgabe des Artikels 246b § 4 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu konzipieren, zu
+organisieren und zu betreiben.
 
 
 ###### § 312e Verletzung von Informationspflichten über Kosten
@@ -6159,7 +6140,7 @@ Finanzdienstleistungen.
 
 
 ###### § 312g Widerrufsrecht
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261407123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261408129)
 
 (1) Dem Verbraucher steht bei außerhalb von Geschäftsräumen
 geschlossenen Verträgen und bei Fernabsatzverträgen ein Widerrufsrecht
@@ -6254,12 +6235,19 @@ vereinbart haben, nicht bei folgenden Verträgen:
 
 
 
-(3) Das Widerrufsrecht besteht ferner nicht bei Verträgen, bei denen
-dem Verbraucher bereits auf Grund der §§ 495, 506 bis 513 ein
-Widerrufsrecht nach § 355 zusteht, und nicht bei außerhalb von
-Geschäftsräumen geschlossenen Verträgen, bei denen dem Verbraucher
-bereits nach § 305 Absatz 1 bis 6 des Kapitalanlagegesetzbuchs ein
-Widerrufsrecht zusteht.
+(3) Das Widerrufsrecht besteht ferner nicht
+
+1.  bei Verträgen, bei denen dem Verbraucher bereits aufgrund der §§ 495,
+    506 bis 513 ein Widerrufsrecht nach § 355 zusteht,
+
+
+2.  bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen
+    dem Verbraucher bereits nach § 305 Absatz 1 bis 6 des
+    Kapitalanlagegesetzbuchs oder § 2d Absatz 1 bis 5 des
+    Vermögensanlagengesetzes ein Widerrufsrecht zusteht.
+
+
+
 
 
 ###### § 312h Kündigung und Vollmacht zur Kündigung
@@ -6458,22 +6446,19 @@ Verbrauchers zur außerordentlichen Kündigung bleibt hiervon unberührt.
 
 
 ###### § 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE289301360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE289302129)
 
 (1) Der Betreiber eines Online-Marktplatzes ist verpflichtet, den
 Verbraucher nach Maßgabe des Artikels 246d des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche zu informieren.
 
-(2) Absatz 1 gilt nicht, soweit auf dem Online-Marktplatz Verträge
-über Finanzdienstleistungen angeboten werden.
-
-(3) Online-Marktplatz ist ein Dienst, der es Verbrauchern ermöglicht,
+(2) Online-Marktplatz ist ein Dienst, der es Verbrauchern ermöglicht,
 durch die Verwendung von Software, die vom Unternehmer oder im Namen
 des Unternehmers betrieben wird, einschließlich einer Webseite, eines
 Teils einer Webseite oder einer Anwendung, Fernabsatzverträge mit
 anderen Unternehmern oder Verbrauchern abzuschließen.
 
-(4) Betreiber eines Online-Marktplatzes ist der Unternehmer, der einen
+(3) Betreiber eines Online-Marktplatzes ist der Unternehmer, der einen
 Online-Marktplatz für Verbraucher zur Verfügung stellt.
 
 
@@ -8034,7 +8019,7 @@ der Waren.
 
 
 ###### § 356 Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261906360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261907129)
 
 (1) Der Unternehmer kann dem Verbraucher die Möglichkeit einräumen,
 das Muster-Widerrufsformular nach Anlage 2 zu Artikel 246a § 1 Absatz
@@ -8086,13 +8071,22 @@ bestätigen.
 
 (3) Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den
 Verbraucher entsprechend den Anforderungen des Artikels 246a § 1
-Absatz 2 Satz 1 Nummer 1 oder des Artikels 246b § 2 Absatz 1 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. Das
-Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem
-in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt. Satz 2 ist
-auf Verträge über Finanzdienstleistungen nicht anwendbar.
+Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche unterrichtet hat. Bei Verträgen über
+Finanzdienstleistungen beginnt die Widerrufsfrist nicht, bevor der
+Verbraucher die Vertragsbestimmungen einschließlich der Allgemeinen
+Geschäftsbedingungen erhalten hat und der Unternehmer den Verbraucher
+entsprechend den Anforderungen des Artikels 246b § 2 Absatz 1 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat.
 
-(4) Das Widerrufsrecht erlischt bei Verträgen über die Erbringung von
+(4) Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage
+nach dem in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt.
+Bei Verträgen über Finanzdienstleistungen gilt Satz 1 nicht, wenn der
+Verbraucher nicht nach Artikel 246b § 1 Absatz 1 Nummer 16 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein
+Widerrufsrecht belehrt wurde.
+
+(5) Das Widerrufsrecht erlischt bei Verträgen über die Erbringung von
 Dienstleistungen auch unter folgenden Voraussetzungen:
 
 1.  bei einem Vertrag, der den Verbraucher nicht zur Zahlung eines Preises
@@ -8135,7 +8129,7 @@ Dienstleistungen auch unter folgenden Voraussetzungen:
 
 
 
-(5) Das Widerrufsrecht erlischt bei Verträgen über die Bereitstellung
+(6) Das Widerrufsrecht erlischt bei Verträgen über die Bereitstellung
 von nicht auf einem körperlichen Datenträger befindlichen digitalen
 Inhalten auch unter folgenden Voraussetzungen:
 
@@ -8169,8 +8163,88 @@ Inhalten auch unter folgenden Voraussetzungen:
 
 
 
-###### § 356a Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273401123)
+###### § 356a Elektronische Widerrufsfunktion bei Fernabsatzverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273402129)
+
+(1) Bei Fernabsatzverträgen, die über eine Online-Benutzeroberfläche
+geschlossen werden, hat der Unternehmer sicherzustellen, dass der
+Verbraucher auf der Online-Benutzeroberfläche durch das Nutzen einer
+Widerrufsfunktion eine Widerrufserklärung abgeben kann. Die
+Widerrufsfunktion muss gut lesbar mit „Vertrag widerrufen“ oder einer
+anderen gleichbedeutenden eindeutigen Formulierung beschriftet sein.
+Sie muss während des Laufs der Widerrufsfrist auf der Online-
+Benutzeroberfläche ständig verfügbar, hervorgehoben platziert und für
+den Verbraucher leicht zugänglich sein.
+
+(2) Die Widerrufsfunktion muss dem Verbraucher ermöglichen, eine
+Widerrufserklärung an den Unternehmer zu übermitteln und dem
+Unternehmer in oder mit der Widerrufserklärung ohne Weiteres folgende
+Informationen bereitzustellen oder zu bestätigen:
+
+1.  den Namen des Verbrauchers,
+
+
+2.  Angaben zur Identifizierung des Vertrags oder des Teils des Vertrags,
+    den der Verbraucher widerrufen möchte,
+
+
+3.  Angaben zum elektronischen Kommunikationsmittel, mit welchem dem
+    Verbraucher eine Eingangsbestätigung für den Widerruf zu übermitteln
+    ist.
+
+
+
+
+(3) Sobald der Verbraucher die Informationen nach Absatz 2
+bereitgestellt oder bestätigt hat, hat der Unternehmer dem Verbraucher
+zu ermöglichen, seine Widerrufserklärung und die Informationen dem
+Unternehmer mittels einer Bestätigungsfunktion zu übermitteln. Diese
+Bestätigungsfunktion muss gut lesbar und mit „Widerruf bestätigen“
+oder einer anderen gleichbedeutenden eindeutigen Formulierung
+beschriftet sein.
+
+(4) Der Unternehmer hat dem Verbraucher, wenn dieser die
+Bestätigungsfunktion aktiviert hat, auf einem dauerhaften Datenträger
+unverzüglich eine Eingangsbestätigung zu übermitteln, die zumindest
+den Inhalt der Widerrufserklärung nach Absatz 2 sowie das Datum und
+die Uhrzeit ihres Eingangs enthält.
+
+(5) Die Widerrufserklärung des Verbrauchers gilt als dem Unternehmer
+innerhalb der Widerrufsfrist zugegangen, wenn er die
+Widerrufserklärung nach Absatz 3 vor Ablauf dieser Frist über die
+Widerrufsfunktion versandt hat.
+
+
+###### § 356b Widerrufsrecht bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273501123)
+
+(1) Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber
+dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den
+schriftlichen Antrag des Darlehensnehmers oder eine Abschrift der
+Vertragsurkunde oder seines Antrags zur Verfügung gestellt hat.
+
+(2) Enthält bei einem Allgemein-Verbraucherdarlehensvertrag die dem
+Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die
+Pflichtangaben nach § 492 Absatz 2 nicht, beginnt die Frist erst mit
+Nachholung dieser Angaben gemäß § 492 Absatz 6. Enthält bei einem
+Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach
+Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben zum
+Widerrufsrecht nach § 492 Absatz 2 in Verbindung mit Artikel 247 § 6
+Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht,
+beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492
+Absatz 6. In den Fällen der Sätze 1 und 2 beträgt die Widerrufsfrist
+einen Monat. Das Widerrufsrecht bei einem Immobiliar-
+Verbraucherdarlehensvertrag erlischt spätestens zwölf Monate und 14
+Tage nach dem Vertragsschluss oder nach dem in Absatz 1 genannten
+Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
+
+(3) Die Widerrufsfrist beginnt im Falle des § 494 Absatz 7 bei einem
+Allgemein-Verbraucherdarlehensvertrag erst, wenn der Darlehensnehmer
+die dort bezeichnete Abschrift des Vertrags erhalten hat.
+
+
+###### § 356c Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273601129)
 
 (1) Der Widerruf ist in Textform zu erklären.
 
@@ -8208,36 +8282,8 @@ Wohnrechtevertrag geltenden Zeitpunkt. Die Absätze 3 und 4 gelten
 entsprechend.
 
 
-###### § 356b Widerrufsrecht bei Verbraucherdarlehensverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273501123)
-
-(1) Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber
-dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den
-schriftlichen Antrag des Darlehensnehmers oder eine Abschrift der
-Vertragsurkunde oder seines Antrags zur Verfügung gestellt hat.
-
-(2) Enthält bei einem Allgemein-Verbraucherdarlehensvertrag die dem
-Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die
-Pflichtangaben nach § 492 Absatz 2 nicht, beginnt die Frist erst mit
-Nachholung dieser Angaben gemäß § 492 Absatz 6. Enthält bei einem
-Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach
-Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben zum
-Widerrufsrecht nach § 492 Absatz 2 in Verbindung mit Artikel 247 § 6
-Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht,
-beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492
-Absatz 6. In den Fällen der Sätze 1 und 2 beträgt die Widerrufsfrist
-einen Monat. Das Widerrufsrecht bei einem Immobiliar-
-Verbraucherdarlehensvertrag erlischt spätestens zwölf Monate und 14
-Tage nach dem Vertragsschluss oder nach dem in Absatz 1 genannten
-Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
-
-(3) Die Widerrufsfrist beginnt im Falle des § 494 Absatz 7 bei einem
-Allgemein-Verbraucherdarlehensvertrag erst, wenn der Darlehensnehmer
-die dort bezeichnete Abschrift des Vertrags erhalten hat.
-
-
-###### § 356c Widerrufsrecht bei Ratenlieferungsverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273600360)
+###### § 356d Widerrufsrecht bei Ratenlieferungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274601129)
 
 (1) Bei einem Ratenlieferungsvertrag, der weder im Fernabsatz noch
 außerhalb von Geschäftsräumen geschlossenen wird, beginnt die
@@ -8250,8 +8296,19 @@ spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2
 genannten Zeitpunkt.
 
 
-###### § 356d Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274600123)
+###### § 356e Widerrufsrecht bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275701129)
+
+Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die
+Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß
+Artikel 249 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+über sein Widerrufsrecht belehrt hat. Das Widerrufsrecht erlischt
+spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2
+genannten Zeitpunkt.
+
+
+###### § 356f Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275702129)
 
 Bei einem Vertrag, durch den ein Unternehmer einem Verbraucher ein
 unentgeltliches Darlehen oder eine unentgeltliche Finanzierungshilfe
@@ -8261,17 +8318,6 @@ Anforderungen des § 514 Absatz 2 Satz 3 über dessen Widerrufsrecht
 unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate
 und 14 Tage nach dem Vertragsschluss oder nach dem in Satz 1 genannten
 Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
-
-
-###### § 356e Widerrufsrecht bei Verbraucherbauverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275700123)
-
-Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die
-Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß
-Artikel 249 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
-über sein Widerrufsrecht belehrt hat. Das Widerrufsrecht erlischt
-spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2
-genannten Zeitpunkt.
 
 
 ###### § 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
@@ -8466,7 +8512,7 @@ Marktwertes der erbrachten Leistung zu berechnen.
 
 
 ###### § 358 Mit dem widerrufenen Vertrag verbundener Vertrag
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262109360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262110360)
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags über
 die Lieferung einer Ware oder die Erbringung einer anderen Leistung
@@ -8509,7 +8555,7 @@ Vertrags, § 357 Absatz 1 bis 3 sowie 5 bis 8 und die §§ 357a bis 357c
 entsprechend anzuwenden. Ist der verbundene Vertrag ein Vertrag über
 die Lieferung von nicht auf einem körperlichen Datenträger
 befindlichen digitalen Inhalten, hat der Verbraucher abweichend von §
-357a Absatz 3 unter den Voraussetzungen des § 356 Absatz 5 Nummer 2
+357a Absatz 3 unter den Voraussetzungen des § 356 Absatz 6 Nummer 2
 Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu
 leisten. Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb
 von Geschäftsräumen geschlossener Ratenlieferungsvertrag, so sind
@@ -10948,7 +10994,7 @@ Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht
 
 
 ###### § 491 Verbraucherdarlehensvertrag
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048508360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048509129)
 
 (1) Die Vorschriften dieses Kapitels gelten für
 Verbraucherdarlehensverträge, soweit nichts anderes bestimmt ist.
@@ -11008,8 +11054,8 @@ einem Verbraucher als Darlehensnehmer, die
 
 Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß
 Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge
-gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar.
-Keine Immobiliar-Verbraucherdarlehensverträge sind
+gemäß Absatz 2 Satz 2 Nummer 5 sind nur § 491a Absatz 4 und § 495
+Absatz 4 anwendbar. Keine Immobiliar-Verbraucherdarlehensverträge sind
 Immobilienverzehrkreditverträge, bei denen der Kreditgeber
 
 1.  pauschale oder regelmäßige Zahlungen leistet oder andere Formen der
@@ -11038,7 +11084,7 @@ angepasst werden können.
 
 
 ###### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264801123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264802129)
 
 (1) Der Darlehensgeber ist verpflichtet, den Darlehensnehmer nach
 Maßgabe des Artikels 247 des Einführungsgesetzes zum Bürgerlichen
@@ -11074,8 +11120,7 @@ Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung
 auf einem dauerhaften Datenträger über die Merkmale gemäß den
 Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu
-informieren. Artikel 247 § 1 Absatz 2 Satz 6 des Einführungsgesetzes
-zum Bürgerlichen Gesetzbuche findet Anwendung.
+informieren.
 
 
 ###### § 492 Schriftform, Vertragsinhalt
@@ -11395,7 +11440,7 @@ sind, die sich aus den Absätzen 2 bis 6 ergeben.
 
 
 ###### § 495 Widerrufsrecht; Bedenkzeit
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048907123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048908129)
 
 (1) Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag
 ein Widerrufsrecht nach § 355 zu.
@@ -11426,9 +11471,19 @@ der Frist ist der Darlehensgeber an sein Angebot gebunden. Die
 Bedenkzeit beginnt mit der Aushändigung des Vertragsangebots an den
 Darlehensnehmer.
 
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen entsprechend § 491
+Absatz 2 Satz 2 Nummer 5, die im Fernabsatz oder außerhalb von
+Geschäftsräumen abgeschlossen werden, richtet sich das Widerrufsrecht
+nach § 312g. Die Widerrufsfrist beginnt nicht, bevor der Unternehmer
+den Verbraucher über die Merkmale gemäß den Abschnitten 3, 4 und 13
+des in Artikel 247 § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche genannten Musters und entsprechend Artikel
+246b § 1 Absatz 1 Nummer 16 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche unterrichtet hat.
+
 
 ###### § 496 Einwendungsverzicht, Wechsel- und Scheckverbot
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049006123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049007129)
 
 (1) Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht
 verzichtet, Einwendungen, die ihm gegenüber dem Darlehensgeber
@@ -11440,7 +11495,7 @@ auch dem Abtretungsgläubiger gegenüber aufzurechnen, ist unwirksam.
 Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in
 der Person des Darlehensgebers ein Wechsel statt, ist der
 Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des
-neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 3 und 4 des
+neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 2 und 4 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. Die
 Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige
 Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im
@@ -18532,7 +18587,7 @@ Reisenden in Kenntnis zu setzen.
 
 
 ###### § 651w Vermittlung verbundener Reiseleistungen
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279900123)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279901129)
 
 (1) Ein Unternehmer ist Vermittler verbundener Reiseleistungen, wenn
 er für den Zweck derselben Reise, die keine Pauschalreise ist,
@@ -18600,7 +18655,7 @@ sind entsprechend anzuwenden.
 
 (4) Erfüllt der Vermittler verbundener Reiseleistungen seine Pflichten
 aus den Absätzen 2 und 3 nicht, finden auf das Rechtsverhältnis
-zwischen ihm und dem Reisenden § 312 Absatz 7 Satz 2 sowie die §§
+zwischen ihm und dem Reisenden § 312 Absatz 6 Satz 2 sowie die §§
 651e, 651h bis 651q und 651v Absatz 4 entsprechende Anwendung.
 
 (5) Kommen infolge der Vermittlung nach Absatz 1 ein oder mehrere

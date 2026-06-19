@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 341
 
+V aufgeh. durch
+:   § 4 V 603-9-50-2 v. 12.6.2026 I Nr. 177 mWv 25.6.2026
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/finausglg2019dv_1/BJNR034100019.html#BJNR034100019BJNE000100000)

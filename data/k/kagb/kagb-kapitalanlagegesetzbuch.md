@@ -21446,7 +21446,7 @@ späteren Zahlungen gleichmäßig verteilt werden.
 
 
 ##### § 305 Widerrufsrecht
-[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030605128)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030606128)
 
 (1) Ist der Käufer von Anteilen oder Aktien eines offenen
 Investmentvermögens durch mündliche Verhandlungen außerhalb der
@@ -21457,9 +21457,9 @@ Erklärung nur gebunden, wenn er sie nicht innerhalb einer Frist von
 zwei Wochen bei der Verwaltungsgesellschaft oder einem Repräsentanten
 im Sinne des § 319 in Textform widerruft; dies gilt auch dann, wenn
 derjenige, der die Anteile oder Aktien verkauft oder den Verkauf
-vermittelt, keine ständigen Geschäftsräume hat. Bei
-Fernabsatzgeschäften gilt § 312g Absatz 2 Nummer 8 des Bürgerlichen
-Gesetzbuchs entsprechend.
+vermittelt, keine ständigen Geschäftsräume hat. Das Widerrufsrecht bei
+Fernabsatzverträgen (§ 312c des Bürgerlichen Gesetzbuchs) richtet sich
+nach dem Bürgerlichen Gesetzbuch.
 
 (2) Zur Wahrung der Frist genügt die rechtzeitige Absendung der
 Widerrufserklärung. Die Widerrufsfrist beginnt erst zu laufen, wenn

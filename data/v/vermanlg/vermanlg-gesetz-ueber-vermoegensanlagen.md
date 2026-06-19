@@ -415,7 +415,7 @@ anwendbar, die ausgegeben werden von
 
 
 ### § 2d Widerrufsrecht
-[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003700360)
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003701129)
 
 (1) Der Anleger ist an seine Willenserklärung, die auf den Abschluss
 eines Vertrags über eine Vermögensanlage im Sinne der §§ 2a bis 2c
@@ -445,6 +445,10 @@ Gegenleistung gegenüber dem Anleger zu erbringen.
 
 (5) Von den Vorschriften dieses Paragraphen darf nicht zum Nachteil
 des Anlegers abgewichen werden.
+
+(6) Das Widerrufsrecht bei Fernabsatzverträgen (§ 312c des
+Bürgerlichen Gesetzbuchs) richtet sich nach dem Bürgerlichen
+Gesetzbuch.
 
 
 ### § 3 Aufsicht, Anordnungsbefugnis
