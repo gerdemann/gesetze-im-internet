@@ -3621,7 +3621,8 @@ Abschnitt I
 *    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3d in Verbindung mit § 2
         Absatz 1a Nummer 1 und Absatz 2 Nummer 1
 
-    *
+    *   (1)
+
     *
     *
     *   *§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 23a des AZR-Gesetzes*
@@ -4087,8 +4088,7 @@ Abschnitt I
         festgestellt am für den Zielstaat/
         die Zielstaaten
 
-    *   (2)
-
+    *
     *   (2)
 
     *
@@ -4128,8 +4128,7 @@ Abschnitt I
         widerrufen/
         zurückgenommen am
 
-    *   (3)
-
+    *
     *   (2)
 
     *
@@ -4305,7 +4304,8 @@ Abschnitt I
 
 *    *   Asyl
 
-    *
+    *   (2)
+
     *
     *
     *
@@ -4328,7 +4328,8 @@ Abschnitt I
 
 *    *   Asyl
 
-    *
+    *   (3)
+
     *
     *
     *
