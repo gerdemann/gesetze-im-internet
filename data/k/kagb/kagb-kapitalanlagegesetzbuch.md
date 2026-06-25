@@ -15930,7 +15930,7 @@ Rechtsgeschäfts wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
 
 #### § 206 Emittentengrenzen
-[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037900123)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037901128)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf in Wertpapiere und
 Geldmarktinstrumente desselben Emittenten nur bis zu 5 Prozent des
@@ -15938,12 +15938,25 @@ Wertes des inländischen OGAW anlegen; in diesen Werten dürfen jedoch
 bis zu 10 Prozent des Wertes des inländischen OGAW angelegt werden,
 wenn dies in den Anlagebedingungen vorgesehen ist und der Gesamtwert
 der Wertpapiere und Geldmarktinstrumente dieser Emittenten 40 Prozent
-des Wertes des inländischen OGAW nicht übersteigt. Die Emittenten von
-Wertpapieren und Geldmarktinstrumenten sind auch dann im Rahmen der in
-Satz 1 genannten Grenzen zu berücksichtigen, wenn die von diesen
-emittierten Wertpapiere und Geldmarktinstrumente mittelbar über andere
-im OGAW enthaltenen Wertpapiere, die an deren Wertentwicklung
-gekoppelt sind, erworben werden.
+des Wertes des inländischen OGAW nicht übersteigt. Die
+Emittentengrenze von 40 Prozent gilt nicht für
+
+1.  Einlagen bei Instituten gemäß § 1 Absatz 1b des Kreditwesengesetzes
+    und Wertpapierinstituten gemäß § 2 Absatz 1 des
+    Wertpapierinstitutsgesetzes und
+
+
+2.  Geschäfte, die Derivate zum Gegenstand haben, mit Instituten gemäß § 1
+    Absatz 1b des Kreditwesengesetzes und Wertpapierinstituten gemäß § 2
+    Absatz 1 des Wertpapierinstitutsgesetzes.
+
+
+
+Die Emittenten von Wertpapieren und Geldmarktinstrumenten sind auch
+dann im Rahmen der in Satz 1 genannten Grenzen zu berücksichtigen,
+wenn die von diesen emittierten Wertpapiere und Geldmarktinstrumente
+mittelbar über andere im OGAW enthaltenen Wertpapiere, die an deren
+Wertentwicklung gekoppelt sind, erworben werden.
 
 (2) Die OGAW-Kapitalverwaltungsgesellschaft darf in
 Schuldverschreibungen, Schuldscheindarlehen und Geldmarktinstrumente,
@@ -15985,7 +15998,10 @@ eine Kombination aus
 
 
 3.  Anrechnungsbeträgen für das Kontrahentenrisiko der mit dieser
-    Einrichtung eingegangenen Geschäfte
+    Einrichtung eingegangenen Geschäfte, die Derivate zum Gegenstand
+    haben, die nicht durch eine gemäß Artikel 14 der Verordnung (EU)
+    648/2012 zugelassene oder gemäß Artikel 25 dieser Verordnung
+    anerkannte zentrale Gegenpartei gecleart werden,
 
 
 

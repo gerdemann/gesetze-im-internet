@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 23.4.2026 I Nr. 111
 
+Änderung durch
+:   Art. 4 G v. 18.6.2026 I Nr. 183 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -31,16 +34,16 @@ Mittelbare änderung durch
 
 
 ### § 1 Bundeszentralregister
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001505125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001506125)
 
 (1) Für den Geltungsbereich dieses Gesetzes führt das Bundesamt für
 Justiz ein Zentralregister und ein Erziehungsregister
 (Bundeszentralregister).
 
-(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz.
-Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie
-die Auskunftserteilung betreffen, werden sie von der Bundesregierung
-mit Zustimmung des Bundesrates erlassen.
+(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz
+und für Verbraucherschutz. Soweit die Bestimmungen die Erfassung und
+Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden
+sie von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
 
 
 ### § 2 (weggefallen)
@@ -114,14 +117,14 @@ hat.
 
 
 #### § 5 Inhalt der Eintragung
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001909125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001910125)
 
 (1) Einzutragen sind
 
 1.  die Personendaten der betroffenen Person; dazu gehören der
     Geburtsname, ein hiervon abweichender Familienname, die Vornamen, das
-    Geschlecht, das Geburtsdatum, der Geburtsort, die Staatsangehörigkeit
-    und die Anschrift sowie abweichende Personendaten,
+    Geschlecht, das Geburtsdatum, der Geburtsort, der Geburtsstaat, die
+    Staatsangehörigkeit und die Anschrift sowie abweichende Personendaten,
 
 
 2.  die entscheidende Stelle samt Geschäftsnummer,
@@ -731,7 +734,7 @@ Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
 
 
 #### § 21a Protokollierungen
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009906125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009907125)
 
 (1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften,
 Mitteilungen und Hinweisen Protokolle, die folgende Daten enthalten:
@@ -758,7 +761,10 @@ Mitteilungen und Hinweisen Protokolle, die folgende Daten enthalten:
 
 
 7.  das Aktenzeichen, außer bei Führungszeugnissen nach § 30 Absatz 1, den
-    §§ 30a und 30b.
+    §§ 30a und 30b,
+
+
+8.  die Angabe, ob die Auskunft mit Eintragungen erteilt worden ist.
 
 
 
@@ -866,7 +872,7 @@ Auskunft erteilt werden.
 
 
 #### § 25 Anordnung der Entfernung
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003707125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003708125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen im
 Benehmen mit der Stelle, welche die Entscheidung getroffen hat,
@@ -881,7 +887,7 @@ erfahrenen medizinischen Sachverständigen durchführen.
 steht der antragstellenden Person innerhalb zwei Wochen nach der
 Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die
 Registerbehörde der Beschwerde nicht ab, so entscheidet das
-Bundesministerium der Justiz.
+Bundesministerium der Justiz und für Verbraucherschutz.
 
 
 #### § 26 Zu Unrecht entfernte Eintragungen
@@ -1535,7 +1541,7 @@ Zeugnis aufzunehmen ist.
 
 
 ##### § 39 Anordnung der Nichtaufnahme
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005206125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005207125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen,
 daß Verurteilungen und Eintragungen nach § 11 entgegen diesem Gesetz
@@ -1563,7 +1569,8 @@ sie diese Fähigkeit oder dieses Recht nicht wiedererlangt haben.
 (3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht der
 antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der
 Entscheidung die Beschwerde zu. Hilft die Registerbehörde der
-Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz
+und für Verbraucherschutz.
 
 
 ##### § 40 Nachträgliche Eintragung
@@ -1696,7 +1703,7 @@ einer Kopie unzulässig.
 
 
 ##### § 42a Auskunft für wissenschaftliche Zwecke
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010005125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010006125)
 
 (1) Die Übermittlung personenbezogener Daten aus dem Register an
 Hochschulen, andere Einrichtungen, die wissenschaftliche Forschung
@@ -1725,7 +1732,7 @@ besonders zu berücksichtigen.
 wissenschaftliche Forschungsarbeit kann für einen angemessenen
 Zeitraum nach Anhörung des Bundesbeauftragten für den Datenschutz und
 die Informationsfreiheit mit Zustimmung des Bundesministeriums der
-Justiz zugelassen werden, wenn
+Justiz und für Verbraucherschutz zugelassen werden, wenn
 
 1.  die Voraussetzungen von Absatz 1 Nummer 1 und 2 vorliegen,
 
@@ -1865,34 +1872,46 @@ Bediensteten zur Kenntnis gebracht werden.
 
 
 
-##### § 44a Versagung der Auskunft
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010402311)
+##### § 44a Maßnahmen zu Zwecken des Zeugenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010403125)
 
 (1) Die Registerbehörde sperrt den Datensatz einer im Register
 eingetragenen Person für die Auskunftserteilung, wenn eine
-Zeugenschutzstelle mitteilt, dass dies zum Schutz der Person als Zeuge
-oder Zeugin erforderlich ist.
+Zeugenschutzdienststelle mitteilt, dass dies zum Schutz der Person als
+Zeuge oder Zeugin erforderlich ist.
 
 (2) Die Registerbehörde soll die Erteilung einer Auskunft aus dem
 Register über die gesperrten Personendaten versagen, soweit
 entgegenstehende öffentliche Interessen oder schutzwürdige Interessen
-Dritter nicht überwiegen. Sie gibt der Zeugenschutzstelle zuvor
-Gelegenheit zur Stellungnahme; die Beurteilung der Zeugenschutzstelle,
-dass die Versagung der Auskunft für Zwecke des Zeugenschutzes
-erforderlich ist, ist für die Registerbehörde bindend. Die Versagung
-der Auskunft bedarf keiner Begründung.
+Dritter nicht überwiegen. Sie gibt der Zeugenschutzdienststelle zuvor
+Gelegenheit zur Stellungnahme; die Beurteilung der
+Zeugenschutzdienststelle, dass die Versagung der Auskunft für Zwecke
+des Zeugenschutzes erforderlich ist, ist für die Registerbehörde
+bindend. Die Versagung der Auskunft bedarf keiner Begründung.
 
 (3) Die Registerbehörde legt über eine Person, über die keine
 Eintragung vorhanden ist, einen besonders gekennzeichneten
-Personendatensatz an, wenn die Zeugenschutzstelle darlegt, dass dies
-zum Schutze dieser Person als Zeuge oder Zeugin vor Ausforschung durch
-missbräuchliche Auskunftsersuchen erforderlich ist. Über diesen
+Personendatensatz an, wenn die Zeugenschutzdienststelle darlegt, dass
+dies zum Schutze dieser Person als Zeuge oder Zeugin vor Ausforschung
+durch missbräuchliche Auskunftsersuchen erforderlich ist. Über diesen
 Datensatz werden Auskünfte nicht erteilt. Die Registerbehörde
-unterrichtet die Zeugenschutzstelle über jeden Antrag auf Erteilung
-einer Auskunft, der zu dieser Person oder zu sonst von der
-Zeugenschutzstelle bestimmten Daten eingeht.
+unterrichtet die Zeugenschutzdienststelle über jeden Antrag auf
+Erteilung einer Auskunft, der zu dieser Person oder zu sonst von der
+Zeugenschutzdienststelle bestimmten Daten eingeht.
 
-(4) Die §§ 161, 161a der Strafprozessordnung bleiben unberührt.
+(4) Die Registerbehörde darf auf Ersuchen einer
+Zeugenschutzdienststelle Eintragungen zu einer zu schützenden Person
+zum Aufbau oder zur Aufrechterhaltung einer vorübergehend geänderten
+Identität mit den von der Zeugenschutzdienststelle mitgeteilten Daten
+vorübergehend verändern sowie die veränderten Daten verarbeiten, wenn
+die Zeugenschutzdienststelle mitteilt, dass dies zum Schutz der Person
+als Zeuge oder Zeugin erforderlich ist. Die Beurteilung der
+Erforderlichkeit der Maßnahme durch die Zeugenschutzdienststelle ist
+für die Registerbehörde bindend. Die Registerbehörde soll dem Ersuchen
+entsprechen, soweit entgegenstehende öffentliche Interessen oder
+schutzwürdige Interessen Dritter nicht überwiegen.
+
+(5) Die §§ 161, 161a der Strafprozessordnung bleiben unberührt.
 
 
 ### Vierter Abschnitt - Tilgung
@@ -2085,7 +2104,7 @@ Rechtsänderungen bleiben unberührt.
 
 
 #### § 49 Anordnung der Tilgung in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006305125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006306125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen,
 daß Eintragungen entgegen den §§ 45, 46 zu tilgen sind, falls die
@@ -2107,7 +2126,8 @@ er diese Fähigkeit oder dieses Recht nicht wiedererlangt hat.
 (3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem
 Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der
 Entscheidung die Beschwerde zu. Hilft die Registerbehörde der
-Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz
+und für Verbraucherschutz.
 
 
 #### § 50 Zu Unrecht getilgte Eintragungen
@@ -2200,14 +2220,14 @@ Strafgesetzbuches verwertet werden.
 
 
 #### § 53 Offenbarungspflicht bei Verurteilungen
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006702311)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006703125)
 
 (1) Verurteilte dürfen sich als unbestraft bezeichnen und brauchen den
 der Verurteilung zugrunde liegenden Sachverhalt nicht zu offenbaren,
 wenn die Verurteilung
 
-1.  nicht in das Führungszeugnis oder nur in ein Führungszeugnis nach § 32
-    Abs. 3, 4 aufzunehmen oder
+1.  nicht in das Führungszeugnis oder nur in ein Führungszeugnis für
+    Behörden (§ 30 Absatz 5, § 31) aufzunehmen ist oder
 
 
 2.  zu tilgen ist.
@@ -2305,7 +2325,7 @@ Folgemaßnahme ergänzt, ist § 55 Absatz 2 nicht anzuwenden.
 
 
 #### § 55 Verfahren bei der Eintragung
-[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009205125)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009206125)
 
 (1) Die Registerbehörde trägt eine Verurteilung, die nicht durch ein
 deutsches Gericht im Geltungsbereich dieses Gesetzes ergangen ist,
@@ -2321,7 +2341,8 @@ insoweit zu entfernen. Lehnt die Registerbehörde einen Antrag der
 betroffenen Person auf Entfernung der Eintragung ab, so steht der
 betroffenen Person innerhalb von zwei Wochen nach der Bekanntgabe der
 Entscheidung die Beschwerde zu. Hilft die Registerbehörde der
-Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz
+und für Verbraucherschutz.
 
 
 #### § 56 Behandlung von Eintragungen

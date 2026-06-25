@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 662, 726
 
+Geändert durch
+:   Art. 1 V v. 19.6.2026 I Nr. 187
+
 
 ## § 1 Struktur und Gegenstand der Erprobung
 [Direktlink](https://www.gesetze-im-internet.de/inf_lekausberprbv/BJNR072600021.html#BJNR072600021BJNE000100000)
@@ -57,8 +60,8 @@ Anmeldung zur Prüfung mitzuteilen.
 
 
 ## § 2 Zeitliche Anwendung
-[Direktlink](https://www.gesetze-im-internet.de/inf_lekausberprbv/BJNR072600021.html#BJNR072600021BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/inf_lekausberprbv/BJNR072600021.html#BJNR072600021BJNE000201129)
 
-§ 1 ist für Prüfungen anzuwenden, die bis zum Ablauf des 30. Juni 2026
+§ 1 ist für Prüfungen anzuwenden, die bis zum Ablauf des 30. Juni 2028
 begonnen werden.
 

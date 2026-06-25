@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.5.2026 I Nr. 139
+:   Art. 5 G v. 18.6.2026 I Nr. 183
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -7060,8 +7060,8 @@ Auskunft zur Vorlage bei einer Behörde beantragt, ist sie der Behörde
 unmittelbar zu übersenden.
 
 
-### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028805128)
+### § 150a Auskunft an Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028806128)
 
 (1) Auskünfte aus dem Register werden für
 
@@ -7233,7 +7233,7 @@ einem Dateisystem gespeichert sind oder gespeichert werden sollen.
 
 
 ### § 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029400119)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029401128)
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und
 zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem
@@ -7241,10 +7241,10 @@ Register werden nach den hierfür geltenden völkerrechtlichen
 Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des
 Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von
 der Registerbehörde ausgeführt und mit Zustimmung des
-Bundesministeriums der Justiz bewilligt. Die Übermittlung
-personenbezogener Daten muss im Einklang mit Kapitel V der Verordnung
-(EU) 2016/679 und den sonstigen allgemeinen datenschutzrechtlichen
-Vorschriften stehen.
+Bundesministeriums der Justiz und für Verbraucherschutz bewilligt. Die
+Übermittlung personenbezogener Daten muss im Einklang mit Kapitel V
+der Verordnung (EU) 2016/679 und den sonstigen allgemeinen
+datenschutzrechtlichen Vorschriften stehen.
 
 (2) Ersuchen eines anderen Mitgliedstaates der Europäischen Union um
 Erteilung einer Auskunft werden von der Registerbehörde ausgeführt und
@@ -7565,14 +7565,14 @@ unverzüglich zu löschen.
 
 
 ### § 153c Verwaltungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029300119)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029301128)
 
 Die näheren Bestimmungen über den Aufbau des Registers trifft das
-Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
-für Wirtschaft und Klimaschutz. Soweit die Bestimmungen die Erfassung
-und Aufbereitung der Daten sowie die Auskunftserteilung betreffen,
-werden sie von der Bundesregierung mit Zustimmung des Bundesrates
-getroffen.
+Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie. Soweit die
+Bestimmungen die Erfassung und Aufbereitung der Daten sowie die
+Auskunftserteilung betreffen, werden sie von der Bundesregierung mit
+Zustimmung des Bundesrates getroffen.
 
 
 ### - - Schlußbestimmungen
@@ -7618,11 +7618,10 @@ von mehreren Verwaltungseinheiten für Zwecke der Datenverarbeitung als
 einheitliche Stelle oder Behörde zu bestimmen.
 
 
-#### § 155a Versagung der Auskunft zu Zwecken des Zeugenschutzes
-[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023600377)
+#### § 155a Maßnahmen zu Zwecken des Zeugenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023601128)
 
-Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt §
-44a des Bundeszentralregistergesetzes entsprechend.
+§ 44a des Bundeszentralregistergesetzes gilt entsprechend.
 
 
 #### § 156 Übergangsregelungen zu den §§ 34d und 34e

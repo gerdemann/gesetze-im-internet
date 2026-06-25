@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 178 G v. 29.3.2017 I 626
 
+Änderung durch
+:   Art. 7 G v. 18.6.2026 I Nr. 184 mWv 1.7.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001300328)

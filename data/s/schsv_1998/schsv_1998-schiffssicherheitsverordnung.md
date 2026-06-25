@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 V v. 25.3.2025 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Zielsetzung und Geltungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000102305)

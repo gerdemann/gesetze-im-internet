@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 7.4.2025 I Nr. 109
 
+Änderung durch
+:   Art. 6 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000100000)
