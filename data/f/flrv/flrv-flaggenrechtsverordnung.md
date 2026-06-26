@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 178 G v. 29.3.2017 I 626
 
 Änderung durch
-:   Art. 7 G v. 18.6.2026 I Nr. 184 mWv 1.7.2026 noch nicht berücksichtigt
+:   Art. 7 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

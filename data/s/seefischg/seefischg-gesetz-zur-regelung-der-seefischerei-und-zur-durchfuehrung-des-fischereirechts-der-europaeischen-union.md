@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 31 G v. 20.12.2022 I 2752
 
 Änderung durch
-:   Art. 8 G v. 18.6.2026 I Nr. 184 mWv 1.7.2026 noch nicht berücksichtigt
+:   Art. 8 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich

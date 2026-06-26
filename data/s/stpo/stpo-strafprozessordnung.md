@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.1.2026 I Nr. 6
-
-Änderung durch
-:   Art. 3 G v. 11.1.2026 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 23.2.2026 I Nr. 46 ist berücksichtigt
+:   Art. 4 G v. 23.2.2026 I Nr. 46
 
 Änderung durch
 :   Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
