@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1723
 
+Geändert durch
+:   Art. 4 G v. 22.6.2026 I nr. 191
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000100000)

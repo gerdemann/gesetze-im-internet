@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.5.2026 I Nr. 139
+:   Art. 5 G v. 22.6.2026 I Nr. 191
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen

@@ -1263,10 +1263,6 @@ unterschreiben ist.
 formlos widerrufen werden.
 
 
-## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
-[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000901310)
-
-
 ### § 8d Entnahme von Organen und Geweben zur Rückübertragung
 [Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006900130)
 
@@ -1326,6 +1322,10 @@ unterschreiben ist.
 
 (5) Die Einwilligung kann jederzeit und ohne Angabe von Gründen
 formlos widerrufen werden.
+
+
+## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000902130)
 
 
 ### § 8e Besondere Pflichten der Gewebeeinrichtungen

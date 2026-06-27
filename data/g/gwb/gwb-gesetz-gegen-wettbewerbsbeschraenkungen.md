@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 12.5.2026 I Nr. 137
 
+Änderung durch
+:   Art. 3 G v. 22.6.2026 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Wettbewerbsbeschränkungen
 [Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG000104118)
