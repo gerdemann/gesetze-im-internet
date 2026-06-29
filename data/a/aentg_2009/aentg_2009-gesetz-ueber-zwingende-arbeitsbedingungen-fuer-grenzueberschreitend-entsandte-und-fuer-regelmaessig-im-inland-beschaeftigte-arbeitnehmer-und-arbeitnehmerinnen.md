@@ -1110,7 +1110,7 @@ eingeschränkt.
 
 
 ### § 18 Meldepflicht
-[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001904126)
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001905126)
 
 (1) Soweit Arbeitsbedingungen auf das Arbeitsverhältnis Anwendung
 finden, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung
@@ -1122,8 +1122,9 @@ eine schriftliche Anmeldung in deutscher Sprache bei der zuständigen
 Behörde der Zollverwaltung vorzulegen, die die für die Prüfung
 wesentlichen Angaben enthält. Wesentlich sind die Angaben über
 
-1.  Familienname, Vornamen und Geburtsdatum der von ihm im Geltungsbereich
-    dieses Gesetzes beschäftigten Arbeitnehmer und Arbeitnehmerinnen,
+1.  Familienname, Vornamen, Geburtsdatum, Staatsangehörigkeit und
+    Kontaktdaten der von ihm im Geltungsbereich dieses Gesetzes
+    beschäftigten Arbeitnehmer und Arbeitnehmerinnen,
 
 
 2.  Beginn und voraussichtliche Dauer der Beschäftigung,
@@ -1136,18 +1137,21 @@ wesentlichen Angaben enthält. Wesentlich sind die Angaben über
     bereitgehalten werden,
 
 
-5.  Familienname, Vornamen, Geburtsdatum und Anschrift in Deutschland des
-    oder der verantwortlich Handelnden,
+5.  Familienname, Vornamen und Anschrift in Deutschland eines oder einer
+    Zustellungsbevollmächtigten,
 
 
 6.  Branche, in die die Arbeitnehmer und Arbeitnehmerinnen entsandt werden
-    sollen, und
+    sollen,
 
 
-7.  Familienname, Vornamen und Anschrift in Deutschland eines oder einer
-    Zustellungsbevollmächtigten, soweit dieser oder diese nicht mit dem
-    oder der in Nummer 5 genannten verantwortlich Handelnden identisch
-    ist.
+7.  die Tätigkeit oder die Position der im Geltungsbereich dieses Gesetzes
+    beschäftigten Arbeitnehmer und Arbeitnehmerinnen für die Dauer der
+    Beschäftigung und
+
+
+8.  den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des
+    Auftraggebers.
 
 
 
@@ -1155,10 +1159,11 @@ wesentlichen Angaben enthält. Wesentlich sind die Angaben über
 Satzes 1 unverzüglich zu melden.
 
 (2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem
-anderen Mitgliedstaat der Europäischen Union oder des Europäischen
-Wirtschaftsraums verpflichtet, der zuständigen Behörde der
-Zollverwaltung vor Beginn der Beschäftigung eines Kraftfahrers oder
-einer Kraftfahrerin für die Durchführung von Güter- oder
+anderen Mitgliedstaat der Europäischen Union, des Europäischen
+Wirtschaftsraums oder des Vereinigten Königreichs Großbritannien und
+Nordirland verpflichtet, der zuständigen Behörde der Zollverwaltung
+vor Beginn der Beschäftigung eines Kraftfahrers oder einer
+Kraftfahrerin für die Durchführung von Güter- oder
 Personenbeförderungen im Inland nach § 36 Absatz 1 eine Anmeldung mit
 folgenden Angaben elektronisch zuzuleiten:
 
@@ -1212,8 +1217,8 @@ jeder Werk- oder Dienstleistung der zuständigen Behörde der
 Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit
 folgenden Angaben zuzuleiten:
 
-1.  Familienname, Vornamen und Geburtsdatum der überlassenen Arbeitnehmer
-    und Arbeitnehmerinnen,
+1.  Familienname, Vornamen, Geburtsdatum, Staatsangehörigkeit und
+    Kontaktdaten der überlassenen Arbeitnehmer und Arbeitnehmerinnen,
 
 
 2.  Beginn und Dauer der Überlassung,
@@ -1231,10 +1236,15 @@ folgenden Angaben zuzuleiten:
 
 
 6.  Branche, in die die Arbeitnehmer und Arbeitnehmerinnen entsandt werden
-    sollen, und
+    sollen,
 
 
-7.  Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
+7.  Tätigkeit oder Position der im Geltungsbereich dieses Gesetzes
+    beschäftigten Arbeitnehmer und Arbeitnehmerinnen für die Dauer der
+    Beschäftigung und
+
+
+8.  Familienname, Vornamen oder Firma sowie Anschrift des Entleihers.
 
 
 
@@ -1244,10 +1254,10 @@ Absatz 1 Satz 3 gilt entsprechend.
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne
 Zustimmung des Bundesrates bestimmen,
 
-1.  dass, auf welche Weise und unter welchen technischen und
-    organisatorischen Voraussetzungen eine Anmeldung, Änderungsmeldung und
-    Versicherung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3 Satz
-    1 und 2 und Absatz 4 elektronisch übermittelt werden kann,
+1.  in welchem Fall, auf welche Weise und unter welchen technischen und
+    organisatorischen Voraussetzungen eine Anmeldung oder eine
+    Änderungsmeldung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3
+    Satz 1 und 2 elektronisch übermittelt werden kann,
 
 
 2.  unter welchen Voraussetzungen eine Änderungsmeldung ausnahmsweise
@@ -1265,7 +1275,7 @@ Zustimmung des Bundesrates bestimmen,
 
 (5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
-Satz 1 und Absatz 3 Satz 1 bestimmen.
+Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 
 ### § 19 Erstellen und Bereithalten von Dokumenten

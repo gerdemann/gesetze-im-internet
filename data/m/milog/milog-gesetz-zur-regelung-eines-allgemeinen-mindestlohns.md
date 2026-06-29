@@ -356,7 +356,7 @@ Abschluss der Entsendung kontaktiert werden.
 
 
 ### § 16 Meldepflicht
-[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001701126)
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001702125)
 
 (1) Ein Arbeitgeber mit Sitz im Ausland, der eine Arbeitnehmerin oder
 einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer in
@@ -364,13 +364,13 @@ den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten
 Wirtschaftsbereichen oder Wirtschaftszweigen im Anwendungsbereich
 dieses Gesetzes beschäftigt, ist verpflichtet, vor Beginn jeder Werk-
 oder Dienstleistung eine schriftliche Anmeldung in deutscher Sprache
-bei der zuständigen Behörde der Zollverwaltung nach Absatz 6
-vorzulegen, die die für die Prüfung wesentlichen Angaben enthält.
-Wesentlich sind die Angaben über
+bei der zuständigen Behörde der Zollverwaltung vorzulegen, die die für
+die Prüfung wesentlichen Angaben enthält. Wesentlich sind die Angaben
+über
 
-1.  den Familiennamen, den Vornamen und das Geburtsdatum der von ihm im
-    Geltungsbereich dieses Gesetzes beschäftigten Arbeitnehmerinnen und
-    Arbeitnehmer,
+1.  den Familiennamen, den Vornamen, das Geburtsdatum, die
+    Staatsangehörigkeit und Kontaktdaten der von ihm im Geltungsbereich
+    dieses Gesetzes beschäftigten Arbeitnehmerinnen und Arbeitnehmer,
 
 
 2.  den Beginn und die voraussichtliche Dauer der Beschäftigung,
@@ -383,18 +383,21 @@ Wesentlich sind die Angaben über
     bereitgehalten werden,
 
 
-5.  den Familiennamen, den Vornamen, das Geburtsdatum und die Anschrift in
-    Deutschland der oder des verantwortlich Handelnden,
+5.  den Familiennamen, den Vornamen und die Anschrift in Deutschland einer
+    oder eines Zustellungsbevollmächtigten,
 
 
 6.  die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt
-    werden sollen, und
+    werden sollen,
 
 
-7.  den Familiennamen, den Vornamen und die Anschrift in Deutschland einer
-    oder eines Zustellungsbevollmächtigten, soweit diese oder dieser nicht
-    mit der oder dem in Nummer 5 genannten verantwortlich Handelnden
-    identisch ist.
+7.  die Tätigkeit oder die Position der im Geltungsbereich dieses Gesetzes
+    beschäftigten Arbeitnehmerinnen oder Arbeitnehmer für die Dauer der
+    Beschäftigung und
+
+
+8.  den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des
+    Auftraggebers.
 
 
 
@@ -402,10 +405,11 @@ Wesentlich sind die Angaben über
 Satzes 1 unverzüglich zu melden.
 
 (2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem
-anderen Mitgliedstaat der Europäischen Union oder des Europäischen
-Wirtschaftsraums verpflichtet, der zuständigen Behörde der
-Zollverwaltung vor Beginn der Beschäftigung einer Kraftfahrerin oder
-eines Kraftfahrers für die Durchführung von Güter- oder
+anderen Mitgliedstaat der Europäischen Union, des Europäischen
+Wirtschaftsraums oder des Vereinigten Königreichs Großbritannien und
+Nordirland verpflichtet, der zuständigen Behörde der Zollverwaltung
+vor Beginn der Beschäftigung einer Kraftfahrerin oder eines
+Kraftfahrers für die Durchführung von Güter- oder
 Personenbeförderungen im Inland nach § 36 Absatz 1 des Arbeitnehmer-
 Entsendegesetzes eine Anmeldung mit folgenden Angaben elektronisch
 zuzuleiten:
@@ -461,7 +465,8 @@ des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der
 zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in
 deutscher Sprache mit folgenden Angaben zuzuleiten:
 
-1.  den Familiennamen, den Vornamen und das Geburtsdatum der überlassenen
+1.  den Familiennamen, den Vornamen, das Geburtsdatum, die
+    Staatsangehörigkeit und Kontaktdaten der überlassenen
     Arbeitnehmerinnen und Arbeitnehmer,
 
 
@@ -483,7 +488,12 @@ deutscher Sprache mit folgenden Angaben zuzuleiten:
     werden sollen,
 
 
-7.  den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des
+7.  die Tätigkeit oder die Position der im Geltungsbereich dieses Gesetzes
+    beschäftigten Arbeitnehmerinnen und Arbeitnehmer für die Dauer der
+    Beschäftigung und
+
+
+8.  den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des
     Entleihers.
 
 
@@ -495,10 +505,9 @@ Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne
 Zustimmung des Bundesrates bestimmen,
 
 1.  dass, auf welche Weise und unter welchen technischen und
-    organisatorischen Voraussetzungen eine Anmeldung, eine
-    Änderungsmeldung und die Versicherung abweichend von Absatz 1 Satz 1
-    und 3, Absatz 2 und 3 Satz 1 und 2 und Absatz 4 elektronisch
-    übermittelt werden kann,
+    organisatorischen Voraussetzungen eine Anmeldung oder eine
+    Änderungsmeldung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3
+    Satz 1 und 2 elektronisch übermittelt werden kann,
 
 
 2.  unter welchen Voraussetzungen eine Änderungsmeldung ausnahmsweise
@@ -516,7 +525,7 @@ Zustimmung des Bundesrates bestimmen,
 
 (5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
-Satz 1 und Absatz 3 Satz 1 bestimmen.
+Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 
 ### § 17 Erstellen und Bereithalten von Dokumenten
