@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 18
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 2 G v. 10.8.2021 I 3490
+:   Art. 3 V v. 24.6.2026 I Nr. 193
 
 
 ## Abschnitt 1 - Allgemeines

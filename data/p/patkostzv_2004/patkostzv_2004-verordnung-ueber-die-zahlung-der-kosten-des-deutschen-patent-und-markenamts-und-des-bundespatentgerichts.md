@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 2083
 
 Zuletzt geändert durch
-:   Art. 3 V v. 7.2.2022 I 171
+:   Art. 2 V v. 24.6.2026 I Nr. 193
 
 
 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.11.1994 I 3631; 1995 I 249;
 
 Zuletzt geändert durch
-:   Art. 43 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 5 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 18.6.2026 I Nr. 184
 
 
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen

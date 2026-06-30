@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 514
 
 Zuletzt geändert durch
-:   Art. 9 G v. 11.1.2026 I Nr. 9
+:   Art. 1 V v. 24.6.2026 I Nr. 193
 
 
 ## Eingangsformel
