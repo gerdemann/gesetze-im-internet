@@ -1,6 +1,6 @@
 ---
-Title: Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft
-  für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
+Title: Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung
+  und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 jurabk: BMELBGebV
 layout: default
 origslug: BJNR287400021
@@ -8,7 +8,7 @@ slug: bmelbgebv
 
 ---
 
-# Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (BMELBGebV)
+# Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (BMELBGebV)
 
 Ausfertigungsdatum
 :   2021-07-13
@@ -21,14 +21,6 @@ Zuletzt geändert durch
 
 Änderung durch
 :   Art. 1 V v. 9.6.2026 I Nr. 169 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Zukünftige Überschrift: Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (Besondere Gebührenverordnung BMLEH – BMLEHBGebV)(ab 1.7.2026; BGBl 2026 I Nr. 169)
-[^BJNR287400021]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v.
-    9\.6.2026 I Nr. 169 mWv 1.7.2026 wie folgt gefasst:  **Besondere
-    Gebührenverordnung des Bundesministeriums für Landwirtschaft,
-    Ernährung und Heimat für individuell zurechenbare öffentliche
-    Leistungen in dessen Zuständigkeitsbereich (Besondere
-    Gebührenverordnung BMLEH – BMLEHBGebV)**
 
 
 ## Eingangsformel
@@ -50,10 +42,10 @@ Landwirtschaft:
 
 
 ### § 1 Erhebung von Gebühren und Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000202130)
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000203131)
 
-Im Zuständigkeitsbereich des Bundesministeriums für Ernährung und
-Landwirtschaft werden Gebühren und Auslagen für individuell
+Im Zuständigkeitsbereich des Bundesministeriums für Landwirtschaft,
+Ernährung und Heimat werden Gebühren und Auslagen für individuell
 zurechenbare öffentliche Leistungen (gebührenfähige Leistungen)
 erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
 
@@ -134,6 +126,9 @@ erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
         59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65), die durch
         die Verordnung (EU) 2020/1693 (ABl. L 381 vom 13.11.2020, S. 1)
         geändert worden ist, in der jeweils geltenden Fassung,
+
+
+    d)  der Öko-Landbaugesetz-Durchführungsverordnung, dem Öko-Landbaugesetz,
 
 
 
@@ -241,7 +236,7 @@ erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
 
 
 
-7.  Diätverordnung,
+7.  Konsumcannabisgesetz,
 
 
 8.  Gentechnikgesetz,
@@ -309,14 +304,18 @@ erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
     8\.7.2021, S. 17), in der jeweils geltenden Fassung,
 
 
-15. Tiergesundheitsgesetz, Tierimpfstoff-Verordnung,
+15. Tiergesundheitsgesetz, Tiergesundheitliche-In-vitro-Diagnostika-
+    Verordnung
 
 
 16. Saatgutverkehrsgesetz, Sortenschutzgesetz,
 
 
 17. Fischetikettierungsgesetz, Fischetikettierungsverordnung, Holzhandels-
-    Sicherungs-Gesetz.
+    Sicherungs-Gesetz,
+
+
+18. Agrarorganisationen-und-Lieferketten-Gesetz.
 
 
 
@@ -450,7 +449,7 @@ diesen Antragsteller keine Gebühr nach Nummer 202.13.1 des Abschnitts
 
 
 ### § 7 Übergangsvorschrift
-[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000802130)
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000803131)
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -460,7 +459,13 @@ anzuwenden. Für die Erhebung von Gebühren und Auslagen in den Fällen
 der §§ 4 und 5 Absatz 1 Satz 2, bei denen die jeweilige Gebührenschuld
 vor dem 1. Oktober 2021 entstanden ist, sind die bis einschließlich
 zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter
-anzuwenden.
+anzuwenden. Für die Erhebung von Gebühren und Auslagen für
+gebührenfähige Leistungen, die zwischen dem 1. Oktober 2021 bis
+einschließlich 31. März 2026 beantragt oder begonnen, aber noch nicht
+vollständig erbracht wurden, sind die bis zum Ablauf des 30. Juni 2026
+geltenden gebührenrechtlichen Regelungen weiter anzuwenden, soweit
+nicht die Anwendung dieser Verordnung für den Gebührenschuldner
+günstiger ist.
 
 (2) Für eine individuell zurechenbare öffentliche Leistung, die vor
 dem Inkrafttreten einer Änderung dieser Verordnung beantragt oder
@@ -488,7 +493,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 (zu § 2 Absatz 1)
 
 ### Anlage Gebühren- und Auslagenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE001002116)
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE001003131)
 
 (Fundstelle: BGBl. I 2021, 2878 - 2903)
 
@@ -509,16 +514,17 @@ Abschnitt 2
 
 Abschnitt 3
 
-Lebensmittelspezialitätengesetz (LSpG),
-Lebensmittelspezialitätenverordnung (LSpV),
-## Verordnung (EU) Nr. 1151/2012, Delegierte Verordnung (EU) Nr.
-664/2014
+Verordnung (EU) 2024/1143, Lebensmittelspezialitätengesetz in der bis
+zum Ablauf
+## des 15. Januar 2026 geltenden Fassung (LSpG),
+Lebensmittelspezialitätenverordnung (LSpV)
 
 
 Abschnitt 4
 
-Verordnung (EG) Nr. 834/2007,
-## Verordnung (EU) 2017/625, Verordnung (EU) 2018/848
+Verordnung (EU) 2017/625, Verordnung (EU) 2018/848,
+## Öko-Landbaugesetz-Durchführungsverordnung (ÖLG-DV), Öko-
+Landbaugesetz (ÖLG)
 
 
 Abschnitt 5
@@ -538,7 +544,7 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
 
 Abschnitt 7
 
-## Diätverordnung (DiätV)
+## Konsumcannabisgesetz (KCanG)
 
 
 Abschnitt 8
@@ -578,8 +584,8 @@ Abschnitt 14
 
 Abschnitt 15
 
-## Tiergesundheitsgesetz (TierGesG), Tierimpfstoff-Verordnung
-(TierImpfStV)
+## Tiergesundheitsgesetz (TierGesG), Tiergesundheitliche-In-vitro-
+Diagnostika-Verordnung (TierGesIVDV)
 
 
 Abschnitt 16
@@ -591,6 +597,11 @@ Abschnitt 17
 
 Weitere Gebührenbefreiungen nach Fischetikettierungsgesetz,
 ## Fischetikettierungsverordnung, Holzhandels-Sicherungs-Gesetz
+
+
+Abschnitt 18
+
+## Agrarorganisationen-und-Lieferketten-Gesetz (AgrarOLkG)
 
 
 
@@ -611,48 +622,59 @@ Biomassestrom-Nachhaltigkeitsverordnung (BioSt-NachV),
 
 *    *   1
 
-    *   Vorläufige Anerkennung einer Zertifizierungsstelle nach § 43 BioSt-
-        NachV, § 41 Biokraft-NachV
+    *   Vorläufige Anerkennung einer Zertifizierungsstelle nach § 43 BioSt-
+        NachV, § 41 Biokraft-NachV
 
-    *   1 100 bis 1 700
+    *   1 100 bis 2 900
 
 
 *    *   2
 
-    *   Endgültige Anerkennung einer Zertifizierungsstelle nach § 28 BioSt-
-        NachV, § 26 Biokraft-NachV
+    *   Endgültige Anerkennung einer Zertifizierungsstelle nach § 28 BioSt-
+        NachV, § 26 Biokraft-NachV
 
-    *   2 200 bis 11 000
+    *   1 400 bis 11 000
 
 
 *    *   3
 
-    *   Überwachung einer Zertifizierungsstelle nach § 40 Absatz 1 BioSt-
-        NachV, § 38 Absatz 1 Biokraft-NachV
+    *   Überwachung einer Zertifizierungsstelle nach § 40 Absatz 1 BioSt-
+        NachV, § 38 Absatz 1 Biokraft-NachV
 
     *
 
 *    *   3.1
 
-    *   Basisbetrag pro Kontrolle einer Zertifizierungsstelle (Office-Audit)
+    *   Basisbetrag pro Begutachtung einer Zertifizierungsstelle (Office-
+        Audit)
 
-    *   3 700
+    *   4 500
 
 
 *    *   3.2
 
-    *   Basisbetrag pro Kontrolle einer Vor-Ort-Kontrolle einer
-        Zertifizierungsstelle in einer Schnittstelle, einem Betrieb oder einer
-        Betriebsstätte, auch im Falle einer Fernbegutachtung (Witness-Audit)
+    *   Basisbetrag pro Begutachtung einer Vor-Ort-Kontrolle einer
+        Zertifizierungsstelle bei einer Schnittstelle, einem Lieferanten,
+        einem Betrieb oder einer Betriebsstätte, auch im Falle einer
+        Fernbegutachtung (Witness-Audit)
 
-    *   720
+    *   1 200
 
 
 *    *   3.3
 
-    *   zuzüglich je angefangenem Prüfungstag
+    *   Zeitaufwand während der Begutachtung nach den Nummern 3.1 und 3.2
+        (mindestens vier Stunden pro Überwachung)
 
-    *   290 bis 1 100
+    *   140 bis 1 400
+
+
+*    *   3.4
+
+    *   Auslagen gemäß § 12 Absatz 1 des Bundesgebührengesetzes
+
+    *   In tatsächlich
+        entstandener Höhe
 
 
 
@@ -722,10 +744,10 @@ Biomassestrom-Nachhaltigkeitsverordnung (BioSt-NachV),
 ## Abschnitt 3
 
 
-Lebensmittelspezialitätengesetz (LSpG),
-Lebensmittelspezialitätenverordnung (LSpV),
-## Verordnung (EU) Nr. 1151/2012, Delegierte Verordnung (EU) Nr.
-664/2014
+Verordnung (EU) 2024/1143, Lebensmittelspezialitätengesetz in der bis
+zum Ablauf
+## des 15. Januar 2026 geltenden Fassung (LSpG),
+Lebensmittelspezialitätenverordnung (LSpV).
 
 
 *    *   Nummer
@@ -739,20 +761,18 @@ Lebensmittelspezialitätenverordnung (LSpV),
 *    *   1
 
     *   Bearbeitung eines Antrags auf Eintragung einer garantiert
-        traditionellen Spezialität gemäß Artikel 49 Absatz 1 bis 6 der
-        Verordnung (EU) Nr. 1151/2012, § 2 Absatz 1 Nummer 1 LSpG, §§ 1 und 2
-        LSpV
+        traditionellen Spezialität gemäß Artikel 56 Absatz 1 bis 4 der
+        Verordnung (EU) 2024/1143, § 2 Absatz 1 Nummer 1 LSpG, §§ 1 und 2 LSpV
 
-    *   800
+    *   700
 
 
 *    *   2
 
     *   Bearbeitung eines Einspruchs gegen die Eintragung einer garantiert
-        traditionellen Spezialität gemäß Artikel 49 Absatz 3, Absatz 4
-        Unterabsatz 1 bis 3, Absatz 5 und 6, Artikel 51 Absatz 1 Unterabsatz 1
-        und 3, Absatz 5 der Verordnung (EU) Nr. 1151/2012, § 2 Absatz 1 Nummer
-        2 LSpG, § 1 Absatz 3 und 4 LSpV (nationaler Einspruch)
+        traditionellen Spezialität gemäß Artikel 56 Absatz 3 der Verordnung
+        (EU) 2024/1143, § 2 Absatz 1 Nummer 2 LSpG, § 1 Absatz 3 und 4 LSpV
+        (Einspruch in der nationalen Phase)
 
     *   220
 
@@ -760,10 +780,9 @@ Lebensmittelspezialitätenverordnung (LSpV),
 *    *   3
 
     *   Bearbeitung eines Einspruchs gegen die Eintragung einer garantiert
-        traditionellen Spezialität aus einem anderen Staat gemäß Artikel 51
-        Absatz 1 Unterabsatz 2 und 3, Absatz 5 der Verordnung (EU) Nr.
-        1151/2012, § 2 Absatz 1 Nummer 2 LSpG, § 1 Absatz 3 und 4, § 3 LSpV
-        (zwischenstaatlicher Einspruch)
+        traditionellen Spezialität aus einem anderen Staat gemäß Artikel 61
+        der Verordnung (EU) 2024/1143, § 2 Absatz 1 Nummer 2 LSpG, § 1 Absatz
+        3 und 4, § 3 LSpV (zwischenstaatlicher Einspruch)
 
     *   300
 
@@ -771,39 +790,19 @@ Lebensmittelspezialitätenverordnung (LSpV),
 *    *   4
 
     *   Bearbeitung eines Antrags auf Änderung der Produktspezifikation einer
-        garantiert traditionellen Spezialität gemäß § 2 Absatz 1 Nummer 3
-        LSpG, § 4 in Verbindung mit § 1 Absatz 2 bis 4, §§ 2 und 3 LSpV und in
-        Verbindung mit
+        garantiert traditionellen Spezialität gemäß Artikel 66 Absatz 1 und 2
+        der Verordnung (EU) 2024/1143, § 2 Absatz 1 Nummer 3 LSpG, § 4 in
+        Verbindung mit § 1 Absatz 2 bis 4, §§ 2 und 3 LSpV
 
-        –   Artikel 53 Absatz 1, Absatz 2 Unterabsatz 1 in Verbindung mit Artikel
-            49 bis 52 der Verordnung (EU) Nr. 1151/2012, Artikel 6 Absatz 1 der
-            Verordnung (EU) Nr. 664/2014 bei nicht geringfügigen Änderungen oder
-
-
-        –   Artikel 53 Absatz 1, Absatz 2 Unterabsatz 2 bis 5, Absatz 3 in
-            Verbindung mit Artikel 49 bis 52 der Verordnung (EU) Nr. 1151/2012,
-            Artikel 6 Absatz 2 der Verordnung (EU) Nr. 664/2014 bei geringfügigen
-            Änderungen oder
-
-
-        –   Artikel 53 Absatz 1, Absatz 3 der Verordnung (EU) Nr. 1151/2012,
-            Artikel 6 Absatz 3 der Verordnung (EU) Nr. 664/2014 bei
-            vorübergehenden Änderungen
-
-
-
-
-    *   210
+    *   300
 
 
 *    *   5
 
     *   Bearbeitung eines Antrags auf Löschung einer garantiert traditionellen
-        Spezialität gemäß Artikel 54 Absatz 1 der Verordnung (EU) Nr.
-        1151/2012, Artikel 7 der Verordnung (EU) Nr. 664/2014 in Verbindung
-        mit den Artikeln 49 bis 52 der Verordnung (EU) Nr. 1151/2012, § 2
-        Absatz 1 Nummer 3 LSpG, § 4 in Verbindung mit § 1 Absatz 2 bis 4, §§ 2
-        und 3 LSpV
+        Spezialität gemäß Artikel 67 Absatz 2 und 3 der Verordnung 2024/1143,
+        § 2 Absatz 1 Nummer 3 LSpG, § 4 in Verbindung mit § 1 Absatz 2 bis 4,
+        §§ 2 und 3 LSpV
 
     *   130
 
@@ -814,8 +813,9 @@ Lebensmittelspezialitätenverordnung (LSpV),
 ## Abschnitt 4
 
 
-## Verordnung (EG) Nr. 834/2007, Verordnung (EU) 2017/625, Verordnung
-(EU) 2018/848
+Verordnung (EU) 2017/625, Verordnung (EU) 2018/848,
+## Öko-Landbaugesetz-Durchführungsverordnung (ÖLG-DV), Öko-
+Landbaugesetz (ÖLG)
 
 
 *    *   Nummer
@@ -828,9 +828,9 @@ Lebensmittelspezialitätenverordnung (LSpV),
 
 *    *   1
 
-    *   Zulassung einer privaten Kontrollstelle nach Artikel 27 Absatz 4 der
-        Verordnung (EG) Nr. 834/2007 oder nach Artikel 28 Absatz 2 der
-        Verordnung (EU) 2017/625
+    *   Zulassung nach Artikel 28 Absatz 2 der Verordnung (EU) 2017/625 in
+        Verbindung mit Artikel 40 Absatz 1 Unterabsatz 1 Buchstabe a der
+        Verordnung (EU) 2018/848 und § 5 ÖLG-DV (AHV)
 
     *
 
@@ -856,17 +856,47 @@ Lebensmittelspezialitätenverordnung (LSpV),
     *   32 bis 640
 
 
+*    *   1.4
+
+    *   Benennung und Änderung von Bescheinigungsbefugten gemäß § 17 Absatz 3
+        Satz 3 in Verbindung mit § 4 Absatz 3 ÖLG-DV und § 2 Absatz 2 ÖLG
+
+    *   32 bis 120
+
+
+*    *   1.5
+
+    *   Durchführung des jährlichen Audits im Rahmen der Überwachung der
+        Kontrollstellen nach Artikel 40 Absatz 1 Unterabsatz 2 der Verordnung
+        (EU) 2018/848 in Verbindung mit Artikel 33 Buchstabe a der Verordnung
+        (EU) 2017/625 und § 2 Absatz 2 Nummer 5 ÖLG nach Zeitaufwand
+
+    *
+
+*    *   1.5.1
+
+    *   Basisbetrag für die Vor- und Nachbereitung
+
+    *   760 bis 1 500
+
+
+*    *   1.5.2
+
+    *   Prüfertag
+
+    *   290 bis 1 700
+
+
 *    *   2
 
-    *   Genehmigung der Verwendung einer Zutat landwirtschaftlichen Ursprungs
-        gemäß Artikel 19 Absatz 2 Buchstabe c und Artikel 21 der Verordnung
-        (EG) Nr. 834/2007 oder Artikel 25 der Verordnung (EU) 2018/848
+    *   Vorläufige Zulassung der Verwendung einer Zutat landwirtschaftlichen
+        Ursprungs nach Artikel 25 der Verordnung (EU) 2018/848
 
     *
 
 *    *   2.1
 
-    *   Erteilung einer vorläufigen Genehmigung zur Verwendung einer
+    *   Erteilung einer vorläufigen Zulassung zur Verwendung einer
         nichtökologischen Zutat landwirtschaftlichen Ursprungs
 
     *   73 bis 700
@@ -874,9 +904,17 @@ Lebensmittelspezialitätenverordnung (LSpV),
 
 *    *   2.2
 
-    *   Änderung oder Verlängerung der Genehmigung
+    *   Änderung oder Verlängerung der vorläufigen Zulassung
 
     *   36 bis 360
+
+
+*    *   3
+
+    *   Anerkennung, Änderung und Verlängerung von Lehrgängen zur Vermittlung
+        von Grundqualifikationen gemäß § 16 ÖLG-DV
+
+    *   140 bis 5 900
 
 
 
@@ -911,11 +949,10 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
 *    *   2
 
     *   Erteilung einer Einfuhrgenehmigung für Fischereierzeugnisse aus
-        Drittstaaten auf Grundlage einer Anmeldung gemäß Artikel 12 in
-        Verbindung mit Artikel 16 Absatz 1 Satz 3 der Verordnung (EG) Nr.
-        1005/2008
+        Drittstaaten auf Grundlage einer Anmeldung gemäß Artikel 12, Artikel
+        16 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1005/2008
 
-    *   18
+    *   25
 
 
 *    *   3
@@ -925,7 +962,7 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
         1224/2009 in Verbindung mit Artikel 15 Absatz 1 in Verbindung mit
         Anhang V Teil C Nummer 2.4. der Verordnung (EU) 2019/1241
 
-    *   nach Zeitaufwand
+    *   30
 
 
 *    *   4
@@ -943,7 +980,7 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
         Artikel 5 Absatz 1 der Verordnung (EU) 2016/2336 in Verbindung mit
         Artikel 7 der Verordnung (EG) Nr. 1224/2009
 
-    *   nach Zeitaufwand
+    *   75
 
 
 *    *   6
@@ -952,7 +989,7 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
         5 Absatz 3 der Verordnung (EU) 2016/2336 in Verbindung mit Artikel 7
         der Verordnung (EG) Nr. 1224/2009
 
-    *   nach Zeitaufwand
+    *   56
 
 
 *    *   7
@@ -961,7 +998,7 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
         Schutzgebieten für empfindliche Tiefsee-Habitate gemäß Anhang II Teil
         A, Nummer 2, 1. Spiegelstrich der Verordnung (EU) 2019/1241
 
-    *   nach Zeitaufwand
+    *   38
 
 
 *    *   8
@@ -975,56 +1012,27 @@ Verordnung (EU) 2016/2336, Verordnung (EG) Nr. 1954/2003, Verordnung
 
 *    *   9
 
-    *   Erteilung einer Ausnahmengenehmigung zur Befreiung vom Siebnetz gemäß
-        § 14 Absatz 5 SeefiV
+    *   Erteilung einer Fangerlaubnis für die Tiefseefischerei im NEAFC-
+        Bereich gemäß Artikel 3 Absatz 1 der Verordnung (EG)
+        Nr. 2347/2002 in Verbindung mit Artikel 20 Absatz 3 der Verordnung
+        (EU) 2016/2336 und in Verbindung mit Artikel 7 der Verordnung (EG) Nr.
+        1224/2009
 
-    *   nach Zeitaufwand
+    *   75
 
 
 *    *   10
-
-    *   Erteilung von Ausnahmegenehmigungen gemäß § 13 Absatz 3 Satz 1 in
-        Verbindung mit § 13 Absatz 1 SeefiV für
-
-        a)  die Ausrüstung mit einem satellitengestützten
-            Schiffsüberwachungssystem,
-
-
-        b)  das elektronische Führen und Übermitteln von Fischereilogbuchdaten
-            oder
-
-
-        c)  das elektronische Ausfüllen und Übermitteln der Angaben aus der
-            Umlande- und Anlandeerklärung
-
-
-
-
-    *   nach Zeitaufwand
-
-
-*    *   11
-
-    *   Erteilung einer Fangerlaubnis für die Tiefseefischerei im NEAFC-
-        Bereich gemäß Artikel 3 Absatz 1 der Verordnung (EG) Nr. 2347/2002 in
-        Verbindung mit Artikel 20 Absatz 3 der Verordnung (EU) 2016/2336 und
-        in Verbindung mit Artikel 7 der Verordnung (EG) Nr. 1224/2009
-
-    *   nach Zeitaufwand
-
-
-*    *   12
 
     *   Die Erteilung einer Fangerlaubnis nach § 3 SeeFischG ist gebührenfrei.
 
     *
 
-*    *   13
+*    *   11
 
-    *   Die Erteilung einer Fangerlaubnis für wissenschaftliche Zwecke nach §
-        7 SeefiV in Verbindung mit Artikel 25 der Verordnung (EU) 2019/1241
-        und Artikel 7 Absatz 1 Buchstabe d der Verordnung (EG) Nr. 1224/2009
-        ist gebührenfrei.
+    *   Die Erteilung einer Fangerlaubnis für wissenschaftliche Zwecke nach
+        § 7 SeefiV in Verbindung mit Artikel 25 der Verordnung (EU)
+        2019/1241 und Artikel 7 Absatz 1 Buchstabe d der Verordnung (EG) Nr.
+        1224/2009 ist gebührenfrei.
 
     *
 
@@ -1090,7 +1098,7 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
 ## Abschnitt 7
 
 
-## Diätverordnung (DiätV)
+## Konsumcannabisgesetz (KCanG)
 
 
 *    *   Nummer
@@ -1103,43 +1111,31 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
 
 *    *   1
 
-    *   Prüfung der Diäteignung eines Lebensmittels im Falle einer erstmaligen
-        Anzeige nach § 4a Absatz 4 DiätV
+    *   Bearbeitung eines Antrags auf Erteilung einer Erlaubnis nach § 2
+        Absatz 4 Satz 1 KCanG (inklusive Überwachung)
 
-    *   ****
-
-
-*    *   1.1
-
-    *   Prüfung der Diäteignung eines Lebensmittels, das nicht bereits in
-        einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in
-        den Verkehr gebracht worden ist, nach § 4a Absatz 4 in Verbindung mit
-        Absatz 1 DiätV
-
-    *   1 000
-
-
-*    *   1.2
-
-    *   Prüfung der Diäteignung eines Lebensmittels, das bereits in einem
-        anderen Mitgliedstaat der Europäischen Union oder einem anderen
-        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in
-        den Verkehr gebracht worden ist, nach § 4a Absatz 4 in Verbindung mit
-        Absatz 1 und 2 DiätV
-
-    *   150 bis 1 000
+    *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Prüfung der Diäteignung eines Lebensmittels im Falle einer
-        Änderungsanzeige nach § 4a Absatz 4 DiätV
+    *   Bearbeitung der Anzeige der Änderung von Angaben im Antrag nach § 2
+        Absatz 4 Satz 3 KCanG in Verbindung mit § 8 des Medizinal-
+        Cannabisgesetzes (MedCanG) (inklusive Überwachung)
 
-    *   bis zur Hälfte der
-        in Nummer 1 für die
-        jeweilige Leistung
-        vorgesehenen Gebühr
+    *   nach Zeitaufwand
+
+
+*    *   3
+
+    *   Bearbeitung eines Antrags auf Erteilung einer Genehmigung zur Einfuhr
+        nach § 2 Absatz 4 Satz 3 KCanG in Verbindung mit §§ 12 und 14 MedCanG
+        in Verbindung mit § 3 Absatz 1 der Betäubungsmittel-
+        Außenhandelsverordnung (BtMAHV) und zur Ausfuhr nach § 2 Absatz 4 Satz
+        3 KCanG in Verbindung mit §§ 12 und 14 MedCanG in Verbindung mit § 9
+        Absatz 1 BtMAHV
+
+    *   nach Zeitaufwand
 
 
 
@@ -1164,50 +1160,13 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
     *   Genehmigung eines Antrags nach § 14 Absatz 1 Satz 1 Nummer 1 und
         Absatz 3 GenTG
 
-    *
-
-*    *   1.1
-
-    *   Prüfung und Genehmigung des Antrags
-
-    *   6 400 bis 25 800
-
-
-*    *   1.2
-
-    *   Stellungnahme der zuständigen Länderbehörden
-
-    *   nach Zeitaufwand
-
-
-*    *   1.3
-
-    *   Stellungnahme des Friedrich-Loeffler-Instituts, soweit gentechnisch
-        veränderte Wirbeltiere oder gentechnisch veränderte Mikroorganismen,
-        die an Wirbeltieren angewendet werden, betroffen sind
-
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Genehmigung eines Antrags nach § 14 Absatz 1 Satz 1 Nummer 2 oder 3
+    *   Genehmigung eines Antrags nach § 14 Absatz 1 Satz 1 Nummer 2 oder 3
         GenTG
-
-    *
-
-*    *   2.1
-
-    *   Prüfung und Genehmigung des Antrags
-
-    *   16 700 bis 61 900
-
-
-*    *   2.2
-
-    *   Stellungnahme des Friedrich-Loeffler-Instituts, soweit gentechnisch
-        veränderte Wirbeltiere oder gentechnisch veränderte Mikroorganismen,
-        die an Wirbeltieren angewendet werden, betroffen sind
 
     *   nach Zeitaufwand
 
@@ -1242,28 +1201,21 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
 
     *   Prüfung und Erteilung des Feststellungsbescheids
 
-    *   4 900 bis 17 400
+    *   1 700 bis 17 300
 
 
 *    *   5.2
 
-    *   Stellungnahme der zuständigen Länderbehörden
-
-    *   nach Zeitaufwand
-
-
-*    *   5.3
-
-    *   Stellungnahme des Friedrich-Loeffler-Instituts, soweit gentechnisch
-        veränderte Wirbeltiere oder gentechnisch veränderte Mikroorganismen,
-        die an Wirbeltieren angewendet werden, betroffen sind
+    *   Stellungnahme der zuständigen Länderbehörden, des Friedrich-Loeffler-
+        Instituts und des Robert-Koch-Instituts, zusätzlich zur Gebühr der
+        Nummer 5.1
 
     *   nach Zeitaufwand
 
 
 *    *   6
 
-    *   Nicht einfache schriftliche Auskunft
+    *   Nicht einfache, schriftliche Auskunft
 
     *   nach Zeitaufwand
 
@@ -1273,9 +1225,20 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
     *   Bei den Gebührentatbeständen dieses Abschnitts sind neben den Gebühren
         die Kosten für Bescheinigungen als Auslagen zu erheben.
 
-    *
+    *   in tatsächlich
+        entstandener Höhe
+
 
 *    *   8
+
+    *   Kosten für die Bekanntmachung im Bundesanzeiger anlässlich von
+        Genehmigungsverfahren nach dem GenTG sind als Auslagen zu erheben.
+
+    *   in tatsächlich
+        entstandener Höhe
+
+
+*    *   9
 
     *   Als gemeinnützig anerkannte Forschungseinrichtungen sind nach diesem
         Abschnitt gebühren- und auslagenbefreit.
@@ -1304,36 +1267,137 @@ Tiererzeugnisse-Handels-Verbotsgesetz (TierErzHaVerbG),
     *   Erteilung der Ausnahmegenehmigung nach § 68 Absatz 1 Satz 1 in
         Verbindung mit Absatz 2 und 3 LFGB
 
-    *   630 bis 15 800
+    *
+
+*    *   1.1
+
+    *   Prüfung des Antrags und Erteilung der Ausnahmegenehmigung
+
+    *   500 bis 13 600
+
+
+*    *   1.2
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Erteilung, je
+        Erteilung
+
+    *   180 bis 2 200
+
+
+*    *   1.3
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummer 1.1 und 1.2
+
+    *   nach Zeitaufwand
 
 
 *    *   2
 
     *   Verlängerung der Ausnahmegenehmigung nach § 68 Absatz 5 LFGB
 
-    *   610 bis 4 700
+    *
+
+*    *   2.1
+
+    *   Prüfung des Antrags und Verlängerung der Ausnahmegenehmigung
+
+    *   480 bis 4 200
+
+
+*    *   2.2
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Verlängerung, je
+        Verlängerung
+
+    *   170 bis 1 600
+
+
+*    *   2.3
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummer 2.1 und 2.2
+
+    *   nach Zeitaufwand
 
 
 *    *   3
 
-    *   Änderung der Ausnahmegenehmigung nach § 68 Absatz 1 Satz 1 in
-        Verbindung mit Absatz 2 und 3 LFGB
+    *   Änderung der Ausnahmegenehmigung nach § 68 Absatz 1 Satz 1 LFGB
 
-    *   610 bis 6 000
+    *
+
+*    *   3.1
+
+    *   Prüfung des Antrags und Änderung der Ausnahmegenehmigung
+
+    *   480 bis 5 100
+
+
+*    *   3.2
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Änderung, je
+        Änderung
+
+    *   170 bis 2 100
+
+
+*    *   3.3
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummer 3.1 und 3.2
+
+    *   nach Zeitaufwand
 
 
 *    *   4
 
-    *   Erweiterung der Ausnahmegenehmigung nach § 68 Absatz 1 Satz 1 in
-        Verbindung mit Absatz 2 und 3 LFGB
+    *   Erweiterung der Ausnahmegenehmigung nach § 68 Absatz 1 Satz 1 LFGB
 
-    *   570 bis 4 800
+    *
+
+*    *   4.1
+
+    *   Prüfung des Antrags und Erweiterung der Ausnahmegenehmigung
+
+    *   440 bis 4 000
+
+
+*    *   4.2
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Erweiterung, je
+        Erweiterung
+
+    *   170 bis 1 500
+
+
+*    *   4.3
+
+    *   Stellungnahme der zuständigen Länderbehörde, zusätzlich zu der Gebühr
+        der Nummer 4.1 und 4.2
+
+    *   nach Zeitaufwand
+
+
+*    *   5
+
+    *   Bewertung durch das Max-Rubner-Institut
+
+    *   nach Zeitaufwand
+
+
+*    *   6
+
+    *   Definition „Parallelantrag“:
+        Mehrere in der Regel zeitgleich eingereichte Anträge eines
+        Antragstellers für ähnliche Erzeugnisse
+
+    *
 
 
 
 
-
-## Abschnitt 10
+   ## Abschnitt 10
 
 
 ## Pflanzenschutzgesetz (PflSchG), Verordnung (EG) Nr. 1107/2009
@@ -1356,11 +1420,12 @@ Lebensmittelsicherheit
 
 *    *   1
 
-    *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 29 der Verordnung
-        (EG) Nr. 1107/2009, sofern es nur Wirkstoffe enthält, die bereits in
-        der Verordnung über genehmigte Wirkstoffe gemäß Artikel 13 Absatz 4
-        der Verordnung (EG) Nr. 1107/2009 aufgenommen sind und Deutschland
-        prüfender Mitgliedstaat ist
+    *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 28 und 29 der
+        Verordnung (EG) Nr. 1107/2009, sofern es nur Wirkstoffe enthält, die
+        bereits in der Durchführungsverordnung (EU)
+        Nr. 540/2011 hinsichtlich der Liste zugelassener Wirkstoffe gemäß
+        Artikel 13 Absatz 4 und Artikel 78 Absatz 3 der Verordnung (EG) Nr.
+        1107/2009 aufgenommen sind und Deutschland prüfender Mitgliedstaat ist
 
     *
 
@@ -1375,7 +1440,7 @@ Lebensmittelsicherheit
     *   Sofern das Pflanzenschutzmittel nicht von der Gebührennummer 1.1.2
         erfasst wird
 
-    *   53 900 bis 230 000
+    *   76 000 bis 317 000
 
 
 *    *   1.1.2
@@ -1383,7 +1448,7 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   24 000 bis 106 000
+    *   34 800 bis 149 000
 
 
 *    *   1.2
@@ -1397,7 +1462,7 @@ Lebensmittelsicherheit
 
     *   Sofern es nicht durch die Gebührennummer 1.2.2 erfasst wird
 
-    *   42 000 bis 154 000
+    *   56 600 bis 230 000
 
 
 *    *   1.2.2
@@ -1405,15 +1470,17 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   19 200 bis 72 400
+    *   26 300 bis 110 000
 
 
 *    *   2
 
-    *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 29 der Verordnung
-        (EG) Nr. 1107/2009, sofern es nur Wirkstoffe enthält, die bereits in
-        der Verordnung über genehmigte Wirkstoffe gemäß Artikel 13 Absatz 4
-        der Verordnung (EG) Nr. 1107/2009 aufgenommen sind und Deutschland
+    *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 28 und 29 der
+        Verordnung (EG) Nr. 1107/2009, sofern es nur Wirkstoffe enthält, die
+        bereits in der Durchführungsverordnung (EU)
+        Nr. 540/2011 vom 25. Mai 2011 zur Durchführung der Verordnung (EG) Nr.
+        1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der
+        Liste zugelassener Wirkstoffe aufgenommen sind und Deutschland
         beteiligter Mitgliedstaat ist
 
     *
@@ -1428,7 +1495,7 @@ Lebensmittelsicherheit
 
     *   Sofern es nicht durch die Gebührennummer 2.1.2 erfasst wird
 
-    *   39 800 bis 130 000
+    *   45 700 bis 145 000
 
 
 *    *   2.1.2
@@ -1436,7 +1503,7 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   19 500 bis 63 600
+    *   22 500 bis 71 200
 
 
 *    *   2.2
@@ -1450,7 +1517,7 @@ Lebensmittelsicherheit
 
     *   Sofern es nicht durch die Gebührennummer 2.2.2 erfasst wird
 
-    *   17 800 bis 50 700
+    *   39 700 bis 116 000
 
 
 *    *   2.2.2
@@ -1458,16 +1525,18 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   8 500 bis 24 200
+    *   19 400 bis 57 200
 
 
 *    *   3
 
     *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 30 der Verordnung
         (EG) Nr. 1107/2009, sofern es zumindest einen Wirkstoff, Safener oder
-        Synergisten enthält, der noch nicht in der Verordnung über genehmigte
-        Wirkstoffe gemäß Artikel 13 Absatz 4 der Verordnung (EG) Nr. 1107/2009
-        aufgenommen ist und Deutschland prüfender Mitgliedstaat ist
+        Synergisten enthält, der noch nicht in der Durchführungsverordnung
+        (EU) Nr. 540/2011 vom 25. Mai 2011 zur Durchführung der Verordnung
+        (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates
+        hinsichtlich der Liste zugelassener Wirkstoffe aufgenommen ist und
+        Deutschland prüfender Mitgliedstaat ist
 
     *
 
@@ -1482,7 +1551,7 @@ Lebensmittelsicherheit
     *   Sofern das Pflanzenschutzmittel nicht von der Gebührennummer 3.1.2
         erfasst wird
 
-    *   58 100 bis 247 000
+    *   80 100 bis 334 000
 
 
 *    *   3.1.2
@@ -1490,17 +1559,18 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   26 400 bis 115 000
+    *   37 200 bis 158 000
 
 
 *    *   4
 
     *   Zulassung eines Pflanzenschutzmittels gemäß Artikel 30 der Verordnung
         (EG) Nr. 1107/2009, sofern es zumindest einen Wirkstoff, Safener oder
-        Synergisten enthält, der noch nicht in der Verordnung über genehmigte
-        Wirkstoffe, Safener und Synergisten gemäß Artikel 13 Absatz 4 der
-        Verordnung (EG) Nr. 1107/2009 aufgenommen ist und Deutschland
-        beteiligter Mitgliedstaat ist
+        Synergisten enthält, der noch nicht in der Durchführungsverordnung
+        (EU) Nr. 540/2011 vom 25. Mai 2011 zur Durchführung der Verordnung
+        (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates
+        hinsichtlich der Liste zugelassener Wirkstoffe aufgenommen ist und
+        Deutschland beteiligter Mitgliedstaat ist
 
     *
 
@@ -1515,7 +1585,7 @@ Lebensmittelsicherheit
     *   Sofern das Pflanzenschutzmittel nicht von der Gebührennummer 4.1.2
         erfasst wird
 
-    *   40 600 bis 133 000
+    *   46 500 bis 148 000
 
 
 *    *   4.1.2
@@ -1523,7 +1593,7 @@ Lebensmittelsicherheit
     *   Im Falle von Pflanzenschutzmitteln mit geringem Risiko nach Artikel 47
         der Verordnung (EG) Nr. 1107/2009
 
-    *   19 400 bis 63 000
+    *   22 300 bis 70 600
 
 
 *    *   5
@@ -1531,7 +1601,7 @@ Lebensmittelsicherheit
     *   Gegenseitige Anerkennung nach Artikel 40 der Verordnung (EG) Nr.
         1107/2009
 
-    *   10 300 bis 70 600
+    *   13 600 bis 99 700
 
 
 *    *   6
@@ -1546,81 +1616,90 @@ Lebensmittelsicherheit
     *   Änderung der Zulassung von Amts wegen nach Artikel 44 der Verordnung
         (EG) Nr. 1107/2009
 
-    *   180 bis 4 300
+    *   380 bis 4 500
 
 
 *    *   6.2
+
+    *   Änderung der Zulassung auf Antrag nach Artikel 45 der Verordnung (EG)
+        Nr. 1107/2009 im Falle der Aufnahme von zusätzlichen oder geänderten
+        Anwendungsbestimmungen/Auflagen
+
+    *   4 200 bis 31 900
+
+
+*    *   6.3
 
     *   Änderung der Zulassung nach Artikel 44 der Verordnung (EG) Nr.
         1107/2009 im Falle der Anordnung des Ruhens einer Zulassung nach § 39
         Absatz 4 PflSchG
 
-    *   880 bis 2 100
+    *   630 bis 1 300
 
 
-*    *   6.3
+*    *   6.4
 
     *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
         1107/2009 im Falle der Änderung der Bezeichnung eines zugelassenen
         Pflanzenschutzmittels, der Änderung des Inhabers der Zulassung oder
         der Änderung des Vertriebsunternehmens bzw. der Vertriebserweiterung
 
-    *   230 bis 730
+    *   290 bis 710
 
 
-*    *   6.4
+*    *   6.5
 
     *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
         1107/2009 im Falle der Änderung der Formulierung
 
     *
 
-*    *   6.4.1
+*    *   6.5.1
 
     *   Im Antragsverfahren
 
-    *   1 600 bis 9 900
+    *   1 600 bis 12 000
 
 
-*    *   6.4.2
+*    *   6.5.2
 
     *   Im Anzeigeverfahren
 
-    *   370 bis 1 200
-
-
-*    *   6.5
-
-    *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
-        1107/2009 im Falle der Änderung der Produktion des technischen
-        Wirkstoffs
-
-    *   320 bis 10 200
+    *   280 bis 1 100
 
 
 *    *   6.6
 
     *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
-        1107/2009 im Falle der Aufnahme von zusätzlichen oder geänderten
-        Anwendungsgebieten/Anwendungen oder Anwendungsbestimmungen/Auflagen
+        1107/2009 im Falle der Änderung der Produktion des technischen
+        Wirkstoffs
 
-    *   6 600 bis 51 800
+    *   510 bis 10 100
 
 
 *    *   6.7
 
     *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
-        1107/2009 im Falle der Änderung der Verpackung
+        1107/2009 im Falle der Aufnahme von zusätzlichen oder geänderten
+        Anwendungsgebieten/Anwendungen
 
-    *   400 bis 1 400
+    *   11 800 bis 191 000
 
 
 *    *   6.8
 
+    *   Änderung der Zulassung nach Artikel 45 der Verordnung (EG) Nr.
+        1107/2009 im Falle der Änderung der Verpackung
+
+    *   870 bis 1 700
+
+
+*    *   6.9
+
     *   Aufhebung der Zulassung auf Antrag des Zulassungsinhabers gemäß
         Artikel 45 der Verordnung (EG) Nr. 1107/2009
 
-    *   470 bis 2 000
+    *   370 bis 2 000
 
 
 *    *   7
@@ -1636,13 +1715,13 @@ Lebensmittelsicherheit
         geringfügige Verwendungen nach Artikel 51 Absatz 7 der Verordnung (EG)
         Nr. 1107/2009
 
-    *   3 200 bis 16 000
+    *   16 200 bis 45 300
 
 
 *    *   7.2
 
     *   Ausweitung des Geltungsbereichs von Zulassungen auf geringfügige
-        Verwendungen nach Artikel 51 Absatz 2 der Verordnung (EG) Nr.
+        Verwendungen nach Artikel 51 Absatz 1 und 2 der Verordnung (EG) Nr.
         1107/2009
 
     *
@@ -1651,21 +1730,21 @@ Lebensmittelsicherheit
 
     *   Erstmalige Zulassung und Deutschland prüfender Mitgliedstaat ist
 
-    *   3 000 bis 20 100
+    *   7 300 bis 22 200
 
 
 *    *   7.2.2
 
     *   Erneuerung einer Zulassung und Deutschland prüfender Mitgliedstaat ist
 
-    *   2 600 bis 14 100
+    *   5 900 bis 16 800
 
 
 *    *   7.2.3
 
     *   Erstmalige Zulassung und Deutschland beteiligter Mitgliedstaat ist
 
-    *   2 800 bis 17 500
+    *   6 000 bis 20 000
 
 
 *    *   7.2.4
@@ -1673,7 +1752,7 @@ Lebensmittelsicherheit
     *   Erneuerung einer Zulassung und Deutschland beteiligter Mitgliedstaat
         ist
 
-    *   2 500 bis 11 500
+    *   4 300 bis 11 700
 
 
 *    *   8
@@ -1706,7 +1785,7 @@ Lebensmittelsicherheit
         als Substitutionskandidat nach Artikel 50 der Verordnung (EG) Nr.
         1107/2009 zugelassen ist
 
-    *   3 800 bis 21 400
+    *   4 900 bis 24 600
 
 
 *    *   8.4
@@ -1722,7 +1801,7 @@ Lebensmittelsicherheit
     *   Äquivalenzprüfung für Wirkstoffe, Safener und Synergisten nach Artikel
         38 der Verordnung (EG) Nr. 1107/2009
 
-    *   1 400 bis 10 600
+    *   1 800 bis 10 800
 
 
 *    *   8.6
@@ -1739,7 +1818,7 @@ Lebensmittelsicherheit
         Flächen, die für die Allgemeinheit bestimmt sind nach § 17 Absatz 1
         Satz 1 Nummer 2 PflSchG
 
-    *   4 600 bis 9 900
+    *   5 000 bis 10 700
 
 
 *    *   8.8
@@ -1747,7 +1826,7 @@ Lebensmittelsicherheit
     *   Bewertung der Eignung eines Pflanzenschutzmittels zur Anwendung mit
         Luftfahrzeugen nach § 18 Absatz 3 Nummer 1 PflSchG
 
-    *   1 900 bis 15 600
+    *   2 200 bis 16 700
 
 
 *    *   9
@@ -1761,19 +1840,20 @@ Lebensmittelsicherheit
     *   Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG)
         Nr. 1107/2009
 
-    *   190 bis 910
+    *   330 bis 1 200
 
 
 *    *   9.2
 
     *   Genehmigung des Inverkehrbringens oder Genehmigung oder Bearbeitung
-        der Anzeige der Anwendung eines nicht zugelassenen
-        Pflanzenschutzmittels für Versuche zu Forschungs- und
+        der Anzeige der Anwendung nicht zugelassener Pflanzenschutzmittel oder
+        der Anwendung zugelassener Pflanzenschutzmittel in einer nicht
+        zugelassenen Anwendung für Versuche zu Forschungs- und
         Entwicklungszwecken nach Artikel 28 Absatz 2 Buchstabe b in Verbindung
         mit Artikel 54 der Verordnung (EG) Nr. 1107/2009 und § 20 Absatz 3
         Satz 3 PflSchG
 
-    *   240 bis 2 700
+    *   230 bis 2 800
 
 
 *    *   9.3
@@ -1781,7 +1861,7 @@ Lebensmittelsicherheit
     *   Vollständige oder teilweise Untersagung der Durchführung von Versuchen
         nach § 20 Absatz 3 Satz 4 PflSchG
 
-    *   200 bis 530
+    *   230 bis 2 800
 
 
 *    *   9.4
@@ -1790,7 +1870,7 @@ Lebensmittelsicherheit
         zugelassenen Pflanzenschutzmittels in Notfallsituationen nach Artikel
         53 der Verordnung (EG) Nr. 1107/2009
 
-    *   510 bis 8 000
+    *   1 100 bis 16 300
 
 
 *    *   9.5
@@ -1799,9 +1879,9 @@ Lebensmittelsicherheit
         Pflanzenschutzmitteln für die Ausfuhr nach § 58 Absatz 1 Nummer 4
         PflSchG, sowie das Erstellen von Ausfertigungen und Kopien, soweit
         diese Kosten betreffen, die nicht nach den Auslagentatbeständen der
-        Nr. 14 abgerechnet werden.
+        Nummer 14 abgerechnet werden.
 
-    *   29 bis 600
+    *   190 bis 2 200
 
 
 *    *   9.6
@@ -1819,27 +1899,27 @@ Lebensmittelsicherheit
         Pflanzenschutzmittels zur Anwendung an Befallsgegenständen, die für
         die Ausfuhr bestimmt sind, sofern für diese abweichende Anforderungen
         gelten oder die Pflanzenschutzmittel im Bestimmungsland für diese
-        Anwendung zugelassen sind nach § 29 Absatz 1 Nummer 2 PflSchG
+        Anwendung zugelassen sind nach § 29 Absatz 1 Satz 1 Nummer 2 PflSchG
 
-    *   880 bis 8 200
+    *   930 bis 4 400
 
 
 *    *   9.8
 
     *   Genehmigung zur Anwendung eines Pflanzenschutzmittels auf Flächen, die
-        für die Allgemeinheit bestimmt sind nach § 17 Absatz 1 Satz 1 Nummer 3
+        für die Allgemeinheit bestimmt sind nach § 17 Absatz 1 Satz 1 Nummer 3
         in Verbindung mit Absatz 2 PflSchG
 
-    *   10 200 bis 23 500
+    *   10 900 bis 24 200
 
 
 *    *   9.9
 
     *   Genehmigung zur Anwendung eines Pflanzenschutzmittels mit
-        Luftfahrtzeugen nach § 18 Absatz 3 Nummer 2 in Verbindung mit Absatz 4
+        Luftfahrtzeugen nach § 18 Absatz 3 Nummer 2 in Verbindung mit Absatz 4
         PflSchG
 
-    *   7 700 bis 27 900
+    *   9 500 bis 32 600
 
 
 *    *   9.10
@@ -1847,7 +1927,7 @@ Lebensmittelsicherheit
     *   Äquivalenzprüfung für Wirkstoffe, Safener und Synergisten nach Artikel
         38 der Verordnung (EG) Nr. 1107/2009
 
-    *   1 400 bis 10 000
+    *   1 700 bis 10 100
 
 
 *    *   10
@@ -1863,7 +1943,7 @@ Lebensmittelsicherheit
         der Genehmigung eines Wirkstoffs nach Artikel 7 der Verordnung (EG)
         Nr. 1107/2009
 
-    *   227 000 bis 606 000
+    *   186 000 bis 658 000
 
 
 *    *   10.2
@@ -1874,7 +1954,7 @@ Lebensmittelsicherheit
         7 in Verbindung mit Artikel 12 Absatz 3 und Artikel 13 Absatz 3 der
         Verordnung (EG) Nr. 1107/2009
 
-    *   133 000 bis 309 000
+    *   35 700 bis 209 000
 
 
 *    *   10.3
@@ -1883,7 +1963,7 @@ Lebensmittelsicherheit
         Genehmigung eines Wirkstoffs nach Artikel 15 der Verordnung (EG) Nr.
         1107/2009
 
-    *   216 000 bis 616 000
+    *   174 00 bis 669 000
 
 
 *    *   10.4
@@ -1894,7 +1974,7 @@ Lebensmittelsicherheit
         im Rahmen des Verfahrens gemäß Artikel 15 der Verordnung (EG) Nr.
         1107/2009
 
-    *   44 400 bis 178 000
+    *   40 000 bis 197 000
 
 
 *    *   10.5
@@ -1902,7 +1982,7 @@ Lebensmittelsicherheit
     *   Bearbeitung und Bewertung eines Antrags auf Genehmigung von Safenern
         und Synergisten nach Artikel 25 der Verordnung (EG) Nr. 1107/2009
 
-    *   227 000 bis 556 000
+    *   183 000 bis 593 000
 
 
 *    *   10.6
@@ -1911,7 +1991,7 @@ Lebensmittelsicherheit
         von Safenern und Synergisten gemäß Artikel 15 in Verbindung mit
         Artikel 25 der Verordnung (EG) Nr. 1107/2009
 
-    *   227 000 bis 556 000
+    *   183 000 bis 593 000
 
 
 *    *   10.7
@@ -1921,7 +2001,7 @@ Lebensmittelsicherheit
         Verbraucherschutz und Lebensmittelsicherheit bei der Kommission auf
         Veranlassung eines Dritten
 
-    *   65 000 bis 106 000
+    *   34 300 bis 96 500
 
 
 *    *   11
@@ -1937,7 +2017,7 @@ Lebensmittelsicherheit
         Änderung der Genehmigung eines Wirkstoffs nach Artikel 7 der
         Verordnung (EG) Nr. 1107/2009
 
-    *   122 000 bis 353 000
+    *   78 500 bis 254 000
 
 
 *    *   11.2
@@ -1946,7 +2026,7 @@ Lebensmittelsicherheit
         Genehmigung eines Wirkstoffs nach Artikel 15 der Verordnung (EG) Nr.
         1107/2009
 
-    *   122 000 bis 353 000
+    *   78 500 bis 254 000
 
 
 *    *   11.3
@@ -1955,7 +2035,7 @@ Lebensmittelsicherheit
         Safenern und Synergisten nach Artikel 25 der Verordnung (EG) Nr.
         1107/2009
 
-    *   101 000 bis 290 000
+    *   69 900 bis 216 000
 
 
 *    *   11.4
@@ -1964,7 +2044,7 @@ Lebensmittelsicherheit
         Genehmigung von Safenern und Synergisten gemäß Artikel 15 in
         Verbindung mit Artikel 25 der Verordnung (EG) Nr. 1107/2009
 
-    *   101 000 bis 290 000
+    *   69 900 bis 216 000
 
 
 *    *   12
@@ -1978,7 +2058,7 @@ Lebensmittelsicherheit
     *   Zusätzliche Prüfung und Bewertung eines Antrags nach Artikel 4 Absatz
         7 der Verordnung (EG) Nr. 1107/2009
 
-    *   1 800 bis 5 300
+    *   3 300 bis 15 900
 
 
 *    *   12.2
@@ -1987,7 +2067,15 @@ Lebensmittelsicherheit
         wissenschaftliche/technische Unterstützung gegenüber der Kommission
         gemäß Artikel 21 Absatz 2 der Verordnung (EG) Nr. 1107/2009
 
-    *   560 bis 119 000
+    *   31 100 bis 122 000
+
+
+*    *   12.3
+
+    *   Data Matching gemäß Artikel 33 und Artikel 43 der Verordnung (EG) Nr.
+        1107/2009 mit Deutschland als prüfender Mitgliedstaat
+
+    *   nach Zeitaufwand
 
 
 *    *   13
@@ -2000,7 +2088,7 @@ Lebensmittelsicherheit
 
     *   Genehmigung eines Zusatzstoffes nach § 42 Absatz 2 PflSchG
 
-    *   1 500 bis 6 200
+    *   1 600 bis 7 100
 
 
 *    *   13.2
@@ -2009,7 +2097,7 @@ Lebensmittelsicherheit
         des Zusatzstoffes nach Anforderung von Unterlagen und Proben nach § 42
         Absatz 3 Satz 4 PflSchG erfolgt
 
-    *   100 bis 9 200
+    *   1 300 bis 11 800
 
 
 *    *   13.3
@@ -2017,7 +2105,7 @@ Lebensmittelsicherheit
     *   Änderung der Formulierung oder Kennzeichnung eines nach § 42 Absatz 2
         PflSchG genehmigten Zusatzstoffes
 
-    *   100 bis 6 500
+    *   590 bis 7 000
 
 
 *    *   13.4
@@ -2025,7 +2113,7 @@ Lebensmittelsicherheit
     *   Aufnahme in die Liste der Pflanzenstärkungsmittel nach § 45 Absatz 3
         Satz 2 PflSchG auf der Grundlage einer Mitteilung
 
-    *   1 800 bis 3 500
+    *   7 500 bis 14 500
 
 
 *    *   13.5
@@ -2033,7 +2121,7 @@ Lebensmittelsicherheit
     *   Änderungen der Formulierung oder Kennzeichnung des
         Pflanzenstärkungsmittels gemäß § 45 Absatz 3 Satz 3 PflSchG
 
-    *   1 300
+    *   3 100
 
 
 *    *   13.6
@@ -2041,7 +2129,7 @@ Lebensmittelsicherheit
     *   Untersagung des Inverkehrbringens eines Pflanzenstärkungsmittels nach
         § 45 Absatz 4 PflSchG
 
-    *   3 900
+    *   10 300
 
 
 *    *   13.7
@@ -2182,21 +2270,23 @@ Lebensmittelsicherheit
         Abschnitts**
         (1) Die nach den Nummern 1, 2, 3, 4, 5, 6.5, 7, 8.7, 9.4, 9.8, 10, 11
         zu erhebenden Gebühren sind auf Antrag des Gebührenschuldners bis auf
-        ein Viertel der vorgesehenen Gebühr zu ermäßigen, wenn ein
-        öffentliches Interesse an der Zulassung oder der Erweiterung der
-        Zulassung des Pflanzenschutzmittels, der Aufnahme des Wirkstoffs in
-        die Verordnung über genehmigte Wirkstoffe nach Artikel 13 Absatz 4 der
-        Verordnung (EG) Nr. 1107/2009 oder der Genehmigung der Anwendung des
-        Pflanzenschutzmittels auf Flächen, die für die Allgemeinheit bestimmt
-        sind, besteht und ein angemessener wirtschaftlicher Nutzen für den
-        Antragsteller nicht zu erwarten ist.
+        ein Viertel der vorgesehenen Gebühr zu ermäßigen bis die Behörde über
+        die individuell zurechenbare öffentliche Leistungen entschieden hat,
+        wenn ein öffentliches Interesse an der Zulassung oder der Erweiterung
+        der Zulassung des Pflanzenschutzmittels, der Aufnahme des Wirkstoffs
+        in die Verordnung über genehmigte Wirkstoffe nach Artikel 13 Absatz 4
+        der Verordnung (EG) Nr. 1107/2009 oder der Genehmigung der Anwendung
+        des Pflanzenschutzmittels auf Flächen, die für die Allgemeinheit
+        bestimmt sind, besteht und ein angemessener wirtschaftlicher Nutzen
+        für den Antragsteller nicht zu erwarten ist.
         (2) Von der Erhebung der nach der Nummer 7 vorgesehenen Gebühr ist auf
-        Antrag des Gebührenschuldners abzusehen, wenn ein öffentliches
-        Interesse an der Erweiterung der Zulassung des Pflanzenschutzmittels
-        besteht und kein oder nur ein besonders geringer wirtschaftlicher
-        Nutzen für den Antragsteller zu erwarten ist. Wenn die individuell
-        zurechenbare öffentliche Leistung gemäß Satz 1 gebührenfrei ist,
-        werden Auslagen nicht erhoben.
+        Antrag des Gebührenschuldners abzusehen bis die Behörde über die
+        individuell zurechenbare öffentliche Leistungen entschieden hat, wenn
+        ein öffentliches Interesse an der Erweiterung der Zulassung des
+        Pflanzenschutzmittels besteht und kein oder nur ein besonders geringer
+        wirtschaftlicher Nutzen für den Antragsteller zu erwarten ist. Wenn
+        die individuell zurechenbare öffentliche Leistung gemäß Satz 1
+        gebührenfrei ist, werden Auslagen nicht erhoben.
         (3) Ein öffentliches Interesse im Sinne der Absätze 1 und 2 liegt in
         der Regel vor, wenn das Pflanzenschutzmittel oder der Wirkstoff
 
@@ -2234,9 +2324,7 @@ Lebensmittelsicherheit
         Kultur, das Gefährdungspotenzial eines Schaderregers, die
         Wahrscheinlichkeit des Auftretens des Schadorganismus, der zu
         erwartende Marktanteil des Pflanzenschutzmittels oder des Wirkstoffs
-        und der Entwicklungsaufwand zu berücksichtigen. Kein oder ein nur
-        besonders geringer wirtschaftlicher Nutzen nach Absatz 2 liegt vor,
-        wenn kein oder nur ein sehr geringer Gewinn zu erwarten ist.
+        und der Entwicklungsaufwand zu berücksichtigen.
 
 
 
@@ -2272,81 +2360,34 @@ Lebensmittelsicherheit
 
 *    *   1.2
 
-    *   Anbaugeräte, Geräte für das Verteilen von Pellets sowie Granulaten und
-        Stäuben, Selbstfahrgeräte für das Verteilen flüssiger
-        Pflanzenschutzmittel (einschließlich 1 Satz Düsen oder 1
-        Verteileinrichtung)
+    *   Geräte für das Ausbringen von Pellets sowie Granulaten und Stäuben
+        (einschließlich 1 Verteileinrichtung)
 
     *   2 300 bis 18 600
 
 
 *    *   1.3
 
-    *   Anhänge- und Aufbaugeräte sowie Selbstfahrgeräte, die in ihren
-        Abmessungen oder Flächenleistungen wesentlich über denjenigen der
-        üblichen Geräte liegen (einschließlich 1 Satz Düsen)
+    *   Geräte für das Ausbringen von Flüssigkeiten (einschließlich 1
+        Verteileinrichtung)
 
     *   2 600 bis 27 800
 
 
 *    *   1.4
 
-    *   Rückentragbare Motorgeräte
+    *   Tragbare Geräte für das Ausbringen von festen, flüssigen und
+        gasförmigen Stoffen
 
-    *   1 300 bis 8 600
+    *   900 bis 8 600
 
 
 *    *   1.5
 
-    *   Tragbare Nebelgeräte
+    *   Sonstige Geräte (sofern nicht durch die Gebührennummern 1.2 bis 1.4
+        erfasst)
 
-    *   1 100 bis 5 900
-
-
-*    *   1.6
-
-    *   Handbetätigte rücken- oder schultertragbare Geräte, einschließlich
-        tragbarer Geräte für geschlossene Räume (z. B. Kleinnebler und
-        -verdampfer)
-
-    *   900 bis 4 900
-
-
-*    *   1.7
-
-    *   Handtragbare Geräte für das Ausbringen fester oder flüssiger
-        Pflanzenschutzmittel
-
-    *   1 000 bis 4 700
-
-
-*    *   1.8
-
-    *   Beizgeräte für Saatgut
-
-    *   2 600 bis 18 600
-
-
-*    *   1.9
-
-    *   Spritzgeräte für Luftfahrzeuge
-
-    *   2 300 bis 21 600
-
-
-*    *   1.10
-
-    *   Spritzgeräte für Schienenfahrzeuge
-
-    *   2 600 bis 29 300
-
-
-*    *   1.11
-
-    *   Sonstige Geräte (z. B. Geräte für Bodenentseuchung, Begasung,
-        Nagetierbekämpfung)
-
-    *   900 bis 18 300
+    *   900 bis 29 300
 
 
 *    *   2
@@ -2358,68 +2399,45 @@ Lebensmittelsicherheit
 
 *    *   2.1
 
-    *   Spritzgestänge oder Gebläse (einschließlich 1 Düsensatz oder 1
-        Düsenbogen)
+    *   Spritzgestänge oder Gebläse (einschließlich 1 Verteileinrichtung)
 
     *   2 400 bis 9 800
 
 
 *    *   2.2
 
-    *   Düsenmundstück, Düsenplättchen- oder Düsenfiltersätze
+    *   Verteileinrichtung (zum Beispiel Düsensatz, Zerstäuber)
 
     *   1 500 bis 6 000
 
 
 *    *   2.3
 
-    *   Schläuche
+    *   Andere Geräteteile (zum Beispiel Schläuche, Pumpen, Ventile,
+        Steuerungen)
 
-    *   480 bis 2 300
-
-
-*    *   2.4
-
-    *   Pumpen
-
-    *   590 bis 3 200
-
-
-*    *   2.5
-
-    *   Andere Geräteteile
-
-    *   420 bis 5 500
+    *   420 bis 29 300
 
 
 *    *   3
 
-    *   Prüfung einer Variante des Gerätetyps der in den Gebührennummern 1 und
-        2 genannten Geräte oder Geräteteile ohne zusätzliche Messungen nach §
-        16 Absatz 1 in Verbindung mit § 52 Absatz 1 PflSchG
+    *   Sonstige Prüfung nach § 16 Absatz 1 in Verbindung mit § 52 Absatz 1
+        PflSchG (zum Beispiel Dokumentenprüfung, Sichtprüfung, technische
+        Messung, ENTAM)
 
-    *   270 bis 10 200
+    *   210 bis 29 300
 
 
 *    *   4
 
-    *   Prüfung der Mängelbeseitigung der in den Gebührennummern 1 und 2
-        genannten Geräte und Geräteteile nach § 16 Absatz 1 in Verbindung mit
-        § 52 Absatz 1 PflSchG
+    *   Erneute Prüfung der in den Gebührennummern 1 und 2 genannten Geräte
+        oder Geräteteile nach § 16 Absatz 1 in Verbindung mit § 52 Absatz 1
+        PflSchG
 
-    *   210 bis 10 200
+    *   210 bis 9 800
 
 
 *    *   5
-
-    *   Erneute Prüfung der in den Gebührennummern 1 und 2 genannten Geräte
-        oder Geräteteile ohne zusätzliche Messungen nach § 16 Absatz 1 in
-        Verbindung mit § 52 Absatz 1 PflSchG
-
-    *   210 bis 2 700
-
-
-*    *   6
 
     *   Prüfung für jeden weiteren Einsatzbereich eines Gerätes oder
         Geräteteiles der Gebührennummern 1 und 2 nach § 16 Absatz 1 in
@@ -2428,60 +2446,45 @@ Lebensmittelsicherheit
     *   690 bis 17 700
 
 
-*    *   7
+*    *   6
 
     *   Freiwillige Prüfung auf das Vorliegen besonderer Anforderungen nach §
-        16 Absatz 3 in Verbindung mit § 52 Absatz 1 PflSchG
-
-    *   100 bis 300
-
-
-*    *   8
-
-    *   Freiwillige Prüfung der Abdriftminderung im Rahmen der Prüfung nach §
-        52 PflSchG
+        16 Absatz 3 in Verbindung mit § 52 Absatz 1 PflSchG (zum Beispiel
+        Abdriftminderung, Pflanzenschutzmitteleinsparung)
 
     *   340 bis 1 000
 
 
-*    *   9
-
-    *   Freiwillige Prüfung der Pflanzenschutzmitteleinsparung im Rahmen der
-        Prüfung nach § 52 PflSchG
-
-    *   340 bis 1 000
-
-
-*    *   10
+*    *   7
 
     *   Anerkennung einer Prüfstelle nach § 52 Absatz 3 PflSchG
 
     *   340 bis 4 700
 
 
-*    *   11
+*    *   8
 
     *   Aufnahme in die Liste der Saatgutbehandlungseinrichtungen mit
-        Qualitätssicherungssystemen zur Staubminderungen nach § 57 Absatz 3
+        Qualitätssicherungssystemen zur Staubminderung nach § 57 Absatz 3
         PflSchG
 
     *   59 bis 620
 
 
-*    *   12
+*    *   9
 
     *   Prüfung von Sägeräten nach § 57 Absatz 3 PflSchG
 
     *
 
-*    *   12.1
+*    *   9.1
 
     *   Allgemeine Bearbeitung des Antrags
 
     *   59 bis 400
 
 
-*    *   12.2
+*    *   9.2
 
     *   Messung der Staubabdrift im Freiland auf Grundlage des Antrags nach
         Gebührennummer 12.1
@@ -2489,17 +2492,74 @@ Lebensmittelsicherheit
     *   1 200 bis 7 200
 
 
-*    *   12.3
+*    *   9.3
 
     *   Bewertung und Listung
 
     *   190 bis 680
 
 
-*    *   13
+*    *   10
 
     *   Die Untersuchung von Bienen auf Schäden durch Pflanzenschutzmittel
         nach § 57 Absatz 2 Nummer 11 PflSchG ist gebührenfrei.
+
+    *
+
+*    *   11
+
+    *   Sonstige Prüfung nach § 57 Absatz 3 PflSchG
+
+    *   900 bis 29 300
+
+
+*    *   12
+
+    *   Bei den Gebührentatbeständen dieses Abschnitts sind neben den Gebühren
+        folgende Kosten als Auslagen zu erheben:
+
+    *
+
+*    *   12.1
+
+    *   Aufwendungen für den Einsatz von Geräten
+
+    *
+
+*    *   12.2
+
+    *   Aufwendungen für die Herstellung der Prüffähigkeit
+
+    *
+
+*    *   12.3
+
+    *   Aufwendungen für Betriebsstoffe
+
+    *
+
+*    *   12.4
+
+    *   Aufwendungen für die Anwendung von Pflanzenschutzmitteln oder
+        Hilfsstoffen
+
+    *
+
+*    *   12.5
+
+    *   Aufwendungen für Verbrauchsmaterial
+
+    *
+
+*    *   12.6
+
+    *   Aufwendungen für die Beschaffung und Entsorgung von Proben
+
+    *
+
+*    *   12.7
+
+    *   Zusätzliche Aufwendungen gemäß § 12 BGebG
 
     *
 
@@ -2509,7 +2569,8 @@ Lebensmittelsicherheit
    ## Abschnitt 11
 
 
-## Tabakerzeugnisgesetz (TabakerzG)
+## Tabakerzeugnisgesetz (TabakerzG), Durchführungsverordnung (EU)
+2016/779
 
 
 *    *   Nummer
@@ -2528,25 +2589,73 @@ Lebensmittelsicherheit
 
 *    *   1.1
 
-    *   Zulassung neuartiger Tabakerzeugnisse nach § 12 Absatz 1 TabakerzG
+    *   Zulassung neuartiger Tabakerzeugnisse nach § 12 Absatz 1 TabakerzG
 
-    *   8 500 bis 11 200
+    *   8 600 bis 13 800
 
 
 *    *   1.2
 
-    *   Änderung der Zulassung neuartiger Tabakerzeugnisse nach § 12 Absatz 1
-        TabakerzG
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Zulassung, je
+        Zulassung
 
-    *   530 bis 9 500
+    *   320 bis 6 000
 
 
 *    *   1.3
 
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 1.1 und 1.2
+
+    *   nach Zeitaufwand
+
+
+*    *   1.4
+
+    *   Änderung der Zulassung neuartiger Tabakerzeugnisse nach § 12 Absatz 1
+        TabakerzG
+
+    *   870 bis 12 000
+
+
+*    *   1.5
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Änderung, je
+        Änderung
+
+    *   320 bis 6 000
+
+
+*    *   1.6
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 1.4 und 1.5
+
+    *   nach Zeitaufwand
+
+
+*    *   1.7
+
     *   Erweiterung der Zulassung neuartiger Tabakerzeugnisse nach § 12 Absatz
         1 TabakerzG
 
-    *   550 bis 9 500
+    *   890 bis 12 000
+
+
+*    *   1.8
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Erweiterung, je
+        Erweiterung
+
+    *   320 bis 6 000
+
+
+*    *   1.9
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 1.7 und 1.8
+
+    *   nach Zeitaufwand
 
 
 *    *   2
@@ -2560,34 +2669,135 @@ Lebensmittelsicherheit
     *   Erstmalige Erteilung der Ausnahmegenehmigung nach § 39 Absatz 1
         TabakerzG
 
-    *   2 300 bis 4 800
+    *   2 900 bis 10 000
 
 
 *    *   2.2
 
-    *   Verlängerung der Ausnahmegenehmigung nach § 39 Absatz 5 TabakerzG
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Erteilung, je
+        Erteilung
 
-    *   610 bis 4 000
+    *   380 bis 4 000
 
 
 *    *   2.3
 
-    *   Änderung der Ausnahmegenehmigung nach § 39 Absatz 1 TabakerzG
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 2.1 und 2.2
 
-    *   530 bis 4 500
+    *   nach Zeitaufwand
 
 
 *    *   2.4
 
-    *   Erweiterung der Ausnahmegenehmigung nach § 39 Absatz 1 TabakerzG
+    *   Verlängerung der Ausnahmegenehmigung nach § 39 Absatz 5 TabakerzG
 
-    *   550 bis 4 300
-
-
+    *   1 200 bis 9 100
 
 
+*    *   2.5
 
-## Abschnitt 12
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Verlängerung, je
+        Verlängerung
+
+    *   380 bis 4 000
+
+
+*    *   2.6
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 2.4 und 2.5
+
+    *   nach Zeitaufwand
+
+
+*    *   2.7
+
+    *   Änderung der Ausnahmegenehmigung nach § 39 Absatz 1 TabakerzG
+
+    *   1 200 bis 9 400
+
+
+*    *   2.8
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Änderung, je
+        Änderung
+
+    *   380 bis 4 000
+
+
+*    *   2.9
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 2.7 und 2.8
+
+    *   nach Zeitaufwand
+
+
+*    *   2.10
+
+    *   Erweiterung der Ausnahmegenehmigung nach § 39 Absatz 1 TabakerzG
+
+    *   1 200 bis 9 400
+
+
+*    *   2.11
+
+    *   Parallelantrag zusätzlich zur Gebühr für die erste Erweiterung, je
+        Erweiterung
+
+    *   380 bis 4 000
+
+
+*    *   2.12
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 2.10 und 2.11
+
+    *   nach Zeitaufwand
+
+
+*    *   3
+
+    *   Verfahren nach Artikel 3 der Durchführungsverordnung (EU)
+        2016/779
+
+    *
+
+*    *   3.1
+
+    *   Deutschland als einleitender Mitgliedstaat
+
+    *   6 300 bis 721 000
+
+
+*    *   3.2
+
+    *   Deutschland nicht als einleitender Mitgliedstaat
+
+    *   2 900 bis 330 000
+
+
+*    *   3.3
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummern 3.1 oder 3.2
+
+    *   nach Zeitaufwand
+
+
+*    *   4
+
+    *   Definition „Parallelantrag“:
+        Mehrere in der Regel zeitgleich eingereichte Anträge eines
+        Antragstellers für ähnliche Erzeugnisse
+
+    *
+
+
+
+
+   ## Abschnitt 12
 
 
 ## Verordnung (EU) 2015/2283, Durchführungsverordnung (EU) 2018/456
@@ -2607,7 +2817,15 @@ Lebensmittelsicherheit
         Novel Food nach Artikel 4 Absatz 2 der Verordnung (EU) 2015/2283 in
         Verbindung mit der Durchführungsverordnung (EU) 2018/456
 
-    *   680 bis 7 800
+    *   480 bis 2 100
+
+
+*    *   2
+
+    *   Stellungnahme der zuständigen Länderbehörden, zusätzlich zu der Gebühr
+        der Nummer 1
+
+    *   nach Zeitaufwand
 
 
 
@@ -2640,7 +2858,7 @@ Lebensmittelsicherheit
     *   Im Falle eines Wirkstoffs, Safeners oder Synergisten, der in der EU
         nicht genehmigt ist
 
-    *   6 200 bis 45 000
+    *   12 800 bis 59 600
 
 
 *    *   1.2
@@ -2650,7 +2868,7 @@ Lebensmittelsicherheit
         Kulturgruppe geltende Rückstandsdefinition festgelegt sind oder eine
         Rückstandsdefinition zu überprüfen ist
 
-    *   3 300 bis 23 000
+    *   9 800 bis 37 000
 
 
 *    *   1.3
@@ -2659,7 +2877,7 @@ Lebensmittelsicherheit
         EU die toxikologischen Endpunkte und die für die beantragte
         Kulturgruppe geltende Rückstandsdefinition festgelegt sind
 
-    *   2 800 bis 25 000
+    *   6 500 bis 34 500
 
 
 *    *   1.4
@@ -2668,7 +2886,7 @@ Lebensmittelsicherheit
         Überprüfung von Rückstandshöchstgehalten gemäß Artikel 12 oder Artikel
         43 der Verordnung (EG) Nr. 396/2005
 
-    *   4 300 bis 38 000
+    *   5 600 bis 45 200
 
 
 *    *   2
@@ -2692,25 +2910,37 @@ Lebensmittelsicherheit
     *   Im Falle eines Wirkstoffs, Safeners oder Synergisten, für den
         Deutschland als nicht bewertender Mitgliedstaat zuständig ist
 
-    *   1 100 bis 5 600
+    *   1 200 bis 6 400
 
 
 *    *   3
 
+    *   Festsetzung eines temporären nationalen Rückstandshöchstgehaltes für
+        einen Wirkstoff eines nicht zugelassenen Pflanzenschutzmittels gem.
+        Artikel 18 Absatz 4 der Verordnung (EG) Nr. 396/2005 in
+        Notfallsituationen nach Artikel 53 der Verordnung (EG) Nr. 1107/2009
+
+    *   3 100 bis 8 700
+
+
+*    *   4
+
     *   **Ermäßigung und Befreiung von Gebühren und Auslagen dieses
         Abschnitts**
-        (1) Die nach der Nummer 1 zu erhebenden Gebühren sind auf Antrag des
-        Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr zu
-        ermäßigen, wenn ein öffentliches Interesse an der Zulassung oder der
+        (1) Die nach den Nummern 1 und 3 zu erhebenden Gebühren sind auf
+        Antrag des Gebührenschuldners bis die Behörde über die individuell
+        zurechenbare öffentliche Leistung entschieden hat, bis auf ein Viertel
+        der vorgesehenen Gebühr zu ermäßigen, wenn ein öffentliches Interesse
+        an der Zulassung oder der Erweiterung der Zulassung des
+        Pflanzenschutzmittels oder des Wirkstoffs besteht und ein angemessener
+        wirtschaftlicher Nutzen für den Antragsteller nicht zu erwarten ist.
+        Von der Erhebung der in Satz 1 genannten Gebühren ist auf Antrag des
+        Gebührenschuldners abzusehen, wenn ein öffentliches Interesse an der
         Erweiterung der Zulassung des Pflanzenschutzmittels oder des
-        Wirkstoffs besteht und ein angemessener wirtschaftlicher Nutzen für
-        den Antragsteller nicht zu erwarten ist. Von der Erhebung der in Satz
-        1 genannten Gebühren ist auf Antrag des Gebührenschuldners abzusehen,
-        wenn ein öffentliches Interesse an der Erweiterung der Zulassung des
-        Pflanzenschutzmittels oder des Wirkstoffs besteht und kein oder nur
-        ein besonders geringer wirtschaftlicher Nutzen für den Antragsteller
-        zu erwarten ist. Wenn die individuell zurechenbare öffentliche
-        Leistung nach Satz 2 gebührenfrei ist, werden Auslagen nicht erhoben.
+        Wirkstoffs besteht und kein oder nur ein besonders geringer
+        wirtschaftlicher Nutzen für den Antragsteller zu erwarten ist. Wenn
+        die individuell zurechenbare öffentliche Leistung nach Satz 2
+        gebührenfrei ist, werden Auslagen nicht erhoben.
         (2) Ein öffentliches Interesse nach Absatz 1 liegt in der Regel vor,
         wenn das Pflanzenschutzmittel oder der Wirkstoff
 
@@ -2726,23 +2956,12 @@ Lebensmittelsicherheit
             a)  eine weitere öffentliche Nutzung der Fläche zu ermöglichen oder
 
 
-
-
-
-
-
-
-*    *
-    *
-        *
             b)  wertvolle Pflanzenbestände zu erhalten
 
 
 
 
             oder
-
-
 
 
         4.  ein Pflanzenschutzmittel oder ein Wirkstoff mit geringem Risiko im
@@ -2812,11 +3031,26 @@ Lebensmittelsicherheit
 
 *    *   2
 
+    *   Klinische Prüfung und Rückstandsprüfung
+
+    *
+
+*    *   2.1
+
     *   Genehmigung von Anträgen zur Durchführung einer klinischen Prüfung und
         einer Rückstandsprüfung gemäß Artikel 9 der Verordnung (EU) 2019/6 und
         § 10 Absatz 1 TAMG
 
     *   380 bis 4 300
+
+
+*    *   2.2
+
+    *   Änderung der Genehmigung zur Durchführung einer klinischen Prüfung,
+        die Auswirkung auf die Qualität, Wirksamkeit oder Sicherheit des
+        Prüfpräparats haben könnte
+
+    *   130
 
 
 *    *   3
@@ -2840,20 +3074,19 @@ Lebensmittelsicherheit
     *   Inspektion nach Nummer 3.1 betreffend Heimtierarzneimittel, die gemäß
         § 4 TAMG von der Zulassungspflicht freigestellt sind
 
-    *   nach Zeitaufwand bis höchstens 390
+    *   nach Zeitaufwand
 
 
 *    *   3.3
 
-    *   Maßnahmen gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6
+    *   Maßnahmen
 
     *
 
 *    *   3.3.1
 
-    *   Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73
-        Absatz 2 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4
-        der Verordnung (EU) 2019/6
+    *   Prüfung und Bewertung weiterer Pharmakovigilanz-Daten gemäß Artikel 76
+        Absatz 4 der Verordnung (EU) 2019/6
 
     *   790
 
@@ -2863,7 +3096,7 @@ Lebensmittelsicherheit
     *   Prüfung und Bewertung von Studien zur Überwachung nach dem
         Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4
         der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung
-        (EU) 2021/1280
+        (EU) 2021/1281
 
     *   1 200
 
@@ -2884,700 +3117,31 @@ Lebensmittelsicherheit
 
 ## Gebühren des Paul-Ehrlich-Instituts
 
+## Vorbemerkung
 
-*    *   Nummer
+Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche
+Leistungen des Paul-Ehrlich-Instituts in Bezug auf die
+Gebührentatbestände Nummer 1 bis 5 der nachstehenden Tabelle, soweit
+es sich um immunologische Tierarzneimittel nach Artikel 4 Nummer 5 der
+Verordnung (EU) 2019/6 in der Fassung vom 23. November 2022 handelt,
+die zu folgenden Zwecken bestimmt sind:
 
-    *   Gebühren- oder Auslagentatbestand
+1.  Vorbeugung vor Seuchen oder Heilung von Seuchen,
 
-    *   Gebühren oder Auslagen
-        in Euro
 
+2.  Erkennung von Seuchen oder
 
-*    *   1
 
-    *   Klinische Prüfungen
+3.  Erzeugung einer unspezifischen Reaktion des Immunsystems.
 
-    *
 
-*    *   1.1
 
-    *   Genehmigung gemäß Artikel 9 der Verordnung (EU) 2019/6 und § 10 Absatz
-        1 TAMG
 
-    *
-
-*    *   1.1.1
-
-    *   bei einer klinischen Prüfung mit einem nicht zugelassenen
-        Tierarzneimittel
-
-    *   500 bis 2 000
-
-
-*    *   1.1.2
-
-    *   bei einer klinischen Prüfung mit einem zugelassenen Tierarzneimittel
-
-    *   500 bis 2 000
-
-
-*    *   1.1.3
-
-    *   für folgende Produktgruppen:
-
-        a)  Tierarzneimittel für neuartige Therapien und monoklonale Antikörper im
-            Bereich Immuntherapie
-
-
-        b)  immunologische Tierarzneimittel im Anwendungsbereich des TAMG und
-
-
-        c)  Tierallergene
-
-
-
-
-    *   die in Nummer 1.1.1 oder Nummer 1.1.2 vorgesehene Gebühr
-
-
-*    *   1.2
-
-    *   Bearbeitung genehmigungspflichtiger Änderungen
-
-    *   50 bis 250
-
-
-*    *   1.3
-
-    *   Bearbeitung sonstiger von Nummer 1.2 nicht erfasster Änderungen je
-        betroffene klinische Prüfung
-
-    *   50 bis 250
-
-
-*    *   1.4
-
-    *   Anordnung des Ruhens der Genehmigung
-
-    *   nach Zeitaufwand
-
-
-*    *   2
-
-    *   Pharmakovigilanz
-
-    *
-
-*    *   2.1
-
-    *   Inspektion des Pharmakovigilanz-Systems gemäß Artikel 126 Absatz 3 der
-        Verordnung (EU) 2019/6 und Inspektion der Pharmakovigilanz-
-        Stammdokumentation gemäß Artikel 126 Absatz 4 der Verordnung (EU)
-        2019/6
-
-    *   2 500 bis 20 000
-
-
-*    *   2.2
-
-    *   Maßnahmen gemäß Artikel 76 Absatz 4 der Verordnung (EU) 2019/6
-
-    *
-
-*    *   2.2.1
-
-    *   Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73
-        Absatz 2 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4
-        der Verordnung (EU) 2019/6
-
-    *   nach Zeitaufwand
-
-
-*    *   2.2.2
-
-    *   Prüfung und Bewertung einer Studie zur Überwachung nach dem
-        Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4
-        der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung
-        (EU) 2021/1280
-
-    *   nach Zeitaufwand
-
-
-*    *   2.3
-
-    *   Anordnung geeigneter Maßnahmen nach Artikel 129 der Verordnung (EU)
-        2019/6 gemäß Artikel 81 Absatz 6 der Verordnung (EU) 2019/6
-
-    *   nach Zeitaufwand
-
-
-*    *   3
-
-    *   Genehmigung des Parallelhandels mit einem Tierarzneimittel gemäß
-        Artikel 102 der Verordnung (EU) 2019/6
-
-    *   1 500
-
-
-*    *   4
-
-    *   Nachweis der Produktqualität, Chargenprüfung
-
-    *
-
-*    *   4.1
-
-    *   Durchführung einer dokumentenbasierten Prüfung gemäß Artikel 128
-        Absatz 1 in Verbindung mit Artikel 127 der Verordnung (EU) 2019/6
-
-    *   210
-
-
-*    *   4.2
-
-    *   Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3
-        der Verordnung (EU) 2019/6 in Verbindung mit Absatz 6 der Verordnung
-        (EU) 2019/6 zusätzlich zur Gebühr nach Nummer 4.1
-
-    *   nach Zeitaufwand
-
-
-*    *   4.3
-
-    *   Durchführung einer experimentellen Prüfung, wenn das Prüfmuster
-        bereits vor Antragstellung eingereicht wird (sog. Paralleltestung),
-        aber im Nachgang keine Chargenfreigabe beantragt wird
-
-    *   die in Nummer 4.2 vorgesehene Gebühr
-
-
-*    *   4. 4
-
-    *   Anerkennung der Prüfergebnisse der zuständigen Stelle eines anderen
-        Mitgliedstaates gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6
-
-    *   170
-
-
-*    *   4.5
-
-    *   bei parallel gehandelten Tierarzneimitteln
-
-    *   120
-
-
-*    *   4.6
-
-    *   Erteilung eines EU-Zertifikates als Official Medicinal Control
-        Laboratory (OMCL) gemäß Artikel 128 Absatz 7 der Verordnung (EU)
-        2019/6
-
-    *   die in Nummer 4.1 oder Nummer 4.2 vorgesehene Gebühr
-
-
-*    *   4.6.1
-
-    *   wenn die beantragte Charge bereits durch das Paul-Ehrlich-Institut
-        freigegeben wurde
-
-    *   160
-
-
-*    *   4.6.2
-
-    *   wenn es sich um eine Charge handelt, die sich von einer ersten Charge,
-        die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
-        die bereits ein EU-Zertifikat erteilt wurde, nur durch die
-        Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
-
-    *   160
-
-
-*    *   4.7
-
-    *   Überprüfung der Verfahren gemäß Artikel 128 Absatz 10 der Verordnung
-        (EU) 2019/6
-
-    *   nach Zeitaufwand
-
-
-*    *   4.8
-
-    *   die nach Nummer 4.1 zu erhebende Gebühr ist auf Antrag des
-        Gebührenschuldners zu ermäßigen
-
-    *
-
-*    *   4.8.1
-
-    *   wenn für die beantragte Charge bereits ein EU-Zertifikat durch das
-        Paul-Ehrlich-Institut erteilt wurde
-
-    *   160
-
-
-*    *   4.8.2
-
-    *   wenn es sich um eine Charge handelt, die sich von einer ersten Charge,
-        die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
-        die bereits ein EU-Zertifikat erteilt wurde, nur durch die
-        Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
-
-    *   160
-
-
-*    *   4.9
-
-    *   die nach Nummer 4.2 zu erhebende Gebühr ist auf Antrag des
-        Gebührenschuldners zu ermäßigen
-
-    *
-
-*    *   4.9.1
-
-    *   wenn für die beantragte Charge bereits ein EU-Zertifikat durch das
-        Paul-Ehrlich-Institut erteilt wurde
-
-    *   160
-
-
-*    *   4.9.2
-
-    *   wenn es sich um eine Charge handelt, die sich von einer ersten Charge,
-        die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
-        die bereits ein EU-Zertifikat erteilt wurde, nur durch die
-        Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
-
-    *   160
-
-
-
-
-
-## Abschnitt 15
-
-
-## Tiergesundheitsgesetz (TierGesG) und Tierimpfstoff-Verordnung
-(TierImpfStV)
-
-
-## Unterabschnitt 1
-
-
-Gebühren für
-individuell zurechenbare öffentliche Leistungen
-des Friedrich-Loeffler-Instituts im Hinblick auf Mittel, die nicht
-zur Anwendung am Tier bestimmt sind, sowie für die Untersuchung von
-## Tieren und Erzeugnissen von Tieren, die zur Einfuhr oder Ausfuhr
-bestimmt sind
-
-
-*    *   Nummer
-
-    *   Gebühren- oder Auslagentatbestand
-
-    *   Gebühren oder Auslagen
-        in Euro
-
-
-*    *   1
-
-    *   Entscheidung über die Zulassung nach § 11 Absatz 2 TierGesG in
-        Verbindung mit § 23 TierImpfStV
-
-    *
-
-*    *   1.1
-
-    *   bei geringem bis durchschnittlichem Aufwand
-
-    *   3 000
-
-
-*    *   1.2
-
-    *   bei erhöhtem Aufwand, insbesondere aufgrund umfangreicher Prüfungen
-        oder Mehrfachprüfungen
-
-    *   4 500
-
-
-*    *   2
-
-    *   Entscheidung über die Verlängerung der Dauer einer Zulassung nach § 26
-        TierImpfStV
-
-    *   470
-
-
-*    *   3
-
-    *   Entscheidung über die Zustimmung zu einer Änderung nach § 29a
-        TierImpfStV
-
-    *
-
-*    *   3.1
-
-    *   bei geringem bis durchschnittlichem Aufwand
-
-    *   100 bis 500
-
-
-*    *   3.2
-
-    *   bei erhöhtem Aufwand, insbesondere aufgrund umfangreicher Prüfungen
-
-    *   500 bis 1 000
-
-
-*    *   4
-
-    *   Entscheidung über die Freigabe einer Charge nach § 32 Absatz 3
-        TierImpfStV
-
-    *
-
-*    *   4.1
-
-    *   Prüfungsverfahren bei geringem bis durchschnittlichem Aufwand
-
-    *   470
-
-
-*    *   4.2
-
-    *   Prüfungsverfahren bei erhöhtem Aufwand, insbesondere aufgrund
-        umfangreicher Prüfungen oder Mehrfachprüfungen
-
-    *   700
-
-
-*    *   5
-
-    *   Freistellung von der Chargenprüfung nach § 33 Absatz 3 TierImpfStV
-
-    *   470
-
-
-*    *   6
-
-    *   Entscheidung über die Ausnahmegenehmigung nach § 11 Absatz 5 TierGesG
-
-    *   190
-
-
-*    *   7
-
-    *   Untersuchung von Tieren oder Erzeugnissen von Tieren, die zur Einfuhr
-        oder Ausfuhr bestimmt sind nach § 27 Absatz 3 Satz 1 Nummer 2 TierGesG
-
-    *
-
-*    *   7.1
-
-    *   Nachweis von Antikörpern im Mikroneutralisationstest
-
-    *
-
-*    *   7.1.1
-
-    *   gegen ein Virus
-
-    *
-
-*    *   7.1.1.1
-
-    *   eine Probe
-
-    *   190
-
-
-*    *   7.1.1.2
-
-    *   jede weitere Probe
-
-    *   65
-
-
-*    *   7.1.1.3
-
-    *   jede weitere Probe bei vereinfachter Probenerfassung
-
-    *   20
-
-
-*    *   7.1.2
-
-    *   gegen jedes weitere Virus im gleichen Testsystem, pro Probe zusätzlich
-        zu den Gebühren nach Nummer 7.1.1
-
-    *   20
-
-
-*    *   7.1.3
-
-    *   Auswertung eines Mikroneutralisationstests mittels
-        Fluoreszenzverfahren, Immunperoxidasefärbung oder einer ähnlichen
-        Methode, pro Probe zusätzlich zu den Gebühren nach den Nummern 7.1.1
-        und 7.1.2
-
-    *   90
-
-
-*    *   7.2
-
-    *   Nachweis von Antikörpern in einem ELISA-System
-
-    *
-
-*    *   7.2.1
-
-    *   gegen ein Antigen
-
-    *
-
-*    *   7.2.1.1
-
-    *   eine Probe
-
-    *   160
-
-
-*    *   7.2.1.2
-
-    *   jede weitere Probe
-
-    *   40
-
-
-*    *   7.2.1.3
-
-    *   jede weitere Probe bei vereinfachter Probenerfassung
-
-    *   20
-
-
-*    *   7.2.2
-
-    *   gegen jedes weitere Antigen im gleichen Testsystem, pro Probe
-        zusätzlich zu den Gebühren nach Nummer 7.2
-
-    *   20
-
-
-*    *   7.3
-
-    *   Nachweis von Antikörpern gegen ein Antigen oder von Antigenen gegen
-        ein Antiserum im Immunopräzipitationstest
-
-    *
-
-*    *   7.3.1
-
-    *   eine Probe
-
-    *   180
-
-
-*    *   7.3.2
-
-    *   jede weitere Probe
-
-    *   35
-
-
-*    *   7.4
-
-    *   Nachweis von Antikörpern gegen ein Antigen im Immunoblotverfahren
-
-    *
-
-*    *   7.4.1
-
-    *   eine Probe
-
-    *   120
-
-
-*    *   7.4.2
-
-    *   jede weitere Probe
-
-    *   30
-
-
-*    *   7.5
-
-    *   Nachweis von Antikörpern im Hämagglutinations-Hemmtest
-
-    *
-
-*    *   7.5.1
-
-    *   gegen ein Antigen
-
-    *
-
-*    *   7.5.1.1
-
-    *   eine Probe
-
-    *   140
-
-
-*    *   7.5.1.2
-
-    *   jede weitere Probe
-
-    *   25
-
-
-*    *   7.5.2
-
-    *   gegen jedes weitere Antigen
-
-    *
-
-*    *   7.5.2.1
-
-    *   eine Probe
-
-    *   45
-
-
-*    *   7.5.2.2
-
-    *   jede weitere Probe
-
-    *   25
-
-
-*    *   7.6
-
-    *   Nachweis von Antikörpern in der Komplement-Bindungsreaktion
-
-    *
-
-*    *   7.6.1
-
-    *   eine Probe
-
-    *   200
-
-
-*    *   7.6.2
-
-    *   jede weitere Probe
-
-    *   80
-
-
-*    *   7.7
-
-    *   Nachweis von Antikörpern in der Serumlangsamagglutination
-
-    *
-
-*    *   7.7.1
-
-    *   eine Probe
-
-    *   140
-
-
-*    *   7.7.2
-
-    *   jede weitere Probe
-
-    *   80
-
-
-*    *   7.8
-
-    *   Nachweis von Antikörpern im Rose-Bengal-Test
-
-    *
-
-*    *   7.8.1
-
-    *   eine Probe
-
-    *   140
-
-
-*    *   7.8.2
-
-    *   jede weitere Probe
-
-    *   80
-
-
-*    *   7.9
-
-    *   Virusnachweis in Einschicht-Zellkulturen
-
-    *   180
-
-
-*    *   7.10
-
-    *   Virusnachweis aus Tiersamen, pro Charge
-
-    *   340
-
-
-*    *   7.11
-
-    *   Spezifischer Nachweis einer Nukleinsäure
-
-    *
-
-*    *   7.11.1
-
-    *   eine Probe
-
-    *   210
-
-
-*    *   7.11.2
-
-    *   jede weitere Probe
-
-    *   100
-
-
-*    *   7.12
-
-    *   Nukleinsäurecharakterisierung
-
-    *   270
-
-
-*    *   8
-
-    *   **Ermäßigung und Befreiung von Gebühren und Auslagen dieses
-        Abschnitts**
-        Die nach den Nummern 1 und 4 zu erhebenden Gebühren sind auf Antrag
-        des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr zu
-        ermäßigen, soweit ein öffentliches Interesse an dem Inverkehrbringen
-        des In-vitro-Diagnostikums aufgrund des Anwendungsgebietes besteht.
-        Ein öffentliches Interesse an dem Inverkehrbringen ist in der Regel
-        dann gegeben, wenn kein zugelassenes In-vitro-Diagnostikum zum
-        Nachweis eines Tierseuchenerregers zur Verfügung steht.
-
-
-
-
-
-## Unterabschnitt 2
-
-
-## Gebühren des Paul-Ehrlich-Instituts
-
+Für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-
+Instituts in Bezug auf die Zulassung anderer immunologischer
+Tierarzneimittel nach Artikel 4 Nummer 5 der Verordnung (EU) 2019/6 in
+der Fassung vom 23. November 2022 ist Abschnitt 6a Tabelle 2 der
+Besonderen Gebührenverordnung BMG anzuwenden.
 
 *    *   Nummer
 
@@ -3599,7 +3163,7 @@ bestimmt sind
         Absatz 1 der Verordnung (EU) 2019/6 in Verbindung mit den Artikeln 46
         und 47 der Verordnung (EU) 2019/6
 
-    *   6 000 bis 20 000
+    *   6 000 bis 26 000
 
 
 *    *   1.2
@@ -3607,7 +3171,7 @@ bestimmt sind
     *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer
         bestehenden Zulassung gemäß Artikel 19 der Verordnung (EU) 2019/6
 
-    *   nach Zeitaufwand bis maximal 17 500
+    *   nach Zeitaufwand
 
 
 *    *   1.3
@@ -3615,7 +3179,7 @@ bestimmt sind
     *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer
         bestehenden Zulassung gemäß Artikel 21 der Verordnung (EU) 2019/6
 
-    *   1 500 bis 5 000
+    *   1 500 bis 6 500
 
 
 *    *   1.4
@@ -3623,7 +3187,7 @@ bestimmt sind
     *   Zulassung eines immunologischen Tierarzneimittels für einen begrenzten
         Markt (Limited Market) gemäß Artikel 23 der Verordnung (EU) 2019/6
 
-    *   4 500 bis 15 000
+    *   4 500 bis 19 000
 
 
 *    *   1.5
@@ -3632,7 +3196,15 @@ bestimmt sind
         außergewöhnlichen Umständen (Exceptional Circumstances) gemäß Artikel
         25 der Verordnung (EU) 2019/6
 
-    *   3 500 bis 14 000
+    *   3 500 bis 18 000
+
+
+*    *   1.6
+
+    *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer
+        bestehenden Zulassung gemäß Artikel 18 der Verordnung (EU) 2019/6
+
+    *   nach Zeitaufwand
 
 
 *    *   2
@@ -3648,7 +3220,7 @@ bestimmt sind
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
         des Verfahrens
 
-    *   1 500 bis 12 000
+    *   1 500 bis 15 500
 
 
 *    *   2.2
@@ -3657,14 +3229,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   2.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   1 500 bis 13 000
+    *   1 500 bis 17 000
 
 
 *    *   2.4
@@ -3679,7 +3251,7 @@ bestimmt sind
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
         des Verfahrens
 
-    *   1 500 bis 12 000
+    *   1 500 bis 15 500
 
 
 *    *   2.4.2
@@ -3688,14 +3260,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   2.4.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   3 000 bis 10 000
+    *   3 000 bis 13 000
 
 
 *    *   2.5
@@ -3711,7 +3283,7 @@ bestimmt sind
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
         des Verfahrens
 
-    *   1 500 bis 12 000
+    *   1 500 bis 15 500
 
 
 *    *   2.5.2
@@ -3720,14 +3292,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   2.5.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   2 000 bis 10 000
+    *   2 000 bis 13 000
 
 
 *    *   2.6
@@ -3742,7 +3314,7 @@ bestimmt sind
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
         des Verfahrens
 
-    *   1 500 bis 12 000
+    *   1 500 bis 15 500
 
 
 *    *   2.6.2
@@ -3751,14 +3323,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   2.6.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   3 500 bis 13 000
+    *   3 500 bis 17 000
 
 
 *    *   2.7
@@ -3773,7 +3345,7 @@ bestimmt sind
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
         des Verfahrens
 
-    *   1 500 bis 6 000
+    *   1 500 bis 7 700
 
 
 *    *   2.7.2
@@ -3782,31 +3354,62 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 2 000
+    *   500 bis 2 600
 
 
 *    *   2.7.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   500 bis 3 000
+    *   500 bis 3 900
 
 
 *    *   2.8
 
-    *   die Gebühr nach den Nummern 2.1 bis 2.7 erhöht sich bei Durchführung
-        des Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
+        Zulassung gemäß Artikel 18 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.8.1
+
+    *   wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Durchführung
+        des Verfahrens
+
+    *   1 500 bis 15 500
+
+
+*    *   2.8.2
+
+    *   wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren
+        gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
+        hinzukommenden Mitgliedstaat durchführt
+
+    *   500 bis 9 000
+
+
+*    *   2.8.3
+
+    *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
+
+    *   3 500 bis 17 000
+
+
+*    *   2.9
+
+    *   die Gebühr nach den Nummern 2.1 bis 2.8 erhöht sich bei Durchführung
+        des Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6
+
+    *
+
+*    *   2.9.1
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
     *   nach Zeitaufwand
 
 
-*    *   2.8.2
+*    *   2.9.2
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
@@ -3825,7 +3428,7 @@ bestimmt sind
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   10 000 bis 40 000
+    *   10 000 bis 48 000
 
 
 *    *   3.2
@@ -3834,14 +3437,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   3.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   5 000 bis 18 000
+    *   5 000 bis 22 500
 
 
 *    *   3.4
@@ -3855,7 +3458,7 @@ bestimmt sind
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   8 500 bis 25 000
+    *   8 500 bis 32 000
 
 
 *    *   3.4.2
@@ -3864,14 +3467,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   3.4.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   3 500 bis 13 000
+    *   3 500 bis 17 000
 
 
 *    *   3.5
@@ -3886,7 +3489,7 @@ bestimmt sind
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   7 500 bis 24 000
+    *   7 500 bis 31 000
 
 
 *    *   3.5.2
@@ -3895,14 +3498,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   3.5.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   2 500 bis 12 000
+    *   2 500 bis 15 500
 
 
 *    *   3.6
@@ -3916,7 +3519,7 @@ bestimmt sind
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   nach Zeitaufwand bis maximal 29 500
+    *   nach Zeitaufwand
 
 
 *    *   3.6.2
@@ -3925,14 +3528,14 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 7 000
+    *   500 bis 9 000
 
 
 *    *   3.6.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   3 500 bis 13 000
+    *   3 500 bis 17 000
 
 
 *    *   3.7
@@ -3946,7 +3549,7 @@ bestimmt sind
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   1 500 bis 6 000
+    *   1 500 bis 7 700
 
 
 *    *   3.7.2
@@ -3955,40 +3558,70 @@ bestimmt sind
         gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
         hinzukommenden Mitgliedstaat durchführt
 
-    *   500 bis 2 000
+    *   500 bis 2 600
 
 
 *    *   3.7.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   500 bis 3 000
+    *   500 bis 3 900
 
 
 *    *   3.8
 
-    *   bei einer erneuten Überprüfung des Bewertungsberichts auf Ersuchen des
-        Antragstellers gemäß Artikel 50 der Verordnung (EU) 2019/6 zusätzlich
-        zur Gebühr nach den Nummern 3.1, 3.4.1, 3.5.1, 3.6.1 oder 3.6.2
-
-    *   nach Zeitaufwand
-
-
-*    *   3.9
-
-    *   Erhöhung der Gebühr nach den Nummern 3.1 bis 3.8 bei Durchführung des
-        Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
+        Zulassung gemäß Artikel 18 der Verordnung (EU) 2019/6
 
     *
 
-*    *   3.9.1
+*    *   3.8.1
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
     *   nach Zeitaufwand
 
 
-*    *   3.9.2
+*    *   3.8.2
+
+    *   wenn Deutschland Referenzmitgliedstaat (RMS) ist und das Verfahren
+        gemäß Artikel 53 der Verordnung (EU) 2019/6 für einen weiter
+        hinzukommenden Mitgliedstaat durchführt
+
+    *   500 bis 9 000
+
+
+*    *   3.8.3
+
+    *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
+
+    *   3 500 bis 17 000
+
+
+*    *   3.9
+
+    *   bei einer erneuten Überprüfung des Bewertungsberichts auf Ersuchen des
+        Antragstellers gemäß Artikel 50 der Verordnung (EU) 2019/6 zusätzlich
+        zur Gebühr nach den Nummern 3.1, 3.4.1, 3.5.1, 3.6.1, 3.7.1 oder 3.8.1
+
+    *   nach Zeitaufwand
+
+
+*    *   3.10
+
+    *   Erhöhung der Gebühr nach den Nummern 3.1 bis 3.8 bei Durchführung des
+        Verfahrens gemäß Artikel 54 der Verordnung (EU) 2019/6
+
+    *
+
+*    *   3.10.1
+
+    *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
+
+    *   nach Zeitaufwand
+
+
+*    *   3.10.2
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
@@ -4013,21 +3646,21 @@ bestimmt sind
     *   wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen
         ist
 
-    *   800 bis 5 000
+    *   800 bis 6 500
 
 
 *    *   4.1.2
 
     *   wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
-    *   1 300 bis 8 000
+    *   1 300 bis 10 500
 
 
 *    *   4.1.3
 
     *   wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
-    *   700 bis 4 000
+    *   700 bis 5 500
 
 
 *    *   4.2
@@ -4035,7 +3668,33 @@ bestimmt sind
     *   bei einer Änderung, die keine Bewertung erfordert, gemäß den Artikeln
         60 und 61 der Verordnung (EU) 2019/6
 
-    *   360 bis 1 300
+    *
+
+*    *   4.2.1
+
+    *   bei Änderungen des Namens, der Anschrift oder der Kontaktdaten der für
+        die Pharmakovigilanz qualifizierten Person, Änderungen des Standorts,
+        an dem sich die Pharmakovigilanz-Stammdokumentation befindet,
+        Einführung einer Zusammenfassung der Pharmakovigilanz-
+        Stammdokumentation oder bei Änderungen an dieser Zusammenfassung
+
+    *   150
+
+
+*    *   4.2.2
+
+    *   bei Bearbeitung sonstiger, von Nummer 4.2.1 nicht erfasster Änderungen
+
+    *   150 bis 1 500
+
+
+*    *   4.2.3
+
+    *   tritt an Stelle von Nummer 4.2.1, wenn gleichzeitig identische
+        Änderungsanzeigen nach Nummer 4.2.1 zu mehreren immunologischen
+        Tierarzneimitteln eingereicht werden
+
+    *   die in Nummer 4.2.2 vorgesehene Gebühr
 
 
 *    *   4.3
@@ -4044,21 +3703,7 @@ bestimmt sind
         nach Nummer 4.1 gleichzeitig beantragt werden und dadurch ein
         wesentlich geringerer Aufwand entsteht
 
-    *
-
-*    *   4.3.1
-
-    *   für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr
-        vorgesehen ist
-
-    *   die in Nummer 4.1 vorgesehene Gebühr
-
-
-*    *   4.3.2
-
-    *   für jede weitere Änderung
-
-    *   ein Viertel bis drei Viertel der in Nummer 4.1 vorgesehenen Gebühr
+    *   nach Zeitaufwand
 
 
 *    *   4.4
@@ -4067,21 +3712,7 @@ bestimmt sind
         pharmazeutischen Unternehmers inhaltlich gleiche Änderungen nach
         Nummer 4.1 beantragt werden
 
-    *
-
-*    *   4.4.1
-
-    *   für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr
-        vorgesehen ist
-
-    *   die in Nummer 4.1 vorgesehene Gebühr
-
-
-*    *   4.4.2
-
-    *   für jede weitere Änderung
-
-    *   ein Viertel bis drei Viertel der in Nummer 4.1 vorgesehenen Gebühr
+    *   nach Zeitaufwand
 
 
 *    *   4.5
@@ -4095,7 +3726,7 @@ bestimmt sind
 
     *   für die Übertragung einer Zulassung
 
-    *   100
+    *   220
 
 
 *    *   4.5.2
@@ -4103,7 +3734,7 @@ bestimmt sind
     *   für die Übertragung jeder weiteren Zulassung, wenn sie gleichzeitig
         mitgeteilt wird
 
-    *   50
+    *   70
 
 
 *    *   4.6
@@ -4148,7 +3779,7 @@ bestimmt sind
     *   wenn das immunologische Tierarzneimittel nur in Deutschland zugelassen
         ist
 
-    *   1 900
+    *   2 500
 
 
 *    *   5.1.2
@@ -4156,7 +3787,7 @@ bestimmt sind
     *   bei MRP- oder DCP-Zulassung, wenn Deutschland Referenzmitgliedstaat
         (RMS) ist
 
-    *   3 100
+    *   4 000
 
 
 *    *   5.1.3
@@ -4164,7 +3795,7 @@ bestimmt sind
     *   bei MRP- oder DCP-Zulassung, wenn Deutschland betroffener
         Mitgliedstaat (CMS) ist
 
-    *   1 800
+    *   2 400
 
 
 *    *   5.2
@@ -4210,18 +3841,17 @@ bestimmt sind
 *    *   5.4
 
     *   Anordnung des Ruhens der Zulassung oder Aufforderung zur Änderung der
-        Zulassungsbedingungen gemäß Artikel 130 der Verordnung (EU) 2019/6(EU)
-        2019/6
+        Zulassungsbedingungen gemäß Artikel 130 der Verordnung (EU) 2019/6
 
     *   nach Zeitaufwand
 
 
 *    *   6
 
-    *   Genehmigung des Parallelhandels mit einem immunologischen
-        Tierarzneimittel gemäß Artikel 102 Absatz 3 der Verordnung (EU) 2019/6
+    *   Genehmigung des Parallelhandels mit einem Tierarzneimittel gemäß
+        Artikel 102 Absatz 3 der Verordnung (EU) 2019/6
 
-    *   1 500
+    *   2 000
 
 
 *    *   7
@@ -4232,31 +3862,31 @@ bestimmt sind
 
 *    *   7.1
 
-    *   Genehmigung gemäß Artikel 9 der Verordnung (EU) 2019/6
+    *   Genehmigung gemäß Artikel 9 der Verordnung (EU) 2019/6 und § 10 Absatz
+        1 TAMG
 
     *
 
 *    *   7.1.1
 
     *   bei einer klinischen Prüfung mit einem nicht zugelassenen
-        immunologischen Tierarzneimittel
+        Tierarzneimittel
 
-    *   500 bis 2 000
+    *   500 bis 3 000
 
 
 *    *   7.1.2
 
-    *   bei einer klinischen Prüfung mit einem zugelassenen immunologischen
-        Tierarzneimittel
+    *   bei einer klinischen Prüfung mit einem zugelassenen Tierarzneimittel
 
-    *   500 bis 2 000
+    *   500 bis 3 000
 
 
 *    *   7.2
 
     *   Bearbeitung genehmigungspflichtiger Änderungen
 
-    *   50 bis 250
+    *   50 bis 320
 
 
 *    *   7.3
@@ -4264,7 +3894,7 @@ bestimmt sind
     *   Bearbeitung sonstiger von Nummer 7.2 nicht erfasster Änderungen je
         betroffener klinischer Prüfung
 
-    *   50 bis 250
+    *   50 bis 320
 
 
 *    *   7.4
@@ -4287,7 +3917,7 @@ bestimmt sind
         Stammdokumentation gemäß Artikel 126 Absatz 4 der Verordnung (EU)
         2019/6
 
-    *   2 500 bis 20 000
+    *   nach Zeitaufwand
 
 
 *    *   8.2
@@ -4299,7 +3929,7 @@ bestimmt sind
 *    *   8.2.1
 
     *   Prüfung und Bewertung weiterer Pharmakovigilanz-Daten über Artikel 73
-        Absatz 3 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4
+        Absatz 2 der Verordnung (EU) 2019/6 hinaus gemäß Artikel 76 Absatz 4
         der Verordnung (EU) 2019/6
 
     *   nach Zeitaufwand
@@ -4310,7 +3940,7 @@ bestimmt sind
     *   Prüfung und Bewertung einer Studie zur Überwachung nach dem
         Inverkehrbringen (Post-Marketing-Studien) gemäß Artikel 76 Absatz 4
         der Verordnung (EU) 2019/6 und Artikel 15 der Durchführungsverordnung
-        (EU) 2019/6
+        (EU) 2021/1281
 
     *   nach Zeitaufwand
 
@@ -4333,7 +3963,8 @@ bestimmt sind
 *    *   9.1
 
     *   Durchführung einer dokumentenbasierten Prüfung gemäß Artikel 128
-        Absatz 1 in Verbindung mit Artikel 127 der Verordnung (EU) 2019/6
+        Absatz 1 und 10 der Verordnung (EU) 2019/6 in Verbindung mit Artikel
+        127 Absatz 1 der Verordnung (EU) 2019/6
 
     *
 
@@ -4342,35 +3973,35 @@ bestimmt sind
     *   für monovalente Impfstoffe, Seren, Immunmodulatoren, Tuberkuline und
         sonstige immunologische Tierarzneimittel
 
-    *   210
+    *   270
 
 
 *    *   9.1.2
 
     *   für Impfstoffe mit zwei bis drei Komponenten
 
-    *   210
+    *   270
 
 
 *    *   9.1.3
 
     *   für Impfstoffe mit vier bis sechs Komponenten
 
-    *   250
+    *   320
 
 
 *    *   9.1.4
 
     *   für Impfstoffe mit sieben und mehr Komponenten
 
-    *   260
+    *   330
 
 
 *    *   9.2
 
     *   Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3
-        in Verbindung mit Absatz 6 der Verordnung (EU) 2019/6 zusätzlich zur
-        Gebühr nach Nummer 9.1
+        der Verordnung (EU) 2019/6 in Verbindung mit Absatz 6 der Verordnung
+        (EU) 2019/6 zusätzlich zur Gebühr nach Nummer 9.1
 
     *
 
@@ -4378,14 +4009,14 @@ bestimmt sind
 
     *   je In-vitro-Test
 
-    *   1 100
+    *   1 200
 
 
 *    *   9.2.2
 
     *   je In-vivo-Test
 
-    *   2 500
+    *   2 600
 
 
 *    *   9.3
@@ -4393,8 +4024,8 @@ bestimmt sind
     *   Durchführung einer experimentellen Prüfung gemäß Artikel 128 Absatz 3
         in Verbindung mit Absatz 5 der Verordnung (EU) 2019/6
 
-    *   500 bis zu der für eine Zulassung nach Nummer 1 jeweils vorgesehenen
-        Gebühr
+    *   500 bis zu der für
+        eine Zulassung nach Nummer 1 jeweils vorgesehenen Gebühr
 
 
 *    *   9.4
@@ -4402,14 +4033,14 @@ bestimmt sind
     *   aufgrund der Prüfergebnisse der zuständigen Stelle eines anderen
         Mitgliedstaates gemäß Artikel 128 Absatz 7 der Verordnung (EU) 2019/6
 
-    *   170
+    *   220
 
 
 *    *   9.5
 
     *   bei parallel gehandelten Tierarzneimitteln
 
-    *   120
+    *   160
 
 
 *    *   9.6
@@ -4435,7 +4066,8 @@ bestimmt sind
         Laboratory (OMCL) gemäß Artikel 128 Absatz 7 der Verordnung (EU)
         2019/6
 
-    *   die in Nummer 9.1 oder Nummer 9.2 vorgesehene Gebühr
+    *   die in Nummer 9.1
+        oder Nummer 9.2 vorgesehene Gebühr
 
 
 *    *   9.8.1
@@ -4443,7 +4075,7 @@ bestimmt sind
     *   wenn die beantragte Charge bereits durch das Paul-Ehrlich-Institut
         freigegeben wurde
 
-    *   160
+    *   210
 
 
 *    *   9.8.2
@@ -4452,9 +4084,9 @@ bestimmt sind
         die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
         die bereits ein EU-Zertifikat erteilt wurde, nur durch die
         Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
+        Bezeichnung des immunologischen Tierarzneimittels unterscheidet
 
-    *   160
+    *   210
 
 
 *    *   9.9
@@ -4469,7 +4101,7 @@ bestimmt sind
     *   wenn für die beantragte Charge bereits ein EU-Zertifikat durch das
         Paul-Ehrlich-Institut erteilt wurde
 
-    *   160
+    *   210
 
 
 *    *   9.9.2
@@ -4478,9 +4110,9 @@ bestimmt sind
         die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
         die bereits ein EU-Zertifikat erteilt wurde, nur durch die
         Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
+        Bezeichnung des immunologischen Tierarzneimittels unterscheidet
 
-    *   160
+    *   210
 
 
 *    *   9.9.3
@@ -4488,15 +4120,15 @@ bestimmt sind
     *   wenn mit dem Antrag auf Chargenfreigabe eines Kombinationsimpfstoffes
         für eine Komponente oder mehrere Komponenten ein EU-Zertifikat oder
         Chargenfreigabebescheid vorgelegt wurde, aber damit nicht alle
-        Komponenten des Impfstoffs abdeckt werden
+        Komponenten des Impfstoffes abgedeckt werden
 
-    *   160 bis 210
+    *   210 bis 270
 
 
 *    *   9.10
 
     *   die nach Nummer 9.2 zu erhebende Gebühr ist auf Antrag des
-        Gebührenschuldners zu ermäßigen,
+        Gebührenschuldners zu ermäßigen
 
     *
 
@@ -4505,7 +4137,7 @@ bestimmt sind
     *   wenn für die beantragte Charge bereits ein EU-Zertifikat durch das
         Paul-Ehrlich-Institut erteilt wurde
 
-    *   160
+    *   210
 
 
 *    *   9.10.2
@@ -4514,9 +4146,9 @@ bestimmt sind
         die bereits durch das Paul-Ehrlich-Institut freigegeben wurde oder für
         die bereits ein EU-Zertifikat erteilt wurde, nur durch die
         Chargenbezeichnung, durch das Volumen des Endbehälters oder durch die
-        Bezeichnung des Mittels unterscheidet
+        Bezeichnung des immunologischen Tierarzneimittels unterscheidet
 
-    *   160
+    *   210
 
 
 *    *   9.10.3
@@ -4526,7 +4158,7 @@ bestimmt sind
         Chargenfreigabebescheid vorgelegt wurde, aber damit nicht alle
         Komponenten des Impfstoffs abdeckt werden
 
-    *   160 bis 210
+    *   210 bis 270
 
 
 *    *   10
@@ -4537,14 +4169,14 @@ bestimmt sind
 
 *    *   10.1
 
-    *   je Beratung zu den Verfahren nach der Verordnung (EU) 2019/6 des
-        Tiergesundheitsgesetzes und der Tierimpfstoff-Verordnung außerhalb
-        eines laufenden Verwaltungsverfahrens, auch telefonisch,
-        einschließlich der Vor- und Nachbereitung der Beratung, je Beratung
-        sowie jeweils für eine wissenschaftliche Stellungnahme, ein Gutachten
-        oder eine nicht einfache schriftliche Auskunft
+    *   je Beratung zu den Verfahren nach der Verordnung (EU) 2019/6 und des
+        Tierarzneimittelgesetzes außerhalb eines laufenden
+        Verwaltungsverfahrens, auch telefonisch, einschließlich der Vor- und
+        Nachbereitung der Beratung, je Beratung sowie jeweils für eine
+        wissenschaftliche Stellungnahme, ein Gutachten oder eine nicht
+        einfache schriftliche Auskunft
 
-    *   200 bis 6 000
+    *   200 bis 7 500
 
 
 *    *   10.2
@@ -4554,7 +4186,7 @@ bestimmt sind
         Verbraucherinformationsgesetz oder dem Umweltinformationsgesetz
         anhängig
 
-    *   25 bis 250
+    *   25 bis 320
 
 
 *    *   10.3
@@ -4562,7 +4194,7 @@ bestimmt sind
     *   Bescheinigungen und Zweitschriften, auch einschließlich Siegeln,
         sofern ein amtliches Siegel nicht erforderlich ist, je Ausfertigung
 
-    *   50
+    *   120
 
 
 *    *   10.4
@@ -4570,7 +4202,7 @@ bestimmt sind
     *   Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen
         Stand gemäß § 32 des Verwaltungsverfahrensgesetzes (VwVfG)
 
-    *   250
+    *   320
 
 
 *    *   11
@@ -4585,8 +4217,8 @@ bestimmt sind
         der Antragsteller substantiiert darlegt und belegt, dass er einen den
         Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten
         angemessenen wirtschaftlichen Nutzen nicht erwarten kann und dass an
-        dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes
-        ein öffentliches Interesse besteht
+        dem Inverkehrbringen des Tierarzneimittels aufgrund des
+        Anwendungsgebietes ein öffentliches Interesse besteht
 
     *   um 25 Prozent
 
@@ -4595,8 +4227,8 @@ bestimmt sind
 
     *   Ermäßigung der Gebühren nach den Nummern 1 bis 4, 5.1, 5.2 und 7, wenn
         zusätzlich zu den Voraussetzungen nach Nummer 11.1 die Anwendungsfälle
-        selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt
-        ist, klein ist
+        selten sind oder die Zielgruppe, für die das Tierarzneimittel bestimmt
+        ist, klein ist.
 
     *   um 50 Prozent
 
@@ -4611,6 +4243,415 @@ bestimmt sind
         darzulegen und nachzuweisen.
 
     *   um 25 Prozent
+
+
+
+
+
+## Abschnitt 15
+
+
+Tiergesundheitsgesetz (TierGesG),
+## Tiergesundheitliche-In-vitro-Diagnostika-Verordnung (TierGesIVDV)
+
+
+
+*    *   Nummer
+
+    *   Gebühren- oder Auslagentatbestand
+
+    *   Gebühren oder Auslagen
+        in Euro
+
+
+*    *   1
+
+    *   Entscheidung über die Zulassung nach § 11 Absatz 2 TierGesG in
+        Verbindung mit § 23 TierImpfStV
+
+    *
+
+*    *   1.1
+
+    *   bei geringem bis durchschnittlichem Aufwand
+
+    *   3 100
+
+
+*    *   1.2
+
+    *   bei erhöhtem Aufwand, insbesondere aufgrund umfangreicher Prüfungen
+        oder Mehrfachprüfungen
+
+    *   4 700
+
+
+*    *   2
+
+    *   Entscheidung über die Verlängerung der Dauer einer Zulassung nach § 26
+        TierGesIVDV
+
+    *   490
+
+
+*    *   3
+
+    *   Entscheidung über die Zustimmung zu einer Änderung nach § 29a
+        TierGesIVDV
+
+    *
+
+*    *   3.1
+
+    *   bei geringem bis durchschnittlichem Aufwand
+
+    *   100 bis 500
+
+
+*    *   3.2
+
+    *   bei erhöhtem Aufwand, insbesondere aufgrund umfangreicher Prüfungen
+
+    *   500 bis 1 000
+
+
+*    *   4
+
+    *   Entscheidung über die Freigabe einer Charge nach § 32 Absatz 3
+        TierGesIVDV
+
+    *
+
+*    *   4.1
+
+    *   Prüfungsverfahren bei geringem bis durchschnittlichem Aufwand
+
+    *   500
+
+
+*    *   4.2
+
+    *   Prüfungsverfahren bei erhöhtem Aufwand, insbesondere aufgrund
+        umfangreicher Prüfungen oder Mehrfachprüfungen
+
+    *   740
+
+
+*    *   5
+
+    *   Freistellung von der Chargenprüfung nach § 33 Absatz 3 TierGesIVDV
+
+    *   490
+
+
+*    *   6
+
+    *   Entscheidung über die Ausnahmegenehmigung nach § 11 Absatz 5 TierGesG
+
+    *   210
+
+
+*    *   7
+
+    *   Untersuchung von Tieren und möglicherweise mit einem Seuchenerreger
+        kontaminierten Erzeugnissen, Gegenständen oder Stoffen, die zum
+        Eingang in die Union oder zur Ausfuhr bestimmt sind nach § 27 Absatz 3
+        Satz 1 Nummer 2 TierGesG
+
+    *
+
+*    *   7.1
+
+    *   Nachweis von Antikörpern im Mikroneutralisationstest
+
+    *
+
+*    *   7.1.1
+
+    *   gegen ein Virus
+
+    *
+
+*    *   7.1.1.1
+
+    *   eine Probe
+
+    *   210
+
+
+*    *   7.1.1.2
+
+    *   jede weitere Probe
+
+    *   65
+
+
+*    *   7.1.1.3
+
+    *   jede weitere Probe bei vereinfachter Probenerfassung
+
+    *   20
+
+
+*    *   7.1.2
+
+    *   gegen jedes weitere Virus im gleichen Testsystem, pro Probe zusätzlich
+        zu den Gebühren nach Nummer 7.1.1
+
+    *   20
+
+
+*    *   7.1.3
+
+    *   Auswertung eines Mikroneutralisationstests mittels
+        Fluoreszenzverfahren, Immunperoxidasefärbung oder einer ähnlichen
+        Methode, pro Probe zusätzlich zu den Gebühren nach den Nummern 7.1.1
+        und 7.1.2
+
+    *   85
+
+
+*    *   7.2
+
+    *   Nachweis von Antikörpern in einem ELISA-System
+
+    *
+
+*    *   7.2.1
+
+    *   gegen ein Antigen
+
+    *
+
+*    *   7.2.1.1
+
+    *   eine Probe
+
+    *   190
+
+
+*    *   7.2.1.2
+
+    *   jede weitere Probe
+
+    *   50
+
+
+*    *   7.2.1.3
+
+    *   jede weitere Probe bei vereinfachter Probenerfassung
+
+    *   20
+
+
+*    *   7.2.2
+
+    *   gegen jedes weitere Antigen im gleichen Testsystem, pro Probe
+        zusätzlich zu den Gebühren nach Nummer 7.2
+
+    *   20
+
+
+*    *   7.3
+
+    *   Nachweis von Antikörpern gegen ein Antigen oder von Antigenen gegen
+        ein Antiserum im Immunopräzipitationstest
+
+    *
+
+*    *   7.3.1
+
+    *   eine Probe
+
+    *   205
+
+
+*    *   7.3.2
+
+    *   jede weitere Probe
+
+    *   35
+
+
+*    *   7.4
+
+    *   Nachweis von Antikörpern gegen ein Antigen im Immunoblotverfahren
+
+    *
+
+*    *   7.4.1
+
+    *   eine Probe
+
+    *   145
+
+
+*    *   7.4.2
+
+    *   jede weitere Probe
+
+    *   30
+
+
+*    *   7.5
+
+    *   Nachweis von Antikörpern im Hämagglutinations-Hemmtest
+
+    *
+
+*    *   7.5.1
+
+    *   gegen ein Antigen
+
+    *
+
+*    *   7.5.1.1
+
+    *   eine Probe
+
+    *   110
+
+
+*    *   7.5.1.2
+
+    *   jede weitere Probe
+
+    *   20
+
+
+*    *   7.5.2
+
+    *   gegen jedes weitere Antigen
+
+    *
+
+*    *   7.5.2.1
+
+    *   eine Probe
+
+    *   20
+
+
+*    *   7.5.2.2
+
+    *   jede weitere Probe
+
+    *   20
+
+
+*    *   7.6
+
+    *   Nachweis von Antikörpern in der Komplement-Bindungsreaktion
+
+    *
+
+*    *   7.6.1
+
+    *   eine Probe
+
+    *   225
+
+
+*    *   7.6.2
+
+    *   jede weitere Probe
+
+    *   35
+
+
+*    *   7.7
+
+    *   Nachweis von Antikörpern in der Serumlangsamagglutination
+
+    *
+
+*    *   7.7.1
+
+    *   eine Probe
+
+    *   160
+
+
+*    *   7.7.2
+
+    *   jede weitere Probe
+
+    *   80
+
+
+*    *   7.8
+
+    *   Nachweis von Antikörpern im Rose-Bengal-Test
+
+    *
+
+*    *   7.8.1
+
+    *   eine Probe
+
+    *   160
+
+
+*    *   7.8.2
+
+    *   jede weitere Probe
+
+    *   80
+
+
+*    *   7.9
+
+    *   Virusnachweis in Einschicht-Zellkulturen
+
+    *   210
+
+
+*    *   7.10
+
+    *   Virusnachweis aus Tiersamen, pro Charge
+
+    *   395
+
+
+*    *   7.11
+
+    *   Spezifischer Nachweis einer Nukleinsäure
+
+    *
+
+*    *   7.11.1
+
+    *   eine Probe
+
+    *   245
+
+
+*    *   7.11.2
+
+    *   jede weitere Probe
+
+    *   110
+
+
+*    *   7.12
+
+    *   Nukleinsäurecharakterisierung
+
+    *   320
+
+
+*    *   8
+
+    *   **Ermäßigung und Befreiung von Gebühren und Auslagen dieses
+        Abschnitts**
+        Die nach den Nummern 1 und 4 zu erhebenden Gebühren sind auf Antrag
+        des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr zu
+        ermäßigen, soweit ein öffentliches Interesse an dem Inverkehrbringen
+        des In-vitro-Diagnostikums aufgrund des Anwendungsgebietes besteht.
+        Ein öffentliches Interesse an dem Inverkehrbringen ist in der Regel
+        dann gegeben, wenn kein zugelassenes In-vitro-Diagnostikum zum
+        Nachweis eines Seuchenerregers zur Verfügung steht.
+
 
 
 
@@ -4667,7 +4708,7 @@ Unterartengruppe 3.1
 Winterraps
 
 Unterartengruppe 3.2
-Sommerraps, Weißer Senf
+Sommerraps, Weißer Senf, Sojabohne
 
 Unterartengruppe 3.3
 Sonstige Öl- und Faserpflanzen
@@ -4751,12 +4792,12 @@ Zierpflanzenarten
 
     *   Entscheidung über die Erteilung des Sortenschutzes nach § 22 SortG
 
-    *   660
+    *   780
 
 
 *    *   102
 
-    *   Registerprüfung nach § 26 Absatz 1 bis 4 SortG in Verbindung mit § 2
+    *   Registerprüfung nach § 26 Absatz 1 bis 4 SortG in Verbindung mit § 2
         BSAVfV
 
     *
@@ -4765,126 +4806,126 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 1.1
 
-    *   1 900
+    *   2 240
 
 
 *    *   102.2
 
     *   bei Sorten der Unterartengruppe 1.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   102.3
 
     *   bei Sorten der Unterartengruppe 1.3
 
-    *   1 200
+    *   1 410
 
 
 *    *   102.4
 
     *   bei Sorten der Unterartengruppe 2.1
 
-    *   1 600
+    *   1 880
 
 
 *    *   102.5
 
     *   bei Sorten der Unterartengruppe 2.2
 
-    *   1 300
+    *   1 530
 
 
 *    *   102.6
 
     *   bei Sorten der Unterartengruppe 2.3
 
-    *   1 100
+    *   1 300
 
 
 *    *   102.7
 
     *   bei Sorten der Unterartengruppe 3.1
 
-    *   1 900
+    *   2 400
 
 
 *    *   102.8
 
     *   bei Sorten der Unterartengruppe 3.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   102.9
 
     *   bei Sorten der Unterartengruppe 3.3
 
-    *   1 200
+    *   1 410
 
 
 *    *   102.10
 
     *   bei Sorten der Unterartengruppe 4.1
 
-    *   1 300
+    *   1 700
 
 
 *    *   102.11
 
     *   bei Sorten der Unterartengruppe 4.2
 
-    *   1 200
+    *   1 410
 
 
 *    *   102.12
 
     *   bei Sorten der Artengruppe 5
 
-    *   1 900
+    *   2 400
 
 
 *    *   102.13
 
     *   bei Sorten der Artengruppe 6
 
-    *   1 700
+    *   2 000
 
 
 *    *   102.14
 
     *   bei Sorten der Artengruppe 7
 
-    *   1 200
+    *   1 410
 
 
 *    *   102.15
 
     *   bei Sorten der Artengruppe 8
 
-    *   1 500
+    *   1 770
 
 
 *    *   102.16
 
     *   bei Sorten der Artengruppe 9
 
-    *   1 700
+    *   2 000
 
 
 *    *   102.17
 
     *   bei Sorten der Artengruppe 10
 
-    *   1 800
+    *   2 120
 
 
 *    *   102.18
 
     *   bei Sorten der Unterartengruppe 11
 
-    *   2 000
+    *   2 360
 
 
 *    *   102.19
@@ -4892,7 +4933,7 @@ Zierpflanzenarten
     *   bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse
         einer anderen Stelle nach § 26 Absatz 2 SortG, einmalig
 
-    *   400
+    *   470
 
 
 *    *   103
@@ -4908,7 +4949,7 @@ Zierpflanzenarten
     *   Prüfung außerhalb des festgelegten Prüfungsrahmens von Sorten der
         gleichen Art
 
-    *   100 – 30 000
+    *   120 bis 35 500
 
 
 *    *   110
@@ -4918,36 +4959,28 @@ Zierpflanzenarten
     *   Artengruppe
 
 
-*    *
-    *
-    *   1.1
+*    *   1.1
 
     *   1.2
 
     *   1.3
 
 
-*    *
-    *
-    *   2.1
+*    *   2.1
 
     *   2.2
 
     *   2.3
 
 
-*    *
-    *
-    *   3.1
+*    *   3.1
 
     *   3.2
 
     *   3.3
 
 
-*    *
-    *
-    *   4.1
+*    *   4.1
 
     *   5
 
@@ -4955,8 +4988,6 @@ Zierpflanzenarten
 
 
 *    *
-    *
-    *
     *   6
 
     *   7
@@ -4964,28 +4995,20 @@ Zierpflanzenarten
 
 *    *
     *
-    *
-    *
     *   8
 
 
 *    *
-    *
-    *
     *
     *   9
 
 
 *    *
     *
-    *
-    *
     *   10
 
 
 *    *
-    *
-    *
     *
     *   11
 
@@ -5002,66 +5025,66 @@ Zierpflanzenarten
 
     *   1. Schutzjahr
 
-    *   400
+    *   470
 
-    *   200
+    *   240
 
-    *   100
+    *   120
 
 
 *    *   110.1.2
 
     *   2. Schutzjahr
 
-    *   500
+    *   590
 
-    *   300
+    *   350
 
-    *   150
+    *   180
 
 
 *    *   110.1.3
 
     *   3. Schutzjahr
 
-    *   600
+    *   710
 
-    *   400
+    *   470
 
-    *   200
+    *   240
 
 
 *    *   110.1.4
 
     *   4. Schutzjahr
 
-    *   700
+    *   820
 
-    *   500
+    *   590
 
-    *   250
+    *   290
 
 
 *    *   110.1.5
 
     *   5. Schutzjahr
 
-    *   900
+    *   1 060
 
-    *   600
+    *   710
 
-    *   300
+    *   350
 
 
 *    *   110.1.6
 
     *   6. Schutzjahr und folgende, je Schutzjahr
 
-    *   1 100
+    *   1 300
 
-    *   750
+    *   880
 
-    *   400
+    *   470
 
 
 *    *   110.2
@@ -5070,11 +5093,11 @@ Zierpflanzenarten
         nach § 30 SaatG besteht, für jedes Jahr des Ruhens des Sortenschutzes
         nach § 10c SortG
 
-    *   100
+    *   120
 
-    *   100
+    *   120
 
-    *   100
+    *   120
 
 
 *    *   120
@@ -5085,9 +5108,9 @@ Zierpflanzenarten
 
 *    *   121
 
-    *   Erteilung eines Zwangsnutzungsrechtes nach § 12 Absatz 1 SortG
+    *   Erteilung eines Zwangsnutzungsrechtes nach § 12 Absatz 1 SortG
 
-    *   780
+    *   920
 
 
 *    *   122
@@ -5097,7 +5120,7 @@ Zierpflanzenarten
         von Änderungen in der Person eines in der Sortenschutzrolle
         Eingetragenen nach § 28 Absatz 3 SortG
 
-    *   200
+    *   240
 
 
 *    *   123
@@ -5105,7 +5128,7 @@ Zierpflanzenarten
     *   Abgabe eigener Prüfungsergebnisse zur Vorlage bei einer anderen Stelle
         im Ausland nach § 26 Absatz 5 SortG
 
-    *   400
+    *   470
 
 
 
@@ -5135,12 +5158,12 @@ Zierpflanzenarten
 
     *   Entscheidung über die Sortenzulassung nach § 42 SaatG
 
-    *   520
+    *   610
 
 
 *    *   202
 
-    *   Registerprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 2
+    *   Registerprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 2
         BSAVfV
 
     *
@@ -5149,133 +5172,133 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 1.1
 
-    *   1 900
+    *   2 240
 
 
 *    *   202.2
 
     *   bei Sorten der Unterartengruppe 1.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   202.3
 
     *   bei Sorten der Unterartengruppe 1.3
 
-    *   1 200
+    *   1 410
 
 
 *    *   202.4
 
     *   bei Sorten der Unterartengruppe 2.1
 
-    *   1 600
+    *   1 880
 
 
 *    *   202.5
 
     *   bei Sorten der Unterartengruppe 2.2
 
-    *   1 300
+    *   1 530
 
 
 *    *   202.6
 
     *   bei Sorten der Unterartengruppe 2.3
 
-    *   1 100
+    *   1 300
 
 
 *    *   202.7
 
     *   bei Sorten der Unterartengruppe 3.1
 
-    *   1 900
+    *   2 400
 
 
 *    *   202.8
 
     *   bei Sorten der Unterartengruppe 3.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   202.9
 
     *   bei Sorten der Unterartengruppe 3.3
 
-    *   1 200
+    *   1 410
 
 
 *    *   202.10
 
     *   bei Sorten der Unterartengruppe 4.1
 
-    *   1 300
+    *   1 700
 
 
 *    *   202.11
 
     *   bei Sorten der Unterartengruppe 4.2
 
-    *   1 200
+    *   1 410
 
 
 *    *   202.12
 
     *   bei Sorten der Artengruppe 5
 
-    *   1 900
+    *   2 400
 
 
 *    *   202.13
 
     *   bei Sorten der Artengruppe 6
 
-    *   1 700
+    *   2 000
 
 
 *    *   202.13.1
 
     *   für jeden weiteren Klon von Reben nach § 42 Absatz 4a SaatG zusätzlich
 
-    *   200
+    *   240
 
 
 *    *   202.14
 
     *   bei Sorten der Artengruppe 7
 
-    *   1 200
+    *   1 410
 
 
 *    *   202.15
 
     *   bei Sorten der Artengruppe 8
 
-    *   1 500
+    *   1 770
 
 
 *    *   202.16
 
     *   bei Sorten der Artengruppe 9
 
-    *   1 700
+    *   2 000
 
 
 *    *   202.17
 
     *   bei Sorten der Artengruppe 10
 
-    *   1 800
+    *   2 120
 
 
 *    *   202.18
 
     *   bei Sorten der Unterartengruppe 11
 
-    *   2 000
+    *   2 360
 
 
 *    *   202.19
@@ -5283,12 +5306,12 @@ Zierpflanzenarten
     *   bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse
         einer anderen Stelle, einmalig
 
-    *   400
+    *   470
 
 
 *    *   203
 
-    *   Wertprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 3
+    *   Wertprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 3
         BSAVfV
 
     *
@@ -5297,63 +5320,63 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 1.1
 
-    *   3 700
+    *   4 360
 
 
 *    *   203.2
 
     *   bei Sorten der Unterartengruppe 1.2
 
-    *   2 500
+    *   2 950
 
 
 *    *   203.3
 
     *   bei Sorten der Unterartengruppe 1.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   203.4
 
     *   bei Sorten der Unterartengruppe 2.1
 
-    *   3 700
+    *   4 360
 
 
 *    *   203.5
 
     *   bei Sorten der Unterartengruppe 2.2
 
-    *   2 400
+    *   2 830
 
 
 *    *   203.6
 
     *   bei Sorten der Unterartengruppe 2.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   203.7
 
     *   bei Sorten der Unterartengruppe 3.1
 
-    *   3 900
+    *   4 590
 
 
 *    *   203.8
 
     *   bei Sorten der Unterartengruppe 3.2
 
-    *   2 500
+    *   2 950
 
 
 *    *   203.9
 
     *   bei Sorten der Unterartengruppe 3.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   203.10
@@ -5367,21 +5390,21 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 4.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   203.12
 
     *   bei Sorten der Artengruppe 5
 
-    *   280
+    *   300
 
 
 *    *   203.13
 
     *   Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
-    *   1 500
+    *   1 770
 
 
 *    *   204
@@ -5395,14 +5418,14 @@ Zierpflanzenarten
 
     *   durch gesonderten Anbau
 
-    *   3 000
+    *   3 530
 
 
 *    *   204.2
 
     *   durch ergänzenden Anbau zur Registerprüfung
 
-    *   500
+    *   590
 
 
 *    *   204.3
@@ -5410,7 +5433,7 @@ Zierpflanzenarten
     *   durch Übernahme von Ergebnissen anderer amtlicher oder unter amtlicher
         Überwachung vorgenommener Prüfungen, einmalig
 
-    *   650
+    *   770
 
 
 *    *   205
@@ -5426,7 +5449,7 @@ Zierpflanzenarten
     *   Prüfung außerhalb des festgelegten Prüfungsrahmens von Sorten der
         gleichen Art
 
-    *   100 bis 30 000
+    *   120 bis 35 500
 
 
 *    *   207
@@ -5438,9 +5461,9 @@ Zierpflanzenarten
 *    *   207.1
 
     *   Eintragung einer bereits vor dem 30. September 2012 in den Verkehr
-        gebrachten Sorte in die Gesamtliste nach § 57a Absatz 1 Nummer 5 SaatG
+        gebrachten Sorte in die Gesamtliste nach § 57a Absatz 1 Nummer 5 SaatG
 
-    *   30
+    *   40
 
 
 *    *   207.2
@@ -5448,14 +5471,14 @@ Zierpflanzenarten
     *   Eintragung einer Amateursorte in die Gesamtliste nach § 57a Absatz 1
         Nummer 6 SaatG
 
-    *   30
+    *   40
 
 
 *    *   207.3
 
     *   Erneuerung der Eintragung nach § 57a Absatz 4 SaatG
 
-    *   30
+    *   40
 
 
 *    *   210
@@ -5466,35 +5489,28 @@ Zierpflanzenarten
     *   Artengruppe
 
 
-*    *
-    *   1.1
+*    *   1.1
 
     *   1.2
 
     *   1.3
 
 
-*    *
-    *
-    *   2.1
+*    *   2.1
 
     *   2.2
 
     *   2.3
 
 
-*    *
-    *
-    *   3.1
+*    *   3.1
 
     *   3.2
 
     *   3.3
 
 
-*    *
-    *
-    *   4.1
+*    *   4.1
 
     *   5
 
@@ -5502,16 +5518,12 @@ Zierpflanzenarten
 
 
 *    *
-    *
-    *
     *   6
 
     *   8
 
 
 *    *
-    *
-    *
     *
     *   9
 
@@ -5520,77 +5532,77 @@ Zierpflanzenarten
 
     *   1. Zulassungsjahr
 
-    *   400
+    *   470
 
-    *   200
+    *   240
 
-    *   100
+    *   120
 
 
 *    *   210.2
 
     *   2. Zulassungsjahr
 
-    *   500
+    *   590
 
-    *   300
+    *   350
 
-    *   150
+    *   180
 
 
 *    *   210.3
 
     *   3. Zulassungsjahr
 
-    *   600
+    *   710
 
-    *   400
+    *   470
 
-    *   200
+    *   240
 
 
 *    *   210.4
 
     *   4. Zulassungsjahr
 
-    *   700
+    *   820
 
-    *   500
+    *   590
 
-    *   250
+    *   290
 
 
 *    *   210.5
 
     *   5. Zulassungsjahr
 
-    *   900
+    *   1 060
 
-    *   600
+    *   710
 
-    *   300
+    *   350
 
 
 *    *   210.6
 
     *   6. – 25. Zulassungsjahr, je Zulassungsjahr
 
-    *   1 100
+    *   1 300
 
-    *   750
+    *   880
 
-    *   400
+    *   470
 
 
 *    *   210.7
 
     *   26. Zulassungsjahr und folgende, je Zulassungsjahr
 
-    *   500
+    *   590
 
-    *   300
+    *   350
 
-    *   150
+    *   180
 
 
 *    *   220
@@ -5604,7 +5616,7 @@ Zierpflanzenarten
 
     *   Entscheidung über die Verlängerung einer Sortenzulassung
 
-    *   450
+    *   530
 
 
 *    *   222
@@ -5617,63 +5629,63 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 1.1
 
-    *   3 700
+    *   4 360
 
 
 *    *   222.2
 
     *   bei Sorten der Unterartengruppe 1.2
 
-    *   2 500
+    *   2 950
 
 
 *    *   222.3
 
     *   bei Sorten der Unterartengruppe 1.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   222.4
 
     *   bei Sorten der Unterartengruppe 2.1
 
-    *   3 700
+    *   4 360
 
 
 *    *   222.5
 
     *   bei Sorten der Unterartengruppe 2.2
 
-    *   2 400
+    *   2 830
 
 
 *    *   222.6
 
     *   bei Sorten der Unterartengruppe 2.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   222.7
 
     *   bei Sorten der Unterartengruppe 3.1
 
-    *   3 900
+    *   4 590
 
 
 *    *   222.8
 
     *   bei Sorten der Unterartengruppe 3.2
 
-    *   2 500
+    *   2 950
 
 
 *    *   222.9
 
     *   bei Sorten der Unterartengruppe 3.3
 
-    *   1 500
+    *   1 770
 
 
 *    *   222.10
@@ -5687,26 +5699,26 @@ Zierpflanzenarten
 
     *   bei Sorten der Unterartengruppe 4.2
 
-    *   1 500
+    *   1 770
 
 
 *    *   222.12
 
     *   bei Sorten der Artengruppe 5
 
-    *   280
+    *   300
 
 
 *    *   222.13
 
     *   Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
-    *   1 500
+    *   1 770
 
 
 *    *   230
 
-    *   Verfahren zur Eintragung eines weiteren Züchters nach § 46 SaatG
+    *   Verfahren zur Eintragung eines weiteren Züchters nach § 46 SaatG
 
     *
 
@@ -5714,7 +5726,7 @@ Zierpflanzenarten
 
     *   Entscheidung über die Eintragung eines weiteren Züchters
 
-    *   450
+    *   530
 
 
 *    *   232
@@ -5727,14 +5739,14 @@ Zierpflanzenarten
 
     *   Prüfung einer weiteren Erhaltungszüchtung außer Artengruppe 6
 
-    *   750
+    *   880
 
 
 *    *   232.2
 
     *   Prüfung einer weiteren Erhaltungszüchtung bei Artengruppe 6
 
-    *   500
+    *   590
 
 
 *    *   240
@@ -5748,7 +5760,7 @@ Zierpflanzenarten
     *   Eintragung von Änderungen in der Person eines in der Sortenliste
         Eingetragenen nach § 47 Absatz 4 Satz 1 SaatG
 
-    *   200
+    *   240
 
 
 *    *   242
@@ -5756,7 +5768,7 @@ Zierpflanzenarten
     *   Genehmigung des Inverkehrbringens von Saatgut zu gewerblichen Zwecken
         vor der Zulassung der Sorte nach § 3 Absatz 2 SaatG
 
-    *   250
+    *   290
 
 
 *    *   243
@@ -5770,14 +5782,14 @@ Zierpflanzenarten
     *   bei Sorten von Obst, soweit die Sorten unter eine Rechtsverordnung
         nach § 14b Absatz 3 SaatG fallen
 
-    *   80
+    *   90
 
 
 *    *   243.2
 
     *   bei Sorten anderer Arten nach § 55 Absatz 2 Satz 1 SaatG
 
-    *   250
+    *   290
 
 
 *    *   244
@@ -5786,7 +5798,7 @@ Zierpflanzenarten
         Inverkehrbringen einer nicht mehr zugelassenen Sorte nach § 36 Absatz
         3 und § 52 Absatz 6 SaatG
 
-    *   410
+    *   480
 
 
 *    *   245
@@ -5794,7 +5806,7 @@ Zierpflanzenarten
     *   Abgabe eigener Prüfungsergebnisse zur Vorlage bei einer anderen Stelle
         im Ausland nach § 44 Absatz 5 SaatG
 
-    *   400
+    *   470
 
 
 *    *   246
@@ -5803,7 +5815,7 @@ Zierpflanzenarten
         nicht zugelassenen oder geschützten Sorten von Obst und Zierpflanzen
         nach § 3a Absatz 2 und 3 SaatG
 
-    *   200
+    *   240
 
 
 *    *   247
@@ -5811,7 +5823,7 @@ Zierpflanzenarten
     *   Registrierung des Hinweises auf die Erhaltungszüchtung nach § 33
         Absatz 8 der Saatgutverordnung (SaatV)
 
-    *   150
+    *   180
 
 
 *    *   248
@@ -5824,20 +5836,19 @@ Zierpflanzenarten
 
     *   Nachprüfung von anerkanntem Saatgut nach § 16 SaatV
 
-    *   180
+    *   210
 
 
 *    *   248.2
 
     *   Nachprüfung von Standardsaatgut nach § 21 Absatz 4 SaatV
 
-    *   180
+    *   210
 
 
 *    *   3
 
-    *   Saatgutverkehrsgesetz (SaatG) in Verbindung mit der
-        Erhaltungssortenverordnung
+    *   SaatG in Verbindung mit der Erhaltungssortenverordnung
 
     *
 
@@ -5849,15 +5860,15 @@ Zierpflanzenarten
 
 *    *   301
 
-    *   Entscheidung über die Sortenzulassung nach § 42 SaatG in Verbindung
+    *   Entscheidung über die Sortenzulassung nach § 42 SaatG in Verbindung
         mit § 4 der Erhaltungssortenverordnung
 
-    *   30
+    *   40
 
 
 *    *   302
 
-    *   Registerprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 2
+    *   Registerprüfung nach § 44 Absatz 1 bis 3 SaatG in Verbindung mit § 2
         Absatz 2 bis 4 der Erhaltungssortenverordnung
 
     *
@@ -5866,7 +5877,7 @@ Zierpflanzenarten
 
     *   bei Sorten landwirtschaftlicher Arten und Gemüsearten
 
-    *   190
+    *   220
 
 
 *    *   302.2
@@ -5874,7 +5885,7 @@ Zierpflanzenarten
     *   bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse
         einer anderen Stelle, einmalig
 
-    *   30
+    *   40
 
 
 *    *   310
@@ -5882,7 +5893,7 @@ Zierpflanzenarten
     *   Überwachung der Erhaltung einer Sorte oder einer weiteren
         Erhaltungszüchtung nach § 37 Satz 2 SaatG
 
-    *   30
+    *   40
 
 
 *    *   320
@@ -5896,7 +5907,7 @@ Zierpflanzenarten
 
     *   Entscheidung über die Verlängerung einer Sortenzulassung
 
-    *   30
+    *   40
 
 
 *    *   330
@@ -5909,7 +5920,7 @@ Zierpflanzenarten
 
     *   Entscheidung über die Eintragung eines weiteren Züchters
 
-    *   30
+    *   40
 
 
 *    *   332
@@ -5917,7 +5928,7 @@ Zierpflanzenarten
     *   Prüfung des Antrags auf Eintragung als weiterer Züchter aufgrund der
         Übernahme der Erhaltungszüchtung nach § 48 SaatG
 
-    *   30
+    *   40
 
 
 *    *   340
@@ -5931,7 +5942,7 @@ Zierpflanzenarten
     *   Eintragung von Änderungen in der Person eines in der Sortenliste
         Eingetragenen nach § 47 Absatz 4 Satz 1 SaatG, je Sorte
 
-    *   30
+    *   40
 
 
 *    *   342
@@ -5939,7 +5950,7 @@ Zierpflanzenarten
     *   Genehmigung des Inverkehrbringens von Saatgut zu gewerblichen Zwecken
         vor der Zulassung der Sorte nach § 3 Absatz 2 SaatG
 
-    *   30
+    *   40
 
 
 *    *   343
@@ -5948,7 +5959,7 @@ Zierpflanzenarten
         mehr zugelassenen Erhaltungssorte nach § 36 Absatz 3 und § 52 Absatz 6
         SaatG
 
-    *   30
+    *   40
 
 
 
@@ -5984,10 +5995,41 @@ nach Fischetikettierungsgesetz, Fischetikettierungsverordnung,
 
 
 
+
+## Abschnitt 18
+
+
+## Agrarorganisationen-und-Lieferketten-Gesetz (AgrarOLkG)
+
+
+*    *   Nummer
+
+    *   Gebühren- oder Auslagentatbestand
+
+    *   Gebühren oder Auslagen
+        in Euro
+
+
+*    *   1
+
+    *   Entscheidungen aufgrund von § 28 Absatz 1 Nummer 2 AgrarOLkG
+
+    *   nach Zeitaufwand
+
+
+*    *   2
+
+    *   Auslagen gemäß § 12 Absatz 1 BGebG
+
+    *   in tatsächlich entstandener Höhe
+
+
+
+
     Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6.
     November 2001 zur Schaffung eines Gemeinschaftskodexes für
     Tierarzneimittel (ABl. L 311 vom 28.11.2001, S. 1), die zuletzt durch
     die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14; L
     86 vom 24.3.2012, S. 25) geändert worden ist, in der jeweils geltenden
     Fassung.
-[^F817307_01_BJNR287400021BJNE001002116]: 
+[^F817307_01_BJNR287400021BJNE001003131]: 

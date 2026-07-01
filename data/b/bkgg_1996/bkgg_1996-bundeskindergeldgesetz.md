@@ -407,7 +407,7 @@ Kindergeld besteht.
 
 
 ### § 6a Kinderzuschlag
-[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002624126)
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002625126)
 
 (1) Personen erhalten für in ihrem Haushalt lebende unverheiratete
 oder nicht verpartnerte Kinder, die noch nicht das 25. Lebensjahr
@@ -481,18 +481,20 @@ Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag
 wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes
 monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für
 ein Kind besteht nicht, wenn zumutbare Anstrengungen unterlassen
-wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. § 12 des
-Zweiten Buches Sozialgesetzbuch ist mit der Maßgabe anzuwenden, dass
-Vermögen nur berücksichtigt wird, wenn es erheblich ist. Ist das zu
-berücksichtigende Vermögen höher als der nach den Sätzen 1 bis 5
-verbleibende monatliche Anspruch auf Kinderzuschlag, so dass es den
-Kinderzuschlag für den ersten Monat des Bewilligungszeitraums
-vollständig mindert, entfällt der Anspruch auf Kinderzuschlag. Ist das
-zu berücksichtigende Vermögen niedriger als der monatliche Anspruch
-auf Kinderzuschlag, ist der Kinderzuschlag im ersten Monat des
-Bewilligungszeitraums um einen Betrag in Höhe des zu
-berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat
-Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
+wurden, Ansprüche auf Einkommen des Kindes geltend zu machen.
+Abweichend von § 12 Absatz 2 Satz 1 des Zweiten Buches
+Sozialgesetzbuch wird Vermögen nur berücksichtigt, wenn es 40 000 Euro
+für die berechtigte Person und 15 000 Euro für jedes weitere Mitglied
+der Bedarfsgemeinschaft übersteigt. Ist das zu berücksichtigende
+Vermögen höher als der nach den Sätzen 1 bis 5 verbleibende monatliche
+Anspruch auf Kinderzuschlag, so dass es den Kinderzuschlag für den
+ersten Monat des Bewilligungszeitraums vollständig mindert, entfällt
+der Anspruch auf Kinderzuschlag. Ist das zu berücksichtigende Vermögen
+niedriger als der monatliche Anspruch auf Kinderzuschlag, ist der
+Kinderzuschlag im ersten Monat des Bewilligungszeitraums um einen
+Betrag in Höhe des zu berücksichtigenden Vermögens zu mindern und ab
+dem folgenden Monat Kinderzuschlag ohne Minderung wegen des Vermögens
+zu zahlen.
 
 (4) Die Summe der einzelnen Kinderzuschläge nach den Absätzen 2 und 3
 bildet den Gesamtkinderzuschlag.
@@ -501,18 +503,18 @@ bildet den Gesamtkinderzuschlag.
 nach den §§ 11 bis 11b des Zweiten Buches Sozialgesetzbuch mit
 Ausnahme des Wohngeldes und des Kinderzuschlags zu berücksichtigende
 Einkommen der Eltern einen Betrag in Höhe der bei der Berechnung des
-Bürgergeldes zu berücksichtigenden Bedarfe der Eltern (Gesamtbedarf
-der Eltern) nicht übersteigt und kein zu berücksichtigendes Vermögen
-der Eltern nach § 12 des Zweiten Buches Sozialgesetzbuch vorhanden
-ist. Als Einkommen oder Vermögen der Eltern gilt dabei dasjenige der
-Mitglieder der Bedarfsgemeinschaft mit Ausnahme des Einkommens oder
-Vermögens der in dem Haushalt lebenden Kinder. Absatz 3 Satz 5 gilt
-entsprechend. Zur Feststellung des Gesamtbedarfs der Eltern sind die
-Bedarfe für Unterkunft und Heizung in dem Verhältnis aufzuteilen, das
-sich aus den im 12. Bericht der Bundesregierung über die Höhe des
-Existenzminimums von Erwachsenen und Kindern festgestellten
-entsprechenden Bedarfen für Alleinstehende, Ehepaare,
-Lebenspartnerschaften und Kinder ergibt.
+Grundsicherungsgeldes nach dem Zweiten Buch Sozialgesetzbuch zu
+berücksichtigenden Bedarfe der Eltern (Gesamtbedarf der Eltern) nicht
+übersteigt und kein zu berücksichtigendes Vermögen der Eltern nach §
+12 des Zweiten Buches Sozialgesetzbuch vorhanden ist. Als Einkommen
+oder Vermögen der Eltern gilt dabei dasjenige der Mitglieder der
+Bedarfsgemeinschaft mit Ausnahme des Einkommens oder Vermögens der in
+dem Haushalt lebenden Kinder. Absatz 3 Satz 5 gilt entsprechend. Zur
+Feststellung des Gesamtbedarfs der Eltern sind die Bedarfe für
+Unterkunft und Heizung in dem Verhältnis aufzuteilen, das sich aus den
+im 12. Bericht der Bundesregierung über die Höhe des Existenzminimums
+von Erwachsenen und Kindern festgestellten entsprechenden Bedarfen für
+Alleinstehende, Ehepaare, Lebenspartnerschaften und Kinder ergibt.
 
 (6) Der Gesamtkinderzuschlag wird um das zu berücksichtigende
 Einkommen der Eltern gemindert, soweit es deren Bedarf übersteigt.
@@ -942,7 +944,7 @@ geworden sind, unberührt.
 
 
 ### § 20 Anwendungsvorschrift
-[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002443126)
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002444126)
 
 (1) § 1 Absatz 3 in der am 19. Dezember 2006 geltenden Fassung ist in
 Fällen, in denen eine Entscheidung über den Anspruch auf Kindergeld
@@ -979,29 +981,9 @@ um weitere sechs Monate verlängert. Satz 1 gilt entsprechend, wenn der
 ursprüngliche Bewilligungszeitraum in Anwendung des § 20 Absatz 4 mehr
 als sechs Monate umfasst.
 
-(6) Abweichend von § 6a Absatz 8 Satz 1 ist für Anträge, die in der
-Zeit vom 1. April 2020 bis zum 30. September 2020 eingehen, bei der
-Ermittlung des monatlich zu berücksichtigenden Einkommens der Eltern
-nur das Einkommen aus dem letzten Monat vor Beginn des
-Bewilligungszeitraums maßgeblich. In diesen Fällen wird abweichend von
-§ 6a Absatz 3 Satz 1 und Absatz 5 Satz 1 Vermögen nach § 12 des
-Zweiten Buches Sozialgesetzbuch nicht berücksichtigt. Satz 2 gilt
-nicht, wenn das Vermögen erheblich ist; es wird vermutet, dass kein
-erhebliches Vermögen vorhanden ist, wenn die Antragstellerin oder der
-Antragsteller dies im Antrag erklärt.
+(6) (weggefallen)
 
-(6a) Abweichend von § 6a Absatz 3 Satz 1 und Absatz 5 Satz 1 wird für
-Bewilligungszeiträume, die in der Zeit vom 1. Oktober 2020 bis 31.
-März 2022 beginnen, Vermögen nach § 12 des Zweiten Buches
-Sozialgesetzbuch nicht berücksichtigt. Satz 1 gilt nicht, wenn das
-Vermögen erheblich ist; es wird vermutet, dass kein erhebliches
-Vermögen vorhanden ist, wenn die Antragstellerin oder der
-Antragsteller dies im Antrag erklärt. Macht die Bundesregierung von
-ihrer Verordnungsermächtigung nach § 67 Absatz 5 des Zweiten Buches
-Sozialgesetzbuch Gebrauch und verlängert den in § 67 Absatz 1 des
-Zweiten Buches Sozialgesetzbuch genannten Zeitraum, ändert sich das in
-Satz 1 genannte Datum, bis zu dem die Regelung Anwendung findet,
-entsprechend.
+(6a) (weggefallen)
 
 (7) In Fällen, in denen der Bewilligungszeitraum vor dem 1. April 2020
 begonnen hat, kann im April oder Mai 2020 einmalig während des

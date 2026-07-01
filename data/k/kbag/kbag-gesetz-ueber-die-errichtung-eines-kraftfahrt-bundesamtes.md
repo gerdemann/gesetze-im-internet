@@ -26,7 +26,7 @@ Zuletzt geändert durch
 
 
 ## § 1
-[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000105123)
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000106123)
 
 (1) Als Bundesoberbehörde für den Straßenverkehr wird das Kraftfahrt-
 Bundesamt errichtet.
@@ -35,19 +35,20 @@ Bundesamt errichtet.
 unterstellt.
 
 (3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für
-Digitales und Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-
-Bundesamts.
+Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
 
 ## § 2
-[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000601123)
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000602123)
 
 (1) Das Kraftfahrt-Bundesamt übernimmt
 
 1.  für Fahrzeuge, die für den Straßenverkehr bestimmt sind,
 
     a)  die Typgenehmigung und die Typprüfung von Fahrzeugen und
-        Fahrzeugteilen sowie die EU-Fahrzeug-Einzelgenehmigung,
+        Fahrzeugteilen, die EU-Fahrzeug-Einzelgenehmigung sowie die Erteilung
+        von Betriebserlaubnissen für Kraftfahrzeuge mit autonomer
+        Fahrfunktion,
 
 
     b)  die Anerkennung von Technischen Diensten, die im Rahmen des
@@ -300,12 +301,9 @@ Vorschriften zugewiesen werden, bleiben unberührt.
 -
 
 
-## § 4
-[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000400313)
+## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000401123)
 
-Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine
-Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit
-diesem Gesetz übertragen werden.
 
 
 ## § 5

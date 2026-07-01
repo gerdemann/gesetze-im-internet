@@ -295,21 +295,21 @@ des pharmazeutischen Unternehmers
 
 
 ## § 3 Apothekenzuschläge für Fertigarzneimittel
-[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000412130)
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000413130)
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch die Apotheken sind zur Berechnung des
-Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 8,35
-Euro zuzüglich 21 Cent zur Förderung der Sicherstellung des
-Notdienstes zuzüglich 20 Cent zur Finanzierung zusätzlicher
-pharmazeutischer Dienstleistungen nach § 129 Absatz 5e des Fünften
-Buches Sozialgesetzbuch sowie die Umsatzsteuer zu erheben; bei der
-Abgabe von saisonalen Grippeimpfstoffen durch die Apotheken an Ärzte
-sind abweichend ein Zuschlag von 1 Euro je Einzeldosis, höchstens
-jedoch 75 Euro je Verordnungszeile, sowie die Umsatzsteuer zu erheben.
-Soweit Fertigarzneimittel, die zur Anwendung bei Menschen bestimmt
-sind, durch die Apotheken zur Anwendung bei Tieren abgegeben werden,
-dürfen zur Berechnung des Apothekenabgabepreises abweichend von Satz 1
+Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 9 Euro
+zuzüglich 21 Cent zur Förderung der Sicherstellung des Notdienstes
+zuzüglich 20 Cent zur Finanzierung zusätzlicher pharmazeutischer
+Dienstleistungen nach § 129 Absatz 5e des Fünften Buches
+Sozialgesetzbuch sowie die Umsatzsteuer zu erheben; bei der Abgabe von
+saisonalen Grippeimpfstoffen durch die Apotheken an Ärzte sind
+abweichend ein Zuschlag von 1 Euro je Einzeldosis, höchstens jedoch 75
+Euro je Verordnungszeile, sowie die Umsatzsteuer zu erheben. Soweit
+Fertigarzneimittel, die zur Anwendung bei Menschen bestimmt sind,
+durch die Apotheken zur Anwendung bei Tieren abgegeben werden, dürfen
+zur Berechnung des Apothekenabgabepreises abweichend von Satz 1
 höchstens ein Zuschlag von 3 Prozent zuzüglich 8,10 Euro sowie die
 Umsatzsteuer erhoben werden. Bei der Abgabe von Fertigarzneimitteln,
 die zur Anwendung bei Tieren bestimmt sind, durch die Apotheken dürfen

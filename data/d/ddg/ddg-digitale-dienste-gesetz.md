@@ -52,30 +52,61 @@ Zuletzt geändert durch
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000101128)
 
 (1) Dieses Gesetz gilt für alle Diensteanbieter nach Absatz 4 Nummer
 5, sofern in diesem Gesetz nichts anderes bestimmt ist. Abweichend von
-Satz 1 gelten die Vorschriften dieses Gesetzes zur Durchsetzung der
-Verordnung (EU) 2019/1150 des Europäischen Parlaments und des Rates
-vom 20. Juni 2019 zur Förderung von Fairness und Transparenz für
-gewerbliche Nutzer von Online-Vermittlungsdiensten (ABl. L 186 vom
-11\.7.2019, S. 57) für Anbieter von Online-Vermittlungsdiensten nach
-Artikel 2 Nummer 2 und 3 sowie für Anbieter von Online-Suchmaschinen
-nach Artikel 2 Nummer 5 und 6 dieser Verordnung. Dieses Gesetz gilt
-nicht für Rundfunk im Sinne der medienrechtlichen Bestimmungen der
-Länder.
+Satz 1 gelten
+
+1.  die Vorschriften dieses Gesetzes zur Durchführung der Verordnung (EU)
+    2019/1150 in der Fassung vom 20. Juni 2019;
+
+
+2.  die Vorschriften dieses Gesetzes zur Durchführung der Verordnung (EU)
+    2024/1028 in der Fassung vom 11. April 2024;
+
+
+3.  die Vorschriften dieses Gesetzes zur Durchführung der Verordnung (EU)
+    2018/302 in der Fassung vom 28. Februar 2018;
+
+
+4.  die Vorschriften dieses Gesetzes zur Durchsetzung des Verbots nach §
+    22c Absatz 2.
+
+
+
+Dieses Gesetz gilt nicht für Rundfunk im Sinne der medienrechtlichen
+Bestimmungen der Länder.
 
 (2) Die inhalts- und vielfaltsbezogenen Anforderungen an digitale
 Dienste und die hierfür zuständigen Aufsichtsbehörden ergeben sich aus
-den medienrechtlichen Bestimmungen der Länder. Die Vorschriften des
-Gesetzes gegen Wettbewerbsbeschränkungen einschließlich dessen §§ 19
-bis 20 sowie der Regelungen zu den Aufgaben, Befugnissen und
-Zuständigkeiten der Kartellbehörden bleiben unberührt.
+den medienrechtlichen Bestimmungen der Länder. Soweit in diesem Gesetz
+oder im Recht der Europäischen Union nichts anderes bestimmt ist,
+ergeben sich die folgenden Anforderungen aus Landesrecht:
 
-(3) Dieses Gesetz trifft weder Regelungen im Bereich des
-internationalen Privatrechts noch regelt es die Zuständigkeit der
-Gerichte.
+1.  die formellen und materiellen Anforderungen an den Zugang zu
+    Dienstleistungen der kurzfristigen Vermietung von Unterkünften nach
+    Artikel 3 Nummer 4 der Verordnung (EU) 2024/1028 in der Fassung vom
+    11\. April 2024 durch Gastgeber nach Artikel 3 Nummer 2 der Verordnung
+    (EU) 2024/1028 in der Fassung vom 11. April 2024 und
+
+
+2.  die formellen und materiellen Anforderungen an die Erbringung von
+    Dienstleistungen der kurzfristigen Vermietung von Unterkünften nach
+    Artikel 3 Nummer 4 der Verordnung (EU) 2024/1028 in der Fassung vom
+    11\. April 2024 durch Gastgeber nach Artikel 3 Nummer 2 der Verordnung
+    (EU) 2024/1028 in der Fassung vom 11. April 2024.
+
+
+
+Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
+einschließlich dessen §§ 19 bis 20 sowie der Regelungen zu den
+Aufgaben, Befugnissen und Zuständigkeiten der Kartellbehörden bleiben
+unberührt.
+
+(3) Soweit in § 31 Absatz 3 nichts anderes bestimmt ist, trifft dieses
+Gesetz weder Regelungen im Bereich des internationalen Privatrechts
+noch regelt es die Zuständigkeit der Gerichte.
 
 (4) Im Sinne dieses Gesetzes ist oder sind
 
@@ -197,7 +228,19 @@ Gerichte.
 17. „Gruppe“ die Gesamtheit eines Mutterunternehmens und seiner
     Tochterunternehmen sowie aller anderen mit dem Mutterunternehmen und
     seinen Tochterunternehmen wirtschaftlich und rechtlich verbundenen
-    Unternehmen.
+    Unternehmen;
+
+
+18. „Dienstleistungserbringer“ jede natürliche oder juristische Person
+    nach Artikel 4 Nummer 2 der Richtlinie 2006/123/EG;
+
+
+19. „Dienstleistung“ jede selbständige Tätigkeit nach Artikel 4 Nummer 1
+    der Richtlinie 2006/123/EG;
+
+
+20. „Dienstleistungsempfänger“ jede natürliche oder juristische Person
+    nach Artikel 4 Nummer 3 der Richtlinie 2006/123/EG.
 
 
 
@@ -1383,17 +1426,17 @@ Beirats.
 [Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000900000)
 
 
-### § 22 Durchsetzung der Verordnung (EU) 2019/1150
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002200000)
+### § 22 Durchführung der Verordnung (EU) 2019/1150
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002201128)
 
-(1) Die Bundesnetzagentur ist zuständige Behörde für die Durchsetzung
-der Verordnung (EU) 2019/1150, wenn Anbieter ihre Online-
-Vermittlungsdienste oder Online-Suchmaschinen gewerblichen Nutzern
-oder Nutzern mit Unternehmenswebseite bereitstellen oder zur
-Bereitstellung anbieten, die ihre Niederlassung oder ihren Wohnsitz in
-der Bundesrepublik Deutschland haben und die über diese Online-
-Vermittlungsdienste oder Online-Suchmaschinen Waren oder
-Dienstleistungen Verbrauchern, die sich in der Europäischen Union
+(1) Die Bundesnetzagentur ist zuständige Behörde für die Durchführung
+der Verordnung (EU) 2019/1150 in der Fassung vom 20. Juni 2019, wenn
+Anbieter ihre Online-Vermittlungsdienste oder Online-Suchmaschinen
+gewerblichen Nutzern oder Nutzern mit Unternehmenswebseite
+bereitstellen oder zur Bereitstellung anbieten, die ihre Niederlassung
+oder ihren Wohnsitz in der Bundesrepublik Deutschland haben und die
+über diese Online-Vermittlungsdienste oder Online-Suchmaschinen Waren
+oder Dienstleistungen Verbrauchern, die sich in der Europäischen Union
 befinden, anbieten. Satz 1 gilt unabhängig vom Niederlassungsort oder
 Sitz der Anbieter dieser Dienste und unabhängig vom ansonsten
 anzuwendenden Recht.
@@ -1406,6 +1449,121 @@ Verordnung (EU) 2019/1150 zu benennen.
 und vertrauensvoll zusammen. Auf Anfrage übermitteln sie im Rahmen der
 jeweils geltenden Rechtsvorschriften einander Informationen, die für
 die Erfüllung ihrer jeweiligen Aufgaben erforderlich sind.
+
+
+### § 22a Durchführung der Verordnung (EU) 2024/1028
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003500128)
+
+(1) Die einheitliche digitale Zugangsstelle nach Artikel 10 Absatz 1
+der Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024 wird
+bei der Bundesnetzagentur eingerichtet und betrieben. Die einheitliche
+digitale Zugangsstelle darf die von Online-Plattformen für die
+kurzfristige Vermietung von Unterkünften nach Artikel 3 Nummer 5 der
+Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024
+bereitgestellten Tätigkeitsdaten nach Artikel 3 Nummer 12 der
+Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024,
+Registrierungsnummern nach Artikel 3 Nummer 7 der Verordnung (EU)
+2024/1028 in der Fassung vom 11. April 2024 sowie die genauen
+Anschriften der Einheiten nach Artikel 3 Nummer 1 der Verordnung (EU)
+2024/1028 in der Fassung vom 11. April 2024 und die URL der Angebote
+nach Artikel 3 Nummer 10 der Verordnung (EU) 2024/1028 in der Fassung
+vom 11. April 2024 automatisch, vorübergehend und transient
+verarbeiten, soweit dies zwingend erforderlich ist, um den in Artikel
+12 Absatz 1 der Verordnung (EU) 2024/1028 in der Fassung vom 11. April
+2024 genannten Behörden Zugang zu den genannten Daten zu ermöglichen.
+
+(2) Nationaler Koordinator nach Artikel 11 Absatz 1 Satz 1 der
+Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024 ist die
+Bundesnetzagentur.
+
+(3) Die nach Landesrecht zuständigen Behörden derjenigen Länder, die
+Registrierungsverfahren nach Artikel 3 Nummer 8 der Verordnung (EU)
+2024/1028 in der Fassung vom 11. April 2024 eingeführt haben,
+erstellen und aktualisieren für ihr Hoheitsgebiet die Listen nach
+Artikel 12 Absatz 1 und nach Artikel 13 Absatz 1 Buchstabe a und b der
+Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024 und
+übermitteln sie der einheitlichen digitalen Zugangsstelle. Die
+einheitliche digitale Zugangsstelle veröffentlicht diese Listen frei
+zugänglich auf ihrer Internetseite und aktualisiert diese Listen
+regelmäßig.
+
+(4) Die nach Landesrecht für die Registrierungsverfahren nach Artikel
+3 Nummer 8 der Verordnung (EU) 2024/1028 in der Fassung vom 11. April
+2024 zuständigen Behörden erfassen je Einheit nach Artikel 3 Nummer 1
+der Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024
+
+1.  die Gemeinde nach Artikel 3 Nummer 13 der Verordnung (EU) 2024/1028 in
+    der Fassung vom 11. April 2024, in der die Einheit angesiedelt ist,
+    sowie
+
+
+2.  die Höchstzahl der Schlafgelegenheiten, über die die Einheit verfügt.
+
+
+
+
+(5) Die nach Landesrecht für die Registrierungsverfahren nach Artikel
+3 Nummer 8 der Verordnung (EU) 2024/1028 in der Fassung vom 11. April
+2024 zuständigen Behörden ermöglichen der einheitlichen digitalen
+Zugangsstelle über eine technische Schnittstelle den Zugang zu den
+gemäß Absatz 4 erfassten Daten sowie zu der für die jeweilige Einheit
+nach Artikel 3 Nummer 1 der Verordnung (EU) 2024/1028 in der Fassung
+vom 11. April 2024 erteilten Registrierungsnummer nach Artikel 3
+Nummer 7 der Verordnung (EU) 2024/1028 in der Fassung vom 11. April
+2024\. Die einheitliche digitale Zugangsstelle ist befugt, die Daten
+nach Absatz 4 und die Registrierungsnummer nach Artikel 3 Nummer 7 der
+Verordnung (EU) 2024/1028 in der Fassung vom 11. April 2024 zu dem in
+Absatz 6 genannten Zweck bei den nach Landesrecht zuständigen Behörden
+abzurufen.
+
+(6) Die einheitliche digitale Zugangsstelle stellt den Statistischen
+Ämtern des Bundes und derjenigen Länder, die Registrierungsverfahren
+nach Artikel 3 Nummer 8 der Verordnung (EU) 2024/1028 in der Fassung
+vom 11. April 2024 eingeführt haben, sowie Eurostat monatlich die in
+Artikel 12 Absatz 4 der Verordnung (EU) 2024/1028 in der Fassung vom
+11\. April 2024 genannten Daten automatisiert über eine technische
+Schnittstelle bereit.
+
+
+### § 22b Behörden zur Durchsetzung von Pflichten nach der Verordnung (EU) 2024/1028
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003600128)
+
+(1) Zuständige Behörde nach Artikel 15 Absatz 2 der Verordnung (EU)
+2024/1028 in der Fassung vom 11. April 2024 für die Durchsetzung des
+Artikels 7 Absatz 2 und 3 sowie des Artikels 9 der Verordnung (EU)
+2024/1028 in der Fassung vom 11. April 2024 ist die Bundesnetzagentur.
+
+(2) Zuständige Behörde nach Artikel 15 Absatz 1 Satz 1 der Verordnung
+(EU) 2024/1028 in der Fassung vom 11. April 2024 in Verbindung mit
+Artikel 49 Absatz 2 Satz 1 der Verordnung (EU) 2022/2065 in der
+Fassung vom 19. Oktober 2022 ist die Koordinierungsstelle für digitale
+Dienste nach § 14 Absatz 1.
+
+
+### § 22c Durchführung der Verordnung (EU) 2018/302 und Durchsetzung des Verbots diskriminierender Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003700128)
+
+(1) Die Bundesnetzagentur ist zuständige Behörde
+
+1.  nach Artikel 7 Absatz 1 der Verordnung (EU) 2018/302 in der Fassung
+    vom 28. Februar 2018,
+
+
+2.  nach Artikel 8 der Verordnung (EU) 2018/302 in der Fassung vom 28.
+    Februar 2018 und
+
+
+3.  für die Durchsetzung des Verbots nach Absatz 2.
+
+
+
+
+(2) Dienstleistungserbringer dürfen keine allgemeinen Bedingungen für
+den Zugang zu einer Dienstleistung bekannt machen, die
+diskriminierende Bestimmungen enthalten, die auf der
+Staatsangehörigkeit oder dem Wohnsitz des Dienstleistungsempfängers
+beruhen. Dies gilt nicht für Unterschiede bei den Zugangsbedingungen,
+die unmittelbar durch objektive Kriterien gerechtfertigt sind.
 
 
 ### § 23 Verbindungsstelle nach Artikel 19 Absatz 2 der Richtlinie 2000/31/EG
@@ -1582,7 +1740,7 @@ genannten Datum, festgesetzt werden.
 
 
 ### § 28 Information der Öffentlichkeit
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002800000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002801128)
 
 (1) Die Koordinierungsstelle für digitale Dienste und die nach § 12
 Absatz 2 Satz 1 und Absatz 3 zuständigen Behörden können der
@@ -1600,8 +1758,20 @@ zum festgestellten Verstoß sowie Angaben zu den Beteiligten des
 Verfahrens enthalten, soweit davon keine personenbezogenen Daten
 betroffen sind.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für die Bundesnetzagentur,
-sofern diese nach § 22 zuständig ist.
+(3) Die Absätze 1 und 2
+gelten entsprechend für die Bundesnetzagentur, sofern diese nach § 22,
+§ 22b Absatz 1 oder § 22c Absatz 1 zuständig ist.
+
+(4) Sofern die Bundesnetzagentur nach § 22 Absatz 1 oder nach § 22c
+Absatz 1 zuständig ist, kann sie nach § 30 Absatz 4 erhaltene Zusagen,
+einen Verstoß einzustellen, veröffentlichen. Dies kann auch die
+Offenlegung der Identität des für den Verstoß verantwortlichen
+Unternehmens unter Wahrung des Schutzes personenbezogener Daten im
+Übrigen umfassen. Soweit bei der Veröffentlichung einer Zusage durch
+die Offenlegung der Identität des für den Verstoß verantwortlichen
+Unternehmens personenbezogene Daten betroffen sind, ist die
+Veröffentlichung der Zusage in der Regel nach spätestens 12 Monaten zu
+löschen.
 
 
 ### § 29 Maßnahmen nach Artikel 51 Absatz 3 der Verordnung (EU) 2022/2065
@@ -1652,32 +1822,79 @@ Die Angaben nach Satz 3 Nummer 1 sind glaubhaft zu machen.
 
 
 ### § 30 Befugnisse der Bundesnetzagentur
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003000000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003001128)
 
-Für die Wahrnehmung der Befugnisse der Bundesnetzagentur als
-zuständige Behörde nach § 22 gelten § 202 Absatz 1, 2, 4 und 5
-(Durchsetzung von Verpflichtungen), § 203 Absatz 1 Satz 1, Absatz 2
-Satz 1 und Absatz 6 Satz 1 und 3 bis 6 (Auskunftsverlangen und weitere
-Untersuchungsrechte; Übermittlungspflichten), die §§ 204 bis 207
-(Auskunftserteilung, Ermittlungen, Beschlagnahme und Vorläufige
-Anordnungen) des Telekommunikationsgesetzes entsprechend.
+(1) Für die Wahrnehmung der Befugnisse der Bundesnetzagentur als
+zuständige Behörde nach den
+§§ 22, 22b Absatz 1 und § 22c Absatz 1 gelten § 202 Absatz 1, 2 und 5,
+§ 203 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 6 Satz 1 und 3 bis 7
+sowie die §§ 204 bis 207 des Telekommunikationsgesetzes entsprechend.
+
+(2) Sofern die Bundesnetzagentur nach § 22 zuständig ist, gilt
+zusätzlich zu Absatz 1 § 202 Absatz 4 des Telekommunikationsgesetzes
+entsprechend.
+
+(3) Sofern die Bundesnetzagentur nach § 22c Absatz 1 zuständig ist,
+kann sie im Rahmen ihrer Befugnisse nach Absatz 1 Waren und
+Dienstleistungen als Testeinkäufe erwerben, erforderlichenfalls mit
+verdeckter Identität.
+
+(4) Sofern die Bundesnetzagentur nach § 22 Absatz 1, § 22b Absatz 1
+oder § 22c Absatz 1 zuständig ist, kann sie
+
+1.  bei einem Verstoß von Anbietern von Online-Vermittlungsdiensten oder
+    Anbietern von Online-Suchmaschinen gegen ihre Verpflichtungen nach der
+    Verordnung (EU) 2019/1150 in der Fassung vom 20. Juni 2019, von
+    Anbietern gegen ihre Verpflichtungen nach der Verordnung (EU) 2018/302
+    in der Fassung vom 28. Februar 2018, von Dienstleistungserbringern
+    gegen ihre Verpflichtungen nach § 22c Absatz 2 Satz 1 oder von
+    Anbietern von Online-Plattformen für die kurzfristige Vermietung von
+    Unterkünften gegen ihre Verpflichtungen nach Artikel 7 Absatz 2 und 3
+    und Artikel 9 der Verordnung (EU) 2024/1028 in der Fassung vom 11.
+    April 2024 Zusagen der verantwortlichen Unternehmen in Bezug auf die
+    Einhaltung dieser Verpflichtungen annehmen und diese Zusagen für
+    bindend erklären,
+
+
+2.  von den in Nummer 1 genannten Unternehmen auf deren Initiative
+    zusätzliche Zusagen entgegennehmen oder verantwortliche Unternehmen zu
+    Zusagen auffordern, um einem von einem Verstoß nach Nummer 1
+    Betroffenen angemessene Abhilfe anzubieten, sowie
+
+
+3.  die verantwortlichen Unternehmen verpflichten, ihre Zusagen nach den
+    Nummern 1 und 2 zu erfüllen.
+
+
+
 
 
 ### § 31 Rechtsbehelfe
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003100000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003101128)
 
 (1) Widerspruch und Anfechtungsklagen gegen Verwaltungsakte der
 Koordinierungsstelle für digitale Dienste und der nach § 12 Absatz 2
 Satz 1 und Absatz 3 zuständigen Behörden zum Vollzug der Verordnung
-(EU)
-2022/2065 haben keine aufschiebende Wirkung.
+(EU) 2022/2065 haben keine aufschiebende Wirkung.
 
 (2) Absatz 1 gilt entsprechend für die Bundesnetzagentur, sofern diese
-nach § 22 zuständig ist.
+nach § 22, § 22b Absatz 1 oder § 22c Absatz 1 zuständig ist.
+
+(3) Bei Rechtsbehelfen gegen eine Entscheidung der Bundesnetzagentur
+als zuständige Behörde nach § 22c Absatz 1 gelten die §§ 13 bis 28 des
+EU-Verbraucherschutzdurchführungsgesetzes vom 21. Dezember 2006 (BGBl.
+I S. 3367), das zuletzt durch Artikel 18 des Gesetzes vom 15. Juli
+2024 (BGBl. 2024 I Nr. 236) geändert worden ist, entsprechend, sofern
+die Bundesnetzagentur die Entscheidung nach § 28 Absatz 3 oder nach §
+30 Absatz 1 in Verbindung mit § 202 Absatz 1, 2 oder 5 oder in
+Verbindung mit § 207 des Telekommunikationsgesetzes trifft. Im Übrigen
+bleiben bei Entscheidungen nach Satz 1 die Vorschriften nach Absatz 2
+und die Vorschriften über Rechtsbehelfe bei Verwaltungsmaßnahmen
+unberührt.
 
 
 ### § 32 Verwaltungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003200000)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003201128)
 
 (1) Entscheidungen der Koordinierungsstelle für digitale Dienste und
 Entscheidungen der nach § 12 Absatz 2 Satz 1 und Absatz 3 zuständigen
@@ -1714,7 +1931,8 @@ geben. Die öffentliche Bekanntgabe wird dadurch bewirkt, dass
 
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Bundesnetzagentur,
-sofern diese nach § 22 zuständig ist.
+sofern diese nach § 22, § 22b Absatz 1 oder § 22c Absatz 1 zuständig
+ist.
 
 
 ## Teil 8 - Bußgeldvorschriften
@@ -1722,7 +1940,7 @@ sofern diese nach § 22 zuständig ist.
 
 
 ### § 33 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003301128)
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003302128)
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Absatz 2 Satz
 1 den Absender oder den kommerziellen Charakter der Nachricht
@@ -1738,12 +1956,16 @@ verschleiert oder verheimlicht.
     vollständig oder nicht rechtzeitig erteilt,
 
 
+2a. entgegen § 22c Absatz 2 Satz 1 eine allgemeine Bedingung bekannt
+    macht,
+
+
 3.  entgegen
 
     a)  § 25 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder
 
 
-    b)  § 30 in Verbindung mit § 203 Absatz 1 Satz 1 des
+    b)  § 30 Absatz 1 in Verbindung mit § 203 Absatz 1 Satz 1 des
         Telekommunikationsgesetzes
 
 
@@ -1757,13 +1979,35 @@ verschleiert oder verheimlicht.
     a)  § 25 Absatz 1 Satz 2, auch in Verbindung mit Satz 3, oder
 
 
-    b)  § 30 in Verbindung mit § 204 Absatz 1 Satz 1 Nummer 3 des
+    b)  § 30 Absatz 1 in Verbindung mit § 204 Absatz 1 Satz 1 Nummer 3 des
         Telekommunikationsgesetzes
 
 
 
     eine dort genannte Prüfung oder ein dort genanntes Betreten nicht
     duldet.
+
+
+
+
+(2a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2018/302 in
+der Fassung vom 28. Februar 2018 verstößt, indem er vorsätzlich oder
+fahrlässig
+
+1.  entgegen Artikel 3 Absatz 1 einen Zugang zur Online-Benutzeroberfläche
+    sperrt oder beschränkt,
+
+
+2.  entgegen Artikel 3 Absatz 2 Unterabsatz 1 einen Kunden zu einer dort
+    genannten Version der Online-Benutzeroberfläche weiterleitet,
+
+
+3.  entgegen Artikel 4 Absatz 1 unterschiedliche Allgemeine
+    Geschäftsbedingungen anwendet oder
+
+
+4.  entgegen Artikel 5 Absatz 1 unterschiedliche Bedingungen für einen
+    Zahlungsvorgang anwendet.
 
 
 
@@ -2023,12 +2267,32 @@ fahrlässig
 
 
 
+(5b) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2024/1028
+in der Fassung vom 11. April 2024 verstößt, indem er vorsätzlich oder
+fahrlässig
+
+1.  entgegen Artikel 7 Absatz 1 Buchstabe a oder b eine Online-
+    Schnittstelle nicht richtig gestaltet oder nicht richtig organisiert,
+
+
+2.  entgegen Artikel 7 Absatz 2 eine Unterrichtung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig vornimmt oder
+
+
+3.  entgegen Artikel 9 Absatz 1 Satz 1 in Verbindung mit Satz 2 oder
+    Absatz 2 Daten nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig übermittelt.
+
+
+
+
 (6) Die Ordnungswidrigkeit kann geahndet werden
 
 1.  in den Fällen des
 
-    a)  Absatzes 1 und 3 Nummer 1, 3, 4, 9, 10 und 11 und des Absatzes 5a
-        Nummer 1 und 3 und
+    a)  Absatzes 1 und 2 Nummer 2a, des Absatzes 2a und 3 Nummer 1, 3, 4, 9,
+        10 und 11, des Absatzes 5a Nummer 1 und 3 sowie des Absatzes 5b Nummer
+        1 und
 
 
     b)  Absatzes 4 und 5 Nummer 8, 10 bis 12, 14, 16, 18, 20 bis 30 und 32
@@ -2040,8 +2304,8 @@ fahrlässig
 
 2.  in den Fällen des
 
-    a)  Absatzes 3 Nummer 2, 5 bis 8, 12 bis 14 und 15 und des Absatzes 5a
-        Nummer 2 und
+    a)  Absatzes 3 Nummer 2, 5 bis 8, 12 bis 14 und 15, des Absatzes 5a Nummer
+        2 und des Absatzes 5b Nummer 2 und 3 und
 
 
     b)  Absatzes 5 Nummer 1 bis 7, 9, 13, 15, 17, 19, 31 und 33
@@ -2051,8 +2315,8 @@ fahrlässig
     mit einer Geldbuße bis zu hunderttausend Euro und
 
 
-3.  in den Fällen des Absatzes 2 mit einer Geldbuße bis zu fünfzigtausend
-    Euro.
+3.  in den übrigen Fällen des Absatzes 2 mit einer Geldbuße bis zu
+    fünfzigtausend Euro.
 
 
 
@@ -2081,12 +2345,13 @@ erzielt hat. Der Gesamtumsatz kann geschätzt werden.
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
 1.  des Absatzes 2 Nummer 3 Buchstabe a und Nummer 4 Buchstabe a, der
-    Absätze 4 und 5 Nummer 1 bis 5, 7 bis 22, 24, 25 und 27 bis 33 und des
-    Absatzes 5a die Koordinierungsstelle für digitale Dienste,
+    Absätze 4, 5 Nummer 1 bis 5, 7 bis 22, 24, 25 und 27 bis 33, der
+    Absätze 5a und 5b Nummer 1 die Koordinierungsstelle für digitale
+    Dienste,
 
 
-2.  des Absatzes 2 Nummer 3 Buchstabe b und Nummer 4 Buchstabe b und des
-    Absatzes 3 die Bundesnetzagentur,
+2.  des Absatzes 2 Nummer 2a, 3 Buchstabe b und Nummer 4 Buchstabe b sowie
+    der Absätze 2a, 3 und 5b Nummer 2 und 3 die Bundesnetzagentur,
 
 
 3.  des Absatzes 5 Nummer 6 die Bundeszentrale für Kinder- und

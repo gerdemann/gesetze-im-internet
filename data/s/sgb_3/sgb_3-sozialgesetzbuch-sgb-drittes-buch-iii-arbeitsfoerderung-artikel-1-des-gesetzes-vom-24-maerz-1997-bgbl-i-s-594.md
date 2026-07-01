@@ -414,10 +414,57 @@ erforderlichen Tatsachen, insbesondere über
 
 
 
-#### § 10 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014604308)
+#### § 9b Zusammenarbeit mit den für die Förderung junger Menschen zuständigen Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE081200119)
 
--
+Bei der Förderung junger Menschen sind die Agenturen für Arbeit
+verpflichtet, mit den wesentlichen Beteiligten des örtlichen
+Ausbildungs- und Arbeitsmarktes eng zusammenzuarbeiten. Zu den
+wesentlichen Beteiligten zählen insbesondere die
+
+1.  für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende
+    zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen
+    Träger,
+
+
+2.  Träger der Jugendhilfe,
+
+
+3.  Gemeinden, Kreise und Bezirke,
+
+
+4.  Träger der Eingliederungshilfe,
+
+
+5.  Ausländerbehörden und das Bundesamt für Migration und Flüchtlinge und
+
+
+6.  allgemein- und berufsbildenden Schulen sowie Schulverwaltungen und
+    -behörden.
+
+
+
+
+
+#### § 10 Jugendberufsagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014605119)
+
+(1) Eine Jugendberufsagentur ist eine rechtskreisübergreifende
+Kooperation zur umfassenden Förderung junger Menschen am Übergang von
+der Schule in den Beruf zwischen den Agenturen für Arbeit, den
+Beteiligten nach § 9b Satz 2 Nummer 1 und 2 und gegebenenfalls
+weiteren Beteiligten. Die Agenturen für Arbeit sollen auf die
+Entstehung oder Fortführung von Jugendberufsagenturen hinwirken.
+
+(2) In den Jugendberufsagenturen können die Agenturen für Arbeit
+gemeinsam und gleichberechtigt mit den Beteiligten nach § 9b Satz 2
+Nummer 1 und 2 eine Zielgruppe sowie im Rahmen der jeweiligen
+Zuständigkeiten aufeinander abgestimmte Leistungsangebote festlegen.
+
+(3) Die Agenturen für Arbeit können im Rahmen der Zusammenarbeit nach
+§ 9b in gleichberechtigter Abstimmung mit den Beteiligten nach § 9b
+Satz 2 Nummer 1 und 2 koordinierende Tätigkeiten innerhalb der
+Jugendberufsagentur übernehmen.
 
 
 #### § 11 (weggefallen)
@@ -923,7 +970,7 @@ Versicherungspflicht nach Absatz 2a vor.
 
 
 #### § 27 Versicherungsfreie Beschäftigte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016414311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016415119)
 
 (1) Versicherungsfrei sind Personen in einer Beschäftigung als
 
@@ -1034,8 +1081,7 @@ nur geringfügig beschäftigt sind.
     Beigeordneter, wenn diese Beschäftigung ehrenamtlich ausgeübt wird,
 
 
-5.  Beschäftigung, die nach den §§ 16e und 16i des Zweiten Buches
-    gefördert wird.
+5.  Beschäftigung, die nach § 16i des Zweiten Buches gefördert wird.
 
 
 
@@ -1294,15 +1340,16 @@ angeboten werden.
 
 
 ##### § 31a Informationen an junge Menschen ohne Anschlussperspektive; erforderliche Datenerhebung und Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078400360)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078401119)
 
 (1) Die Agentur für Arbeit hat junge Menschen, die nach ihrer Kenntnis
 bei Beendigung der Schule oder einer vergleichbaren Ersatzmaßnahme
 keine konkrete berufliche Anschlussperspektive haben, zu kontaktieren
-und über Angebote der Berufsberatung und Berufsorientierung zu
-informieren, soweit diese noch nicht genutzt werden. Zu diesem Zweck
-erhebt die Agentur für Arbeit folgende Daten, soweit sie ihr von den
-Ländern übermittelt werden:
+und über ihre Leistungen zu informieren, soweit diese noch nicht
+genutzt werden. Zu diesem Zweck soll die Agentur für Arbeit auch über
+die Leistungen der Akteure einer Jugendberufsagentur informieren. Zu
+diesem Zweck erhebt die Agentur für Arbeit folgende Daten, soweit sie
+ihr von den Ländern übermittelt werden:
 
 1.  Name,
 
@@ -1322,7 +1369,10 @@ Ländern übermittelt werden:
 6.  voraussichtlich beendete Schulform oder Ersatzmaßnahme,
 
 
-7.  erreichter Abschluss.
+7.  erreichter Abschluss,
+
+
+8.  Telefonnummer.
 
 
 
@@ -1344,7 +1394,14 @@ Angebote unterbreiten kann. Erforderlich sind folgende Daten:
 
 
 4.  Wohnanschrift, falls sich diese gegenüber der vom Land übermittelten
-    Anschrift geändert hat.
+    Anschrift geändert hat, oder wenn die nach Landesrecht bestimmte
+    Stelle nach Satz 1 nicht der Stelle entspricht, die nach Absatz 1 die
+    Daten an die Agentur für Arbeit übermittelt hat,
+
+
+5.  Telefonnummer, wenn die nach Landesrecht bestimmte Stelle nach Satz 1
+    nicht der Stelle entspricht, die nach Absatz 1 die Daten an die
+    Agentur für Arbeit übermittelt hat.
 
 
 
@@ -2045,7 +2102,7 @@ berücksichtigt werden.
 
 
 ##### § 48a Berufsorientierungspraktikum
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079800311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079801119)
 
 (1) Die Agentur für Arbeit kann junge Menschen, die ihre Berufswahl
 noch nicht abschließend getroffen haben, durch ein
@@ -2089,8 +2146,7 @@ Arbeitgeber soll
 
 
 Für die Höhe der Fahrkosten gilt § 63 Absatz 3 entsprechend. Für die
-Unterkunft wird der jeweils geltende Bedarf nach § 13 Absatz 2 Nummer
-2 des Bundesausbildungsförderungsgesetzes zugrunde gelegt.
+Höhe der Kosten für Unterkunft gilt § 86 Nummer 1 entsprechend.
 Hinsichtlich der Übernahme sonstiger Aufwendungen gilt § 64 Absatz 1
 und 3 entsprechend.
 
@@ -11185,7 +11241,7 @@ zusammen.
 
 
 #### § 368 Aufgaben der Bundesagentur
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051412119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051414119)
 
 (1) Die Bundesagentur ist der für die Durchführung der Aufgaben nach
 diesem Buch zuständige Verwaltungsträger. Sie darf ihre Mittel nur für
@@ -11218,10 +11274,9 @@ regeln.
 
 (2a) Um die örtliche rechtskreisübergreifende Zusammenarbeit zur
 Integration junger Menschen in den Ausbildungs- und Arbeitsmarkt zu
-unterstützen, entwickelt und betreibt die Bundesagentur ein IT-System,
-welches den im jeweiligen Einzelfall beteiligten Leistungsträgern zur
-Verfügung gestellt werden kann, soweit dies für die Zusammenarbeit
-erforderlich ist.
+unterstützen, entwickelt, betreibt und finanziert die Bundesagentur
+ein IT-System, welches den im jeweiligen Einzelfall beteiligten
+Leistungsträgern zur Verfügung gestellt werden kann.
 
 (2b) Um die Transparenz auf dem Arbeitsmarkt zu erhöhen und die
 Weiterbildungsbeteiligung von Arbeitnehmerinnen und Arbeitnehmern zu
@@ -11259,10 +11314,16 @@ Arbeitsmarktprogramme der Länder übernehmen.
 Gemeinden in Verwaltungsvereinbarungen regeln.
 
 
-#### § 368a
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065001308)
+#### § 368a Bekämpfung von organisiertem Leistungsmissbrauch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065002119)
 
-(weggefallen)
+(1) Die Bundesagentur bekämpft organisierten Leistungsmissbrauch
+insbesondere durch präventive, analytische und koordinierende
+Maßnahmen.
+
+(2) Die Bundesagentur arbeitet mit den Stellen nach § 9 Absatz 3 Satz
+1 und den Strafverfolgungsbehörden zusammen, um organisierten
+Leistungsmissbrauch zu verhindern und aufzudecken.
 
 
 #### § 369 Besonderheiten zum Gerichtsstand
@@ -13571,4 +13632,13 @@ Bundesministerium der Finanzen vereinbaren die Höhe des Gesamtbetrages
 zur Abgeltung der Aufwendungen sowie im Rahmen ihrer jeweiligen
 Zuständigkeiten die Einzelheiten zum Verfahren. Die Bundesagentur
 zahlt den Gesamtbetrag zu Beginn des Jahres an den Bund.
+
+
+#### § 460 Dreizehntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE081500119)
+
+Personen, die am 30. Juni 2026 in einer nach § 16e des Zweiten Buches
+geförderten Beschäftigung nach § 27 Absatz 3 Nummer 5
+versicherungsfrei sind, bleiben in dieser Beschäftigung bis zum Ende
+der Förderung nach § 16e des Zweiten Buches versicherungsfrei.
 

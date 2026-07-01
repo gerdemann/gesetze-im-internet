@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.6.2023 I Nr. 171
 
+Änderung durch
+:   Art. 1 V v. 25.6.2026 I Nr. 194 mWv 1.7.2026 noch nicht berücksichtigt
+
 V ursprünglich aufgeh. durch
 :   Art. 4 Abs. 143 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 

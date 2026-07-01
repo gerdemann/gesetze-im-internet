@@ -71,7 +71,7 @@ Meldungen sind zu erstatten von
 
 
 ### § 3 Zu meldender Personenkreis
-[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001603126)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001604126)
 
 Meldungen sind zu erstatten für
 
@@ -89,8 +89,8 @@ Meldungen sind zu erstatten für
 4.  Leiharbeitnehmer,
 
 
-5.  Bezieher von Entgeltersatzleistungen oder von Bürgergeld nach § 19
-    Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch,
+5.  Bezieher von Entgeltersatzleistungen oder von Grundsicherungsgeld nach
+    § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch,
 
 
 6.  Wehr- und Zivildienstleistende.

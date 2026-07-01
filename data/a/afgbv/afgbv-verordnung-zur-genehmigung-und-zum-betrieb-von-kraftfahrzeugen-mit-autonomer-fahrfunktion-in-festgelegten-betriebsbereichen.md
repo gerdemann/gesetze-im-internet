@@ -1090,14 +1090,13 @@ verwendet werden.
 
 
 ## § 16 Erprobungsgenehmigung
-[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001601119)
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001602123)
 
-(1) Kraftfahrzeuge, die zur Erprobung von Fahrzeugsystemen oder
--teilen und deren Entwicklungsstufen für die Entwicklung
-automatisierter oder autonomer Fahrfunktionen dienen, dürfen im
-öffentlichen Straßenraum nur betrieben werden, wenn für das
-entsprechende Kraftfahrzeug eine Erprobungsgenehmigung des Kraftfahrt-
-Bundesamts nach § 1i des Straßenverkehrsgesetzes vorliegt. Die
+(1) Kraftfahrzeuge, die zur Erprobung oder Entwicklung automatisierter
+oder autonomer Fahrfunktionen dienen, dürfen im öffentlichen
+Straßenraum nur betrieben werden, wenn für das entsprechende
+Kraftfahrzeug eine Erprobungsgenehmigung des Kraftfahrt-Bundesamts
+nach § 1i des Straßenverkehrsgesetzes vorliegt. Die
 Erprobungsgenehmigung nach Satz 1 umfasst auch die Genehmigung zur
 Erprobung aller Teile, Systeme oder Einheiten des Kraftfahrzeugs. § 19
 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung ist nicht anzuwenden.
@@ -1212,16 +1211,17 @@ zu erheben, zu speichern und zu verwenden. Die Daten sind spätestens
 nach Abschluss der Evaluierung nach § 1l Satz 1 des
 Straßenverkehrsgesetzes zu löschen.
 
-(5) Das Kraftfahrt-Bundesamt kann zum Zweck der Erprobung von
-Fahrzeugsystemen oder -teilen und deren Entwicklungsstufen für die
+(5) Das Kraftfahrt-Bundesamt kann zum Zweck der Erprobung oder
 Entwicklung automatisierter oder autonomer Fahrfunktionen Ausnahmen
 genehmigen von
 
 1.  den Vorschriften der §§ 1a und 1e des Straßenverkehrsgesetzes,
 
 
-2.  dieser Verordnung mit Ausnahme von den §§ 15 und 16 und der
-    Straßenverkehrs-Zulassungs-Ordnung.
+2.  dieser Verordnung mit Ausnahme von den §§ 15 und 16 und
+
+
+3.  der Straßenverkehrs-Zulassungs-Ordnung.
 
 
 

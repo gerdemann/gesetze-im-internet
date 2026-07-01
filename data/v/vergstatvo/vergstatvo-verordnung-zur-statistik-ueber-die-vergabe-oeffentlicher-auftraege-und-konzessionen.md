@@ -49,7 +49,7 @@ Bundesministeriums für Wirtschaft und Energie eine Vergabestatistik.
 
 
 ## § 2 Art und Umfang der Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000201360)
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000202128)
 
 (1) Auftraggeber im Sinne von § 98 des Gesetzes gegen
 Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines
@@ -65,7 +65,7 @@ Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines
 öffentlichen Auftrags die in § 3 Absatz 2 und 3 aufgeführten Daten,
 wenn
 
-1.  der Auftragswert ohne Umsatzsteuer 25 000 Euro überschreitet,
+1.  der Auftragswert ohne Umsatzsteuer 50 000 Euro überschreitet,
 
 
 2.  der Auftragswert den geltenden Schwellenwert gemäß § 106 des Gesetzes

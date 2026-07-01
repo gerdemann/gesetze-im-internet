@@ -728,7 +728,7 @@ der Antragstellung.
 
 
 #### § 21 Begriff des Jahreseinkommens
-[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002116130)
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002117130)
 
 (1) Jahreseinkommen im Sinne dieses Gesetzes ist, vorbehaltlich der
 Absätze 2 und 3 sowie der §§ 22 und 23, die Summe der positiven
@@ -940,7 +940,8 @@ Ehegatten ist nicht zulässig.
     gezahlt werden,
 
 
-7.1 das Bürgergeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
+7.1 das Grundsicherungsgeld nach § 19 Absatz 1 des Zweiten Buches
+    Sozialgesetzbuch,
 
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des

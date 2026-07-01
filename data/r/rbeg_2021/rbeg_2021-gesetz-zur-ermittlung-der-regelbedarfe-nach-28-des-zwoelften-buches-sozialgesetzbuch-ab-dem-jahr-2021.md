@@ -61,7 +61,7 @@ des 14. Lebensjahres sowie vom Beginn des 15. bis zur Vollendung des
 
 
 ## § 3 Auszuschließende Haushalte
-[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000301126)
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000302126)
 
 (1) Von den Haushalten nach § 2 sind vor der Bestimmung der
 Referenzhaushalte diejenigen Haushalte auszuschließen, in denen
@@ -76,7 +76,7 @@ folgenden Leistungen bezogen haben:
     Kapitel des Zwölften Buches Sozialgesetzbuch,
 
 
-3.  Bürgergeld nach dem Zweiten Buch Sozialgesetzbuch,
+3.  Grundsicherungsgeld nach dem Zweiten Buch Sozialgesetzbuch,
 
 
 4.  Leistungen nach dem Asylbewerberleistungsgesetz.

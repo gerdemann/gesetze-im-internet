@@ -33,12 +33,12 @@ dem Bundesministerium des Innern und für Heimat:
 
 
 ## § 1 Verwendungen mit besonders hohen Sicherheitsanforderungen
-[Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000201311)
 
-Der intensivierten erweiterten Sicherheitsüberprüfung mit
-Sicherheitsermittlungen für Verwendungen mit besonders hohen
-Sicherheitsanforderungen nach § 3a des Soldatengesetzes haben sich
-Soldatinnen und Soldaten zu unterziehen, die
+Die intensivierte erweiterte Sicherheitsüberprüfung für Verwendungen
+mit besonders hohen Sicherheitsanforderungen nach § 5 Absatz 2 des
+Bundeswehr-Schutz-Gesetzes ist bei Soldatinnen und Soldaten
+durchzuführen, die
 
 1.  als Kommandosoldatin, Kommandosoldat, Kampfschwimmerin oder
     Kampfschwimmer für Einsatzaufgaben der Spezialkräfte der Bundeswehr

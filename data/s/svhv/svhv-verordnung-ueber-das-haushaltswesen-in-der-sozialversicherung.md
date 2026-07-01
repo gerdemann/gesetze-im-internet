@@ -461,7 +461,7 @@ ausreichende Unterlagen zugrunde zu legen.
 
 
 ### § 22 Öffentliche Aufträge
-[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002802126)
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002803126)
 
 (1) Bei der Vergabe öffentlicher Aufträge und dem Abschluss von
 Rahmenvereinbarungen unterhalb der jeweiligen EU-Schwellenwerte ist zu
@@ -478,7 +478,14 @@ Ausschreibung nach Satz 2 gilt nicht für Verträge, die unmittelbar der
 Erbringung gesetzlicher oder satzungsmäßiger Versicherungsleistungen
 dienen.
 
-(2) Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen, die
+(2) Leistungen bis zu einem voraussichtlichen Auftragswert von 50 000
+Euro ohne Umsatzsteuer können unter Berücksichtigung der Grundsätze
+der Wirtschaftlichkeit und Sparsamkeit abweichend von Absatz 1 und
+entsprechend § 55 der Bundeshaushaltsordnung ohne die Durchführung
+eines Vergabeverfahrens beschafft werden (Direktauftrag). Der
+Auftraggeber soll zwischen den beauftragten Unternehmen wechseln.
+
+(3) Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen, die
 Vergabeverordnung sowie die besonderen Regelungen des
 Sozialgesetzbuches zum Abschluss von Verträgen durch die
 Versicherungsträger und ihre Verbände sind zu beachten.

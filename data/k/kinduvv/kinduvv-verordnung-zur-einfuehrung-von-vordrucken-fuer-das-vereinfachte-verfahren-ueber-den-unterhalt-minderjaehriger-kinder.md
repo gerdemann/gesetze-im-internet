@@ -21,7 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Formulare
-[Direktlink](https://www.gesetze-im-internet.de/kinduvv/BJNR136410998.html#BJNR136410998BJNE000207125)
+[Direktlink](https://www.gesetze-im-internet.de/kinduvv/BJNR136410998.html#BJNR136410998BJNE000208131)
 
 (1) Im vereinfachten Verfahren zur Festsetzung des Unterhalts für ein
 minderjähriges Kind wird das in der Anlage bestimmte Formular für den
@@ -32,13 +32,13 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit verwendet.
 (2) Absatz 1 gilt nicht, soweit Unterhalt
 
 1.  für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch
-    Sozialgesetzbuch, Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten
-    Buches Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe
-    nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem
-    Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des
-    Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe,
-    des Bürgergeldes, der öffentlichen Jugendhilfe, dem Land oder dem
-    Dritten aus übergegangenem Recht oder
+    Sozialgesetzbuch, Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des
+    Zweiten Buches Sozialgesetzbuch, Hilfe zur Erziehung oder
+    Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen
+    nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2
+    oder 3 des Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der
+    Sozialhilfe, des Grundsicherungsgeldes, der öffentlichen Jugendhilfe,
+    dem Land oder dem Dritten aus übergegangenem Recht oder
 
 
 2.  nach § 94 Absatz 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33

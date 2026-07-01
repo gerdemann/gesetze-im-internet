@@ -19,19 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.2.1997 I 418, 1804;
 
 Zuletzt geändert durch
-:   Art. 33 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 5 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 22.6.2026 I Nr. 192 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.6.2026 I Nr. 192
 
 
 ## Erster Abschnitt - Gegenstand der Steuer

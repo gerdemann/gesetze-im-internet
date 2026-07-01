@@ -56,13 +56,15 @@ oder elektronischer Form vorzulegen.
 
 
 ### § 2 Antragsinhalt
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000301126)
 
 (1) Der vom Hersteller einer digitalen Pflegeanwendung beim
 Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende
-Antrag enthält Angaben über die Anforderungen nach § 78a Absatz 4 Satz
-3 und 4 des Elften Buches Sozialgesetzbuch. Zudem enthält der Antrag
-insbesondere Angaben zu:
+Antrag enthält Angaben und Nachweise entsprechend den Anforderungen
+nach § 78a Absatz 4 Satz 3 in Verbindung mit Satz 4 des Elften Buches
+Sozialgesetzbuch oder, im Fall eines Antrags auf Aufnahme zur
+Erprobung, nach § 78a Absatz 6a Satz 2 des Elften Buches
+Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:
 
 1.  den Hersteller und die digitale Pflegeanwendung identifizierenden
     Merkmalen,
@@ -104,23 +106,36 @@ insbesondere Angaben zu:
 
 10. dem vorliegenden Nachweis eines pflegerischen Nutzens nach den §§ 9
     bis 11 einschließlich ergänzender Unterstützungsleistungen in einer
-    allgemeinverständlichen Kurzfassung,
+    allgemeinverständlichen Kurzfassung oder, im Fall eines Antrags auf
+    Aufnahme zur Erprobung, eine allgemeinverständliche Kurzfassung der
+    Begründung nach § 78a Absatz 6a Satz 2 Nummer 2 des Elften Buches
+    Sozialgesetzbuch in Verbindung mit § 13,
 
 
 11. der Gruppe von Pflegebedürftigen und sonstigen Nutzern, für die ein
-    pflegerischer Nutzen nach den §§ 9 bis 11 nachgewiesen wurde,
+    pflegerischer Nutzen gemäß § 9 nachgewiesen wurde oder, im Fall eines
+    Antrags auf Aufnahme zur Erprobung, in dem Erprobungszeitraum
+    nachgewiesen werden soll,
 
 
-12. dem pflegerischen Nutzen, der nach den §§ 9 bis 11 für die angegebene
-    Gruppe von Pflegebedürftigen und sonstigen Nutzern nachgewiesen wurde,
+12. dem pflegerischen Nutzen, der für die angegebene Gruppe von
+    Pflegebedürftigen und sonstigen Nutzern gemäß den §§ 10 und 11
+    nachgewiesen wurde oder, im Fall eines Antrags auf Aufnahme zur
+    Erprobung, in dem Erprobungszeitraum nachgewiesen werden soll,
 
 
 13. der Studie oder den Studien des Herstellers zum Nachweis des
-    pflegerischen Nutzens nach § 11 einschließlich ergänzender
-    Unterstützungsleistungen einer digitalen Pflegeanwendung,
+    pflegerischen Nutzens einer digitalen Pflegeanwendung nach § 11 oder,
+    im Fall eines Antrags auf Aufnahme zur Erprobung, mindestens den
+    systematischen Datenauswertungen, die von dem Hersteller zu der
+    Begründung des pflegerischen Nutzens nach § 13 vorgelegt werden,
 
 
-14. der Erfüllung der Anforderungen und Vorgaben nach den §§ 3 bis 11,
+14. der Erfüllung der Anforderungen und Vorgaben nach den §§ 3 bis 11
+    oder, im Fall eines Antrags auf Aufnahme zur Erprobung, der Erfüllung
+    der Anforderungen und Vorgaben nach den §§ 3 bis 9, 13 und 14, soweit
+    sich aus dem Sinn und Zweck der Aufnahme zur Erprobung nichts
+    Abweichendes ergibt,
 
 
 15. den in der digitalen Pflegeanwendung vorgesehenen Nutzerrollen,
@@ -163,11 +178,17 @@ Betriebs- und Geschäftsgeheimnisse oder an den Schutz
 personenbezogener Daten oder des geistigen Eigentums einer
 Veröffentlichung entgegenstehen.
 
-(3) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und
+(3) Der Hersteller bestimmt in seinem Antrag, ob er eine dauerhafte
+Aufnahme in das Verzeichnis für digitale Pflegeanwendungen nach § 78a
+Absatz 3 des Elften Buches Sozialgesetzbuch oder eine Aufnahme zur
+Erprobung nach § 78a Absatz 6a des Elften Buches Sozialgesetzbuch
+beantragt.
+
+(4) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und
 Medizinprodukte mit dem Antrag einen kostenfreien Zugang zu der
 digitalen Pflegeanwendung zur Verfügung.
 
-(4) Angaben des Herstellers nach Absatz 1 Satz 2, die nach § 16 Absatz
+(5) Angaben des Herstellers nach Absatz 1 Satz 2, die nach § 19 Absatz
 2 zur Veröffentlichung im Verzeichnis für digitale Pflegeanwendungen
 bestimmt sind, sind in deutscher Sprache zu machen.
 
@@ -230,7 +251,7 @@ Bescheinigungen, verlangen. § 3 Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### § 5 Anforderungen an Datenschutz und Datensicherheit
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000601126)
 
 (1) Digitale Pflegeanwendungen müssen die gesetzlichen Vorgaben des
 Datenschutzes und die Anforderungen an die Datensicherheit nach dem
@@ -254,50 +275,51 @@ gewährleisten.
 
 
 (3) Die personenbezogenen Daten, die im Rahmen der Nutzung einer
-digitalen Pflegeanwendung und der sie erforderlichenfalls ergänzenden
+digitalen Pflegeanwendung und der sie ergänzenden
 Unterstützungsleistungen verarbeitet werden, dürfen nur aufgrund einer
 Einwilligung nach Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU)
-2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
-zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
-Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
-95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1)
-und ausschließlich zu den folgenden Zwecken verarbeitet werden:
+2016/679 (Datenschutz-Grundverordnung) und ausschließlich zu den
+folgenden Zwecken verarbeitet werden:
 
 1.  zur Gewährung und Erbringung der ergänzenden Unterstützungsleistungen
-    nach § 39a des Elften Buches Sozialgesetzbuch sowie der
+    nach § 39a des Elften Buches Sozialgesetzbuch sowie der
     bestimmungsgemäßen Versorgung mit der digitalen Pflegeanwendung nach §
     40a des Elften Buches Sozialgesetzbuch,
 
 
-2.  zur dauerhaften Gewährleistung der Sicherheit, Funktionstauglichkeit,
-    der altersgerechten Nutzbarkeit und der qualitätsorientierten
-    Weiterentwicklung der Versorgung mit der digitalen Pflegeanwendung.
+2.  zu dem Nachweis des pflegerischen Nutzens im Rahmen einer Erprobung
+    nach § 78a Absatz 6a des Elften Buches Sozialgesetzbuch,
+
+
+3.  zur dauerhaften Gewährleistung der Sicherheit, der
+    Funktionstauglichkeit, der altersgerechten Nutzbarkeit und der
+    qualitätsorientierten Weiterentwicklung der Versorgung mit der
+    digitalen Pflegeanwendung.
 
 
 
-Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 2 ist
-getrennt von einer Einwilligung in die Datenverarbeitung für Zwecke
-nach Satz 1 Nummer 1 einzuholen. Soweit die Verarbeitung
+Die Einwilligung zur Datenverarbeitung für Zwecke nach Satz 1 Nummer 3
+ist getrennt von einer Einwilligung zur Datenverarbeitung für Zwecke
+nach Satz 1 Nummer 1 und 2 einzuholen. Soweit die Verarbeitung
 personenbezogener Daten Dritter, die eine ergänzende
 Unterstützungsleistung erbringen, nicht besondere Kategorien
-personenbezogener Daten nach Artikel 9 Absatz 1 der Verordnung (EU)
-2016/679 zum Gegenstand hat, darf die Verarbeitung nur aufgrund einer
-Einwilligung nach Artikel 6 Absatz 1 Buchstabe a der Verordnung (EU)
-2016/679 und zu den Zwecken nach Satz 1 Nummer 1 und 2 erfolgen. Für
-die Einwilligung nach Satz 3 gelten die Anforderungen von Satz 2
-entsprechend. Gesetzliche Datenverarbeitungsbefugnisse bleiben
-unberührt.
+personenbezogener Daten nach Artikel 9 Absatz 1 der Datenschutz-
+Grundverordnung zum Gegenstand hat, darf die Verarbeitung nur aufgrund
+einer Einwilligung nach Artikel 6 Absatz 1 Buchstabe a der
+Datenschutz-Grundverordnung und zu den Zwecken nach Satz 1 Nummer 1
+bis 3 erfolgen. Für die Einwilligung nach Satz 3 gelten die
+Anforderungen nach Satz 2 entsprechend. Gesetzliche
+Datenverarbeitungsbefugnisse bleiben unberührt.
 
 (4) Die Verarbeitung personenbezogener Daten zu den Zwecken nach
 Absatz 3 Satz 1 darf im Rahmen der Versorgung mit einer digitalen
-Pflegeanwendung oder sie erforderlichenfalls ergänzenden
-Unterstützungsleistungen durch die digitale Pflegeanwendung selbst
-sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im
-Inland, in einem Mitgliedstaat der Europäischen Union oder in einem
-diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch
-gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß
-Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat
-erfolgen.
+Pflegeanwendung oder sie ergänzenden Unterstützungsleistungen durch
+die digitale Pflegeanwendung selbst sowie bei einer Verarbeitung
+personenbezogener Daten im Auftrag nur im Inland, in einem
+Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35
+Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat
+oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der
+Datenschutz-Grundverordnung vorliegt, in einem Drittstaat erfolgen.
 
 (5) Eine Verarbeitung personenbezogener Daten zu anderen als den in
 Absatz 3 Satz 1 genannten Zwecken, insbesondere zu Werbezwecken, ist
@@ -470,7 +492,7 @@ Gutachten verlangen.
 
 
 ### § 9 Pflegerischer Nutzen digitaler Pflegeanwendungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001001126)
 
 (1) Ein pflegerischer Nutzen im Sinne dieser Verordnung liegt vor,
 wenn durch die Verwendung der digitalen Pflegeanwendung
@@ -505,22 +527,21 @@ Absatz 1 muss in mindestens einem der folgenden Bereiche im Sinne von
 Neben den Bereichen nach Satz 1 kann der pflegerische Nutzen auch im
 Bereich der Haushaltsführung gegeben sein.
 
-(3) Ein pflegerischer Nutzen ist auch dann gegeben, wenn pflegende
+(3) Ein pflegerischer Nutzen liegt auch dann vor, wenn pflegende
 Angehörige oder sonstige ehrenamtlich Pflegende durch die digitale
-Anwendung bei ihren pflegerischen Aufgaben oder Hilfen in einem der in
-Absatz 2 genannten Bereiche unterstützt werden und dies der
-Stabilisierung der häuslichen Versorgungssituation des
-Pflegebedürftigen dient.
+Anwendung bei ihren pflegerischen Aufgaben oder Hilfen unterstützt
+werden und dies entweder der Stabilisierung der häuslichen
+Versorgungssituation oder der Entlastung pflegender Angehöriger oder
+sonstiger ehrenamtlich Pflegenden dient.
 
 
 ### § 10 Nachweis des pflegerischen Nutzens
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001101126)
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale
 Pflegeanwendungen führt der Hersteller den Nachweis:
 
-1.  des pflegerischen Nutzens der digitalen Pflegeanwendung einschließlich
-    der erforderlichenfalls ergänzenden Unterstützungsleistungen und
+1.  des pflegerischen Nutzens der digitalen Pflegeanwendung und
 
 
 2.  zu der Gruppe von Pflegebedürftigen und sonstigen Nutzern, für die der
@@ -538,19 +559,19 @@ Aussagen zu der digitalen Pflegeanwendung einschließlich der
 erforderlichenfalls ergänzenden Unterstützungsleistungen konsistent
 sein.
 
-(3) Für die Bestimmung der maßgeblichen Gruppe nach Absatz 1 Nummer 2
-gibt der Hersteller den Bereich oder mehrere Bereiche des
-pflegerischen Nutzens entsprechend § 9 Absatz 2 an. Gibt der
-Hersteller mehrere Bereiche an, so kann er den Nachweis nach Absatz 1
-Nummer 2 grundsätzlich für alle Bereiche gemeinsam führen, die im
-Hinblick auf den nachzuweisenden pflegerischen Nutzen wesentlich
-vergleichbar sind. Sofern dies nicht der Fall ist, hat der Hersteller
-den Nachweis für den jeweiligen Bereich gesondert zu führen. Die
-Vergleichbarkeit nach Satz 2 ist zu begründen.
+(3) Für die Bestimmung der maßgeblichen Gruppe von Pflegebedürftigen
+nach Absatz 1 Nummer 2 gibt der Hersteller den Bereich oder mehrere
+Bereiche des pflegerischen Nutzens entsprechend § 9 Absatz 2 an. Gibt
+der Hersteller mehrere Bereiche an, so kann er den Nachweis nach
+Absatz 1 Nummer 2 grundsätzlich für alle Bereiche gemeinsam führen,
+die im Hinblick auf den nachzuweisenden pflegerischen Nutzen
+wesentlich vergleichbar sind. Sofern dies nicht der Fall ist, hat der
+Hersteller den Nachweis für den jeweiligen Bereich gesondert zu
+führen. Die Vergleichbarkeit nach Satz 2 ist zu begründen.
 
 
 ### § 11 Studien zum Nachweis des pflegerischen Nutzens
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001201126)
 
 (1) Der Hersteller legt zum Nachweis des pflegerischen Nutzens
 vergleichende Studien vor. Vergleichende Studien im Sinne von Satz 1
@@ -585,7 +606,7 @@ teilweise entgegenstehen, sind die Studien nach den Absätzen 1 und 2
 von dem Hersteller in einem öffentlichen Studienregister zu
 registrieren und mit den Ergebnissen vollumfänglich im Internet zu
 veröffentlichen. Stehen die genannten Rechte Dritter der
-Veröffentlichung entgegen, ist nur die Zusammenfassung nach § 16
+Veröffentlichung entgegen, ist nur die Zusammenfassung nach § 19
 Absatz 3 Satz 1 Nummer 2 zu veröffentlichen. Das Studienregister nach
 Satz 1 muss in der Regel ein Primärregister oder ein Partnerregister
 der World Health Organisation International Clinical Trials Registry
@@ -623,22 +644,100 @@ Nutzens, kann das Bundesinstitut für Arzneimittel und Medizinprodukte
 im Einzelfall von den Vorgaben an Nachweise nach § 11 abweichen.
 
 
+### § 13 Begründung des pflegerischen Nutzens im Rahmen der Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003800126)
+
+Für einen Antrag auf Aufnahme zur Erprobung nach § 78a Absatz 6a Satz
+1 des Elften Buches Sozialgesetzbuch hat der Hersteller zur plausiblen
+Begründung, dass im Rahmen einer Erprobung ein pflegerischer Nutzen
+nachgewiesen werden kann, mindestens die Ergebnisse einer
+systematischen Datenauswertung zur Nutzung der digitalen
+Pflegeanwendung vorzulegen.
+
+
+### § 14 Wissenschaftliches Evaluationskonzept
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003900126)
+
+Der Hersteller legt im Rahmen eines Antrags auf Aufnahme zur Erprobung
+nach § 78a Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch ein
+nach allgemein anerkannten wissenschaftlichen Standards erstelltes
+Evaluationskonzept vor, das die Ergebnisse der Datenauswertung nach
+§ 13 angemessen berücksichtigt. Das in dem Evaluationskonzept
+dargelegte Vorgehen muss geeignet sein, die Nachweise nach den §§ 10
+und 11 zu erbringen.
+
+
 ## Abschnitt 4 - Ergänzende Vorschriften für das Verwaltungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000400000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000401126)
 
 
-### § 13 Einleitung des Verwaltungsverfahrens
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001400000)
+### § 15 Einleitung des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001401126)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem
-Antragsteller innerhalb von 14 Tagen den Eingang der vollständigen
+Antragsteller innerhalb von 21 Tagen den Eingang der vollständigen
 Antragsunterlagen. Eine Änderung oder Ergänzung der Antragsangaben ist
 nach Antragstellung nur noch auf Anforderung des Bundesinstituts für
 Arzneimittel und Medizinprodukte möglich.
 
 
-### § 14 Wesentliche Veränderungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001500000)
+### § 16 Verfahren bei Aufnahme zur Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE004000126)
+
+(1) Hat ein Hersteller einer digitalen Pflegeanwendung einen Antrag
+auf Aufnahme einer digitalen Pflegeanwendung zur Erprobung nach § 78a
+Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch in das Verzeichnis
+für digitale Pflegeanwendungen gestellt, entscheidet das
+Bundesinstitut für Arzneimittel und Medizinprodukte nach Eingang der
+vollständigen Antragsunterlagen per Bescheid. Der Bescheid enthält
+insbesondere Angaben zur Dauer der Aufnahme zur Erprobung sowie zu dem
+spätestens zum Ablauf des Erprobungszeitraums vorzulegenden Nachweis
+nach § 78a Absatz 4 Satz 3 Nummer 3 des Elften Buches
+Sozialgesetzbuch.
+
+(2) Zur endgültigen Aufnahme in das Verzeichnis für digitale
+Pflegeanwendungen ist dem Bundesinstitut für Arzneimittel und
+Medizinprodukte spätestens zum Ablauf des Erprobungszeitraums der in
+dem Bescheid nach Absatz 1 Satz 2 festgelegte Nachweis auf
+elektronischem Weg vollständig zu übermitteln.
+
+(3) Der Hersteller einer digitalen Pflegeanwendung kann eine einmalige
+Verlängerung des Erprobungszeitraums um bis zu zwölf Monate
+beantragen. Hierzu hat der Hersteller spätestens drei Monate vor
+Ablauf des im Bescheid nach Absatz 1 gewährten Erprobungszeitraums
+einen elektronischen Antrag auf Verlängerung des Erprobungszeitraums
+beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen.
+In dem Antrag begründet der Hersteller die Erforderlichkeit einer
+Verlängerung des Erprobungszeitraums. Insbesondere hat der Hersteller
+darzulegen, warum der geforderte Nachweis nicht fristgerecht vorgelegt
+werden kann und inwieweit eine abschließende Nachweisführung im Rahmen
+der beantragten Verlängerung des Erprobungszeitraums möglich sein
+wird.
+
+(4) Wird der Antrag auf Verlängerung des Erprobungszeitraums nach
+Absatz 3
+
+1.  nicht spätestens drei Monate vor Ablauf des Erprobungszeitraums
+    gestellt,
+
+
+2.  ist dieser unvollständig oder
+
+
+3.  sind die Inhalte des Antrags nicht geeignet, die Anforderungen nach
+    den §§ 10 und 11 zu erfüllen,
+
+
+
+lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte den
+Antrag auf Verlängerung des Erprobungszeitraums ab und streicht die
+digitale Pflegeanwendung nach Ablauf des Erprobungszeitraums aus dem
+Verzeichnis für digitale Pflegeanwendungen. Der Hersteller ist über
+die Streichung zu informieren.
+
+
+### § 17 Wesentliche Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001501126)
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche,
 die
@@ -685,11 +784,11 @@ Veränderung hin; § 139e Absatz 6 Satz 5 bis 8 des Fünften Buches
 Sozialgesetzbuch gilt entsprechend.
 
 
-### § 15 Verfahren bei wesentlichen Veränderungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001600000)
+### § 18 Verfahren bei wesentlichen Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001601126)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt
-dem Hersteller innerhalb von 14 Tagen den Eingang der vollständigen
+dem Hersteller innerhalb von 21 Tagen den Eingang der vollständigen
 Anzeige; dies gilt auch für einfache Anzeigen.
 
 (2) Eine Änderung oder Ergänzung der Anzeige wesentlicher
@@ -709,11 +808,11 @@ zu ergänzen.
 
 
 ## Abschnitt 5 - Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000500000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000501126)
 
 
-### § 16 Inhalte des elektronischen Verzeichnisses
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001700000)
+### § 19 Inhalte des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001701126)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte listet im
 Verzeichnis für digitale Pflegeanwendungen die nach § 40a des Elften
@@ -730,9 +829,8 @@ des Herstellers nach § 2 Absatz 1 Satz 2.
 (3) Über die Angaben nach Absatz 2 hinaus werden insbesondere Angaben
 veröffentlicht zu:
 
-1.  dem nachgewiesenen pflegerischen Nutzen der digitalen Pflegeanwendung
-    einschließlich der erforderlichenfalls ergänzenden
-    Unterstützungsleistungen,
+1.  dem nachgewiesenen oder nachzuweisenden pflegerischen Nutzen der
+    digitalen Pflegeanwendung,
 
 
 2.  den nach § 11 vorgelegten Studien in Form von Zusammenfassungen zum
@@ -749,8 +847,9 @@ veröffentlicht zu:
     Buches Sozialgesetzbuch selbst zu tragen haben, sofern zutreffend, und
 
 
-5.  den erforderlichenfalls ergänzenden Unterstützungsleistungen nach
-    § 39a des Elften Buches Sozialgesetzbuch.
+5.  den vom Hersteller für erforderlich gehaltenen ergänzenden
+    Unterstützungsleistungen nach § 39a des Elften Buches
+    Sozialgesetzbuch.
 
 
 
@@ -763,8 +862,8 @@ Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches
 Sozialgesetzbuch gelistet ist.
 
 
-### § 17 Weitere Ausgestaltung des elektronischen Verzeichnisses
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001801311)
+### § 20 Weitere Ausgestaltung des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001802126)
 
 (1) Im Verzeichnis für digitale Pflegeanwendungen werden weitere
 Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies
@@ -774,7 +873,7 @@ qualitätsgesicherte Versorgung mit der digitalen Pflegeanwendung
 erforderlich ist.
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht
-die Nutzung der Angaben nach § 16 Absatz 2 und 3 durch die
+die Nutzung der Angaben nach § 19 Absatz 2 und 3 durch die
 Landesverbände der Pflegekassen für Zwecke der Pflegeversicherung.
 Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und
 Medizinprodukte mit Errichtung des Verzeichnisses eine geeignete
@@ -783,7 +882,7 @@ beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2
 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die
-in § 16 Absatz 2 und 3 aufgeführten Angaben folgenden Berechtigten auf
+in § 19 Absatz 2 und 3 aufgeführten Angaben folgenden Berechtigten auf
 Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur
 Verarbeitung und Veröffentlichung zur Verfügung:
 
@@ -866,12 +965,12 @@ Sozialgesetzbuch.
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte
 veröffentlicht die im Verzeichnis für digitale Pflegeanwendungen
-enthaltenen Angaben nach § 16 Absatz 2 und 3 auf einem Webportal in
+enthaltenen Angaben nach § 19 Absatz 2 und 3 auf einem Webportal in
 einer für Pflegebedürftige und sonstige Nutzer intuitiv zugänglichen
 barrierefreien Struktur, Form und Darstellung.
 
 (5) Mit der Antragstellung gibt der Hersteller der digitalen
-Pflegeanwendung die unter § 16 Absatz 2 und 3 aufgeführten Angaben zur
+Pflegeanwendung die unter § 19 Absatz 2 und 3 aufgeführten Angaben zur
 Veröffentlichung und zur freien Nutzung durch Dritte unter einer vom
 Bundesinstitut für Arzneimittel und Medizinprodukte festzulegenden
 Lizenz frei. Dies gilt, soweit nicht rechtliche Anforderungen an den
@@ -882,8 +981,8 @@ als solche gekennzeichnet sowie der Veröffentlichung aus diesem Grund
 ausdrücklich widersprochen hat.
 
 
-### § 18 Bekanntmachung des Verzeichnisses für digitale Pflegeanwendungen im Bundesanzeiger
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001900000)
+### § 21 Bekanntmachung des Verzeichnisses für digitale Pflegeanwendungen im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001901126)
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind
 im Bundesanzeiger bekannt zu machen:
@@ -922,11 +1021,11 @@ Medizinprodukte hin.
 
 
 ## Abschnitt 6 - Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000600000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000601126)
 
 
-### § 19 Beratung
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002000000)
+### § 22 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002001126)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät
 Hersteller digitaler Pflegeanwendungen auf deren Anfrage vor
@@ -941,7 +1040,7 @@ Hersteller digitaler Pflegeanwendungen zudem
 1.  zu den Anforderungen an den Nachweis eines pflegerischen Nutzens und
 
 
-2.  zur Anzeige und Dokumentation wesentlicher Veränderungen nach § 14.
+2.  zur Anzeige und Dokumentation wesentlicher Veränderungen nach § 17.
 
 
 
@@ -957,28 +1056,46 @@ Informationen sind vertraulich zu behandeln.
 
 
 ## Abschnitt 7 - Gebühren und Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000700000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000701126)
 
 
-### § 20 Grundsätze
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002100000)
+### § 23 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002101126)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
 individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen
 nach Maßgabe der folgenden Vorschriften.
 
 
-### § 21 Gebühren für Entscheidungen über die Aufnahme digitaler Pflegeanwendungen in das Verzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002200000)
+### § 24 Gebühren für Entscheidungen über die Aufnahme digitaler Pflegeanwendungen in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002201126)
 
-Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des
-Elften Buches Sozialgesetzbuch über einen Antrag des Herstellers zur
-Aufnahme in das Verzeichnis mindestens 3 000 und höchstens
-9 900 Euro.
+(1) Die Gebühr beträgt für die Entscheidung nach
+
+1.  § 78a Absatz 5 Satz 1 des Elften Buches Sozialgesetzbuch über einen
+    Antrag des Herstellers nach § 78a Absatz 4 des Elften Buches
+    Sozialgesetzbuch oder
 
 
-### § 22 Gebühren für Änderungsanzeigen und Streichung
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002300000)
+2.  § 78a Absatz 6a Satz 3 des Elften Buches Sozialgesetzbuch über einen
+    Antrag des Herstellers nach § 78a Absatz 6a Satz 1 des Elften Buches
+    Sozialgesetzbuch
+
+
+
+mindestens 3 000 und höchstens 9 900 Euro.
+
+(2) Die Gebühr für die Entscheidung nach § 78a Absatz 6a Satz 6 des
+Elften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens
+6 600 Euro.
+
+(3) Die Gebühr für die Entscheidung nach § 78a Absatz 6a Satz 7 des
+Elften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens
+4 900 Euro.
+
+
+### § 25 Gebühren für Änderungsanzeigen und Streichung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002301126)
 
 (1) Die Gebühr für die Bearbeitung einer Anzeige nach § 78a Absatz 5
 Satz 5 des Elften Buches Sozialgesetzbuch in Verbindung mit § 139e
@@ -1003,12 +1120,12 @@ Anzeige wesentlicher Veränderungen oder auf Antrag des Herstellers
 beträgt jeweils 200 Euro.
 
 (3) Die einfache Anzeige im Umfang geringfügiger und lediglich
-redaktioneller Änderungen von Angaben und Informationen nach § 14
+redaktioneller Änderungen von Angaben und Informationen nach § 17
 Absatz 1 Satz 2 und 3 ist gebührenfrei.
 
 
-### § 23 Gebühr für Beratungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002400000)
+### § 26 Gebühr für Beratungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002401126)
 
 (1) Die Gebühr für die Beratung des Herstellers digitaler
 Pflegeanwendungen nach § 78a Absatz 5 Satz 4 des Elften Buches
@@ -1018,8 +1135,8 @@ Sozialgesetzbuch beträgt mindestens 250 und höchstens 5 000 Euro.
 elektronische Auskünfte sind gebührenfrei.
 
 
-### § 24 Gebühren in besonderen Fällen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002500000)
+### § 27 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002501126)
 
 (1) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis
 zu der Höhe zu erheben, die für die beantragte individuell
@@ -1061,12 +1178,12 @@ werden, ist eine Gebühr bis zur Höhe des für die vollständige
 öffentliche Leistung vorgesehenen Betrags zu erheben.
 
 
-### § 25 Sonstige Gebühren
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002600000)
+### § 28 Sonstige Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002601126)
 
-(1) Bei individuell zurechenbaren öffentlichen Leistungen nach den
-Nummern 1 bis 3, die auf Antrag erbracht werden, sind folgende
-Gebühren zu erheben:
+(1) Bei nachfolgenden, individuell zurechenbaren öffentlichen
+Leistungen, die auf Antrag erbracht werden, sind folgende Gebühren zu
+erheben:
 
 1.  für nicht einfache, schriftliche Auskünfte mindestens 50 und höchstens
     500 Euro,
@@ -1077,7 +1194,7 @@ Gebühren zu erheben:
     einschließlich der Umwandlung schriftlicher Dokumente in elektronische
     Dateien mindestens 10 und höchstens 100 Euro, sofern dies nicht im
     Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den
-    §§ 21 bis 23 erfolgt, oder
+    §§ 24 bis 26 erfolgt, oder
 
 
 3.  für die Einsichtnahme in Akten, es sei denn, es ist ein
@@ -1092,10 +1209,10 @@ individuell zurechenbaren öffentlichen Leistungen nach Absatz 1
 hinzuweisen.
 
 
-### § 26 Gebührenermäßigung und Gebührenbefreiung auf Antrag
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002700000)
+### § 29 Gebührenermäßigung und Gebührenbefreiung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002701126)
 
-(1) Die nach den §§ 21 bis 23 zu erhebenden Gebühren können auf Antrag
+(1) Die nach den §§ 24 bis 26 zu erhebenden Gebühren können auf Antrag
 des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr
 ermäßigt werden, wenn
 
@@ -1114,15 +1231,15 @@ zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren
 besonders gering ist.
 
 
-### § 27 Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002800000)
+### § 30 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002801126)
 
 Für die Erstattung von Auslagen gilt § 12 Absatz 1 des
 Bundesgebührengesetzes entsprechend.
 
 
-### § 28 Entstehung der Gebühren- und Auslagenschuld
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002900000)
+### § 31 Entstehung der Gebühren- und Auslagenschuld
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002901126)
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell
 zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer
@@ -1148,8 +1265,8 @@ Beendigung der Leistung.
 (3) Für Auslagen gelten die Absätze 1 und 2 entsprechend.
 
 
-### § 29 Gebühren- und Auslagenschuldner
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003000000)
+### § 32 Gebühren- und Auslagenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003001126)
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
@@ -1172,11 +1289,11 @@ Beendigung der Leistung.
 
 
 ## Abschnitt 8 - Schiedsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000800000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000801126)
 
 
-### § 30 Einigung über den Vorsitzenden und die unparteiischen Mitglieder der Schiedsstelle
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003100000)
+### § 33 Einigung über den Vorsitzenden und die unparteiischen Mitglieder der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003101126)
 
 Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder
 sowie deren Stellvertreter sollen sich die in § 134 Absatz 3 des
@@ -1184,8 +1301,8 @@ Fünften Buches Sozialgesetzbuch und die in § 78a Absatz 1 Satz 3 des
 Elften Buches Sozialgesetzbuch genannten Verbände gemeinsam einigen.
 
 
-### § 31 Einleitung des Schiedsverfahrens und Fristen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003200000)
+### § 34 Einleitung des Schiedsverfahrens und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003201126)
 
 (1) Kommt eine Vereinbarung über Vergütungsbeträge sowie technische
 und vertragliche Rahmenbedingungen für die Zurverfügungstellung der
@@ -1200,8 +1317,8 @@ von drei Monaten nach Antragseingang.
 zur Stellungnahme geben.
 
 
-### § 32 Entschädigung und Kosten
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003300000)
+### § 35 Entschädigung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003301126)
 
 (1) Der Vorsitzende der Schiedsstelle und die zwei weiteren
 unparteiischen Mitglieder oder ihre Stellvertreter erhalten
@@ -1221,38 +1338,35 @@ der Schiedsstelle beteiligten Verbände.
 
 
 ## Abschnitt 9 - Inhalte des Berichtes über digitale Pflegeanwendungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000900000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000901126)
 
 
-### § 33 Inhalte des Berichtes über digitale Pflegeanwendungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003400000)
+### § 36 Inhalte des Berichtes über digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003401126)
 
-(1) Der Bericht nach § 78a Absatz 9 des Elften Buches Sozialgesetzbuch
+(1) Der Bericht nach § 78a Absatz 9 des Elften Buches Sozialgesetzbuch
 enthält insbesondere Folgendes:
 
 1.  strukturelle Informationen zu den digitalen Pflegeanwendungen,
     insbesondere
 
     a)  die Anzahl und den Namen der im Verzeichnis für digitale
-        Pflegeanwendungen gelisteten digitalen Pflegeanwendungen
-        einschließlich der Vergütungsbeträge sowie des Datums der Aufnahme in
-        das Verzeichnis,
+        Pflegeanwendungen gelisteten digitalen Pflegeanwendungen, unterteilt
+        nach dauerhaft und zur Erprobung aufgenommen, einschließlich der
+        Vergütungsbeträge sowie des Datums der Aufnahme in das Verzeichnis,
 
 
     b)  eine Angabe, ob dieselbe oder eine in den wesentlichen Funktionen
         gleiche Anwendung desselben Herstellers auch als digitale
         Gesundheitsanwendung in dem Verzeichnis für digitale
-        Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches
-        Sozialgesetzbuch gelistet ist,
+        Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches
+        Sozialgesetzbuch gelistet ist, und
 
 
     c)  eine Darstellung der gelisteten digitalen Pflegeanwendungen
-        insbesondere anhand der in § 9 Absatz 2 genannten Bereiche sowie
-
-
-    d)  den Anteil der digitalen Pflegeanwendungen, für deren
-        bestimmungsgemäße Nutzung ergänzende Unterstützungsleistungen
-        erforderlich sind;
+        insbesondere im Hinblick auf den nachgewiesenen oder nachzuweisenden
+        pflegerischen Nutzen, auch anhand der in § 9 Absatz 2 genannten
+        Bereiche;
 
 
 
@@ -1262,7 +1376,8 @@ enthält insbesondere Folgendes:
     Pflegekassen, insbesondere zu der
 
     a)  Anzahl der gestellten Anträge je digitaler Pflegeanwendung, darunter
-        Anzahl der genehmigten und der abgelehnten Anträge,
+        Anzahl der genehmigten und der abgelehnten Anträge, unterteilt nach
+        dauerhaft und zur Erprobung aufgenommenen digitalen Pflegeanwendungen,
 
 
     b)  Anzahl der Anträge, die unbefristet bewilligt wurden, und
@@ -1281,26 +1396,25 @@ enthält insbesondere Folgendes:
     zu
 
     a)  der Anzahl der pflegebedürftigen Personen je digitaler
-        Pflegeanwendung, die einen Erstattungsanspruch auf eine Versorgung mit
+        Pflegeanwendung, unterteilt nach dauerhaft und zur Erprobung
+        aufgenommen, die einen Erstattungsanspruch auf eine Versorgung mit
         einer digitalen Pflegeanwendung geltend gemacht haben,
 
 
     b)  der Anzahl der pflegebedürftigen Personen je digitaler
-        Pflegeanwendung, die einen Erstattungsanspruch auf ergänzende
+        Pflegeanwendung, unterteilt nach dauerhaft und zur Erprobung
+        aufgenommen, die einen Erstattungsanspruch auf ergänzende
         Unterstützungsleitungen bei der Nutzung einer digitalen
         Pflegeanwendung geltend gemacht haben,
 
 
-    c)  den Leistungsausgaben insgesamt und aufgeschlüsselt nach Pflegegrad,
+    c)  den Leistungsausgaben für digitale Pflegeanwendungen insgesamt,
+        unterteilt nach dauerhaft und zur Erprobung aufgenommen sowie
+        aufgeschlüsselt nach Pflegegrad,
 
 
     d)  den Leistungsausgaben für ergänzende Unterstützungsleistungen
-        insgesamt und aufgeschlüsselt nach Pflegegrad und
-
-
-    e)  der Anzahl der digitalen Pflegeanwendungen und ergänzenden
-        Unterstützungsleistungen, für die der monatliche Leistungsbetrag von
-        pflegebedürftigen Personen jeweils in Anspruch genommen wurde;
+        insgesamt und aufgeschlüsselt nach Pflegegrad;
 
 
 
@@ -1310,7 +1424,7 @@ enthält insbesondere Folgendes:
 
 
 5.  eine Darstellung, auf welche Art und in welchem Umfang Pflegekassen
-    ihre Versicherten über Leistungen nach den §§ 39a, 40a und 40b des
+    ihre Versicherten über Leistungen nach den §§ 39a, 40a und 40b des
     Elften Buches Sozialgesetzbuch informieren.
 
 
@@ -1330,11 +1444,11 @@ privaten Krankenversicherung e. V.
 
 
 ## Abschnitt 10 - Schlussbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG001000000)
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG001001126)
 
 
-### § 34 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003500000)
+### § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003501126)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

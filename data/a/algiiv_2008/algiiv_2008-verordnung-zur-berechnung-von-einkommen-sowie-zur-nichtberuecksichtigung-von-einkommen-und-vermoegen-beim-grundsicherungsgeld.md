@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von
-  Einkommen und Vermögen beim Bürgergeld
+  Einkommen und Vermögen beim Grundsicherungsgeld
 jurabk: AlgIIV 2008
 layout: default
 origslug: BJNR294200007
@@ -8,7 +8,7 @@ slug: algiiv_2008
 
 ---
 
-# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld (AlgIIV 2008)
+# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld (AlgIIV 2008)
 
 Ausfertigungsdatum
 :   2007-12-17
@@ -18,13 +18,6 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 11 Abs. 14 G v. 16.4.2026 I Nr. 107
-
-Stand: Zukünftige Überschrift: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld (Grundsicherungsgeld-Verordnung - GrusiGV) (ab 1.7.2026; 2026 I Nr. 107)
-[^BJNR294200007]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 11 Abs. 14 Nr.
-    1 G v. 16.4.2026 I Nr. 107 mWv 1.7.2026 wie folgt gefasst:
-    **Verordnung zur Berechnung von Einkommen sowie zur
-    Nichtberücksichtigung von Einkommen und Vermögen beim
-    Grundsicherungsgeld (Grundsicherungsgeld-Verordnung - GrusiGV)**
 
 
 ## Eingangsformel
@@ -39,7 +32,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Nicht als Einkommen zu berücksichtigende Einnahmen
-[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000219377)
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000220126)
 
 (1) Außer den in § 11a des Zweiten Buches Sozialgesetzbuch genannten
 Einnahmen sind nicht als Einkommen zu berücksichtigen:
@@ -84,10 +77,10 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     wird,
 
 
-9.  bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten
-    Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet
-    haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100
-    Euro monatlich nicht übersteigen,
+9.  bei Beziehenden von Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des
+    Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht
+    vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen
+    Betrag von 100 Euro monatlich nicht übersteigen,
 
 
 10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten

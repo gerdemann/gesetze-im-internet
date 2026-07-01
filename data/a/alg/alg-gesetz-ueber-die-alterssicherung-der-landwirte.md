@@ -176,7 +176,7 @@ Versicherungsfrei sind
 
 
 ### § 3 Befreiung von der Versicherungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008024126)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008025126)
 
 (1) Landwirte und mitarbeitende Familienangehörige werden auf Antrag
 von der Versicherungspflicht befreit, solange sie
@@ -188,10 +188,10 @@ von der Versicherungspflicht befreit, solange sie
     des Vierten Buches Sozialgesetzbuch überschreitet,
 
 
-1a. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+1a. Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
     Sozialgesetzbuch beziehen, wenn sie im letzten Kalendermonat vor dem
-    Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
-    Sozialgesetzbuch nicht versichert waren,
+    Bezug von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten
+    Buches Sozialgesetzbuch nicht versichert waren,
 
 
 2.  wegen Erziehung eines Kindes in der gesetzlichen Rentenversicherung

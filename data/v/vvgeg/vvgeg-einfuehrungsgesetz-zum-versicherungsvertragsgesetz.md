@@ -115,6 +115,16 @@ Dezember 2007 geltenden Fassung weiter anzuwenden.
 anzuwenden.
 
 
+## Art 4a Fortsetzung der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE001700128)
+
+Wurde eine Lebensversicherung im Anwendungsbereich des § 212 des
+Versicherungsvertragsgesetzes bis einschließlich 30. Juni 2026 in eine
+prämienfreie Versicherung umgewandelt, sind insoweit § 166 Absatz 4, §
+211 Absatz 1 und § 212 des Versicherungsvertragsgesetzes in der bis
+zum 30. Juni 2026 geltenden Fassung anzuwenden.
+
+
 ## Art 5 Rechte der Gläubiger von Grundpfandrechten
 [Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000501377)
 

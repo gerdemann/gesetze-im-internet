@@ -1,50 +1,48 @@
 ---
-Title: Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
-jurabk: PflegeArbbV 6
+Title: Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche
+jurabk: PflegeArbbV 7
 layout: default
-origslug: BJNR1500A0023
-slug: pflegearbbv_6
+origslug: BJNR03A0A0026
+slug: pflegearbbv_7
 
 ---
 
-# Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche (PflegeArbbV 6)
+# Siebte Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche (PflegeArbbV 7)
 
 Ausfertigungsdatum
-:   2023-11-28
+:   2026-03-03
 
 Fundstelle
-:   BGBl I: 2023, Nr. 336
+:   BGBl. I: 2026, Nr. 58
 
-V aufgeh. durch
-:   § 6 dieser V mWv 1.7.2026
-
+Stand: Die V tritt gem. § 6 dieser V mit Ablauf d. 30.9.2028 außer Kraft
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000100000)
 
-Auf Grund des § 11 Absatz 1 in Verbindung mit Absatz 2 und 3 des
-Arbeitnehmer-Entsendegesetzes, von denen Absatz 1 durch Artikel 1
-Nummer 3 des Gesetzes vom 22. November 2019 (BGBl. I S. 1756) geändert
-worden ist, verordnet das Bundesministerium für Arbeit und Soziales,
-nachdem es den in den Geltungsbereich dieser Rechtsverordnung
-fallenden Arbeitgebern und Arbeitnehmerinnen und Arbeitnehmern sowie
-den Parteien von Tarifverträgen, die zumindest teilweise in den
-fachlichen Geltungsbereich dieser Rechtsverordnung fallen, und den
-paritätisch besetzten Kommissionen, die auf der Grundlage kirchlichen
-Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in
-der Pflegebranche festlegen, Gelegenheit zur schriftlichen
-Stellungnahme gegeben hat:
+Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des §
+11 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S.
+799), das zuletzt durch Artikel 5a des Gesetzes vom 3. Februar 2026
+(BGBl. 2026 I Nr. 29) geändert worden ist, nachdem es den in den
+Geltungsbereich dieser Rechtsverordnung fallenden Arbeitgebern und
+Arbeitnehmerinnen und Arbeitnehmern sowie den Parteien von
+Tarifverträgen, die zumindest teilweise in den fachlichen
+Geltungsbereich dieser Rechtsverordnung fallen, und den paritätisch
+besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts
+Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in der
+Pflegebranche festlegen, Gelegenheit zur schriftlichen Stellungnahme
+gegeben hat:
 
 
 ## § 1 Geltungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000200000)
 
 (1) Diese Verordnung gilt für Pflegebetriebe. Dies sind Betriebe und
 selbstständige Betriebsabteilungen, die überwiegend ambulante,
 teilstationäre oder stationäre Pflegeleistungen oder ambulante
-Krankenpflegeleistungen für Pflegebedürftige im Sinne des § 10 Satz 3
+Krankenpflegeleistungen für Pflegebedürftige im Sinne des § 10 Satz 3
 des Arbeitnehmer-Entsendegesetzes erbringen. Pflegebetriebe im Sinne
-des Satzes 1 sind auch Betreuungsdienste nach § 71 Absatz 1a des
+des Satzes 1 sind auch Betreuungsdienste nach § 71 Absatz 1a des
 Elften Buches Sozialgesetzbuch. Keine Pflegebetriebe im Sinne des
 Satzes 1 sind Einrichtungen, in denen die Leistungen zur medizinischen
 Vorsorge, zur medizinischen Rehabilitation, zur Teilhabe am
@@ -53,7 +51,8 @@ Ausbildung oder die Erziehung kranker oder behinderter Menschen im
 Vordergrund des Zweckes der Einrichtung stehen, sowie Krankenhäuser.
 
 (2) Diese Verordnung gilt vorbehaltlich der Absätze 3 und 4 für alle
-Arbeitnehmerinnen und Arbeitnehmer. Sie gilt nicht für
+Arbeitnehmerinnen und Arbeitnehmer in Pflegebetrieben. Sie gilt nicht
+für
 
 1.  Auszubildende nach dem Berufsbildungsgesetz,
 
@@ -61,20 +60,18 @@ Arbeitnehmerinnen und Arbeitnehmer. Sie gilt nicht für
 2.  Auszubildende und Studierende nach dem Pflegeberufegesetz,
 
 
-3.  Auszubildende, die nach § 66 Absatz 1 und 2 des Pflegeberufegesetzes
-    ihre auf der Grundlage der Vorschriften des Krankenpflegegesetzes oder
-    des Altenpflegegesetzes, jeweils in der am 31. Dezember 2019 geltenden
-    Fassung, begonnene Ausbildung noch abschließen können sowie
+3.  Auszubildende in einer landesrechtlich geregelten Ausbildung zu einem
+    Assistenz- und Helferberuf in der Pflege sowie
 
 
-4.  Auszubildende in einer landesrechtlich geregelten Ausbildung zu einem
-    Assistenz- und Helferberuf in der Pflege.
+4.  Auszubildende nach dem Pflegefachassistenzgesetz vom 28. Oktober 2025
+    (BGBl. 2025 I Nr. 259, S. 2).
 
 
 
 
 (3) Diese Verordnung gilt nicht für Arbeitnehmerinnen und Arbeitnehmer
-der Pflegebetriebe in folgenden Bereichen:
+in Pflegebetrieben in folgenden Bereichen:
 
 1.  Verwaltung,
 
@@ -118,17 +115,14 @@ Deutschland.
 
 
 ## § 2 Mindestentgelt
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000300000)
 
 (1) Das Mindestentgelt beträgt
 
-1.  ab dem 1. Februar 2024: 14,15 Euro brutto je Stunde,
+1.  ab dem 1. Juli 2026: 16,52 Euro brutto je Stunde,
 
 
-2.  ab dem 1. Mai 2024: 15,50 Euro brutto je Stunde,
-
-
-3.  ab dem 1. Juli 2025: 16,10 Euro brutto je Stunde.
+2.  ab dem 1. Juli 2027: 16,95 Euro brutto je Stunde.
 
 
 
@@ -136,44 +130,38 @@ Für Pflegekräfte mit einer mindestens einjährigen Ausbildung und einer
 entsprechenden Tätigkeit beträgt das Mindestentgelt abweichend von
 Satz 1
 
-1.  ab dem 1. Februar 2024: 15,25 Euro brutto je Stunde,
+1.  ab dem 1. Juli 2026: 17,80 Euro brutto je Stunde,
 
 
-2.  ab dem 1. Mai 2024: 16,50 Euro brutto je Stunde,
-
-
-3.  ab dem 1. Juli 2025: 17,35 Euro brutto je Stunde.
+2.  ab dem 1. Juli 2027: 18,26 Euro brutto je Stunde.
 
 
 
 Für Pflegefachkräfte beträgt das Mindestentgelt abweichend von den
 Sätzen 1 und 2
 
-1.  ab dem 1. Februar 2024: 18,25 Euro brutto je Stunde,
+1.  ab dem 1. Juli 2026: 21,03 Euro brutto je Stunde,
 
 
-2.  ab dem 1. Mai 2024: 19,50 Euro brutto je Stunde,
-
-
-3.  ab dem 1. Juli 2025: 20,50 Euro brutto je Stunde.
+2.  ab dem 1. Juli 2027: 21,58 Euro brutto je Stunde.
 
 
 
 
 (2) Pflegekräfte mit einer mindestens einjährigen Ausbildung im Sinne
-des Absatz 1 Satz 2 sind diejenigen Arbeitnehmerinnen und
-Arbeitnehmer, die eine Ausbildung zu einem Assistenz- und Helferberuf
-oder eine vergleichbare Ausbildung in der Pflege abgeschlossen haben,
-wobei die Ausbildungsdauer mindestens den Vorgaben der Nummer 2 der
-Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu
-Assistenz- und Helferberufen in der Pflege (BAnz AT 17.02.2016 B3)
-entspricht. Die Ausbildung kann im Ausland abgeschlossen worden sein.
-Eine entsprechende Tätigkeit liegt vor, wenn die Arbeitnehmerin oder
-der Arbeitnehmer jedenfalls auch Tätigkeiten nach Nummer 1 Buchstabe g
-der in Satz 1 genannten Eckpunkte auf Anweisung des Arbeitgebers
-durchführt.
+des Absatzes 1 Satz 2 sind diejenigen Arbeitnehmerinnen und
+Arbeitnehmer, die eine Ausbildung zur Pflegefachassistenz, zu einem
+Assistenz- und Helferberuf oder eine vergleichbare Ausbildung in der
+Pflege abgeschlossen haben, wobei die Ausbildungsdauer mindestens den
+Vorgaben der Nummer 2 der Eckpunkte für die in Länderzuständigkeit
+liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege
+(BAnz AT 17.02.2016 B3) entspricht. Die Ausbildung kann im Ausland
+abgeschlossen worden sein. Eine entsprechende Tätigkeit liegt vor,
+wenn die Arbeitnehmerin oder der Arbeitnehmer jedenfalls auch
+Tätigkeiten nach Nummer 1 Buchstabe g der in Satz 1 genannten
+Eckpunkte auf Anweisung des Arbeitgebers durchführt.
 
-(3) Pflegefachkräfte im Sinne des Absatz 1 Satz 3 sind
+(3) Pflegefachkräfte im Sinne des Absatzes 1 Satz 3 sind
 Arbeitnehmerinnen und Arbeitnehmer, die über eine Qualifikation
 verfügen, die sie zur Ausübung von Tätigkeiten gemäß § 4 des
 Pflegeberufegesetzes berechtigt.
@@ -223,7 +211,7 @@ Mindestentgelts nach Absatz 1 vergütet.
 
 
 ## § 3 Fälligkeit
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000400000)
 
 (1) Das Mindestentgelt nach § 2 Absatz 1 wird für die vertraglich
 vereinbarte Arbeitszeit spätestens am letzten Bankarbeitstag des
@@ -267,7 +255,7 @@ Arbeitsverhältnisses folgenden Kalendermonat abzugelten.
 
 
 ## § 4 Mehrurlaub
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000500000)
 
 (1) Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf
 zusätzlichen bezahlten Erholungsurlaub, der, ausgehend von einer
@@ -289,16 +277,21 @@ Bestimmungen.
 
 
 ## § 5 Ausschlussfrist
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000600000)
 
 Die Ansprüche auf das Mindestentgelt verfallen, wenn sie nicht
 innerhalb von zwölf Monaten nach ihrer Fälligkeit in Textform geltend
 gemacht werden.
 
 
-## § 6 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000700000)
+## § 6 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000700000)
 
-Diese Verordnung tritt am 1. Februar 2024 in Kraft und mit Ablauf des
-30\. Juni 2026 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 30. September 2028 außer Kraft.
+
+
+## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_7/BJNR03A0A0026.html#BJNR03A0A0026BJNE000800000)
+
+Diese Verordnung tritt am 1. Juli 2026 in Kraft.
 

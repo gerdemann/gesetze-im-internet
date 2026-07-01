@@ -16,16 +16,16 @@ Fundstelle
 :   BGBl. I: 2026, Nr. 7, 28
 
 
-## Abschnitt 1 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000100000)
+## Abschnitt 1 - Stärkung des personellen Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000101000)
 
 
-### Unterabschnitt 1 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000200000)
+### Unterabschnitt 1 - Personenüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000201000)
 
 
-#### Titel 1 - (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000300000)
+#### Titel 1 - Unterstützte Verfassungstreueprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000301000)
 
 
 ##### § 1 Personenkreis
@@ -184,16 +184,83 @@ Datenverarbeitung.
 [Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000400000)
 
 
-##### (XXXX) §§ 5 und 6 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNE000500000)
+##### § 5 Personenkreis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNE000501000)
+
+(1) Für eine Soldatin oder einen Soldaten, die oder der in einer
+Verwendung mit besonders hohen Sicherheitsanforderungen eingesetzt
+werden soll (zu überprüfende Person), ist vor dieser Verwendung eine
+intensivierte erweiterte Sicherheitsüberprüfung mit
+Sicherheitsermittlungen durchzuführen.
+
+(2) Das Bundesministerium der Verteidigung legt im Einvernehmen mit
+dem Bundesministerium des Innern die Verwendungen mit besonders hohen
+Sicherheitsanforderungen durch Rechtsverordnung fest, die nicht der
+Zustimmung des Bundesrates bedarf.
+
+(3) § 1 Absatz 3 Nummer 1 gilt entsprechend.
+
+
+##### § 6 Durchführung nach dem Sicherheitsüberprüfungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNE000600000)
+
+Für die intensivierte erweiterte Sicherheitsüberprüfung mit
+Sicherheitsermittlungen finden die Vorschriften der erweiterten
+Sicherheitsüberprüfung mit Sicherheitsermittlungen nach dem
+Sicherheitsüberprüfungsgesetz mit der Maßgabe Anwendung, dass
+
+1.  abweichend von § 12 Absatz 5 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes die mitwirkende Behörde die zu
+    überprüfende Person auch dann selbst befragt, wenn eine
+    sicherheitserhebliche Erkenntnis für das Erfordernis einer solchen
+    Befragung nicht vorliegt,
+
+
+2.  abweichend von § 17 Absatz 1 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes der zu überprüfenden Person bereits
+    nach 30 Monaten ihre Sicherheitserklärung zur Aktualisierung
+    zugeleitet wird,
+
+
+3.  abweichend von § 17 Absatz 1 Satz 3 des
+    Sicherheitsüberprüfungsgesetzes anlässlich der Aktualisierung der
+    Sicherheitserklärung zusätzlich bei der zu überprüfenden Person und
+    mitbetroffenen Person im Sinne des § 2 Absatz 2 des
+    Sicherheitsüberprüfungsgesetzes die Maßnahmen nach § 12 Absatz 1
+    Nummer 1 bis 3, 5 und 6 sowie Absatz 2 des
+    Sicherheitsüberprüfungsgesetzes durchgeführt werden,
+
+
+4.  abweichend von § 17 Absatz 2 Satz 1 des
+    Sicherheitsüberprüfungsgesetzes Widerholungsprüfungen bereits nach
+    fünf Jahren eingeleitet werden und
+
+
+5.  die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der
+    Wiederholungsüberprüfung nach Nummer 3 nicht eingeleitet wird, solange
+
+    a)  die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
+
+
+    b)  nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30
+        Monate vergangen sind.
+
+
+
+
+
+
 
 
 ### Unterabschnitt 2 - Reisebeschränkungen
 [Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNG000500000)
 
 
-#### § 7 (zukünftig in Kraft)
-[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNE000700000)
+#### § 7 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/bwschutzg/BJNR0070C0026.html#BJNR0070C0026BJNE000701000)
+
+Die Regelungen dieses Unterabschnitts gelten für alle Beschäftigten
+des Geschäftsbereichs des Bundesministeriums der Verteidigung.
 
 
 #### § 8 Reiseanzeigen, Zustimmungsvorbehalt, Reiseverbot

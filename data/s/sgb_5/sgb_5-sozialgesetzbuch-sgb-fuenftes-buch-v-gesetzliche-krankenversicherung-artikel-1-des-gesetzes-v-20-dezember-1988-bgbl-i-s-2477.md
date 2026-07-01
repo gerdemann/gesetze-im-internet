@@ -253,7 +253,7 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
 
 
 #### § 5 Versicherungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055027126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055028126)
 
 (1) Versicherungspflichtig sind
 
@@ -270,9 +270,9 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
     zurückgezahlt worden ist,
 
 
-2a. Personen in der Zeit, für die sie Bürgergeld nach § 19 Absatz 1 Satz 1
-    des Zweiten Buches beziehen, es sei denn, dass diese Leistung nur
-    darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
+2a. Personen in der Zeit, für die sie Grundsicherungsgeld nach § 19 Absatz
+    1 Satz 1 des Zweiten Buches beziehen, es sei denn, dass diese Leistung
+    nur darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
     Satz 1 des Zweiten Buches bezogen werden; dies gilt auch, wenn die
     Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend
     aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden
@@ -472,12 +472,12 @@ selbständig erwerbstätig sind; als Arbeitnehmer gelten für
 Gesellschafter auch die Arbeitnehmer der Gesellschaft.
 
 (5a) Nach Absatz 1 Nr. 2a ist nicht versicherungspflichtig, wer
-zuletzt vor dem Bezug von Bürgergeld privat krankenversichert war oder
-weder gesetzlich noch privat krankenversichert war und zu den in
-Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört oder
-bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte. Satz
-1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs. 1
-Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
+zuletzt vor dem Bezug von Grundsicherungsgeld privat krankenversichert
+war oder weder gesetzlich noch privat krankenversichert war und zu den
+in Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört
+oder bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte.
+Satz 1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs.
+1 Nr. 2a versicherungspflichtig waren, für die Dauer ihrer
 Hilfebedürftigkeit. Personen nach Satz 1 sind nicht nach § 10
 versichert. Personen nach Satz 1, die am 31. Dezember 2015 die
 Voraussetzungen des § 10 erfüllt haben, sind ab dem 1. Januar 2016
@@ -856,7 +856,7 @@ Fassung gleich.
 
 
 #### § 9 Freiwillige Versicherung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009119126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009120126)
 
 (1) Der Versicherung können beitreten
 
@@ -865,9 +865,9 @@ Fassung gleich.
     mindestens vierundzwanzig Monate oder unmittelbar vor dem Ausscheiden
     ununterbrochen mindestens zwölf Monate versichert waren; Zeiten der
     Mitgliedschaft nach § 189 und Zeiten, in denen eine Versicherung
-    allein deshalb bestanden hat, weil Bürgergeld nach § 19 Absatz 1 Satz
-    1 des Zweiten Buches zu Unrecht bezogen wurde, werden nicht
-    berücksichtigt,
+    allein deshalb bestanden hat, weil Grundsicherungsgeld nach § 19
+    Absatz 1 Satz 1 des Zweiten Buches zu Unrecht bezogen wurde, werden
+    nicht berücksichtigt,
 
 
 2.  Personen, deren Versicherung nach § 10 erlischt oder nur deswegen
@@ -904,12 +904,13 @@ Fassung gleich.
 
 
 7.  innerhalb von sechs Monaten nach ständiger Aufenthaltnahme im Inland
-    oder innerhalb von drei Monaten nach Ende des Bezugs von Bürgergeld
-    nach § 19 Absatz 1 Satz 1 des Zweiten Buches Spätaussiedler sowie
-    deren gemäß § 7 Abs. 2 Satz 1 des Bundesvertriebenengesetzes
-    leistungsberechtigte Ehegatten und Abkömmlinge, die bis zum Verlassen
-    ihres früheren Versicherungsbereichs bei einem dortigen Träger der
-    gesetzlichen Krankenversicherung versichert waren,
+    oder innerhalb von drei Monaten nach Ende des Bezugs von
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    Spätaussiedler sowie deren gemäß § 7 Abs. 2 Satz 1 des
+    Bundesvertriebenengesetzes leistungsberechtigte Ehegatten und
+    Abkömmlinge, die bis zum Verlassen ihres früheren
+    Versicherungsbereichs bei einem dortigen Träger der gesetzlichen
+    Krankenversicherung versichert waren,
 
 
 8.  Personen, die ab dem 31. Dezember 2018 als Soldatinnen oder Soldaten
@@ -22841,7 +22842,7 @@ beglichen wird. Das Nähere regelt der Rahmenvertrag nach § 129.
 
 
 #### § 130a Rabatte der pharmazeutischen Unternehmer
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048132126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048133126)
 
 (1) Die Krankenkassen erhalten von Apotheken für zu ihren Lasten
 abgegebene Arzneimittel einen Abschlag in Höhe von 7 vom Hundert des
@@ -23218,10 +23219,10 @@ erstellten Liste aufgeführten Arzneimittel zur Behandlung von Kindern.
 diversifizierten, bedarfsgerechten Versorgung mit patentfreien
 Antibiotika bilden die Krankenkassen oder ihre Verbände für die
 Vergabe von Vereinbarungen nach Absatz 8 Satz 1 für diese Arzneimittel
-Lose nach § 97 Absatz 4 Satz 2 des Gesetzes gegen
-Wettbewerbsbeschränkungen. Die Krankenkassen oder ihre Verbände legen
-jeweils die für die Gewährleistung der Liefersicherheit erforderliche
-Anzahl der Lose fest. Abweichend von § 97 Absatz 2 des Gesetzes gegen
+Lose nach § 97a Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen.
+Die Krankenkassen oder ihre Verbände legen jeweils die für die
+Gewährleistung der Liefersicherheit erforderliche Anzahl der Lose
+fest. Abweichend von § 97 Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen in Verbindung mit § 69 Absatz 3 schreiben
 die Krankenkassen oder ihre Verbände mindestens die Hälfte der Lose so
 aus, dass Rabatte für die in Satz 1 genannten Arzneimittel mit
@@ -31307,7 +31308,7 @@ Antrag des Mitglieds zu prüfen und zu bescheinigen.
 
 
 ##### § 186 Beginn der Mitgliedschaft Versicherungspflichtiger
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027009126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027010126)
 
 (1) Die Mitgliedschaft versicherungspflichtig Beschäftigter beginnt
 mit dem Tag des Eintritts in das Beschäftigungsverhältnis.
@@ -31321,10 +31322,10 @@ Mitgliedschaft besteht auch an den Tagen fort, an denen der unständig
 Beschäftigte vorübergehend, längstens für drei Wochen nicht
 beschäftigt wird.
 
-(2a) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
-nach dem Dritten Buch beginnt mit dem Tag, von dem an die Leistung
-bezogen wird.
+(2a) Die Mitgliedschaft der Bezieher von Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches und Arbeitslosengeld oder
+Unterhaltsgeld nach dem Dritten Buch beginnt mit dem Tag, von dem an
+die Leistung bezogen wird.
 
 (3) Die Mitgliedschaft der nach dem Künstlersozialversicherungsgesetz
 Versicherten beginnt mit dem Tage, an dem die Versicherungspflicht auf
@@ -31469,7 +31470,7 @@ wird.
 
 
 ##### § 190 Ende der Mitgliedschaft Versicherungspflichtiger
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027414126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027415126)
 
 (1) Die Mitgliedschaft Versicherungspflichtiger endet mit dem Tod des
 Mitglieds.
@@ -31561,10 +31562,10 @@ zum 31. März 2002 nach § 10 oder nach § 7 des Zweiten Gesetzes über
 die Krankenversicherung der Landwirte versichert waren, endet mit dem
 Eintritt der Versicherungspflicht nach § 5 Abs. 1 Nr. 11.
 
-(12) Die Mitgliedschaft der Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches und Arbeitslosengeld oder Unterhaltsgeld
-nach dem Dritten Buch endet mit Ablauf des letzten Tages, für den die
-Leistung bezogen wird.
+(12) Die Mitgliedschaft der Bezieher von Grundsicherungsgeld nach § 19
+Absatz 1 Satz 1 des Zweiten Buches und Arbeitslosengeld oder
+Unterhaltsgeld nach dem Dritten Buch endet mit Ablauf des letzten
+Tages, für den die Leistung bezogen wird.
 
 (13) Die Mitgliedschaft der in § 5 Abs. 1 Nr. 13 genannten Personen
 endet mit Ablauf des Vortages, an dem
@@ -32331,22 +32332,6 @@ und den Aufbau der Zahlstellennummer regeln die Grundsätze nach Absatz
 2 Satz 4.
 
 
-#### § 202a Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094200126)
-
-Die Zahlstellen müssen ab dem 1. Juli 2025 für die in der sozialen
-Pflegeversicherung bereits vor diesem Zeitpunkt
-versicherungspflichtigen Versorgungsbezieher eine Meldung entsprechend
-§ 202 Absatz 1a erstatten, soweit eine Beitragsabführungspflicht
-besteht. Die Meldung hat spätestens bis zum 31. Dezember 2025 zu
-erfolgen. Bei Zahlstellen, die im Zeitraum vom 1. Juli 2023 bis zum
-30\. Juni 2025 sich weder die Elterneigenschaft sowie die Anzahl der
-Kinder nach § 55 Absatz 3a Satz 1 haben nachweisen lassen noch an dem
-Nachweisverfahren nach § 55 Absatz 3d Satz 2 des Elften Buches
-teilgenommen haben, erstreckt sich die Meldung auf den gesamten
-genannten Zeitraum.
-
-
 #### § 203 Meldepflichten bei Leistung von Mutterschaftsgeld, Elterngeld oder Erziehungsgeld
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028703126)
 
@@ -32406,8 +32391,8 @@ bedürfen, fest:
 
 
 
-#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Bürgergeld oder Unterhaltsgeld
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043005126)
+#### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Grundsicherungsgeld oder Unterhaltsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043006126)
 
 Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten
 Buches die zugelassenen kommunalen Träger erstatten die Meldungen
@@ -34442,7 +34427,7 @@ Voraus durch den Arbeitsvertrag befristet ist.
 
 
 ##### § 232a Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043121126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043122126)
 
 (1) Als beitragspflichtige Einnahmen gelten
 
@@ -34455,8 +34440,8 @@ Voraus durch den Arbeitsvertrag befristet ist.
     geringfügigen Beschäftigungsverhältnis sind abzuziehen,
 
 
-2.  bei Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-    Buches beziehen, das 0,2155fache der monatlichen Bezugsgröße;
+2.  bei Personen, die Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des
+    Zweiten Buches beziehen, das 0,2155fache der monatlichen Bezugsgröße;
     abweichend von § 223 Absatz 1 sind die Beiträge für jeden
     Kalendermonat, in dem mindestens für einen Tag eine Mitgliedschaft
     besteht, zu zahlen.
@@ -34958,12 +34943,12 @@ Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gelten
 als Beitragssatz sieben Zehntel des allgemeinen Beitragssatzes.
 
 
-##### § 246 Beitragssatz für Beziehende von Bürgergeld
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033006126)
+##### § 246 Beitragssatz für Beziehende von Grundsicherungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033007126)
 
-Für Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-Buches beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach
-§ 243.
+Für Personen, die Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des
+Zweiten Buches beziehen, gilt als Beitragssatz der ermäßigte
+Beitragssatz nach § 243.
 
 
 ##### § 247 Beitragssatz aus der Rente
@@ -35124,7 +35109,7 @@ Satz 1 zu tragenden Beiträge allein.
 
 
 ##### § 251 Tragung der Beiträge durch Dritte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033524126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033525126)
 
 (1) Der zuständige Rehabilitationsträger trägt die auf Grund der
 Teilnahme an Leistungen zur Teilhabe am Arbeitsleben sowie an
@@ -35166,11 +35151,11 @@ verpflichtet, als der Versicherte seine Beitragsanteile zahlt.
 (4) Der Bund trägt die Beiträge für Wehrdienst- und
 Zivildienstleistende im Falle des § 193 Abs. 2 und 3 sowie für die
 nach § 5 Abs. 1 Nr. 2a versicherungspflichtigen Bezieher von
-Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Die Höhe der
-vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz 1 Nummer
-2a versicherungspflichtigen Bezieher von Bürgergeld nach § 19 Absatz 1
-Satz 1 des Zweiten Buches wird für ein Kalenderjahr jeweils im
-Folgejahr abschließend festgestellt. Hierzu ermittelt das
+Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Die
+Höhe der vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz
+1 Nummer 2a versicherungspflichtigen Bezieher von Grundsicherungsgeld
+nach § 19 Absatz 1 Satz 1 des Zweiten Buches wird für ein Kalenderjahr
+jeweils im Folgejahr abschließend festgestellt. Hierzu ermittelt das
 Bundesministerium für Gesundheit den rechnerischen Zusatzbeitragssatz,
 der sich als Durchschnitt der im Kalenderjahr geltenden
 Zusatzbeitragssätze der Krankenkassen nach § 242 Absatz 1 unter
@@ -35219,14 +35204,14 @@ Vorschriften des Ersten und Zehnten Buches.
 
 
 ##### § 252 Beitragszahlung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033616126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033617126)
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
 von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des
 § 6a des Zweiten Buches die zugelassenen kommunalen Träger die
-Beiträge für die Bezieher von Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches.
+Beiträge für die Bezieher von Grundsicherungsgeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches.
 
 (2) Die Beitragszahlung erfolgt in den Fällen des § 251 Abs. 3, 4 und
 4a an den Gesundheitsfonds. Ansonsten erfolgt die Beitragszahlung an

@@ -563,7 +563,7 @@ Gerichtskostengesetzes entsprechend anzuwenden.
 (zu § 4 Absatz 1)
 
 ### Anlage Kostenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE003201125)
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE003202129)
 
 (Fundstelle: BGBl. I 2013, 2660 - 2664;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -598,7 +598,7 @@ Teil 1 Gebühren ****
 
 *    *   Abschnitt 5
 
-    *   Einrichtung und Nutzung des automatisierten Abrufverfahrens in
+    *   Einrichtung und Nutzung des Abrufverfahrens in
         Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des
         Schiffsbauregisters und des Registers für Pfandrechte an
         Luftfahrzeugen
@@ -752,7 +752,7 @@ Teil 1
 *    *
 
 *    *   Abschnitt 5
-        Einrichtung und Nutzung des automatisierten Abrufverfahrens
+        Einrichtung und Nutzung des Abrufverfahrens
         in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister,
         **des Schiffsbauregisters und des Registers für Pfandrechte an
         Luftfahrzeugen**
@@ -774,8 +774,7 @@ Teil 1
 
     *   Genehmigung der Landesjustizverwaltung zur Teilnahme am
         eingeschränkten Abrufverfahren (§ 133 Abs. 4 Satz 3 der
-        Grundbuchordnung, auch i. V. m. § 69 Abs. 1 Satz 2 SchRegDV, und § 15
-        LuftRegV)
+        Grundbuchordnung und § 15 LuftRegV)
         ..........
 
     *   50,00 €

@@ -2137,7 +2137,7 @@ oder Vergütung.
 
 
 ### § 21 Ausschluss von öffentlichen Aufträgen
-[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002207129)
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002208130)
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
 Dienstleistungsauftrag der in den §§ 99 und 100 des Gesetzes gegen
@@ -2178,10 +2178,10 @@ dass die Voraussetzungen für einen Ausschluss nach Satz 1 oder 2 nicht
 vorliegen; auch im Falle einer Erklärung des Bewerbers können
 öffentliche Auftraggeber Auskünfte aus dem Wettbewerbsregister
 jederzeit anfordern. Für den Bewerber, der den Zuschlag erhalten soll,
-fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen ab
-einer Höhe von 30 000 Euro vor Zuschlagserteilung eine Auskunft aus
-dem Wettbewerbsregister an. Der Bewerber ist vor der Entscheidung über
-den Ausschluss zu hören.
+fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen mit
+einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer vor
+Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an. Der
+Bewerber ist vor der Entscheidung über den Ausschluss zu hören.
 
 (2) Eine Verfehlung nach Absatz 1 steht einer Verletzung von Pflichten
 nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.

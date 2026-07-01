@@ -321,7 +321,7 @@ zuständigen Unfallversicherungsträgern zu übersenden.
 
 
 ### § 8 Entgeltunterlagen
-[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000923126)
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000924126)
 
 (1) Der Arbeitgeber hat in den Entgeltunterlagen folgende Angaben über
 den Beschäftigten aufzunehmen:
@@ -443,6 +443,11 @@ Entgeltunterlagen zu nehmen:
 4a. der Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz
     1b des Sechsten Buches Sozialgesetzbuch, auf dem der Tag des Eingangs
     beim Arbeitgeber dokumentiert ist,
+
+
+4b. der Antrag auf Aufhebung der Befreiung von der Versicherungspflicht
+    nach § 6 Absatz 6 des Sechsten Buches Sozialgesetzbuch, auf dem der
+    Tag des Eingangs beim Arbeitgeber dokumentiert ist,
 
 
 5.  (weggefallen)

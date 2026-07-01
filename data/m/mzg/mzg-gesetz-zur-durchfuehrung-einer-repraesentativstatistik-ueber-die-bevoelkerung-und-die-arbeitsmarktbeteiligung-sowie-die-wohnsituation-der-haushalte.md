@@ -588,7 +588,7 @@ erhoben:
 
 
 ## § 7 Erhebungsmerkmale in Bezug auf die Arbeitsmarktbeteiligung
-[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000701126)
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000702360)
 
 (1) Gemeinsam mit den Angaben zu § 6 werden, soweit in § 5 Absatz 3
 Nummer 2 nichts anderes bestimmt ist, jährlich die Angaben zu
@@ -676,7 +676,7 @@ folgenden Erhebungsmerkmalen erhoben:
 
 2.  für Arbeitslose und Arbeitsuchende:
 
-    a)  Bezug von Arbeitslosengeld und Bürgergeld,
+    a)  Bezug von Arbeitslosengeld und Grundsicherungsgeld,
 
 
     b)  Anlass der Arbeitssuche,
@@ -879,7 +879,7 @@ nach § 6 zu Befragenden.
 
 
 ## § 8 Erhebungsmerkmale in Bezug auf Einkommen und Lebensbedingungen
-[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000803126)
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000804360)
 
 (1) Ab dem Jahr 2020 werden jährlich gemeinsam mit den Angaben zum
 Kernprogramm nach § 6 bei Personen, die im Auswahlbezirk ihren
@@ -1033,7 +1033,7 @@ Erhebungsmerkmalen erhoben:
         aa) Höhen der gesetzlichen Leistungen bei Arbeitslosigkeit, bei Aus- und
             Weiterbildungsförderungen der Bundesagentur für Arbeit, insbesondere
             Höhen des Qualifizierungsgeldes, und Höhen der Grundsicherung für
-            Arbeitsuchende, insbesondere Höhen des Bürgergeldes, des
+            Arbeitsuchende, insbesondere Höhen des Grundsicherungsgeldes, des
             Bürgergeldbonus und der Weiterbildungsleistungen,
 
 

@@ -25,7 +25,7 @@ Stand: Ersetzt G 703-13 v. 11.7.2022 I 1078 (BwBBG)
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000201128)
 
 (1) Dieses Gesetz gilt für öffentliche Aufträge, deren geschätzter
 Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte nach
@@ -64,13 +64,7 @@ oder überschreitet, zur Deckung
 
 
 
-(2) Abweichend von § 106 Absatz 2 Nummer 1 des Gesetzes gegen
-Wettbewerbsbeschränkungen haben obere Bundesbehörden oder
-vergleichbare Bundeseinrichtungen im Geschäftsbereich des
-Bundesministeriums der Verteidigung nicht den Schwellenwert für
-zentrale Regierungsbehörden anzuwenden.
-
-(3) Für die Vergabe von öffentlichen Liefer-, Bau- und
+(2) Für die Vergabe von öffentlichen Liefer-, Bau- und
 Dienstleistungsaufträgen und Rahmenvereinbarungen zur Deckung der
 Bedarfe nach Absatz 1, deren geschätzter Auftrags- oder Vertragswert
 ohne Umsatzsteuer die Schwellenwerte nach § 106 Absatz 2 des Gesetzes
@@ -83,7 +77,7 @@ dieses Gesetzes.
 
 
 ### § 2 Ausnahmen auf Basis des Vertrages über die Arbeitsweise der Europäischen Union
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000301128)
 
 (1) § 107 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen in
 Verbindung mit Artikel 346 des Vertrages über die Arbeitsweise der
@@ -133,8 +127,7 @@ Wettbewerbsbeschränkungen ist überdies mit der Maßgabe anzuwenden,
 dass wesentliche Sicherheitsinteressen im Sinne des Artikels 346
 Absatz 1 Buchstabe a des Vertrages über die Arbeitsweise der
 Europäischen Union auch berührt sein können, wenn der öffentliche
-Auftrag Leistungen für die Bundeswehr oder für Zwecke
-nachrichtendienstlicher Tätigkeiten betrifft.
+Auftrag Leistungen für die Bundeswehr betrifft.
 
 (3) Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist
 in den von Artikel 347 des Vertrages über die Arbeitsweise der
@@ -145,19 +138,10 @@ im Übrigen unberührt.
 
 
 ### § 3 Ausnahmen von den Voraussetzungen des Gesetzes gegen Wettbewerbsbeschränkungen
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000401128)
 
-(1) § 145 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist
-mit der Maßgabe anzuwenden, dass auch Aufträge, die den Zwecken der
-Tätigkeiten des militärischen Nachrichtenwesens dienen, erfasst sind.
-
-(2) § 145 Nummer 7 Buchstabe c des Gesetzes gegen
-Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass die
-dort genannten Zwecke auch die satzungsgemäßen Zwecke der
-internationalen Organisation umfassen.
-
-(3) Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist
-auf die Vergabe von verteidigungs- oder sicherheitsspezifischen
+Der Vierte Teil des Gesetzes gegen Wettbewerbsbeschränkungen ist auf
+die Vergabe von verteidigungs- oder sicherheitsspezifischen
 öffentlichen Aufträgen auch in den Fällen des Artikels 13 der
 Richtlinie 2009/81/EG nicht anzuwenden. § 145 des Gesetzes gegen
 Wettbewerbsbeschränkungen bleibt unberührt.
@@ -265,11 +249,11 @@ darzulegen.
 
 
 ### § 8 Abweichungen vom Losgrundsatz
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE000901128)
 
-(1) § 97 Absatz 4 Satz 2 bis 4 des Gesetzes gegen
-Wettbewerbsbeschränkungen und § 10 Absatz 1 der Vergabeverordnung
-Verteidigung und Sicherheit finden keine Anwendung.
+(1) § 97a des Gesetzes gegen Wettbewerbsbeschränkungen und § 10 Absatz
+1 der Vergabeverordnung Verteidigung und Sicherheit finden keine
+Anwendung.
 
 (2) Leistungen öffentlicher Bauaufträge müssen nicht in der Menge
 aufgeteilt und getrennt nach Art oder Fachgebiet vergeben werden. Wird
@@ -287,7 +271,7 @@ Wettbewerbsbeschränkungen nicht erreicht.
 
 
 ### § 9 Anpassungen des Vergabeverfahrens
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001001128)
 
 (1) § 104 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen ist
 mit der Maßgabe anzuwenden, dass er auch Verschlusssachenaufträge im
@@ -310,7 +294,7 @@ Vergabeunterlagen fest. Die Unterlagen sind vom Bewerber oder Bieter
 nach Aufforderung durch den Auftraggeber innerhalb einer von diesem
 festzulegenden angemessenen, nach dem Kalender bestimmten Frist
 vorzulegen. Die Entscheidung über und das Ergebnis der Nachforderung
-sind zu dokumentieren. § 22 Absatz 6 der Vergabeverordnung
+sind zu dokumentieren. § 22 Absatz 7 der Vergabeverordnung
 Verteidigung und Sicherheit bleibt unberührt.
 
 (4) In Fällen, in denen weniger als drei wertungsfähige Angebote
@@ -373,13 +357,13 @@ Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 ### § 11 Angebote aus Drittstaaten
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001201128)
 
-(1) Abweichend von § 97 Absatz 2 des Gesetzes gegen
-Wettbewerbsbeschränkungen dürfen Auftraggeber die Teilnahme an einem
+(1) § 97 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit
+der Maßgabe anzuwenden, dass Auftraggeber die Teilnahme an einem
 Vergabeverfahren zu jedem Zeitpunkt des Verfahrens auf Bewerber oder
-Bieter beschränken, die in einem Mitgliedstaat der Europäischen Union
-ansässig sind. Nur diese sind abweichend von § 160 Absatz 2 des
+Bieter beschränken dürfen, die in einem Mitgliedstaat der Europäischen
+Union ansässig sind. Nur diese sind abweichend von § 160 Absatz 2 des
 Gesetzes gegen Wettbewerbsbeschränkungen in einem
 Nachprüfungsverfahren antragsbefugt.
 
@@ -530,7 +514,7 @@ Upgrades vereinbart werden.
 
 
 ### § 15 Beschleunigte Verfahren vor der Vergabekammer
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001600000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001601128)
 
 (1) Abweichend von § 159 des Gesetzes gegen Wettbewerbsbeschränkungen
 ist die Vergabekammer des Bundes für die Nachprüfung aller
@@ -547,7 +531,7 @@ ist.
 (3) Auf Antrag des Auftraggebers kann nach Lage der Akten entschieden
 werden. Die mündliche Verhandlung kann im Wege der Videoverhandlung
 nach § 128a der Zivilprozessordnung durchgeführt werden. § 166 Absatz
-1 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt
+1 Satz 3 und 4 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt
 unberührt.
 
 (4) Bei der Auswahl der geeigneten Maßnahmen nach § 168 Absatz 1 Satz
@@ -555,12 +539,7 @@ unberührt.
 insbesondere Verteidigungs- und Sicherheitsinteressen zu
 berücksichtigen.
 
-(5) § 169 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist
-mit der Maßgabe anzuwenden, dass das Zuschlagsverbot im Falle des
-Obsiegens des Auftraggebers mit der Bekanntgabe der Entscheidung der
-Vergabekammer über den Antrag auf Nachprüfung endet.
-
-(6) Bei der Abwägung nach § 169 Absatz 2 Satz 1 sowie den
+(5) Bei der Abwägung nach § 169 Absatz 2 Satz 1 sowie den
 Entscheidungen nach § 169 Absatz 2 Satz 6 und 7 und Absatz 3 des
 Gesetzes gegen Wettbewerbsbeschränkungen überwiegen in der Regel die
 Verteidigungs- und Sicherheitsinteressen als Interesse der
@@ -568,26 +547,16 @@ Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die mit
 einer Verzögerung der Vergabe für den Antragsteller verbundenen
 Vorteile.
 
-(7) Stellt die Vergabekammer im Nachprüfungsverfahren einen Verstoß
+(6) Stellt die Vergabekammer im Nachprüfungsverfahren einen Verstoß
 des Auftraggebers im Sinne des § 135 Absatz 1 Nummer 1 oder 2 des
 Gesetzes gegen Wettbewerbsbeschränkungen fest, hat sie § 10 dieses
 Gesetzes zu beachten.
 
-(8) Mitglieder der Vergabekammern haften gegenüber dem Dienstherrn im
-Falle der Verletzung einer Amtspflicht nur bei Vorsatz.
-
 
 ### § 16 Beschleunigte sofortige Beschwerde
-[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001700000)
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg_2026/BJNR0280B0026.html#BJNR0280B0026BJNE001701128)
 
-(1) Abweichend von § 173 Absatz 1 Satz 1 des Gesetzes gegen
-Wettbewerbsbeschränkungen hat die sofortige Beschwerde keine
-aufschiebende Wirkung, wenn die Vergabekammer den Antrag auf
-Nachprüfung abgelehnt hat. § 173 Absatz 1 Satz 2 und 3 sowie Absatz 2
-des Gesetzes gegen Wettbewerbsbeschränkungen finden in diesem Fall
-keine Anwendung.
-
-(2) Das Gericht kann im Ausnahmefall nach Lage der Akten entscheiden,
+(1) Das Gericht kann im Ausnahmefall nach Lage der Akten entscheiden,
 insbesondere, wenn dies der Beschleunigung dient und kein
 unmittelbarer Eindruck der Parteien oder direkter Austausch des
 tatsächlichen und rechtlichen Vortrags erforderlich ist. Die mündliche
@@ -596,20 +565,17 @@ Zivilprozessordnung durchgeführt werden. § 175 Absatz 2 in Verbindung
 mit § 166 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt
 unberührt.
 
-(3) Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen
+(2) Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen überwiegen in der Regel Verteidigungs- und
 Sicherheitsinteressen als Interesse der Allgemeinheit an einem raschen
 Abschluss des Vergabeverfahrens die mit einer Verzögerung der Vergabe
 für den Antragsteller verbundenen Vorteile.
 
-(4) § 177 des Gesetzes gegen Wettbewerbsbeschränkungen findet keine
-Anwendung.
-
-(5) § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit
+(3) § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit
 der Maßgabe anzuwenden, dass das Gericht stets in der Sache selbst
 entscheidet.
 
-(6) Für das Beschwerdegericht gilt § 15 Absatz 7 entsprechend.
+(4) Für das Beschwerdegericht gilt § 15 Absatz 7 entsprechend.
 
 
 ## Teil 6 - Anpassungen von Verträgen

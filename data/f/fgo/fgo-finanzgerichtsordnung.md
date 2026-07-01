@@ -3239,8 +3239,29 @@ nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel
 eingelegt wird.
 
 
-#### (XXXX) §§ 146 bis 148 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016301301)
+#### § 146
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021800131)
+
+(1) Wird die Wertfestsetzung für die Gerichtsgebühren nach § 63 Absatz
+3 des Gerichtskostengesetzes geändert, so kann das Gericht seine
+getroffene Kostenentscheidung von Amts wegen ändern. Wird die
+Kostenentscheidung nach Satz 1 geändert, ist auch eine bereits
+erfolgte Kostenfestsetzung von Amts wegen zu ändern.
+
+(2) Für die Entscheidung nach Absatz 1 Satz 1 gilt § 107 Absatz 2
+entsprechend. Vor der Entscheidung sind die Beteiligten zu hören. Die
+Änderung der Kostenentscheidung ist nur innerhalb von sechs Monaten
+zulässig, nachdem die Änderung der Wertfestsetzung Rechtskraft erlangt
+hat. Die Änderung der Kostenentscheidung hat keine Änderung der
+übrigen Teile des Urteils oder des Beschlusses zur Folge.
+
+(3) Entscheidungen nach Absatz 1 Satz 1 sind unanfechtbar. Auf
+Entscheidungen nach Absatz 1 Satz 2 ist § 149 Absatz 2 bis 4
+anzuwenden.
+
+
+#### (XXXX) §§ 147 bis 148 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016302131)
 
 
 

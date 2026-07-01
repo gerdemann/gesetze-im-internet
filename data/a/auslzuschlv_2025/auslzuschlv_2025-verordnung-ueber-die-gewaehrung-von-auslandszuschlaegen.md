@@ -422,7 +422,7 @@ gesetzlichen Sozialversicherung verbleibenden Einkünfte aus:
 
 
 #### § 16 Anrechnung des Nettoerwerbseinkommens der berücksichtigungsfähigen Person
-[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001700000)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001701131)
 
 (1) Ist die Ehegattin oder der Ehegatte oder eine nach § 53 Absatz 4
 Nummer 3 des Bundesbesoldungsgesetzes berücksichtigungsfähige Person
@@ -440,12 +440,17 @@ die vor dem Beginn oder nach dem Ende des Gewährungszeitraums des
 erhöhten Auslandszuschlags ausgeübt wurden, bleiben bei der Anrechnung
 unberücksichtigt.
 
-(3) Die Hälfte des Erhöhungsbetrags ist anrechnungsfrei. Auf die
-andere Hälfte wird das nach Absatz 1 Satz 2 zu berücksichtigende
-Nettoerwerbseinkommen angerechnet. Die Anrechnung erfolgt getrennt für
-jedes Kalenderjahr. Bei einem Dienstortwechsel innerhalb eines
-Kalenderjahres wird das erzielte Nettoerwerbseinkommen getrennt nach
-Dienstorten betrachtet.
+(3) Die Hälfte des nach § 53 Absatz 6 Satz 3 des
+Bundesbesoldungsgesetzes individuell maximal zustehenden erhöhten
+Auslandszuschlags ist anrechnungsfrei. Auf die andere Hälfte wird das
+nach Absatz 1 Satz 2 zu berücksichtigende Nettoerwerbseinkommen
+angerechnet. Die Anrechnung erfolgt getrennt für jedes Kalenderjahr.
+Bei einem Dienstortwechsel innerhalb eines Kalenderjahres wird das
+erzielte Nettoerwerbseinkommen getrennt nach Dienstorten betrachtet.
+Ist der nach den Sätzen 1 und 2 errechnete Betrag höher als der von
+der Ehegattin oder dem Ehegatten für den Aufbau einer eigenständigen
+Altersvorsorge verwendete Betrag, so wird maximal der für die
+Altersvorsorge verwendete Betrag gewährt.
 
 
 #### § 17 Vorläufige Gewährung und Nachweis bei Nettoerwerbseinkommen der berücksichtigungsfähigen Person
@@ -468,7 +473,7 @@ erhöhten Auslandszuschlags umfassen.
 
 
 ### § 18 Übergangsregelungen
-[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001900000)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001901131)
 
 (1) Stand Empfängerinnen und Empfängern von Auslandsdienstbezügen
 schon vor dem 1. Juli 2025 ein erhöhter Auslandszuschlag für
@@ -486,11 +491,20 @@ Absatz 6 Satz 2 des Bundesbesoldungsgesetzes auch die Zeit
 berücksichtigt, während der Dienst vor dem 1. Juli 2025 geleistet
 worden ist.
 
+(3) Haben Empfängerinnen und Empfänger von Auslandsdienstbezügen
+bereits vor dem 1. Juli 2025 den Erhöhungsbetrag als Beitrag für eine
+kapitalgedeckte Altersvorsorge verwendet, welche eine lebenslange
+monatliche Leibrente für die Ehegattin oder den Ehegatten vorsieht und
+nicht vor Vollendung des 62. Lebensjahres der Ehegattin oder des
+Ehegatten ausgezahlt wird, so gilt dies auch nach dem 1. Juli 2025 als
+Verwendung für den Aufbau einer eigenständigen Altersvorsorge der
+Ehegattin oder des Ehegatten nach § 10 Absatz 2.
+
 
 ### Anlage 1 (zu § 1 Absatz 1)
-[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002000000)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002001131)
 
-(Fundstelle: BGBl. 2025 I Nr. 145, S. 8 - 13)
+(Fundstelle: BGBl. 2026 I Nr. 171, S. 2 – 7)
 
 
 *    *
@@ -519,7 +533,7 @@ worden ist.
 
     *   Tirana
 
-    *   11
+    *   10
 
 
 *    *   2
@@ -537,7 +551,7 @@ worden ist.
 
     *   Sarajewo
 
-    *   11
+    *   10
 
 
 *    *   4
@@ -546,7 +560,7 @@ worden ist.
 
     *   Sofia
 
-    *   9
+    *   7
 
 
 *    *   5
@@ -564,7 +578,7 @@ worden ist.
 
     *   Tallinn
 
-    *   7
+    *   6
 
 
 *    *   7
@@ -589,14 +603,14 @@ worden ist.
 
     *   Bordeaux
 
-    *   2
+    *   3
 
 
 *    *   10
 
     *   Lyon
 
-    *   2
+    *   3
 
 
 *    *   11
@@ -626,7 +640,7 @@ worden ist.
 
     *   Thessaloniki
 
-    *   5
+    *   4
 
 
 *    *   15
@@ -635,7 +649,7 @@ worden ist.
 
     *   Dublin
 
-    *   2
+    *   3
 
 
 *    *   16
@@ -669,7 +683,7 @@ worden ist.
 
     *   Pristina
 
-    *   17
+    *   13
 
 
 *    *   20
@@ -678,7 +692,7 @@ worden ist.
 
     *   Zagreb
 
-    *   6
+    *   5
 
 
 *    *   21
@@ -723,7 +737,7 @@ worden ist.
 
     *   Chisinau
 
-    *   10
+    *   9
 
 
 *    *   26
@@ -732,7 +746,7 @@ worden ist.
 
     *   Podgorica
 
-    *   13
+    *   11
 
 
 *    *   27
@@ -757,7 +771,7 @@ worden ist.
 
     *   Skopje
 
-    *   11
+    *   8
 
 
 *    *   30
@@ -784,35 +798,35 @@ worden ist.
 
     *   Warschau
 
-    *   4
+    *   3
 
 
 *    *   33
 
     *   Breslau
 
-    *   7
+    *   5
 
 
 *    *   34
 
     *   Danzig
 
-    *   7
+    *   5
 
 
 *    *   35
 
     *   Krakau
 
-    *   6
+    *   4
 
 
 *    *   36
 
     *   Oppeln
 
-    *   7
+    *   6
 
 
 *    *   37
@@ -830,21 +844,21 @@ worden ist.
 
     *   Bukarest
 
-    *   8
+    *   7
 
 
 *    *   39
 
     *   Hermannstadt
 
-    *   10
+    *   9
 
 
 *    *   40
 
     *   Temeswar
 
-    *   9
+    *   8
 
 
 *    *   41
@@ -853,14 +867,14 @@ worden ist.
 
     *   Moskau
 
-    *   13
+    *   15
 
 
 *    *   42
 
     *   St. Petersburg
 
-    *   13
+    *   14
 
 
 *    *   43
@@ -869,7 +883,7 @@ worden ist.
 
     *   Stockholm
 
-    *   3
+    *   4
 
 
 *    *   44
@@ -894,7 +908,7 @@ worden ist.
 
     *   Belgrad
 
-    *   10
+    *   8
 
 
 *    *   47
@@ -903,7 +917,7 @@ worden ist.
 
     *   Pressburg
 
-    *   6
+    *   5
 
 
 *    *   48
@@ -912,7 +926,7 @@ worden ist.
 
     *   Ljubljana
 
-    *   4
+    *   3
 
 
 *    *   49
@@ -921,7 +935,7 @@ worden ist.
 
     *   Madrid
 
-    *   2
+    *   3
 
 
 *    *   50
@@ -949,7 +963,7 @@ worden ist.
 
     *   Palma de Mallorca
 
-    *   2
+    *   3
 
 
 *    *   54
@@ -967,28 +981,28 @@ worden ist.
 
     *   Ankara
 
-    *   9
+    *   7
 
 
 *    *   56
 
     *   Antalya
 
-    *   8
+    *   7
 
 
 *    *   57
 
     *   Istanbul
 
-    *   9
+    *   7
 
 
 *    *   58
 
     *   Izmir
 
-    *   8
+    *   6
 
 
 *    *   59
@@ -1013,7 +1027,7 @@ worden ist.
 
     *   Budapest
 
-    *   5
+    *   4
 
 
 *    *   62
@@ -1022,7 +1036,7 @@ worden ist.
 
     *   London
 
-    *   2
+    *   3
 
 
 *    *   63
@@ -1038,7 +1052,7 @@ worden ist.
 
     *   Minsk
 
-    *   15
+    *   11
 
 
 *    *   65
@@ -1047,7 +1061,7 @@ worden ist.
 
     *   Nikosia
 
-    *   7
+    *   6
 
 
 *    *   Abschnitt 2
@@ -1060,7 +1074,7 @@ worden ist.
 
     *   Kairo
 
-    *   17
+    *   14
 
 
 *    *   67
@@ -1069,7 +1083,7 @@ worden ist.
 
     *   Algier
 
-    *   15
+    *   14
 
 
 *    *   68
@@ -1078,7 +1092,7 @@ worden ist.
 
     *   Luanda
 
-    *   18
+    *   19
 
 
 *    *   69
@@ -1087,7 +1101,7 @@ worden ist.
 
     *   Addis Abeba
 
-    *   20
+    *   18
 
 
 *    *   70
@@ -1105,7 +1119,7 @@ worden ist.
 
     *   Gaborone
 
-    *   16
+    *   15
 
 
 *    *   72
@@ -1168,7 +1182,7 @@ worden ist.
 
     *   Banjul
 
-    *   17
+    *   16
 
 
 *    *   79
@@ -1259,7 +1273,7 @@ worden ist.
 
     *   Lilongwe
 
-    *   19
+    *   17
 
 
 *    *   89
@@ -1277,7 +1291,7 @@ worden ist.
 
     *   Rabat
 
-    *   12
+    *   11
 
 
 *    *   91
@@ -1295,7 +1309,7 @@ worden ist.
 
     *   Maputo
 
-    *   19
+    *   18
 
 
 *    *   93
@@ -1304,7 +1318,7 @@ worden ist.
 
     *   Windhuk
 
-    *   13
+    *   12
 
 
 *    *   94
@@ -1322,14 +1336,14 @@ worden ist.
 
     *   Abuja
 
-    *   19
+    *   18
 
 
 *    *   96
 
     *   Lagos
 
-    *   19
+    *   18
 
 
 *    *   97
@@ -1338,7 +1352,7 @@ worden ist.
 
     *   Kigali
 
-    *   17
+    *   16
 
 
 *    *   98
@@ -1347,7 +1361,7 @@ worden ist.
 
     *   Lusaka
 
-    *   16
+    *   15
 
 
 *    *   99
@@ -1401,14 +1415,14 @@ worden ist.
 
     *   Pretoria
 
-    *   9
+    *   8
 
 
 *    *   105
 
     *   Kapstadt
 
-    *   10
+    *   9
 
 
 *    *   106
@@ -1426,7 +1440,7 @@ worden ist.
 
     *   Daressalam
 
-    *   19
+    *   18
 
 
 *    *   108
@@ -1453,7 +1467,7 @@ worden ist.
 
     *   Tunis
 
-    *   13
+    *   11
 
 
 *    *   111
@@ -1484,7 +1498,7 @@ worden ist.
 
     *   La Paz
 
-    *   17
+    *   16
 
 
 *    *   114
@@ -1493,21 +1507,21 @@ worden ist.
 
     *   Brasilia
 
-    *   12
+    *   11
 
 
 *    *   115
 
     *   Porto Alegre
 
-    *   11
+    *   10
 
 
 *    *   116
 
     *   Recife
 
-    *   12
+    *   11
 
 
 *    *   117
@@ -1521,7 +1535,7 @@ worden ist.
 
     *   São Paulo
 
-    *   10
+    *   9
 
 
 *    *   119
@@ -1539,7 +1553,7 @@ worden ist.
 
     *   San José
 
-    *   13
+    *   12
 
 
 *    *   121
@@ -1548,7 +1562,7 @@ worden ist.
 
     *   Santo Domingo
 
-    *   16
+    *   14
 
 
 *    *   122
@@ -1566,7 +1580,7 @@ worden ist.
 
     *   San Salvador
 
-    *   16
+    *   15
 
 
 *    *   124
@@ -1593,7 +1607,7 @@ worden ist.
 
     *   Tegucigalpa
 
-    *   19
+    *   18
 
 
 *    *   127
@@ -1632,7 +1646,7 @@ worden ist.
 
     *   Vancouver
 
-    *   4
+    *   3
 
 
 *    *   132
@@ -1686,7 +1700,7 @@ worden ist.
 
     *   Asunción
 
-    *   13
+    *   12
 
 
 *    *   138
@@ -1695,7 +1709,7 @@ worden ist.
 
     *   Lima
 
-    *   13
+    *   15
 
 
 *    *   139
@@ -1713,7 +1727,7 @@ worden ist.
 
     *   Montevideo
 
-    *   12
+    *   11
 
 
 *    *   141
@@ -1731,14 +1745,14 @@ worden ist.
 
     *   Washington
 
-    *   8
+    *   7
 
 
 *    *   143
 
     *   Atlanta
 
-    *   7
+    *   6
 
 
 *    *   144
@@ -1773,14 +1787,14 @@ worden ist.
 
     *   Miami
 
-    *   6
+    *   7
 
 
 *    *   149
 
     *   New York
 
-    *   8
+    *   7
 
 
 *    *   150
@@ -1809,7 +1823,7 @@ worden ist.
 
     *   Eriwan
 
-    *   12
+    *   11
 
 
 *    *   153
@@ -1818,7 +1832,7 @@ worden ist.
 
     *   Baku
 
-    *   16
+    *   14
 
 
 *    *   154
@@ -1827,7 +1841,7 @@ worden ist.
 
     *   Manama
 
-    *   13
+    *   12
 
 
 *    *   155
@@ -1845,7 +1859,7 @@ worden ist.
 
     *   Bandar Seri Begawan
 
-    *   16
+    *   14
 
 
 *    *   157
@@ -1854,7 +1868,7 @@ worden ist.
 
     *   Peking
 
-    *   13
+    *   12
 
 
 *    *   158
@@ -1875,7 +1889,7 @@ worden ist.
 
     *   Kanton
 
-    *   14
+    *   13
 
 
 *    *   161
@@ -1898,44 +1912,44 @@ worden ist.
 
     *   Tiflis
 
-    *   16
+    *   14
 
 
 *    *   164
 
     *   Indien
 
-    *   Neu Delhi
+    *   Neu-Delhi
 
-    *   16
+    *   13
 
 
 *    *   165
 
     *   Bangalore
 
-    *   14
+    *   12
 
 
 *    *   166
 
     *   Chennai
 
-    *   17
+    *   13
 
 
 *    *   167
 
     *   Kalkutta
 
-    *   16
+    *   13
 
 
 *    *   168
 
     *   Mumbai
 
-    *   14
+    *   12
 
 
 *    *   169
@@ -1944,7 +1958,7 @@ worden ist.
 
     *   Jakarta
 
-    *   15
+    *   13
 
 
 *    *   170
@@ -1960,7 +1974,7 @@ worden ist.
 
     *   Erbil
 
-    *   19
+    *   20
 
 
 *    *   172
@@ -1987,14 +2001,14 @@ worden ist.
 
     *   Tokyo
 
-    *   9
+    *   8
 
 
 *    *   175
 
     *   Osaka-Kobe
 
-    *   10
+    *   9
 
 
 *    *   176
@@ -2012,7 +2026,7 @@ worden ist.
 
     *   Amman
 
-    *   13
+    *   12
 
 
 *    *   178
@@ -2030,14 +2044,14 @@ worden ist.
 
     *   Astana
 
-    *   16
+    *   14
 
 
 *    *   180
 
     *   Almaty
 
-    *   16
+    *   14
 
 
 *    *   181
@@ -2046,7 +2060,7 @@ worden ist.
 
     *   Doha
 
-    *   13
+    *   11
 
 
 *    *   182
@@ -2055,7 +2069,7 @@ worden ist.
 
     *   Bischkek
 
-    *   20
+    *   18
 
 
 *    *   183
@@ -2073,7 +2087,7 @@ worden ist.
 
     *   Seoul
 
-    *   9
+    *   8
 
 
 *    *   185
@@ -2082,7 +2096,7 @@ worden ist.
 
     *   Kuwait
 
-    *   15
+    *   16
 
 
 *    *   186
@@ -2091,7 +2105,7 @@ worden ist.
 
     *   Vientiane
 
-    *   16
+    *   15
 
 
 *    *   187
@@ -2109,7 +2123,7 @@ worden ist.
 
     *   Kuala Lumpur
 
-    *   9
+    *   8
 
 
 *    *   189
@@ -2118,7 +2132,7 @@ worden ist.
 
     *   Ulan Bator
 
-    *   20
+    *   19
 
 
 *    *   190
@@ -2145,7 +2159,7 @@ worden ist.
 
     *   Maskat
 
-    *   14
+    *   13
 
 
 *    *   193
@@ -2154,14 +2168,14 @@ worden ist.
 
     *   Islamabad
 
-    *   18
+    *   15
 
 
 *    *   194
 
     *   Karachi
 
-    *   19
+    *   17
 
 
 *    *   195
@@ -2170,7 +2184,7 @@ worden ist.
 
     *   Manila
 
-    *   13
+    *   11
 
 
 *    *   196
@@ -2179,14 +2193,14 @@ worden ist.
 
     *   Riad
 
-    *   16
+    *   15
 
 
 *    *   197
 
     *   Djidda
 
-    *   16
+    *   15
 
 
 *    *   198
@@ -2195,7 +2209,7 @@ worden ist.
 
     *   Singapur
 
-    *   9
+    *   8
 
 
 *    *   199
@@ -2204,7 +2218,7 @@ worden ist.
 
     *   Colombo
 
-    *   18
+    *   17
 
 
 *    *   200
@@ -2222,7 +2236,7 @@ worden ist.
 
     *   Duschanbe
 
-    *   20
+    *   18
 
 
 *    *   202
@@ -2231,7 +2245,7 @@ worden ist.
 
     *   Bangkok
 
-    *   14
+    *   13
 
 
 *    *   203
@@ -2240,7 +2254,7 @@ worden ist.
 
     *   Aschgabat
 
-    *   20
+    *   18
 
 
 *    *   204
@@ -2249,7 +2263,7 @@ worden ist.
 
     *   Taschkent
 
-    *   19
+    *   16
 
 
 *    *   205
@@ -2274,7 +2288,7 @@ worden ist.
 
     *   Hanoi
 
-    *   17
+    *   16
 
 
 *    *   208
@@ -2339,16 +2353,16 @@ worden ist.
     *
     *   Taipei (Taiwan)
 
-    *   10
+    *   9
 
 
 
 
 
 ### Anlage 2 (zu § 1 Absatz 2)
-[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002100000)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002101131)
 
-(Fundstelle: BGBl. 2025 I Nr. 145, S. 14 - 16)
+(Fundstelle: BGBl. 2026 I Nr. 171, S. 8 – 10)
 
 
 *    *
@@ -2391,7 +2405,7 @@ worden ist.
 
     *   Nancy/Toul
 
-    *   3
+    *   4
 
 
 *    *   4
@@ -2403,109 +2417,93 @@ worden ist.
 
 *    *   5
 
-    *   Italien
+    *   Griechenland
 
-    *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
+    *   Kalamata
 
-    *   2
+    *   5
 
 
 *    *   6
+
+    *   Italien
+
+    *   Catania/Sigonella/Lentini/ Motta Sant´Anastasia
+
+    *   3
+
+
+*    *   7
 
     *   Decimomannu/Sardinien
 
     *   4
 
 
-*    *   7
+*    *   8
 
     *   Ghedi
 
     *   3
 
 
-*    *   8
+*    *   9
 
     *   Neapel/Giugliano/Lago Patria
 
     *   3
 
 
-*    *   9
+*    *   10
 
     *   Poggio Renatico/Ferrara
 
     *   3
 
 
-*    *   10
-
-    *   Litauen
-
-    *   Rukla
-
-    *   9
-
-
 *    *   11
 
-    *   Rudninkai/Pabrade/Ukmerge/ Zapalskiai
+    *   Turin
 
-    *   9
+    *   2
 
 
 *    *   12
 
-    *   Polen
+    *   Litauen
 
-    *   Stettin/Stargard
+    *   Rukla/Rudninkai/Ukmerge/ Zapalskiai/Pabrade/Klaipeda
 
-    *   6
+    *   8
 
 
 *    *   13
 
-    *   Posen
+    *   Tschechische Republik
+
+    *   Vijkov
 
     *   6
 
 
 *    *   14
 
-    *   Spanien
-
-    *   Cadiz
-
-    *   3
-
-
-*    *   15
-
-    *   Tschechische Republik
-
-    *   Vyškov
-
-    *   6
-
-
-*    *   16
-
     *   Vereinigtes Königreich
 
-    *   Andover (Hants)
+    *   Andover/Hants
 
     *   5
 
 
-*    *   17
+*    *   15
 
     *
     *   Bicester
 
-    *   3
+    *   4
 
 
-*    *   18
+*    *   16
 
     *
     *   Blackwater
@@ -2513,12 +2511,28 @@ worden ist.
     *   4
 
 
-*    *   19
+*    *   17
 
     *
     *   Blandford
 
     *   5
+
+
+*    *   18
+
+    *
+    *   Bracknell
+
+    *   4
+
+
+*    *   19
+
+    *
+    *   Bristol/Abbey Wood
+
+    *   4
 
 
 *    *   20
@@ -2532,7 +2546,7 @@ worden ist.
 *    *   21
 
     *
-    *   Bristol
+    *   Camberley/Odiham
 
     *   4
 
@@ -2540,15 +2554,15 @@ worden ist.
 *    *   22
 
     *
-    *   Camberley/Odiham
+    *   Coningsby
 
-    *   4
+    *   5
 
 
 *    *   23
 
     *
-    *   Coningsby
+    *   Couldrose/Helston
 
     *   5
 
@@ -2556,9 +2570,9 @@ worden ist.
 *    *   24
 
     *
-    *   Culdrose/Helston
+    *   Dartmouth
 
-    *   4
+    *   5
 
 
 *    *   25
@@ -2566,7 +2580,7 @@ worden ist.
     *
     *   Fareham
 
-    *   4
+    *   5
 
 
 *    *   26
@@ -2580,7 +2594,7 @@ worden ist.
 *    *   27
 
     *
-    *   Honington/Cranwell RAF
+    *   Honington/Cranwell
 
     *   4
 
@@ -2622,7 +2636,7 @@ worden ist.
     *
     *   Plymouth
 
-    *   4
+    *   5
 
 
 *    *   33
@@ -2638,13 +2652,13 @@ worden ist.
     *
     *   Portsmouth
 
-    *   4
+    *   5
 
 
 *    *   35
 
     *
-    *   Preston
+    *   Preston/Warton
 
     *   4
 
@@ -2692,14 +2706,6 @@ worden ist.
 *    *   41
 
     *
-    *   Warton
-
-    *   4
-
-
-*    *   42
-
-    *
     *   Yeovilton
 
     *   5
@@ -2707,6 +2713,15 @@ worden ist.
 
 *    *   Abschnitt 2
         **Amerika**
+
+
+*    *   42
+
+    *   Brasilien
+
+    *   Manaus
+
+    *   17
 
 
 *    *   43
@@ -2722,12 +2737,12 @@ worden ist.
 
     *   Kelowna
 
-    *   6
+    *   5
 
 
 *    *   45
 
-    *   Southport/Portage la Prairie
+    *   Portage La Prairie
 
     *   9
 
@@ -2736,7 +2751,7 @@ worden ist.
 
     *   St. Johns
 
-    *   7
+    *   6
 
 
 *    *   47
@@ -2758,7 +2773,7 @@ worden ist.
 *    *   49
 
     *
-    *   Albuquerque (New Mexico)
+    *   Albuquerque/Kirtland AFB (New Mexico)
 
     *   8
 
@@ -2766,23 +2781,23 @@ worden ist.
 *    *   50
 
     *
-    *   Carlisle Barraks (Pennsylvania)
+    *   Camp H.M. Smith/Halawa (Hawaii)
 
-    *   7
+    *   8
 
 
 *    *   51
 
     *
-    *   Colorado Springs (Colorado)
+    *   Cannon AFB/Clovis (New Mexico)
 
-    *   8
+    *   9
 
 
 *    *   52
 
     *
-    *   Dallas (Texas)
+    *   Colorado Springs (Colorado)
 
     *   8
 
@@ -2792,13 +2807,13 @@ worden ist.
     *
     *   Eglin AFB (Florida)
 
-    *   9
+    *   8
 
 
 *    *   54
 
     *
-    *   El Paso (Texas)
+    *   Fort Benning (Georgia)
 
     *   8
 
@@ -2806,17 +2821,17 @@ worden ist.
 *    *   55
 
     *
-    *   Fort Eisenhower (Fort Gordon alt) (Georgia)
+    *   Fort Bliss/El Paso (Texas)
 
-    *   9
+    *   8
 
 
 *    *   56
 
     *
-    *   Fort Benning (Georgia)
+    *   Fort Eisenhover (alt Fort Gordon) (Georgia)
 
-    *   9
+    *   8
 
 
 *    *   57
@@ -2824,7 +2839,7 @@ worden ist.
     *
     *   Fort Huachuca (Arizona)
 
-    *   10
+    *   9
 
 
 *    *   58
@@ -2846,33 +2861,31 @@ worden ist.
 *    *   60
 
     *
-    *   Fort Novosel (Fort Rucker alt)/Enterprise (Alabama)
+    *   Fort Liberty (alt Fort Bragg)/Fayetteville (North Carolina)
 
-    *   9
+    *   7
 
 
 *    *   61
 
     *
-    *   Fort Sill (Oklahoma)
+    *   Fort Rucker (Alabama)
 
-    *   11
+    *   9
 
 
 *    *   62
 
     *
-    *   Goodyear/Phoenix (Arizona)
+    *   Fort Sill/Lawton (Oklahoma)
 
-    *   8
+    *   9
 
 
 *    *   63
 
     *
-    *   Hampton Roads (Fort Eustis, Fort Gregg-Adams (Fort Lee alt)), Virginia
-        Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News
-        (Virginia)
+    *   Goodyear/Phoenix (Arizona)
 
     *   7
 
@@ -2880,23 +2893,24 @@ worden ist.
 *    *   64
 
     *
-    *   Honolulu (Hawaii)
+    *   Gulfport (Massachusetts)
 
-    *   9
+    *   8
 
 
 *    *   65
 
     *
-    *   Jacksonville/Mayport/Starke (Florida)
+    *   Großraum Hampton Roads/Fort Lee, Fort Eustice, Newport News, Langley
+        AFB, Norfolk, Suffolk, Virginia Beach (Virginia)
 
-    *   7
+    *   6
 
 
 *    *   66
 
     *
-    *   Kirtland AFB (New Mexico)
+    *   Honolulu (Hawaii)
 
     *   8
 
@@ -2904,47 +2918,47 @@ worden ist.
 *    *   67
 
     *
-    *   Maxwell AFB/Montgomery
+    *   Jacksonville/Mayport/Starke (Florida)
 
-    *   9
+    *   6
 
 
 *    *   68
 
     *
-    *   Milton (Florida)
+    *   Las Vegas/Nellis AFB (Nevada)
 
-    *   9
+    *   7
 
 
 *    *   69
 
     *
-    *   Orlando (Florida)
+    *   Maxwell (Alabama)
 
-    *   7
+    *   8
 
 
 *    *   70
 
     *
-    *   Panama City/Tyndall AFB (Florida)
+    *   Milton/Whitingfield (Florida)
 
-    *   9
+    *   8
 
 
 *    *   71
 
     *
-    *   Pensacola/Eglin AFB (Florida)
+    *   Panama City/Tyndall AFB (Florida)
 
-    *   9
+    *   8
 
 
 *    *   72
 
     *
-    *   Redstone/Huntsville (Alabama)
+    *   Pensacola (Florida)
 
     *   8
 
@@ -2952,41 +2966,57 @@ worden ist.
 *    *   73
 
     *
-    *   Sheppard AFB/Wichita Falls (Texas)
+    *   Redstone/ Huntsville (Alabama)
 
-    *   9
+    *   7
 
 
 *    *   74
 
     *
-    *   Tampa (Florida)
+    *   San Diego (California)
 
-    *   7
+    *   5
 
 
 *    *   75
 
     *
-    *   Tucson (Arizona)
+    *   Sheppard AFB/Wichita Falls (Texas)
 
-    *   8
+    *   9
 
 
 *    *   76
 
     *
-    *   Vandenberg SFB (Kalifornien)
+    *   Tampa (Florida)
 
-    *   7
+    *   8
 
 
 *    *   77
 
     *
+    *   Tempe (Arizona)
+
+    *   7
+
+
+*    *   78
+
+    *
+    *   Tucson (Arizona)
+
+    *   7
+
+
+*    *   79
+
+    *
     *   Yuma (Arizona)
 
-    *   10
+    *   9
 
 
 

@@ -4469,7 +4469,7 @@ endgültig entscheidet.
 
 
 ##### § 197a
-[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023603311)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023604131)
 
 (1) Gehört in einem Rechtszug weder der Kläger noch der Beklagte zu
 den in § 183 genannten Personen oder handelt es sich um ein Verfahren
@@ -4478,7 +4478,11 @@ Kosten nach den Vorschriften des Gerichtskostengesetzes erhoben; die
 §§ 184 bis 195 finden keine Anwendung; die §§ 154 bis 162 der
 Verwaltungsgerichtsordnung sind entsprechend anzuwenden. Wird die
 Klage zurückgenommen, findet § 161 Abs. 2 der
-Verwaltungsgerichtsordnung keine Anwendung.
+Verwaltungsgerichtsordnung keine Anwendung. § 163 der
+Verwaltungsgerichtsordnung ist mit der Maßgabe entsprechend
+anzuwenden, dass § 138 Satz 2 bis 5 an die Stelle von § 118 Absatz 2
+der Verwaltungsgerichtsordnung und § 197 Absatz 2 an die Stelle von §
+165 der Verwaltungsgerichtsordnung tritt.
 
 (2) Dem Beigeladenen werden die Kosten außer in den Fällen des § 154
 Abs. 3 der Verwaltungsgerichtsordnung auch auferlegt, soweit er

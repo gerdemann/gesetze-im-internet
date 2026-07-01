@@ -391,7 +391,7 @@ und der Anzahl der beförderten Fluggäste.
 
 
 ## § 11 Steuersatz
-[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001205123)
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001206123)
 
 (1) Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
@@ -400,7 +400,7 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 1
         zu diesem Gesetz
 
-    *   15,53 Euro
+    *   13,03 Euro
 
 
 *    *   2.
@@ -408,14 +408,14 @@ und der Anzahl der beförderten Fluggäste.
     *   in einem Land der Anlage 2
         zu diesem Gesetz
 
-    *   39,34 Euro
+    *   33,01 Euro
 
 
 *    *   3.
 
     *   in anderen Ländern
 
-    *   70,83 Euro.
+    *   59,43 Euro.
 
 
 

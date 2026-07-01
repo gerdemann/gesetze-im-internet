@@ -30,29 +30,25 @@ Justiz:
 
 
 ## § 1 Zahlungswege
-[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000202125)
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000203129)
 
 (1) Kosten des Deutschen Patent- und Markenamts und des
 Bundespatentgerichts können gezahlt werden
 
-1.  durch Bareinzahlung bei den Geldstellen des Deutschen Patent- und
-    Markenamts;
-
-
-2.  durch Überweisung auf ein Konto der zuständigen Bundeskasse für das
+1.  durch Überweisung auf ein Konto der zuständigen Bundeskasse für das
     Deutsche Patent- und Markenamt;
 
 
-3.  durch Bareinzahlung bei einem inländischen oder ausländischen
+2.  durch Bareinzahlung bei einem inländischen oder ausländischen
     Geldinstitut auf ein Konto der zuständigen Bundeskasse für das
     Deutsche Patent- und Markenamt;
 
 
-4.  durch Erteilung eines gültigen SEPA-Basislastschriftmandats mit
+3.  durch Erteilung eines gültigen SEPA-Basislastschriftmandats mit
     Angaben zum Verwendungszweck;
 
 
-5.  durch elektronisch übermittelte Zahlung auf ein Konto der zuständigen
+4.  durch elektronisch übermittelte Zahlung auf ein Konto der zuständigen
     Bundeskasse für das Deutsche Patent- und Markenamt in Marken- und
     Designverfahren, wenn das Zahlungsmittel für die betreffende
     Verfahrenshandlung auf der Internetseite des Deutschen Patent- und
@@ -62,7 +58,7 @@ Bundespatentgerichts können gezahlt werden
 
 
 (2) Bei Zahlungen an das Deutsche Patent- und Markenamt sollen für
-eine Erklärung nach Absatz 1 Nummer 4 die über die Internetseite
+eine Erklärung nach Absatz 1 Nummer 3 die über die Internetseite
 www.dpma.de bereitgestellten Formulare verwendet werden.
 
 (3) Das Deutsche Patent- und Markenamt macht im Blatt für Patent-,
@@ -73,23 +69,20 @@ Zahlung erforderlich sind.
 
 
 ## § 2 Zahlungstag
-[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000302125)
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000303129)
 
 Als Zahlungstag gilt
 
-1.  bei Bareinzahlung der Tag der Einzahlung;
-
-
-2.  bei Überweisungen der Tag, an dem der Betrag dem Konto der zuständigen
+1.  bei Überweisungen der Tag, an dem der Betrag dem Konto der zuständigen
     Bundeskasse für das Deutsche Patent- und Markenamt gutgeschrieben
     wird;
 
 
-3.  bei Bareinzahlung auf das Konto der zuständigen Bundeskasse für das
+2.  bei Bareinzahlung auf das Konto der zuständigen Bundeskasse für das
     Deutsche Patent- und Markenamt der Tag der Einzahlung;
 
 
-4.  bei Erteilung eines SEPA-Basislastschriftmandats mit Angaben zum
+3.  bei Erteilung eines SEPA-Basislastschriftmandats mit Angaben zum
     Verwendungszweck, der die Kosten umfasst, der Tag des Eingangs beim
     Deutschen Patent- und Markenamt oder beim Bundespatentgericht, bei
     zukünftig fällig werdenden Kosten der Tag der Fälligkeit, sofern die
@@ -100,7 +93,7 @@ Als Zahlungstag gilt
     gilt als Zahlungstag der Tag des Eingangs des Originals;
 
 
-5.  bei elektronisch übermittelter Zahlung der Tag, an dem der Betrag dem
+4.  bei elektronisch übermittelter Zahlung der Tag, an dem der Betrag dem
     Konto der zuständigen Bundeskasse für das Deutsche Patent- und
     Markenamt gutgeschrieben wird; bei Kartenzahlverfahren und dem Einsatz
     elektronischer Zahlungssysteme der Tag der Akzeptanz.
@@ -109,19 +102,8 @@ Als Zahlungstag gilt
 
 
 
-## § 3 Übergangsregelung
-[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000400000)
-
-Abbuchungsaufträge, die nach § 1 Nr. 4 der
-Patentkostenzahlungsverordnung vom 20. Dezember 2001 (BGBl. I S. 3853)
-für künftig fällig werdende Gebühren erteilt worden sind, werden am 1.
-Januar 2004 gegenstandslos. Für Einziehungsaufträge, die nach § 1 Nr.
-5 der in Satz 1 genannten Verordnung für künftig fällig werdende
-Gebühren erteilt worden sind, gilt § 2 Nr. 4 entsprechend.
-
-
-## § 4 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000500000)
+## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000501129)
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 

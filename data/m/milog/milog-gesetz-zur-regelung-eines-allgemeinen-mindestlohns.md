@@ -695,7 +695,7 @@ beträgt.
 
 
 ### § 19 Ausschluss von der Vergabe öffentlicher Aufträge
-[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002006125)
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002007131)
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
 Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
@@ -724,10 +724,11 @@ Erklärung der Bewerberin oder des Bewerbers können öffentliche
 Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des
 Wettbewerbsregisters anfordern.
 
-(4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der
-öffentliche Auftraggeber nach Absatz 2 für die Bewerberin oder den
-Bewerber, die oder der den Zuschlag erhalten soll, vor der
-Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
+(4) Bei Aufträgen mit einem geschätzten Auftragswert ab 50 000 Euro
+ohne Umsatzsteuer fordert der öffentliche Auftraggeber nach Absatz 2
+für die Bewerberin oder den Bewerber, die oder der den Zuschlag
+erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem
+Wettbewerbsregisters an.
 
 (5) Vor der Entscheidung über den Ausschluss ist die Bewerberin oder
 der Bewerber zu hören.

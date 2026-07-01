@@ -186,7 +186,7 @@ Als Arbeitnehmer im Sinne des Satzes 1 Nr. 1, 2, 7 und 9 gelten
 
 
 #### § 3 Sonstige Versicherte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010641126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010642126)
 
 Versicherungspflichtig sind Personen in der Zeit,
 
@@ -228,7 +228,7 @@ Versicherungspflichtig sind Personen in der Zeit,
     Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn
     der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von
     einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von
-    Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
 
 3a. für die sie von einem privaten Krankenversicherungsunternehmen, von
@@ -245,8 +245,8 @@ Versicherungspflichtig sind Personen in der Zeit,
     Blutstammzellen oder anderen Blutbestandteilen beziehen, wenn sie im
     letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig
     waren; der Zeitraum von einem Jahr verlängert sich um
-    Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1
-    Satz 1 des Zweiten Buches,
+    Anrechnungszeiten wegen des Bezugs von Grundsicherungsgeld nach § 19
+    Absatz 1 Satz 1 des Zweiten Buches,
 
 
 4.  für die sie Vorruhestandsgeld beziehen, wenn sie unmittelbar vor
@@ -498,7 +498,7 @@ Träger der Rentenversicherung erklären.
 
 
 #### § 6 Befreiung von der Versicherungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010924130)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010925130)
 
 (1) Von der Versicherungspflicht werden befreit
 
@@ -599,10 +599,10 @@ Arbeitgeber zu übergeben. § 8 Absatz 2 des Vierten Buches ist mit der
 Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht
 geringfügigen Beschäftigung nur erfolgt, wenn diese
 versicherungspflichtig ist. Der Antrag kann bei mehreren geringfügigen
-Beschäftigungen nur einheitlich gestellt werden und ist für die Dauer
-der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die im
-Rahmen betrieblicher Berufsbildung, nach dem
-Jugendfreiwilligendienstegesetz, nach dem
+Beschäftigungen nur einheitlich gestellt werden und ist vorbehaltlich
+des Absatzes 6 für die Dauer der Beschäftigungen bindend. Satz 1 gilt
+nicht für Personen, die im Rahmen betrieblicher Berufsbildung, nach
+dem Jugendfreiwilligendienstegesetz, nach dem
 Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis 4
 beschäftigt sind oder von der Möglichkeit einer stufenweisen
 Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften
@@ -680,6 +680,19 @@ versicherungspflichtige Tätigkeit, wenn diese infolge ihrer Eigenart
 oder vertraglich im Voraus zeitlich begrenzt ist und der
 Versorgungsträger für die Zeit der Tätigkeit den Erwerb
 einkommensbezogener Versorgungsanwartschaften gewährleistet.
+
+(6) Eine Befreiung von der Versicherungspflicht nach Absatz 1b Satz 1
+ist auf Antrag des Beschäftigten einmalig aufzuheben. Für den Antrag
+auf Aufhebung gelten Absatz 1b Satz 2 und 4 entsprechend. Die
+Aufhebung der Befreiung wirkt ab dem nächsten Monat, der auf den Monat
+der Antragstellung des Beschäftigten bei seinem Arbeitgeber folgt. Die
+Befreiung gilt als aufgehoben, wenn die nach § 28i Satz 5 des Vierten
+Buches zuständige Einzugsstelle nicht innerhalb eines Monats nach
+Eingang der Meldung des Arbeitgebers nach § 28a des Vierten Buches dem
+Antrag auf Aufhebung des Beschäftigten widerspricht. Insoweit finden
+Absatz 3 Satz 4 und Absatz 4 Satz 4 Anwendung. Der Antrag auf
+Aufhebung der Befreiung nach Satz 1 ist für die Dauer der
+Beschäftigungen bindend.
 
 
 ### Zweiter Abschnitt - Freiwillige Versicherung
@@ -863,7 +876,7 @@ Vorliegen der dortigen Anspruchsvoraussetzungen erfüllt.
 
 
 ##### § 11 Versicherungsrechtliche Voraussetzungen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011409126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011410126)
 
 (1) Für Leistungen zur Teilhabe haben Versicherte die
 versicherungsrechtlichen Voraussetzungen erfüllt, die bei
@@ -900,8 +913,8 @@ Voraussetzungen auch erfüllt, die
 
 § 55 Abs. 2 ist entsprechend anzuwenden. Der Zeitraum von zwei Jahren
 nach Nummer 1 verlängert sich um Anrechnungszeiten wegen des Bezugs
-von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches. Für die
-Leistungen nach § 15a an Kinder von Versicherten sind die
+von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
+Für die Leistungen nach § 15a an Kinder von Versicherten sind die
 versicherungsrechtlichen Voraussetzungen erfüllt, wenn der Versicherte
 die allgemeine Wartezeit oder die in Satz 1 oder in Absatz 1 genannten
 versicherungsrechtlichen Voraussetzungen erfüllt hat.
@@ -1471,7 +1484,7 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
 
 
 ###### § 20 Anspruch
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012327126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012328126)
 
 (1) Anspruch auf Übergangsgeld haben Versicherte, die
 
@@ -1509,10 +1522,11 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
 
 
 (2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten
-Buch oder Anspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches haben, haben abweichend von Absatz 1 Nummer 1 Anspruch
-auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen
-zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
+Buch oder Anspruch auf Grundsicherungsgeld nach § 19 Absatz 1 Satz 1
+des Zweiten Buches haben, haben abweichend von Absatz 1 Nummer 1
+Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der
+Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben
+können.
 
 (3) Versicherte, die Anspruch auf Krankengeld nach § 44 des Fünften
 Buches haben und ambulante Leistungen zur Prävention und Nachsorge in
@@ -1752,7 +1766,7 @@ an vor dem 1. Juli 1977 geschiedene Ehegatten.
 
 
 ##### § 34 Voraussetzungen für einen Rentenanspruch
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013717126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013718130)
 
 (1) Versicherte und ihre Hinterbliebenen haben Anspruch auf Rente,
 wenn die für die jeweilige Rente erforderliche
@@ -1774,6 +1788,10 @@ in eine
 
 
 
+Satz 1 Nummer 3 gilt nicht für einen Wechsel in eine Regelaltersrente,
+wenn der Anspruch auf Rente wegen Alters nur deshalb besteht, weil ein
+rechtswidriger begünstigender Verwaltungsakt nach § 45 des Zehnten
+Buches nicht zurückgenommen werden kann.
 
 
 #### Zweiter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -2758,7 +2776,7 @@ Zeiten auch Pflichtbeitragszeiten sind.
 
 
 ###### § 58 Anrechnungszeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016127126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016128126)
 
 (1) Anrechnungszeiten sind Zeiten, in denen Versicherte
 
@@ -2803,11 +2821,11 @@ Zeiten auch Pflichtbeitragszeiten sind.
     liegende Zurechnungszeit,
 
 
-6.  Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches bezogen haben;
-    dies gilt nicht für Empfänger der Leistung,
+6.  Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    bezogen haben; dies gilt nicht für Empfänger der Leistung,
 
-    a)  die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches nur
-        darlehensweise oder
+    a)  die Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+        nur darlehensweise oder
 
 
     b)  nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen
@@ -2822,8 +2840,8 @@ Zeiten, in denen Versicherte nach Vollendung des 25. Lebensjahres
 wegen des Bezugs von Sozialleistungen versicherungspflichtig waren,
 sind nicht Anrechnungszeiten nach Satz 1 Nummer 1 und 3. Nach
 Vollendung des 25. Lebensjahres schließen Anrechnungszeiten wegen des
-Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
-Anrechnungszeiten wegen Arbeitslosigkeit aus.
+Bezugs von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten
+Buches Anrechnungszeiten wegen Arbeitslosigkeit aus.
 
 (2) Anrechnungszeiten nach Absatz 1 Satz 1 Nr. 1 und 2 bis 3a liegen
 nur vor, wenn dadurch eine versicherte Beschäftigung oder selbständige
@@ -3752,7 +3770,7 @@ Entgeltpunkten abzusetzen.
 
 
 ###### § 74 Begrenzte Gesamtleistungsbewertung
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017813126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017814126)
 
 Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für
 jeden Kalendermonat mit Zeiten einer beruflichen Ausbildung,
@@ -3768,14 +3786,15 @@ Schul- oder Hochschulausbildung und Kalendermonate, die nur deshalb
 Anrechnungszeiten sind, weil
 
 1.  Arbeitslosigkeit nach dem 30. Juni 1978 vorgelegen hat, für die
-    Arbeitslosengeld oder Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-    Buches nicht oder Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
-    Buches nur darlehensweise gezahlt worden ist oder nur Leistungen nach
-    § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht worden sind,
+    Arbeitslosengeld oder Grundsicherungsgeld nach § 19 Absatz 1 Satz 1
+    des Zweiten Buches nicht oder Grundsicherungsgeld nach § 19 Absatz 1
+    Satz 1 des Zweiten Buches nur darlehensweise gezahlt worden ist oder
+    nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht
+    worden sind,
 
 
-1a. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches bezogen worden
-    ist,
+1a. Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches
+    bezogen worden ist,
 
 
 2.  Krankheit nach dem 31. Dezember 1983 vorgelegen hat und nicht Beiträge
@@ -3790,7 +3809,7 @@ werden nicht bewertet.
 
 
 ###### § 75 Entgeltpunkte für Zeiten nach Rentenbeginn
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017910126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017911130)
 
 (1) Für Zeiten nach Beginn der zu berechnenden Rente werden
 Entgeltpunkte nur für eine Zurechnungszeit und für Zuschläge an
@@ -3830,7 +3849,7 @@ Beitragszeiten 20 Jahre umfassen.
 Entgeltpunkten auch für Pflichtbeiträge nach § 119 des Zehnten Buches,
 wenn diese nach dem Beginn der Rente aufgrund eines
 Schadensereignisses vor Rentenbeginn gezahlt worden sind; § 34 Absatz
-2 Nummer 3 gilt nicht.
+2 Satz 1 Nummer 3 gilt nicht.
 
 
 ###### § 76 Zuschläge oder Abschläge beim Versorgungsausgleich
@@ -9331,7 +9350,7 @@ Beschäftigung behandelt werden.
 
 
 ###### § 166 Beitragspflichtige Einnahmen sonstiger Versicherter
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063616126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063617126)
 
 (1) Beitragspflichtige Einnahmen sind
 
@@ -9379,9 +9398,9 @@ Beschäftigung behandelt werden.
     ist,
 
 
-2a. bei Personen, die im Anschluss an den Bezug von Bürgergeld nach § 19
-    Absatz 1 Satz 1 des Zweiten Buches Verletztengeld beziehen, monatlich
-    der Betrag von 205 Euro,
+2a. bei Personen, die im Anschluss an den Bezug von Grundsicherungsgeld
+    nach § 19 Absatz 1 Satz 1 des Zweiten Buches Verletztengeld beziehen,
+    monatlich der Betrag von 205 Euro,
 
 
 2b. bei Personen, die Krankengeld nach § 44a des Fünften Buches beziehen,
@@ -12240,7 +12259,7 @@ mehr oder nur noch übergangsweise eintreten können.
 
 
 ##### § 229 Versicherungspflicht
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033422126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033423126)
 
 (1) Personen, die am 31. Dezember 1991 als
 
@@ -12294,9 +12313,10 @@ versicherungspflichtig waren und nach § 4 Abs. 3a die Voraussetzungen
 für die Versicherungspflicht nicht mehr erfüllen, bleiben für die Zeit
 des Bezugs der jeweiligen Sozialleistung versicherungspflichtig.
 
-(4a) Als Zeit des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des
-Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II bis zum 31.
-Dezember 2022.
+(4a) Als Zeit des Bezugs von Grundsicherungsgeld nach § 19 Absatz 1
+Satz 1 des Zweiten Buches gilt auch der Bezug von Arbeitslosengeld II
+bis zum 31. Dezember 2022 sowie der Bezug von Bürgergeld bis zum 30.
+Juni 2026.
 
 (5) Personen, die am 31. Dezember 2012 als Beschäftigte nach § 5
 Absatz 2 in der bis zum 31. Dezember 2012 geltenden Fassung wegen
@@ -16097,7 +16117,7 @@ waren.
 
 
 ##### § 252 Anrechnungszeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035717126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035718126)
 
 (1) Anrechnungszeiten sind auch Zeiten, in denen Versicherte
 
@@ -16278,6 +16298,14 @@ die
 Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II nach
 Vollendung des 25. Lebensjahres schließen Anrechnungszeiten wegen
 Arbeitslosigkeit aus.
+
+(11) Anrechnungszeiten sind auch Zeiten, in denen Versicherte in der
+Zeit vom 1. Januar 2023 bis zum 30. Juni 2026 Bürgergeld bezogen
+haben. Dies gilt nicht für Bezieher von Bürgergeld, die Bürgergeld nur
+darlehensweise oder nur Leistungen nach § 24 Absatz 3 Satz 1 des
+Zweiten Buches bezogen haben. Anrechnungszeiten wegen des Bezugs von
+Bürgergeld nach Vollendung des 25. Lebensjahres schließen
+Anrechnungszeiten wegen Arbeitslosigkeit aus.
 
 
 ##### § 252a Anrechnungszeiten im Beitrittsgebiet
@@ -17334,7 +17362,7 @@ ist, nicht als vollwertige Pflichtbeiträge.
 
 
 ##### § 263 Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036810130)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036811126)
 
 (1) Bei der Gesamtleistungsbewertung für beitragsfreie und
 beitragsgeminderte Zeiten werden Berücksichtigungszeiten wegen
@@ -17350,18 +17378,19 @@ sei denn, dass er als Beitragszeit bereits einen höheren Wert hat.
 
 (2a) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für
 jeden Kalendermonat mit Anrechnungszeiten wegen Krankheit und
-Arbeitslosigkeit auf 80 vom Hundert begrenzt. Kalendermonate, die nur
+Arbeitslosigkeit auf 80 Prozent begrenzt. Kalendermonate, die nur
 deshalb Anrechnungszeiten sind, weil Arbeitslosigkeit vor dem 1. März
 1990 im Beitrittsgebiet, jedoch nicht vor dem 1. Juli 1978, vorgelegen
 hat, werden nicht bewertet. Kalendermonate, die nur deshalb
 Anrechnungszeiten sind, weil Arbeitslosigkeit nach dem 30. Juni 1978
-vorgelegen hat, für die vor dem 1. Januar 2023 Arbeitslosenhilfe oder
-Arbeitslosengeld II nicht oder Arbeitslosengeld II nur darlehensweise
-gezahlt worden ist oder nur Leistungen nach § 24 Absatz 3 Satz 1 des
-Zweiten Buches erbracht worden sind, werden nicht bewertet.
-Kalendermonate, die nur deshalb Anrechnungszeiten sind, weil
-Arbeitslosengeld II bis zum 31. Dezember 2022 bezogen worden ist,
-werden nicht bewertet.
+vorgelegen hat, für die vor dem 1. Juli 2026 Arbeitslosenhilfe,
+Arbeitslosengeld II oder Bürgergeld nicht oder Arbeitslosengeld II
+oder Bürgergeld nur darlehensweise gezahlt worden ist oder nur
+Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches erbracht
+worden sind, werden nicht bewertet. Kalendermonate, die nur deshalb
+Anrechnungszeiten sind, weil Arbeitslosengeld II bis zum 31. Dezember
+2022 oder Bürgergeld bis zum 30. Juni 2026 bezogen worden ist, werden
+nicht bewertet.
 
 (3) Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für
 jeden Kalendermonat mit Anrechnungszeiten wegen einer Schul- oder

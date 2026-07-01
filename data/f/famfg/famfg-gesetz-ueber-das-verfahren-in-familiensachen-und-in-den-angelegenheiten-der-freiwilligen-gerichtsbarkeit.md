@@ -2023,6 +2023,42 @@ Das Gericht soll die Kosten eines ohne Erfolg eingelegten
 Rechtsmittels dem Beteiligten auferlegen, der es eingelegt hat.
 
 
+#### § 84a Änderung der Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE053300131)
+
+(1) Wird die Wertfestsetzung für die Gerichtsgebühren
+
+1.  nach § 55 Absatz 3 des Gesetzes über Gerichtskosten in Familiensachen,
+
+
+2.  nach § 79 Absatz 2 des Gerichts- und Notarkostengesetzes,
+
+
+3.  infolge einer Beschwerde gegen die Festsetzung des Verfahrenswerts
+    nach § 59 des Gesetzes über Gerichtskosten in Familiensachen oder
+
+
+4.  infolge einer Beschwerde gegen die Festsetzung des Geschäftswerts nach
+    § 83 des Gerichts- und Notarkostengesetzes
+
+
+
+geändert, so kann das Gericht seine getroffene Kostenentscheidung von
+Amts wegen ändern. Wird die Kostenentscheidung nach Satz 1 geändert,
+ist auch eine bereits erfolgte Kostenfestsetzung von Amts wegen zu
+ändern.
+
+(2) Für die Entscheidung nach Absatz 1 Satz 1 gilt § 42 Absatz 2
+entsprechend. Vor der Entscheidung sind die Beteiligten zu hören. Die
+Änderung der Kostenentscheidung ist nur innerhalb von sechs Monaten
+zulässig, nachdem die Änderung der Wertfestsetzung Rechtskraft erlangt
+hat. Die Änderung der Kostenentscheidung hat keine Änderung der
+übrigen Teile des Beschlusses zur Folge.
+
+(3) Entscheidungen nach Absatz 1 Satz 1 sind unanfechtbar. Auf
+Entscheidungen nach Absatz 1 Satz 2 ist § 85 anzuwenden.
+
+
 #### § 85 Kostenfestsetzung
 [Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008800000)
 
@@ -6006,7 +6042,7 @@ Schuldtitel errichtet worden ist.
 
 
 ##### § 250 Antrag
-[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025601125)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025602131)
 
 (1) Der Antrag muss enthalten:
 
@@ -6052,16 +6088,17 @@ Schuldtitel errichtet worden ist.
 
 
 12. die Erklärung, dass Unterhalt nicht für Zeiträume verlangt wird, für
-    die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Bürgergeld
-    nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, Hilfe
-    zur Erziehung oder Eingliederungshilfe nach dem Achten Buch
-    Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder
-    Unterhalt nach § 1607 Abs. 2 oder Abs. 3 des Bürgerlichen Gesetzbuchs
-    erhalten hat, oder, soweit Unterhalt aus übergegangenem Recht oder
-    nach § 94 Abs. 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33
-    Abs. 2 Satz 4 des Zweiten Buches Sozialgesetzbuch oder § 7 Abs. 4 Satz
-    1 des Unterhaltsvorschussgesetzes verlangt wird, die Erklärung, dass
-    der beantragte Unterhalt die Leistung an oder für das Kind nicht
+    die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch,
+    Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches
+    Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe nach
+    dem Achten Buch Sozialgesetzbuch, Leistungen nach dem
+    Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder Abs.
+    3 des Bürgerlichen Gesetzbuchs erhalten hat, oder, soweit Unterhalt
+    aus übergegangenem Recht oder nach § 94 Abs. 4 Satz 2 des Zwölften
+    Buches Sozialgesetzbuch, § 33 Abs. 2 Satz 4 des Zweiten Buches
+    Sozialgesetzbuch oder § 7 Abs. 4 Satz 1 des
+    Unterhaltsvorschussgesetzes verlangt wird, die Erklärung, dass der
+    beantragte Unterhalt die Leistung an oder für das Kind nicht
     übersteigt;
 
 

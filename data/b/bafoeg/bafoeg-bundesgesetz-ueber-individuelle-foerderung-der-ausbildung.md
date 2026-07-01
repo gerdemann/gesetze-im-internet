@@ -38,7 +38,7 @@ nicht zur Verfügung stehen.
 
 
 ### § 2 Ausbildungsstätten
-[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001317311)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001318130)
 
 (1) Ausbildungsförderung wird geleistet für den Besuch von
 
@@ -154,8 +154,9 @@ als eigener Ausbildungsabschnitt.
 (6) Ausbildungsförderung wird nicht geleistet, wenn der Auszubildende
 
 1.  Unterhaltsgeld, Arbeitslosengeld bei beruflicher Weiterbildung nach
-    dem Dritten Buch Sozialgesetzbuch oder Bürgergeld bei beruflicher
-    Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch erhält,
+    dem Dritten Buch Sozialgesetzbuch oder Grundsicherungsgeld bei
+    beruflicher Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch
+    erhält,
 
 
 2.  Leistungen von den Begabtenförderungswerken erhält,

@@ -109,7 +109,7 @@ der auf den Abgleichszeitraum folgt.
 
 
 ## § 2 Verfahren bei den Auskunftsstellen und der Datenstelle der Rentenversicherung
-[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000205119)
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000206126)
 
 (1) Die Auskunftsstellen und die Datenstelle der Rentenversicherung
 führen den Datenabgleich nach den Absätzen 2 bis 7 durch und
@@ -155,8 +155,8 @@ Daten mit den bei ihm gespeicherten Daten ab zur Feststellung
 
 (5) Die Zentrale Zulagenstelle für Altersvermögen gleicht die ihr
 übermittelten Daten mit den bei ihr gespeicherten Daten ab zur
-Feststellung ob und in welcher Höhe ein Kapital nach § 12 Absatz 2
-Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch nicht mehr dem
+Feststellung ob und in welcher Höhe ein Kapital nach § 12 Absatz 1
+Satz 2 Nummer 3 des Zweiten Buches Sozialgesetzbuch nicht mehr dem
 Zweck einer geförderten zusätzlichen Altersvorsorge im Sinne des § 10a
 oder des Abschnitts XI des Einkommensteuergesetzes dient.
 

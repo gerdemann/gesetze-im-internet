@@ -165,19 +165,17 @@ ist.
 
 
 ## § 9 Beschleunigte Vergabe- und Nachprüfungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001001000)
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001002130)
 
 (1)(außer Kraft)
 
 (2) Für Nachprüfungsverfahren vor der Vergabekammer sind für Vorhaben
-nach § 2 die vergaberechtlichen Vorschriften mit folgenden Maßgaben
-anzuwenden:
+nach § 2 dieses Gesetzes in der vor dem 1. Juli 2025 geltenden Fassung
+die vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
 
 1.  Ergänzend zu § 166 Absatz 1 Satz 3 des Gesetzes gegen
     Wettbewerbsbeschränkungen kann auch nach Lage der Akten entschieden
-    werden, soweit dies der Beschleunigung dient. Die mündliche
-    Verhandlung kann im Wege der Bild- und Tonübertragung nach § 128a der
-    Zivilprozessordnung durchgeführt werden.
+    werden, soweit dies der Beschleunigung dient.
 
 
 2.  Abweichend von § 167 Absatz 1 Satz 1 des Gesetzes gegen
@@ -219,7 +217,8 @@ anzuwenden:
 
 
 
-(3) Für die sofortige Beschwerde sind für Vorhaben nach § 2 die
+(3) Für die sofortige Beschwerde sind für Vorhaben nach § 2 dieses
+Gesetzes in der vor dem 1. Juli 2025 geltenden Fassung die
 vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
 
 1.  § 171 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit
@@ -232,17 +231,7 @@ vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
     einer Notfrist von einer Woche einzulegen.
 
 
-3.  Abweichend von § 173 Absatz 1 Satz 2 und 3 des Gesetzes gegen
-    Wettbewerbsbeschränkungen entfällt die aufschiebende Wirkung gegenüber
-    der Entscheidung der Vergabekammer bereits eine Woche nach Ablauf der
-    Beschwerdefrist und kann nur für bis zu sechs Wochen verlängert
-    werden. Bei der Abwägung nach § 173 Absatz 2 Satz 1 des Gesetzes gegen
-    Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das
-    besondere Interesse nach § 3 zu berücksichtigen, das in der Regel
-    überwiegt.
-
-
-4.  Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen
+3.  Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen
     Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das
     besondere Interesse nach § 3 zu berücksichtigen, das in der Regel
     überwiegt. Abweichend von § 176 Absatz 3 Satz 1 des Gesetzes gegen
@@ -253,21 +242,15 @@ vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
     der Regel überwiegt.
 
 
-5.  § 177 des Gesetzes gegen Wettbewerbsbeschränkungen ist nicht
-    anzuwenden.
-
-
-6.  Ergänzend zu § 175 Absatz 2 in Verbindung mit § 65 Absatz 1 des
+4.  Ergänzend zu § 175 Absatz 2 in Verbindung mit § 65 Absatz 1 des
     Gesetzes gegen Wettbewerbsbeschränkungen kann das Gericht im
     Ausnahmefall nach Lage der Akten entscheiden, insbesondere wenn dies
     der Beschleunigung dient und kein unmittelbarer Eindruck der Parteien
     oder direkter Austausch des tatsächlichen und rechtlichen Vortrags
-    erforderlich ist. Die mündliche Verhandlung kann im Wege der Bild- und
-    Tonübertragung nach § 128a der Zivilprozessordnung durchgeführt
-    werden.
+    erforderlich ist.
 
 
-7.  § 178 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe
+5.  § 178 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe
     anzuwenden, dass die Beschwerdeentscheidung innerhalb einer Frist von
     fünf Wochen ab Eingang der sofortigen Beschwerde zu treffen und zu
     begründen ist. Bei besonderen tatsächlichen oder rechtlichen
@@ -278,7 +261,7 @@ vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
     selbst.
 
 
-8.  Für das Beschwerdegericht gilt Nummer 5 entsprechend.
+6.  Für das Beschwerdegericht gilt Absatz 2 Nummer 5 entsprechend.
 
 
 

@@ -744,18 +744,21 @@ ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt
 entsprechend.
 
 
-#### § 30 Öffentliche Ausschreibung
-[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004001360)
+#### § 30 Öffentliche Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004002123)
 
 Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine
-Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit
-Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts
-oder besondere Umstände eine Ausnahme rechtfertigen.
-Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche
-Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme
-eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven,
-transparenten und nichtdiskriminierenden Kriterien auswählt und zur
-Abgabe von Angeboten auffordert.
+Öffentliche Ausschreibung, eine Beschränkte Ausschreibung mit
+Teilnahmewettbewerb, eine Verhandlungsvergabe oder eine freihändige
+Vergabe jeweils mit Teilnahmewettbewerb oder Bekanntmachung
+vorausgehen, sofern nicht die Natur des Geschäfts oder besondere
+Umstände eine Ausnahme rechtfertigen. Teilnahmewettbewerb ist ein
+Verfahren, bei dem der öffentliche Auftraggeber nach vorheriger
+öffentlicher Aufforderung zur Teilnahme eine beschränkte Anzahl von
+geeigneten Unternehmen nach objektiven, transparenten und
+nichtdiskriminierenden Kriterien auswählt und zur Abgabe von Angeboten
+auffordert. Bekanntmachung ist eine öffentliche Aufforderung zur
+Abgabe von Angeboten.
 
 
 #### § 31 Änderung von Verträgen, Veränderung von Ansprüchen
