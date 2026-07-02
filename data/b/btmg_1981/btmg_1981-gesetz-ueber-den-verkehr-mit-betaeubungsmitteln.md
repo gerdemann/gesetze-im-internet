@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 19.5.2026 I Nr. 150
 
+Änderung durch
+:   Art. 8 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000101308)

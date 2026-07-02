@@ -1411,11 +1411,6 @@ zuständigen Behörde mindestens alle zwei Jahre oder auf Anforderung
 eine Liste der belieferten Einrichtungen der medizinischen Versorgung.
 
 
-### § 8f (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004402116)
-
-
-
 ### § 8f Untersuchungslabore
 [Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004302130)
 

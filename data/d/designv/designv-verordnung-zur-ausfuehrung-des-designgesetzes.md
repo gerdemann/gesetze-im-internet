@@ -171,7 +171,7 @@ zusammengefassten Designs.
     b)  falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
         Firma des Anmelders, wie sie im Handelsregister eingetragen ist, sowie
         die Anschrift des Firmensitzes unter Angabe von Straße, Hausnummer,
-        Postleitzahl und Ort.
+        Postleitzahl und Ort,
 
 
 

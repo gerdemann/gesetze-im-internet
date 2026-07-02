@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 9.6.2026 I Nr. 173
 
+Änderung durch
+:   Art. 3a G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000100312)

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
 
+Änderung durch
+:   Art. 7 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000100310)

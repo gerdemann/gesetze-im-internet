@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8z4 G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 3 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Bestimmung
 [Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000101307)

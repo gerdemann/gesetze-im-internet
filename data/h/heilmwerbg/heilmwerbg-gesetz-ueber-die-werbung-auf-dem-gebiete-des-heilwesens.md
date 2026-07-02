@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 5 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 
 ## § 1
 [Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE000617116)

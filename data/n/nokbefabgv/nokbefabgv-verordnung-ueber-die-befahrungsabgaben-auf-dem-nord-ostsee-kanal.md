@@ -16,16 +16,13 @@ Fundstelle
 :   BAnz: 1993, Nr 185, 9285
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.6.2023 I Nr. 171
-
-Änderung durch
-:   Art. 1 V v. 25.6.2026 I Nr. 194 mWv 1.7.2026 noch nicht berücksichtigt
+:   Art. 1 V v. 25.6.2026 I Nr. 194
 
 V ursprünglich aufgeh. durch
 :   Art. 4 Abs. 143 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 V ursprünglich aufgeh. durch
-:   Art. 4 Abs. 136 G v. 18.7.2016 I 1666 mWv 1.10.2021; Art. 4 Abs. 124 aufgeh. durch Art. 3 Nr. 3 G v. 3.6.2021 I 1465 mWv 1.10.2021; dadurch ist die Geltung dieser V über den 30.9.2021 hinaus verlängert worden
+:   Art. 4 Abs. 136 G v. 18.7.2016 I 1666 mWv 1.10.2021; Art. 4 Abs. 136 aufgeh. durch Art. 3 Nr. 3 G v. 3.6.2021 I 1465 mWv 1.10.2021; dadurch ist die Geltung dieser V über den 30.9.2021 hinaus verlängert worden
 
 
 ## Eingangsformel
@@ -200,13 +197,13 @@ Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
 
 ## § 8
-[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000906125)
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000907119)
 
-§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 30. Juni 2026 mit
-der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50
-Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies
-gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen
-gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
+§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 31. Dezember 2030
+mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von
+50 Prozent der in der Anlage genannten Beträge zu entrichten sind.
+Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines
+Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 
 (zu § 1 Absatz 1)
 

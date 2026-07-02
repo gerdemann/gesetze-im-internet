@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 20.7.2022 I 1174
 
+Änderung durch
+:   Art. 4 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+
 Stand: Ersetzt G 2124-8 v. 18.3.1968 I 228 (PharmTAG)
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
 Europäischen Parlaments und des Rates vom 7. September 2005 über die
