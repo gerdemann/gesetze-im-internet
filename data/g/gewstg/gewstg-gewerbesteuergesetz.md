@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 28.2.2025 I Nr. 69
 
+Änderung durch
+:   Art. 8 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt I - Allgemeines
 [Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000104301)
@@ -1349,7 +1352,7 @@ festsetzen.
 
 
 ### § 16 Hebesatz
-[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003108140)
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003109123)
 
 (1) Die Steuer wird auf Grund des Steuermessbetrags (§ 14) mit einem
 Prozentsatz (Hebesatz) festgesetzt und erhoben, der von der
@@ -1369,7 +1372,7 @@ Festsetzung nicht überschreitet.
 (4)
 1Der Hebesatz muss für alle in der Gemeinde vorhandenen Unternehmen
 der gleiche sein.
-2Er beträgt 200 Prozent, wenn die Gemeinde nicht einen höheren
+2Er beträgt 280 Prozent, wenn die Gemeinde nicht einen höheren
 Hebesatz bestimmt hat.
 3Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung
 oder die von ihr bestimmte Stelle für die von der Änderung betroffenen
@@ -1883,7 +1886,7 @@ Unstimmigkeiten im Wortlaut zu beseitigen.
 
 
 ### § 36 Zeitlicher Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE006206123)
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE006207123)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -1975,14 +1978,18 @@ anzuwenden, die nach dem 31. Dezember 2019 geleistet werden.
 2020 (BGBl. I S. 3096) ist auch für Erhebungszeiträume vor 2020
 anzuwenden.
 
-(5b) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen
+(5b) § 16 Absatz 4 Satz 2 in der Fassung des Artikels 7 des Gesetzes
+vom 29. Juni 2026 (BGBl. 2026 I Nr. 197) ist erstmals für den
+Erhebungszeitraum 2027 anzuwenden.
+
+(5c) § 19 Absatz 3 Satz 2 und 3 ist auf Antrag des Steuerpflichtigen
 mit der Maßgabe anzuwenden, dass für die Erhebungszeiträume 2019 bis
 2021 der 21. Kalendermonat, für den Erhebungszeitraum 2022 der 20.
 Kalendermonat, für den Erhebungszeitraum 2023 der 18. Kalendermonat
 und für den Erhebungszeitraum 2024 der 17. Kalendermonat an die Stelle
 des 15. Kalendermonats tritt.
 
-(5c) § 29 Absatz 1 Nummer 3 und § 31 Absatz 3 in der jeweiligen
+(5d) § 29 Absatz 1 Nummer 3 und § 31 Absatz 3 in der jeweiligen
 Fassung des Artikels 9 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I
 Nr. 387) sind erstmals für den Erhebungszeitraum 2025 anzuwenden.
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 9.6.2026 I Nr. 173
 
 Änderung durch
-:   Art. 3a G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+:   Art. 3a G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

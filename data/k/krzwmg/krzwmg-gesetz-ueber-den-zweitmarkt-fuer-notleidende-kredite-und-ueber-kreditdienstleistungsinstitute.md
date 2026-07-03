@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 411, 2
 
-Änderung durch
-:   Art. 20 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 20 G v. 25.3.2026 I Nr. 81
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

@@ -36,6 +36,9 @@ Mittelbare änderung durch
 Änderung durch
 :   Art. 13 G v. 22.6.2026 I Nr. 192 ist berücksichtigt
 
+Änderung durch
+:   Art. 3 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Einleitende Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000102123)
@@ -6326,7 +6329,7 @@ unberührt.
 
 
 ##### § 117a Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053502123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053503123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Erfüllung
 der Verpflichtungen aus innerstaatlich anwendbaren völkerrechtlichen
@@ -6341,6 +6344,32 @@ Regelungen zu treffen über
 
 2.  die Übermittlung dieser Daten nach amtlich vorgeschriebenem Datensatz
     im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern,
+
+
+2a. in Bezug auf US-amerikanische meldepflichtige Konten im Sinne von
+    Artikel 1 Absatz 1 Doppelbuchstabe dd des Abkommens vom 31. Mai 2013
+    zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten
+    von Amerika zur Förderung der Steuerehrlichkeit bei internationalen
+    Sachverhalten und hinsichtlich der als Gesetz über die
+    Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen
+    Informations- und Meldebestimmungen für jede im Sinne von Artikel 1
+    Absatz 1 Doppelbuchstabe gg dieses Abkommens spezifizierte US-
+    amerikanische Person, für die die US-amerikanische
+    Steueridentifikationsnummer nicht vorliegt, die Übermittlung
+
+    a)  der Steueridentifikationsnummer oder eines funktionalen Äquivalents
+        jedes Ansässigkeitsstaates, wenn die elektronisch durchsuchbaren
+        Kontoinformationen des in dem Abkommen dem Grunde nach bestimmten
+        Dritten diese Angaben enthalten, und
+
+
+    b)  des Geburtsdatums
+
+
+
+    durch in dem Abkommen dem Grunde nach bestimmte Dritte nach amtlich
+    vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das
+    Bundeszentralamt für Steuern,
 
 
 3.  die Weiterleitung dieser Daten an die zuständige Behörde des anderen

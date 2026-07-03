@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 349
 
-Geändert durch
-:   Art. 46 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 19 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 19 G v. 25.3.2026 I Nr. 81
 
 [^F827912_01_BJNR15D0A0023]:     Diese Verordnung dient der weiteren Umsetzung von Artikel 4 Absatz 3
     und 5 der Richtlinie (EU) 2019/2034 des Europäischen Parlaments und

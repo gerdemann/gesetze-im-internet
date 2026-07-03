@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl. I: 2024, Nr. 438, 2
 
 Zuletzt geändert durch
-:   Art. 49 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 21 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 25.3.2026 I Nr. 81
 
 
 ## Kapitel 1 - Allgemeine Maßnahmen
@@ -1670,14 +1667,14 @@ und der Deutschen Bundesbank gilt auch für
 
 4.  Personen und Unternehmen, die mit einer Person oder einem Unternehmen
     nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind.
-    Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für
-    die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder
-    Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs,
-    jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.
 
 
 
-Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die
+Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für
+die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder
+Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs,
+jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.Auf
+Verlangen der Bundesanstalt hat der Vorlagepflichtige die
 einzureichenden Unterlagen nach Artikel 41 oder Artikel 83 der
 Verordnung (EU) 2023/1114 in Verbindung mit den technischen
 Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4

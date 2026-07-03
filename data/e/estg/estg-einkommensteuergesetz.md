@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 26.5.2026 I Nr. 156
 
+Änderung durch
+:   Art. 7 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 [Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000108140)
@@ -480,7 +483,7 @@ durchzuführen.
 
 
 #### § 3
-[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052404123)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052407123)
 
 Steuerfrei sind
 
@@ -1756,9 +1759,10 @@ Steuerfrei sind
     anzuwenden;
 
 
-73. Prämienzahlungen der Stiftung Deutsche Sporthilfe, die für
-    Platzierungen bei Olympischen oder Paralympischen Spielen gewährt
-    werden.
+73. Prämienzahlungen der Stiftung Deutsche Sporthilfe sowie vergleichbarer
+    gemeinnütziger Organisationen der Länder oder Leistungen unmittelbar
+    aus Haushaltsmitteln der Länder, die für Platzierungen bei Olympischen
+    oder Paralympischen Spielen gewährt werden.
 
 
 
