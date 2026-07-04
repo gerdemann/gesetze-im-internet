@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 10 G v. 20.7.2022 I 1174
 
 Änderung durch
-:   Art. 4 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+:   Art. 4 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 2124-8 v. 18.3.1968 I 228 (PharmTAG)
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
@@ -229,7 +229,7 @@ des pharmazeutisch-technischen Assistenten umfasst insbesondere
 
 
 ### § 7 Befugnisse der pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten
-[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000801129)
 
 (1) Die pharmazeutisch-technischen Assistentinnen und pharmazeutisch-
 technischen Assistenten sind befugt, in der Apotheke unter der
@@ -259,9 +259,10 @@ Arzneimittelversorgung der Bevölkerung Folgendes näher regeln:
 
 
 
-(3) Zur Vertretung in der Leitung einer Apotheke sind pharmazeutisch-
+(3) Zur Vertretung der Leitung einer Apotheke sind pharmazeutisch-
 technische Assistentinnen und pharmazeutisch-technische Assistenten
-nicht befugt.
+nicht befugt, sofern nicht in § 29 des Apothekengesetzes Abweichendes
+geregelt ist.
 
 
 ## Abschnitt 3 - Ausbildung

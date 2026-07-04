@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 19.5.2026 I Nr. 150
 
 Änderung durch
-:   Art. 8 G v. 26.6.2026 I Nr. 195 noch nicht berücksichtigt
+:   Art. 8 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -1105,14 +1105,19 @@ Tierärzten.
 
 
 ### § 15 Sicherungsmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002802305)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002803129)
 
 Wer am Betäubungsmittelverkehr teilnimmt, hat die Betäubungsmittel,
 die sich in seinem Besitz befinden, gesondert aufzubewahren und gegen
-unbefugte Entnahme zu sichern. Das Bundesinstitut für Arzneimittel und
-Medizinprodukte kann Sicherungsmaßnahmen anordnen, soweit es nach Art
-oder Umfang des Betäubungsmittelverkehrs, dem Gefährdungsgrad oder der
-Menge der Betäubungsmittel erforderlich ist.
+unbefugte Entnahme zu sichern. Abweichend von Satz 1 sind die in
+Anlage III bezeichneten Betäubungsmittel in Form von
+Fertigarzneimitteln nicht gesondert aufzubewahren, wenn im Rahmen
+einer automatisierten EDV-gestützten chaotischen Lagerhaltung eine
+separate Bestands- und Nachweisinformation technisch gewährleistet
+ist. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann
+Sicherungsmaßnahmen anordnen, soweit es nach Art oder Umfang des
+Betäubungsmittelverkehrs, dem Gefährdungsgrad oder der Menge der
+Betäubungsmittel erforderlich ist.
 
 
 ### § 16 Vernichtung
@@ -1879,7 +1884,7 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 
 
 ### § 32 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004808130)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004809129)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1929,7 +1934,7 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
     kennzeichnet,
 
 
-9.  einer vollziehbaren Anordnung nach § 15 Satz 2 zuwiderhandelt,
+9.  einer vollziehbaren Anordnung nach § 15 Satz 3 zuwiderhandelt,
 
 
 10. entgegen § 16 Abs. 1 Betäubungsmittel nicht vorschriftsmäßig
