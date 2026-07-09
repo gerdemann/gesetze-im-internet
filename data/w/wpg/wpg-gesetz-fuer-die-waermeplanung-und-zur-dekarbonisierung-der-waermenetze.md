@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 394
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2025 I Nr. 348
+:   Art. 8 G v. 11.3.2026 I Nr. 66
 
 
 ## Teil 1 - Allgemeine Bestimmungen
