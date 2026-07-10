@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 12.5.2026 I Nr. 139
 
+Änderung durch
+:   Art. 1 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000103377)

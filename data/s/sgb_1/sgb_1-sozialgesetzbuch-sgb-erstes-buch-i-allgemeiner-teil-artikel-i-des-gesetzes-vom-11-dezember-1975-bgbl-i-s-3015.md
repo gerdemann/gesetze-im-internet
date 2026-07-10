@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 62 Abs. 3 G v. 4.2.2026 I Nr. 33
+:   Art. 15 Abs. 12 G v. 3.7.2026 I Nr. 199
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -1228,7 +1228,7 @@ Zustimmung des gesetzlichen Vertreters.
 
 
 #### § 36a Elektronische Kommunikation
-[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010510126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010511126)
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
@@ -1288,26 +1288,12 @@ unmittelbar durch die Behörde ermöglicht, ist nicht zulässig.
         Rechtsverordnung eingerichtet wurde;
 
 
-    d)  mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
-
-
 
 
 
 3.  bei elektronischen Verwaltungsakten oder sonstigen elektronischen
-    Dokumenten der Behörde
-
-    a)  indem diese mit dem qualifizierten elektronischen Siegel der Behörde
-        versehen werden;
-
-
-    b)  durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-
-        Mail-Gesetzes, bei der die Bestätigung des akkreditierten
-        Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos
-        erkennen lässt.
-
-
-
+    Dokumenten der Behörde, indem diese mit dem qualifizierten
+    elektronischen Siegel der Behörde versehen werden.
 
 
 

@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Titel - Gerichtsbarkeit
 [Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000100666)
@@ -4125,14 +4128,16 @@ unanfechtbar.
 
 
 ### § 170
-[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019102160)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019103126)
 
 (1) Verhandlungen, Erörterungen und Anhörungen in Familiensachen sowie
 in Angelegenheiten der freiwilligen Gerichtsbarkeit sind nicht
 öffentlich. Das Gericht kann die Öffentlichkeit zulassen, jedoch nicht
 gegen den Willen eines Beteiligten. In Betreuungs- und
 Unterbringungssachen ist auf Verlangen des Betroffenen einer Person
-seines Vertrauens die Anwesenheit zu gestatten.
+seines Vertrauens die Anwesenheit zu gestatten. In Gewaltschutzsachen
+soll das Gericht auf Verlangen des Antragstellers einer Person seines
+Vertrauens die Anwesenheit gestatten.
 
 (2) Das Rechtsbeschwerdegericht kann die Öffentlichkeit zulassen,
 soweit nicht das Interesse eines Beteiligten an der nicht öffentlichen

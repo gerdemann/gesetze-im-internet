@@ -19,6 +19,9 @@ Stand: Neufassung vom 16.1.1989 I 76;
 Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2021 I 2146
 
+Änderung durch
+:   Art. 15 Abs. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Tarifausschuß
 [Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002101308)

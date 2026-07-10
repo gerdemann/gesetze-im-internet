@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 22.12.2025 I Nr. 370
 
+Änderung durch
+:   Art. 14 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000100000)
@@ -66,7 +69,7 @@ Transport gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000301130)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -88,9 +91,9 @@ Bund (ITZBund), Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
-Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt
-gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn
-der Anwendung anzugeben.
+Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der
+Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung
+anzugeben.
 
 (6) Die in dieser Verordnung hinter den zu übermittelnden Meldedaten
 angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld-
@@ -993,12 +996,12 @@ Melderegister eingetragen ist, werden nicht übermittelt.
 
 
 ## § 8 Abruf, Eintragung oder Löschung der Daten zu Übermittlungssperren
-[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000801130)
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000802130)
 
 (1) Die Verwaltungsportale können nach Artikel 15 Absatz 1 der
 Datenschutz-Grundverordnung für die Erteilung einer Auskunft über das
 Bestehen einer Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50
-Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes
+Absatz 1 und 2 in Verbindung mit Absatz 5 des Bundesmeldegesetzes
 sowie einer nach § 55 Absatz 5 des Bundesmeldegesetzes durch
 Landesrecht bestimmten Übermittlungssperre durch die zuständige
 Meldebehörde auf Antrag der betroffenen Person bei der für die
@@ -1034,8 +1037,8 @@ oder Haupt- oder Nebenwohnung zuständigen Meldebehörde übermitteln:
 *    *   1.
 
     *   rechtlicher Grund des Widerspruchs nach § 42 Absatz 3 Satz 2, § 50
-        Absatz 1, 2 und 3 in Verbindung mit Absatz 5 des Bundesmeldegesetzes,
-        der zum Eintrag einer Übermittlungssperre führt
+        Absatz 1 und 2 in Verbindung mit Absatz 5 des Bundesmeldegesetzes, der
+        zum Eintrag einer Übermittlungssperre führt
 
     *   1801,
 
@@ -1051,12 +1054,12 @@ oder Haupt- oder Nebenwohnung zuständigen Meldebehörde übermitteln:
 
    (3) Die Verwaltungsportale können auf Antrag der betroffenen Person
 für die Löschung einer im Melderegister eingetragenen
-Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1, 2 und 3
-in Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie nach § 55
-Absatz 5 des Bundesmeldegesetzes durch Landesrecht durch die
-zuständige Meldebehörde die Daten nach Absatz 1 Satz 1 Nummer 1 und 2
-an die für die alleinige Wohnung oder Haupt- oder Nebenwohnung
-zuständige Meldebehörde übermitteln.
+Übermittlungssperre nach § 42 Absatz 3 Satz 2, § 50 Absatz 1 und 2 in
+Verbindung mit Absatz 5 des Bundesmeldegesetzes sowie nach § 55 Absatz
+5 des Bundesmeldegesetzes durch Landesrecht durch die zuständige
+Meldebehörde die Daten nach Absatz 1 Satz 1 Nummer 1 und 2 an die für
+die alleinige Wohnung oder Haupt- oder Nebenwohnung zuständige
+Meldebehörde übermitteln.
 
 
 ## § 9 Elektronische Anmeldung

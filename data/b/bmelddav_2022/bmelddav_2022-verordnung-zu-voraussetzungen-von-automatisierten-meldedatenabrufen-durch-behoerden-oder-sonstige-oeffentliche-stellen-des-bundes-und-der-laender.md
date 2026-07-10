@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 22.1.2025 I Nr. 23
 
+Änderung durch
+:   Art. 13 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000100000)
@@ -98,7 +101,7 @@ Transport gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000401130)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -120,9 +123,9 @@ Bund (ITZBund), Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des
 Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom
-Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger
-bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und
-der Beginn der Anwendung anzugeben.
+Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der
+Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung
+anzugeben.
 
 (6) Die in dieser Verordnung hinter den zu übermittelnden Meldedaten
 angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld

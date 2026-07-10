@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 22.6.2026 I Nr. 191
+:   Art. 15 Abs. 7 G v. 3.7.2026 I Nr. 199
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
@@ -2465,14 +2465,13 @@ Erwerbsvorgang.
 
 
 #### § 39 Anmelde- und Anzeigepflicht
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004713128)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004714128)
 
 (1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß
 den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind
 zulässig über:
 
-1.  die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für
-    Dokumente mit qualifizierter elektronischer Signatur,
+1.  (weggefallen)
 
 
 2.  das besondere elektronische Behördenpostfach gegen ein elektronisches

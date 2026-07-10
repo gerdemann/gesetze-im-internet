@@ -645,6 +645,45 @@ werden, einschließlich der Bestimmungen über
 
 
 
+#### § 9d Sammelstelle für das zentrale europäische Zugangsportal; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116901129)
+
+(1) Die das Unternehmensregister führende Stelle ist Sammelstelle im
+Sinne des Artikels 2 Nummer 2 der Verordnung (EU) 2023/2859 des
+Europäischen Parlaments und des Rates vom 13. Dezember 2023 zur
+Einrichtung eines zentralen europäischen Zugangsportals für den
+zentralisierten Zugriff auf öffentlich verfügbare, für
+Finanzdienstleistungen, Kapitalmärkte und Nachhaltigkeit relevante
+Informationen (ABl. L,2023/2859, 20.12.2023; L, 2024/90097,
+12\.2.2024), die durch die Richtlinie (EU) 2024/1760 (L, 2024/1760,
+5\.7.2024) geändert worden ist, für Informationen nach
+
+1.  § 325 Absatz 1, soweit sie nach § 325 Absatz 1 Satz 3 an das zentrale
+    europäische Zugangsportal zu übermitteln sind,
+
+
+2.  § 5 Absatz 1, § 40 Absatz 1, § 41 Absatz 1, § 46 Absatz 2, § 50 Absatz
+    1, § 51 Absatz 2, § 114 Absatz 1, § 115 Absatz 1 und § 116 Absatz 1
+    des Wertpapierhandelsgesetzes und
+
+
+3.  Artikel 17 Absatz 1 sowie Artikel 19 Absatz 1 der Verordnung (EU) Nr.
+    596/2014, sofern die Information durch einen Inlandsemittenten (§ 2
+    Absatz 14 des Wertpapierhandelsgesetzes) veröffentlicht wird.
+
+
+
+
+(2) In Bezug auf Informationen, die an die das Unternehmensregister
+führende Stelle als Sammelstelle zu übermitteln sind, kann das
+Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
+der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, nähere Bestimmungen zu Art, Zeitpunkt und Form der
+Übermittlung festlegen. Dies umfasst insbesondere die zu verwendenden
+Dateiformate, anzugebende Metadaten sowie Vorgaben zur Identifizierung
+und Authentifizierung.
+
+
 #### § 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen
 [Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001402360)
 
@@ -9635,7 +9674,7 @@ werden.
 
 
 ##### § 325 Offenlegung
-[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012015360)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012017129)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen,
@@ -9654,6 +9693,12 @@ offenzulegen:
 
 Die Unterlagen sind der das Unternehmensregister führenden Stelle
 elektronisch zur Einstellung in das Unternehmensregister zu
+übermitteln. Bei einer Kapitalgesellschaft, die als Inlandsemittent
+(§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz
+1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft
+im Sinne des § 327a ist, sind die Unterlagen der das
+Unternehmensregister führenden Stelle mit der Übermittlung nach Satz 2
+auch zur Weiterleitung an das zentrale europäische Zugangsportal zu
 übermitteln.
 
 (1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach
@@ -9712,9 +9757,9 @@ Absatz 2a tritt ein, wenn
 
 
 
-(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 Satz 1 gelten
-entsprechend für die Mitglieder des vertretungsberechtigten Organs
-einer Kapitalgesellschaft, die einen Konzernabschluss und einen
+(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 gelten entsprechend für
+die Mitglieder des vertretungsberechtigten Organs einer
+Kapitalgesellschaft, die einen Konzernabschluss und einen
 Konzernlagebericht aufzustellen haben.
 
 (3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des
@@ -9727,7 +9772,11 @@ zusammengefasst werden.
 (4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist
 nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der
 Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der
-Übermittlung der Unterlagen maßgebend.
+Übermittlung der Unterlagen maßgebend. Eine Kapitalgesellschaft im
+Sinne des § 264d hat die Unterlagen nach Absatz 1 Satz 1 gleichzeitig
+mit ihrer öffentlichen Zugänglichmachung im Internet im Sinne des §
+114 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes nach Absatz 1 Satz 2
+zu übermitteln.
 
 (5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten
 der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz
@@ -9918,11 +9967,11 @@ vertretungsberechtigten Organs
 
 
 ##### § 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften
-[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099103119)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099104129)
 
-§ 325 Abs. 4 Satz 1 ist auf eine Kapitalgesellschaft nicht anzuwenden,
-wenn sie ausschließlich zum Handel an einem organisierten Markt
-zugelassene Schuldtitel im Sinn des § 2 Absatz 1 Nummer 3 des
+§ 325 Absatz 4 Satz 1 und 3 sind auf eine Kapitalgesellschaft nicht
+anzuwenden, wenn sie ausschließlich zum Handel an einem organisierten
+Markt zugelassene Schuldtitel im Sinne des § 2 Absatz 1 Nummer 3 des
 Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000 Euro
 oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung
 begibt.
@@ -10016,14 +10065,19 @@ entsprechend.
 
 
 ##### § 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle
-[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012406360)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012407129)
 
 (1) Die das Unternehmensregister führende Stelle prüft, ob die zu
 übermittelnden Unterlagen fristgemäß und vollzählig übermittelt worden
-sind. Soweit dies für die Erfüllung der Aufgaben nach Satz 1
-erforderlich ist, darf die das Unternehmensregister führende Stelle
-die von den Landesjustizverwaltungen nach § 8b Absatz 3 Satz 2
-übermittelten Daten verwenden.
+sind. Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2
+Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des
+Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im
+Sinne des § 327a ist, erfolgt die Prüfung nach der Weiterleitung an
+das zentrale europäische Zugangsportal. Soweit dies für die Erfüllung
+der Aufgaben nach Satz 1 erforderlich ist, darf die das
+Unternehmensregister führende Stelle die von den
+Landesjustizverwaltungen nach § 8b Absatz 3 Satz 2 übermittelten Daten
+verwenden.
 
 (2) Gibt die Prüfung Anlass zu der Annahme, dass von der Größe der
 Kapitalgesellschaft abhängige Erleichterungen oder die Erleichterung
@@ -10617,7 +10671,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ###### § 335 Festsetzung von Ordnungsgeld; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013121360)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013122360)
 
 (1) Gegen die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft, die
@@ -10722,7 +10776,9 @@ oder gegen ein Mitglied ihrer Vertretungsorgane festgesetzt wird. Wird
 gegen eine solche Ordnungsgeldfestsetzung Beschwerde eingelegt,
 unterrichtet das Bundesamt die Bundesanstalt für
 Finanzdienstleistungsaufsicht über diesen Umstand sowie über den
-Ausgang des Beschwerdeverfahrens.
+Ausgang des Beschwerdeverfahrens. Für die Unterrichtung der
+Bundesanstalt nach Satz 1 gilt § 24b Absatz 2 des
+Wertpapierhandelsgesetzes entsprechend.
 
 (2) Auf das Verfahren sind die §§ 15 bis 19 Absatz 1 und 3, § 40 Abs.
 1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über

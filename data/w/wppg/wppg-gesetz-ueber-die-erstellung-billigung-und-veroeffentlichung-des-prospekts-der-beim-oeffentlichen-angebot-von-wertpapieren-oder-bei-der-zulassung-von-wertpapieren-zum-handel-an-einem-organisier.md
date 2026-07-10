@@ -1403,9 +1403,16 @@ jeweiligen Emittenten und die entsprechende Emission betreffenden
 Angaben.
 
 
-### § 23 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004103360)
+### § 23 Meldungen zum zentralen europäischen Zugangsportal
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004104129)
 
+Die Informationen nach Artikel 21a Absatz 1 Unterabsatz 1 der
+Verordnung (EU) 2017/1129 sind der Bundesanstalt unter Beachtung der
+Vorgaben nach Artikel 21a Absatz 1 und 2 der Verordnung (EU) 2017/1129
+ausschließlich elektronisch über das Melde- und
+Veröffentlichungssystem der Bundesanstalt zu melden. Die
+Meldepflichtigen sind verpflichtet, sich hierfür einen Zugang zum
+Melde- und Veröffentlichungssystem der Bundesanstalt einzurichten.
 
 
 ### § 24 Bußgeldvorschriften
