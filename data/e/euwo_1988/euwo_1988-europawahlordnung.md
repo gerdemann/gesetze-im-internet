@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 11.8.2023 I Nr. 215
 
 Änderung durch
-:   Art. 10 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 10 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Wahlorgane
@@ -408,7 +408,7 @@ ihren Teil des Wahlbezirks an.
 
 
 #### § 15 Eintragung der wahlberechtigten Deutschen in das Wählerverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003009377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003010125)
 
 (1) Von Amts wegen sind in das Wählerverzeichnis alle Wahlberechtigten
 einzutragen, die am 42. Tage vor der Wahl (Stichtag) bei der
@@ -417,12 +417,7 @@ Meldebehörde gemeldet sind
 1.  für eine Wohnung, bei mehreren Wohnungen für ihre Hauptwohnung,
 
 
-2.  auf Grund eines Anstellungs-, Heuer- oder Ausbildungsverhältnisses als
-    Kapitän oder Besatzungsmitglied für ein Seeschiff, das nach dem
-    Flaggenrechtsgesetz (in der Fassung der Bekanntmachung vom 4. Juli
-    1990, BGBl. I S. 1342) in der jeweils geltenden Fassung die
-    Bundesflagge zu führen berechtigt ist (§ 4 des Europawahlgesetzes in
-    Verbindung mit § 12 Abs. 4 Nr. 1 des Bundeswahlgesetzes),
+2.  (weggefallen)
 
 
 3.  für ein Binnenschiff, das in einem Schiffsregister in der
@@ -542,7 +537,7 @@ die sich in den Einrichtungen aufhaltenden Personen nicht besteht.
 
 
 #### § 16 Zuständigkeiten für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003103377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003104125)
 
 (1) Zuständig für die Eintragung in das Wählerverzeichnis ist in den
 Fällen des
@@ -551,14 +546,11 @@ Fällen des
     mehreren Wohnungen die für die Hauptwohnung zuständige Gemeinde,
 
 
-2.  § 15 Abs. 1 Nr. 2 die für den Sitz des Reeders zuständige Gemeinde,
-
-
-3.  § 15 Abs. 1 Nr. 3 die für den Heimatort des Binnenschiffes zuständige
+2.  § 15 Abs. 1 Nr. 3 die für den Heimatort des Binnenschiffes zuständige
     Gemeinde,
 
 
-4.  § 15 Abs. 1 Nr. 4 die für die Justizvollzugsanstalt oder die
+3.  § 15 Abs. 1 Nr. 4 die für die Justizvollzugsanstalt oder die
     entsprechende Einrichtung zuständige Gemeinde.
 
 
@@ -582,20 +574,15 @@ Fällen des
     Erklärung vor seinem Fortzug aus dem Wahlgebiet zuletzt gemeldet war;
     sofern der Wahlberechtigte noch nie für eine Wohnung im Wahlgebiet
     gemeldet war, ist das Bezirksamt Mitte von Berlin zuständig. Satz 1
-    erster Halbsatz gilt auch für Seeleute, die seit dem Fortzug aus dem
-    Wahlgebiet auf Schiffen unter fremder Flagge fahren, sowie für
-    Binnenschiffer, deren Schiff nicht in einem Schiffsregister in der
-    Bundesrepublik Deutschland eingetragen ist, und für die Angehörigen
-    ihres Hausstandes. Für Seeleute, die von einem Seeschiff, das die
-    Bundesflagge zu führen berechtigt war, abgemustert haben und im
-    Anschluß daran auf einem Seeschiff unter fremder Flagge fahren, ist
-    die Gemeinde am Sitz des ehemaligen Reeders zuständig. Für
-    Binnenschiffer, die zuletzt auf einem in der Bundesrepublik
-    Deutschland im Schiffsregister eingetragenen Binnenschiff gefahren
-    sind und im Anschluß daran auf einem Binnenschiff, das nicht im
-    Schiffsregister in der Bundesrepublik Deutschland eingetragen ist,
-    oder auf einem Seeschiff unter fremder Flagge fahren, ist die Gemeinde
-    nach Absatz 1 Nr. 3 zuständig,
+    erster Halbsatz gilt auch für Seeleute sowie für Binnenschiffer, deren
+    Schiff nicht in einem Schiffsregister in der Bundesrepublik
+    Deutschland eingetragen ist, und für die Angehörigen ihres
+    Hausstandes. Für Binnenschiffer, die zuletzt auf einem in der
+    Bundesrepublik Deutschland im Schiffsregister eingetragenen
+    Binnenschiff gefahren sind und im Anschluß daran auf einem
+    Binnenschiff, das nicht im Schiffsregister in der Bundesrepublik
+    Deutschland eingetragen ist, oder auf einem Seeschiff fahren, ist die
+    Gemeinde nach Absatz 1 Nr. 3 zuständig,
 
 
 5.  § 15 Abs. 2 Nr. 1 Buchstabe d die für die Justizvollzugsanstalt oder
@@ -735,7 +722,7 @@ Absatz 5 Satz 5 und 6 gilt entsprechend.
 
 
 #### § 17a Eintragung der wahlberechtigten Unionsbürger, Zuständigkeiten und Verfahren für die Eintragung in das Wählerverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013510377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013511125)
 
 (1) Nach § 6 Abs. 3 des Europawahlgesetzes wahlberechtigte
 Unionsbürger sind auf Antrag in das Wählerverzeichnis einzutragen,
@@ -755,13 +742,7 @@ bedienen; § 50 gilt entsprechend.
     zuständige Gemeinde,
 
 
-2.  in den Fällen des Bestehens eines Anstellungs-, Heuer- oder
-    Ausbildungsvertrages als Kapitän oder Besatzungsmitglied für ein
-    Seeschiff, das nach dem Flaggenrechtsgesetz (in der Fassung der
-    Bekanntmachung vom 4. Juli 1990, BGBl. I S. 1342) in der jeweils
-    geltenden Fassung die Bundesflagge zu führen berechtigt ist (§ 4 des
-    Europawahlgesetzes in Verbindung mit § 12 Abs. 4 Nr. 1 des
-    Bundeswahlgesetzes), die für den Sitz des Reeders zuständige Gemeinde,
+2.  (weggefallen)
 
 
 3.  für Binnenschiffer eines in einem Schiffsregister in der
@@ -3643,7 +3624,7 @@ Europäischen Union erfolgen.
 
 
 ### Anlage 1 (zu § 17 Absatz 6)
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010405377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010406125)
 
 (Fundstelle: BGBl. I 2018, 575 - 579;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3704,7 +3685,7 @@ für Rückkehrende aus dem Ausland
     *
 
 *    *
-    *[^f802772_01_BJNR014530988BJNE010405377]
+    *[^f802772_01_BJNR014530988BJNE010406125]
    Mein Familienname, unter dem ich zuletzt für eine Wohnung in der
         Bundesrepublik Deutschland
         bei der Meldebehörde gemeldet war,
@@ -3803,14 +3784,6 @@ für Rückkehrende aus dem Ausland
 
 *    *   *
 
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *   *
-
     *   Ich bin im Besitz eines
         * Personalausweises
         * Reisepasses
@@ -3856,7 +3829,7 @@ für Rückkehrende aus dem Ausland
 
 *    *   *
 
-    *[^f802772_02_BJNR014530988BJNE010405377]
+    *[^f802772_02_BJNR014530988BJNE010406125]
    * Ich werde am Wahltag seit mindestens 3 Monaten in den Gebieten der
         Mitgliedstaaten der Europäischen Union eine Wohnung innegehabt oder
         mich sonst gewöhnlich aufgehalten haben.
@@ -4078,14 +4051,6 @@ für Rückkehrende aus dem Ausland
 
 *    *   *
 
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *   *
-
     *   Ich bin im Besitz eines
         * Personalausweises
         * Reisepasses
@@ -4292,7 +4257,7 @@ der Erstausfertigung
 
 *    *   6.1
 
-    *[^f802772_05_BJNR014530988BJNE010405377]
+    *[^f802772_05_BJNR014530988BJNE010406125]
    Am Wahltag seit mindestens 3 Monaten Aufenthalt im Gebiet der übrigen
         Mitgliedstaaten der Europäischen Union
 
@@ -4329,7 +4294,7 @@ der Erstausfertigung
 
     *   Antragsteller hat aus anderen Gründen persönlich und unmittelbar
         Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
-[^f802772_06_BJNR014530988BJNE010405377]
+[^f802772_06_BJNR014530988BJNE010406125]
         Deutschland erworben und ist von ihnen betroffen
 
     *   * nein
@@ -4533,7 +4498,7 @@ Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis
 
 *    *   *
 
-    *[^f802772_03_BJNR014530988BJNE010405377]
+    *[^f802772_03_BJNR014530988BJNE010406125]
    Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland
         zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der
         Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch
@@ -4547,22 +4512,6 @@ Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis
         ..........“
         (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt
         angezeigt oder sonst nachgewiesen war).
-
-
-*    *
-    *   Von Seeleuten, die zuletzt auf einem Seeschiff gemustert waren, das
-        die Bundesflagge zu führen berechtigt war, und danach nur noch auf
-        Schiffen unter fremder Flagge fahren, mit folgenden Angaben
-        auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders,
-        Sitz des Reeders (Ort, Land).
-
-
-*    *   *
-
-    *   Von Seeleuten hier mit folgenden Angaben auszufüllen: Datum der
-        letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu
-        führen berechtigt war, Name und Nationalität des Seeschiffes unter
-        fremder Flagge.
 
 
 *    *   *
@@ -4720,30 +4669,30 @@ Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_01_BJNR014530988BJNE010405377]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
+[^f802772_01_BJNR014530988BJNE010406125]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
     Bundesrepublik Deutschland mit. Nicht zu berücksichtigen ist ein
     Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland
     nach dem Zeitpunkt, ab dem nach Artikel 50 Absatz 3 EUV die Verträge
     dort keine Anwendung mehr finden.
-[^f802772_02_BJNR014530988BJNE010405377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f802772_02_BJNR014530988BJNE010406125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_03_BJNR014530988BJNE010405377]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
+[^f802772_03_BJNR014530988BJNE010406125]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
     Bundesrepublik Deutschland mit. Nicht zu berücksichtigen ist ein
     Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland
     nach dem Zeitpunkt, ab dem nach Artikel 50 Absatz 3 EUV die Verträge
     dort keine Anwendung mehr finden. Anträge nach § 6 Absatz 1 Nummer 2
     Buchstabe b EuWG, die aus diesem Grund die Voraussetzungen nicht
     erfüllen, sind in Anträge nach § 6 Absatz 2 EuWG umzudeuten.
-[^f802772_05_BJNR014530988BJNE010405377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f802772_05_BJNR014530988BJNE010406125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_06_BJNR014530988BJNE010405377]: 
+[^f802772_06_BJNR014530988BJNE010406125]: 
 
 ### Anlage 2 (zu § 17 Absatz 5)
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010510377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010511125)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2258 - 2563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4806,7 +4755,7 @@ für im Ausland lebende Deutsche
     *
 
 *    *
-    *[^f802772_01a_BJNR014530988BJNE010510377]
+    *[^f802772_01a_BJNR014530988BJNE010511125]
    Mein Familienname, unter dem ich zuletzt für eine Wohnung in der
         Bundesrepublik Deutschland
         bei der Meldebehörde gemeldet war,
@@ -4871,14 +4820,6 @@ für im Ausland lebende Deutsche
 
 *    *   *
 
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *   *
-
     *   Ich bin im Besitz eines
         * Personalausweises
         * Reisepasses
@@ -4924,7 +4865,7 @@ für im Ausland lebende Deutsche
 
 *    *   *
 
-    *[^f802772_02_BJNR014530988BJNE010510377]
+    *[^f802772_02_BJNR014530988BJNE010511125]
    * Ich werde am Wahltag seit mindestens 3 Monaten in den übrigen
         Mitgliedstaaten der Europäischen Union eine Wohnung innegehabt oder
         mich sonst gewöhnlich aufgehalten haben.
@@ -5103,7 +5044,7 @@ der Erstausfertigung
 
 *    *   6.1
 
-    *[^f802772_05_BJNR014530988BJNE010510377]
+    *[^f802772_05_BJNR014530988BJNE010511125]
    Am Wahltag seit mindestens drei Monaten Aufenthalt im Gebiet der
         übrigen Mitgliedstaaten der Europäischen Union
 
@@ -5114,7 +5055,7 @@ der Erstausfertigung
 
 *    *   6.2
 
-    *[^f802772_06_BJNR014530988BJNE010510377]
+    *[^f802772_06_BJNR014530988BJNE010511125]
    oder mindestens dreimonatiger ununterbrochener Aufenthalt in der
         Bundesrepublik Deutschland
 
@@ -5328,14 +5269,6 @@ für im Ausland lebende Deutsche
     *   bis zum
 
     *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *   *
-
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
 
     *
 
@@ -5695,7 +5628,7 @@ eine Wohnung **gemeldet** sind, dürfen den Antrag **nicht** stellen.
             Aufenthalt nicht länger als 25 Jahre zurückliegt,
 
 
-        –[^f802772_03_BJNR014530988BJNE010510377]
+        –[^f802772_03_BJNR014530988BJNE010511125]
    **oder** aus anderen Gründen persönlich und unmittelbar Vertrautheit
             mit den politischen Verhältnissen in der Bundesrepublik Deutschland
             erworben haben **und** von ihnen betroffen sind.
@@ -5792,16 +5725,14 @@ eine Wohnung **gemeldet** sind, dürfen den Antrag **nicht** stellen.
 
 
 *    *
-    *   Für **Seeleute,** die nicht von Amts wegen in das Wählerverzeichnis
-        einzutragen sind, gelten Sonderbestimmungen nach § 16 Absatz 2 Nummer
-        4 der Europawahlordnung (EuWO).
+    *   Für **Seeleute** gelten Sonderbestimmungen nach § 16 Absatz 2 Nummer 4
+        der Europawahlordnung.
 
 
 *    *   *
 
-    *   Von **Seeleuten,** die auf einem Schiff **unter fremder Flagge**
-        fahren, mit folgenden Angaben auszufüllen: Name des Schiffes, Name des
-        Reeders, Sitz des Reeders (Ort und Staat).
+    *   Von **Seeleuten** mit folgenden Angaben auszufüllen: Name des
+        Schiffes, Name des Reeders, Sitz des Reeders (Ort und Staat).
 
 
 *    *   *
@@ -5823,19 +5754,10 @@ eine Wohnung **gemeldet** sind, dürfen den Antrag **nicht** stellen.
 
 
 *    *
-    *   Von Seeleuten (siehe die Erläuterungen unter*), die zuletzt auf einem
-        Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt
-        war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit
+    *   Von Seeleuten, die vor dem 10. Juli 2026 zuletzt auf einem Seeschiff
+        tätig waren, das die Bundesflagge zu führen berechtigt war, mit
         folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes,
-        Name des Reeders, Sitz des Reeders (Ort, Land).
-
-
-*    *   *
-
-    *   Von Seeleuten (siehe die Erläuterungen unter*) hier mit folgenden
-        Angaben auszufüllen: Datum der letzten Abmusterung von einem
-        Seeschiff, das die deutsche Flagge zu führen berechtigt war, Name und
-        Nationalität des Seeschiffes unter fremder Flagge.
+        des Reeders, Sitz des Reeders (Ort, Land).
 
 
 *    *   *
@@ -6006,23 +5928,23 @@ eine Wohnung **gemeldet** sind, dürfen den Antrag **nicht** stellen.
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_01a_BJNR014530988BJNE010510377]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
+[^f802772_01a_BJNR014530988BJNE010511125]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein Aufenthalt in der
     Bundesrepublik Deutschland mit.
-[^f802772_02_BJNR014530988BJNE010510377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f802772_02_BJNR014530988BJNE010511125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_03_BJNR014530988BJNE010510377]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein unmittelbar
+[^f802772_03_BJNR014530988BJNE010511125]:     Nach § 6 Absatz 1 Satz 2 EuWG zählt dabei auch ein unmittelbar
     vorausgehender Aufenthalt in der Bundesrepublik Deutschland mit.
-[^f802772_05_BJNR014530988BJNE010510377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
+[^f802772_05_BJNR014530988BJNE010511125]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer
     Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
     (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
     Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f802772_06_BJNR014530988BJNE010510377]: 
+[^f802772_06_BJNR014530988BJNE010511125]: 
 (zu § 17a Absatz 2)
 
 ### Anlage 2A Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
-[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013809377)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013810125)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2564 - 2566;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6229,7 +6151,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   * Ich werde am Wahltag seit mindestens drei Monaten in der
         Bundesrepublik Deutschland oder in den übrigen
-[^f802772_07_BJNR014530988BJNE013809377]
+[^f802772_07_BJNR014530988BJNE013810125]
         Mitgliedstaaten der Europäischen Union eine Wohnung innegehabt oder
         mich sonst gewöhnlich aufgehalten haben.
 
@@ -6498,7 +6420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^f802772_08_BJNR014530988BJNE013809377]
+    *[^f802772_08_BJNR014530988BJNE013810125]
    Am Wahltag mindestens dreimonatige ununterbrochene Innehabung einer
         Wohnung oder eines sonstigen gewöhnlichen Aufenthaltes in der
         Bundesrepublik Deutschland oder einem anderen Mitgliedstaat der
@@ -6727,9 +6649,8 @@ ausgefüllt werden.
 
 *    *
     *   Für Unionsbürger, die sich in der Bundesrepublik Deutschland sonst
-        gewöhnlich aufhalten, ohne eine Wohnung innezuhaben, und für Seeleute
-        gelten Sonderbestimmungen nach § 17a Absatz 3 der Europawahlordnung
-        (EuWO).
+        gewöhnlich aufhalten, ohne eine Wohnung innezuhaben gelten
+        Sonderbestimmungen nach § 17a Absatz 3 der Europawahlordnung (EuWO).
 
 
 *    *   *
@@ -6991,9 +6912,9 @@ ausgefüllt werden.
 
     Auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in
     den genannten Gebieten angerechnet.
-[^f802772_07_BJNR014530988BJNE013809377]:     Auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in
+[^f802772_07_BJNR014530988BJNE013810125]:     Auf die Dreimonatsfrist wird ein aufeinanderfolgender Aufenthalt in
     den genannten Gebieten angerechnet.
-[^f802772_08_BJNR014530988BJNE013809377]: 
+[^f802772_08_BJNR014530988BJNE013810125]: 
 
 ### Anlage 2B (zu § 17a Absatz 5)
 [Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014405126)

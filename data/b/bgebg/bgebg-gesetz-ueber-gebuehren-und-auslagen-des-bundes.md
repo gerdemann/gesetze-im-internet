@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 21.11.2023 I Nr. 315
 
 Änderung durch
-:   Art. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 noch nicht berücksichtigt
+:   Art. 11 G v. 3.7.2026 I Nr. 199 mWv 10.7.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Gebührenerhebung
@@ -533,12 +533,15 @@ Auslagen sind auch dann zu erheben, wenn die individuell zurechenbare
 
 
 ## § 13 Gebührenfestsetzung
-[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001401126)
 
 (1) Gebühren werden von Amts wegen schriftlich oder elektronisch
 festgesetzt. Die Gebührenfestsetzung soll zusammen mit der
 Sachentscheidung erfolgen. Gebühren, die bei richtiger Behandlung der
 Sache durch die Behörde nicht entstanden wären, werden nicht erhoben.
+Bei turnusmäßig anfallenden Gebühren soll dem Gebührenschuldner mit
+erstmaliger Festsetzung die Erteilung eines SEPA-Lastschriftmandats
+angeboten werden.
 
 (2) Bei Festsetzung einer Rahmengebühr nach § 11 Nummer 3 ist § 9
 Absatz 1 bis 3 anzuwenden.
@@ -582,7 +585,7 @@ zur Leistung der Sicherheit zu setzen.
 
 
 ## § 16 Säumniszuschlag
-[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001700000)
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001701126)
 
 (1) Werden Gebühren nicht bis zum Ablauf des Fälligkeitstages
 entrichtet, so ist für jeden angefangenen Monat der Säumnis ein
@@ -607,7 +610,7 @@ Betrag auf volle 50 Euro abzurunden.
     dem der Betrag der Kasse gutgeschrieben wird, oder
 
 
-3.  bei Vorliegen einer Einzugsermächtigung am Fälligkeitstag.
+3.  bei Vorliegen eines SEPA-Lastschriftmandats am Fälligkeitstag.
 
 
 
