@@ -4282,7 +4282,8 @@ Rückkehrer aus dem Ausland
 ### Anlage 2 (zu § 18 Absatz 4)
 [Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011217125)
 
-(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16; bzgl. der einzelnen
+Änderungen vgl. Fußnote)
 
 
 
