@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2025-10-17
 
 Fundstelle
-:   BGBl. I: 2025, Nr. 250, 2
+:   BGBl. I: 2025, Nr. 250
 
 Konstitutiv neugefasst durch
 :   Bek. v. 17.10.2025 I Nr. 250
