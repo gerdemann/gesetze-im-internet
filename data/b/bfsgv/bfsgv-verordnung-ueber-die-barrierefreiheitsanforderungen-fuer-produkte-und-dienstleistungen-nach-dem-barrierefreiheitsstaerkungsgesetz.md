@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 928
 
 Geändert durch
-:   Art. 23 G v. 2.12.2025 I Nr. 301
+:   Art. 1 V v. 10.7.2026 I Nr. 205
 
 [^F822072_01_BJNR092800022]:     Diese Verordnung dient der Umsetzung des Anhangs I der Richtlinie (EU)
     2019/882 des Europäischen Parlaments und des Rates vom 17. April 2019
@@ -359,7 +359,7 @@ wahrzunehmen, zu bedienen, zu verstehen und zu steuern.
 
 
 ## § 7 Zusätzliche branchenspezifische Anforderungen an Selbstbedienungsterminals
-[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000900000)
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000901126)
 
 (1) Selbstbedienungsterminals müssen
 
@@ -392,10 +392,10 @@ wahrzunehmen, zu bedienen, zu verstehen und zu steuern.
 
 
 
-(2) Selbstbedienungsterminals müssen Informationen über die
-Aktivierung der Barrierefreiheitsfunktionen über mehr als einen
-sensorischen Kanal bereitstellen, um dem Verbraucher die Nutzung der
-Barrierefreiheitsfunktionen zu ermöglichen.
+(2) Selbstbedienungsterminals dürfen keine Aktivierung von
+Barrierefreiheitsfunktionen erfordern, damit Selbstbedienungsterminals
+von Personen, die auf entsprechende Funktionen angewiesen sind,
+eingeschaltet werden können.
 
 
 ## § 8 Zusätzliche branchenspezifische Anforderungen an E-Book-Lesegeräte
@@ -544,13 +544,23 @@ Behinderungen ausgerichtet sind und die Interoperabilität mit
 assistiven Technologien gewährleisten.
 
 
-## § 14 Zusätzliche Anforderungen an Telekommunikationsdienste
-[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001600000)
+## § 14 Zusätzliche Anforderungen Telekommunikationsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001601126)
 
-Bei Telekommunikationsdiensten, die Sprachkommunikation ermöglichen,
-muss zusätzlich zur Sprachkommunikation Text in Echtzeit
+(1) Bei Telekommunikationsdiensten, die Sprachkommunikation
+ermöglichen, muss zusätzlich zur Sprachkommunikation Text in Echtzeit
 bereitgestellt werden. Soweit die Telekommunikationsdienste Video zur
 Verfügung stellen, muss ein Gesamtgesprächsdienst bereitgestellt
+werden.
+
+(2) Bei den in Artikel 109 Absatz 2 der Richtlinie (EU) 2018/1972 in
+der Fassung vom 11. Dezember 2018 genannten Notrufen muss
+gewährleistet sein, dass die Notrufkommunikation über Sprache und
+Text, einschließlich Text in Echtzeit, synchronisiert ist. Soweit die
+Telekommunikationsdienste Video zur Verfügung stellen, muss zusätzlich
+gewährleistet sein, dass die Notrufkommunikation auch als
+Gesamtgesprächsdienst synchronisiert ist. Die Notrufe müssen
+unverzüglich an die örtlich zuständige Notrufabfragestelle übermittelt
 werden.
 
 
