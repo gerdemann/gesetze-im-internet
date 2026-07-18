@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 11.5.2023 I Nr. 124, Nr. 183
 
+Änderung durch
+:   Art. 3 Abs. 6 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung von Artikel 8 Absatz 1 bis 7 sowie
 Artikel 14 der Richtlinie (EU) 2019/904 des Europäischen Parlaments
 und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen

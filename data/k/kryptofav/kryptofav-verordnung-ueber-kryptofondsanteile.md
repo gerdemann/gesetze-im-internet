@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 868
 
-Änderung durch
-:   Art. 13 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 13 G v. 9.4.2026 I Nr. 97
 
 [^F821894_01_BJNR086800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein
