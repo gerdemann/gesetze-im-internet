@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 1 G v. 18.6.2026 I Nr. 183
+:   Art. 3 G v. 16.7.2026 I Nr. 212
 
 
 ## Teil 1 - Das Amt des Notars
@@ -3418,7 +3418,7 @@ entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 
 
 #### § 78a Zentrales Vorsorgeregister; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015010125)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015011131)
 
 (1) Die Bundesnotarkammer führt als Registerbehörde ein
 automatisiertes elektronisches Register über Vorsorgevollmachten,
@@ -3467,7 +3467,7 @@ Bestimmungen zu treffen über
 2.  die Auskunft aus dem Register,
 
 
-3.  die Anmeldung, Änderung und Löschung von Registereintragungen,
+3.  die Anmeldung, Änderung und Löschung von Registerinhalten,
 
 
 4.  die Einzelheiten der Datenübermittlung und -speicherung und
