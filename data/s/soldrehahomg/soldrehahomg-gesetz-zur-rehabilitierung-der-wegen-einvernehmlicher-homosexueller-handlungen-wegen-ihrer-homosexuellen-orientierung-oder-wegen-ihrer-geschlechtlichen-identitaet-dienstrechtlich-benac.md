@@ -120,7 +120,7 @@ Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
 
 ## § 3 Entschädigung; Entschädigungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000301360)
 
 (1) Die rehabilitierte Person erhält auf Antrag eine Entschädigung in
 Geld aus dem Bundeshaushalt.
@@ -136,7 +136,7 @@ Geld aus dem Bundeshaushalt.
 
 
 (3) Der Antrag auf Entschädigung ist innerhalb einer Ausschlussfrist
-von fünf Jahren nach dem 23. Juli 2021 beim Bundesministerium der
+von zehn Jahren nach dem 23. Juli 2021 beim Bundesministerium der
 Verteidigung zu stellen. Das Bundesministerium der Verteidigung setzt
 die Entschädigung durch Verwaltungsakt fest.
 

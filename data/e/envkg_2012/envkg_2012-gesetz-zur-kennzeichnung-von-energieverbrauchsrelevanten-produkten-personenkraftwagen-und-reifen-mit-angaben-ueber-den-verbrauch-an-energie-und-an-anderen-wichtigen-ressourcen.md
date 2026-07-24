@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 22.6.2026 I Nr. 191
 
+Änderung durch
+:   Art. 3 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNG000100118)
