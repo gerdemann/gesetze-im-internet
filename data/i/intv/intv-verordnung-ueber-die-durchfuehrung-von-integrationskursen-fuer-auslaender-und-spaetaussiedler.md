@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 3370
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.12.2024 I Nr. 393
+:   Art. 1 V v. 22.7.2026 I Nr. 218
 
 
 ## Eingangsformel
@@ -213,7 +213,7 @@ durchgeführt werden darf.
 
 
 ### § 5 Zulassung zum Integrationskurs
-[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000608311)
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000609311)
 
 (1) Die Zulassung zur Teilnahme am Integrationskurs nach § 44 Absatz 4
 des Aufenthaltsgesetzes erfolgt durch das Bundesamt auf Antrag. Der
@@ -232,13 +232,14 @@ Teilnahmeberechtigung.
 Integrationsbedürftigkeit des Antragstellers zu beachten. Vorrangig zu
 berücksichtigen sind insbesondere:
 
-1.  Ausländer, die einen gesetzlichen Anspruch auf Teilnahme an einem
-    Integrationskurs hatten, aber bislang nicht teilgenommen haben,
+1.  Ausländer, die eine Aufenthaltserlaubnis nach § 24 des
+    Aufenthaltsgesetzes besitzen,
 
 
-2.  deutsche Staatsangehörige sowie Unionsbürger und deren
-    Familienangehörige, die nicht über ausreichende deutsche
-    Sprachkenntnisse verfügen.
+2.  deutsche Staatsangehörige und andere Unionsbürger, die nicht über
+    ausreichende deutsche Sprachkenntnisse verfügen, um eine
+    Erwerbstätigkeit oder Ausbildung aufzunehmen, sowie die
+    Familienangehörigen dieser beiden Personengruppen.
 
 
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 250
 
+Geändert durch
+:   Beschluss d. Bundestages v. 10.7.2026 gem. Bek. v. 22.7.2026 I Nr. 220
+
 Konstitutiv neugefasst durch
 :   Bek. v. 17.10.2025 I Nr. 250
 
@@ -348,16 +351,16 @@ Wahlen, die der Bundestag vorzunehmen hat, angewandt.
 
 
 ### § 13 Rechte und Pflichten der Mitglieder des Bundestages
-[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001500000)
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001501311)
 
 (1) Jedes Mitglied des Bundestages folgt bei Reden, Handlungen,
 Abstimmungen und Wahlen seiner Überzeugung und seinem Gewissen.
 
 (2) Die Mitglieder des Bundestages sind verpflichtet, an den Arbeiten
-des Bundestages teilzunehmen. An jedem Sitzungstag wird eine
-Anwesenheitsliste ausgelegt, in die sich die Mitglieder des
-Bundestages einzutragen haben. Die Folgen der Nichteintragung und der
-Nichtbeteiligung an einer namentlichen Abstimmung ergeben sich aus dem
+des Bundestages teilzunehmen. Die Anwesenheit der Mitglieder des
+Bundestages wird an jedem Sitzungstag nach Maßgabe des
+Abgeordnetengesetzes erfasst. Die Folgen der Nichterfassung und der
+Nichtteilnahme an einer namentlichen Abstimmung ergeben sich aus dem
 Abgeordnetengesetz.
 
 
@@ -681,7 +684,7 @@ Fraktion oder Gruppe zustehenden Redezeit.
 
 
 ### § 36 Sach- und Ordnungsruf, Wortentziehung
-[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003900000)
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003901311)
 
 (1) Der sitzungsleitende Präsident kann den Redner, der vom
 Verhandlungsgegenstand abschweift oder eine Erklärung zur
@@ -697,7 +700,7 @@ Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass
 hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied des
 Bundestages dreimal während einer Sitzung zur Ordnung gerufen worden,
 verweist es der sitzungsleitende Präsident für die Dauer der Sitzung
-aus dem Saal. § 38 Absatz 1 Satz 3 bis 5 sowie Absatz 3 bis 5 gilt
+aus dem Saal. § 38 Absatz 1 Satz 3 bis 4 sowie Absatz 3 bis 5 gilt
 entsprechend.
 
 (3) Ein Ordnungsruf kann im Einzelfall auch nachträglich bis zum Ende
@@ -727,7 +730,7 @@ erhöht sich das Ordnungsgeld auf 4 000 Euro.
 
 
 ### § 38 Ausschluss von Mitgliedern des Bundestages
-[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004100000)
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004101311)
 
 (1) Wegen gröblicher Verletzung der Ordnung oder der Würde des
 Bundestages kann der sitzungsleitende Präsident ein Mitglied des
@@ -751,7 +754,7 @@ betroffene Mitglied auch dann nicht der Aufforderung nach, unterbricht
 der sitzungsleitende Präsident die Sitzung und lässt den Ausschluss
 durchsetzen. Nach Wiedereröffnung der Sitzung hat der sitzungsleitende
 Präsident über die Dauer der Verlängerung des Ausschlusses zu
-befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 5 ist in
+befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 4 ist in
 diesem Fall nicht möglich.
 
 (4) Versucht das betroffene Mitglied, widerrechtlich an den Sitzungen
