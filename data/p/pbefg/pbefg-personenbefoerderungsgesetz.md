@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Abs. 2 G v. 15.5.2026 I Nr. 148
 
+Änderung durch
+:   Art. 15 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## I. - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000101305)

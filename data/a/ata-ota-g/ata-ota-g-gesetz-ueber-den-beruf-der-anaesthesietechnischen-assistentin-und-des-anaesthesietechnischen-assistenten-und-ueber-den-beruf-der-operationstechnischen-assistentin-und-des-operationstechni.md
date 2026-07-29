@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2019, 2768
 
 Zuletzt geändert durch
-:   Art. 8 G v. 20.7.2022 I 1174
+:   Art. 3 G v. 22.7.2026 I Nr. 225
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
@@ -2413,7 +2413,7 @@ Euro geahndet werden.
 
 
 ### § 68 Übergangsvorschrift für die Mindestanforderungen an Schulen
-[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006900000)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006901129)
 
 (1) Die Voraussetzungen des § 22 Absatz 3 Nummer 1 und 3 gelten als
 erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt
@@ -2480,7 +2480,7 @@ werden, die am 1. Januar 2022
 
 
 (2) Die Genehmigung oder Anerkennung einer Schule ist zurückzunehmen,
-wenn die Schule der zuständigen Behörde nicht bis zum 1. Januar 2028
+wenn die Schule der zuständigen Behörde nicht bis zum 1. Januar 2032
 nachweist, dass sie die in § 22 genannten Voraussetzungen für die
 staatliche Anerkennung erfüllt. Die Voraussetzungen des § 22 Absatz 3
 Nummer 1 und 3 gelten als erfüllt, wenn als Schulleitung oder als
@@ -2490,7 +2490,7 @@ gewesen sind.
 
 
 ### § 69 Weitergeltung für die Erlaubnis zum Führen der Berufsbezeichnung
-[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007000000)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007001129)
 
 (1) Folgende Berechtigungen gelten als Erlaubnis zum Führen der
 Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1:
@@ -2532,10 +2532,11 @@ Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1:
 
 
 (2) Eine Person, die eine der in Absatz 1 genannten Berechtigungen
-besitzt, kann bei der zuständigen Behörde beantragen, dass ihr eine
-Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung nach § 1
-Absatz 1 oder § 2 Absatz 1 erteilt wird. Die Erlaubnis wird erteilt,
-wenn die antragstellende Person
+besitzt, kann bei der nach § 1 Absatz 4 Nummer 1 oder § 2 Absatz 4
+Nummer 1 zuständigen Behörde beantragen, dass ihr eine Urkunde über
+die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 oder
+§ 2 Absatz 1 erteilt wird. Die Erlaubnis wird erteilt, wenn die
+antragstellende Person
 
 1.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Berufsausübung ergibt,

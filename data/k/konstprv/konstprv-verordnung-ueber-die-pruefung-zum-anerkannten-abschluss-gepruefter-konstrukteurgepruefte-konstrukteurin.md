@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1151
 
 Zuletzt geändert durch
-:   Art. 7 G v. 8.8.2020 I 1728
+:   Art. 8 Abs. 11 G v. 23.7.2026 I Nr. 226
 
 
 
@@ -441,7 +441,7 @@ Minuten.
 
 
 ## § 5 Fachrichtungsspezifischer Teil
-[Direktlink](https://www.gesetze-im-internet.de/konstprv/BJNR115100994.html#BJNR115100994BJNE000602119)
+[Direktlink](https://www.gesetze-im-internet.de/konstprv/BJNR115100994.html#BJNR115100994BJNE000603131)
 
 (1) Die Prüfung im fachrichtungsspezifischen Teil gliedert sich in
 
@@ -1091,7 +1091,7 @@ können geprüft werden:
     a)  bauaufsichtlich eingeführte Normen,
 
 
-    b)  Gebäudeenergiegesetz,
+    b)  Gebäudemodernisierungsgesetz,
 
 
     c)  Brandschutzverordnung,

@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 8 Abs. 7 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNG000100118)

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 12.8.2025 I Nr. 189
 
+Änderung durch
+:   Art. 13 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F771714_1_BJNR298610008]:     Das Gesetz dient der Umsetzung folgender Rechtsakte des
     Gemeinschaftsrechts:  Richtlinie 79/409/EWG des Rates vom 2. April
     1979 über die Erhaltung der wild lebenden Vogelarten (ABl. EG Nr. L
@@ -492,7 +495,7 @@ Aufhebung.
 
 
 ### § 8 Umweltprüfung bei der Aufstellung von Raumordnungsplänen
-[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001002116)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001003129)
 
 (1) Bei der Aufstellung von Raumordnungsplänen ist von der für den
 Raumordnungsplan zuständigen Stelle eine Umweltprüfung durchzuführen,
@@ -561,13 +564,13 @@ hat.
 
 (5) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung
-des Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur
+Klimaschutz, Naturschutz und nukleare Sicherheit mit Zustimmung des
+Bundesrates durch Rechtsverordnung Vorgaben zu erlassen zur
 Berücksichtigung von artenschutzrechtlichen Belangen im Rahmen der
 Umweltprüfung bei der Aufstellung von Raumordnungsplänen. Sofern dabei
 auch Fragen der Windenergie an Land berührt sind, sind die Vorgaben
 auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Klimaschutz zu erlassen.
+Energie zu erlassen.
 
 
 ### § 9 Beteiligung bei der Aufstellung von Raumordnungsplänen
@@ -1143,7 +1146,7 @@ Zulassungsentscheidung überprüft werden.
 
 
 ### § 16 Beschleunigte Raumverträglichkeitsprüfung; Absehen von Raumverträglichkeitsprüfungen
-[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001702125)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001703129)
 
 (1) Bei der Prüfung der Raumverträglichkeit raumbedeutsamer Planungen
 und Maßnahmen kann, soweit keine anderen Rechtsvorschriften
@@ -1161,7 +1164,17 @@ solchen Planungen und Maßnahmen abgesehen werden, für die
 sichergestellt ist, dass ihre Raumverträglichkeit anderweitig geprüft
 wird. Die Landesregierungen können durch Rechtsverordnung regeln,
 welche Fälle die Durchführung einer Raumverträglichkeitsprüfung
-erübrigen.
+erübrigen. Für Vorhaben der Bundesfernstraße, der Bundeswasserstraße,
+der Schienenwege des Bundes, Straßenbahnen, für Gas- und
+Wasserstoffleitungen mit einem Durchmesser von mehr als 300
+Millimetern sowie für Pumpspeicherkraftwerke und Magnetschwebebahnen
+wird keine Raumverträglichkeitsprüfung durchgeführt. Satz 3 gilt
+nicht, wenn die zuständige Raumordnungsbehörde im Benehmen mit der für
+Verkehr oder Pumpspeicherkraftwerke zuständigen obersten Landesbehörde
+innerhalb von vier Wochen nach Anzeige nach § 15 Absatz 4 Satz 2
+widerspricht, soweit sie erwartet, dass das Vorhaben zu erheblichen
+raumbedeutsamen Konflikten mit den Erfordernissen der Raumordnung oder
+mit anderen raumbedeutsamen Planungen und Maßnahmen führen wird.
 
 
 ## Abschnitt 3 - Raumordnung im Bund
@@ -1419,7 +1432,7 @@ Bauwesen.
 
 
 ### § 27 Anwendungsvorschrift für die Raumordnung in den Ländern
-[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002904130)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002905129)
 
 (1) Verfahren zur Aufstellung von Raumordnungsplänen nach § 13 sowie
 Raumordnungsverfahren, die nach § 15 in der bis zum 27. September 2023
@@ -1442,6 +1455,9 @@ Fassung weiterhin Anwendung.
 ergänzt, sowie landesrechtliche Gebührenregelungen und weiter gehendes
 Landesrecht zur Beschleunigung des Verfahrens bei Änderung eines
 ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
+
+(4) Für vor dem 29. Juli 2026 eingeleitete
+Raumverträglichkeitsprüfungen gilt § 16 Absatz 2 Satz 3 nicht.
 
 
 ### § 28 Sonderregelung für die Windenergie an Land

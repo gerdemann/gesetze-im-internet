@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 140
 
 Zuletzt geändert durch
-:   Art. 14 G v. 2.12.2025 I Nr. 301
+:   Art. 2 G v. 22.7.2026 I Nr. 223
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -38,7 +38,7 @@ Meldung oder Offenlegung betroffen sind.
 
 
 ### § 2 Sachlicher Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000201129)
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000202129)
 
 (1) Dieses Gesetz gilt für die Meldung (§ 3 Absatz 4) und die
 Offenlegung (§ 3 Absatz 5) von Informationen über
@@ -220,7 +220,10 @@ Offenlegung (§ 3 Absatz 5) von Informationen über
     Märkte) (ABl. L 265 vom 12.10.2022, S. 1),
 
 
-10. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die
+10. Verstöße gegen Vorschriften der Verordnung (EU) 2024/1689,
+
+
+11. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die
     Pflicht zur Verfassungstreue darstellen.
 
 

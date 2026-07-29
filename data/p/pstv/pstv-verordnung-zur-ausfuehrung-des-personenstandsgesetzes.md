@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 23.4.2026 I Nr. 111
 
+Änderung durch
+:   Art. 5 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE000100000)
@@ -645,15 +648,16 @@ Absatz 1 entsprechend.
 
 
 #### § 27 Verzeichnisse beim Standesamt I in Berlin
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE002902116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE002903129)
 
 (1) Für die beim Standesamt I in Berlin geführten elektronischen
 Verzeichnisse nach § 41 Absatz 2 Satz 4, § 42 Absatz 2 Satz 4, § 43
-Absatz 2 Satz 5 und § 45 Absatz 2 Satz 4 des Gesetzes sowie für die
-Verzeichnisse über Personenstandsfälle im Ausland ist ein
-elektronisches Auskunftssystem einzurichten, das das Auffinden eines
-Personenstandseintrags oder einer namensrechtlichen Erklärung
-ermöglicht.
+Absatz 2 Satz 5, § 44 Absatz 3 Satz 3 und § 45 Absatz 2 Satz 4 des
+Personenstandsgesetzes sowie für die Verzeichnisse über
+Personenstandsfälle im Ausland ist ein elektronisches Auskunftssystem
+einzurichten, das das Auffinden eines Personenstandseintrags, einer
+Zustimmungsentscheidung einer Ausländerbehörde gemäß § 85a des
+Aufenthaltsgesetzes oder einer namensrechtlichen Erklärung ermöglicht.
 
 (2) Die Standesämter und die deutschen Auslandsvertretungen dürfen die
 nach Absatz 1 eingerichteten Verzeichnisse einsehen, soweit dies für
@@ -661,7 +665,8 @@ ihre Aufgabenerfüllung erforderlich ist. Zulässige Suchkriterien und
 Ergebnisdaten sind Standesamt, Registernummer, Familiennamen,
 Geburtsname, Vornamen, Tag der Geburt, Tag der Eheschließung, Tag der
 Begründung einer Lebenspartnerschaft, Todestag und Ereignisort des
-Personenstandsfalls.
+Personenstandsfalls sowie Ausländerbehörde und Tag der Entscheidung
+der Ausländerbehörde nach § 85a des Aufenthaltsgesetzes.
 
 (3) Für die Suche in dem elektronischen Auskunftssystem wird die vom
 Land Berlin hierfür entwickelte Online-Datenbank des Standesamts I in
@@ -1149,7 +1154,7 @@ unterscheiden.
 
 
 ### § 46 Familienrechtliche Erklärungen
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE004803360)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE004804129)
 
 (1) Einer Person deren Name oder Geschlechtseintrag geändert worden
 ist, wird auf Wunsch eine Bescheinigung von dem Standesamt erteilt,
@@ -1177,11 +1182,15 @@ das
 
 
 (2) Wird eine Erklärung zur Namensführung oder eine andere
-familienrechtliche Erklärung nach den §§ 41 bis 45b des Gesetzes
-gegenüber einem Standesamt abgegeben, das für die Entgegennahme nicht
-zuständig ist, sollen dem für die Entgegennahme zuständigen Standesamt
-die Erklärungsdaten mit dem Wortlaut der Erklärung bei Vorliegen der
-technischen Voraussetzungen nach § 63 elektronisch übermittelt werden.
+familienrechtliche Erklärung nach den §§ 41 bis 45b gegenüber einem
+Standesamt abgegeben, das für die Entgegennahme nicht zuständig ist,
+sollen dem für die Entgegennahme zuständigen Standesamt die
+Erklärungsdaten mit dem Wortlaut der Erklärung bei Vorliegen der
+technischen Voraussetzungen nach § 63 elektronisch übermittelt werden.
+Im Fall der Übermittlung der Erklärung als Schriftstück wird für die
+eigenen Unterlagen eine beglaubigte Abschrift gefertigt und das
+Original der Erklärung an das für die Entgegennahme zuständige
+Standesamt abgegeben.
 
 
 ## Kapitel 8 - Berichtigungen

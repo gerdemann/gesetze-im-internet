@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 3224
 
+Änderung durch
+:   Art. 7 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1
 [Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000100000)

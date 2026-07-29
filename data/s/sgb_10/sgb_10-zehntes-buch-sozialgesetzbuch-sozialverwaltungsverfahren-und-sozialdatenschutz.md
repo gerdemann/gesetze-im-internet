@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 13 G v. 3.7.2026 I Nr. 199
+:   Art. 6 G v. 21.7.2026 I Nr. 221
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -2744,7 +2744,7 @@ Geheimhaltungsinteresse der betroffenen Person erheblich überwiegt.
 
 
 #### § 71 Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
-[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017153126)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017154131)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für die Erfüllung der gesetzlichen
@@ -2891,9 +2891,8 @@ zulässig, soweit sie erforderlich ist
 
 
 
-2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes oder in
-    § 11 Absatz 7 des Freizügigkeitsgesetzes/EU bezeichneten
-    Mitteilungspflichten,
+2.  für die Erfüllung der in § 87 Absatz 2 und 7 des Aufenthaltsgesetzes
+    bezeichneten Mitteilungspflichten,
 
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j
