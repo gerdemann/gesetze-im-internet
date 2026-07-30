@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 4391
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.4.2026 I Nr. 110
+:   Art. 6b G v. 24.7.2026 I Nr. 228
 
 
 ## Eingangsformel
@@ -29,7 +29,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000203130)
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000204131)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden
 Gebühren und Auslagen für individuell zurechenbare öffentliche
@@ -139,7 +139,10 @@ folgenden Vorschriften erbracht werden:
 18. Bundeskrebsregisterdatengesetz,
 
 
-19. Medizinal-Cannabisgesetz.
+19. Medizinal-Cannabisgesetz,
+
+
+20. Fünftes Buch Sozialgesetzbuch.
 
 
 
@@ -202,7 +205,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000704131)
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000705131)
 
 (Fundstelle: BGBl. I 2021, 4393 - 4454;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -289,6 +292,11 @@ Inhaltsübersicht
 *    *   Abschnitt 15
 
     *   Medizinal-Cannabisgesetz
+
+
+*    *   Abschnitt 16
+
+    *   Fünftes Buch Sozialgesetzbuch
 
 
 
@@ -1170,7 +1178,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **2**
 
-    *[^F818570_01_BJNR439100021BJNE000704131]
+    *[^F818570_01_BJNR439100021BJNE000705131]
    **Zulassung eines Arzneimittels im Verfahren der gegenseitigen
         Anerkennung (MRP**
         **) gemäß § 25b Absatz 2 AMG**
@@ -4639,11 +4647,11 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **15**
 
-    *[^F818570_02_BJNR439100021BJNE000704131]
+    *[^F818570_02_BJNR439100021BJNE000705131]
    **Staatliche Chargenfreigabe nach § 32 AMG in Verbindung mit der
         Verordnung zur Ausdehnung der Vorschriften über die staatliche
         Chargenprüfung auf Blutzubereitungen**
-[^F818570_03_BJNR439100021BJNE000704131]
+[^F818570_03_BJNR439100021BJNE000705131]
         **und der Therapieallergene-Verordnung**
 
     *
@@ -4738,7 +4746,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   15.9
 
-    *[^F818570_04_BJNR439100021BJNE000704131]
+    *[^F818570_04_BJNR439100021BJNE000705131]
    Chargenfreigabe auf der Grundlage der Anerkennung eines EU-Zertifikats
         , auch wenn das PEI dieses selbst ausgestellt hat, wenn kein
         neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand
@@ -4808,7 +4816,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   16.2
 
-    *[^F818570_05_BJNR439100021BJNE000704131]
+    *[^F818570_05_BJNR439100021BJNE000705131]
    Prüfung von Wirkstoffkomponenten oder Zwischenprodukten, die für die
         Herstellung von Impfstoffen oder Endprodukten verwendet werden im
         Rahmen der OMCL
@@ -5091,7 +5099,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **23**
 
-    *[^F818570_06_BJNR439100021BJNE000704131]
+    *[^F818570_06_BJNR439100021BJNE000705131]
    **Individuell zurechenbare öffentliche Leistungen nach der AMHV**
         **sind gebühren- und auslagenbefreit.**
 
@@ -6205,7 +6213,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
     *   **Individuell zurechenbare Leistungen in Zusammenhang mit klinischen
         Prüfungen unter Geltung der Verordnung (EU) Nummer 536/2014**
 
-    *[^F818570_07_BJNR439100021BJNE000704131]
+    *[^F818570_07_BJNR439100021BJNE000705131]
    Jeweils zusätzlich zur Gebühr der Ethik-Kommission gemäß KPBV
 
 
@@ -11972,33 +11980,71 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
+
+## Abschnitt 16
+
+
+## Fünftes Buch Sozialgesetzbuch (SGB V)
+
+
+
+*    *   Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
+        Medizinprodukte
+
+
+*    *   Nummer
+
+    *   Gebühren- oder Auslagentatbestand
+
+    *   Höhe der Gebühren oder
+        Auslagen in Euro
+
+
+*    *   1
+
+    *   Entscheidung über einen Antrag auf Befreiung vom zusätzlichen
+        Herstellerabschlag nach § 130a Absatz 1c Satz 1 SGB V
+
+    *   1 800
+
+
+*    *   2
+
+    *   Entscheidung über einen Antrag auf Verlängerung der Befreiung vom
+        zusätzlichen Herstellerabschlag nach § 130a Absatz 1c Satz 11 SGB V
+
+    *   400
+
+
+
+
     Verfahren gemäß Titel III Kapitel 4 der Richtlinie 2001/83/EG des
     Europäischen Parlaments und des Rates vom 6. November 2001 zur
     Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311
     vom 28.11.2001, S. 67), die zuletzt durch Artikel 1 der Verordnung
     (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist,
     in der jeweils geltenden Fassung.
-[^F818570_01_BJNR439100021BJNE000704131]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche
+[^F818570_01_BJNR439100021BJNE000705131]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche
     Chargenprüfung auf Blutzubereitungen vom 15. Juli 1994 (BGBl. I S.
     1614), die zuletzt durch Artikel 1 der Verordnung vom 26. Juni 1995
     (BGBl. I S. 854) geändert worden ist, in der jeweils geltenden
     Fassung.
-[^F818570_02_BJNR439100021BJNE000704131]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der
+[^F818570_02_BJNR439100021BJNE000705131]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der
     Arzneimittel auf Therapieallergene, die für einzelne Personen aufgrund
     einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der
     staatlichen Chargenprüfung vom 7. November 2008 (BGBl. I S. 2177), in
     der jeweils geltenden Fassung.
-[^F818570_03_BJNR439100021BJNE000704131]:     European Community/EEA official Control Authority Batch Release eines
+[^F818570_03_BJNR439100021BJNE000705131]:     European Community/EEA official Control Authority Batch Release eines
     OMCL nach dem EC Administrative Procedure for Official Authority Batch
     Release, auch soweit die Europäische Union eine Vereinbarung zur
     gegenseitigen Anerkennung (MRA) mit einem Drittland abgeschlossen hat.
-[^F818570_04_BJNR439100021BJNE000704131]:     Official Medicines Control Laboratory.
-[^F818570_05_BJNR439100021BJNE000704131]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne
+[^F818570_04_BJNR439100021BJNE000705131]:     Official Medicines Control Laboratory.
+[^F818570_05_BJNR439100021BJNE000705131]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne
     Genehmigung oder ohne Zulassung in Härtefällen vom 14. Juli 2010
     (BGBl. I S. 935).
-[^F818570_06_BJNR439100021BJNE000704131]:     Verordnung über das Verfahren zur Zusammenarbeit der
+[^F818570_06_BJNR439100021BJNE000705131]:     Verordnung über das Verfahren zur Zusammenarbeit der
     Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der
     Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit
     Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in der jeweils
     geltenden Fassung.
-[^F818570_07_BJNR439100021BJNE000704131]: 
+[^F818570_07_BJNR439100021BJNE000705131]: 

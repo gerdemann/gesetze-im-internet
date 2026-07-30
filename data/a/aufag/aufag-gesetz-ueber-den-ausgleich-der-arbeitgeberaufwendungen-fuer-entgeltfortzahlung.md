@@ -16,11 +16,11 @@ Fundstelle
 :   BGBl I: 2005, 3686
 
 Zuletzt geändert durch
-:   Art. 15 G v. 20.12.2022 I 2759
+:   Art. 7a G v. 24.7.2026 I Nr. 228
 
 
 ## § 1 Erstattungsanspruch
-[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000103360)
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000104131)
 
 (1) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse erstatten den Arbeitgebern, die in der Regel
@@ -42,6 +42,9 @@ als 30 Arbeitnehmer und Arbeitnehmerinnen beschäftigen, 80 Prozent
 
 
 
+Satz 1 gilt entsprechend für den Zeitraum, in dem ein Arbeitgeber
+anteiliges Arbeitsentgelt nach § 44c Absatz 4 des Fünften Buches
+Sozialgesetzbuch gewährt.
 
 (2) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse erstatten den Arbeitgebern in vollem Umfang

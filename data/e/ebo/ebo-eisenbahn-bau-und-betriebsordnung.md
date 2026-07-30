@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 5.4.2019 I 479
 
 Änderung durch
-:   Art. 22 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 22 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -1141,7 +1141,7 @@ rechtzeitig erkannt und Gegenmaßnahmen getroffen werden können.
 
 
 ### § 18 Einteilung, Begriffserklärungen
-[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002701308)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002702119)
 
 (1) Die Fahrzeuge werden entsprechend ihrer Zweckbestimmung nach
 Regelfahrzeugen und Nebenfahrzeugen unterschieden. Regelfahrzeuge
@@ -1157,8 +1157,8 @@ und Kleinlokomotiven.
 
 (4) Die Triebfahrzeuge werden entweder unmittelbar bedient oder werden
 gesteuert. Steuerung ist die Regelung der Antriebs- und Bremskraft
-durch eine Steuereinrichtung von einem führenden Fahrzeug aus oder
-durch Fernsteuerung.
+durch eine Steuereinrichtung von einem führenden Fahrzeug aus, durch
+Fernsteuerung oder durch vollautomatisierte Systeme gemäß § 46.
 
 (5) Die Wagen werden eingeteilt in Reisezugwagen und Güterwagen. Zu
 den Reisezugwagen zählen Personen-, Reisezuggepäck-, Autoreisezug- und
@@ -1489,12 +1489,14 @@ erforderlichen Anschriften und Zeichen tragen.
 
 
 ### § 32 Abnahme und Untersuchung der Fahrzeuge
-[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004103311)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004104119)
 
 (1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie
 abgenommen worden sind (§ 3 Abs. 2).
 
-(2) Die Fahrzeuge sind planmäßig wiederkehrend zu untersuchen.
+(2) Bei vollautomatisierten Fahrfunktionen gemäß § 46 ist im Rahmen
+der Abnahme nachzuweisen, dass mindestens eine gleiche Sicherheit
+gemäß § 2 Absatz 2 gewährleistet ist.
 
 (3) Art, Umfang und Häufigkeit der Untersuchung nach Absatz 2 haben
 sich nach Zustand und Umfang der Nutzung der Eisenbahnfahrzeuge zu
@@ -2060,9 +2062,21 @@ einfachen Verhältnissen von ihm festgestellt wird.
 
 
 ### § 46
-[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005501308)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005502119)
 
-(weggefallen)
+(1) Der Betrieb eines Triebfahrzeugs gemäß § 18 Absatz 4 mittels
+vollautomatisierter Fahrfunktion auf einer hierfür ausgerüsteten
+Strecke ist zulässig, wenn die Funktion bestimmungsgemäß verwendet
+wird und ein Betrieb mit mindestens gleicher Sicherheit gemäß § 2
+Absatz 2 gewährleistet ist.
+
+(2) Vollautomatisierte Fahrfunktionen übernehmen die Fahraufgaben
+vollständig innerhalb des festgelegten Betriebsbereiches.
+
+(3) Für den Einsatz vollautomatisierter Fahrfunktionen ist im Rahmen
+der Abnahme nach § 32 nachzuweisen, dass die Auswirkungen technischer
+Störungen oder Fehlhandlungen beherrscht werden und die sichere
+Betriebsführung jederzeit gewährleistet bleibt.
 
 
 ## Fünfter Abschnitt - Personal

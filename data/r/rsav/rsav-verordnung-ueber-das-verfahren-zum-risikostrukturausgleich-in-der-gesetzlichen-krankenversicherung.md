@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.2025 I Nr. 371
 
+Änderung durch
+:   Art. 6 G v. 24.7.2026 I Nr. 228 mWv 1.1.2027 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE000700307)

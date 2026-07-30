@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 27.4.2026 I Nr. 119
 
+Änderung durch
+:   Art. 2 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 bzw. 1.7.2028 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000303308)

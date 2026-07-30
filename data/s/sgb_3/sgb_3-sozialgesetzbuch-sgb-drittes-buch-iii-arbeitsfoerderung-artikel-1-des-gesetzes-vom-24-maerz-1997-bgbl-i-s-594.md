@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.4.2026 I Nr. 107
+:   Art. 1a G v. 24.7.2026 I Nr. 228
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -970,7 +970,7 @@ Versicherungspflicht nach Absatz 2a vor.
 
 
 #### § 27 Versicherungsfreie Beschäftigte
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016415119)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016416119)
 
 (1) Versicherungsfrei sind Personen in einer Beschäftigung als
 
@@ -1030,9 +1030,10 @@ nicht für Personen, die
     das Qualifizierungsgeld oder
 
 
-3.  wegen stufenweiser Wiedereingliederung in das Erwerbsleben (§ 74
-    Fünftes Buch, § 44 Neuntes Buch) oder aus einem sonstigen der in § 146
-    Absatz 1 genannten Gründe
+3.  wegen stufenweiser Wiedereingliederung in das Erwerbsleben nach § 74
+    des Fünften Buches oder § 44 des Neunten Buches, wegen
+    Teilarbeitsunfähigkeit nach § 44c Absatz 1 Satz 1 des Fünften Buches
+    oder aus einem sonstigen der in § 146 Absatz 1 genannten Gründe
 
 
 
@@ -6453,7 +6454,7 @@ Bemessungszeitraum erzielt hat (Bemessungsentgelt).
 
 
 ##### § 150 Bemessungszeitraum und Bemessungsrahmen
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028903308)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028905119)
 
 (1) Der Bemessungszeitraum umfasst die beim Ausscheiden aus dem
 jeweiligen Beschäftigungsverhältnis abgerechneten
@@ -6467,6 +6468,12 @@ Versicherungspflichtverhältnisses vor der Entstehung des Anspruchs.
 1.  Zeiten einer Beschäftigung, neben der Übergangsgeld wegen einer
     Leistung zur Teilhabe am Arbeitsleben, Teilübergangsgeld oder
     Teilarbeitslosengeld geleistet worden ist,
+
+
+1a. Zeiten einer Beschäftigung während einer Teilarbeitsunfähigkeit nach §
+    44c Absatz 1 Satz 1 des Fünften Buches oder Zeiten der stufenweisen
+    Wiedereingliederung in das Erwerbsleben nach § 74 des Fünften Buches
+    oder § 44 des Neunten Buches,
 
 
 2.  Zeiten einer Beschäftigung als Freiwillige oder Freiwilliger im Sinne
@@ -10314,7 +10321,7 @@ Satz 1 des Vierten Buches entsprechend.
 
 
 ##### § 345 Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049017311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049018119)
 
 Als beitragspflichtige Einnahme gilt bei Personen,
 
@@ -10352,13 +10359,22 @@ Als beitragspflichtige Einnahme gilt bei Personen,
     zugrunde liegende Einkommen nicht zu berücksichtigen,
 
 
-5a. die Krankengeld nach § 44a des Fünften Buches beziehen, das der
+5a. die teilweises Krankengeld nach § 44 Absatz 1a des Fünften Buches oder
+    teilweises Krankengeld der Sozialen Entschädigung beziehen, 80 Prozent
+    des der Leistung zugrunde liegenden Arbeitsentgelts oder
+    Arbeitseinkommens; bei gleichzeitigem Bezug von teilweisem Krankengeld
+    nach § 44 Absatz 1a des Fünften Buches neben einer anderen Leistung
+    ist das dem teilweisen Krankengeld zugrunde liegende Einkommen nicht
+    zu berücksichtigen,
+
+
+5b. die Krankengeld nach § 44a des Fünften Buches beziehen, das der
     Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird
     Krankengeld in Höhe der Entgeltersatzleistungen nach diesem Buch
     gezahlt, gilt Nummer 5,
 
 
-5b. die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des Fünften Buches
+5c. die Krankengeld nach § 45 Absatz 1 oder Absatz 1a des Fünften Buches
     oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in
     Verbindung mit § 45 Absatz 1 oder Absatz 1a des Fünften Buches
     beziehen, 80 Prozent des während der Freistellung ausgefallenen,
@@ -10546,7 +10562,7 @@ Dezember 2021 nicht anzuwenden.
 
 
 ##### § 347 Beitragstragung bei sonstigen Versicherten
-[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049223311)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049224119)
 
 Die Beiträge werden getragen
 
@@ -10572,19 +10588,23 @@ Die Beiträge werden getragen
 
 5.  für Personen, die Krankengeld oder Verletztengeld beziehen, von diesen
     und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung
-    entfallen, im übrigen von den Leistungsträgern; die Leistungsträger
-    tragen die Beiträge auch allein, soweit sie folgende Leistungen
+    entfallen, im Übrigen von den Leistungsträgern; die Leistungsträger
+    zahlen die Beiträge auch allein, soweit sie folgende Leistungen
     zahlen:
 
-    a)  Krankengeld der Sozialen Entschädigung
-        , Krankengeld der Soldatenentschädigung oder Übergangsgeld,
+    a)  Krankengeld der Sozialen Entschädigung, Krankengeld der
+        Soldatenentschädigung oder Übergangsgeld,
 
 
-    b)  Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen
-        nach diesem Buch oder
+    b)  Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistung nach
+        diesem Buch,
 
 
-    c)  eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen
+    c)  Krankengeld, dessen Höhe sich nach § 47 Absatz 2a des Fünften Buches
+        bestimmt, oder
+
+
+    d)  eine Leistung, die nach einem monatlichen Arbeitsentgelt bemessen
         wird, das die Geringfügigkeitsgrenze nicht übersteigt,
 
 
