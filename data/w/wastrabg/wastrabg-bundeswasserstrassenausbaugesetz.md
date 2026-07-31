@@ -16,11 +16,11 @@ Fundstelle
 :   BGBl I: 2016, 3224
 
 Änderung durch
-:   Art. 7 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 7 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
-[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000101119)
 
 (1) Das Netz der Bundeswasserstraßen wird nach dem Bedarfsplan für die
 Bundeswasserstraßen ausgebaut, der diesem Gesetz als Anlage beigefügt
@@ -30,6 +30,11 @@ ist.
 13 Absatz 1 des Bundeswasserstraßengesetzes und für die
 Planfeststellung, einschließlich der vorläufigen Anordnung, nach § 14
 des Bundeswasserstraßengesetzes verbindlich.
+
+(3) Die Umsetzung von Vorhaben, die im Bedarfsplan laufend und fest
+disponiert sind oder für die der Bedarfsplan einen Vordringlichen
+Bedarf feststellt, liegt im überragenden öffentlichen Interesse und
+dient der öffentlichen Sicherheit.
 
 
 ## § 2
@@ -52,20 +57,19 @@ Bundesverkehrswegeplanung aufeinander abzustimmen.
 
 
 ## § 4
-[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000401119)
 
 Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für
-Verkehr und digitale Infrastruktur, ob der Bedarfsplan der
-zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung
-anzupassen ist. Die Anpassung erfolgt durch Gesetz.
+Verkehr, ob der Bedarfsplan der zwischenzeitlich eingetretenen
+Wirtschafts- und Verkehrsentwicklung anzupassen ist. Die Anpassung
+erfolgt durch Gesetz.
 
 
 ## § 5
-[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000501119)
 
 (1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
-Bundesministerium für Verkehr und digitale Infrastruktur
-Fünfjahrespläne auf.
+Bundesministerium für Verkehr Fünfjahrespläne auf.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
 Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582), das zuletzt durch
@@ -74,12 +78,11 @@ geändert worden ist, bleibt unberührt.
 
 
 ## § 6
-[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000601119)
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur berichtet
-dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
-Bundeswasserstraßennetzes nach dem Stand vom 31. Dezember des
-Vorjahres.
+Das Bundesministerium für Verkehr berichtet dem Deutschen Bundestag
+jährlich über den Fortgang des Ausbaus des Bundeswasserstraßennetzes
+nach dem Stand vom 31. Dezember des Vorjahres.
 
 (zu § 1 Absatz 1)
 

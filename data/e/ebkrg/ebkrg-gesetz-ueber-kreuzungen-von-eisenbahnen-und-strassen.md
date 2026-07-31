@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 31.5.2021 I 1221
 
 Änderung durch
-:   Art. 3 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 3 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
@@ -105,7 +105,7 @@ und betrieblichen Belange sind angemessen zu berücksichtigen.
 
 
 ## § 5
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000505360)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000506119)
 
 (1) Über Art, Umfang und Durchführung einer nach § 2 oder § 3
 durchzuführenden Maßnahme sowie über die Verteilung der Kosten sollen
@@ -114,9 +114,9 @@ daß Bund oder Land nach Maßgabe des § 13 Absatz 1 Satz 2 oder Absatz 2
 zu den Kosten beitragen, ohne an der Kreuzung als Straßenbaulastträger
 beteiligt zu sein, so bedarf die Vereinbarung insoweit der
 Genehmigung. Die Genehmigung erteilt für den Bund das
-Bundesministerium für Verkehr und digitale Infrastruktur, für das Land
-die nach Landesrecht zuständige Behörde. In Fällen geringer
-finanzieller Bedeutung kann auf die Genehmigung verzichtet werden.
+Bundesministerium für Verkehr, für das Land die nach Landesrecht
+zuständige Behörde. In Fällen geringer finanzieller Bedeutung kann auf
+die Genehmigung verzichtet werden.
 
 (2) Einer Vereinbarung nach Absatz 1 bedarf es nicht, wenn sich ein
 Beteiligter oder ein Dritter bereit erklärt, die Kosten für die
@@ -142,12 +142,11 @@ für Maßnahmen nach § 3 vorlegen.
 
 
 ## § 8
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000805360)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000806119)
 
 (1) Wenn an der Kreuzung ein Schienenweg einer Eisenbahn des Bundes
 beteiligt ist, entscheidet als Anordnungsbehörde das Bundesministerium
-für Verkehr und digitale Infrastruktur im Benehmen mit der nach
-Landesrecht zuständigen Behörde.
+für Verkehr im Benehmen mit der nach Landesrecht zuständigen Behörde.
 
 (2) In sonstigen Fällen entscheidet als Anordnungsbehörde die nach
 Landesrecht zuständige Behörde.
@@ -203,31 +202,37 @@ zu tragen.
 
 
 ## § 12
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001201360)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001202119)
 
 (1) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so
 fallen die dadurch entstehenden Kosten
 
-1.  demjenigen Beteiligten zur Last, der die Änderung verlangt oder sie im
-    Fall einer Anordnung hätte verlangen müssen; Vorteile, die dem anderen
-    Beteiligten durch die Änderung entstehen, sind auszugleichen
-    (Vorteilsausgleich);
+1.  demjenigen Beteiligten zur Last, der die Änderung der Überführung
+    verlangt oder sie im Fall einer Anordnung hätte verlangen müssen;
 
 
-2.  beiden Beteiligten zur Last, wenn beide die Änderung verlangen oder
-    sie im Fall einer Anordnung hätten verlangen müssen, und zwar in dem
-    Verhältnis, in dem die Kosten bei getrennter Durchführung der Änderung
-    zueinander stehen würden. Nummer 1 Satz 2 ist entsprechend anzuwenden.
+2.  beiden Beteiligten hälftig zur Last, wenn beide eine Änderung
+    verlangen oder sie im Fall einer Anordnung hätten verlangen müssen,
+    die die Erneuerung der Überführung zur Folge hat;
+
+
+3.  beiden Beteiligten zur Last, wenn beide eine Änderung verlangen oder
+    sie im Fall einer Anordnung hätten verlangen müssen und nur aus der
+    Änderung eines Beteiligten die Erneuerung der Überführung folgt, und
+    zwar in dem Verhältnis, in dem die Kosten bei getrennter Durchführung
+    der Änderung zueinander stehen würden.
 
 
 
 
-(2) Im Fall des Absatzes 1 Nummer 2 werden die Kosten ohne
-Vorteilsausgleich hälftig geteilt, wenn die Überführung der Kreuzung
-einer Eisenbahn des Bundes mit einer Bundesfernstraße in der Baulast
-des Bundes dient und beide Beteiligten eine Änderung verlangen, die
-die Erneuerung der Überführung zur Folge hat, oder sie im Fall einer
-Anordnung eine solche Änderung hätten verlangen müssen.
+(2) Vorteile, die dem anderen Beteiligten durch die Änderung
+entstehen, sind auszugleichen (Vorteilsausgleich). Im Fall des
+Absatzes 1 Nummer 2 sind Vorteile nicht auszugleichen, wenn die
+Überführung der Kreuzung einer Eisenbahn des Bundes mit einer
+Bundesfernstraße in der Baulast des Bundes dient. Im Fall des Absatzes
+1 Nummer 3 sind Vorteile nicht auszugleichen, wenn die Erneuerung der
+Überführung ausschließlich durch das Verlangen desjenigen Beteiligten
+erforderlich ist, in dessen Baulast das Bauwerk steht.
 
 
 ## § 13
@@ -334,7 +339,7 @@ Verkehrswert des Grundstücks zugrunde zu legen ist.
 
 
 ## § 15
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001601360)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001602119)
 
 (1) Wird eine neue Kreuzung hergestellt, so hat im Fall des § 11 Abs.
 1 der Beteiligte, dessen Verkehrsweg neu hinzukommt, die hierdurch
@@ -343,11 +348,17 @@ erstatten. Im Fall des § 11 Abs. 2 hat jeder Beteiligte seine
 Erhaltungs- und Betriebskosten ohne Ausgleich zu tragen.
 
 (2) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so
-hat der Beteiligte, der nach § 12 Absatz 1 Nr. 1 oder 2 die Maßnahme
-verlangt oder sie im Fall einer Anordnung hätte verlangen müssen, dem
-anderen Beteiligten die hierdurch verursachten Erhaltungskosten zu
-erstatten. Im Fall des § 12 Absatz 2 hat jeder Beteiligte seine
-Erhaltungs- und Betriebskosten ohne Ausgleich zu tragen.
+hat der Beteiligte, der nach § 12 Absatz 1 Nummer 1 bis Nummer 3 die
+Maßnahme verlangt oder sie im Fall einer Anordnung hätte verlangen
+müssen, dem anderen Beteiligten die hierdurch verursachten
+Erhaltungskosten zu erstatten. Dient die Überführung der Kreuzung
+einer Eisenbahn des Bundes mit einer Bundesfernstraße in der Baulast
+des Bundes und verlangen beide Beteiligte eine Änderung oder hätten
+sie im Falle einer Anordnung verlangen müssen, hat jeder Beteiligte
+seine Erhaltungs- und Betriebskosten ohne Ausgleich zu tragen. Ist die
+Erneuerung der Überführung ausschließlich durch das Verlangen
+desjenigen Beteiligten erforderlich, in dessen Baulast das Bauwerk
+steht, trägt er die Erhaltungs- und Betriebskosten ohne Ausgleich.
 
 (3) Wird an einem Bahnübergang eine Maßnahme nach § 3 durchgeführt, so
 hat jeder Beteiligte seine veränderten Erhaltungs- und Betriebskosten
@@ -359,18 +370,19 @@ abzulösen.
 
 
 ## § 16
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001704305)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001705119)
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
+(1) Das Bundesministerium für Verkehr kann mit Zustimmung des
+Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten nach den §§ 11, 12 und 13 näher bestimmt wird
     und für die Verwaltungskosten Pauschalbeträge festgesetzt werden;
 
 
 2.  bestimmt wird, wie die bei getrennter Durchführung der Maßnahmen nach
-    § 12 Nr. 2 entstehenden Kosten unter Anwendung von Erfahrungswerten
-    für die Baukosten in vereinfachter Form ermittelt werden;
+    § 12 Absatz 1 Nummer 2 und 3 entstehenden Kosten unter Anwendung von
+    Erfahrungswerten für die Baukosten in vereinfachter Form ermittelt
+    werden;
 
 
 3.  die Berechnung und die Zahlung von Ablösungsbeträgen nach § 15 Abs. 4
@@ -386,7 +398,7 @@ mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 
 (2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium
-für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
+für Verkehr mit Zustimmung des Bundesrates.
 
 
 ## § 17
@@ -428,11 +440,14 @@ bis zum Zeitpunkt des gesetzlichen Übergangs der Baulast.
 
 
 ## § 20
-[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE002101360)
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE002102119)
 
 § 13 Absatz 2 Satz 2 kommt nicht zur Anwendung für Maßnahmen, über die
 die Beteiligten nach § 1 Absatz 6 des Eisenbahnkreuzungsgesetzes vor
-dem 1. Januar 2022 eine Vereinbarung getroffen haben.
+dem 1. Januar 2022 eine Vereinbarung getroffen haben. Für
+Vereinbarungen, die bis zu drei Monate nach dem 29. Juli 2026
+geschlossen werden, gelten die Vorschriften dieses Gesetzes in der bis
+einschließlich 28. Juli 2026 geltenden Fassung.
 
 
 ## § 21
