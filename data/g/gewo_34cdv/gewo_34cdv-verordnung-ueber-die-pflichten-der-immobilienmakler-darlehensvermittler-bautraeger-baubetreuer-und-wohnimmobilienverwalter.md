@@ -25,9 +25,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 28.7.2026 I Nr. 229 ist berücksichtigt
+
 
 ## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000105128)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000106119)
 
 (1) Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach §
 34c Absatz 1 der Gewerbeordnung ausüben, unabhängig vom Bestehen einer
@@ -35,27 +38,14 @@ Erlaubnispflicht.
 
 (2) Diese Verordnung gilt nicht, soweit § 34c Absatz 5 der
 Gewerbeordnung anzuwenden ist. Sie gilt zudem nicht für
-Gewerbetreibende, die
-
-1.  als Versicherungs- oder Bausparkassenvertreter im Rahmen ihrer
-    Tätigkeit für ein der Aufsicht der Bundesanstalt für
-    Finanzdienstleistungsaufsicht unterliegendes Versicherungs- oder
-    Bausparunternehmen den Abschluss von Verträgen über Darlehen
-    vermitteln oder die Gelegenheit zum Abschluss solcher Verträge
-    nachweisen oder
-
-
-2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der
-    Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18
-    Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und
-    § 19.
-
-
-
+Gewerbetreibende, die als Wohnimmobilienverwalter nach § 34c Absatz 1
+Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11,
+15 bis 15b, 18 Absatz 1 Nummer 7, 9 und 10, Absatz 2 und 3 sowie § 19
+dieser Verordnung.
 
 
 ## § 2 Sicherheitsleistung, Versicherung
-[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000206360)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000207119)
 
 (1) Bevor der Gewerbetreibende zur Ausführung des Auftrages
 Vermögenswerte des Auftraggebers erhält oder zu deren Verwendung
@@ -105,9 +95,10 @@ erhält oder zu deren Verwendung ermächtigt wird.
 
 (5) Die Sicherheiten und Versicherungen sind aufrechtzuerhalten
 
-1.  in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der
-    Gewerbeordnung, bis der Gewerbetreibende die Vermögenswerte an den in
-    dem Auftrag bestimmten Empfänger übermittelt hat,
+1.  in den Fällen des
+    § 34c Absatz 1 Nummer 1 der Gewerbeordnung, bis der Gewerbetreibende
+    die Vermögenswerte an den in dem Auftrag bestimmten Empfänger
+    übermittelt hat,
 
 
 2.  in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der
@@ -306,16 +297,16 @@ Absatz 2 entsprechend.
 
 
 ## § 4 Verwendung von Vermögenswerten des Auftraggebers
-[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000404360)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000405119)
 
 (1) Der Gewerbetreibende darf Vermögenswerte des Auftraggebers, die er
 erhalten hat oder zu deren Verwendung er ermächtigt worden ist, nur
 verwenden
 
-1.  in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der
-    Gewerbeordnung zur Erfüllung des Vertrages, der durch die Vermittlung
-    oder die Nachweistätigkeit des Gewerbetreibenden zustande gekommen
-    ist,
+1.  in den Fällen des
+    § 34c Absatz 1 Nummer 1 der Gewerbeordnung zur Erfüllung des
+    Vertrages, der durch die Vermittlung oder die Nachweistätigkeit des
+    Gewerbetreibenden zustande gekommen ist,
 
 
 2.  in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung
@@ -820,7 +811,7 @@ Weiterbildungsabschlusses.
 
 
 ## § 16 Prüfungen
-[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001610118)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001611119)
 
 (1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 der
 Gewerbeordnung haben auf ihre Kosten die Einhaltung der sich aus den
@@ -870,16 +861,17 @@ bestimmt. Absatz 1 Satz 3 bis 5 gilt entsprechend.
 
 
 
-Bei Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 und
-2 der Gewerbeordnung können mit der Prüfung nach Absatz 2 auch andere
-Personen, die öffentlich bestellt oder zugelassen worden sind und die
-auf Grund ihrer Vorbildung und Erfahrung in der Lage sind, eine
-ordnungsgemäße Prüfung in dem jeweiligen Gewerbebetrieb durchzuführen,
-sowie deren Zusammenschlüsse betraut werden. § 13a Absatz 1 und 2 Satz
-1 und 2, Absatz 5 bis 7 der Gewerbeordnung gilt für die in Satz 2
-genannten Personen, die mit der Prüfung betraut werden können,
-entsprechend. Ungeeignet für eine Prüfung sind Personen, bei denen die
-Besorgnis der Befangenheit besteht.
+Bei Gewerbetreibenden im Sinne des
+§ 34c Absatz 1 Nummer 1 der Gewerbeordnung können mit der Prüfung nach
+Absatz 2 auch andere Personen, die öffentlich bestellt oder zugelassen
+worden sind und die auf Grund ihrer Vorbildung und Erfahrung in der
+Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen
+Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse betraut
+werden. § 13a Absatz 1 und 2 Satz 1 und 2, Absatz 5 bis 7 der
+Gewerbeordnung gilt für die in Satz 2 genannten Personen, die mit der
+Prüfung betraut werden können, entsprechend. Ungeeignet für eine
+Prüfung sind Personen, bei denen die Besorgnis der Befangenheit
+besteht.
 
 
 ## § 17 Rechte und Pflichten der an der Prüfung Beteiligten

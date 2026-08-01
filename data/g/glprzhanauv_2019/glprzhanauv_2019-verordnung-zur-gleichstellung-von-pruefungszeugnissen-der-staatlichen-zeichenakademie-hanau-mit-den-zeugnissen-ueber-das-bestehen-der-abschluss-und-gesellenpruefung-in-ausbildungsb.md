@@ -23,7 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
-[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000101123)
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000102131)
 
 Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I
@@ -88,7 +88,7 @@ August 2028 außer Kraft.
 
 
 ## Schlussformel
-[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000401123)
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000402131)
 
 Der Bundesrat hat zugestimmt.
 

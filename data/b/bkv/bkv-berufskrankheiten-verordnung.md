@@ -273,7 +273,7 @@ beenden.
 
 
 ### § 9 Durchführung der Aufgaben
-[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001300360)
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001301131)
 
 (1) Zur Durchführung seiner Aufgaben tritt der Sachverständigenbeirat
 zu Sitzungen zusammen. Das Bundesministerium für Arbeit und Soziales
@@ -299,9 +299,10 @@ Zusammenfassung der wissenschaftlichen Entscheidungsgründe.
 
 (5) Das Bundesministerium für Arbeit und Soziales gibt die
 Empfehlungen und Stellungnahmen des Sachverständigenbeirats bekannt;
-die Abschlussvermerke werden veröffentlicht. Die vorbereitenden,
-intern erstellten Beratungsunterlagen des Sachverständigenbeirats sind
-vertraulich.
+die Abschlussvermerke werden veröffentlicht. Die Beratungsunterlagen
+des Sachverständigenbeirats sind mit Ausnahme der in Satz 1 genannten
+Dokumente vertraulich. Sie unterliegen auch nach Abschluss der
+Beratungen der Vertraulichkeit.
 
 
 ### § 10 Geschäftsstelle
@@ -359,7 +360,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1
-[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001107131)
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001108131)
 
 (Fundstelle: BGBl. I 1997, 2625 - 2626;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -578,6 +579,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe
         in den Körper verursacht werden, oder gemäß Nummer 5101 zu
         entschädigen sind.
+
+
+*    *   1322
+
+    *   Parkinson-Syndrom durch langjährig, häufig und selbst angewendete
+        Pestizide
 
 
 *    *   **2**
