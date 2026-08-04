@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 23.4.2026 I Nr. 112
 
 Änderung durch
-:   Art. 1 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.11.2026 bzw. 1.5.2027 bzw. 1.11.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 1 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 6 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 1.11.2026 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
@@ -281,7 +281,7 @@ solchen Unionsbürgern,
 
 
 #### § 3 Allgemeiner Inhalt
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000526311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000532311)
 
 (1) Folgende Daten werden gespeichert:
 
@@ -303,7 +303,7 @@ solchen Unionsbürgern,
 
 5.  abweichende Namensschreibweisen, andere Namen, frühere Namen und
     frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien,
-    Familienstand, Angaben zum Ausweispapier, letzter Wohnort im
+    Familienstand, Angaben zu Ausweisdokumenten, letzter Wohnort im
     Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit
     und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
     (weitere Personalien),
@@ -643,7 +643,7 @@ gesperrt.
 
 
 #### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000928311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000936311)
 
 (1) Folgende Stellen sind in den jeweils genannten Fällen zur
 unverzüglichen Übermittlung von Daten an die Registerbehörde
@@ -760,8 +760,7 @@ entgegensteht. Außerdem übermitteln
 
 4.  die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3
     Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8,
-    Absatz
-    3e, 3f und 3g,
+    Absatz 3c bis 3e,
 
 
 4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3
@@ -782,19 +781,21 @@ entgegensteht. Außerdem übermitteln
     Referenznummern nach § 3 Absatz 3b in den Fällen des § 2 Absatz 2a,
 
 
-6.  die Bundesagentur für Arbeit und die für die Grundsicherung für
-    Arbeitsuchende zuständigen Stellen, die für die Ausführung des Achten
-    Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen
-    (Jugendämter), die für den Vollzug des Unterhaltsvorschussgesetzes
-    zuständigen Stellen (Unterhaltsvorschussstellen) und die für die
-    Ausführung des Zwölften Buches Sozialgesetzbuch zuständigen Stellen
-    (Träger der Sozialhilfe) die Daten nach § 3 Absatz 1 Nummer 6a in den
-    Fällen des § 2 Absatz 2 Nummer 3a, die Bundesagentur für Arbeit und
-    die für die Grundsicherung für Arbeitsuchende zuständigen Stellen die
-    Daten nach § 3 Absatz 3 in den Fällen des § 2 Absatz 1a Nummer 1 und
-    Absatz 2 Nummer 1, die für die Ausführung des Achten Buches
-    Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter)
-    die Daten nach § 3 Absatz 3c in den Fällen des § 2 Absatz 2 Nummer 3a
+6.  die Bundesagentur für Arbeit und die für die Durchführung der
+    Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die
+    Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht
+    zuständigen Stellen (Jugendämter), die für den Vollzug des
+    Unterhaltsvorschussgesetzes zuständigen Stellen
+    (Unterhaltsvorschussstellen) und die für die Ausführung des Zwölften
+    Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe)
+    die Daten nach § 3 Absatz 1 Nummer 6a in den Fällen des § 2 Absatz 2
+    Nummer 3a, die Bundesagentur für Arbeit und die für die Durchführung
+    der Grundsicherung für Arbeitsuchende zuständigen Stellen die Daten
+    nach § 3 Absatz 3 in den Fällen des § 2 Absatz 1a Nummer 1 und Absatz
+    2 Nummer 1, die für die Ausführung des Achten Buches Sozialgesetzbuch
+    nach Landesrecht zuständigen Stellen (Jugendämter) die Daten nach § 3
+    Absatz 2 Nummer 8 in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und
+    die Daten nach § 3 Absatz 3c in den Fällen des § 2 Absatz 2 Nummer 2
     sowie die Bundesagentur für Arbeit die Daten nach § 3 Absatz 1 Nummer
     1, 3, 4 und 7 in den Fällen des § 2 Absatz 2c,
 
@@ -1036,7 +1037,7 @@ ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
 
 ##### § 10 Allgemeine Vorschriften für die Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001419311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001425311)
 
 (1) Die Übermittlung von Daten an eine öffentliche Stelle ist nur
 zulässig, wenn die Kenntnis der Daten zur Erfüllung ihrer Aufgaben
@@ -1112,6 +1113,11 @@ genutzt werden für
     Ausländer- und den im Übrigen zuständigen Landesbehörden jeweils,
     soweit für den Ausländer noch keine Versicherungsnummer nach dem
     Vierten Buch Sozialgesetzbuch bekannt ist,
+
+
+3a. Datenübermittlungen zwischen der Bundesagentur für Arbeit, den
+    Ausländerbehörden und anderen öffentlichen Stellen im Visumverfahren
+    in den Fällen des § 2 Absatz 2c,
 
 
 4.  Datenübermittlungen von öffentlichen Stellen untereinander in den
@@ -1471,7 +1477,7 @@ Register übermittelt.
 
 
 ##### § 16 Datenübermittlung an Gerichte
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002010311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002011311)
 
 (1) An Gerichte werden zum Zwecke der Rechtspflege zu Ausländern, die
 keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
@@ -1489,7 +1495,7 @@ Grunddaten und folgende Daten übermittelt:
 4.  letzter Wohnort im Herkunftsland,
 
 
-5.  Angaben zum Ausweispapier,
+5.  Angaben zu Ausweisdokumenten,
 
 
 6.  die gegenwärtige Anschrift im Bundesgebiet.
@@ -1525,7 +1531,7 @@ Abruf im automatisierten Verfahren ist unzulässig.
 
 
 ##### § 17 Datenübermittlung an das Zollkriminalamt
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002105311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002108311)
 
 (1) An das Zollkriminalamt werden, soweit es die Zollfahndungsämter
 bei der Erledigung ihrer Aufgaben auf Grund der Abgabenordnung und
@@ -1548,7 +1554,7 @@ auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 4.  Ausschreibung zur Festnahme oder Aufenthaltsermittlung,
 
 
-5.  Angaben zum Ausweispapier,
+5.  Angaben zu Ausweisdokumenten,
 
 
 5a. die ausländische Personenidentitätsnummer,
@@ -1617,7 +1623,7 @@ folgenden Anlässe im Register erfaßt sind:
 
 
 ##### § 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006302311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006304311)
 
 An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur
 Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
@@ -1634,7 +1640,7 @@ Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten
 3.  Aliaspersonalien,
 
 
-4.  Angaben zum Ausweispapier,
+4.  Angaben zu Ausweisdokumenten,
 
 
 5.  die ausländische Personenidentitätsnummer,
@@ -1652,7 +1658,7 @@ Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten
 
 
 ##### § 17b Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE007001311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE007002311)
 
 An die Zentralstelle für Sanktionsdurchsetzung werden zur Erfüllung
 ihrer Aufgaben nach § 1 Absatz 1 des Sanktionsdurchsetzungsgesetzes zu
@@ -1669,14 +1675,14 @@ auf Ersuchen die Grunddaten und, soweit vorhanden, folgende Daten
 3.  Aliaspersonalien und
 
 
-4.  Angaben zum Ausweispapier.
+4.  Angaben zu Ausweisdokumenten.
 
 
 
 
 
 ##### § 18 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002207311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002208311)
 
 (1) An die Bundesagentur für Arbeit werden für die Erfüllung ihrer
 Aufgaben nach dem Achten Abschnitt des Zweiten Kapitels des
@@ -1705,7 +1711,7 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien,
-    Angaben zum Ausweispapier und die ausländische
+    Angaben zu Ausweisdokumenten und die ausländische
     Personenidentitätsnummer,
 
 
@@ -1753,7 +1759,7 @@ einem der folgenden Anlässe im Register erfaßt sind:
 
 
 ##### § 18a Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006404311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006407311)
 
 An die Träger der Sozialhilfe und die für die Durchführung des
 Asylbewerberleistungsgesetzes zuständigen Stellen werden zur Prüfung,
@@ -1764,8 +1770,9 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier, die ausländische Personenidentitätsnummer,
-    freiwillige Angaben zur Religionszugehörigkeit,
+    Angaben zu Ausweisdokumenten, die ausländische
+    Personenidentitätsnummer, freiwillige Angaben zur
+    Religionszugehörigkeit,
 
 
 2.  das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des
@@ -1839,7 +1846,7 @@ Fingerabdruckdaten zugehörigen Referenznummern übermittelt.
 
 
 ##### § 18b Datenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005604311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005607311)
 
 (1) An die Bundesagentur für Arbeit und die für die Durchführung der
 Grundsicherung für Arbeitsuchende zuständigen Stellen werden zur
@@ -1849,7 +1856,8 @@ Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten
 übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier, die ausländische Personenidentitätsnummer,
+    Angaben zu Ausweisdokumenten, die ausländische
+    Personenidentitätsnummer,
 
 
 2.  Familienstand,
@@ -1901,17 +1909,18 @@ Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten
 
 
 
-(2) An die für die Durchführung der Grundsicherung für Arbeitsuchende
-zuständigen Stellen werden zur Erfüllung ihrer Aufgabe nach § 68
-Absatz 2 Satz 3 des Aufenthaltsgesetzes in Verbindung mit dem Zweiten
-Buch Sozialgesetzbuch zu Ausländern, die keine
-freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen das Datum
-der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes
-und die Stelle, bei der sie vorliegt, übermittelt.
+(2) An die Bundesagentur für Arbeit und die für die Durchführung der
+Grundsicherung für Arbeitsuchende zuständigen Stellen werden zur
+Geltendmachung eines Erstattungsanspruchs im Sinne des § 68 Absatz 2
+Satz 4 des Aufenthaltsgesetzes in Verbindung mit dem Zweiten Buch
+Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten
+Unionsbürger sind, auf Ersuchen das Datum der Verpflichtungserklärung
+nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie
+vorliegt, übermittelt.
 
 
 ##### § 18c Datenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005703311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005705311)
 
 An die für den öffentlichen Gesundheitsdienst zuständigen Behörden
 werden zur Prüfung, ob die erforderlichen Gesundheitsuntersuchungen
@@ -1920,7 +1929,7 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier,
+    Angaben zu Ausweisdokumenten,
 
 
 2.  die ausländische Personenidentitätsnummer,
@@ -1954,7 +1963,7 @@ Grunddaten und folgende Daten übermittelt:
 
 
 ##### § 18d Datenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005804311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005807311)
 
 (1) An die Jugendämter werden zur Erfüllung ihrer Aufgaben nach dem
 Achten Buch Sozialgesetzbuch zu Ausländern, die keine
@@ -1962,7 +1971,7 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier,
+    Angaben zu Ausweisdokumenten,
 
 
 2.  die ausländische Personenidentitätsnummer,
@@ -2019,7 +2028,7 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier,
+    Angaben zu Ausweisdokumenten,
 
 
 2.  Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen
@@ -2063,7 +2072,7 @@ gegenwärtigen Anschrift im Bundesgebiet ist auch die Anschrift vor
 
 
 ##### § 18f Datenübermittlung an die Familienkasse Direktion und die Familienkassen der Bundesagentur für Arbeit
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006202311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006203311)
 
 (1) An die Familienkasse Direktion der Bundesagentur für Arbeit werden
 zur Erfüllung der Aufgaben nach Abschnitt X des
@@ -2093,7 +2102,7 @@ freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die
 Grunddaten und folgende Daten übermittelt:
 
 1.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und
-    Angaben zum Ausweispapier,
+    Angaben zu Ausweisdokumenten,
 
 
 2.  Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen
@@ -2190,7 +2199,7 @@ bereits eingeleitetes Kontrollverfahren benötigt werden.
 
 
 ##### § 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002509311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002510311)
 
 (1) Im Rahmen des Visaverfahrens werden auf Anfrage des Auswärtigen
 Amts, der deutschen Auslandsvertretungen oder des Bundesamts für
@@ -2244,12 +2253,12 @@ Auswärtige Angelegenheiten bezieht, ein Suchvermerk gespeichert,
 übermittelt die beteiligte Organisationseinheit die nach Absatz 1 Satz
 1 weitergegebenen Daten an die ersuchende Stelle.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat bestimmt im
-Einvernehmen mit dem Auswärtigen Amt, bei welchen Speicheranlässen
-nach § 2 Abs. 2 die beteiligte Organisationseinheit die vom
-Auswärtigen Amt, dem Bundesamt für Auswärtige Angelegenheiten oder der
-Auslandsvertretung übermittelten Daten an die Behörde, die diese
-Speicherung veranlasst hat, übermittelt.
+(6) Das Bundesministerium des Innern bestimmt im Einvernehmen mit dem
+Auswärtigen Amt, bei welchen Speicheranlässen nach § 2 Abs. 2 die
+beteiligte Organisationseinheit die vom Auswärtigen Amt, dem Bundesamt
+für Auswärtige Angelegenheiten oder der Auslandsvertretung
+übermittelten Daten an die Behörde, die diese Speicherung veranlasst
+hat, übermittelt.
 
 (7) Die infolge der Übermittlung nach den Absätzen 4 bis 6
 erforderlichen weiteren Übermittlungen zwischen den dort genannten
@@ -2288,7 +2297,7 @@ entsprechend.
 
 
 ##### § 22 Abruf im automatisierten Verfahren
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002615311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002616311)
 
 (1) Folgende öffentliche Stellen nehmen zum Abruf von Daten der
 betroffenen Person am automatisierten Verfahren teil:
@@ -2392,8 +2401,7 @@ der Zulassung zu unterrichten.
 (2) Das automatisierte Abrufverfahren darf nur eingerichtet werden,
 wenn die beteiligten Stellen die zur Datensicherung nach den Artikeln
 24, 25 und 32 der Verordnung (EU) 2016/679 erforderlichen technischen
-und organisatorischen Maßnahmen getroffen haben. § 20 Abs. 2 gilt
-entsprechend.
+und organisatorischen Maßnahmen getroffen haben.
 
 (3) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt
 die abrufende Stelle. Die Registerbehörde überprüft die Zulässigkeit
@@ -2411,7 +2419,7 @@ zum Gegenstand hat.
 
 
 ##### § 23 Statistische Aufbereitung der Daten
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002706311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002708311)
 
 (1) Das Statistische Bundesamt erstellt jährlich nach dem Stand vom
 31\. Dezember eine Bundesstatistik über die Ausländer, die sich während
@@ -2443,6 +2451,9 @@ Gesetzes aufgehalten haben, folgende Daten zu diesem Personenkreis:
 
 
 5.  Familienstand,
+
+
+5a. letzter Wohnort im Herkunftsland,
 
 
 6.  Staatsangehörigkeiten des Ehegatten oder des Lebenspartners,
@@ -2571,7 +2582,7 @@ begründen.
 
 
 ##### § 24a Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005408311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE005409311)
 
 (1) Das Bundesamt für Migration und Flüchtlinge darf die nach § 3
 Absatz 1 Nummer 1, 2, 4, 5, 5c, 5d, 6, 7a und 9, Absatz 2 Nummer 4, 5,
@@ -2649,8 +2660,7 @@ Befragten an Forschungseinrichtungen übermitteln, soweit
     auf andere Weise erreicht werden kann und
 
 
-4.  das Bundesministerium des Innern, für Bau und Heimat der Übermittlung
-    zustimmt.
+4.  das Bundesministerium des Innern der Übermittlung zustimmt.
 
 
 
@@ -2691,8 +2701,7 @@ Mitteln finanziert wird, übermitteln, soweit
     erreicht werden kann und
 
 
-4.  das Bundesministerium des Innern, für Bau und Heimat der Übermittlung
-    zustimmt.
+4.  das Bundesministerium des Innern der Übermittlung zustimmt.
 
 
 
@@ -2893,77 +2902,6 @@ des Aufenthaltsgesetzes oder § 68 Absatz 1 des Aufenthaltsgesetzes
 abgegeben haben.
 
 
-### § 29 Inhalt
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003408311)
-
-(1) Folgende Daten werden gespeichert:
-
-1.  das Geschäftszeichen der Registerbehörde (Visadatei-Nummer),
-
-
-1a. das Visumaktenzeichen der Registerbehörde,
-
-
-2.  die Auslandsvertretung oder das Bundesamt für Auswärtige
-    Angelegenheiten; bei einem Antrag auf Erteilung eines Ausnahmevisums
-    die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
-    betraute Behörde,
-
-
-3.  die Grundpersonalien und die weiteren Personalien,
-
-
-4.  das Lichtbild,
-
-
-5.  das Datum der Datenübermittlung,
-
-
-6.  die Entscheidung über den Antrag, die Rücknahme des Antrags, die
-    Erledigung des Antrags auf andere Weise sowie die Rücknahme, die
-    Annullierung, die Aufhebung und den Widerruf des Visums,
-
-
-7.  das Datum der Entscheidung und das Datum der Übermittlung der
-    Entscheidung,
-
-
-8.  Art, Nummer und Geltungsdauer des Visums,
-
-
-9.  die im Visaverfahren beteiligte Ausländerbehörde,
-
-
-10. bei Erteilung eines Visums das Datum und das Dokument der
-    Verpflichtungserklärung nach § 66 Absatz 2 des Aufenthaltsgesetzes
-    oder § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie
-    vorliegt, sowie Familienname, Vornamen, Geburtsdatum, Geburtsort sowie
-    die gegenwärtige Anschrift im Bundesgebiet des Verpflichtungsgebers
-    und die Angabe, ob im Falle früherer Aufwendung öffentlicher Mittel
-    die Inanspruchnahme seiner Person erfolglos war,
-
-
-11. bei Vorlage ge- oder verfälschter Dokumente im Visaverfahren die
-    Bezeichnung der vorgelegten ge- oder verfälschten Dokumente (Art und
-    Nummer des Dokuments, im Dokument enthaltene Angaben über Aussteller,
-    Ausstellungsdatum, Gültigkeitsdauer),
-
-
-12. Entscheidungen der Bundesagentur für Arbeit über die Zustimmung zur
-    Beschäftigung, einschließlich der Nebenbestimmungen.
-
-
-
-
-(2) Aus Gründen der inneren Sicherheit werden bei Visaanträgen von
-Angehörigen bestimmter Staaten, die vom Bundesministerium des Innern,
-für Bau und Heimat im Einvernehmen mit dem Auswärtigen Amt festgelegt
-werden können, zusätzlich zu den Daten nach Absatz 1 Paßart, Paßnummer
-und ausstellender Staat gespeichert.
-
-(3) (weggefallen)
-
-
 ### § 30 Übermittelnde Stellen
 [Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003505311)
 
@@ -3021,7 +2959,7 @@ Verfügung.
 
 
 ### § 32 Dritte, an die Daten übermittelt werden
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003710311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003711311)
 
 (1) Auf Ersuchen werden die Daten an folgende öffentliche Stellen zur
 Erfüllung ihrer Aufgaben übermittelt:
@@ -3047,9 +2985,10 @@ Erfüllung ihrer Aufgaben übermittelt:
     Absatz 3 des Asylgesetzes,
 
 
-7.  die Träger der Sozialhilfe, die für die Durchführung der
-    Grundsicherung für Arbeitsuchende zuständigen Stellen und die für die
-    Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen,
+7.  die Träger der Sozialhilfe, die Bundesagentur für Arbeit und die für
+    die Durchführung der Grundsicherung für Arbeitsuchende zuständigen
+    Stellen, die für die Durchführung des Asylbewerberleistungsgesetzes
+    zuständigen Stellen und die Jugendämter,
 
 
 8.  die in § 20 Abs. 1 bezeichneten öffentlichen Stellen,
@@ -3062,14 +3001,18 @@ Erfüllung ihrer Aufgaben übermittelt:
 
 
 11. die obersten Bundes- und Landesbehörden, die mit der Durchführung
-    ausländer- und asylrechtlicher Vorschriften als eigener Aufgabe
+    ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
     betraut sind, soweit nicht § 21 anzuwenden ist,
 
 
 12. die Zentralstelle für Finanztransaktionsuntersuchungen,
 
 
-13. die Zentralstelle für Sanktionsdurchsetzung.
+13. die Zentralstelle für Sanktionsdurchsetzung,
+
+
+14. die deutschen Auslandsvertretungen und das Bundesamt für Auswärtige
+    Angelegenheiten.
 
 
 
@@ -3094,7 +3037,7 @@ automatisierten Verfahren zugelassen werden. § 22 Absatz 1 Satz 2 bis
 
 
 ### § 34 Auskunft an die betroffene Person; Datenschutzcockpit
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003907311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003908311)
 
 (1) In dem Antrag auf Auskunft nach Artikel 15 der Verordnung (EU)
 2016/679 muss die betroffene Person ihre Grundpersonalien angeben.
@@ -3172,18 +3115,17 @@ gespeichert; nach Beendigung des Nutzungsvorgangs sind sie
 unverzüglich zu löschen. Die Absätze 2 bis 5 gelten entsprechend. § 10
 des Onlinezugangsgesetzes bleibt unberührt für Datenübermittlungen
 nach dem Identifikationsnummerngesetz. Sobald das Bundesministerium
-des Innern und für Heimat im Bundesanzeiger bekannt gibt, dass die
-technischen und rechtlichen Voraussetzungen für eine Anzeige der
-Datenübermittlungen nach diesem Gesetz im Datenschutzcockpit nach § 10
-des Onlinezugangsgesetzes vorliegen, sollen das Datenschutzcockpit
-nach dem Onlinezugangsgesetz und das Datenschutzcockpit nach diesem
-Gesetz in der Weise zusammengeführt werden, dass das AZR-
-Datenschutzcockpit im Datenschutzcockpit nach dem Onlinezugangsgesetz
-aufgeht. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab
-diesem Zeitpunkt entsprechend. Das Nähere zum Zugang, zu den
-technischen Verfahren, den technischen Formaten der Datensätze und den
-Übertragungswegen legt das Bundesministerium des Innern und für Heimat
-durch Rechtsverordnung fest.
+des Innern im Bundesanzeiger bekannt gibt, dass die technischen und
+rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen
+nach diesem Gesetz im Datenschutzcockpit nach § 10 des
+Onlinezugangsgesetzes vorliegen, sollen das Datenschutzcockpit nach
+dem Onlinezugangsgesetz und das Datenschutzcockpit nach diesem Gesetz
+in der Weise zusammengeführt werden, dass das AZR-Datenschutzcockpit
+im Datenschutzcockpit nach dem Onlinezugangsgesetz aufgeht. § 9 Absatz
+2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt
+entsprechend. Das Nähere zum Zugang, zu den technischen Verfahren, den
+technischen Formaten der Datensätze und den Übertragungswegen legt das
+Bundesministerium des Innern durch Rechtsverordnung fest.
 
 
 ### § 34a Datenschutzrechtliche Kontrolle
@@ -3260,14 +3202,16 @@ Strafverfolgung erforderlich ist.
 
 
 ### § 38 Unterrichtung beteiligter Stellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004301311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004302311)
 
 (1) Die Registerbehörde hat im Fall einer Berichtigung, Löschung oder
 Einschränkung der Verarbeitung nach den §§ 35 bis 37 den Empfänger der
 betreffenden Daten zu unterrichten, wenn dies zur Wahrung
 überwiegender schutzwürdiger Interessen der betroffenen Person
 erforderlich ist. Sie hat auch diejenige Stelle zu unterrichten, die
-ihr diese Daten übermittelt hat.
+ihr diese Daten übermittelt hat. Satz 2 gilt nicht, wenn die
+Berichtigung, Löschung oder Einschränkung der Verarbeitung von der
+übermittelnden Stelle selbst vorgenommen worden ist.
 
 (2) Absatz 1 gilt nicht für Löschungen bei Fristablauf.
 
@@ -3293,10 +3237,10 @@ unzulässig.
 
 
 ### § 40 Rechtsverordnungen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004509311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004510311)
 
-Das Bundesministerium des Innern, für Bau und Heimat bestimmt mit
-Zustimmung des Bundesrates durch Rechtsverordnung
+Das Bundesministerium des Innern bestimmt mit Zustimmung des
+Bundesrates durch Rechtsverordnung
 
 1.  Näheres zu den Daten, die
 
@@ -3313,9 +3257,9 @@ Zustimmung des Bundesrates durch Rechtsverordnung
 2.  Näheres zu den Voraussetzungen und zum Verfahren
 
     a)  der Übermittlung von Daten an und durch die Registerbehörde,
-        insbesondere der Direkteingabe von Daten und des Datenabrufs im
-        automatisierten Verfahren, sowie der Weitergabe innerhalb der
-        Registerbehörde,
+        insbesondere der Direkteingabe von Daten, des Datenabrufs und der
+        Datenübermittlung im automatisierten Verfahren, sowie der Weitergabe
+        innerhalb der Registerbehörde,
 
 
     b)  der Identitätsprüfung nach § 10 Abs. 3, § 21 Abs. 3 und § 31 Abs. 1,
@@ -3357,7 +3301,7 @@ Zustimmung des Bundesrates durch Rechtsverordnung
 
 
 ### § 41 Verwaltungsvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004603311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE004604311)
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften zu diesem Gesetz und zu den auf Grund dieses
@@ -3365,11 +3309,10 @@ Gesetzes erlassenen Rechtsverordnungen erlassen. Bei bundeseigener
 Verwaltung bedürfen die allgemeinen Verwaltungsvorschriften nicht der
 Zustimmung des Bundesrates.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat benennt in
-einer Dienstvorschrift die Daten, die von der Registerbehörde nach §
-20 Abs. 1 übermittelt werden. Die oder der Bundesbeauftragte für den
-Datenschutz und die Informationsfreiheit ist vor Erlaß der
-Dienstvorschrift anzuhören.
+(2) Das Bundesministerium des Innern benennt in einer Dienstvorschrift
+die Daten, die von der Registerbehörde nach § 20 Abs. 1 übermittelt
+werden. Die oder der Bundesbeauftragte für den Datenschutz und die
+Informationsfreiheit ist vor Erlaß der Dienstvorschrift anzuhören.
 
 
 ### § 42 Strafvorschriften
