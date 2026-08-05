@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 8 G v. 12.5.2026 I Nr. 143 mWv 1.6.2026
 
 Änderung durch
-:   Art. 7 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 bzw. 1.1.2028 noch nicht berücksichtigt
+:   Art. 7 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung der inhaltsübersicht durch
 :   Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -31,7 +31,7 @@ Zuletzt geändert durch
 
 
 ### § 1 Aufgaben der Krankenversicherung für Landwirte
-[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001008126)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001009126)
 
 Die landwirtschaftliche Krankenkasse als Solidargemeinschaft hat die
 Aufgabe, die Gesundheit der Versicherten zu erhalten,
@@ -42,8 +42,9 @@ Vorschriften Leistungen zur Verhütung von Krankheiten, zur
 betrieblichen Gesundheitsförderung und Prävention arbeitsbedingter
 Gefahren, zur Förderung der Selbsthilfe, zur Erfassung von
 gesundheitlichen Risiken und Früherkennung von Krankheiten sowie bei
-Krankheit. Die §§ 1 bis 2b, 4 Absatz 4 und 5, § 4a Absatz 2 und 4 Satz
-1 Nummer 5 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
+Krankheit. Die §§ 1 bis 2b des Fünften Buches Sozialgesetzbuch, § 4a
+Absatz 2 und 4 Satz 1 Nummer 5 des Fünften Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ### § 2 Pflichtversicherte
@@ -1290,7 +1291,7 @@ Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
 
 
 ### § 38 Festsetzung der Beiträge
-[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004712126)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004713126)
 
 (1) Die Beiträge für die in § 2 Abs. 1 Nr. 1, 2 und 3 genannten
 Versicherungspflichtigen und die in § 6 genannten
@@ -1331,6 +1332,13 @@ verändert haben. Das Bundesministerium für Ernährung und
 Landwirtschaft macht ab dem Jahr 2022 die Veränderungsrate und den
 sich daraus ergebenden Betrag des Solidarzuschlages bis zum 31. August
 eines jeden Jahres für das darauffolgende Jahr bekannt.
+
+(5) Die landwirtschaftliche Krankenkasse erhebt von Mitgliedern, deren
+Beitragsberechnung nach den §§ 43 bis 46 erfolgt, für einen nach § 7
+versicherten Ehegatten oder Lebenspartner einen Zuschlag auf den
+jeweiligen Beitragssatz in Höhe von 2,5 Prozentpunkten. § 242b Absatz
+1 Satz 2 bis 7 und Absatz 2 bis 5 des Fünften Buches Sozialgesetzbuch
+gilt entsprechend.
 
 
 ### § 39 Beitragsberechnung für versicherungspflichtige landwirtschaftliche Unternehmer
@@ -1406,7 +1414,7 @@ hätte.
 
 
 ### § 40 Beitragsberechnung bei Einkommen aus Land- und Forstwirtschaft
-[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004922126)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004923126)
 
 (1) Die Beiträge nach § 39 Absatz 1 Nr. 1 werden nach Beitragsklassen
 festgesetzt. Die Satzung bestimmt die Beitragsklassen für die
@@ -1427,7 +1435,11 @@ um nicht mehr als 10 vom Hundert unterschreiten. Eine Anpassung des
 Beitrags der höchsten Beitragsklasse unterbleibt, solange sich bei
 Anwendung eines neuen Vergleichsbeitrags eine Änderung um weniger als
 10 Euro je Monat ergeben würde. Versicherte nach § 2 Abs. 1 Nr. 1
-dürfen nicht in die niedrigste Beitragsklasse eingestuft werden.
+dürfen nicht in die niedrigste Beitragsklasse eingestuft werden. Bei
+der Festsetzung der Beiträge für das Jahr 2028 ist sicherzustellen,
+dass die Anhebung der Beitragsbemessungsgrenze nach § 223 Absatz 4 des
+Fünften Buches Sozialgesetzbuch nur für die höchste Beitragsklasse
+wirkt.
 
 (2) Der Vergleichsbeitrag ist aus dem Dreißigfachen des in § 223
 Absatz 3 des Fünften Buches Sozialgesetzbuch genannten Betrages und
@@ -1950,10 +1962,13 @@ Geldbuße bis zu 2 500 Euro geahndet werden.
 Ordnungswidrigkeiten gilt § 396 des Fünften Buches Sozialgesetzbuch.
 
 
-### § 58 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006706308)
+### § 58 Vergütungsregelungen für Führungskräfte der Ebene unterhalb der Ebene der Geschäftsführung bei der landwirtschaftlichen Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006707126)
 
-—
+§ 411 des Fünften Buches Sozialgesetzbuch gilt für die Vergütung für
+außertariflich bezahlte Führungskräfte der Ebene unterhalb der Ebene
+der Geschäftsführung bei der landwirtschaftlichen Krankenkasse
+entsprechend.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
