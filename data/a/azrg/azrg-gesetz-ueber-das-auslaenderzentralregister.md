@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 1.11.2026 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 6 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 14 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.11.2027 noch nicht berücksichtigt
@@ -281,7 +281,7 @@ solchen Unionsbürgern,
 
 
 #### § 3 Allgemeiner Inhalt
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000532311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000539311)
 
 (1) Folgende Daten werden gespeichert:
 
@@ -295,18 +295,18 @@ solchen Unionsbürgern,
 3.  die Anlässe nach § 2 Absatz 1 bis 2c,
 
 
-4.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach
-    deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk,
-    Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten
-    (Grundpersonalien),
+4.  Familienname, Geburtsname, Vornamen, Familienname nach deutschem
+    Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtsangabe,
+    Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
 
-5.  abweichende Namensschreibweisen, andere Namen, frühere Namen und
-    frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien,
-    Familienstand, Angaben zu Ausweisdokumenten, letzter Wohnort im
-    Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit
-    und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
-    (weitere Personalien),
+5.  abweichende Namensschreibweisen, andere Namen, frühere Namen, frühere
+    Geschlechtsangaben, Aliaspersonalien, abweichende Vornamen und
+    Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des
+    Herkunftsstaates, Familienstand, Angaben zum Ausweispapier, letzter
+    Wohnort im Herkunftsland, freiwillig gemachte Angaben zur
+    Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder
+    des Lebenspartners (weitere Personalien),
 
 
 5a. das Lichtbild,
@@ -502,17 +502,10 @@ Fingerabdrücke und die dazugehörigen Referenznummern gespeichert.
 3.  die Anlässe nach § 2 Absatz 3,
 
 
-4.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach
-    deutschem Recht, Geburtsdatum, Geburtsort und -bezirk, Geschlecht,
-    Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+4.  die Grundpersonalien,
 
 
-5.  abweichende Namensschreibweisen, andere Namen, frühere Namen und
-    frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien,
-    Familienstand, Angaben zum Ausweispapier, letzter Wohnort im
-    Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit
-    und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
-    (weitere Personalien),
+5.  die weiteren Personalien,
 
 
 6.  Angaben zum Zuzug oder Fortzug, zum aufenthaltsrechtlichen Status und
@@ -1037,7 +1030,7 @@ ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
 
 ##### § 10 Allgemeine Vorschriften für die Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001425311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001431311)
 
 (1) Die Übermittlung von Daten an eine öffentliche Stelle ist nur
 zulässig, wenn die Kenntnis der Daten zur Erfüllung ihrer Aufgaben
@@ -1078,11 +1071,13 @@ Zweifel an der Identität bestehen nicht.
 
 (3) Kann die Registerbehörde die Identität nicht eindeutig
 feststellen, übermittelt sie zur Identitätsprüfung und -feststellung
-an die ersuchende Stelle neben Hinweisen auf aktenführende
+an die ersuchende Stelle neben Hinweisen auf die aktenführenden
 Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren
-Personalien ähnlicher Personen mit Ausnahme der früheren Personalien,
-die nur auf besonderes Ersuchen übermittelt werden, und die
-Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die
+Personalien ähnlicher Personen mit Ausnahme der früheren Namen und der
+früheren Geschlechtsangaben sowie der abweichenden Vornamen und
+Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des
+Herkunftsstaates, die nur auf besonderes Ersuchen übermittelt werden,
+und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die
 Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die Identität
 nicht allein an Hand dieser Daten festgestellt werden, dürfen den
 Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt
@@ -1291,7 +1286,7 @@ protokollieren.
 
 
 ##### § 14 Datenübermittlung an alle öffentlichen Stellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001806311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE001807311)
 
 (1) An alle öffentlichen Stellen werden zu Ausländern, die keine
 freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen folgende
@@ -1324,12 +1319,14 @@ Daten einschließlich der zugehörigen AZR-Nummer (Grunddaten)
 
 
 
-(2) Angaben zu früheren Personalien werden nur auf besonderes Ersuchen
-übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei
-denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk
-gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes
-Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten
-nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
+(2) Frühere Namen und frühere Geschlechtsangaben sowie abweichende
+Vornamen und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten
+des Herkunftsstaates werden nur auf besonderes Ersuchen übermittelt.
+Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die
+öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert
+worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine
+Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die
+Ausländerbehörden und Aufnahmeeinrichtungen.
 
 
 ##### § 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
@@ -2419,7 +2416,7 @@ zum Gegenstand hat.
 
 
 ##### § 23 Statistische Aufbereitung der Daten
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002708311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE002711311)
 
 (1) Das Statistische Bundesamt erstellt jährlich nach dem Stand vom
 31\. Dezember eine Bundesstatistik über die Ausländer, die sich während
@@ -2444,7 +2441,7 @@ Gesetzes aufgehalten haben, folgende Daten zu diesem Personenkreis:
 2.  Ort, Land und Bezirk der Geburt,
 
 
-3.  Geschlechtseintrag,
+3.  Geschlechtsangabe,
 
 
 4.  Staatsangehörigkeiten,
@@ -2525,7 +2522,7 @@ der Länder zusammen mit den Erhebungsmerkmalen gespeichert werden.
 
 
 ##### § 23a Datenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006603311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE006604311)
 
 Die Registerbehörde übermittelt der Bundesagentur für Arbeit zur
 Erfüllung der Aufgaben nach § 281 Absatz 1 Satz 3 des Dritten Buches
@@ -2540,10 +2537,7 @@ Status sowie als Hilfsmerkmale folgende Daten:
 2.  das Geschäftszeichen der Registerbehörde (AZR-Nummer),
 
 
-3.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach
-    deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk,
-    Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten
-    (Grundpersonalien),
+3.  Grundpersonalien,
 
 
 4.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien,
@@ -2974,7 +2968,7 @@ und ausstellender Staat gespeichert.
 
 
 ### § 30 Übermittelnde Stellen
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003505311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003507311)
 
 (1) Die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige
 Angelegenheiten, die mit der polizeilichen Kontrolle des
@@ -2984,9 +2978,7 @@ Nummer 2 bis 12 und Absatz 2 an die Registerbehörde verpflichtet. Die
 Bundesagentur für Arbeit und die für die Durchführung der
 Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die
 Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht
-zuständigen Stellen (Jugendämter), die für den Vollzug des
-Unterhaltsvorschussgesetzes zuständigen Stellen
-(Unterhaltsvorschussstellen), die für die Ausführung des Zwölften
+zuständigen Stellen (Jugendämter), die für die Ausführung des Zwölften
 Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe)
 und die für die Durchführung des Asylbewerberleistungsgesetzes
 zuständigen Stellen sind zur Übermittlung der Angabe verpflichtet, ob

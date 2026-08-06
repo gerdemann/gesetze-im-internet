@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 Abs. 7 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 8 Abs. 7 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1085,7 +1085,7 @@ werden können.
 
 
 ### § 16 Berechtigung zur Abrechnung von Etiketten
-[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001702123)
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001704119)
 
 Ein Bezirksschornsteinfeger, der nach § 17 Absatz 3 dieses Gesetzes in
 der bis zum Ablauf des 29. Juli 2026 geltenden Fassung einen Anspruch

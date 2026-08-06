@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl. I: 2024, Nr. 139
 
 Änderung durch
-:   Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F829873_01_BJNR08B0A0024]:     Diese Verordnung dient der Umsetzung des Artikels 19 der Richtlinie
     (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11.
@@ -1327,7 +1327,7 @@ Das Umweltbundesamt löscht Daten, die nicht mehr erforderlich sind für
 
 
 ### § 39 Überprüfung der gespeicherten Daten; Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004100000)
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004101119)
 
 (1) Für einen effizienten Registerbetrieb gleicht das Umweltbundesamt
 die im Herkunftsnachweisregister für Gas und die im
@@ -1407,7 +1407,7 @@ darf das Umweltbundesamt Daten aus dem Herkunftsnachweisregister für
 Gas oder dem Herkunftsnachweisregister für Wärme oder Kälte
 übermitteln an
 
-1.  das Bundesministerium für Wirtschaft und Klimaschutz,
+1.  das Bundesministerium für Wirtschaft und Energie,
 
 
 2.  das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
@@ -1461,9 +1461,10 @@ Protokollierung zu löschen.
 
 (5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein,
 die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden
-zu übermitteln, soweit es für den Vollzug des Gebäudeenergiegesetzes
-vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 1 des Gesetzes
-vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist,
+zu übermitteln, soweit es für den Vollzug des
+Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728),
+das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026
+I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung
 erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 

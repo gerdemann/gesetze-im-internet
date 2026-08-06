@@ -3044,7 +3044,7 @@ für die Vertragsparteien nach § 11 insbesondere
 
     j)  Abrechnungsbestimmungen für die nach § 6c Absatz 1 Satz 2 Nummer 2 bis
         4 zu vereinbarenden krankenhausindividuellen Tagesentgelte und für die
-        in Buchstabe i genannten vorläufigen Tagesentgelte, und
+        in Buchstabe i genannten vorläufigen Tagesentgelte.
 
 
 
