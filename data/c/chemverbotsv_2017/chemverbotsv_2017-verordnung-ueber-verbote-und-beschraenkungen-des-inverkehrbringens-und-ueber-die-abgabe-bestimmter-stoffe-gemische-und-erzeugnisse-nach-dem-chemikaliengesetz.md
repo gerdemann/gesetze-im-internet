@@ -706,7 +706,7 @@ als erbracht für Personen, die
 (zu § 3)
 
 ### Anlage 1 Inverkehrbringensverbote
-[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001501126)
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001502126)
 
 (Fundstelle: BGBl. I 2017, 99 - 101)
 
@@ -726,37 +726,6 @@ als erbracht für Personen, die
 
 
 *    *   **Eintrag 1**
-
-    *
-    *
-
-*    *   Formaldehyd
-
-    *   (1) Beschichtete und unbeschichtete Holzwerkstoffe (Spanplatten,
-        Tischlerplatten, Furnierplatten, und Faserplatten) dürfen nicht in den
-        Verkehr gebracht werden, wenn die durch
-        den Holzwerkstoff verursachte Ausgleichskonzentration des Formaldehyds
-        in der Luft eines Prüfraumes 0,1 ml/cbm (ppm) überschreitet.
-        (2) Möbel, die Holzwerkstoffe enthalten, die nicht den Anforderungen
-        nach Absatz 1 entsprechen, dürfen nicht in den Verkehr gebracht
-        werden. Absatz 1 gilt jedoch auch als erfüllt, wenn die Möbel die
-        unter Absatz 1 genannte Ausgleichskonzentration bei einer
-        Ganzkörperprüfung einhalten.
-        (3) Wasch-, Reinigungs- und Pflegemittel mit einem Massengehalt von
-        mehr als 0,2 % Formaldehyd dürfen nicht in den Verkehr gebracht
-        werden.
-
-    *   (1) Das Verbot nach Spalte 2
-        Absatz 1 gilt nicht für Platten, die ausschließlich zum Zwecke einer
-        geeigneten Beschichtung in den Verkehr gebracht werden, sofern
-        sichergestellt ist, dass sie nach der Beschichtung die in Spalte 2
-        Absatz 1 genannte Ausgleichskonzentration einhalten.
-        (2) Das Verbot nach Spalte 2
-        Absatz 3 gilt nicht für Reiniger im ausschließlich industriellen
-        Gebrauch.
-
-
-*    *   **Eintrag 2**
 
     *
     *
@@ -957,17 +926,7 @@ als erbracht für Personen, die
 
 
 
-*    *   **Eintrag 3**
-
-    *
-    *
-
-*    *   (weggefallen)
-
-    *
-    *
-
-*    *   **Eintrag 4**
+*    *   **Eintrag 2**
 
     *
     *
