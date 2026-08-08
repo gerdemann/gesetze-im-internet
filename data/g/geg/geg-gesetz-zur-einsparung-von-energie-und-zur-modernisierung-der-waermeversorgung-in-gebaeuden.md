@@ -1831,10 +1831,6 @@ vorliegen.
 [Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002700119)
 
 
-### Abschnitt 4 - (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000801128)
-
-
 ### Abschnitt 1 - Allgemeine Anforderungen an bestehende Gebäude
 [Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002800119)
 
@@ -5165,10 +5161,6 @@ sich nur auf die Überprüfung von Stichproben auf der Grundlage der in
 gleichwertiger Maßnahmen, soweit diese Aufgaben elektronisch
 durchgeführt werden können. Die Sätze 1 und 2 sind längstens fünf
 Jahre nach Inkrafttreten dieser Regelung anzuwenden.
-
-
-### § 115 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014801119)
 
 (zu § 15 Absatz 1)
 
