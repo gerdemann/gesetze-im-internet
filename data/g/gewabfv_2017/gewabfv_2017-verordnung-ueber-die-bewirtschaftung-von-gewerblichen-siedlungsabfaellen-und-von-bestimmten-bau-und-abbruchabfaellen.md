@@ -56,7 +56,7 @@ verordnet die Bundesregierung:
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000302130)
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000303130)
 
 (1) Diese Verordnung gilt für die Bewirtschaftung, insbesondere die
 Erfassung, die Vorbehandlung, die Vorbereitung zur Wiederverwendung,
@@ -83,10 +83,10 @@ das Recycling und die sonstige Verwertung,
 (3) Auf Abfälle, die einer Verordnung auf Grund der §§ 24 und 25 des
 Kreislaufwirtschaftsgesetzes oder der §§ 23 und 24 des bis zum 1. Juni
 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes oder dem
-Verpackungsgesetz unterliegen, findet diese Verordnung nur Anwendung,
-soweit Erzeuger und Besitzer solcher Abfälle diese nicht entsprechend
-den Regelungen der jeweiligen Verordnung oder des Verpackungsgesetzes
-zurückgeben.
+Verpackungsrecht-Durchführungsgesetz unterliegen, findet diese
+Verordnung nur Anwendung, soweit Erzeuger und Besitzer solcher Abfälle
+diese nicht entsprechend den Regelungen der jeweiligen Verordnung oder
+des Verpackungsrecht-Durchführungsgesetzes zurückgeben.
 
 (4) Diese Verordnung gilt nicht für Abfälle, die
 

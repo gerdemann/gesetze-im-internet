@@ -417,7 +417,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur
 Drogistin
 
 ## Anlage 1 - Sachliche Gliederung -
-[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001203116)
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001204131)
 
 (Fundstelle: BGBl. I 1992, 1200 - 1212;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -815,8 +815,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   d)
 
     *   Transportverpackungen unter Berücksichtigung der Rücknahme- und
-        Verwertungspflichten nach dem Verpackungsgesetz umweltgerecht
-        entsorgen
+        Verwertungspflichten nach dem Verpackungsrecht-Durchführungsgesetz
+        umweltgerecht entsorgen
 
 
 *    *   e)
@@ -1078,8 +1078,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   b)
 
     *   Kunden auf Rücknahme- und Verwertungspflichten nach dem
-        Verpackungsgesetz hinweisen, kostenlose Rückgabemöglichkeit der
-        Verpackungen im Ausbildungsbetrieb erläutern
+        Verpackungsrecht-Durchführungsgesetz hinweisen, kostenlose
+        Rückgabemöglichkeit der Verpackungen im Ausbildungsbetrieb erläutern
 
 
 *    *   c)
@@ -1893,8 +1893,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   c)
 
-    *   Begriffe des Verpackungsgesetzes erläutern, Rücknahme- und
-        Verwertungspflichten für Verpackungen im Handel erläutern
+    *   Begriffe des Verpackungsrecht-Durchführungsgesetzes erläutern,
+        Rücknahme- und Verwertungspflichten für Verpackungen im Handel
+        erläutern
 
 
 *    *   d)

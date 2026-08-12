@@ -36,7 +36,7 @@ Abfallbeauftragte.
 
 
 ### § 2 Pflicht zur Bestellung
-[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000303130)
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000304130)
 
 Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
@@ -80,25 +80,26 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 2.  folgende Besitzer im Sinne von § 27 des Kreislaufwirtschaftsgesetzes:
 
     a)  Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen
-        Transportverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 1 des
-        Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234) in der jeweils
-        geltenden Fassung zurücknehmen,
+        Transportverpackungen, die nicht nach § 7 Absatz 1 Satz 1 des
+        Verpackungsrecht-Durchführungsgesetzes systembeteiligungspflichtig
+        sind, nach § 39 Absatz 1 Satz 1 Nummer 1 des Verpackungsrecht-
+        Durchführungsgesetzes zurücknehmen,
 
 
     b)  Hersteller und Vertreiber, die Verkaufs- und Umverpackungen gemäß § 8
-        Absatz 1 Satz 1 des Verpackungsgesetzes zurücknehmen, es sei denn, die
-        von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten
-        bestellt,
+        Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes
+        zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten
+        haben einen Abfallbeauftragten bestellt,
 
 
     c)  Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen
-        Verkaufs- und Umverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 2 des
-        Verpackungsgesetzes zurücknehmen,
+        Verkaufs- und Umverpackungen gemäß § 39 Absatz 1 Nummer 2 und 3 des
+        Verpackungsrecht-Durchführungsgesetzes zurücknehmen,
 
 
     d)  Hersteller und Vertreiber, die pro Kalenderjahr mehr als 2 Tonnen
-        Verkaufsverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 4 des
-        Verpackungsgesetzes zurücknehmen,
+        Verkaufsverpackungen gemäß § 39 Absatz 1 Nummer 5 des
+        Verpackungsrecht-Durchführungsgesetzes zurücknehmen,
 
 
     e)  Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des
@@ -128,8 +129,8 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
 3.  Betreiber folgender Rücknahmesysteme:
 
-    a)  Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes
-        zurücknehmen, sowie
+    a)  Systeme, die Verpackungen gemäß § 40 Absatz 1 des Verpackungsrecht-
+        Durchführungsgesetzes zurücknehmen, sowie
 
 
     b)  herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-
@@ -404,7 +405,7 @@ der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 1 Nummer
 (zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)
 
 ### Anlage 1 Lehrgangsinhalte
-[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE001202130)
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE001203130)
 
 (Fundstelle: BGBl. I 2016, 2792 - 2793;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -490,7 +491,7 @@ I. Kenntnisse des Abfallrechts und der Abfalltechnik
         Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
 
 
-    c)  das Verpackungsgesetz,
+    c)  das Verpackungsrecht-Durchführungsgesetz,
 
 
 

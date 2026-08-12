@@ -1549,7 +1549,7 @@ Vordrucks nach Anlage 3 entsprechen.
 2)
 
 ### Anlage 1 Lehrgangsinhalte
-[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003302130)
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003303130)
 
 (Fundstelle: BGBl. I 2016, 2782 - 2783;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1633,7 +1633,7 @@ vermitteln:
         2025 (BGBl. 2025 I Nr. 233) und
 
 
-    c)  das Verpackungsgesetz,
+    c)  das Verpackungsrecht-Durchführungsgesetz,
 
 
 

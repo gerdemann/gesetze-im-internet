@@ -37,13 +37,13 @@ Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000201130)
 
 Diese Verordnung gilt für das Inverkehrbringen von bestimmten
 Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem
 Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte
-als Verpackungen nach § 3 Absatz 1 des Verpackungsgesetzes in Verkehr
-gebracht werden oder nicht.
+als Verpackungen nach Artikel 3 Absatz 1 Nummer 1 der Verordnung (EU)
+2025/40 in Verkehr gebracht werden oder nicht.
 
 
 ## § 2 Begriffsbestimmungen

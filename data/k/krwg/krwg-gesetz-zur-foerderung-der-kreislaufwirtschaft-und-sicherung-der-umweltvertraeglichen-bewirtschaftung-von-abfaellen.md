@@ -2367,7 +2367,7 @@ Inhaltsstoffe in die Hohe See eingebracht werden.
 
 
 #### § 30 Abfallwirtschaftspläne
-[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003102125)
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003103130)
 
 (1) Die Länder stellen für ihr Gebiet Abfallwirtschaftspläne nach
 überörtlichen Gesichtspunkten auf. Die Abfallwirtschaftspläne stellen
@@ -2525,7 +2525,12 @@ bleibt unberührt.
 
 
 10. Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU)
-    2019/904 getroffen wurden.
+    2019/904 getroffen wurden,
+
+
+11. Maßnahmen, die zur Umsetzung der Artikel 48, 50 und 52 der Verordnung
+    (EU) 2025/40 getroffen wurden in einem besonderen Kapitel über
+    Verpackungen und die Bewirtschaftung der daraus entstehenden Abfälle.
 
 
 
@@ -2627,7 +2632,7 @@ Unterrichtungszeitraum.
 
 
 #### § 33 Abfallvermeidungsprogramme
-[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003403125)
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003404130)
 
 (1) Der Bund erstellt ein Abfallvermeidungsprogramm. Die Länder können
 sich an der Erstellung des Abfallvermeidungsprogramms beteiligen. In
@@ -2733,6 +2738,12 @@ Abfallvermeidungsprogramme.
 
     n)  Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU)
         2019/904 getroffen wurden,
+
+
+    o)  Maßnahmen, die zur Umsetzung der Artikel 43 und 51 der Verordnung (EU)
+        2025/40 getroffen wurden in einem besonderen Kapitel über die
+        Vermeidung von Verpackungen, Verpackungsabfällen und achtlos in der
+        Umwelt entsorgten Verpackungen,
 
 
 
