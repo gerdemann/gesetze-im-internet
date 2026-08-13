@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 2001, 638
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 34 V v. 18.1.2022 I 39
+:   Art. 2 V v. 4.8.2026 I Nr. 232
+
+V aufgeh. durch
+:   § 10 idF d. Art. 2 V v. 4.8.2026 I Nr. 232 mWv 1.3.2027
+
+Ersetzt durch
+:   Art. 1 V v. 4.8.2026 I Nr. 232 (Friseur-MstrV 2027)
 
 
 
@@ -452,8 +458,8 @@ Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE001100310)
+## § 10 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE001101123)
 
-Diese Verordnung tritt am 1. September 2001 in Kraft.
+Diese Verordnung tritt mit Ablauf des 28. Februar 2027 außer Kraft.
 
