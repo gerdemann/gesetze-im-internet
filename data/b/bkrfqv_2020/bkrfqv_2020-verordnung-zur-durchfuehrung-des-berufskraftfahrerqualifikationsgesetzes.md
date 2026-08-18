@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2020, 2905
 
 Stand: Ersetzt V 9231-11-1 v. 22.8.2006 I 2108 (BKrFQV)
+Änderung durch
+:   Art. 1 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+
 Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/645 des
 Europäischen Parlaments und des Rates vom 18. April 2018 zur Änderung
 der Richtlinie 2003/59/EG über die Grundqualifikation und
@@ -1535,8 +1538,8 @@ I.  Musterbescheinigung über die Teilnahme an einer Weiterbildung
 
     *        *   Kopfbogen der Ausbildungsstätte
 
-        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
-            _\_\__\_\__\_\__\_\__\_, den
+        *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_\_\__\_\__\_\__
+            \_\__\_\__\_\__\_\__\_\_, den
 
         *
         *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__

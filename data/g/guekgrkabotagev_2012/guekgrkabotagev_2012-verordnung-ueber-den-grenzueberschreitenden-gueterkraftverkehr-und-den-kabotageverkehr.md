@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47
 
+Änderung durch
+:   Art. 5 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000100000)

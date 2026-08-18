@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 30.1.2026 I Nr. 32
 
+Änderung durch
+:   Art. 4 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000100000)

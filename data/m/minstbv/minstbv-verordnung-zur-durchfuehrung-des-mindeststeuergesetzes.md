@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Mindeststeuergesetzes betreffend den Umfang,
-  die Ausgestaltung und den Informationsaustausch von Mindeststeuer-Berichten
+Title: Verordnung zur Durchführung des Mindeststeuergesetzes
 jurabk: MinStBV
 layout: default
 origslug: BJNR1750A0025
@@ -8,13 +7,16 @@ slug: minstbv
 
 ---
 
-# Verordnung zur Durchführung des Mindeststeuergesetzes betreffend den Umfang, die Ausgestaltung und den Informationsaustausch von Mindeststeuer-Berichten (MinStBV)
+# Verordnung zur Durchführung des Mindeststeuergesetzes (MinStBV)
 
 Ausfertigungsdatum
 :   2025-12-19
 
 Fundstelle
 :   BGBl. I: 2025, Nr. 373
+
+Geändert durch
+:   Art. 1 V v. 7.8.2026 I Nr. 235
 
 [^F834787_01_BJNR1750A0025]
 **EU-Rechtsakte** (Stand 19.12.2025):
@@ -42,18 +44,25 @@ Das Bundesministerium der Finanzen verordnet aufgrund des § 99 Absatz
 2024 I Nr. 387) geändert worden ist:
 
 
-## § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000200000)
+## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNG000101123)
 
-Diese Verordnung gilt für den automatischen Austausch von
-Informationen zu den Berichtspflichten nach dem Mindeststeuergesetz
-mit den Vertragsstaaten gemäß § 75 Absatz 4 des Mindeststeuergesetzes
-aufgrund der Richtlinie 2011/16/EU. Die Verordnung regelt zugleich die
+
+### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000201123)
+
+(1) Abschnitt 2 dieser Verordnung regelt den automatischen Austausch
+von Informationen zu den Berichtspflichten nach dem
+Mindeststeuergesetz mit den Vertragsstaaten gemäß § 75 Absatz 4 des
+Mindeststeuergesetzes aufgrund der Richtlinie 2011/16/EU und die
 Besonderheiten beim Erstellen des Mindeststeuer-Berichts für
 berichtspflichtige Geschäftseinheiten.
 
+(2) Abschnitt 3 dieser Verordnung benennt die Steuerhoheitsgebiete
+nach § 99 Absatz 5 des Mindeststeuergesetzes.
 
-## § 2 Begriffsbestimmungen
+
+### § 2 Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000300000)
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen des
@@ -79,7 +88,11 @@ der Mindeststeuer-Bericht nach den GloBE-Mustervorschriften ausgefüllt
 wird.
 
 
-## § 3 Zuständige Behörde
+## Abschnitt 2 - Umfang, Ausgestaltung und Informationsaustausch von Mindeststeuer-Berichten
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNG000200123)
+
+
+### § 3 Zuständige Behörde
 [Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000400000)
 
 Zuständige Behörde für die Annahme und die Weiterleitung von
@@ -87,7 +100,7 @@ Informationen nach dem Mindeststeuergesetz und dieser Verordnung ist
 das Bundeszentralamt für Steuern.
 
 
-## § 4 Abschnitte des Mindeststeuer-Berichts
+### § 4 Abschnitte des Mindeststeuer-Berichts
 [Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000500000)
 
 (1) Der Mindeststeuer-Bericht ist die in Anhang VII Abschnitt IV der
@@ -111,7 +124,7 @@ enthält Informationen über die Zurechnung der Sekundärergänzungssteuer
 in Bezug auf ein Steuerhoheitsgebiet.
 
 
-## § 5 Informationsaustausch; Verteilungsansatz
+### § 5 Informationsaustausch; Verteilungsansatz
 [Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000600000)
 
 (1) Liegen die Voraussetzungen des § 75 Absatz 4 Satz 2 des
@@ -156,8 +169,8 @@ Sekundärergänzungssteuerbetrag von null erhalten nur den SES-
 Abschnitt.
 
 
-## § 6 Vereinfachte Berichterstattung in der Übergangszeit
-[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000700000)
+### § 6 Vereinfachte Berichterstattung in der Übergangszeit
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000701123)
 
 (1) Für Geschäftsjahre, die am oder vor dem 31. Dezember 2028 beginnen
 und vor dem 1. Juli 2030 enden, gelten die Regelungen der Absätze 2
@@ -192,12 +205,12 @@ berichtet werden.
 (4) Um die vereinfachte Berichterstattung vornehmen zu können, müssen
 Unternehmensgruppen
 
-1.  eine Buchführung einsetzen, das eine steuerhoheitsgebietsbezogene
+1.  eine Buchführung einsetzen, die eine steuerhoheitsgebietsbezogene
     Berichterstattung ermöglicht und die nach dem Mindeststeuergesetz
     erforderlichen Berechnungen genau und zuverlässig durchführt,
     einschließlich der Ermittlung des korrekten Belegenheitsstaats für
     jede Geschäftseinheit, sofern dies für die Berechnung des effektiven
-    Steuersatzes und der Ergänzungssteuer relevant ist;
+    Steuersatzes und der Ergänzungssteuer relevant ist,
 
 
 2.  ein Verfahren einsetzen, das eine verlässliche Zuordnung der
@@ -216,7 +229,7 @@ Unternehmensgruppen
 
 
 
-## § 7 Erstellen des Mindeststeuer-Berichts
+### § 7 Erstellen des Mindeststeuer-Berichts
 [Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000800000)
 
 (1) Der Mindeststeuer-Bericht ist auf Basis der GloBE-
@@ -244,8 +257,554 @@ verpflichtet, die Auswirkungen der Differenzen im Mindeststeuer-
 Bericht darzulegen.
 
 
-## § 8 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000900000)
+## Abschnitt 3 - Steuerhoheitsgebiete nach § 99 Absatz 5 des Mindeststeuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNG000300123)
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+### § 8 Benennung der Steuerhoheitsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE000901123)
+
+Die Anlage zu dieser Verordnung benennt die Steuerhoheitsgebiete nach
+§ 99 Absatz 5 des Mindeststeuergesetzes. Erfasst werden Geschäftsjahre
+betroffener Unternehmensgruppen, die an dem in der Anlage in den
+Spalten B bis E ausgewiesenen Datum oder danach begonnen haben.
+
+
+## Abschnitt 4 - Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNG000400123)
+
+
+### § 9 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE001100123)
+
+Diese Fassung der Verordnung gilt erstmals für Geschäftsjahre, die
+nach dem 30. Dezember 2023 beginnen.
+
+(zu § 1 Absatz 2)
+
+### Anlage Steuerhoheitsgebiete im Sinne des § 99 Absatz 5 des Mindeststeuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/minstbv/BJNR1750A0025.html#BJNR1750A0025BJNE001000123)
+
+(Fundstelle: BGBl. 2026 I Nr. 235, S. 3 - 4)
+
+
+*    *   Steuerhoheitsgebiet
+
+    *   Anerkannte
+        nationale
+        Ergänzungssteuer
+
+    *   anerkannte
+        Primärergänzungssteuerregelung
+
+    *   anerkannte
+        Sekundärergänzungssteuerregelung
+
+    *   Safe Harbour
+        bei anerkannter
+        nationaler
+        Ergänzungssteuer
+
+
+*    *   Australien
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Bahrain
+
+    *   01.01.2025
+
+    *
+    *
+    *   01.01.2025
+
+
+*    *   Barbados
+
+    *   01.01.2024
+
+    *
+    *
+    *   01.01.2024
+
+
+*    *   Belgien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Brasilien
+
+    *   01.01.2025
+
+    *
+    *
+    *   01.01.2025
+
+
+*    *   Bulgarien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Dänemark
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Deutschland
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Finnland
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Frankreich
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Gibraltar
+
+    *   01.01.2024
+
+    *   01.01.2025
+
+    *
+    *   01.01.2024
+
+
+*    *   Griechenland
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Guernsey
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Hongkong (SAR), China
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Indonesien
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Irland
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Isle of Man
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Italien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Japan
+
+    *   01.04.2026
+
+    *   01.04.2024
+
+    *
+    *   01.04.2026
+
+
+*    *   Jersey
+
+    *
+    *   01.01.2025
+
+    *
+    *
+
+*    *   Kanada
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *
+    *   31.12.2023
+
+
+*    *   Katar
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Korea
+
+    *
+    *   01.01.2024
+
+    *
+    *
+
+*    *   Kroatien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Liechtenstein
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Luxemburg
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Malaysia
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Neuseeland
+
+    *
+    *   01.01.2025
+
+    *
+    *
+
+*    *   Niederlande
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Nord-Mazedonien
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Norwegen
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Österreich
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Polen
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+
+*    *   Portugal
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+
+*    *   Rumänien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Schweden
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Schweiz
+
+    *   01.01.2024
+
+    *   01.01.2025
+
+    *
+    *   01.01.2024
+
+
+*    *   Singapur
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Slowakei
+
+    *   31.12.2023
+
+    *
+    *
+    *   31.12.2023
+
+
+*    *   Slowenien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Spanien
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Süd-Afrika
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Thailand
+
+    *   01.01.2025
+
+    *   01.01.2025
+
+    *
+    *   01.01.2025
+
+
+*    *   Tschechische Republik
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Türkei
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+*    *   Ungarn
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+
+*    *   Vereinigte Arabische Emirate
+
+    *   01.01.2025
+
+    *
+    *
+    *   01.01.2025
+
+
+*    *   Vereinigtes Königreich
+
+    *   31.12.2023
+
+    *   31.12.2023
+
+    *
+    *   31.12.2023
+
+
+*    *   Vietnam
+
+    *   01.01.2024
+
+    *   01.01.2024
+
+    *
+    *   01.01.2024
+
+
+
 
