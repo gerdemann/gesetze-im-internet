@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 2244
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.12.2025 I Nr. 357
+:   Art. 3 V v. 12.8.2026 I Nr. 237
 
 
 ## Eingangsformel
@@ -198,7 +198,7 @@ der zuständigen Behörde zu beantragen.
 
 
 #### § 4 Anlage von Ersatzflächen bei genehmigter Umwandlung
-[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000604119)
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000605130)
 
 (1) Eine Ersatzfläche ist mindestens fünf aufeinanderfolgende Jahre
 für den Anbau von Gras oder anderen Grünfutterpflanzen zu nutzen, ohne
@@ -240,16 +240,26 @@ gehört, zur Umwandlung dieser Fläche in Dauergrünland erforderlich.
 (5) Soweit die Ersatzfläche nicht zu dem Betrieb der antragstellenden
 Person gehört, muss sie zu dem Betrieb eines Begünstigten gehören, der
 in Bezug auf diese Fläche an dem auf die Genehmigung folgenden
-Schlusstermin für die Einreichung des Sammelantrages nach § 6 des GAP-
+Schlusstermin für die Einreichung des Sammelantrages nach § 6 des GAP-
 Integriertes Verwaltungs- und Kontrollsystem-Gesetzes den
-Anforderungen des § 3 Absatz 1 des GAP-Konditionalitäten-Gesetzes
+Anforderungen des § 3 Absatz 1 des GAP-Konditionalitäten-Gesetzes
 unterliegt. Die Ersatzfläche darf zu dem auf die Erteilung der
 Genehmigung folgenden Schlusstermin für die Einreichung des
-Sammelantrages nach § 6 des GAP-Integriertes Verwaltungs- und
+Sammelantrages nach § 6 des GAP-Integriertes Verwaltungs- und
 Kontrollsystem-Gesetzes nicht zu dem Betrieb eines begünstigten
-Dritten gehören, der teilweise oder insgesamt nach der Verordnung (EU)
-2018/848 zertifiziert ist oder bis zu 10 Hektar landwirtschaftlicher
-Fläche bewirtschaftet.
+Dritten gehören, dessen Betrieb
+
+1.  bis zu 10 Hektar landwirtschaftlicher Fläche bewirtschaftet,
+
+
+2.  insgesamt gemäß der Verordnung (EU) 2018/848 zertifiziert ist oder
+
+
+3.  sich nach der Verordnung (EU) 2018/848 insgesamt in der Umstellung auf
+    die ökologische/biologische Produktionsweise befindet.
+
+
+
 
 (6) Die antragstellende Person hat sich gegenüber der zuständigen
 Behörde schriftlich oder elektronisch zu verpflichten, im Falle eines
@@ -604,7 +614,7 @@ entsprechend begründet ist.
 
 
 #### § 16 Bodenbearbeitung zur Begrenzung von Erosion
-[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001802119)
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001803130)
 
 (1) Zur Begrenzung von Erosion sind Maßnahmen vorzusehen, die sich an
 den aus der Einteilung landwirtschaftlicher Flächen nach dem Grad der
@@ -630,40 +640,15 @@ die den Erosionsgefährdungsklassen zugehören.
 (2) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K
 Wasser1 nach Anlage 3 gehört, darf vom 1. Dezember bis zum 15. Februar
 nicht gepflügt werden. Das Pflügen nach der Ernte der Vorfrucht ist
-nur bei einer Aussaat vor dem 1. Dezember zulässig. In Betrieben, die
-nach der Verordnung (EU) 2018/848 des Europäischen Parlaments und des
-Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und
-die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur
-Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates (ABl. L 150 vom
-14\.6.2018, S. 1; L 270 vom 29.10.2018, S. 37; L 305 vom 26.11.2019, S.
-59; L 37 vom 10.2.2020, S. 26; L 324 vom 6.10.2020, S. 65; L 439 vom
-29\.12.2020, S. 32; L 7 vom 11.1.2021, S. 53; L 204 vom 10.6.2021, S.
-47; L 318 vom 9.9.2021, S. 5), die zuletzt durch die Delegierte
-Verordnung (EU) 2023/207 (ABl. L 29 vom 1.2.2023, S. 6) geändert
-worden ist, in der jeweils geltenden Fassung zertifiziert sind, darf
-beim Anbau früher Sommerkulturen nach Anlage 5 eine durch Pflügen im
-Spätherbst oder Winter hergestellte, grob strukturierte
-Feldoberfläche, die ohne jede weitere Bearbeitung mindestens bis zum
-Ablauf des 15. Februar des Folgejahres vorhanden sein muss (raue
-Winterfurche), zur Anwendung kommen, sofern der Anbau nicht mit einem
-Reihenabstand von 45 Zentimetern oder mehr (Reihenkultur) erfolgt.
+nur bei einer Aussaat vor dem 1. Dezember zulässig.
 
 (3) Eine Ackerfläche, die zur Wassererosionsgefährdungsklasse K
 Wasser2 nach Anlage 3 gehört, darf vom 1. Dezember bis zum 15. Februar
 nicht gepflügt werden. Das Pflügen zwischen dem 16. Februar und dem
 Ablauf des 30. November ist nur bei einer unmittelbar folgenden
 Aussaat zulässig. Spätester Zeitpunkt der Aussaat ist der 30.
-November. Vor der Aussaat von Reihenkulturen ist das Pflügen verboten.
-In Betrieben, die nach der Verordnung (EU) 2018/848 zertifiziert sind,
-darf beim Anbau früher Sommerkulturen nach Anlage 5 eine raue
-Winterfurche zur Anwendung kommen, sofern der Anbau nicht in
-Reihenkultur erfolgt. In den in Satz 5 genannten Betrieben darf
-Ackerland beim Anbau von Sommerkulturen in Reihenkultur nur gepflügt
-werden, wenn zuvor eine Winterzwischenfrucht, auch in Form einer
-Untersaat, in Übereinstimmung mit den Grundsätzen der guten fachlichen
-Praxis angebaut wurde und das Pflügen in Übereinstimmung mit den
-Grundsätzen der guten fachlichen Praxis unmittelbar vor der Aussaat
-der Sommerkultur in Reihenkultur erfolgt.
+November. Vor der Aussaat von Kulturen mit einem Reihenabstand von 45
+Zentimetern oder mehr (Reihenkulturen) ist das Pflügen verboten.
 
 (4) Eine Ackerfläche, die zur Winderosionsgefährdungsklasse K
 Wind nach Anlage 4 gehört, darf nur bei einer Aussaat vor dem 1. März
@@ -814,7 +799,7 @@ Klimamaßnahmen oder vergleichbaren freiwilligen Maßnahmen ergeben.
 
 
 #### § 18 Fruchtwechsel auf Ackerland
-[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE002003119)
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE002004130)
 
 (1) Der Begünstigte ist verpflichtet, auf jeder zum Ackerland seines
 Betriebes gehörenden Fläche innerhalb eines Zeitraumes von drei
@@ -919,11 +904,7 @@ nicht berücksichtigt:
 Abweichend von Satz 1 sind die in Satz 1 Nummer 1 bis 3 genannten
 Flächen im ersten Jahr berücksichtigungsfähig.
 
-(4) In Betrieben, die nach der Verordnung (EU) 2018/848 zertifiziert
-sind, gelten die Verpflichtungen nach den Absätzen 1 und 2 auf allen
-Flächen als erfüllt.
-
-(5) Die Verpflichtungen nach den Absätzen 1 und 2 gelten in dem Umfang
+(4) Die Verpflichtungen nach den Absätzen 1 und 2 gelten in dem Umfang
 als erfüllt, soweit
 
 1.  beetweise verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz-

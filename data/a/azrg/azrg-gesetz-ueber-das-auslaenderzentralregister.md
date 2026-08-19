@@ -306,7 +306,7 @@ solchen Unionsbürgern,
 5.  abweichende Namensschreibweisen, andere Namen, frühere Namen, frühere
     Geschlechtsangaben, Aliaspersonalien, abweichende Vornamen und
     Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des
-    Herkunftsstaates, Familienstand, Angaben zum Ausweispapier, letzter
+    Herkunftsstaates, Familienstand, Angaben zu Ausweisdokumenten, letzter
     Wohnort im Herkunftsland, freiwillig gemachte Angaben zur
     Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder
     des Lebenspartners (weitere Personalien),

@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 19.12.2022 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.4.2026 I Nr. 123
+:   Art. 2 V v. 12.8.2026 I Nr. 237
 
 
 ## Eingangsformel
@@ -1671,7 +1671,7 @@ für:
 
 
 ### § 41 Informations-, Mitwirkungs- und Aufbewahrungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004301119)
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004302130)
 
 (1) Der Betriebsinhaber ist verpflichtet, jede Veränderung, die dazu
 führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr
@@ -1728,12 +1728,12 @@ den zuständigen Behörden
 Aufbewahrungsfristen bestehen, ist der Betriebsinhaber verpflichtet,
 für die Antragstellung und Kontrollen erhebliche Unterlagen und Belege
 nach dieser Verordnung für die Dauer von sechs Jahren ab der
-Antragsbewilligung aufzubewahren. Für Rückstellproben endet die
-Aufbewahrungsfrist mit dem Ende des auf das Antragsjahr folgenden
-Jahres. Nach Handelsrecht vorgeschriebene Aufzeichnungen und
-Buchführungen können anstelle der nach Satz 1 vorgeschriebenen
-Verpflichtungen zum Zwecke der Überwachung nach dieser Verordnung
-verwendet werden.
+Antragsbewilligung aufzubewahren. Für Rückstellproben und
+georeferenzierte Fotos endet die Aufbewahrungsfrist mit dem Ende des
+auf das Antragsjahr folgenden Jahres. Nach Handelsrecht
+vorgeschriebene Aufzeichnungen und Buchführungen können anstelle der
+nach Satz 1 vorgeschriebenen Verpflichtungen zum Zwecke der
+Überwachung nach dieser Verordnung verwendet werden.
 
 (4) Wird ein Betrieb ganz oder teilweise nach dem Einreichen des
 Sammelantrags an einen anderen übertragen, so gelten die Vorschriften

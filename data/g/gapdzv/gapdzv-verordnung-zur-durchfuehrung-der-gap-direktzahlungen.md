@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 139, 2287
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.12.2025 I Nr. 322
+:   Art. 1 V v. 12.8.2026 I Nr. 237
 
 Stand: Gem. § 28 Abs. 2 F. 24.1.2022 iVm Bek. v. 9.12.2022 I 2287 ist diese V im Übrigen am 22.11.2022 in Kraft getreten
 
@@ -406,7 +406,7 @@ Bedeutung liegt bei einer Breite von mehr als 15 Metern nicht vor.
 
 
 #### § 7 Dauergrünland
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000903119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000904130)
 
 (1) Der Begriff Dauergrünland umfasst Flächen, auch wenn sie nicht für
 die Erzeugung genutzt werden, die
@@ -422,6 +422,12 @@ die Erzeugung genutzt werden, die
 
 
 
+Hiervon ausgenommen sind Flächen, die am 1. Januar 2026 Ackerland
+waren. Satz 2 findet keine Anwendung, wenn der Betriebsinhaber bis
+spätestens zum Ablauf des 30. September 2026 gegenüber der zuständigen
+Behörde erklärt, dass Satz 2 auf eine bestimmte Fläche seines
+Betriebes nicht angewendet werden soll. Die Erklärung kann nicht
+geändert und nicht zurückgenommen werden.
 
 (2) Gras oder andere Grünfutterpflanzen sind
 
@@ -2513,7 +2519,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 17 Absatz 1)
 
 ### Anlage 5 Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
-[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003604119)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003605130)
 
 (Fundstelle: BGBl. I 2022, 158 - 161;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2638,7 +2644,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in
     dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung
     nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist
-    und begünstigungsfähig war.
+    und begünstigungsfähig war. Die Zerkleinerung und ganzflächige
+    Verteilung des Aufwuchses sind erst ab dem 1. September des zweiten
+    aufeinanderfolgenden Antragsjahres zulässig.
 
 
 1.3 § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
@@ -2892,9 +2900,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 4.5 Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt
     werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung
-    durch höhere Gewalt oder außergewöhnliche Umstände kann die nach
-    Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen
-    zulassen.
+    durch höhere Gewalt oder außergewöhnliche Umstände sowie zur
+    naturschutzfachlichen Aufwertung kann die nach Landesrecht zuständige
+    Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
 
 
 **5.** **Zu § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes**
@@ -2980,8 +2988,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 7.1 Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die
-    in Gebieten nach Nummer 7.3 liegen, die die Voraussetzungen der Nummer
-    7\.2 erfüllen und unter Nummer 7.4 fallen.
+    in Gebieten nach Nummer 7.3 liegen und die die Voraussetzungen der
+    Nummer 7.2 erfüllen.
 
 
 7.2 Im Antragsjahr dürfen
@@ -3011,11 +3019,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-
-7.4 Förderfähige landwirtschaftliche Flächen, bei denen rechtliche
-    Vorgaben mindestens einer der Maßnahmen nach Nummer 7.2 nicht
-    entgegenstehen, sind begünstigungsfähig.
 
 
 

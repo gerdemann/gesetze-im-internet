@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 V v. 30.1.2026 I Nr. 32
 
 Änderung durch
-:   Art. 4 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+:   Art. 4 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -234,7 +234,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 1 Absatz 1)
 
 ## Anlage Bußgeldkatalog (BKat)
-[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000824123)
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000826123)
 
 (Fundstelle: BGBl. I 2013, 500 – 540 ,
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -5707,12 +5707,13 @@ Abschnitt I
 
     *   Einer vollziehbaren Auflage nicht nachgekommen
 
-    *   § 10 Absatz 2 Satz 4
+    *   § 10 Absatz 1 Nummer 5, 7 bis 9
         § 23 Absatz 2 Satz 1
         § 28 Absatz 1 Satz 2
+        § 29 Absatz 1 Satz 6
         § 46 Absatz 2
         § 74 Absatz 3
-        § 75 Nummer 9, 14, 15
+        § 75 Nummer 9
 
     *   25 €
 
@@ -5762,31 +5763,18 @@ Abschnitt I
         Fahrzeugführer die erforderliche Fahrerlaubnis zur Fahrgastbeförderung
         nicht besaß
 
-    *   § 48 Absatz 8
+    *   § 48 Absatz 7
         § 75 Nummer 12
 
     *   75 €
 
 
-*    *
-    *   Ortskenntnisse bei Fahrgastbeförderung ****
-
-    *
-    *
-
 *    *   173
 
-    *   Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 i. V. m.
-        § 48 Absatz 4 Nummer 7 FeV
-        genannten Fahrzeug angeordnet oder zugelassen,
-        obwohl der Fahrzeugführer die erforderlichen Ortskenntnisse nicht
-        nachgewiesen hat
+    *   (weggefallen)
 
-    *   § 48 Absatz 8
-        § 75 Nummer 12
-
-    *   35 €
-
+    *
+    *
 
 
 
