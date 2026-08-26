@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 139
 
-Änderung durch
-:   Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226
 
 [^F829873_01_BJNR08B0A0024]:     Diese Verordnung dient der Umsetzung des Artikels 19 der Richtlinie
     (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11.
