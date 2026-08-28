@@ -16,19 +16,13 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 5 G v. 23.4.2026 I Nr. 112
-
-Änderung durch
-:   Art. 2 Nr. 1 bis 5 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 Nr. 6 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 2 G v 22.7.2026 I Nr. 222
 
 Änderung durch
 :   Art. 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 8 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
+:   Art. 8 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. mWv 1.5.2027 bzw. mWv 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 12 G v 22.7.2026 I Nr. 222 mWv 1.5.2030 noch nicht berücksichtigt
@@ -1040,7 +1034,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003689311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003695311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5794,7 +5788,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003689311]
+    *[^F829919_01_BJNR069500995BJNE003695311]
    (1)
 
     *
@@ -12306,7 +12300,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
 *    *   Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3
-        Nummer 1a und 1b AufenthG)
+        Nummer 1a und 1b AufenthG) und vollziehbare Ausreisepflicht
 
     *
     *
@@ -16165,20 +16159,6 @@ Abschnitt II
 
     *
     *
-    *
-
-*    *   – Geschäftszeichen der Registerbehörde
-        (Visadatei-Nummer)
-
-    *[^f756180_08_BJNR069500995BJNE003689311]
-   (7)
-
-    *
-        –   Zuspeicherung durch dieRegisterbehörde
-
-
-
-
     *   Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als
         Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die
         Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des
@@ -16221,9 +16201,21 @@ Abschnitt II
         nach dem Sanktionsdurchsetzungsgesetz
 
 
-*    *   § 29 Absatz 1 Nummer 1a
+*    *   – Geschäftszeichen der Registerbehörde
+        (Visadatei-Nummer)
+
+    *[^f756180_08_BJNR069500995BJNE003695311]
+   (7)
 
     *
+        –   Zuspeicherung durch die Registerbehörde
+
+
+
+
+
+*    *   § 29 Absatz 1 Nummer 1a
+
     *
     *
 
@@ -16238,7 +16230,6 @@ Abschnitt II
 
 
 
-    *
 
 *    *   § 29 Absatz 1 Nummer 2
 
@@ -16278,11 +16269,9 @@ Abschnitt II
 
 
 
-    *
 
 *    *   Visa erteilende Behörde
 
-    *
     *
 
 *    *   a)
@@ -16291,7 +16280,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   b)
 
@@ -16302,18 +16290,15 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   § 29 Absatz 1 Nummer 3
         in Verbindung mit § 3 Absatz 1 Nummer 4
         und 5
 
     *
-    *
 
 *    *   Grundpersonalien
 
-    *
     *
 
 *    *   a)
@@ -16322,7 +16307,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   b)
 
@@ -16330,7 +16314,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   c)
 
@@ -16338,7 +16321,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   d)
 
@@ -16348,7 +16330,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   e)
 
@@ -16356,7 +16337,6 @@ Abschnitt II
 
     *   (7)
 
-    *
 
 *    *   f)
 
@@ -16364,7 +16344,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   g)
@@ -16374,7 +16353,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   h)
 
@@ -16382,7 +16360,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   i)
@@ -16393,7 +16370,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   j)
 
@@ -16402,11 +16378,9 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 4
 
-    *
     *
     *
 
@@ -16415,11 +16389,9 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 5
 
-    *
     *
     *
 
@@ -16428,18 +16400,15 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 6
 
-    *
     *
     *
 
 *    *   Entscheidung über den Antrag und das
         erteilte Visum
 
-    *
     *
     *
 
@@ -16450,16 +16419,14 @@ Abschnitt II
     *   (2)
 
     *
-    *
 
 *    *   b)
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003689311]
+    *[^f756180_09_BJNR069500995BJNE003695311]
    (2)
 
-    *
     *
 
 *    *   c)
@@ -16470,7 +16437,6 @@ Abschnitt II
     *   (5)
 
     *
-    *
 
 *    *   d)
 
@@ -16478,7 +16444,6 @@ Abschnitt II
 
     *   (5)
 
-    *
     *
 
 *    *   e)
@@ -16488,7 +16453,6 @@ Abschnitt II
     *   (2)
 
     *
-    *
 
 *    *   f)
 
@@ -16496,7 +16460,6 @@ Abschnitt II
 
     *   (2)
 
-    *
     *
 
 *    *   g)
@@ -16506,7 +16469,6 @@ Abschnitt II
     *   (2)
 
     *
-    *
 
 *    *   h)
 
@@ -16515,17 +16477,14 @@ Abschnitt II
     *   (2)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 7
 
     *
     *
-    *
 
 *    *   Weitere Daten
 
-    *
     *
     *
 
@@ -16537,7 +16496,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16546,17 +16504,14 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 8
 
     *
     *
-    *
 
 *    *   Angaben zum Visum
 
-    *
     *
     *
 
@@ -16567,7 +16522,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16575,7 +16529,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   c)
@@ -16586,11 +16539,9 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 9
 
-    *
     *
     *
 
@@ -16600,17 +16551,14 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 10
 
     *
     *
-    *
 
 *    *   Verpflichtungserklärung
 
-    *
     *
     *
 
@@ -16622,7 +16570,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16631,7 +16578,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   c)
@@ -16643,7 +16589,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   d)
 
@@ -16651,7 +16596,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   e)
@@ -16661,7 +16605,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   f)
 
@@ -16669,7 +16612,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *
@@ -16696,7 +16638,6 @@ Abschnitt II
 
     *
     *
-    *
 
 *    *   g)
 
@@ -16704,7 +16645,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *
@@ -16722,18 +16662,15 @@ Abschnitt II
 
     *
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 11
 
-    *
     *
     *
 
 *    *   Ge- oder verfälschte
         Dokumente
 
-    *
     *
     *
 
@@ -16745,7 +16682,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16753,7 +16689,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   c)
@@ -16764,7 +16699,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   d)
 
@@ -16773,7 +16707,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   e)
@@ -16784,11 +16717,9 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 1 Nummer 12
 
-    *
     *
     *
 
@@ -16797,7 +16728,6 @@ Abschnitt II
         stellung zustimmungsfreier Beschäftigung nach § 39 AufenthG (reguläres
         Verfahren)
 
-    *
     *
     *
 
@@ -16813,7 +16743,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16827,7 +16756,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   c)
 
@@ -16837,7 +16765,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 *    *   d)
@@ -16849,17 +16776,14 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   § 29 Absatz 2
 
     *
     *
-    *
 
 *    *   Angaben zum Pass
 
-    *
     *
     *
 
@@ -16870,7 +16794,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   b)
 
@@ -16879,7 +16802,6 @@ Abschnitt II
     *   (7)
 
     *
-    *
 
 *    *   c)
 
@@ -16887,7 +16809,6 @@ Abschnitt II
 
     *   (7)
 
-    *
     *
 
 
@@ -17222,7 +17143,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003689311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003689311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003695311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003695311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003689311]: 
+[^F829919_01_BJNR069500995BJNE003695311]: 
