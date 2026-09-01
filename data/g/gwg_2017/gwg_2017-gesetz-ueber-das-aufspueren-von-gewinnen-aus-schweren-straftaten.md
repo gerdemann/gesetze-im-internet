@@ -535,7 +535,7 @@ gehostete Adresse im Sinne des Artikels 3 Nummer 20 der Verordnung
 
 
 ### § 2 Verpflichtete, Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000306128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000307128)
 
 (1) Verpflichtete im Sinne dieses Gesetzes sind, soweit sie in
 Ausübung ihres Gewerbes oder Berufs handeln,
@@ -677,8 +677,7 @@ Ausübung ihres Gewerbes oder Berufs handeln,
 
 
 12. Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater,
-    Steuerbevollmächtigte und die in § 4 Nummer 11 des
-    Steuerberatungsgesetzes genannten Vereine
+    Steuerbevollmächtigte und Lohnsteuerhilfevereine,
 
 
 13. Dienstleister für Gesellschaften und für Treuhandvermögen oder
@@ -5846,7 +5845,7 @@ Verfügung.
 
 
 ### § 50 Zuständige Aufsichtsbehörde
-[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007900128)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007901128)
 
 Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
@@ -5941,8 +5940,8 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
     Steuerberatungsgesetzes),
 
 
-7a. für Vereine nach § 4 Nummer 11 des Steuerberatungsgesetzes die für die
-    Aufsicht nach § 27 des Steuerberatungsgesetzes zuständige Behörde,
+7a. für Lohnsteuerhilfevereine die für die Aufsicht nach § 27 des
+    Steuerberatungsgesetzes zuständige Behörde,
 
 
 8.  für die Veranstalter und Vermittler von Glücksspielen nach § 2 Absatz

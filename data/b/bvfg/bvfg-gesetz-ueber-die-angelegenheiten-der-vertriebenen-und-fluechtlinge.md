@@ -953,18 +953,9 @@ beglaubigen oder beurkunden. Gebühren und Auslagen werden nicht
 erhoben.
 
 
-### § 95 Unentgeltliche Beratung
-[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE011904310)
+### § 95 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE011905130)
 
-(1) Organisationen der Vertriebenen, Flüchtlinge und Spätaussiedler,
-deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb
-gerichtet ist, dürfen Vertriebene, Flüchtlinge und Spätaussiedler im
-Rahmen ihres Aufgabengebiets in Steuerfragen unentgeltlich beraten.
-Sie bedürfen hierzu keiner besonderen Erlaubnis.
-
-(2) Diese Tätigkeit kann ihnen im Falle missbräuchlicher Ausübung
-untersagt werden. Das Nähere bestimmt die Bundesregierung durch
-Rechtsverordnung mit Zustimmung des Bundesrates.
 
 
 ## Sechster Abschnitt - Kultur, Forschung und Statistik

@@ -539,7 +539,7 @@ Gerichtsverwaltung übertragen werden.
 
 
 ##### § 33
-[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005203301)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005204131)
 
 (1) Der Finanzrechtsweg ist gegeben
 
@@ -557,8 +557,8 @@ Gerichtsverwaltung übertragen werden.
 
 3.  in öffentlich-rechtlichen und berufsrechtlichen Streitigkeiten über
     Angelegenheiten, die durch den Ersten Teil, den Zweiten und den
-    Sechsten Abschnitt des Zweiten Teils und den Ersten Abschnitt des
-    Dritten Teils des Steuerberatungsgesetzes geregelt werden,
+    Sechsten Abschnitt des Zweiten Teils sowie durch § 159 des
+    Steuerberatungsgesetzes geregelt werden,
 
 
 4.  in anderen als den in den Nummern 1 bis 3 bezeichneten öffentlich-
@@ -1361,7 +1361,7 @@ besonderem Maße betroffen werden, auch ohne Antrag beiladen.
 
 
 #### § 62
-[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008108125)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008109131)
 
 (1) Die Beteiligten können vor dem Finanzgericht den Rechtsstreit
 selbst führen.
@@ -1401,11 +1401,11 @@ vertretungsbefugt nur
     Rahmen dieser Befugnisse,
 
 
-4.  landwirtschaftliche Buchstellen im Rahmen ihrer Befugnisse nach § 4
-    Nr. 8 des Steuerberatungsgesetzes,
+4.  landwirtschaftliche Buchstellen im Rahmen ihrer Befugnisse nach § 4a
+    des Steuerberatungsgesetzes,
 
 
-5.  Lohnsteuerhilfevereine im Rahmen ihrer Befugnisse nach § 4 Nr. 11 des
+5.  Lohnsteuerhilfevereine im Rahmen ihrer Befugnisse nach § 4 des
     Steuerberatungsgesetzes,
 
 

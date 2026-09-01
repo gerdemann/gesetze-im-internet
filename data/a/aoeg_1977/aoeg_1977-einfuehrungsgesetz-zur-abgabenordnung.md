@@ -2307,10 +2307,12 @@ erlassen werden, bedürfen, außer wenn sie die Biersteuer betreffen,
 nicht der Zustimmung des Bundesrates.
 
 
-### Art 100 - 
-[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000901301)
+### Art 100 - Besondere Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000902123)
 
--
+§ 142 der Abgabenordnung in der am 2. September 2026 geltenden Fassung
+ist erstmals für das Führen von Anbauverzeichnissen anzuwenden für
+Wirtschaftsjahre, die nach dem 1. September 2026 beginnen.
 
 
 ### Art 101 - Übergangsvorschrift zum Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union
