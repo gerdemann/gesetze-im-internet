@@ -22,7 +22,7 @@ Fundstelle
 :   BGBl. II: 2026, Nr. 141 (2026 II Nr. 176)
 
 Stand: Die V tritt gem. Art. 3 Abs. 2 an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt
-Stand: V in Kraft gem. Art. 3 Abs. 1 iVm Satz 2 Bek. v 24.8.2026 I Nr. 176 mWv 31.7.2026
+Stand: V in Kraft gem. Art. 3 Abs. 1 dieser V iVm Satz 2 Bek. v 24.8.2026 II Nr. 176 mWv 31.7.2026
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkanwvbgv/BJNR08D0O0026.html#BJNR08D0O0026BJNE000100000)

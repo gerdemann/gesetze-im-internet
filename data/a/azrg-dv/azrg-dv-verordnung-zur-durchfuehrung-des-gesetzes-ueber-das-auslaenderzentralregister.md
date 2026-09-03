@@ -19,19 +19,19 @@ Zuletzt geändert durch
 :   Art. 2 G v 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
+:   Art. 7 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. mWv 1.5.2027 bzw. mWv 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 8 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.5.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 12 G v 22.7.2026 I Nr. 222 mWv 1.5.2030 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. mWv 29.7.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. mWv 1.5.2028 noch nicht berücksichtigt
+:   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -1034,7 +1034,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003695311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003905311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1199,7 +1199,7 @@ Abschnitt I
 
 *    *   a)
 
-    *   aktenführende Ausländerbehörde
+    *   aktenführende Ausländerbehörde oder Aufnahmeeinrichtung
 
     *   (7)
 
@@ -1587,7 +1587,7 @@ Abschnitt I
 
 
             –   Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des
-                AZR-Gesetzes zu Spalte A Buchstabe a, c, e bis h
+                AZR-Gesetzes zu Spalte A Buchstabe a, c, e bis i
 
 
 
@@ -1666,7 +1666,7 @@ Abschnitt I
 
 *    *   d)
 
-    *   Schreibweise der Namen nach deutschem Recht
+    *   Familienname nach deutschem Recht
 
     *   (7)
 
@@ -1690,7 +1690,7 @@ Abschnitt I
 
 *    *   g)
 
-    *   Geschlechtseintrag
+    *   Geschlechtsangabe
 
     *   (7)
 
@@ -2093,11 +2093,11 @@ Abschnitt I
 
 
             –   mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
-                Buchstabe a, b, d, f und g
+                Buchstabe a, b, d, h und i
 
 
             –   in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
-                bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d, f und g
+                bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d, h und i
 
 
             –   Bundesamt für Migration und Flüchtlinge
@@ -2123,17 +2123,17 @@ Abschnitt I
 
 
         II.
-            –   Bundeskriminalamt zu Spalte A Buchstabe a, b, d und g
+            –   Bundeskriminalamt zu Spalte A Buchstabe a, b, d und i
 
 
-            –   Landeskriminalämter zu Spalte A Buchstabe a, b, d und g
+            –   Landeskriminalämter zu Spalte A Buchstabe a, b, d und i
 
 
-            –   Zollkriminalamt zu Spalte A Buchstabe a, b, d und g
+            –   Zollkriminalamt zu Spalte A Buchstabe a, b, d und i
 
 
             –   sonstige Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a,
-                b, d und g
+                b, d und i
 
 
 
@@ -2192,7 +2192,7 @@ Abschnitt I
                 Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
 
-            –   Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis d
+            –   Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis f
 
 
             –   Registermodernisierungsbehörde zur Aufgabenerfüllung nach § 6a des
@@ -2221,35 +2221,35 @@ Abschnitt I
             –   Vollzugseinrichtungen
 
 
-            –   Gerichte zu Spalte A Buchstabe a bis d, f und h
+            –   Gerichte zu Spalte A Buchstabe a bis f, h und j
 
 
             –   Bundesamt für Justiz zu Spalte A Buchstabe a bis d
 
 
-            –   Zollkriminalamt zu Spalte A Buchstabe a bis d, f und g
+            –   Zollkriminalamt zu Spalte A Buchstabe a bis f, h und i
 
 
-            –   Behörden der Zollverwaltung zu Spalte A Buchstabe a bis d, f und g
+            –   Behörden der Zollverwaltung zu Spalte A Buchstabe a bis f, h und i
 
 
             –   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-
-                Gesetzes zu Spalte A Buchstabe a bis g
+                Gesetzes zu Spalte A Buchstabe a bis i
 
 
             –   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 23a des AZR-
-                Gesetzes zu Spalte A Buchstabe a bis d
+                Gesetzes zu Spalte A Buchstabe a bis f
 
 
             –   die für die Durchführung der Grundsicherung für Arbeitsuchende
-                zuständigen Stellen zu Spalte A Buchstabe a bis g
+                zuständigen Stellen zu Spalte A Buchstabe a bis i
 
 
             –   die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu
-                Spalte A Buchstabe a bis d, f und g
+                Spalte A Buchstabe a bis f, h und i
 
 
-            –   die Jugendämter zu Spalte A Buchstabe a bis d, f und g
+            –   die Jugendämter zu Spalte A Buchstabe a bis f, h und i
 
 
             –   die Unterhaltsvorschussstellen zu Spalte A Buchstabe a bis d und f
@@ -2260,26 +2260,27 @@ Abschnitt I
 
             –   Träger der Sozialhilfe und für die Durchführung des
                 Asylbewerberleistungsgesetzes zuständige Stellen zu Spalte A Buchstabe
-                a bis g und i
+                a bis i und k
 
 
-            –   Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c
+            –   Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe
+                c, e und f
 
 
-            –   Statistisches Bundesamt zu Spalte A Buchstabe e und i
+            –   Statistisches Bundesamt zu Spalte A Buchstabe g, j und l
 
 
-            –   alle übrigen öffentlichen Stellen zu Spalte A Buchstabe c
+            –   alle übrigen öffentlichen Stellen zu Spalte A Buchstabe c, e und f
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
                 Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu
-                Spalte A Buchstabe a bis d, f und g
+                Spalte A Buchstabe a bis f, h und i
 
 
             –   Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben
-                nach dem Sanktionsdurchsetzungsgesetz zu Spalte A Buchstabe a bis d
-                und f
+                nach dem Sanktionsdurchsetzungsgesetz zu Spalte A Buchstabe a bis f
+                und h
 
 
 
@@ -2311,12 +2312,12 @@ Abschnitt I
 
 *    *   c)
 
-    *   frühere Personalien
+    *   frühere
 
-        aa) frühere Namen
+        aa) Namen\*
 
 
-        bb) frühere Geschlechtseinträge
+        bb) Geschlechtsangaben\*
 
 
 
@@ -2332,7 +2333,7 @@ Abschnitt I
         – Vornamen
         – Geburtsdatum
         – Geburtsort und -bezirk
-        – Geschlechtseintrag
+        – Geschlechtsangabe
         – Staatsangehörigkeiten
 
     *   (7)
@@ -2340,12 +2341,28 @@ Abschnitt I
 
 *    *   e)
 
-    *   Familienstand
+    *   abweichende Vornamen aus den vorgelegten Ausweisdokumenten des
+        Herkunftsstaates
 
     *   (7)
 
 
 *    *   f)
+
+    *   abweichende Geschlechtsangabe aus den vorgelegten Ausweisdokumenten
+        des Herkunftsstaates
+
+    *   (7)
+
+
+*    *   g)
+
+    *   Familienstand
+
+    *   (7)
+
+
+*    *   h)
 
     *   Angaben zum Ausweisdokument
         – Dokumentenart
@@ -2373,28 +2390,28 @@ Abschnitt I
     *   (7)
 
 
-*    *   g)
+*    *   i)
 
     *   ausländische Personenidentitätsnummer
 
     *   (7)
 
 
-*    *   h)
+*    *   j)
 
     *   letzter Wohnort im Herkunftsland
 
     *   (7)
 
 
-*    *   i)
+*    *   k)
 
     *   freiwillig gemachte Angaben zur Religionszugehörigkeit
 
     *   (7)
 
 
-*    *   j)
+*    *   l)
 
     *   Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
 
@@ -2454,6 +2471,11 @@ Abschnitt I
 
 
 *    *
+
+*    *   * Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
+        eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
+
+
 
 
 
@@ -5788,7 +5810,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003695311]
+    *[^F829919_01_BJNR069500995BJNE003905311]
    (1)
 
     *
@@ -16185,6 +16207,10 @@ Abschnitt II
         Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende
         zuständigen Stellen
+        – Jugendämter
+        – oberste Bundes- und Landesbehörden, die mit der Durchführung
+        ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
+        betraut sind
         – Verfassungsschutzbehörden des Bundes und der Länder
         – Bundesnachrichtendienst
         – Militärischer Abschirmdienst
@@ -16204,7 +16230,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003695311]
+    *[^f756180_08_BJNR069500995BJNE003905311]
    (7)
 
     *
@@ -16256,10 +16282,6 @@ Abschnitt II
 
         –   die Jugendämter zu Spalte A zu § 29 Absatz 1 Nummer 10 Buchstabe f
             Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
-
-
-        –   die Unterhaltsvorschussstellen zu Spalte A zu § 29 Absatz 1 Nummer 10
-            Buchstabe f Doppelbuchstabe ff und Buchstabe g Doppelbuchstabe cc
 
 
         –   für die Durchführung des Asylbewerberleistungsgesetzes zuständige
@@ -16324,21 +16346,12 @@ Abschnitt II
 
 *    *   d)
 
-    *   Schreibweise der
-        Namen nach
-        deutschem Recht
-
-    *   (7)
-
-
-*    *   e)
-
     *   Geburtsdatum
 
     *   (7)
 
 
-*    *   f)
+*    *   e)
 
     *   Geburtsort, und -land, -bezirk
 
@@ -16346,15 +16359,15 @@ Abschnitt II
 
     *
 
-*    *   g)
+*    *   f)
 
-    *   Geschlechtseintrag
+    *   Geschlechtsangabe
 
     *   (7)
 
     *
 
-*    *   h)
+*    *   g)
 
     *   Doktorgrad
 
@@ -16362,7 +16375,7 @@ Abschnitt II
 
     *
 
-*    *   i)
+*    *   h)
 
     *   Weitere Personalien gemäß Abschnitt I
         Nummer 4 Spalte A
@@ -16371,7 +16384,7 @@ Abschnitt II
 
     *
 
-*    *   j)
+*    *   i)
 
     *   Staatsangehörigkeiten
 
@@ -16424,7 +16437,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003695311]
+    *[^f756180_09_BJNR069500995BJNE003905311]
    (2)
 
     *
@@ -17143,7 +17156,7 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003695311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003695311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003905311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003905311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003695311]: 
+[^F829919_01_BJNR069500995BJNE003905311]: 
