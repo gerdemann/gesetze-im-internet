@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 205
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67
+:   Art. 1 V v. 18.8.2026 I Nr. 251
 
 Stand: Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
 
@@ -181,7 +181,7 @@ und Kommunikationssystem abzurufen.
 
 
 ### § 8 Auswahlverfahren und Zulassung zum Auswahlverfahren
-[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001001311)
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001002125)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
@@ -191,8 +191,8 @@ Vorbereitungsdienst geeignet und befähigt sind. Die Hochschule ist an
 der Ausgestaltung des Auswahlverfahrens zu beteiligen.
 
 (2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11
-Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
-schwerbehinderte Menschen und gleichgestellte behinderte Menschen
+Absatz 3 Satz 2 der Bundeslaufbahnverordnung beschränkt, so werden
+Menschen mit Schwerbehinderung und gleichgestellte behinderte Menschen
 sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit
 Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung
 zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung
@@ -1404,12 +1404,12 @@ gerundet.
 
 
 #### § 38 Wiederholung nichtbestandener Modulprüfungen
-[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004000000)
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004001125)
 
 (1) Eine nichtbestandene Modulprüfung kann einmal wiederholt werden.
 
-(2) In je einem Pflichtmodul und einem Wahlpflichtmodul ist eine
-zweite Wiederholung möglich.
+(2) Zwei in der ersten Wiederholung nicht bestandene Modulprüfungen
+können ein zweites Mal wiederholt werden.
 
 (3) Die Wiederholungstermine werden durch das Prüfungsamt festgelegt.
 Sie sollen im jeweils folgenden Semester liegen.
