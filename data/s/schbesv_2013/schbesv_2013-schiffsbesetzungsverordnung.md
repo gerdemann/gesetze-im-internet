@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.6.2021 I 1849
 
+Änderung durch
+:   Art. 1 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000100000)

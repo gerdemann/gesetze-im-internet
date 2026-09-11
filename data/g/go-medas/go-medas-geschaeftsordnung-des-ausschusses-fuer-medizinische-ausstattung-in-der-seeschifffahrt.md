@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2579
 
+Änderung durch
+:   Art. 3 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 [Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000100000)

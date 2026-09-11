@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 18.6.2026 I Nr. 184
 
+Änderung durch
+:   Art. 4 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000100000)
@@ -31,7 +34,7 @@ Infrastruktur:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000211129)
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000212126)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die
 Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für
@@ -239,8 +242,21 @@ der folgenden Vorschriften erbracht werden:
 63. Seeversicherungsnachweisgesetz (SeeVersNachwG),
 
 
-64. Öl-Pflichtversicherungsbescheinigungs-Verordnung
+64. HNS-Gesetz (HNSG),
+
+
+65. Öl-Pflichtversicherungsbescheinigungs-Verordnung
     (ÖlPflichtVersBeschV),
+
+
+66. Seeversicherungsnachweisverordnung (SeeVersNachwV),
+
+
+67. HNS-Pflichtversicherungsbescheinigungsverordnung
+    (HNSPflichtVersBeschV),
+
+
+68. Schiffssicherheitsgesetz (SchSG),
 
 
 65. Seeversicherungsnachweisverordnung (SeeVersNachwV),
@@ -249,35 +265,35 @@ der folgenden Vorschriften erbracht werden:
 66. Schiffssicherheitsgesetz (SchSG),
 
 
-67. Schiffsbesetzungsverordnung (SchBesV),
+69. Schiffsbesetzungsverordnung (SchBesV),
 
 
-68. MARPOL-Gesetz (IntMeerSchÜbk1973G),
+70. MARPOL-Gesetz (IntMeerSchÜbk1973G),
 
 
-69. Ballastwasser-Gesetz (BallastWG),
+71. Ballastwasser-Gesetz (BallastWG),
 
 
-70. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
+72. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
     Rates vom 20. November 2013 über das Recycling von Schiffen und zur
     Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie
     2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden
     Fassung,
 
 
-71. Seearbeitsgesetz (SeeArbG),
+73. Seearbeitsgesetz (SeeArbG),
 
 
-72. Maritime-Medizin-Verordnung (MariMedV),
+74. Maritime-Medizin-Verordnung (MariMedV),
 
 
-73. See-Unterkunftsverordnung (SeeUnterkunftsV)
+75. See-Unterkunftsverordnung (SeeUnterkunftsV)
 
 
-74. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+76. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
 
 
-75. Sportseeschifferscheinverordnung (SportSeeSchV).
+77. Sportseeschifferscheinverordnung (SportSeeSchV).
 
 
 
@@ -346,7 +362,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 (zu § 2)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000715129)
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000716126)
 
 (Fundstelle: BGBl. I 2021, 4746 - 4778;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -626,7 +642,7 @@ Bundeswasserstraßen und der Strompolizei
     *   § 31 Absatz 1 Nummer 1 WaStrG
 
     *
-    *   1 055 – 2 813
+    *   351 – 2 813
 
 
 *    *   16
@@ -735,13 +751,13 @@ Bundeswasserstraßen und der Strompolizei
 
 *    *   25
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder
-        die Grundsanierung einer Brücke
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau, die
+        Grundsanierung und den Rückbau einer Brücke
 
     *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
-    *   3 516 – 14 066
+    *   2 110 – 14 066
 
 
 *    *   26
@@ -935,14 +951,14 @@ Bundeswasserstraßen und der Strompolizei
     *   § 34 Absatz 2 Satz 2 WaStrG
 
     *
-    *   246 – 844
+    *   246 – 2 813
 
 
 *    *   43
 
     *   Nachträgliche Entscheidungen zu Genehmigungen
 
-    *   § 31 Absatz 2 Nummer 1, Absatz 2 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG
+    *   § 31 Absatz 1 Nummer 1, Absatz 1 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG
 
     *
     *   140 – 2 813
@@ -5742,12 +5758,14 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   133
 
-    *   Ausstellung einer Haftungsbescheinigung
+    *   Ausstellung einer Haftungs- oder Pflichtversicherungsbescheinigung
 
-    *   § 2 Absatz 2 und 4 ÖlSG
-        § 5 Absatz 2, 6, § 8 Absatz 2 SeeVersNachwG
+    *   § 2 Absatz 2 und § 4 Absatz 1 ÖlSG
+        § 5 Absatz 2 sowie § 8 Absatz 2 SeeVersNachwG
+        § 2 Absatz 2 und § 6 HNSG
         § 4 Absatz 1 ÖlPflichtVersBeschV
-        § 4 Absatz 1 und 2 SeeVersnachwV
+        § 4 Absatz 1 und 2 SeeVersNachwV
+        § 3 Absatz 1 HNSPflichtVersBeschV
 
     *   118
 
@@ -7591,6 +7609,17 @@ Gebühren und Auslagen
         Regel 3 SchSV
 
     *   nach Zeitaufwand
+
+
+*    *   3203
+
+    *   Genehmigung für Abweichungen von den Nationalitätenvorgaben zur
+        Schiffsbesetzung inkl. Verlängerung um maximal 54 Monate
+
+    *   § 4 SchBesV
+        § 5 SchBesV
+
+    *   219
 
 
 *    *   **IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und
