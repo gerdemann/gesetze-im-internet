@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2578
 
 Änderung durch
-:   Art. 3 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 3 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -46,7 +46,7 @@ Diese Verordnung tritt am 1. August 2013 in Kraft.
 (zu § 1)
 
 ## Anlage Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
-[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000401119)
 
 (Fundstelle: BGBl. I 2013, 2579 - 2580)
 

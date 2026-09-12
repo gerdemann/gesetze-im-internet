@@ -16,11 +16,11 @@ Fundstelle
 :   BGBl I: 2013, 2579
 
 Änderung durch
-:   Art. 3 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 3 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000100000)
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000101119)
 
 Inhaltsübersicht
 
@@ -51,15 +51,35 @@ Inhaltsübersicht
 
 *    *   § 6
 
-    *   Beschlüsse
+    *   Ladung zur Sitzung
 
 
 *    *   § 7
 
-    *   Ausschussangelegenheiten, Ergebnisniederschriften
+    *   Tagesordnung
 
 
 *    *   § 8
+
+    *   Elektronische Versendung
+
+
+*    *   § 9
+
+    *   Aufgabenübertragung; Hinzuziehung Dritter; Kosten
+
+
+*    *   § 10
+
+    *   Beschlüsse
+
+
+*    *   § 11
+
+    *   Ausschussangelegenheiten, Ergebnisniederschriften
+
+
+*    *   § 12
 
     *   Unterausschüsse
 
@@ -67,7 +87,7 @@ Inhaltsübersicht
 
 
 ## § 1 Mitglieder
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000201119)
 
 (1) Der Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 (Ausschuss) besteht aus den nach Maßgabe des § 108 Absatz 3 in
@@ -82,27 +102,22 @@ Verbindung mit Absatz 5 des Seearbeitsgesetzes berufenen
 
 Ferner nehmen Personen an den Sitzungen des Ausschusses teil, die nach
 § 108 Absatz 5 Satz 5 des Seearbeitsgesetzes vom Bundesministerium für
-Verkehr, Bau und Stadtentwicklung (Bundesministerium) im Einzelfall
-nach fachlichem Bedarf berufen worden sind.
+Verkehr (Bundesministerium) im Einzelfall nach fachlichem Bedarf
+berufen worden sind.
 
-(2) Das Bundesministerium beruft die Mitglieder des Ausschusses und
-ihre Stellvertreter durch eine Urkunde, die der betroffenen Person
-übersandt oder ausgehändigt wird. Der Empfang der Urkunde ist zu
-bestätigen.
-
-(3) An den Sitzungen des Ausschusses nehmen jeweils nur die Mitglieder
+(2) An den Sitzungen des Ausschusses nehmen jeweils nur die Mitglieder
 teil. Ein Mitglied, das an der Teilnahme an einer Sitzung des
 Ausschusses verhindert ist, wird durch seinen jeweiligen
 Stellvertreter vertreten; in diesem Fall nimmt der Stellvertreter die
 Rechte und Pflichten des vertretenen Mitgliedes wahr.
 
-(4) Scheidet ein Mitglied oder dessen Vertreter vor Ablauf der
+(3) Scheidet ein Mitglied oder dessen Vertreter vor Ablauf der
 Berufungszeit aus dem Ausschuss aus, hat die entsendungsberechtigte
 Behörde oder sonstige Einrichtung unverzüglich eine neue Person für
 den Rest der ursprünglichen Berufungszeit dem Bundesministerium zu
 benennen.
 
-(5) Die Mitglieder des Ausschusses und ihre Vertreter sind in ihrer
+(4) Die Mitglieder des Ausschusses und ihre Vertreter sind in ihrer
 fachlichen Meinung unabhängig und weisungsfrei.
 
 
@@ -147,51 +162,85 @@ administrativen Angelegenheiten jederzeit zu hören.
 
 
 ## § 5 Sitzungen
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000600000)
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000601119)
+
+(1) Die Sitzungen des Ausschusses finden in Präsenz aller Mitglieder
+und Stellvertreter an einem gemeinsamen Sitzungsort statt. Die
+Mitglieder können beschließen, dass künftige Versammlungen auch ohne
+gemeinsame Anwesenheit am Sitzungsort im Wege der elektronischen
+Kommunikation (Online-Sitzung) oder gleichzeitig in Präsenz und im
+Wege der elektronischen Kommunikation (hybride Sitzung) stattfinden
+können.
+
+(2) Die Sitzungen des Ausschusses und seiner Gremien sind nicht
+öffentlich.
+
+(3) Mitglieder, die an einer Sitzungsteilnahme verhindert sind, teilen
+dies ihrem Stellvertreter und dem Geschäftsführer unverzüglich nach
+Erkennen des Verhinderungsgrundes mit.
+
+
+## § 6 Ladung zur Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE001000119)
 
 (1) Der Vorsitzende lädt den Ausschuss nach Bedarf, mindestens jedoch
 einmal im Jahr, oder auf Verlangen der Hälfte der stimmberechtigten
 Mitglieder des Ausschusses zu den Sitzungen.
 
-(2) Die Ladungsfrist beträgt drei Wochen. In dringenden Fällen kann
-der Vorsitzende den Ausschuss auch mit einer Frist von einer Woche
-laden; die Dringlichkeit ist in der Ladung zu begründen.
+(2) In der Ladung ist anzugeben, ob eine Sitzung in Präsenz, eine
+Online-Sitzung oder hybride Sitzung (§ 5 Absatz 1) stattfindet.
 
-(3) Der Ladung zur Sitzung ist eine Tagesordnung beizufügen, die der
-Vorsitzende unter Berücksichtigung von Vorschlägen der Mitglieder
-festlegt. Die Beratungsunterlagen und die Ladung können auf
-elektronischem Weg an die Mitglieder versendet werden, soweit ein
-Mitglied sein Einverständnis dazu erteilt.
+(3) Die Ladungsfrist beträgt drei Wochen. In dringenden Fällen kann
+der Vorsitzende den Ausschuss mit einer Frist von einer Woche laden;
+die Dringlichkeit ist in der Ladung zu begründen.
 
-(4) Mitglieder, die an einer Sitzungsteilnahme verhindert sind, teilen
-dies ihrem Stellvertreter und dem Geschäftsführer unverzüglich nach
-Erkennen des Verhinderungsgrundes vor einer Sitzung mit.
+(4) Der Ladung zur Sitzung ist eine Tagesordnung nach Maßgabe des § 7
+beizufügen.
 
-(5) Änderungen oder Ergänzungen der Tagesordnung werden
-berücksichtigt, wenn sie im Einvernehmen mit dem Vorsitzenden
-spätestens zwei Wochen vor der Sitzung den Mitgliedern des Ausschusses
-mit Begründung zugegangen sind. Die Tagesordnung kann auch während der
-Sitzung geändert oder ergänzt werden, wenn der Ausschuss dies mit der
-Mehrheit der anwesenden stimmberechtigten Mitglieder beschließt.
 
-(6) Die Sitzungen des Ausschusses und seiner Gremien sind nicht
-öffentlich.
+## § 7 Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE001100119)
 
-(7) Zur Erfüllung seiner Aufgaben kann der Ausschuss Sachverständige
-anhören, Gutachten beiziehen oder Untersuchungen durch Dritte
-vornehmen lassen. Er kann einzelne oder mehrere Mitglieder mit der
+(1) Die Tagesordnung legt der Vorsitzende unter Berücksichtigung von
+Vorschlägen der Mitglieder fest.
+
+(2) Änderungen oder Ergänzungen der Tagesordnung werden
+berücksichtigt, wenn sie im Einvernehmen mit dem Vorsitzenden erfolgen
+und den Mitgliedern des Ausschusses spätestens zwei Wochen vor der
+Sitzung mit Begründung zugegangen sind.
+
+(3) Die Tagesordnung kann während der Sitzung geändert oder ergänzt
+werden, wenn der Ausschuss dies mit der Mehrheit der anwesenden
+stimmberechtigten Mitglieder beschließt.
+
+
+## § 8 Elektronische Versendung
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE001200119)
+
+Ladung, Tagungsordnung und etwaige Beratungsunterlagen können auf
+elektronischem Weg an die Mitglieder versendet werden.
+
+
+## § 9 Aufgabenübertragung; Hinzuziehung Dritter; Kosten
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE001300119)
+
+(1) Der Ausschuss kann einzelne oder mehrere Mitglieder mit der
 Erledigung bestimmter Aufgaben betrauen.
 
-(8) Soweit durch Maßnahmen nach Absatz 7 Kosten entstehen, ist die
-vorherige Zustimmung des Vorsitzes nach Anhörung des Geschäftsführers
-erforderlich.
+(2) Zur Erfüllung seiner Aufgaben kann der Ausschuss Sachverständige
+anhören, Gutachten beiziehen oder Untersuchungen durch Dritte
+vornehmen lassen.
 
-(9) Fahrtkosten und Verdienstausfall für die Mitglieder des
+(3) Soweit durch die Maßnahmen nach Absatz 1 oder Absatz 2 Kosten
+entstehen, ist die vorherige Zustimmung des Vorsitzenden nach Anhörung
+des Geschäftsführers erforderlich.
+
+(4) Fahrtkosten und Verdienstausfall für die Mitglieder des
 Ausschusses werden nicht erstattet.
 
 
-## § 6 Beschlüsse
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000700000)
+## § 10 Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000701119)
 
 (1) Der Ausschuss ist beschlussfähig, wenn mehr als die Hälfte der
 stimmberechtigten Mitglieder anwesend sind.
@@ -222,8 +271,8 @@ den Geschäftsführer. Falls ein elektronischer Zugang eröffnet ist,
 kann die Stimmabgabe auch elektronisch erfolgen.
 
 
-## § 7 Ausschussangelegenheiten, Ergebnisniederschriften
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000800000)
+## § 11 Ausschussangelegenheiten, Ergebnisniederschriften
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000801119)
 
 (1) Über jede Sitzung und jede schriftliche Beschlussfassung des
 Ausschusses ist von dem Geschäftsführer eine Ergebnisniederschrift
@@ -259,8 +308,8 @@ ihrer Internetseite oder mit geeigneten Mitteln die Öffentlichkeit
 über den Stand der medizinischen Erkenntnisse informieren.
 
 
-## § 8 Unterausschüsse
-[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000900000)
+## § 12 Unterausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000901119)
 
 (1) Der Ausschuss kann mit zwei Dritteln seiner anwesenden
 stimmberechtigten Mitglieder Unterausschüsse einrichten und deren

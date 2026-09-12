@@ -16,19 +16,15 @@ Fundstelle
 :   BGBl I: 2013, 1324
 
 Neugefasst durch
-:   Bek. v. 21.11.2018 I 1938;
+:   Bek. v. 27.3.2026 I Nr. 93
 
-Zuletzt geändert durch
-:   Art. 1 G v. 4.3.2026 I Nr. 60
-
-Stand: Neufassung gem. Bek. v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeines
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000101125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000102129)
 
 
 ### § 1 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000302119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000303129)
 
 Dieses Gesetz regelt die Vorbeugung vor Seuchen bei Tieren und deren
 Bekämpfung. In diesem Rahmen dient es auch der Erhaltung und Förderung
@@ -37,7 +33,7 @@ landwirtschaftlichen Erzeugung dienen. § 39 bleibt unberührt.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000402119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000403129)
 
 (1) Im Anwendungsbereich dieses Gesetzes gelten die
 Begriffsbestimmungen
@@ -56,7 +52,7 @@ Begriffsbestimmungen
 
 
 
-(2) Für in einer Rechtsverordnung nach § 4 näher bestimmte
+(2) Für in einer Rechtsverordnung nach § 4 näher bestimmte
 meldepflichtige Seuchen gelten im Anwendungsbereich dieses Gesetzes
 die Falldefinitionen des Artikels 9 Absatz 1 und 2 der Delegierten
 Verordnung (EU) 2020/689 in der Fassung vom 10. Juli 2023
@@ -87,11 +83,11 @@ anderes bestimmt ist.
 
 
 ## Abschnitt 2 - Maßnahmen zur Vorbeugung vor Seuchen und zu deren Bekämpfung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000202119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000203129)
 
 
 ### § 3 Anzeichen schwerer Krankheit oder verminderte Produktionsleistung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000502119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000503129)
 
 (1) Stellt ein Unternehmer eine anormale Mortalität, andere Anzeichen
 einer schweren Krankheit oder eine ohne ersichtlichen Grund deutlich
@@ -129,10 +125,10 @@ erforderlich ist,
 
 
 ### § 4 Verordnungsermächtigung zur Meldung von Seuchen bei Tieren
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004803119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004804129)
 
 (1) Das Bundesministerium wird ermächtigt, zur Erfüllung der Zwecke
-des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates
+des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates
 Vorschriften über die Meldung von Seuchen bei Tieren und über die
 Mitteilung an das Bundesministerium zu erlassen. In einer
 Rechtsverordnung nach Satz 1 kann das Bundesministerium insbesondere
@@ -190,7 +186,7 @@ nach dieser Vorschrift verweisen, jeweils erfasst sind.
 
 
 ### § 5 Maßnahmen zur Ermittlung einer Seuche
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000702119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000703129)
 
 (1) Stellt die zuständige Behörde aufgrund eines tierärztlichen
 Gutachtens, sonstiger Anhaltspunkte oder einer Meldung einer in einer
@@ -204,7 +200,7 @@ nur, soweit eine Absonderung im Einzelfall durchführbar ist. Die
 zuständige Behörde führt eine epidemiologische Untersuchung durch, um
 insbesondere den Zeitpunkt der Einschleppung der Seuche, deren Art,
 Ausbreitung und Ursachen zu ermitteln. Satz 3 gilt für das Auftreten
-einer in einer Rechtsverordnung nach § 4 näher bestimmten
+einer in einer Rechtsverordnung nach § 4 näher bestimmten
 meldepflichtigen Seuche bei wild lebenden Tieren entsprechend. Die
 zuständige Behörde kann für andere als die in Satz 4 genannten
 meldepflichtigen Seuchen und für neu auftretende Seuchen Maßnahmen
@@ -233,7 +229,7 @@ tierischen Ursprungs mit einem In-vitro-Diagnostikum nach Maßgabe des
 
 
 ### § 6 Verordnungsermächtigungen zur Vorbeugung vor und Bekämpfung von Seuchen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004903119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004904129)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1
@@ -702,7 +698,7 @@ Nichtstörer verlangen. Absatz 5 Satz 3 gilt entsprechend.
 
 
 ### § 7 Verordnungsermächtigung für Mittel und Verfahren zur Desinfektion
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000902119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000903129)
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 erforderlich ist, durch Rechtsverordnung, die nicht der
@@ -714,11 +710,11 @@ Seuchenerreger unwirksam gemacht werden.
 
 
 ## Abschnitt 3 - Besondere Schutzmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000301125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000302129)
 
 
 ### § 8 Schutzgebiete, Tiergesundheitsstatus
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001002119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001003129)
 
 (1) Die zuständige Behörde kann, soweit es zur Erfüllung der Zwecke
 des § 1 erforderlich ist,
@@ -809,7 +805,7 @@ Behörde unter Berücksichtigung epidemiologischer Gegebenheiten
 
 
 ### § 9 Seuchenfreiheit; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001102119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001103129)
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit
@@ -841,7 +837,7 @@ Zustimmung des Bundesrates
 
 
 ### § 10 Monitoring; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005003119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005004129)
 
 (1) Monitoring ist ein System wiederholter Beobachtung, Untersuchung
 und Bewertung von Seuchenerregern in oder auf lebenden oder toten
@@ -872,11 +868,11 @@ zu regeln.
 
 
 ## Abschnitt 4 - Immunologische Tierarzneimittel, In-vitro-Diagnostika
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000401125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000402129)
 
 
 ### § 11 Inverkehrbringen und Anwendung; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005102119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005103129)
 
 (1) (weggefallen)
 
@@ -1043,9 +1039,9 @@ und der Europäischen Kommission mitteilen.
 
 
 ### § 12 Herstellung von In-vitro-Diagnostika; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005202119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005203129)
 
-(1) Wer In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1 zum
+(1) Wer In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1 zum
 Zwecke des Inverkehrbringens oder der Anwendung in eigenen
 Tierbeständen gewerbs- oder berufsmäßig herstellen will, bedarf für
 das jeweilige In-vitro-Diagnostikum einer Erlaubnis der zuständigen
@@ -1198,11 +1194,11 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## Abschnitt 5 - Verbringung aus einem anderen Mitgliedstaat in das Inland und aus dem Inland in einen anderen Mitgliedstaat, Eingang in die Union, Ausfuhr, Durchfuhr
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000502119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000503129)
 
 
 ### § 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001502119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001503129)
 
 (1) Verboten sind die Verbringung aus einem anderen Mitgliedstaat in
 das Inland, die Verbringung aus dem Inland in einen anderen
@@ -1260,7 +1256,7 @@ können.
 
 
 ### § 14 Verordnungsermächtigungen zur Regelung der Verbringung aus einem anderen Mitgliedstaat in das Inland, der Verbringung aus dem Inland in einen anderen Mitgliedstaat, des Eingangs in die Union, der Ausfuhr, der Durchfuhr
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001603119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001604129)
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit
@@ -1437,11 +1433,11 @@ Rechtsverordnung auf andere Behörden übertragen.
 
 
 ## Abschnitt 6 - Entschädigung für Tierverluste
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000601125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000602129)
 
 
 ### § 15 Grundsatz der Entschädigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001702119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001703129)
 
 Vorbehaltlich der in diesem Gesetz bezeichneten Ausnahmen wird auf
 Antrag eine Entschädigung in Geld geleistet für
@@ -1450,7 +1446,7 @@ Antrag eine Entschädigung in Geld geleistet für
     Anordnung der Tötung verendet sind,
 
 
-2.  Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4
+2.  Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4
     näher bestimmte meldepflichtige Seuche festgestellt worden ist, soweit
     die Voraussetzungen gegeben waren, unter denen die Tiere auf
     behördliche Anordnung hätten getötet werden müssen,
@@ -1488,7 +1484,7 @@ Antrag eine Entschädigung in Geld geleistet für
 
 
 ### § 16 Höhe der Entschädigung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005302119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005303129)
 
 (1) Der Entschädigung wird der gemeine Wert des Tieres zu Grunde
 gelegt. Der gemeine Wert wird ohne Rücksicht auf die Wertminderung,
@@ -1499,54 +1495,69 @@ ermittelt.
 (2) Die Entschädigung darf folgende Höchstsätze je Tier nicht
 überschreiten:
 
-*    *   1.
+1.
+    *        *   Pferde, Esel, Maulesel, Maultiere
 
-    *   Pferde, Esel, Maulesel, Maultiere
-
-    *   6 000 Euro,
-
-
-*    *   2.
-
-    *   Rinder einschließlich Bisons, Wisente und Wasserbüffel
-
-    *   4 000 Euro,
+        *   6 000 Euro,
 
 
-*    *   3.
-
-    *   Schweine
-
-    *   1 500 Euro,
 
 
-*    *   4.
 
-    *   Gehegewild
+2.
+    *        *   Rinder einschließlich Bisons, Wisente und Wasserbüffel
 
-    *   1 000 Euro,
-
-
-*    *   5.
-
-    *   Schafe
-
-    *   800 Euro,
+        *   4 000 Euro,
 
 
-*    *   6.
-
-    *   Ziegen
-
-    *   800 Euro,
 
 
-*    *   7.
 
-    *   Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner,
-        Tauben, Truthühner und Wachteln
+3.
+    *        *   Schweine
 
-    *   110 Euro.
+        *   1 500 Euro,
+
+
+
+
+
+4.
+    *        *   Gehegewild
+
+        *   1 000 Euro,
+
+
+
+
+
+5.
+    *        *   Schafe
+
+        *   800 Euro,
+
+
+
+
+
+6.
+    *        *   Ziegen
+
+        *   800 Euro **,**
+
+
+
+
+
+7.
+    *        *   Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner,
+            Tauben, Truthühner
+            und Wachteln
+
+        *   110 Euro.
+
+
+
 
 
 
@@ -1562,7 +1573,7 @@ Tierart zu wahren.
 (3) Die Entschädigung nach Absatz 1 in Verbindung mit Absatz 2 mindert
 sich
 
-1.  um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer
+1.  um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer
     3 und 4, vor einer in einer Rechtsverordnung nach § 4 vorgeschriebenen
     Meldung einer dort näher bestimmten meldepflichtigen Seuche
     nachweislich an der Seuche verendet oder wegen der Seuche getötet
@@ -1584,14 +1595,14 @@ für Kosten nach Satz 2.
 
 
 ### § 17 Ausschluss der Entschädigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001902119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001903129)
 
 Keine Entschädigung wird gewährt für
 
 1.  Tiere, die dem Bund oder einem Land gehören,
 
 
-2.  Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der
+2.  Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der
     Vorbeugung vor Seuchen dienenden unmittelbar geltenden Rechtsakt der
     Europäischen Gemeinschaft oder der Europäischen Union im
     Anwendungsbereich dieses Gesetzes in die Union verbracht, durchgeführt
@@ -1599,7 +1610,7 @@ Keine Entschädigung wird gewährt für
     sind,
 
 
-3.  Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1
+3.  Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1
     erlassenen Rechtsverordnung in die Union verbracht, durchgeführt oder
     aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
 
@@ -1668,7 +1679,7 @@ Satz 1 Nummer 5 gilt nicht in den Fällen des § 15 Nummer 1 und 3 bis
 
 
 ### § 18 Entfallen der Entschädigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002002119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002003129)
 
 (1) Der Anspruch auf Entschädigung entfällt, wenn der Unternehmer oder
 sein Vertreter im Zusammenhang mit dem die Entschädigung auslösenden
@@ -1700,7 +1711,7 @@ Fall
 
 
 
-2.  die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer
+2.  die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer
     dort näher bestimmten meldepflichtigen Seuche schuldhaft nicht oder
     nicht unverzüglich vorgenommen hat, es sei denn, dass die Meldung von
     einem anderen zur Meldung einer solchen Seuche Verpflichteten
@@ -1742,16 +1753,16 @@ entsprechend.
 
 
 ### § 19 Teilweise Entschädigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002102119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002103129)
 
-Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und
+Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und
 Absatz 3 teilweise gewährt werden, wenn die Schuld gering ist oder die
 Versagung der Entschädigung für den Unternehmer eine unbillige Härte
 bedeuten würde.
 
 
 ### § 20 Entschädigungspflichtiger
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002202119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002203129)
 
 (1) Die Länder regeln, wer die Entschädigung gewährt und wie sie
 aufzubringen ist. Das Land hat die Entschädigung zu leisten; soweit
@@ -1785,7 +1796,7 @@ zugeführt worden sind, keine Beiträge erhoben werden.
 
 
 ### § 21 Entschädigungsberechtigter, Forderungsübergang
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002301125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002302129)
 
 (1) Die Entschädigung wird, soweit ein anderer Berechtigter nicht
 bekannt ist, demjenigen gezahlt, in dessen Gewahrsam sich das Tier zum
@@ -1812,7 +1823,7 @@ verursacht hat.
 
 
 ### § 22 Ergänzende Bestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002402119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002403129)
 
 (1) Soweit ein unmittelbar geltender Rechtsakt der Europäischen
 Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses
@@ -1835,11 +1846,11 @@ dem der Anspruch entstanden ist.
 
 
 ## Abschnitt 7 - Datenverarbeitung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000702119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000703129)
 
 
 ### § 23 Datenverarbeitung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002503119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002504129)
 
 (1) Einrichtungen, die tierseuchenrechtlich vorgeschriebene
 Untersuchungen durchführen, übermitteln im Falle einer Untersuchung
@@ -2012,11 +2023,11 @@ werden.
 
 
 ## Abschnitt 8 - Überwachung, zuständige Behörden
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000801125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000802129)
 
 
 ### § 24 Überwachung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002603119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002604129)
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der
@@ -2183,7 +2194,7 @@ wiederholt
 1.  rechtskräftig nach § 31 verurteilt worden ist oder
 
 
-2.  aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32
+2.  aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32
     Absatz 1 und 2 die erforderliche Zuverlässigkeit nicht besitzt.
 
 
@@ -2287,7 +2298,7 @@ wird nach Maßgabe des Absatzes 3 Satz 1 und 2 Nummer 11 eingeschränkt.
 
 
 ### § 25 Überwachung bestimmter Veranstaltungen und Einrichtungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002702119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002703129)
 
 (1) Auftriebe von gehaltenen Huftieren, von in Gefangenschaft
 gehaltenen Vögeln, von Geflügel und von gehaltenen Hasen oder
@@ -2296,7 +2307,7 @@ werden durch die zuständige Behörde überwacht. Die zuständige Behörde
 kann die Anordnungen treffen, die erforderlich sind, um an den der
 Überwachung unterliegenden Orten oder in den der Überwachung
 unterliegenden Betrieben und sonstigen Einrichtungen sicherzustellen,
-dass die zur Erfüllung der Zwecke des § 1 Satz 1 notwendigen
+dass die zur Erfüllung der Zwecke des § 1 Satz 1 notwendigen
 Anforderungen eingehalten werden.
 
 (2) Jahr- und Wochenmärkte, auf denen gehaltene Huftiere, in
@@ -2335,7 +2346,7 @@ von denen die Gefahr einer Seuche ausgehen kann.
 
 
 ### § 26 Verordnungsermächtigungen zur Überwachung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002802119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002803129)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1
@@ -2398,7 +2409,7 @@ Gesetz oder auf Grund dieses Gesetzes vorgesehenen Maßnahmen
         oder
 
 
-    c)  die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten
+    c)  die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten
         Betriebe, Unternehmen oder Veranstaltungen sowie
 
 
@@ -2426,7 +2437,7 @@ zuständigen Behörden zu regeln.
 
 
 ### § 27 Friedrich-Loeffler-Institut; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005404119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005405129)
 
 (1) Das Friedrich-Loeffler-Institut ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums. Es
@@ -2565,7 +2576,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-(8) Das Friedrich-Loeffler-Institut arbeitet zu den in § 1 genannten
+(8) Das Friedrich-Loeffler-Institut arbeitet zu den in § 1 genannten
 Zwecken mit ausländischen Stellen und supranationalen Organisationen
 sowie mit der Weltorganisation für Tiergesundheit und anderen
 internationalen Organisationen zusammen, um einer möglichen
@@ -2584,7 +2595,7 @@ die IT-Anwendung „Tierseuchennachrichten (TSN)“ zur Verfügung.
 
 
 ### § 28 Durchführung bei Bundeswehr, Kliniken und Instituten
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003002119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003003129)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
 obliegt die Durchführung der Vorschriften dieses Gesetzes, der auf
@@ -2639,7 +2650,7 @@ der zuständigen Behörde mitzuteilen.
 
 
 ### § 29 Mitwirkung der Zollbehörden; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005504119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005505129)
 
 (1) Die Zollbehörden wirken bei der Überwachung der Verbringung von
 lebenden und toten Tieren, Teilen von Tieren und von möglicherweise
@@ -2712,7 +2723,7 @@ nach Satz 1 auf die Generalzolldirektion übertragen.
 
 
 ### § 30 Bereitstellung von immunologischen Tierarzneimitteln, Seuchenbekämpfungszentren
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003202119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003203129)
 
 (1) Sehen Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union im Anwendungsbereich dieses Gesetzes vor, dass eine
@@ -2734,11 +2745,11 @@ unverzüglich einsatzbereit sind.
 
 
 ## Abschnitt 9 - Straf- und Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000901125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000902129)
 
 
 ### § 31 Strafvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003303119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003304129)
 
 (1) Mit Freiheitsstrafe von bis zu zwei Jahren oder mit Geldstrafe
 wird bestraft, wer
@@ -2749,7 +2760,7 @@ wird bestraft, wer
     oder
 
 
-2.  entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe
+2.  entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe
     a oder b oder einer vollziehbaren Anordnung aufgrund einer solchen
     Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
     bestimmten Tatbestand auf diese Strafvorschrift verweist.
@@ -2781,7 +2792,7 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 32 Bußgeldvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005604119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005605129)
 
 (1) Ordnungswidrig handelt, wer eine in § 31 Absatz 2 bezeichnete
 Handlung fahrlässig begeht.
@@ -2881,7 +2892,7 @@ Ordnungswidrigkeit nach Absatz 2 Nummer 8 geahndet werden können.
 
 
 ### § 33 Einziehung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003501125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003502129)
 
 Gegenstände, auf die sich eine Straftat nach § 31 oder eine
 Ordnungswidrigkeit nach § 32 Absatz 2 Nummer 4 Buchstabe d bezieht,
@@ -2889,11 +2900,11 @@ können eingezogen werden.
 
 
 ## Abschnitt 10 - Weitere Befugnisse, Schlussvorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG001001125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG001002129)
 
 
 ### § 34 Verordnungsermächtigung zur Aufgabenübertragung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003602119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003603129)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates, Aufgaben, für die dem Bund eine
@@ -2906,7 +2917,7 @@ Bundesamt oder die Bundesanstalt für Landwirtschaft und Ernährung zu
 
 
 ### § 35 Amtshilfe, gegenseitige Unterrichtung; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005703119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005704129)
 
 (1) Die zuständigen Behörden
 
@@ -2939,7 +2950,7 @@ Mitgliedstaaten, dem Bundesministerium, dem Friedrich-Loeffler-
 Institut und der Europäischen Kommission mitteilen.
 
 (3a) Die zuständigen Behörden unterrichten die für die Ermittlungen
-nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständigen Behörden
+nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständigen Behörden
 über den Verdacht, den Nachweis oder den Ausbruch einer Seuche, die
 auf den Menschen übertragen werden kann, unter Angabe der Gemeinde, in
 der der Verdacht, der Nachweis oder der Ausbruch festgestellt worden
@@ -2947,7 +2958,7 @@ ist. Personenbezogene Daten dürfen nicht übermittelt werden.
 
 (3b) Hat die nach § 25 Absatz 1 des Infektionsschutzgesetzes
 zuständige Behörde Ermittlungen nach dieser Vorschrift eingeleitet,
-übermittelt die zuständige Behörde auf Ersuchen der nach § 25 Absatz 1
+übermittelt die zuständige Behörde auf Ersuchen der nach § 25 Absatz 1
 des Infektionsschutzgesetzes zuständigen Behörde zum Zwecke der
 Durchführung der Ermittlungen Name und Anschrift des Unternehmers oder
 Heimtierhalters, in dessen Bestand der Verdacht, der Nachweis oder der
@@ -2972,7 +2983,7 @@ sind.
 
 
 ### § 36 Schiedsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003802119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003803129)
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich
 auf lebende oder tote Tiere, auf Teile von Tieren und auf Erzeugnisse,
@@ -2987,20 +2998,20 @@ aufgestellten Verzeichnis aufgeführt ist. Der Sachverständige hat das
 Gutachten binnen 72 Stunden zu erstatten.
 
 (2) Auf den Schiedsvertrag und das schiedsrichterliche Verfahren
-finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung
+finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung
 entsprechende Anwendung. Gericht im Sinne des § 1062 der
 Zivilprozessordnung ist das zuständige Verwaltungsgericht; auf
 Rechtsmittel, die gegen Entscheidungen der zuständigen
-Verwaltungsgerichte erhoben werden, findet § 1065 der
+Verwaltungsgerichte erhoben werden, findet § 1065 der
 Zivilprozessordnung mit der Maßgabe Anwendung, dass das zuständige
 Oberverwaltungsgericht über das Rechtsmittel entscheidet. Abweichend
-von § 1059 Absatz 3 Satz 1 der Zivilprozessordnung muss der
+von § 1059 Absatz 3 Satz 1 der Zivilprozessordnung muss der
 Aufhebungsantrag innerhalb eines Monats bei Gericht eingereicht
 werden.
 
 
 ### § 37 Anfechtung von Anordnungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003903119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003904129)
 
 Die Anfechtung einer Anordnung
 
@@ -3082,7 +3093,7 @@ aufschiebende Wirkung, soweit
 
 
 ### § 38 Rechtsverordnungen und Anordnungsbefugnisse in bestimmten Fällen; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005802119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005803129)
 
 (1) Rechtsverordnungen nach diesem Gesetz kann das Bundesministerium
 auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft
@@ -3190,7 +3201,7 @@ folgende Vorschriften aufzuheben:
 
 
 ### § 39 Weitergehende Maßnahmen; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004103119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004104129)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Verbringung aus einem anderen
@@ -3234,7 +3245,7 @@ und 38 Absatz 1, 2, 4, 10 und 11 gelten entsprechend.
 
 
 ### § 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006101125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006102129)
 
 (1) Führen Beschränkungen des Eigentums in Folge von Maßnahmen nach §
 6 Absatz 1 Nummer 18a, 28, auch in Verbindung mit § 6 Absatz 6, Nummer
@@ -3259,15 +3270,15 @@ jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
 
 ### § 40 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004202119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004203129)
 
 
 
 ### § 41 Verhältnis zu anderen Vorschriften
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004303119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004304129)
 
 Soweit in oder auf Futtermitteln Seuchenerreger einer in einer
-Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche
+Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche
 oder einer mitteilungspflichtigen Seuche vorhanden sind oder sein
 können, gelten, vorbehaltlich des Satzes 2, hinsichtlich der Verbote
 und Beschränkungen für die Teilnahme am Warenverkehr und die
@@ -3278,14 +3289,14 @@ unberührt.
 
 
 ### § 42 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006300125)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006301129)
 
 
 
 ### § 43 Übergangsvorschriften; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006002119)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006003129)
 
-(1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes
+(1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes
 in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260,
 3588), das zuletzt durch Artikel 2 Absatz 87 des Gesetzes vom 22.
 Dezember 2011 (BGBl. I S. 3044) geändert worden ist, gelten bis zum
@@ -3307,7 +3318,7 @@ des § 12 Absatz 1 fort.
 
 
 2.  gilt § 5 Absatz 1 Satz 1 mit der Maßgabe, dass an die Stelle der
-    Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten
+    Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten
     meldepflichtigen Seuche die Anzeige einer Seuche tritt, die in der
     Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
 
@@ -3332,7 +3343,7 @@ des § 12 Absatz 1 fort.
 
 
 6.  gelten § 16 Absatz 3 Nummer 1 und § 18 Absatz 1 Satz 1 Nummer 2 mit
-    der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4
+    der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4
     vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen
     Seuche die Anzeige nach § 4 in seiner bis zum Ablauf des 9. März 2026
     geltenden Fassung in Verbindung mit Nummer 1 einer solchen Seuche
