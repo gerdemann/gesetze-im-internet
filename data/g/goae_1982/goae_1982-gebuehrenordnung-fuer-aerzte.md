@@ -26124,7 +26124,7 @@ gesondert berechnet werden.
     *   41,04
 
 
-*    *   4114
+*    *   4214
 
     *   Lithium
 
