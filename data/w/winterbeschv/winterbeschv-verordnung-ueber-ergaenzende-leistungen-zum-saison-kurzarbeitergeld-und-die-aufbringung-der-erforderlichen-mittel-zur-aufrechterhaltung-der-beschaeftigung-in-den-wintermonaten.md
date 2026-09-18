@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2006, 1086
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.12.2025 I Nr. 303
+:   Art. 2 V v. 10.9.2026 I Nr. 263
+
+Mittelbare änderung durch
+:   Art. 3 Nr. 1 V v. 10.9.2026 I Nr. 263 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -147,12 +150,12 @@ deutschen Lohnsteuerrechts als Bruttoarbeitslohn gelten würde.
 
 
 ## § 3a Befristete Absenkung des Umlagesatzes im Baugewerbe
-[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001200126)
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001202126)
 
-(1) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 beträgt
+(1) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2027 beträgt
 der Umlagesatz nach § 3 Absatz 1 Nummer 1 1 Prozent.
 
-(2) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 wird die
+(2) In der Zeit vom 1. Januar 2026 bis zum 31. Dezember 2027 wird die
 Umlage nach § 3 Absatz 2 Nummer 1 anteilig durch die Arbeitgeber in
 Höhe von 0,6 Prozent und durch die Arbeitnehmer in Höhe von 0,4
 Prozent aufgebracht.
@@ -275,7 +278,7 @@ gelten die Vorschriften für den Einzug der Umlage entsprechend.
 
 
 ## § 9 Verwaltungskosten
-[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001002311)
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001003126)
 
 (1) Die im Zusammenhang mit der Gewährung der ergänzenden Leistungen
 und dem Einzug der zur Finanzierung dieser Leistungen erhobenen Umlage
@@ -285,11 +288,6 @@ werden können, pauschaliert zu erstatten.
 
 (2) Sie werden für diese Wirtschaftszweige im Verhältnis der Anteile
 an den Ausgaben getrennt festgestellt.
-
-(3) Von den Betrieben nach § 1 Absatz 1 Nummer 1 werden die anteilig
-zu den Ausgaben für die ergänzenden Leistungen nach § 102 des Dritten
-Buches Sozialgesetzbuch berechneten Verwaltungskosten bis zu einer
-Höhe von maximal 17,5 Millionen Euro erstattet.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
