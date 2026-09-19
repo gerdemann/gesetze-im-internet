@@ -11606,6 +11606,7 @@ unverzüglich sicherzustellen, dass
 
 
 
+
 (1b) Beabsichtigt ein Unternehmen eine Person zu bestellen und liegen
 Tatsachen vor, aus denen sich ergibt, dass sie nicht die
 Voraussetzungen des Absatzes 1 Satz 1, des Absatzes 3 oder des
