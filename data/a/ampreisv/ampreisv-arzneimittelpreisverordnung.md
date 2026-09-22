@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3a G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 16.9.2026 I Nr. 266 mWv 22.9.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000100312)
