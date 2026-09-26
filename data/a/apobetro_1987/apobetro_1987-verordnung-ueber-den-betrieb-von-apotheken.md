@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 V v. 16.9.2026 I Nr. 266 mWv 22.9.2026 u. 1.1.2027 noch nicht berücksichtigt
+:   Art. 1 V v. 16.9.2026 I Nr. 266 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -262,7 +262,7 @@ Apothekengesetzes.
 
 
 ### § 2 Apothekenleiter
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000809129)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000810130)
 
 (1) Apothekenleiter ist
 
@@ -386,11 +386,14 @@ entsprechend anzuwenden.
 
 (5) Der Apothekenleiter muß sich, sofern er seine Verpflichtung zur
 persönlichen Leitung der Apotheke vorübergehend nicht selbst
-wahrnimmt, durch einen Apotheker vertreten lassen. Die Vertretung darf
-insgesamt drei Monate im Jahr nicht überschreiten. Die zuständige
-Behörde kann eine Vertretung über diese Zeit hinaus zulassen, wenn ein
-in der Person des Apothekenleiters liegender wichtiger Grund gegeben
-ist.
+wahrnimmt, durch einen Apotheker vertreten lassen. Die Vertretung
+darf, wenn es sich nicht um eine gegenseitige Vertretung von
+Verantwortlichen handelt, die nach § 2 Absatz 5 Satz 1 Nummer 2 oder 3
+des Apothekengesetzes für dieselbe Filialapotheke oder Zweigapotheke
+benannt sind, insgesamt drei Monate im Jahr nicht überschreiten. Die
+zuständige Behörde kann eine Vertretung über diese Zeit hinaus
+zulassen, wenn ein in der Person des Apothekenleiters liegender
+wichtiger Grund gegeben ist.
 
 (6) Kann ein Apothekenleiter seiner Verpflichtung nach Absatz 5 Satz 1
 nicht nachkommen, kann er sich von einem Apothekerassistenten oder
@@ -423,7 +426,7 @@ Vertretung die Pflichten eines Apothekenleiters.
 
 
 ### § 2a Qualitätsmanagementsystem
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005300310)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005301130)
 
 (1) Der Apothekenleiter muss ein Qualitätsmanagementsystem
 entsprechend Art und Umfang der pharmazeutischen Tätigkeiten
@@ -432,7 +435,10 @@ Abläufe festgelegt und dokumentiert werden. Das
 Qualitätsmanagementsystem muss insbesondere gewährleisten, dass die
 Arzneimittel nach Stand von Wissenschaft und Technik hergestellt,
 geprüft und gelagert werden und dass Verwechslungen vermieden werden
-sowie eine ausreichende Beratungsleistung erfolgt.
+sowie eine ausreichende Beratungsleistung erfolgt. Das
+Qualitätsmanagementsystem muss auch Regelungen über den
+Apothekenbetrieb in Krisensituationen, insbesondere in kurzfristigen
+Energiemangellagen, umfassen.
 
 (2) Der Apothekenleiter hat im Rahmen des Qualitätsmanagementsystems
 dafür zu sorgen, dass regelmäßig Selbstinspektionen durch
@@ -446,9 +452,13 @@ zu externen Qualitätsüberprüfungen teilnehmen.
 daraufhin erforderlichenfalls ergriffenen Maßnahmen dokumentiert
 werden.
 
+(4) Wird eine Apotheke durch einen nach § 2 Absatz 5 Satz 1 Nummer 2
+oder 3 des Apothekengesetzes benannten Verantwortlichen geleitet, ist
+das Qualitätsmanagementsystem mit dem Betreiber abzustimmen.
+
 
 ### § 3 Apothekenpersonal
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000907129)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000908130)
 
 (1) Das Apothekenpersonal darf nur entsprechend seiner Ausbildung und
 seinen Kenntnissen eingesetzt werden und ist über die bei den
@@ -495,11 +505,11 @@ lassen. Pharmazeutische Assistenten dürfen keine Arzneimittel abgeben.
 
 (5a) Das Umfüllen einschließlich Abfüllen und Abpacken oder
 Kennzeichnen von Arzneimitteln darf unter Aufsicht eines Apothekers
-auch durch anderes als das pharmazeutische Personal ausgeführt werden,
-soweit es sich um Apothekenhelfer, Apothekenfacharbeiter,
-pharmazeutisch-kaufmännische Angestellte, sowie Personen, die sich in
-der Ausbildung zum Beruf des pharmazeutisch-kaufmännischen
-Angestellten befinden, handelt. Darüber hinaus darf sich das
+auch von Apothekenhelfern, Apothekenfacharbeitern, pharmazeutisch-
+kaufmännischen Angestellten, Personen, die sich in der Ausbildung zum
+Beruf des pharmazeutisch-kaufmännischen Angestellten befinden, oder
+von weiterem nicht-pharmazeutischen Personal der Apotheke mit
+geeigneten Kenntnissen ausgeführt werden. Darüber hinaus darf sich das
 pharmazeutische Personal von dem in Satz 1 genannten anderen Personal
 der Apotheke unterstützen lassen
 
@@ -597,7 +607,7 @@ Apothekengesetzes.
 
 
 ### § 4 Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001007129)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001008130)
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl, Lage und
 Einrichtung geeignet sein, einen ordnungsgemäßen Apothekenbetrieb,
@@ -650,7 +660,12 @@ Berechnung der Grundfläche sind die nach § 34 Absatz 3 und § 35 Absatz
 3 genannten separaten Räume sowie Räume, die nach Absatz 1 Satz 2
 Nummer 1 Buchstabe a von den Betriebsräumen der Apotheke abzutrennen
 sind, nicht zu berücksichtigen. Für krankenhausversorgende Apotheken
-gilt § 29 Absatz 1 und 3 entsprechend.
+gilt § 29 Absatz 1 und 3 entsprechend. Abweichend von Satz 1 muss eine
+Apotheke nicht über ein Laboratorium verfügen, wenn die Feststellung
+der Identität von Arzneimitteln und Ausgangsstoffen nach § 6 Absatz 3a
+Satz 1 und § 11 Absatz 1 Satz 2 in Verbindung mit § 6 Absatz 3a Satz 1
+von einer anderen Apotheke durchgeführt wird, die von demselben
+Betreiber betrieben wird.
 
 (2a) Die Offizin muss einen Zugang zu öffentlichen Verkehrsflächen
 haben und soll barrierefrei erreichbar sein. Sie muss so gestaltet
@@ -675,9 +690,9 @@ Der Arbeitsplatz kann auch für die Herstellung von Medizinprodukten
 oder apothekenüblichen Waren nach § 1a Absatz 10 Nummer 2, 3 oder 9
 genutzt werden.
 
-(2c) Für die Herstellung von Arzneimitteln, die Drogen oder
+(2c) Sofern Arzneimittel hergestellt werden, die Drogen oder
 Drogenmischungen sind, oder für die sonstige Verarbeitung von Drogen
-als Ausgangsstoffe ist ein gesonderter Arbeitsplatz vorzusehen. Absatz
+als Ausgangsstoffe ist ein gesonderter Arbeitsplatz zu nutzen. Absatz
 2b Satz 2 und 3 findet keine Anwendung.
 
 (2d) Der Lagerraum muss ausreichend groß sein und eine ordnungsgemäße
@@ -696,15 +711,33 @@ versorgen, müssen für diese Arzneimittel separate Lagerräume oder
 mindestens separate und entsprechend gekennzeichnete Lagerbereiche
 vorhalten.
 
-(3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem
-Lagerraum und einem Nachtdienstzimmer bestehen. Absatz 2 Satz 1 und 3
-findet keine Anwendung.
+(3) Eine Zweigapotheke muss mindestens aus einer Offizin und
+ausreichendem Lagerraum bestehen. Absatz 2 Satz 1 und 3 findet keine
+Anwendung. Weitere Räume sind vorzusehen, soweit in der Zweigapotheke
+Rezeptur- und Defekturarzneimittel hergestellt oder andere Tätigkeiten
+durchgeführt werden, die das Vorhandensein dieser Räume erfordern. Die
+Absätze 2b, 2c und 7 finden keine Anwendung, wenn die Zweigapotheke
+Rezeptur- und Defekturarzneimittel nicht selbst herstellt, sondern
+diese von einer anderen Apotheke, die von demselben Betreiber
+betrieben wird, bezieht.
 
 (4) Absatz 1 Satz 2 Nummer 5 wird nicht angewendet auf
 
-1.  Lagerräume, die ausschließlich der Arzneimittelversorgung von
-    Krankenhäusern oder zur Versorgung von Bewohnern von zu versorgenden
-    Einrichtungen im Sinne des § 12a des Apothekengesetzes dienen,
+1.  Lagerräume, die ausschließlich genutzt werden zur
+
+    a)  Aufbewahrung von über den regelmäßigen täglichen Bedarf der Apotheke
+        hinausgehenden Vorräten,
+
+
+    b)  Versorgung von Krankenhäusern auf Grundlage eines Vertrags nach § 14
+        Absatz 3 oder 4 des Apothekengesetzes oder
+
+
+    c)  Versorgung von Bewohnern von Heimen auf Grundlage eines Vertrags nach
+        § 12a Absatz 1 Satz 1 des Apothekengesetzes,
+
+
+
 
 
 2.  Räume, die den Versandhandel einschließlich des elektronischen Handels
@@ -731,7 +764,9 @@ Diese Räume müssen jedoch in angemessener Nähe zu den übrigen
 Betriebsräumen liegen. Die Nutzung von Lager- oder Herstellungsräumen
 innerhalb des zu versorgenden Krankenhauses oder der zu versorgenden
 Einrichtung im Sinne des § 12a des Apothekengesetzes ist nicht
-zulässig.
+zulässig. Entgegen Satz 3 ist die Nutzung von Herstellungsräumen
+innerhalb des zu versorgenden Krankenhauses zur Herstellung
+medizinischer Gase zulässig.
 
 (5) (weggefallen)
 
@@ -828,7 +863,7 @@ vorhanden sein.
 
 
 ### § 6 Allgemeine Vorschriften über die Herstellung und Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001204360)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001205130)
 
 (1) Arzneimittel, die in der Apotheke hergestellt werden, müssen die
 nach der pharmazeutischen Wissenschaft erforderliche Qualität
@@ -858,20 +893,18 @@ Apothekenleiters auch außerhalb der Apotheke erfolgen:
     des Europäischen Wirtschaftsraums, für den nach jeweiligem nationalen
     Recht eine Erlaubnis gemäß Artikel 40 der Richtlinie 2001/83/EG des
     Europäischen Parlaments und des Rates vom 6. November 2001 zur
-    Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl.
-    L 311 vom 28.11.2001, S. 67), zuletzt geändert durch die Richtlinie
-    2011/62/EU (ABl.
-    L 174 vom 1.7.2011, S. 74), in der jeweils geltenden Fassung oder eine
-    Erlaubnis nach Artikel 44 der Richtlinie 2001/82/EG des Europäischen
-    Parlaments und des Rates vom 6. November 2001 zur Schaffung eines
-    Gemeinschaftskodexes für Tierarzneimittel (ABl. L 311 vom 28.11.2001,
-    S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 596/2009 (ABl. L
-    188 vom 18.7.2009, S. 14), in der jeweils geltenden Fassung erteilt
-    ist,
+    Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311
+    vom 28.11.2001, S. 67), zuletzt geändert durch die Richtlinie
+    2011/62/EU (ABl. L 174 vom 1.7.2011, S. 74), in der jeweils geltenden
+    Fassung oder eine Erlaubnis nach Artikel 44 der Richtlinie 2001/82/EG
+    des Europäischen Parlaments und des Rates vom 6. November 2001 zur
+    Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. L 311
+    vom 28.11.2001, S. 1), zuletzt geändert durch die Verordnung (EG) Nr.
+    596/2009 (ABl. L 188 vom 18.7.2009, S. 14), in der jeweils geltenden
+    Fassung erteilt ist,
 
 
-3.  in einem Betrieb, für den eine Erlaubnis nach § 1 Absatz 2 in
-    Verbindung mit § 2 des Apothekengesetzes erteilt ist, oder
+3.  in einer Apotheke, die von demselben Betreiber betrieben wird, oder
 
 
 4.  durch einen Sachverständigen im Sinne des § 65 Absatz 4 des
@@ -889,13 +922,34 @@ legen. In der Apotheke ist mindestens die Identität des Arzneimittels
 festzustellen; über die durchgeführten Prüfungen sind Aufzeichnungen
 zu machen.
 
+(3a) Eine Apotheke kann für eine andere Apotheke, die von demselben
+Betreiber betrieben wird, die Feststellung der Identität von
+Arzneimitteln durchführen. Die Apotheke, die das Arzneimittel abgibt,
+ist in diesem Fall von der Feststellung der Identität nach Absatz 3
+Satz 4 erster Halbsatz befreit. Sie kann das Arzneimittel nur
+verwenden oder abgeben, wenn
+
+1.  das Behältnis des Arzneimittels mit einer Kennzeichnung über die
+    durchgeführte Feststellung der Identität versehen ist,
+
+
+2.  das Behältnis von der Apotheke, die die Feststellung durchgeführt hat,
+    so verschlossen wurde, dass ein zwischenzeitliches Öffnen des
+    Behältnisses ersichtlich wäre, und
+
+
+3.  weder das Behältnis noch der Verschluss beschädigt sind.
+
+
+
+
 (4) Die Vorschriften des Medizinprodukterechts über die Herstellung,
 Sonderanfertigung und Eigenherstellung von Medizinprodukten bleiben
 unberührt.
 
 
 ### § 7 Rezepturarzneimittel
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001303116)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001304130)
 
 (1) Wird ein Arzneimittel auf Grund einer Verschreibung von Personen,
 die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde
@@ -936,9 +990,6 @@ Herstellungsanweisung muss mindestens Festlegungen treffen
 
 
 
-Soweit es sich um standardisierte und allgemeine
-Herstellungsanweisungen Dritter handelt, sind sie auf den jeweiligen
-Apothekenbetrieb anzupassen.
 
 (1b) Die Anforderung über die Herstellung eines Rezepturarzneimittels
 ist von einem Apotheker nach pharmazeutischen Gesichtspunkten zu
@@ -1114,28 +1165,104 @@ enthalten:
 
 
 
-### (XXXX) §§ 9 und 10 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001502310)
+### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001602130)
 
 -
 
 
+### § 9 Herstellung medizinischer Gase mithilfe industrieller Verfahren in Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001503130)
+
+(1) Die Herstellung eines medizinischen Gases mithilfe industrieller
+Verfahren in Krankenhäusern hat nach einer vorher erstellten
+schriftlichen Herstellungsanweisung zu erfolgen, die von einem
+Apotheker der Apotheke zu unterschreiben ist. Die
+Herstellungsanweisung muss mindestens Festlegungen treffen
+
+1.  zu den technischen und zu den organisatorischen Maßnahmen, um
+    Kontaminationen, Kreuzkontaminationen und Verwechslungen zu vermeiden,
+    einschließlich der Überprüfung ihrer Wirksamkeit,
+
+
+2.  zur Kalibrierung, Qualifizierung, Wartung und Reinigung der
+    Ausrüstungen und des Herstellungsraums,
+
+
+3.  zur Validierung der die Produktqualität beeinflussenden Prozesse,
+    Methoden und Systeme und zur Revalidierung sowie
+
+
+4.  zu den kritischen Ausrüstungsgegenständen oder Geräten.
+
+
+
+
+(2) Das Personal muss für die Tätigkeiten ausreichend qualifiziert
+sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu
+dokumentieren.
+
+(3) Die Herstellung medizinischer Gase mithilfe industrieller
+Verfahren ist in einem separaten Raum vorzunehmen, der nicht für
+andere Tätigkeiten der Apotheke genutzt werden darf.
+
+(4) Die Herstellung ist gemäß der Herstellungsanweisung nach Absatz 1
+durchzuführen und zu dokumentieren (Herstellungsprotokoll); aus dem
+Inhalt des Protokolls müssen sich alle wichtigen, die Herstellung
+betreffenden Tätigkeiten rückverfolgen lassen. Soweit ein validierter
+Prozess kontinuierlich gesteuert und überwacht wird, können
+automatisch erzeugte Aufzeichnungen auf zusammenfassende
+Ergebnisberichte über die Übereinstimmung und Abweichungen beschränkt
+werden.
+
+(5) Für die Prüfung von medizinischen Gasen ist eine Prüfanweisung
+anzufertigen, die von einem Apotheker der Apotheke zu unterschreiben
+ist. Die Prüfanweisung muss mindestens Angaben enthalten zur
+Probenahme, zur Probenhäufigkeit, zur Prüfmethode und zu der Art der
+Prüfungen, einschließlich der zulässigen Soll- oder Grenzwerte.
+
+(6) Die Prüfung ist gemäß der Prüfanweisung nach Absatz 5
+durchzuführen und zu dokumentieren (Prüfprotokoll). Das Prüfprotokoll
+muss die zugrunde liegende Prüfanweisung nennen und insbesondere
+folgende Angaben enthalten:
+
+1.  das Datum der Prüfung,
+
+
+2.  die Prüfergebnisse,
+
+
+3.  das Namenszeichen des Prüfenden sowie
+
+
+4.  die Freigabe durch die Unterschrift eines Apothekers der Apotheke.
+
+
+
+
+
 ### § 11 Ausgangsstoffe
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001704116)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001705130)
 
 (1) Zur Herstellung von Arzneimitteln dürfen nur Ausgangsstoffe
 verwendet werden, deren ordnungsgemäße Qualität festgestellt ist. Auf
-die Prüfung der Ausgangsstoffe finden die Vorschriften des § 6 Absatz
-1 und 3 entsprechende Anwendung.
+die Prüfung der Ausgangsstoffe findet § 6 Absatz 1, 3 und 3a
+entsprechende Anwendung.
 
 (2) Werden Ausgangsstoffe bezogen, deren Qualität durch ein
 Prüfzertifikat nach § 6 Abs. 3 nachgewiesen ist, ist in der Apotheke
 mindestens die Identität festzustellen. Das Prüfzertifikat soll auch
 Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben,
-soweit es sich um einen Wirkstoff handelt. Die Verantwortung des
-Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe
-bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen
-sind Aufzeichnungen zu machen; § 8 Absatz 4 Satz 2 gilt entsprechend.
+soweit es sich um einen Wirkstoff handelt. Von der
+Identitätsfeststellung an Ausgangsstoffen nach Satz 1 kann abgesehen
+werden, wenn die Herstellung unter Beachtung der Grundsätze der Guten
+Herstellungspraxis (EU-GMP-Leitfaden) erfolgte und das jeweilige
+Behältnis mit einer Vorrichtung zum Erkennen einer möglichen
+Manipulation der äußeren Umhüllung sowie Prüfzertifikat ausgeliefert
+wurde. Die Verantwortung des Apothekenleiters für die ordnungsgemäße
+Qualität der Ausgangsstoffe bleibt unberührt. Über die in der Apotheke
+durchgeführten Prüfungen sind Aufzeichnungen zu machen; § 8 Absatz 4
+Satz 2 gilt entsprechend.
 
 (3) Werden Arzneimittel, die keine Fertigarzneimittel sind, zur
 Herstellung anderer Arzneimittel bezogen, gelten die Absätze 1 und 2
@@ -1211,7 +1338,7 @@ Zwecke geeignet sind.
 
 
 ### § 14 Kennzeichnung
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002018126)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002019130)
 
 (1) Rezepturarzneimittel müssen auf den Behältnissen und, soweit
 verwendet, den äußeren Umhüllungen, mindestens folgende Angaben
@@ -1261,12 +1388,9 @@ Die Angaben müssen in gut lesbarer Schrift und auf dauerhafte Weise
 angebracht und mit Ausnahme der Nummer 5 in deutscher Sprache verfasst
 sein. Soweit für das Rezepturarzneimittel ein Fertigarzneimittel als
 Ausgangsstoff eingesetzt wird, genügt anstelle der Angabe nach Satz 1
-Nummer 5 die Angabe der Bezeichnung des Fertigarzneimittels; soweit es
-sich um eine patientenindividuell hergestellte parenterale Zubereitung
-handelt, sind zusätzlich zu der Angabe nach Satz 1 Nummer 5 die
-Bezeichnung des Fertigarzneimittels, die Chargenbezeichnung sowie der
-Name des pharmazeutischen Unternehmers anzugeben. Die Angaben nach
-Nummer 8 können auch in einem Begleitdokument gemacht werden.
+Nummer 5 die Angabe der Bezeichnung des Fertigarzneimittels. Die
+Angaben nach Nummer 8 können auch in einem Begleitdokument gemacht
+werden.
 
 (1a) Soweit es sich bei den Arzneimitteln um aus Fertigarzneimitteln
 entnommene Teilmengen handelt, sind neben der vom Arzneimittelgesetz
@@ -1311,11 +1435,9 @@ gebracht werden, wenn die Behältnisse und, soweit verwendet, die
 äußeren Umhüllungen mit den Angaben entsprechend den §§ 10 und 11 des
 Arzneimittelgesetzes versehen sind.
 
-(5) (weggefallen)
-
 
 ### § 15 Vorratshaltung
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002105130)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002106130)
 
 (1) Der Apothekenleiter hat die Arzneimittel und apothekenpflichtigen
 Medizinprodukte, die zur Sicherstellung einer ordnungsgemäßen
@@ -1354,15 +1476,18 @@ halten:
 9.  Tetanus-Hyperimmun-Globulin 250 I. E.,
 
 
-10. Epinephrin zur Injektion,
+10. Epinephrin zur Injektion oder nasalen Anwendung,
 
 
-11. 0,9 Prozent Kochsalzlösung zur Injektion,
+11. 0,9 Prozent Kochsalzlösung zur Injektion,
 
 
 12. Verbandstoffe, Einwegspritzen und -kanülen, Katheter,
     Überleitungsgeräte für Infusionen sowie Produkte zur
-    Blutzuckerbestimmung.
+    Blutzuckerbestimmung und
+
+
+13. Opioide in transdermaler und in transmucosaler Darreichungsform.
 
 
 
@@ -1472,7 +1597,7 @@ gegebenenfalls ein Nachprüfdatum anzugeben.
 
 
 ### § 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002325360)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002326130)
 
 (1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln
 berechtigten Betrieben erworben werden.
@@ -1520,13 +1645,16 @@ Empfänger getrennt zu verpacken und jeweils mit dessen Namen und
 Anschrift zu versehen. Absatz 2a Satz 1 Nummer 1, 2 und 8 und Satz 2
 gilt entsprechend. Bei einer Zustellung von Arzneimitteln durch Boten
 der Apotheke hat der Apothekenleiter sicherzustellen, dass die
-Arzneimittel dem Empfänger in zuverlässiger Weise geliefert werden.
-Die Zustellung muss durch pharmazeutisches Personal der Apotheke
-erfolgen, wenn vor der Auslieferung
+Arzneimittel dem Empfänger in zuverlässiger Weise geliefert werden und
+die für das Arzneimittel geltenden Temperaturanforderungen während der
+Lieferung bis zur Abgabe an den Empfänger eingehalten werden. Die
+Zustellung muss durch pharmazeutisches Personal der Apotheke erfolgen,
+wenn vor der Auslieferung
 
 1.  bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des
-    Arzneimittelgesetzes unterliegen, die Verschreibung nicht in der
-    Apotheke vorgelegen hat oder
+    Arzneimittelgesetzes oder § 3 Absatz 1 des Medizinal-Cannabisgesetzes
+    unterliegen, die Verschreibung nicht in der Apotheke vorgelegen hat
+    oder
 
 
 2.  keine Beratung zu den Arzneimitteln stattgefunden hat.
@@ -1539,27 +1667,23 @@ Arzneimittel übergeben werden. Hat vor der Auslieferung keine Beratung
 stattgefunden, so muss diese in unmittelbarem Zusammenhang mit der
 Aushändigung des Arzneimittels erfolgen. Die Beratung kann auch im
 Wege der Telekommunikation durch die Apotheke erfolgen. § 4 Absatz 1
-der Arzneimittelverschreibungsverordnung und § 43 Absatz 5 des
-Arzneimittelgesetzes bleiben unberührt.
+der Arzneimittelverschreibungsverordnung bleibt unberührt.
 
 (2a) Bei dem nach § 11a des Apothekengesetzes erlaubten Versand hat
 der Apothekenleiter sicherzustellen, dass
 
 1.  das Arzneimittel so verpackt, transportiert und ausgeliefert wird,
-    dass seine Qualität und Wirksamkeit erhalten bleibt; insbesondere
-    müssen die für das Arzneimittel geltenden Temperaturanforderungen
-    während des Transports bis zur Abgabe an den Empfänger eingehalten
-    werden; die Einhaltung muss bei besonders temperaturempfindlichen
-    Arzneimitteln, soweit erforderlich, durch mitgeführte
-    Temperaturkontrollen valide nachgewiesen werden,
+    dass seine Qualität und Wirksamkeit erhalten bleibt und die Vorgaben
+    des § 35c eingehalten werden,
 
 
 2.  das Arzneimittel entsprechend den Angaben des Auftraggebers
-    ausgeliefert und gegebenenfalls die Auslieferung schriftlich bestätigt
-    wird; der Apotheker kann in begründeten Fällen entgegen der Angabe des
-    Auftraggebers, insbesondere wegen der Eigenart des Arzneimittels,
-    verfügen, dass das Arzneimittel nur gegen schriftliche
-    Empfangsbestätigung ausgeliefert wird,
+    ausgeliefert und gegebenenfalls die Auslieferung schriftlich oder
+    elektronisch bestätigt wird; soweit es sich um ein
+    verschreibungspflichtiges Arzneimittel handelt, ist dieses nur gegen
+    schriftliche oder elektronische Empfangsbestätigung an den Haushalt
+    des Auftraggebers oder eine von dem Auftraggeber namentlich benannte
+    Person oder einen benannten Personenkreis auszuliefern,
 
 
 3.  der Besteller in geeigneter Weise davon unterrichtet wird, wenn
@@ -1624,6 +1748,14 @@ Verkehr bringen.
 Zahnheilkunde oder Tierheilkunde berechtigt sind, sind in einer der
 Verschreibung angemessenen Zeit auszuführen.
 
+(4a) Eine Zweigapotheke kann Rezeptur- und Defekturarzneimittel von
+einer anderen Apotheke, die von demselben Betreiber betrieben wird,
+beziehen anstelle sie selbst herzustellen. Abweichend von Absatz 4 hat
+die andere Apotheke die verschriebenen Arzneimittel unverzüglich
+herzustellen und an die Zweigapotheke oder an den Patienten per
+Botendienst der Zweigapotheke oder der herstellenden Apotheke zu
+liefern.
+
 (5) Die abgegebenen Arzneimittel müssen den Verschreibungen und den
 damit verbundenen Vorschriften des Fünften Buches Sozialgesetzbuch zur
 Arzneimittelversorgung entsprechen. Verordnete Arzneimittel, die an
@@ -1645,14 +1777,30 @@ das Gesamtdokument mit einer qualifizierten elektronischen Signatur zu
 versehen. Die Vorschriften der Betäubungsmittel-
 Verschreibungsverordnung bleiben unberührt.
 
-(5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der
-Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein
-anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und
-nach Art und Menge der wirksamen Bestandteile identisches sowie in der
-Darreichungsform und pharmazeutischen Qualität vergleichbares
-Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht
-verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche
-Anwendung des Arzneimittels erforderlich macht.
+(5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker während der
+folgenden Zeiten ein anderes, mit dem verschriebenen Arzneimittel nach
+Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile
+identisches sowie in der Darreichungsform und pharmazeutischen
+Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene
+Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der
+die unverzügliche Anwendung des Arzneimittels erforderlich macht:
+
+1.  montags bis samstags von 0:00 bis 8:00 Uhr,
+
+
+2.  montags bis freitags von 18:30 bis 24:00 Uhr,
+
+
+3.  samstags von 14:00 bis 24:00 Uhr,
+
+
+4.  sonntags und an gesetzlichen Feiertagen von 0:00 bis 24:00 Uhr und
+
+
+5.  am 24. und 31. Dezember von 14:00 bis 24:00 Uhr.
+
+
+
 
 (5b) Abweichend von Absatz 5 Satz 1 und 2 und Absatz 5a darf der
 Apotheker bei einem verordneten Arzneimittel, das nicht verfügbar im
@@ -1819,9 +1967,8 @@ beziehen. Satz 1 wird nicht angewendet auf Arzneimittel,
     üblichen Apothekenbetriebs von Apotheken bezogen werden,
 
 
-2.  die von Apotheken bezogen werden, für die dieselbe Erlaubnis nach § 1
-    Absatz 2 in Verbindung mit § 2 Absatz 4 des Apothekengesetzes erteilt
-    wurde,
+2.  die von Apotheken bezogen werden, die von demselben Betreiber
+    betrieben werden,
 
 
 3.  die von Apotheken gemäß § 11 Absatz 3 oder 4 des Apothekengesetzes
@@ -1855,35 +2002,36 @@ begründetem Verdacht auf Mißbrauch ist die Abgabe zu verweigern.
 
 
 ### § 18 Einfuhr von Arzneimitteln
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002403116)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002404130)
 
-(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des
+(1) Werden Fertigarzneimittel nach § 73 Absatz 3 des
 Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
-verbracht, sind folgende Angaben aufzuzeichnen
+verbracht, sind folgende Angaben von der Apotheke aufzuzeichnen:
 
-1.  die Bezeichnung des eingeführten Arzneimittels,
-
-
-2.  der Name oder die Firma und die Anschrift des pharmazeutischen
-    Unternehmers,
+1.  die Bezeichnung des in den Geltungsbereich dieser Verordnung
+    verbrachten Arzneimittels,
 
 
-3.  die Chargenbezeichnung, Menge des Arzneimittels und die
+2.  der Name oder die Firma und die Anschrift des auf der Verpackung
+    angegebenen pharmazeutischen Unternehmers,
+
+
+3.  die Chargenbezeichnung, die Menge des Arzneimittels und die
     Darreichungsform,
 
 
-4.  der Name oder die Firma und die Anschrift des Lieferanten,
+4.  der Name oder die Firma und die Anschrift des Lieferanten der
+    Apotheke,
 
 
 5.  der Name und die Anschrift der Person, für die das Arzneimittel
-    bestimmt ist,
+    bestellt wurde,
 
 
-6.  der Name und die Anschrift des verschreibenden Arztes oder des
-    verschreibenden Tierarztes,
+6.  der Name und die Anschrift des verschreibenden Arztes oder Tierarztes,
 
 
-7.  das Datum der Bestellung und der Abgabe,
+7.  das Datum der Bestellung und der Abgabe und
 
 
 8.  das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder
@@ -1894,6 +2042,28 @@ verbracht, sind folgende Angaben aufzuzeichnen
 Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise
 geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung
 ist aufzuzeichnen.
+
+(1a) Eine krankenhausversorgende Apotheke oder Krankenhausapotheke
+kann von der Aufzeichnung der in Absatz 1 Satz 1 Nummer 5 und 6
+genannten Angaben absehen, wenn in dem von ihr versorgten Krankenhaus
+sichergestellt ist, dass die eindeutige Zuordnung eines nach § 73
+Absatz 3 Satz 1 des Arzneimittelgesetzes in den Geltungsbereich dieser
+Verordnung verbrachten Fertigarzneimittels, das in angemessenem Umfang
+zum Zweck der vorübergehenden Bevorratung bestellt und zum Zweck der
+Verabreichung an einen Patienten des Krankenhauses abgegeben wird, zum
+konkreten Anwendungsfall mittels folgender Angaben spätestens zum
+Zeitpunkt der Verabreichung an den Patienten gegeben ist:
+
+1.  die Patientenidentifikationsnummer oder Angaben zur eindeutigen
+    Identifizierung der zu behandelnden Person wie Name, Vorname,
+    Geburtsdatum und Adresse und
+
+
+2.  Angaben zur eindeutigen Identifizierung des Arzneimittels
+    einschließlich seiner Chargenbezeichnung.
+
+
+
 
 (2) Fertigarzneimittel, die aus einem Mitgliedstaat der Europäischen
 Gemeinschaften über den Umfang von § 73 Abs. 3 des
@@ -2155,7 +2325,7 @@ Untersuchung nach Artikel 37 Buchstabe d der Delegierten Verordnung
 
 
 ### § 22 Allgemeine Dokumentation
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002809116)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002810130)
 
 (1) Alle Aufzeichnungen über die Herstellung, Prüfung, Überprüfung der
 Arzneimittel im Krankenhaus und in zu versorgenden Einrichtungen im
@@ -2182,7 +2352,7 @@ einer angemessenen Frist lesbar gemacht werden können. Bei einer
 Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein
 nach dieser Verordnung gefordertes Namenszeichen durch eine
 elektronische Signatur und eine eigenhändige Unterschrift durch eine
-qualifizierte elektronische Signatur zu ersetzen.
+fortgeschrittene elektronische Signatur zu ersetzen.
 
 (3) Die Aufzeichnungen und Nachweise sind der zuständigen Behörde auf
 Verlangen vorzulegen.
@@ -2334,7 +2504,7 @@ Länder zur Verfügung gestellt werden.
 
 
 ### § 26 Anzuwendende Vorschriften
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003203310)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003204130)
 
 (1) Die Krankenhausapotheke ist die Funktionseinheit eines
 Krankenhauses, der die Sicherstellung der ordnungsgemäßen Versorgung
@@ -2343,10 +2513,10 @@ apothekenpflichtigen Medizinprodukten sowie die Information und
 Beratung über diese Produkte, insbesondere von Ärzten, Pflegekräften
 und Patienten, obliegt.
 
-(2) Die Vorschriften der §§ 1a und 2a sowie der §§ 4a, 5 bis 8 und 11
+(2) Die Vorschriften der §§ 1a und 2a sowie der §§ 4a, 6 bis 8 und 11
 bis 14, 16, 17 Absatz 1 und 6c, der §§ 18, 20 Absatz 1 und der §§ 21,
-22 und 25a gelten für den Betrieb von Krankenhausapotheken
-entsprechend.
+22, 23 Absatz 5 und § 25a gelten für den Betrieb von
+Krankenhausapotheken entsprechend.
 
 
 ### § 27 Leiter der Krankenhausapotheke
@@ -2444,32 +2614,45 @@ finden Anwendung.
 
 
 ### § 30 Vorratshaltung in der Krankenhausapotheke
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003604130)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003605130)
 
-Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten
-des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen
-Medizinprodukte müssen in ausreichender Menge vorrätig gehalten
-werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen
-entsprechen muß. Abweichend von Satz 1 müssen parenteral anzuwendende
-Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in
-ausreichender Menge vorrätig gehalten werden, die mindestens dem
-durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des
-jeweils versorgten Krankenhauses für sechs Wochen entsprechen muss.
-Abweichend von Satz 1 müssen Arzneimittel, die in einer Bekanntmachung
-nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als
-Arzneimittel mit drohender oder bestehender versorgungsrelevanter
-Marktkonzentration eingestuft wurden und aus denen in der
-Krankenhausapotheke anwendungsfertige Zytostatikazubereitungen
-hergestellt werden, in einer Menge vorrätig gehalten werden, die
-mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht.
-Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit
-der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf
-Monate vergangen sind. Die in der Krankenhausapotheke vorrätig
-gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
+(1) Die zur Sicherstellung einer ordnungsgemäßen Versorgung der
+Patienten des Krankenhauses notwendigen Arzneimittel und
+apothekenpflichtigen Medizinprodukte müssen in ausreichender Menge
+vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf
+für zwei Wochen entsprechen muss. Abweichend von Satz 1 müssen
+parenteral anzuwendende Arzneimittel und Antibiotika zur
+intensivmedizinischen Versorgung in ausreichender Menge vorrätig
+gehalten werden, die mindestens dem durchschnittlichen Bedarf der
+intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses
+für sechs Wochen entsprechen muss. Abweichend von Satz 1 müssen
+Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz 8b Satz 3
+des Fünften Buches Sozialgesetzbuch als Arzneimittel mit drohender
+oder bestehender versorgungsrelevanter Marktkonzentration eingestuft
+wurden und aus denen in der Krankenhausapotheke anwendungsfertige
+Zytostatikazubereitungen hergestellt werden, in einer Menge vorrätig
+gehalten werden, die mindestens dem durchschnittlichen Bedarf für vier
+Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem
+Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des
+jeweiligen Arzneimittels fünf Monate vergangen sind. Es ist
+sicherzustellen, dass Arzneimittel mit den in § 15 Absatz 2 genannten
+Wirkstoffen entweder in der Apotheke vorrätig gehalten werden oder
+kurzfristig beschafft werden können. Die in der Krankenhausapotheke
+vorrätig gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
+
+(2) Die Lagerung von bis zu der Hälfte des Arzneimittelvorrats kann
+außerhalb der Betriebsräume erfolgen, sofern durch einen
+Verantwortungsabgrenzungsvertrag zwischen Apotheke und Dienstleister
+sichergestellt wird, dass die Lagerung qualitätsgesichert in der
+Verantwortung des Dienstleisters erfolgt, eine Belieferung jederzeit
+binnen einer Stunde erfolgen kann und die Apotheke regelmäßig die
+Lagerbedingungen vor Ort überprüft. Eine Zuordnung der Ware zur
+Apotheke muss jederzeit möglich sein. Die Vereinbarung ist der
+zuständigen Aufsichtsbehörde anzuzeigen.
 
 
 ### § 31 Abgabe in der Krankenhausapotheke
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003706116)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003707130)
 
 (1) Arzneimittel und apothekenpflichtige Medizinprodukte dürfen an
 Stationen oder andere Teileinheiten des Krankenhauses nur auf Grund
@@ -2498,9 +2681,14 @@ Packungsbeilage hinzugefügt wird.
 (4) Die Vorschriften des § 17 Absatz 1, 1a, 4, 5, 6 Satz 1 Nummer 1
 bis 3 und Satz 2 bis 4 sowie Absatz 6a bis 6c gelten entsprechend.
 
+(5) Arzneimittel, die medizinische Gase sind, dürfen Stationen oder
+andere Teileinheiten des Krankenhauses entgegen Absatz 1 über ein
+Leitungssystem zur Verfügung gestellt werden. Der Betrieb des
+Leitungssystems muss nicht in der Verantwortung der Apotheke erfolgen.
+
 
 ### § 32 Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003803310)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003804130)
 
 (1) Die Verpflichtung des Leiters der Krankenhausapotheke oder eines
 von ihm beauftragten Apothekers der Apotheke zur Überprüfung der
@@ -2518,9 +2706,11 @@ Krankenhauspersonal haben die Durchführung der Überprüfung zu
 unterstützen.
 
 (3) Der Leiter der Krankenhausapotheke oder der von ihm beauftragte
-Apotheker der Apotheke hat über jede Überprüfung ein Protokoll in
-vierfacher Ausfertigung anzufertigen. Das Protokoll muß mindestens
-enthalten
+Apotheker der Apotheke hat über jede Überprüfung der
+Arzneimittelvorräte des zu versorgenden Krankenhauses unverzüglich ein
+Protokoll insbesondere mit den in Satz 2 genannten Informationen
+anzufertigen. Im Protokoll sind mindestens die folgenden Informationen
+aufzuführen:
 
 1.  das Datum der Überprüfung,
 
@@ -2543,7 +2733,7 @@ enthalten
 
 
     c)  der Beschaffenheit einschließlich der Kennzeichnung der Arzneimittel
-        und Medizinprodukte,
+        und Medizinprodukte und
 
 
     d)  der Verfalldaten,
@@ -2555,27 +2745,35 @@ enthalten
 5.  die festgestellten Mängel,
 
 
-6.  die zur Beseitigung der Mängel veranlaßten Maßnahmen,
+6.  die zur Beseitigung der Mängel veranlassten Maßnahmen,
 
 
 7.  den zur Beseitigung der Mängel gesetzten Termin,
 
 
-8.  Angaben über die Beseitigung früher festgestellter Mängel,
+8.  Angaben über die Beseitigung früher festgestellter Mängel und
 
 
-9.  die Unterschrift mit Datum des für die Überprüfung verantwortlichen
-    Apothekers.
+9.  das Namenszeichen des für die Überprüfung verantwortlichen Apothekers
+    mit Datum.
 
 
 
-Eine Ausfertigung des Protokolls ist der Krankenhausleitung spätestens
-vier Wochen, bei schwerwiegenden Mängeln unmittelbar nach Durchführung
-der Überprüfung zuzuleiten, jeweils eine weitere ist dem Arzt sowie
-der Pflegedienstleitung auszuhändigen, die für die
-Arzneimittelversorgung der Station oder der anderen Teileinheit des
-Krankenhauses zuständig ist, und die vierte ist in der Apotheke
-aufzubewahren.
+Das Protokoll ist vom Leiter der Krankenhausapotheke oder von dem von
+ihm beauftragten Apotheker der Apotheke für den in § 22 Absatz 1 Satz
+1 genannten Zeitraum aufzubewahren und spätestens vier Wochen nach
+Durchführung der Überprüfung, bei schwerwiegenden Mängeln unmittelbar
+zu übermitteln an
+
+1.  die Krankenhausleitung und
+
+
+2.  den Arzt sowie die Pﬂegedienstleitung, die für die
+    Arzneimittelversorgung der Station oder der anderen Teileinheit des
+    Krankenhauses zuständig sind.
+
+
+
 
 
 ### § 33 Dienstbereitschaft der Krankenhausapotheke
@@ -3084,13 +3282,76 @@ aufzubewahren.
 entnommen werden soll, und des Apothekenpersonals zu treffen.
 
 
+### § 35c Versand von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE006100130)
+
+(1) Bei dem Versand von apothekenpflichtigen Arzneimitteln an
+Endverbraucher sind für die Verpackung, den Transport und die
+Auslieferung von Arzneimitteln nach § 17 Absatz 2a Satz 1 Nummer 1 im
+Qualitätsmanagementsystem nach § 2a vom Apothekenleiter Festlegungen
+zu einem risikobasierten Ansatz der Transportplanung zu treffen,
+insbesondere
+
+1.  zu geeigneten Transportbedingungen, die sich aus den Anforderungen des
+    jeweiligen Arzneimittels im Hinblick auf die Gewährleistung seiner
+    Qualität, Wirksamkeit und Unversehrtheit ergeben,
+
+
+2.  zur Auswahl einer geeigneten Transportverpackung, die den Schutz des
+    jeweiligen Arzneimittels insbesondere vor Bruch oder Beeinträchtigung
+    gewährleistet und
+
+
+3.  zu den Informationen, die dem beauftragten Logistikunternehmen zur
+    Ausführung eines Auftrages zur Verfügung zu stellen sind, insbesondere
+    hinsichtlich des Umgangs mit dem auszuliefernden Arzneimittel, des
+    Empfängers und der Handlungsanweisungen im Fall von dessen
+    Abwesenheit.
+
+
+
+
+(2) Die am Versand beteiligten Mitarbeiter der Apotheke müssen für
+ihre jeweilige Tätigkeit ausreichend qualifiziert sein und regelmäßig
+zu den Anforderungen an den Versand von Arzneimitteln geschult werden.
+Die Schulungsmaßnahmen sind zu dokumentieren.
+
+(3) Im Rahmen der Transportplanung einschließlich der Auswahl der
+Transportverpackung ist sicherzustellen, dass das jeweilige
+Arzneimittel während des Transports bis zur Abgabe an den Empfänger
+einschließlich einer möglichen Zwischenlagerung nicht beschädigt oder
+seine Qualität oder Wirksamkeit nicht beeinträchtigt wird. Beim
+Versand kühlpflichtiger oder kühlkettenpflichtiger Arzneimittel ist
+
+1.  der Einsatz geeigneter aktiver oder passiver Kühlsysteme vorzusehen,
+    die die Qualität und Wirksamkeit des Arzneimittels während des
+    gesamten Transportzeitraumes gewährleisten,
+
+
+2.  soweit erforderlich, eine valide Nachweisführung durch mitgeführte
+    Temperaturkontrollen vorzusehen und
+
+
+3.  sicherzustellen, dass keine Auslieferung über nicht personenbetriebene
+    stationäre Einrichtungen, in denen Postsendungen abgeholt oder
+    eingeliefert werden können, erfolgt.
+
+
+
+Werden beim Versand von kühlpflichtigen oder kühlkettenpflichtigen
+Arzneimitteln passive Kühlsysteme genutzt, hat der Apothekenleiter in
+Abhängigkeit erwarteter Umgebungsbedingungen eine maximale
+Transportzeit zu bestimmen, bei deren Überschreitung eine Abgabe an
+den Empfänger nicht mehr erfolgen soll.
+
+
 ## Fünfter Abschnitt - Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000500310)
 
 
 
 ### § 36 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE004011129)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE004012130)
 
 Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das
 Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
@@ -3148,9 +3409,8 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
         oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
 
 
-    i)  entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3
-        pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen
-        Apotheker beaufsichtigen läßt,
+    i)  entgegen § 3 Absatz 5 Satz 3 oder 6 eine pharmazeutische Tätigkeit
+        nicht beaufsichtigt und nicht beaufsichtigen lässt,
 
 
     j)  entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht
@@ -3167,12 +3427,16 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
         Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
 
-    m)  entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3,
+    m)  entgegen § 17 Absatz 2a die Anforderungen bei dem nach § 11a des
+        Apothekengesetzes erlaubten Versand nicht sicherstellt,
+
+
+    n)  entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3,
         jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel
         abgibt oder abgeben läßt,
 
 
-    n)  entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2
+    o)  entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2
         Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des
         Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig
         oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen
@@ -3183,17 +3447,13 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
         oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
 
 
-    o)  entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei
+    p)  entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei
         Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen
         werden,
 
 
-    p)  entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
-
-
-    q)  entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an
-        sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen
-        dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+    q)  entgegen § 23 Absatz 1 Satz 1 die Apotheke nicht in Dienstbereitschaft
+        hält oder
 
 
     r)  entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die
@@ -3243,9 +3503,9 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
 
 
     j)  Aufzeichnungen, Bescheinigungen oder Nachweise nicht entsprechende §
-        22 Abs. 1 Satz 1 aufbewahrt oder entgegen § 22 Abs. 1 Satz 2 oder 3
-        Aufzeichnungen, Bescheinigungen oder Nachweise unkenntlich macht oder
-        Veränderungen vornimmt,
+        22 Abs. 1 Satz 1 anfertigt, aufbewahrt oder entgegen § 22 Abs. 1 Satz
+        2 oder 3 Aufzeichnungen, Bescheinigungen oder Nachweise unkenntlich
+        macht oder Veränderungen vornimmt,
 
 
     k)  entgegen § 22 Abs. 4 Satz 1 eine Aufzeichnung nicht oder nicht
@@ -3267,25 +3527,29 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
         Abs. 2 Satz 1 pharmazeutische Tätigkeiten ausführen lässt,
 
 
-    c)  entgegen § 28 Abs. 3 in Verbindung mit § 3 Abs. 5 Satz 3 und mit § 27
-        Abs. 2 Satz 1 pharmazeutische Tätigkeiten nicht beaufsichtigt oder
-        nicht durch einen Apotheker beaufsichtigen läßt,
+    c)  entgegen § 28 Absatz 3 in Verbindung mit § 3 Absatz 5 Satz 3 oder 6
+        eine pharmazeutische Tätigkeit nicht beaufsichtigt und nicht
+        beaufsichtigen lässt,
 
 
-    d)  entgegen § 31 Abs. 1 Satz 1, Abs. 3 oder 4 in Verbindung mit § 17 Abs.
+    d)  entgegen § 30 Satz 6 in Verbindung mit § 15 Absatz 2 nicht
+        sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten
+        wird oder kurzfristig beschafft werden kann,
+
+
+    e)  entgegen § 31 Abs. 1 Satz 1, Abs. 3 oder 4 in Verbindung mit § 17 Abs.
         5 Satz 1, jeweils in Verbindung mit § 27 Abs. 2 Satz 1, Arzneimittel
         abgibt oder abgeben läßt oder
 
 
-    e)  entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den
+    f)  entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den
         Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig
         gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig
         überprüft oder durch einen Apotheker überprüfen läßt oder entgegen §
-        32 Abs. 3 in Verbindung mit § 27 Abs. 2 Satz 1 das vorgeschriebene
-        Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht
-        der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt
-        oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker
-        ausführen läßt.
+        32 Absatz 3 ein dort genanntes Protokoll nicht, nicht richtig oder
+        nicht vollständig anfertigt, nicht ordnungsgemäß aufbewahrt, nicht
+        rechtzeitig übermittelt oder diese Maßnahmen nicht durch einen
+        Apotheker ausführen läßt.
 
 
 
