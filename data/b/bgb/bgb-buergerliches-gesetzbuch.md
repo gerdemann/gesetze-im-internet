@@ -6323,7 +6323,7 @@ bleiben unberührt.
 
 
 ###### § 312j Besondere Pflichten im elektronischen Geschäftsverkehr gegenüber Verbrauchern
-[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273201360)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273202129)
 
 (1) Auf Webseiten für den elektronischen Geschäftsverkehr mit
 Verbrauchern hat der Unternehmer zusätzlich zu den Angaben nach § 312i
@@ -6334,7 +6334,7 @@ akzeptiert werden.
 (2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr,
 der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer dem
 Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1
-Nummer 1, 5 bis 7, 8, 14 und 15 des Einführungsgesetzes zum
+Nummer 1, 5 bis 8, 11a, 14 und 15 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine
 Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur
 Verfügung stellen.
