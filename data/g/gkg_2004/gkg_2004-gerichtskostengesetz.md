@@ -439,7 +439,7 @@ Arbeitsgerichtsgesetzes).
 
 
 ### § 12 Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
-[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001312125)
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001313126)
 
 (1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach
 Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden.
@@ -500,7 +500,9 @@ Rechtsnachfolger (§ 727, auch in Verbindung mit den §§ 728, 729, 738,
 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das
 Verfahren und der Auslagen für die Zustellung entschieden werden. Dies
 gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der
-Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
+Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung, wenn die
+Dokumente zum Nachweis der Vollstreckungsvoraussetzungen als
+elektronische Dokumente übermittelt werden.
 
 (7) In schiedsrichterlichen Verfahren der in den Nummern 1620 bis 1625
 des Kostenverzeichnisses bezeichneten Art soll vor Zahlung der Gebühr

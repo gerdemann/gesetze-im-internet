@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 22.12.2023 I Nr. 412
 
+Änderung durch
+:   Art. 8 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000100000)
@@ -103,7 +106,7 @@ maßgeblichen Fristvorgaben.
 
 
 ## § 3 Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität
-[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000502123)
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000503119)
 
 (1) Die Bundesregierung darf in Angelegenheiten der Europäischen
 Finanzstabilisierungsfazilität einem Beschlussvorschlag, der die
@@ -123,9 +126,8 @@ berührt
 
 
 2.  bei einer wesentlichen Änderung einer Vereinbarung über eine
-    Notmaßnahme, einer Änderung ihrer Instrumente und Bedingungen und bei
-    einer Änderung, die Auswirkungen auf die Höhe des deutschen
-    Gewährleistungsrahmens hat,
+    Notmaßnahme, ihrer Instrumente oder Bedingungen, sofern diese Änderung
+    Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
 
 
 3.  bei Änderungen des Rahmenvertrags der Europäischen

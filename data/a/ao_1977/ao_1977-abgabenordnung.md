@@ -1422,7 +1422,7 @@ Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
 
 #### § 31b Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052312123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052313123)
 
 (1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen
 Person an die jeweils zuständige Stelle ist auch ohne Ersuchen
@@ -1496,15 +1496,7 @@ des Geldwäschegesetzes erforderlich ist:
 
 
 
-(2b) Wird von der Verordnungsermächtigung des § 22a des
-Grunderwerbsteuergesetzes zur elektronischen Übermittlung der Anzeige
-im Sinne des § 18 des Grunderwerbsteuergesetzes Gebrauch gemacht,
-übermitteln die Landesfinanzbehörden die dort eingegangenen Datensätze
-nach Maßgabe des § 31 Absatz 5a des Geldwäschegesetzes der
-Zentralstelle für Finanztransaktionsuntersuchungen zur Wahrnehmung
-ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
-Geldwäschegesetzes im automatisierten Verfahren. Absatz 2 Satz 2 gilt
-entsprechend.
+(2b) (weggefallen)
 
 (3) Die Finanzbehörden haben der zuständigen Verwaltungsbehörde
 unverzüglich solche Tatsachen mitzuteilen, die darauf schließen
@@ -15920,7 +15912,7 @@ Wegnahmegebühren (§ 340) und Verwertungsgebühren (§ 341) erhoben.
 
 
 #### § 339 Pfändungsgebühr
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059601123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059602123)
 
 (1) Die Pfändungsgebühr wird erhoben für die Pfändung von beweglichen
 Sachen, von Tieren, von Früchten, die vom Boden noch nicht getrennt
@@ -15938,7 +15930,7 @@ sind, von Forderungen und von anderen Vermögensrechten.
 
 
 
-(3) Die Gebühr beträgt 28,60 Euro.
+(3) Die Gebühr beträgt 31,20 Euro.
 
 (4) Die Gebühr wird auch erhoben, wenn
 
@@ -15964,7 +15956,7 @@ erhoben.
 
 
 #### § 340 Wegnahmegebühr
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043408123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043409123)
 
 (1) Die Wegnahmegebühr wird für die Wegnahme beweglicher Sachen
 einschließlich Urkunden in den Fällen der §§ 310, 315 Absatz 2 Satz 5,
@@ -15974,13 +15966,13 @@ Vollziehungsbeamten freiwillig leistet.
 
 (2) § 339 Absatz 2 Nummer 1 ist entsprechend anzuwenden.
 
-(3) Die Höhe der Wegnahmegebühr beträgt 28,60 Euro. Die Gebühr wird
+(3) Die Höhe der Wegnahmegebühr beträgt 31,20 Euro. Die Gebühr wird
 auch erhoben, wenn die in Absatz 1 bezeichneten Sachen nicht
 aufzufinden sind.
 
 
 #### § 341 Verwertungsgebühr
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043507123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043508123)
 
 (1) Die Verwertungsgebühr wird für die Versteigerung und andere
 Verwertung von Gegenständen erhoben.
@@ -15989,10 +15981,10 @@ Verwertung von Gegenständen erhoben.
 anderer Beauftragter Schritte zur Ausführung des Verwertungsauftrags
 unternommen hat.
 
-(3) Die Gebühr beträgt 57,20 Euro.
+(3) Die Gebühr beträgt 62,40 Euro.
 
 (4) Wird die Verwertung abgewendet (§ 296 Absatz 1 Satz 4), ist eine
-Gebühr von 28,60 Euro zu erheben.
+Gebühr von 31,20 Euro zu erheben.
 
 
 #### § 342 Mehrheit von Schuldnern

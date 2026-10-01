@@ -12463,31 +12463,52 @@ Testamentsvollstreckers unterliegenden Nachlassgegenstände zulässig.
 
 
 #### § 750 Voraussetzungen der Zwangsvollstreckung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094302301)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094303126)
 
-(1) Die Zwangsvollstreckung darf nur beginnen, wenn die Personen, für
-und gegen die sie stattfinden soll, in dem Urteil oder in der ihm
-beigefügten Vollstreckungsklausel namentlich bezeichnet sind und das
-Urteil bereits zugestellt ist oder gleichzeitig zugestellt wird. Eine
-Zustellung durch den Gläubiger genügt; in diesem Fall braucht die
-Ausfertigung des Urteils Tatbestand und Entscheidungsgründe nicht zu
-enthalten.
+(1) Die Zwangsvollstreckung darf nur beginnen, wenn
 
-(2) Handelt es sich um die Vollstreckung eines Urteils, dessen
-vollstreckbare Ausfertigung nach § 726 Abs. 1 erteilt worden ist, oder
-soll ein Urteil, das nach den §§ 727 bis 729, 738, 742, 744, dem § 745
-Abs. 2 und dem § 749 für oder gegen eine der dort bezeichneten
-Personen wirksam ist, für oder gegen eine dieser Personen vollstreckt
-werden, so muss außer dem zu vollstreckenden Urteil auch die ihm
-beigefügte Vollstreckungsklausel und, sofern die Vollstreckungsklausel
-auf Grund öffentlicher oder öffentlich beglaubigter Urkunden erteilt
-ist, auch eine Abschrift dieser Urkunden vor Beginn der
-Zwangsvollstreckung zugestellt sein oder gleichzeitig mit ihrem Beginn
-zugestellt werden.
+1.  die Personen, für und gegen die die Zwangsvollstreckung stattfinden
+    soll, in dem Urteil oder in der ihm beigefügten Vollstreckungsklausel
+    namentlich bezeichnet sind, und
 
-(3) Eine Zwangsvollstreckung nach § 720a darf nur beginnen, wenn das
-Urteil und die Vollstreckungsklausel mindestens zwei Wochen vorher
-zugestellt sind.
+
+2.  den Personen, gegen die die Zwangsvollstreckung stattfinden soll,
+    Folgendes zugestellt ist oder gleichzeitig zugestellt wird:
+
+    a)  das Urteil,
+
+
+    b)  die dem Urteil beigefügte Vollstreckungsklausel, sofern
+
+        aa) diese nach § 726 Absatz 1 erteilt worden ist oder
+
+
+        bb) ein Urteil, das nach den §§ 727 bis 729, 738, 742, 744, 745 Absatz 2
+            oder nach § 749 für oder gegen eine der dort bezeichneten Personen
+            wirksam ist, für oder gegen eine dieser Personen vollstreckt werden
+            soll, sowie
+
+
+
+
+
+    c)  eine Abschrift der öffentlichen oder öffentlich beglaubigten Urkunden,
+        wenn die Vollstreckungsklausel auf Grundlage dieser Urkunden erteilt
+        worden ist.
+
+
+
+
+
+
+Eine Zustellung der in Satz 1 Nummer 2 genannten Dokumente durch den
+Gläubiger genügt; in diesem Fall braucht die Ausfertigung des Urteils
+Tatbestand und Entscheidungsgründe nicht zu enthalten.
+
+(2) Eine Zwangsvollstreckung nach § 720a darf nur beginnen, wenn das
+Urteil und, sofern nach Absatz 1 Satz 1 Nummer 2 Buchstabe b oder c
+erforderlich, die dort genannten Dokumente mindestens zwei Wochen
+vorher zugestellt worden sind.
 
 
 #### § 751 Bedingungen für Vollstreckungsbeginn
@@ -12515,8 +12536,24 @@ in den Fällen des § 709 die Vollstreckung gemäß § 712 Abs. 1 Satz 1
 abwenden, so gilt für ihn Satz 1 entsprechend.
 
 
-#### § 753 Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094612125)
+#### § 752a Versicherung der Vollmacht für Prozesshandlungen in der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE171400126)
+
+(1) In Verfahren der Zwangsvollstreckung wegen Geldforderungen in das
+bewegliche Vermögen haben die in § 79 Absatz 2 Satz 1 und 2 Nummer 3
+und 4 Genannten die ihnen erteilten Vollmachten zur Vornahme der
+Prozesshandlungen, die durch die Zwangsvollstreckung veranlasst
+werden, abweichend von § 80 Satz 1 dem jeweils zuständigen
+Vollstreckungsorgan ausschließlich zu versichern.
+
+(2) Die Versicherung ist in Textform zu übermitteln.
+
+(3) Die Wirkung der Versicherung der Vollmacht entfällt mit der
+Anzeige des Erlöschens der Vollmacht bei dem Vollstreckungsorgan.
+
+
+#### § 753 Vollstreckung durch Gerichtsvollzieher; elektronischer Rechtsverkehr; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094613126)
 
 (1) Die Zwangsvollstreckung wird, soweit sie nicht den Gerichten
 zugewiesen ist, durch Gerichtsvollzieher durchgeführt, die sie im
@@ -12529,105 +12566,204 @@ gilt als von dem Gläubiger beauftragt.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-verbindliche Formulare für den Auftrag einzuführen. Für elektronisch
-eingereichte Aufträge können besondere Formulare vorgesehen werden.
+verbindliche Formulare für den Auftrag einzuführen. Die
+Rechtsverordnung kann für diese Formulare besondere technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+bestimmen.
 
-(4) Schriftlich einzureichende Anträge und Erklärungen der Parteien
-sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
-Übersetzungen und Erklärungen Dritter können als elektronisches
-Dokument beim Gerichtsvollzieher eingereicht werden. Für das
-elektronische Dokument gelten § 130a, auf dieser Grundlage erlassene
-Rechtsverordnungen sowie § 298 entsprechend. Die Bundesregierung kann
-in der Rechtsverordnung nach § 130a Absatz 2 Satz 2 besondere
-technische Rahmenbedingungen für die Übermittlung und Bearbeitung
-elektronischer Dokumente in Zwangsvollstreckungsverfahren durch
-Gerichtsvollzieher bestimmen.
+(4) Rechtsanwälte, Behörden oder juristische Personen des öffentlichen
+Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse haben dem Gerichtsvollzieher
+vorzulegende Dokumente mit Ausnahme der in § 754a Absatz 1 Satz 1
+Nummer 1 bis 3 genannten Dokumente als elektronische Dokumente zu
+übermitteln. Für Übermittlungen nach Satz 1 gilt § 130d Satz 2 und 3
+entsprechend.
 
-(5) § 130d gilt entsprechend.
+(5) Zur Übermittlung als elektronische Dokumente sind Schriftstücke in
+elektronische Dokumente zu übertragen, die bildlich und inhaltlich mit
+den übertragenen Schriftstücken übereinzustimmen haben. Für
+elektronische Dokumente gelten § 130a Absatz 2, 3, 5 und 6, auf dessen
+Grundlage erlassene Rechtsverordnungen sowie § 298 entsprechend.
 
+(6) Sichere Übermittlungswege für den elektronischen Rechtsverkehr mit
+dem Gerichtsvollzieher sind:
 
-#### § 753a Vollmachtsnachweis
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168300125)
-
-Bei der Durchführung der Zwangsvollstreckung wegen Geldforderungen in
-das bewegliche Vermögen haben Bevollmächtigte nach § 79 Absatz 2 Satz
-1 und 2 Nummer 3 und 4 ihre ordnungsgemäße Bevollmächtigung zu
-versichern; des Nachweises einer Vollmacht bedarf es in diesen Fällen
-nicht. Satz 1 gilt nicht für Anträge nach § 802g.
-
-
-#### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094704160)
-
-(1) Durch den Vollstreckungsauftrag und die Übergabe der
-vollstreckbaren Ausfertigung wird der Gerichtsvollzieher ermächtigt,
-Leistungen des Schuldners entgegenzunehmen und diese zu quittieren
-sowie mit Wirkung für den Gläubiger Zahlungsvereinbarungen nach
-Maßgabe des § 802b zu treffen.
-
-(2) Dem Schuldner und Dritten gegenüber wird der Gerichtsvollzieher
-zur Vornahme der Zwangsvollstreckung und der in Absatz 1 bezeichneten
-Handlungen durch den Besitz der vollstreckbaren Ausfertigung
-ermächtigt. Der Mangel oder die Beschränkung des Auftrags kann diesen
-Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
+1.  bei einer Kommunikation mit dem Gerichtsvollzieher über das
+    Amtsgericht als Verteilerstelle die Übermittlungswege nach § 130a
+    Absatz 4 Satz 1;
 
 
-#### § 754a Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166701311)
+2.  bei einer Kommunikation mit dem Gerichtsvollzieher selbst
 
-(1) Im Fall eines elektronisch eingereichten Auftrags zur
-Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer
-Vollstreckungsklausel nicht bedarf, ist bei der Zwangsvollstreckung
-wegen Geldforderungen die Übermittlung der Ausfertigung des
-Vollstreckungsbescheides entbehrlich, wenn
-
-1.  die sich aus dem Vollstreckungsbescheid ergebende fällige
-    Geldforderung einschließlich titulierter Nebenforderungen und Kosten
-    nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind
-    bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie
-    allein Gegenstand des Vollstreckungsauftrags sind;
+    a)  der Übermittlungsweg nach § 130a Absatz 4 Satz 1 Nummer 5 sowie
 
 
-2.  die Vorlage anderer Urkunden als der Ausfertigung des
-    Vollstreckungsbescheides nicht vorgeschrieben ist;
-
-
-3.  der Gläubiger dem Auftrag eine Abschrift des Vollstreckungsbescheides
-    nebst Zustellungsbescheinigung als elektronisches Dokument beifügt und
-
-
-4.  der Gläubiger versichert, dass ihm eine Ausfertigung des
-    Vollstreckungsbescheides und eine Zustellungsbescheinigung vorliegen
-    und die Forderung in Höhe des Vollstreckungsauftrags noch besteht.
+    b)  die Übermittlungswege nach § 130a Absatz 4 Satz 1 Nummer 1 bis 4; ein
+        Postfach des Gerichtsvollziehers nach § 130a Absatz 4 Satz 1 Nummer 3
+        oder ein den Anforderungen des § 4 Absatz 1 Nummer 2 der
+        Elektronischer-Rechtsverkehr-Verordnung entsprechendes elektronisches
+        Postfach des Gerichtsvollziehers tritt an die Stelle der
+        elektronischen Poststelle des Gerichts.
 
 
 
-Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem
-Auftrag zusätzlich zu den in Satz 1 Nummer 3 genannten Dokumenten eine
-nachprüfbare Aufstellung der Kosten und entsprechende Belege als
-elektronisches Dokument beizufügen.
 
-(2) Hat der Gerichtsvollzieher Zweifel an dem Vorliegen einer
-Ausfertigung des Vollstreckungsbescheides oder der übrigen
-Vollstreckungsvoraussetzungen, teilt er dies dem Gläubiger mit und
-führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger die
-Ausfertigung des Vollstreckungsbescheides übermittelt oder die übrigen
-Vollstreckungsvoraussetzungen nachgewiesen hat.
 
-(3) (weggefallen)
+
+§ 130a Absatz 4 Satz 2 gilt entsprechend.
+
+(7) Der Gerichtsvollzieher darf den in Absatz 4 Satz 1 Genannten oder
+sonstigen in professioneller Eigenschaft am Verfahren beteiligten
+Personen, Vereinigungen und Organisationen, bei denen von einer
+erhöhten Zuverlässigkeit ausgegangen werden kann, elektronische
+Dokumente übermitteln. Anderen als den in Satz 1 Genannten darf er
+elektronische Dokumente nur dann übermitteln, wenn diese Personen
+einer solchen Übermittlung für das jeweilige Vollstreckungsverfahren
+zugestimmt haben. Die Zustimmung nach Satz 2 gilt mit der Übermittlung
+eines elektronischen Dokuments im jeweiligen Vollstreckungsverfahren
+als erteilt. Andere als natürliche Personen können die Zustimmung auch
+allgemein erteilen.
+
+(8) Für Zwangsvollstreckungsverfahren durch Gerichtsvollzieher kann
+die Bundesregierung in der Rechtsverordnung nach § 130a Absatz 2 Satz
+2 besondere technische Rahmenbedingungen für die Übermittlung und die
+Eignung zur Bearbeitung elektronischer Dokumente bestimmen.
+
+
+#### § 753a Versicherung der Geldempfangsvollmacht bei der Vollstreckung durch Gerichtsvollzieher
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168301126)
+
+(1) In Verfahren der Zwangsvollstreckung durch Gerichtsvollzieher
+wegen Geldforderungen in das bewegliche Vermögen haben die in § 79
+Absatz 2 Satz 1 und 2 Nummer 3 und 4 Genannten die ihnen erteilten
+Vollmachten, die Gelder in Empfang zu nehmen, die der
+Gerichtsvollzieher auf Grund des der Zwangsvollstreckung
+zugrundeliegenden Vollstreckungsauftrags vereinnahmt
+(Geldempfangsvollmacht), dem Gerichtsvollzieher ausdrücklich zu
+versichern. Eines Nachweises der Vollmacht bedarf es nicht.
+
+(2) § 79 Absatz 2 Satz 3, § 80 Satz 2, die §§ 84 bis 86 sowie 752a
+Absatz 2 und 3 sind auf die Geldempfangsvollmacht entsprechend
+anzuwenden.
+
+
+#### § 754 Ermächtigung des Gerichtsvollziehers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094705126)
+
+(1) Der Gerichtsvollzieher wird durch den Vollstreckungsauftrag des
+Gläubigers und durch entweder die Übergabe der vollstreckbaren
+Ausfertigung oder die Übermittlung der vollstreckbaren Ausfertigung
+als elektronisches Dokument nach Maßgabe des § 754a, sofern er das ihm
+übermittelte elektronische Dokument der Ausführung seines
+Vollstreckungsauftrags nach § 754a Absatz 4 Satz 2 noch zugrunde legen
+darf, ermächtigt, Leistungen des Schuldners entgegenzunehmen und zu
+quittieren sowie mit Wirkung für den Gläubiger Zahlungsvereinbarungen
+nach Maßgabe des § 802b zu treffen.
+
+(2) Der Gerichtsvollzieher wird dem Schuldner und Dritten gegenüber
+zur Vornahme der Zwangsvollstreckung sowie der in Absatz 1
+bezeichneten Handlungen dadurch ermächtigt, dass er entweder im Besitz
+der vollstreckbaren Ausfertigung ist oder ihm die vollstreckbare
+Ausfertigung nach Maßgabe des § 754a als elektronisches Dokument
+übermittelt worden ist und er das ihm übermittelte elektronische
+Dokument der Ausführung seines Vollstreckungsauftrags nach § 754a
+Absatz 4 Satz 2 noch zugrunde legen darf. Ein Mangel oder eine
+Beschränkung des Auftrags können von dem Gläubiger gegenüber dem
+Schuldner und Dritten nicht geltend gemacht werden.
+
+
+#### § 754a Elektronischer Vollstreckungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166702126)
+
+(1) Sofern bei einem Auftrag an den Gerichtsvollzieher zur
+Durchführung der Zwangsvollstreckung wegen Geldforderungen die
+Übergabe oder die Vorlage
+
+1.  der Ausfertigung des Vollstreckungstitels,
+
+
+2.  der Vollstreckungsklausel oder
+
+
+3.  weiterer Urkunden zum Nachweis der Vollstreckungsvoraussetzungen
+
+
+
+erforderlich ist, genügt es bei einem elektronischen
+Vollstreckungsauftrag, die Schriftstücke in elektronische Dokumente zu
+übertragen und diese dem Gerichtsvollzieher zu übermitteln. Sollen
+Kosten der Zwangsvollstreckung vollstreckt werden, sind dem
+Vollstreckungsauftrag zusätzlich eine nachprüfbare Aufstellung der
+Kosten und entsprechende Belege als elektronische Dokumente
+beizufügen.
+
+(2) Kann der Gerichtsvollzieher anhand der übermittelten
+elektronischen Dokumente nicht zweifelsfrei feststellen, dass die
+Voraussetzungen der Zwangsvollstreckung vorliegen, teilt er dies dem
+Auftraggeber mit und fordert die für die zweifelsfreie Feststellung
+erforderlichen Dokumente als elektronische Dokumente oder als
+Schriftstücke an.
+
+(3) Übermittelt der Auftraggeber Schriftstücke nach Absatz 1 Satz 1
+Nummer 1 bis 3 als elektronische Dokumente, so hat er dem
+Gerichtsvollzieher zu versichern, dass
+
+1.  die übermittelten elektronischen Dokumente jeweils bildlich und
+    inhaltlich mit den Schriftstücken übereinstimmen und
+
+
+2.  die Forderung in Höhe des Vollstreckungsauftrags noch besteht.
+
+
+
+Die Versicherung ist in Textform zu übermitteln.
+
+(4) Bestehen die in Absatz 1 Satz 1 Nummer 1 bis 3 bezeichneten
+Schriftstücke nicht mehr oder treten Änderungen an ihnen auf, nachdem
+sie als elektronische Dokumente übermittelt worden sind, hat der
+Auftraggeber
+
+1.  den Gerichtsvollzieher hierüber unverzüglich zu informieren und
+
+
+2.  die geänderten Schriftstücke in elektronische Dokumente zu übertragen
+    und diese dem Gerichtsvollzieher zu übermitteln.
+
+
+
+Der Gerichtsvollzieher darf die ursprünglich übermittelten
+elektronischen Dokumente der Ausführung seines Vollstreckungsauftrags
+nicht mehr zugrunde legen, nachdem die Information nach Satz 1 Nummer
+1 erfolgt ist.
 
 
 #### § 755 Ermittlung des Aufenthaltsorts des Schuldners
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094807125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094808126)
 
-(1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners
-nicht bekannt, darf der Gerichtsvollzieher auf Grund des
-Vollstreckungsauftrags und der Übergabe der vollstreckbaren
-Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der
-Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt-
-und Nebenwohnung des Schuldners erheben. Der Gerichtsvollzieher darf
-auch beauftragt werden, die gegenwärtigen Anschriften, den Ort der
-Hauptniederlassung oder den Sitz des Schuldners zu erheben
+(1) Der Gerichtsvollzieher darf zur Ermittlung des Aufenthaltsorts des
+Schuldners bei der Meldebehörde die gegenwärtigen Anschriften sowie
+Angaben zur Haupt- und zur Nebenwohnung des Schuldners erheben, wenn
+
+1.  der Wohnsitz oder der gewöhnliche Aufenthaltsort des Schuldners nicht
+    bekannt ist,
+
+
+2.  der Gerichtsvollzieher mit der Vollstreckung gegen diesen Schuldner
+    beauftragt ist und
+
+
+3.  dem Gerichtsvollzieher die vollstreckbare Ausfertigung entweder
+    übergeben worden ist oder ihm die vollstreckbare Ausfertigung nach
+    Maßgabe des § 754a als elektronisches Dokument übermittelt worden ist
+    und er das ihm übermittelte elektronische Dokument der Ausführung
+    seines Vollstreckungsauftrags nach § 754a Absatz 4 Satz 2 noch
+    zugrunde legen darf.
+
+
+
+Der Gerichtsvollzieher darf auch beauftragt werden, die gegenwärtigen
+Anschriften, den Ort der Hauptniederlassung oder den Sitz des
+Schuldners zu erheben
 
 1.  durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-,
     Unternehmens- oder Vereinsregister oder
@@ -12702,17 +12838,32 @@ wenn der Schuldner auf das wörtliche Angebot des Gerichtsvollziehers
 erklärt, dass er die Leistung nicht annehmen werde.
 
 
-#### § 757 Übergabe des Titels und Quittung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095002301)
+#### § 757 Bestätigung empfangener Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095003126)
 
 (1) Der Gerichtsvollzieher hat nach Empfang der Leistungen dem
-Schuldner die vollstreckbare Ausfertigung nebst einer Quittung
-auszuliefern, bei teilweiser Leistung diese auf der vollstreckbaren
-Ausfertigung zu vermerken und dem Schuldner Quittung zu erteilen.
+Schuldner eine Quittung zu erteilen. Das Recht des Schuldners,
+nachträglich eine Quittung des Gläubigers zu fordern, wird durch diese
+Vorschrift nicht berührt.
 
-(2) Das Recht des Schuldners, nachträglich eine Quittung des
-Gläubigers selbst zu fordern, wird durch diese Vorschriften nicht
-berührt.
+(2) Ist der Gerichtsvollzieher im Besitz der vollstreckbaren
+Ausfertigung, so hat er
+
+1.  dem Schuldner die vollstreckbare Ausfertigung nach Empfang der
+    vollständigen Leistung auszuliefern oder
+
+
+2.  den Betrag der teilweisen Leistung auf der vollstreckbaren
+    Ausfertigung zu vermerken.
+
+
+
+
+(3) Ist der Gerichtsvollzieher im Fall eines elektronischen
+Vollstreckungsauftrags nach § 754a nicht im Besitz der vollstreckbaren
+Ausfertigung, so hat er dem Schuldner nach Empfang der vollständigen
+Leistung den Empfang zu bescheinigen und den Gläubiger aufzufordern,
+die vollstreckbare Ausfertigung an den Schuldner auszuliefern.
 
 
 #### § 757a Auskunfts- und Unterstützungsersuchen
@@ -12795,7 +12946,7 @@ Vollzugsorgane nachsuchen.
 
 
 #### § 758a Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130407311)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130408126)
 
 (1) Die Wohnung des Schuldners darf ohne dessen Einwilligung nur auf
 Grund einer Anordnung des Richters bei dem Amtsgericht durchsucht
@@ -12821,18 +12972,17 @@ steht, in Wohnungen nur auf Grund einer besonderen Anordnung des
 Richters bei dem Amtsgericht. Die Nachtzeit umfasst die Stunden von 21
 bis 6 Uhr.
 
-(5) Die Anordnung nach Absatz 1 ist bei der Zwangsvollstreckung
-vorzuzeigen.
+(5) Der Gerichtsvollzieher händigt dem Schuldner von Amts wegen bei
+der Durchsuchung eine Abschrift der Anordnung nach Absatz 1 aus.
 
 (6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Formulare für den Antrag auf Erlass einer richterlichen
 Durchsuchungsanordnung nach Absatz 1 einzuführen. Soweit nach Satz 1
 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen.
-Für Verfahren bei Gerichten, die die Verfahren elektronisch
-bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht
-elektronisch bearbeiten, können unterschiedliche Formulare eingeführt
-werden.
+Die Rechtsverordnung kann für diese Formulare besondere technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+bestimmen.
 
 
 #### § 759 Zuziehung von Zeugen
@@ -13898,14 +14048,18 @@ Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
 
 
 ##### § 802a Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162500160)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162504126)
 
 (1) Der Gerichtsvollzieher wirkt auf eine zügige, vollständige und
 Kosten sparende Beitreibung von Geldforderungen hin.
 
-(2) Auf Grund eines entsprechenden Vollstreckungsauftrags und der
-Übergabe der vollstreckbaren Ausfertigung ist der Gerichtsvollzieher
-unbeschadet weiterer Zuständigkeiten befugt,
+(2) Der Gerichtsvollzieher ist auf Grund eines entsprechenden
+Vollstreckungsauftrags und entweder auf Grund der Übergabe der
+vollstreckbaren Ausfertigung oder der Übermittlung der vollstreckbaren
+Ausfertigung als elektronisches Dokument nach Maßgabe des § 754a,
+sofern er das ihm übermittelte elektronische Dokument der Ausführung
+seines Vollstreckungsauftrags nach § 754a Absatz 4 Satz 2 noch
+zugrunde legen darf, unbeschadet weiterer Zuständigkeiten befugt,
 
 1.  eine gütliche Erledigung der Sache (§ 802b) zu versuchen,
 
@@ -13996,7 +14150,7 @@ Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§
 
 
 ##### § 802d Weitere Vermögensauskunft
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162803125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162804126)
 
 (1) Der Schuldner ist innerhalb von zwei Jahren nach Abgabe der
 Vermögensauskunft nach § 802c oder nach § 284 der Abgabenordnung nicht
@@ -14013,11 +14167,8 @@ hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der
 Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die
 Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
 
-(2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf
-Antrag das Vermögensverzeichnis als elektronisches Dokument
-übermittelt werden, wenn dieses mit einer qualifizierten
-elektronischen Signatur versehen und gegen unbefugte Kenntnisnahme
-geschützt ist.
+(2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger das
+Vermögensverzeichnis als elektronisches Dokument übermittelt werden.
 
 
 ##### § 802e Zuständigkeit
@@ -14156,7 +14307,7 @@ Vermerk enthalten, dass sie mit dem Inhalt des Vermögensverzeichnisses
 
 
 ##### § 802g Erzwingungshaft
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163101311)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163102126)
 
 (1) Auf Antrag des Gläubigers erlässt das Gericht gegen den Schuldner,
 der dem Termin zur Abgabe der Vermögensauskunft unentschuldigt
@@ -14164,7 +14315,9 @@ fernbleibt oder die Abgabe der Vermögensauskunft gemäß § 802c ohne
 Grund verweigert, zur Erzwingung der Abgabe einen Haftbefehl. In dem
 Haftbefehl sind der Gläubiger, der Schuldner und der Grund der
 Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner
-Vollziehung bedarf es nicht.
+Vollziehung bedarf es nicht. Auf Antrag des Gläubigers übersendet das
+Gericht den Haftbefehl und eine beglaubigte Abschrift davon an den
+zuständigen Gerichtsvollzieher.
 
 (2) Die Verhaftung des Schuldners erfolgt durch einen
 Gerichtsvollzieher. Der Gerichtsvollzieher händigt dem Schuldner von
@@ -15102,8 +15255,8 @@ Antrag des Gläubigers an das zuständige Gericht ab. Die Abgabe ist
 nicht bindend.
 
 
-###### § 829 Pfändung einer Geldforderung
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103309360)
+###### § 829 Pfändung einer Geldforderung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103310126)
 
 (1) Soll eine Geldforderung gepfändet werden, so hat das Gericht dem
 Drittschuldner zu verbieten, an den Schuldner zu zahlen. Zugleich hat
@@ -15129,57 +15282,75 @@ Pfändung als bewirkt anzusehen.
 (4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Formulare für den Antrag auf Erlass eines Pfändungs- und
-Überweisungsbeschlusses einzuführen. Soweit nach Satz 1 Formulare
-eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für
-Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten,
-und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch
-bearbeiten, können unterschiedliche Formulare eingeführt werden.
+Überweisungsbeschlusses einzuführen. Die Rechtsverordnung kann für
+diese Formulare besondere technische Rahmenbedingungen für die
+Übermittlung und die Eignung zur Bearbeitung bestimmen. Soweit nach
+Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer
+bedienen.
 
 
-###### § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163904311)
+###### § 829a Elektronischer Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163905126)
 
-(1) Im Fall eines elektronischen Antrags zur Zwangsvollstreckung aus
-einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht
-bedarf, ist bei Pfändung und Überweisung einer Geldforderung (§§ 829,
-835) die Übermittlung der Ausfertigung des Vollstreckungsbescheides
-entbehrlich, wenn
+(1) Sofern bei einem Antrag auf Pfändung einer Geldforderung (§ 829),
+auf Pfändung und Überweisung einer Geldforderung (§§ 829, 835) oder
+auf Überweisung einer Geldforderung (§ 835) die Übergabe oder Vorlage
 
-1.  die sich aus dem Vollstreckungsbescheid ergebende fällige
-    Geldforderung einschließlich titulierter Nebenforderungen und Kosten
-    nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind
-    bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie
-    allein Gegenstand des Vollstreckungsantrags sind;
+1.  der Ausfertigung des Vollstreckungstitels,
 
 
-2.  die Vorlage anderer Urkunden als der Ausfertigung des
-    Vollstreckungsbescheides nicht vorgeschrieben ist;
+2.  der Vollstreckungsklausel oder
 
 
-3.  der Gläubiger eine Abschrift des Vollstreckungsbescheides nebst
-    Zustellungsbescheinigung als elektronisches Dokument dem Antrag
-    beifügt und
-
-
-4.  der Gläubiger versichert, dass ihm eine Ausfertigung des
-    Vollstreckungsbescheides und eine Zustellungsbescheinigung vorliegen
-    und die Forderung in Höhe des Vollstreckungsantrags noch besteht.
+3.  weiterer Urkunden zum Nachweis der Vollstreckungsvoraussetzungen
 
 
 
-Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind
-zusätzlich zu den in Satz 1 Nr. 3 genannten Dokumenten eine
-nachprüfbare Aufstellung der Kosten und entsprechende Belege als
-elektronisches Dokument dem Antrag beizufügen.
+erforderlich ist, genügt es bei einem elektronischen
+Vollstreckungsantrag, die Schriftstücke in elektronische Dokumente zu
+übertragen und diese dem Gericht zu übermitteln. § 130d Satz 1 ist auf
+die in Satz 1 Nummer 1 bis 3 genannten Dokumente nicht anzuwenden.
+Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem
+Vollstreckungsantrag zusätzlich eine nachprüfbare Aufstellung der
+Kosten und entsprechende Belege als elektronische Dokumente
+beizufügen.
 
-(2) Hat das Gericht an dem Vorliegen einer Ausfertigung des
-Vollstreckungsbescheides oder der übrigen
-Vollstreckungsvoraussetzungen Zweifel, teilt es dies dem Gläubiger mit
-und führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger
-die Ausfertigung des Vollstreckungsbescheides übermittelt oder die
-übrigen Vollstreckungsvoraussetzungen nachgewiesen hat.
+(2) Kann das Gericht anhand der übermittelten elektronischen Dokumente
+nicht zweifelsfrei feststellen, dass die Voraussetzungen der
+Zwangsvollstreckung vorliegen, teilt es dies dem Antragsteller mit und
+fordert die für die zweifelsfreie Feststellung erforderlichen
+Dokumente als elektronische Dokumente oder als Schriftstücke an.
 
-(3) (weggefallen)
+(3) Übermittelt der Antragsteller Schriftstücke nach Absatz 1 Satz 1
+Nummer 1 bis 3 als elektronische Dokumente, so hat er dem Gericht zu
+versichern, dass
+
+1.  die übermittelten elektronischen Dokumente jeweils bildlich und
+    inhaltlich mit den Schriftstücken übereinstimmen und
+
+
+2.  die Forderung in Höhe des Vollstreckungsantrags noch besteht.
+
+
+
+
+(4) Bestehen die in Absatz 1 Satz 1 Nummer 1 bis 3 genannten
+Schriftstücke nicht mehr oder treten Änderungen an ihnen auf, nachdem
+sie als elektronische Dokumente übermittelt worden sind, hat der
+Antragsteller
+
+1.  das Gericht hierüber unverzüglich zu informieren und
+
+
+2.  die geänderten Schriftstücke in elektronische Dokumente zu übertragen
+    und diese dem Gericht zu übermitteln.
+
+
+
+Das Gericht darf die ursprünglich übermittelten elektronischen
+Dokumente der Entscheidung über den Vollstreckungsantrag nicht mehr
+zugrunde legen, nachdem die Information nach Satz 1 Nummer 1 erfolgt
+ist.
 
 
 ###### § 830 Pfändung einer Hypothekenforderung
@@ -15398,7 +15569,7 @@ Schuldbetrag zu hinterlegen hat.
 
 
 ###### § 840 Erklärungspflicht des Drittschuldners
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104606125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104607126)
 
 (1) Auf Verlangen des Gläubigers hat der Drittschuldner binnen zwei
 Wochen, von der Zustellung des Pfändungsbeschlusses an gerechnet, dem
@@ -15429,11 +15600,9 @@ Gläubiger zu erklären:
 
 
 
-(2) Die Aufforderung zur Abgabe dieser Erklärungen muss in die
-Zustellungsurkunde aufgenommen werden; bei Zustellungen nach § 193a
-muss die Aufforderung als elektronisches Dokument zusammen mit dem
-Pfändungsbeschluss übermittelt werden. Der Drittschuldner haftet dem
-Gläubiger für den aus der Nichterfüllung seiner Verpflichtung
+(2) Die Aufforderung zur Abgabe dieser Erklärungen muss zusammen mit
+dem Pfändungsbeschluss übermittelt werden. Der Drittschuldner haftet
+dem Gläubiger für den aus der Nichterfüllung seiner Verpflichtung
 entstehenden Schaden.
 
 (3) Die Erklärungen des Drittschuldners können innerhalb der in Absatz
@@ -16153,7 +16322,7 @@ Zwangsvollstreckung nach Absatz 1 vorliegen.
 
 
 ###### § 851c Pfändungsschutz bei Altersrenten
-[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159202125)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159203126)
 
 (1) Ansprüche auf Leistungen, die auf Grund von Verträgen gewährt
 werden, dürfen nur wie Arbeitseinkommen gepfändet werden, wenn
@@ -16198,15 +16367,16 @@ unterliegen nicht der Pfändung, soweit sie
 
 
 Die in Satz 1 genannten Beträge werden jeweils zum 1. Juli eines jeden
-fünften Jahres entsprechend der Entwicklung auf dem Kapitalmarkt, des
-Sterblichkeitsrisikos und der Höhe der Pfändungsfreigrenze angepasst
-und die angepassten Beträge vom Bundesministerium der Justiz und für
-Verbraucherschutz in der Pfändungsfreigrenzenbekanntmachung im Sinne
-des § 850c Absatz 4 Satz 1 bekannt gemacht. Übersteigt der
-Rückkaufwert der Alterssicherung den unpfändbaren Betrag, sind drei
-Zehntel des überschießenden Betrags unpfändbar. Satz 3 gilt nicht für
-den Teil des Rückkaufwerts, der den dreifachen Wert des in Satz 1
-Nummer 2 genannten Betrags übersteigt.
+fünften Jahres, erstmals zum 1. Juli 2027, entsprechend der
+Entwicklung auf dem Kapitalmarkt, dem Sterblichkeitsrisiko und der
+Höhe der Pfändungsfreigrenze angepasst und die angepassten Beträge
+werden vom Bundesministerium der Justiz und für Verbraucherschutz in
+der Pfändungsfreigrenzenbekanntmachung im Sinne des § 850c Absatz 4
+Satz 1 bekannt gemacht. Übersteigt der Rückkaufwert der
+Alterssicherung den unpfändbaren Betrag, sind drei Zehntel des
+überschießenden Betrags unpfändbar. Satz 3 gilt nicht für den Teil des
+Rückkaufwerts, der den dreifachen Wert des in Satz 1 Nummer 2
+genannten Betrags übersteigt.
 
 (3) § 850e Nr. 2 und 2a gilt entsprechend.
 

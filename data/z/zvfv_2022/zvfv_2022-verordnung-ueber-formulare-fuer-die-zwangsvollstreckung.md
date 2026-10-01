@@ -112,7 +112,7 @@ abweichenden Formular gemacht.
 
 
 ## § 3 Abweichungen von den Formularen
-[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000301131)
 
 (1) Abweichungen von den Formularen sind ausschließlich zulässig
 
@@ -126,9 +126,9 @@ abweichenden Formular gemacht.
         sowie
 
 
-    b)  die Zuordnung von Text zu den jeweiligen Sinneinheiten, die durch
-        einen mit einem Buchstaben versehenen und grau hinterlegten Balken
-        gekennzeichnet sind (Module).
+    b)  die Zuordnung von Text zu den jeweiligen Sinneinheiten, die durch eine
+        mit einem Buchstaben versehene eckige Klammer gekennzeichnet sind
+        (Module).
 
 
 
@@ -250,17 +250,24 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Vollstreckungsauftrag an Gerichtsvollzieher
-[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000701125)
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000702131)
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 3 – 10)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 3 – 10)
+
+
+
+
+
+
 
 
 (zu § 1 Absatz 2)
 
 ## Anlage 2 Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
-[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000801125)
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000802131)
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 11 – 13)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 11 – 13)
+
 
 
 (zu § 1 Absatz 2)
@@ -274,9 +281,10 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 3)
 
 ## Anlage 4 Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
-[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001001125)
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001002131)
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 20 – 22)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 14 – 16)
+
 
 
 (zu § 1 Absatz 3)

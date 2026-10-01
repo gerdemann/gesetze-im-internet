@@ -3302,7 +3302,7 @@ die Vollstreckung gilt § 69 sinngemäß.
 
 
 #### § 151
-[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016601301)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016602126)
 
 (1) Soll gegen den Bund, ein Land, einen Gemeindeverband, eine
 Gemeinde, eine Körperschaft, eine Anstalt oder Stiftung des
@@ -3331,6 +3331,11 @@ der Kosten für vorläufig vollstreckbar erklärt werden.
 Ausfertigungen des Urteils ohne Tatbestand und ohne
 Entscheidungsgründe erteilt werden, deren Zustellung in den Wirkungen
 der Zustellung eines vollständigen Urteils gleichsteht.
+
+(5) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 62 Absatz 2
+Satz 1 und 2 Nummer 3 bis 5 Genannten treten.
 
 
 #### § 152

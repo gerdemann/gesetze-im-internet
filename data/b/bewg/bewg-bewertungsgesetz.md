@@ -2174,12 +2174,14 @@ ist.
 
 
 ###### § 179 Bewertung der unbebauten Grundstücke
-[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024202123)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024203123)
 
 Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer
 Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die
 Bodenrichtwerte sind von den Gutachterausschüssen nach dem
-Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der
+Baugesetzbuch zu ermitteln, zu veröffentlichen und nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+elektronisch an die zuständigen Finanzbehörden zu übermitteln. Bei der
 Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom
 Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln
 war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt,

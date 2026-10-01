@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 G v. 25.3.2026 I Nr. 81
 
+Änderung durch
+:   Art. 2 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 25.9.2026 I Nr. 275 mWv 30.1.2027 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 10 G v. 25.9.2026 I Nr. 275 mWv 30.1.2027 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des
 Europäischen Parlaments und des Rates vom 25. November 2009 betreffend
 die Aufnahme und Ausübung der Versicherungs- und der

@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   1994-10-25
 
 Fundstelle
-:   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
+:   BGBl I: 1994, 3082 (1995 I 156; 1996, 682)
 
 Zuletzt geändert durch
 :   Art. 14 G v. 20.5.2026 I Nr. 152
@@ -2779,7 +2779,7 @@ Ausfertigungen vermerkt.
 
 
 #### § 81 Vertretung, Vollmacht
-[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009202360)
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009203129)
 
 (1) Die Beteiligten können vor dem Bundespatentgericht den
 Rechtsstreit selbst führen. § 96 bleibt unberührt.
@@ -2829,7 +2829,9 @@ eine Frist bestimmen.
 (6) Der Mangel der Vollmacht kann in jeder Lage des Verfahrens geltend
 gemacht werden. Das Bundespatentgericht hat den Mangel der Vollmacht
 von Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein
-Rechtsanwalt oder ein Patentanwalt auftritt.
+Rechtsanwalt oder ein Patentanwalt auftritt. Satz 2 gilt entsprechend
+für das jeweils zuständige Vollstreckungsorgan in Verfahren über die
+Vollstreckung von Entscheidungen des Bundespatentgerichts.
 
 
 #### § 81a Verfahrenskostenhilfe
@@ -2844,7 +2846,7 @@ Patentgesetzes entsprechend anzuwenden.
 
 
 #### § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
-[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009304360)
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009305129)
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
 Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und
@@ -2861,6 +2863,11 @@ nur statt, soweit dieses Gesetz sie zuläßt.
 (3) Für die Gewährung der Akteneinsicht an dritte Personen ist § 62
 Absatz 1 bis 4 entsprechend anzuwenden. Über den Antrag entscheidet
 das Bundespatentgericht.
+
+(4) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 81 Absatz 2
+Satz 1 Genannten treten.
 
 
 ### Abschnitt 6 - Verfahren vor dem Bundesgerichtshof

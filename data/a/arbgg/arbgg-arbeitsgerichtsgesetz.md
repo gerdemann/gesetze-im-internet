@@ -2130,7 +2130,7 @@ vor Ablauf von sechs Monaten seit Erhebung der ersten Klage statt.
 
 
 ##### § 62 Zwangsvollstreckung
-[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008803311)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008804126)
 
 (1) Urteile der Arbeitsgerichte, gegen die Einspruch oder Berufung
 zulässig ist, sind vorläufig vollstreckbar. Macht der Beklagte
@@ -2151,6 +2151,11 @@ Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche
 Verhandlung ergehen. Eine in das Schutzschriftenregister nach § 945a
 Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch
 als bei allen Arbeitsgerichten der Länder eingereicht.
+
+(3) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 11 Absatz 2
+Satz 1 und 2 Nummer 3 bis 5 Genannten treten.
 
 
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen

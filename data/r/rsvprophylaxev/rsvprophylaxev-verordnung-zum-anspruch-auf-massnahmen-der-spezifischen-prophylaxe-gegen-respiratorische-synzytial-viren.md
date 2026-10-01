@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 278
 
+Geändert durch
+:   Art. 1 V v. 25.9.2026 I Nr. 279
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000100000)
@@ -29,12 +32,13 @@ Krankenkassen:
 
 
 ## § 1 Prophylaxe gegen Respiratorische Synzytial Viren
-[Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000200000)
+[Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000201126)
 
 (1) Versicherte, die das erste Lebensjahr noch nicht vollendet haben,
 haben Anspruch auf eine einmalige Versorgung mit Arzneimitteln, die
-den monoklonalen Antikörper Nirsevimab enthalten, zur Prophylaxe gegen
-Respiratorische Synzytial Viren.
+den monoklonalen Antikörper Nirsevimab oder den monoklonalen
+Antikörper Clesrovimab enthalten, zur Prophylaxe gegen Respiratorische
+Synzytial Viren.
 
 (2) Der Anspruch nach Absatz 1 umfasst nur die Versorgung mit
 Arzneimitteln, die durch die zuständige Bundesoberbehörde zugelassen

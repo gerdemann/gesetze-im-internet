@@ -115,7 +115,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Beratungsangebote, Finanzierung
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000301131)
 
 (1) Das Bundesministerium für Arbeit und Soziales finanziert
 bundesweit ergänzende, niedrigschwellige Beratungsangebote zu
@@ -134,15 +134,18 @@ berücksichtigen, wenn dies für eine ausreichende Abdeckung an
 regionalen Beratungsangeboten erforderlich ist. In diesem Fall ist von
 den Trägern der Beratungsangebote eine organisatorische, finanzielle
 und wirtschaftliche Unabhängigkeit der ergänzenden Teilhabeberatung
-von den Bereichen der Leistungserbringung nachzuweisen.
+von den Bereichen der Leistungserbringung nachzuweisen. Für die
+Beurteilung der Leistungserbringereigenschaft ist der Zeitraum der
+beantragten Zuschussfinanzierung maßgeblich.
 
 
 ## § 2 Beratung, Unabhängigkeit
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000401131)
 
 (1) Das Beratungsangebot soll Ratsuchenden insbesondere im Vorfeld und
 während der Beantragung konkreter Leistungen die notwendige
-Orientierungs-, Planungs- und Entscheidungshilfe geben.
+Orientierungs-, Planungs- und Entscheidungshilfe geben. § 3 des
+Rechtsdienstleistungsgesetzes bleibt unberührt.
 
 (2) Die Inanspruchnahme der Beratung ist für die Ratsuchenden
 unentgeltlich. Sie setzt weder eine regionale Anbindung an ein
@@ -154,18 +157,13 @@ verpflichtet. In der Beratung sollen soweit wie möglich Menschen mit
 Behinderungen und von Behinderung bedrohte Menschen sowie deren
 Angehörige als Beraterinnen und Berater tätig werden.
 
-(4) Die Beratungsangebote leisten keine rechtliche Prüfung von
-Einzelfällen sowie keine Begleitung in Widerspruchs- und
-Klageverfahren.
-
 
 ## § 3 Finanzierung der Beratungsangebote, Verteilungsschlüssel
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000500000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000501131)
 
 (1) Wird die Anzahl der dem Gebiet eines Landes zugeordneten
-Vollzeitäquivalente nicht ausgeschöpft, ist den antragstellenden
-Trägern der Beratungsangebote, die die Voraussetzungen nach § 8
-erfüllen, ein Zuschuss zu gewähren.
+Vollzeitäquivalente nicht ausgeschöpft, ist den Antragstellern, die
+die Voraussetzungen nach § 8 erfüllen, ein Zuschuss zu gewähren.
 
 (2) Die Vollzeitäquivalente verteilen sich wie folgt:
 
@@ -356,7 +354,8 @@ Bezirkes der Stadtstaaten pro zu bewilligendem Vollzeitäquivalent
 (4) Der Zuschuss pro Beratungsangebot umfasst mindestens ein
 Vollzeitäquivalent und ist auf maximal drei Vollzeitäquivalente
 begrenzt. Ein Vollzeitäquivalent entspricht einer wöchentlichen
-Arbeitszeit von 39 Stunden.
+Arbeitszeit von 39 Stunden. Bundesweit ist der Zuschuss für einen
+Antragsteller auf maximal 15 Vollzeitäquivalente beschränkt.
 
 
 ## § 4 Gegenstand und Höhe des Zuschusses pro Vollzeitäquivalent
@@ -378,7 +377,7 @@ besserstellen als vergleichbare Bundesbedienstete.
 
 
 ## § 6 Sachausgaben
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000800000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000801131)
 
 (1) Für Sachausgaben kann ein Zuschuss gewährt werden für:
 
@@ -390,6 +389,8 @@ besserstellen als vergleichbare Bundesbedienstete.
 2.  Verwaltungsausgaben in Höhe einer Jahrespauschale von 10 750 Euro je
     vollem Kalenderjahr und Vollzeitäquivalent oder anteilig in Höhe eines
     Zwölftels der Jahrespauschale für jeden vollen Monat der Bewilligung,
+    wobei vorübergehende Vakanzen von bis zu sechs Wochen unbeachtlich
+    sind,
 
 
 3.  erforderliche Ausgaben für besondere Bedarfslagen der Ratsuchenden, um
@@ -409,22 +410,24 @@ besserstellen als vergleichbare Bundesbedienstete.
 
 
 6.  erforderliche Ausgaben im Zusammenhang mit der Qualifizierung und
-    Weiterbildung der Beraterinnen und Berater,
+    Fortbildung der Beraterinnen und Berater,
 
 
 7.  erforderliche Ausgaben für Räume zur Durchführung der Beratung,
 
 
-8.  Ausgaben für regionale Öffentlichkeitsarbeit bis zur Höhe von 1 000
-    Euro pro vollem Kalenderjahr und Vollzeitäquivalent oder anteilig bis
-    zur Höhe eines Zwölftels des Jahreshöchstbetrages für jeden vollen
-    Monat der Bewilligung.
+8.  Ausgaben für regionale Öffentlichkeitsarbeit in Höhe einer
+    Jahrespauschale von 1 000 Euro je vollem Kalenderjahr und
+    Vollzeitäquivalent oder anteilig in Höhe eines Zwölftels der
+    Jahrespauschale für jeden vollen Monat der Bewilligung.
 
 
 
 
-(2) Sachausgaben nach Absatz 1 Nummer 3, 4, 6 und 7 sind bis zu einer
-Überschreitung von 20 Prozent gegenseitig deckungsfähig.
+(2) Sachausgaben nach Absatz 1 Nummer 3 bis 7 sowie Personalausgaben
+nach § 5 Satz 1 sind bis zu einer Überschreitung von 20 Prozent
+gegenseitig sowie durch durch Einsparungen bei den Ausgaben nach § 6
+Absatz 1 Nummer 2 deckungsfähig.
 
 
 ## § 7 Antragsberechtigte
@@ -524,7 +527,7 @@ entscheidet das Los.
 
 
 ## § 10 Zuständigkeit, Antragsverfahren, Ausschlussfrist
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001200000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001201131)
 
 (1) Für die Gewährung des Zuschusses ist ein Antrag erforderlich. Der
 Antrag ist schriftlich oder elektronisch bei der zuständigen Stelle zu
@@ -539,23 +542,32 @@ zuständigen Landesbehörden zugeleitet. Ihnen wird Gelegenheit zur
 Stellungnahme innerhalb einer Frist von sechs Wochen gegeben.
 
 (3) Der Antrag auf Zuteilung ist bis zum 31. März des Kalenderjahres
-vor Beginn der jeweiligen Bewilligungsperiode zu stellen. Wird die
-Anzahl der Vollzeitäquivalente je Land im Verlauf der
+vor Beginn der jeweiligen Bewilligungsperiode zu stellen.
+Erweiterungen des Antrags und Ergänzungen der erforderlichen Angaben
+inklusive der Angaben über Anzahl und Lage der Standorte der
+vorgesehenen Beratungstätigkeit sind nach Ablauf des in Satz 1
+genannten Zeitpunkts nicht mehr zulässig.
+
+(4) Wird die Anzahl der Vollzeitäquivalente je Land im Verlauf der
 Bewilligungsperiode nicht ausgeschöpft, kann für das betreffende Land
 ein Antrag auf Zuteilung bis zum 31. März eines Kalenderjahres für die
-Restlaufzeit der Bewilligungsperiode gestellt werden.
+Restlaufzeit der Bewilligungsperiode gestellt werden. Anteile geringer
+als ein Zehntel eines Vollzeitäquivalents können von der zuständigen
+Stelle außerhalb dieses Bewilligungs- und Zuteilungsverfahrens
+vergeben werden.
 
 
 ## § 11 Gewährung und Auszahlung
-[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001300000)
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001301131)
 
 (1) Die zuständige Stelle entscheidet über die Gewährung des
-Zuschusses durch Verwaltungsakt. Der Zuschuss kann unter Auflagen und
-Bedingungen erteilt werden. Der Zuschuss kann unter dem Vorbehalt des
-Widerrufs erteilt werden, wenn eine abschließende Beurteilung des
-Antrags noch nicht möglich ist.
+Zuschusses durch Verwaltungsakt. Der Zuschuss ist im Wege der
+Einzelrechtsnachfolge nicht übertragbar.
 
-(2) Die Auszahlung des Zuschusses erfolgt in Anteilen und auf
+(2) Der Zuschuss kann unter Auflagen und Bedingungen erteilt werden.
+Er kann unter dem Vorbehalt des Widerrufs vorläufig erteilt werden.
+
+(3) Die Auszahlung des Zuschusses erfolgt in Anteilen und auf
 Anforderung des jeweiligen Beratungsangebotes. Die Anteile des
 Zuschusses dürfen nur insoweit und nicht eher angefordert werden, als
 sie innerhalb von drei Monaten nach der Auszahlung für fällige

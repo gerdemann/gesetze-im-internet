@@ -771,7 +771,7 @@ bestehen, wieder eingeschränkt werden.
 
 
 ### § 29
-[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003802311)
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003803131)
 
 (1) Eine Eintragung soll nur vorgenommen werden, wenn die
 Eintragungsbewilligung oder die sonstigen zu der Eintragung
@@ -787,6 +787,13 @@ Eintragung vorgenommen werden soll, sind zu unterschreiben und mit
 Siegel oder Stempel zu versehen. Anstelle der Siegelung kann
 maschinell ein Abdruck des Dienstsiegels eingedruckt oder aufgedruckt
 werden.
+
+(4) Der Form des Absatzes 1 genügt auch der beglaubigte Ausdruck oder
+die beglaubigte Abschrift eines elektronischen Dokuments, das den
+Voraussetzungen des § 137 Absatz 1 entspricht. Der Form des Absatzes 3
+Satz 1 genügt auch der beglaubigte Ausdruck oder die beglaubigte
+Abschrift eines elektronischen Dokuments, das den Voraussetzungen des
+§ 137 Absatz 2 entspricht.
 
 
 ### § 29a

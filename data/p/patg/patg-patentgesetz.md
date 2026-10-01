@@ -2922,7 +2922,7 @@ vermerkt.
 
 
 #### § 97
-[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011501377)
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011502129)
 
 (1) Die Beteiligten können vor dem Patentgericht den Rechtsstreit
 selbst führen. § 25 bleibt unberührt.
@@ -2971,7 +2971,9 @@ Frist bestimmen.
 (6) Der Mangel der Vollmacht kann in jeder Lage des Verfahrens geltend
 gemacht werden. Das Patentgericht hat den Mangel der Vollmacht von
 Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein
-Rechtsanwalt oder ein Patentanwalt auftritt.
+Rechtsanwalt oder ein Patentanwalt auftritt. Satz 2 gilt entsprechend
+für das jeweils zuständige Vollstreckungsorgan in Verfahren über die
+Vollstreckung von Entscheidungen des Patentgerichts.
 
 
 #### § 98
@@ -2981,7 +2983,7 @@ Rechtsanwalt oder ein Patentanwalt auftritt.
 
 
 #### § 99
-[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011701307)
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011702129)
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
 Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die
@@ -2998,6 +3000,11 @@ der Nichtigkeit des Patents wird nicht gewährt, wenn und soweit der
 Patentinhaber ein entgegenstehendes schutzwürdiges Interesse dartut.
 
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
+
+(5) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 97 Absatz 2
+Satz 1 Genannten treten.
 
 
 ## Sechster Abschnitt - Verfahren vor dem Bundesgerichtshof

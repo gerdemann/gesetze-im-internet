@@ -4254,7 +4254,7 @@ für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 #### § 167
-[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018901308)
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018902126)
 
 (1) Soweit sich aus diesem Gesetz nichts anderes ergibt, gilt für die
 Vollstreckung das Achte Buch der Zivilprozeßordnung entsprechend.
@@ -4262,6 +4262,12 @@ Vollstreckungsgericht ist das Gericht des ersten Rechtszugs.
 
 (2) Urteile auf Anfechtungs- und Verpflichtungsklagen können nur wegen
 der Kosten für vorläufig vollstreckbar erklärt werden.
+
+(3) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 67 Absatz 2
+Satz 1 genannten Rechtsanwälte und die in § 67 Absatz 2 Satz 2 Nummer
+3 und 3a Genannten treten.
 
 
 #### § 168

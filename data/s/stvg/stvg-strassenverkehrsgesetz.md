@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.5.2026 I Nr. 142
+:   Art. 1 G v. 25.9.2026 I Nr. 276
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
@@ -3051,7 +3051,7 @@ Halter überlassen worden ist.
 
 
 ### § 8 Ausnahmen
-[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001804123)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001805119)
 
 Die Vorschriften des § 7 gelten nicht,
 
@@ -3059,7 +3059,8 @@ Die Vorschriften des § 7 gelten nicht,
     ebener Bahn mit keiner höheren Geschwindigkeit als 20 Kilometer in der
     Stunde fahren kann, es sei denn, es handelt sich um ein Kraftfahrzeug
     mit autonomer Fahrfunktion im Sinne des § 1d Absatz 1 und 2, das sich
-    im autonomen Betrieb befindet,
+    im autonomen Betrieb befindet, oder um ein Kraftfahrzeug im Sinne des
+    § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung,
 
 
 2.  wenn der Verletzte bei dem Betrieb des Kraftfahrzeugs tätig war oder
@@ -7682,7 +7683,7 @@ amtlichen Informationen abschließend.
 
 
 ### § 65 Übergangsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009715123)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009717119)
 
 (1) Registerauskünfte, Führungszeugnisse, Gutachten und
 Gesundheitszeugnisse, die sich am 1. Januar 1999 bereits in den Akten
@@ -7916,7 +7917,9 @@ das Fahreignungs-Bewertungssystem nach folgenden Maßgaben überführt:
 
 
 
-(4) (weggefallen)
+(4) Auf Unfälle, die sich vor dem 1. Oktober 2026 ereignet haben, ist
+§ 8 Nummer 1 in seiner bis zum Ablauf des 30. September 2026 geltenden
+Fassung weiter anzuwenden.
 
 (5) Bis zum Erlass einer Rechtsverordnung nach § 6f Absatz 2,
 längstens bis zum Ablauf des 31. Juli 2018, gelten die in den
