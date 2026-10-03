@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1648
 
+Geändert durch
+:   Art. 2 G v. 30.9.2026 I Nr. 285
+
 
 ## § 1 Anwendungsbereich
 [Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000100000)
@@ -52,7 +55,7 @@ in diesem Gesetz etwas anderes bestimmt ist.
 
 
 ## § 3 Anwendbarkeit von Vorschriften der Strafprozessordnung über das Ermittlungsverfahren
-[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000301131)
 
 (1) Wenn die Europäische Staatsanwaltschaft nach den Artikeln 22 und
 23 der Verordnung (EU) 2017/1939 zuständig ist und gemäß Artikel 25
@@ -60,17 +63,7 @@ dieser Verordnung die Verfolgung übernommen hat, sind die §§ 153c, 160
 Absatz 1 und § 170 Absatz 2 Satz 1 der Strafprozessordnung nicht
 anzuwenden.
 
-(2) Soweit die Vorschriften der Strafprozessordnung hinsichtlich einer
-Ermittlungsmaßnahme eine gerichtliche Anordnung oder Bestätigung
-vorsehen, ist bei grenzüberschreitenden Maßnahmen, die gemäß Artikel
-31 Absatz 3 der Verordnung (EU) 2017/1939 in einem anderen an der
-Errichtung der Europäischen Staatsanwaltschaft beteiligten
-Mitgliedstaat durchgeführt werden sollen, eine solche gerichtliche
-Anordnung oder Bestätigung bei einem deutschen Gericht nur einzuholen,
-wenn nach dem Recht des anderen Mitgliedstaates eine solche
-gerichtliche Anordnung oder Bestätigung nicht erforderlich ist.
-
-(3) Soweit nach den Vorschriften der Strafprozessordnung die
+(2) Soweit nach den Vorschriften der Strafprozessordnung die
 gerichtliche Zuständigkeit an den Sitz der zuständigen
 Staatsanwaltschaft anknüpft, gilt als Sitz der Europäischen
 Staatsanwaltschaft der Dienstort des gemäß Artikel 13 Absatz 1 der
@@ -82,14 +75,14 @@ Europäische Staatsanwalt im Einklang mit Artikel 28 Absatz 4 der
 Verordnung (EU) 2017/1939 entschieden hat, die Leitung des Verfahrens
 selbst zu übernehmen.
 
-(4) § 171 Satz 2 der Strafprozessordnung ist mit der Maßgabe
+(3) § 171 Satz 2 der Strafprozessordnung ist mit der Maßgabe
 anzuwenden, dass der Antragsteller, der zugleich Verletzter ist, über
 die Möglichkeiten der Anfechtung gemäß § 172 Absatz 2 der
 Strafprozessordnung und gemäß Artikel 42 Absatz 3 der Verordnung (EU)
 2017/1939 sowie die dafür jeweils vorgesehenen Fristen zu belehren
 ist.
 
-(5) Die §§ 172 bis 177 der Strafprozessordnung sind nicht anzuwenden,
+(4) Die §§ 172 bis 177 der Strafprozessordnung sind nicht anzuwenden,
 soweit dem Verletzten gemäß Artikel 42 Absatz 3 der Verordnung (EU)
 2017/1939 der Rechtsweg zum Europäischen Gerichtshof eröffnet ist.
 Soweit nach Artikel 42 Absatz 1 in Verbindung mit Absatz 3 der
@@ -106,13 +99,13 @@ kann.
 
 
 ## § 4 Anwendbarkeit datenschutzrechtlicher Bestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000400000)
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000401131)
 
 (1) § 161 Absatz 2 und die §§ 483 bis 491 der Strafprozessordnung sind
 auf die Verarbeitung personenbezogener Daten durch die Europäische
 Staatsanwaltschaft nicht anzuwenden.
 
-(2) § 479 Absatz 5 Satz 2 und 3 der Strafprozessordnung ist nicht
+(2) § 479 Absatz 4 Satz 2 und 3 der Strafprozessordnung ist nicht
 anzuwenden in Fällen, in denen die Europäische Staatsanwaltschaft
 Empfänger der übermittelten personenbezogenen Daten ist.
 
