@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 4 G v. 29.3.2026 I Nr. 84
+:   Art. 4 G v. 30.9.2026 I Nr. 286
 
 
 ## Eingangsformel
@@ -319,14 +319,15 @@ anderes bestimmt ist, das Verwaltungsverfahrensgesetz anzuwenden.
 
 
 ### § 5a Öffentliche Bekanntgabe
-[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023900124)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023901360)
 
 (1) Entscheidungen, die in Ausführung dieses Gesetzes ergehen und auf
-die § 1 Absatz 1 Satz 1 Nummer 1, 5 oder 6 des Umwelt-
-Rechtsbehelfsgesetzes Anwendung findet, können von der zuständigen
-Behörde auch öffentlich bekannt gegeben werden. Vorschriften über die
-Bekanntgabe einer Entscheidung mittels Zustellung sowie andere
-Vorschriften über die öffentliche Bekanntgabe bleiben unberührt.
+die § 1 Absatz 1 Satz 1 Nummer 1 oder § 1 Absatz 1 Satz 1a Nummer 3
+oder 6 des Umwelt-Rechtsbehelfsgesetzes Anwendung findet, können von
+der zuständigen Behörde auch öffentlich bekannt gegeben werden.
+Vorschriften über die Bekanntgabe einer Entscheidung mittels
+Zustellung sowie andere Vorschriften über die öffentliche Bekanntgabe
+bleiben unberührt.
 
 (2) Die öffentliche Bekanntgabe wird dadurch bewirkt, dass der
 verfügende Teil der Entscheidung und die Rechtsbehelfsbelehrung im

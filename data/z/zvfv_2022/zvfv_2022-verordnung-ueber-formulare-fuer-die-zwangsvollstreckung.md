@@ -255,19 +255,12 @@ ab dem 1. Oktober 2025 gestellt werden.
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 3 – 10)
 
 
-
-
-
-
-
-
 (zu § 1 Absatz 2)
 
 ## Anlage 2 Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
 [Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000802131)
 
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 11 – 13)
-
 
 
 (zu § 1 Absatz 2)
@@ -284,7 +277,6 @@ ab dem 1. Oktober 2025 gestellt werden.
 [Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001002131)
 
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 14 – 16)
-
 
 
 (zu § 1 Absatz 3)
