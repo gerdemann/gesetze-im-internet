@@ -15,3 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 05.10.2026 B1
 
+
+## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2027/BJNR627800026.html#BJNR627800026BJNE000100000)
+
+Der Kostensatz nach § 20 Satz 1 der
+Verwaltungskostenfeststellungsverordnung beträgt vom 1. Januar 2027 an
+je Mitarbeiterin und Mitarbeiter der gemeinsamen Einrichtungen
+monatlich 301,11 Euro.
+
+
+## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2027/BJNR627800026.html#BJNR627800026BJNE000200000)
+
+Bundesministerium für Arbeit und Soziales
+
