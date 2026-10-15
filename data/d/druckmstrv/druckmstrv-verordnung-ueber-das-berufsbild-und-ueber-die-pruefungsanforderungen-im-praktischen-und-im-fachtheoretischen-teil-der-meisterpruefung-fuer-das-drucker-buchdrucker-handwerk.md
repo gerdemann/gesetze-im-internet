@@ -19,6 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 4 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 8a idF d. Art. 2 V v. 8.10.2026 I Nr. 290 mWv 1.11.2026
+
+Ersetzt durch
+:   V 7110-3-224 v. 8.10.2026 I Nr. 290 (PrintMedMstrV)
+
 
 
 ## Eingangsformel
@@ -518,6 +524,12 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 ### § 8 (weggefallen)
 [Direktlink](https://www.gesetze-im-internet.de/druckmstrv/BJNR011480984.html#BJNR011480984BJNE001201128)
 
+
+
+### § 8a Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/druckmstrv/BJNR011480984.html#BJNR011480984BJNE001500128)
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
 
 
 ### § 9 Inkrafttreten

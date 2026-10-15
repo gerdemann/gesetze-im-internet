@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 58 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 10a idF d. Art. 5 V v. 8.10.2026 I Nr. 290 mWv 1.11.2026
+
+Ersetzt durch
+:   V 7110-3-224 v. 8.10.2026 I Nr. 290 (PrintMedMstrV)
+
 
 
 ## Eingangsformel
@@ -477,8 +483,14 @@ Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/siebdrmstrv_2006/BJNR212600006.html#BJNR212600006BJNE001200000)
+## § 10a Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/siebdrmstrv_2006/BJNR212600006.html#BJNR212600006BJNE001300128)
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
+
+## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/siebdrmstrv_2006/BJNR212600006.html#BJNR212600006BJNE001201128)
 
 Diese Verordnung tritt am 1. Dezember 2006 in Kraft.
 

@@ -19,6 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 16 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 7a idF d. Art. 3 V v. 8.10.2026 I Nr. 290 mWv 1.11.2026
+
+Ersetzt durch
+:   V 7110-3-224 v. 8.10.2026 I Nr. 290 (PrintMedMstrV)
+
 
 
 ## Eingangsformel
@@ -394,6 +400,12 @@ unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung.
+
+
+### § 7a Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flexmstrv/BJNR201400994.html#BJNR201400994BJNE001300128)
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
 
 
 ### § 8 Inkrafttreten
