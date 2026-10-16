@@ -3900,8 +3900,6 @@ eines Vertragsarztes erfolgt oder auf Empfehlung eines Krankenhauses
 im Anschluss an eine psychiatrische, psychosomatische oder
 psychotherapeutische Krankenhausbehandlung.
 
-(4) (weggefallen)
-
 
 ##### § 29 Kieferorthopädische Behandlung
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011206124)
@@ -5267,8 +5265,6 @@ Reserveantibiotikums unter Berücksichtigung der Auswirkungen auf die
 Resistenzsituation festzulegen. Dazu holt er eine Stellungnahme beim
 Robert Koch-Institut ein, die im Einvernehmen mit dem Bundesinstitut
 für Arzneimittel und Medizinprodukte zu erstellen ist.
-
-(1d) (weggefallen)
 
 (2) Der Gemeinsame Bundesausschuss prüft die Nachweise nach Absatz 1
 Satz 3 und entscheidet, ob er die Nutzenbewertung selbst durchführt

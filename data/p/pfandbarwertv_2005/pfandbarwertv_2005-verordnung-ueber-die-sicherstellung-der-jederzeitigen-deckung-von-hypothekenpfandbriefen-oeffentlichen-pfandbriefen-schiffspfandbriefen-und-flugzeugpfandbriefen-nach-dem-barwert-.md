@@ -268,4 +268,15 @@ nach einem anderen geeigneten Verfahren durchführen.
 [Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Gleichzeitig treten außer Kraft:
+
+1.  die Pfandbrief-Barwertverordnung vom 19. Dezember 2003 (BGBl. I S.
+    2815) und
+
+
+2.  die Hypothekenpfandbrief-Barwertverordnung vom 19. Dezember 2003
+    (BGBl. I S. 2818).
+
+
+
 
