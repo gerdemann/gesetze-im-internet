@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 15 Nr. 1 u. 2 G v 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 15 Nr. 3 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. 1.11.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 15 Nr. 3 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
@@ -1025,7 +1025,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003912311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003918311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1144,9 +1144,8 @@ Abschnitt I
             – Behörden anderer
             Staaten und über- oder zwischenstaatliche Stellen zu Spalte A
             Buchstabe a
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
             – Auswärtiges Amt, deutsche Auslandsvertretungen und das Bundesamt für
             Auswärtige Angelegenheiten zur Aufgabenerfüllung nach § 21 Absatz 8
             des AZR-Gesetzes zu Spalte A Buchstabe a
@@ -1179,7 +1178,7 @@ Abschnitt I
             – nichtöffentliche Stellen
             zu Spalte A Buchstabe a
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-            ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+            ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
             Geldwäschegesetzes
             – Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben
             nach dem Sanktionsdurchsetzungsgesetz
@@ -1330,8 +1329,8 @@ Abschnitt I
         – sonstige Polizeivollzugsbehörden der Länder
         – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1
         des AZR-Gesetzes
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Auswärtiges Amt, deutsche Auslandsvertretungen und Bundesamt für
         Auswärtige Angelegenheiten zur Aufgabenerfüllung nach § 21 Absatz 8
         des AZR-Gesetzes
@@ -1354,7 +1353,7 @@ Abschnitt I
         – alle übrigen öffentlichen Stellen
         – Staatsangehörigkeits- und Vertriebenenbehörden
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben
         nach dem Sanktionsdurchsetzungsgesetz
@@ -1550,8 +1549,8 @@ Abschnitt I
             –   Behörden anderer Staaten, über- oder zwischenstaatliche Stellen
 
 
-            –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-                Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Auswärtiges Amt, deutsche Auslandsvertretungen und Bundesamt für
@@ -1639,7 +1638,7 @@ Abschnitt I
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-                Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
             –   Staatsangehörigkeits- und Vertriebenenbehörden
@@ -2179,8 +2178,8 @@ Abschnitt I
             –   sonstige Polizeivollzugsbehörden der Länder
 
 
-            –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-                Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Träger der Deutschen Rentenversicherung zu Spalte A Buchstabe a bis f
@@ -2216,7 +2215,7 @@ Abschnitt I
             –   Vollzugseinrichtungen
 
 
-            –   Gerichte zu Spalte A Buchstabe a bis f, h und j
+            –   Gerichte
 
 
             –   Bundesamt für Justiz zu Spalte A Buchstabe a bis f
@@ -2269,7 +2268,7 @@ Abschnitt I
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-                Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes zu
                 Spalte A Buchstabe a bis f, h und i
 
 
@@ -2309,7 +2308,7 @@ Abschnitt I
 
     *   frühere
 
-        aa)[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003912311]
+        aa)[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003918311]
  Namen
 
 
@@ -3111,8 +3110,8 @@ Abschnitt I
         – sonstige Polizeivollzugsbehörden der Länder
         – Bundesagentur für Arbeit
         – Behörden anderer Staaten, über- oder zwischenstaatliche Stellen
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Statistisches Bundesamt
         –  Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer
         Aufgaben nach dem Sanktionsdurchsetzungsgesetz
@@ -3461,9 +3460,8 @@ Abschnitt I
         –   Jugendämter und die Unterhaltsvorschussstellen
 
 
-        –   deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         –   Statistisches Bundes-
@@ -3726,9 +3724,8 @@ Abschnitt I
                 Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 
 
-            –   deutsche Auslands-
-                vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-                öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Statistisches Bun-
@@ -3790,7 +3787,7 @@ Abschnitt I
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-                Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -4140,9 +4137,7 @@ Abschnitt I
 
 
 
-    *   – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur
-        Aufgabenerfüllung nach § 23a des AZR-Gesetzes –
-
+    *
 
 *    *
     *   bb)
@@ -4162,9 +4157,7 @@ Abschnitt I
     *   (2)
 
     *
-    *   *§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des
-        AZR-Gesetzes*
-
+    *
 
 *    *
     *   aa)
@@ -4180,12 +4173,6 @@ Abschnitt I
 
 
     *
-        –   nur die zu Personen-
-            kreis (1) in Spalte D Nummer I genannten Stellen
-
-
-
-
 
 *    *
     *   bb)
@@ -4330,13 +4317,14 @@ Abschnitt I
     *
     *
     *
-    *
+    *   – wie vorstehend, mit Ausnahme der Bundesagentur für Arbeit zur
+        Aufgabenerfüllung nach § 23a des AZR-Gesetzes –
+
 
 *    *   Asyl
 
     *   (2)
 
-    *
     *
     *
 
@@ -4347,20 +4335,26 @@ Abschnitt I
     *   – wie vorstehend –
 
     *
-    *
 
 *    *   § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 2
 
     *
     *
     *
-    *
+    *   *§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des
+        AZR-Gesetzes*
+
+        –   nur die zu Personen-
+            kreis (1) in Spalte D Nummer I genannten Stellen
+
+
+
+
 
 *    *   Asyl
 
     *   (3)
 
-    *
     *
     *
 
@@ -4371,7 +4365,6 @@ Abschnitt I
     *   – wie vorsteh-
         end –
 
-    *
     *
 
 
@@ -4443,50 +4436,52 @@ Abschnitt I
         –   Ausländerbehörden
 
 
-        -   Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
+        –   Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
             zu Spalte A Buchstabe a bis h und l bis q
 
 
-        -   Bundesamt für Migration und Flüchtlinge
+        –   Bundesamt für Migration und Flüchtlinge
 
 
-        -   Bundespolizei und andere mit der polizeilichen Kontrolle des
+        –   Bundespolizei und andere mit der polizeilichen Kontrolle des
             grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A
-            Buchstabe a bis h und l bis q
+            Buchstabe a bis h
+            und l bis q
 
 
-        -   oberste Bundes- und Landesbehörden, die mit der Durchführung
+        –   oberste Bundes- und Landesbehörden, die mit der Durchführung
             ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
             betraut sind zu Spalte A Buchstabe a bis h
 
 
-        -   sonstige Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a
-            bis h und l bis q
+        –   sonstige Polizeivollzugsbehörden der Länder zu Spalte A Buchstabe a
+            bis h
+            und l bis q
 
 
-        -   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des
-            AZR-
-            Gesetzes zu Spalte A Buchstabe a bis h und l bis q
-
-
-        -   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des
+        –   Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des
             AZR-
             Gesetzes zu Spalte A Buchstabe a bis h
             und l bis q
 
 
-        -   Statistisches Bundesamt zu Spalte A Buchstabe a bis h
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten zu Spalte A Buchstabe a bis h
+            und l bis q
+
+
+        –   Statistisches Bundesamt zu Spalte A Buchstabe a bis h
 
 
 
         II)
 
         –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-            Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes zu
             Spalte A Buchstabe a bis h
 
 
-        -   für die Zuverlässigkeitsüberprüfung nach § 7 des
+        –   für die Zuverlässigkeitsüberprüfung nach § 7 des
             Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
             Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
             atomrechtliche Genehmigungs- und Aufsichtsbehörden zu Spalte A
@@ -4894,7 +4889,7 @@ Abschnitt I
 
     *
     *
-    *   *§§ 15, 17, 17a, 18e, 23 des AZR-Gesetzes*
+    *   *§§ 15, 17, 17a, 23 des AZR-Gesetzes*
 
 
 *    *   Bescheinigung über die Meldung als Asylsuchender gemäß § 63a des
@@ -4960,11 +4955,8 @@ Abschnitt I
             atomrechtliche Genehmigungs- und Aufsichtsbehörden
 
 
-        –   Meldebehörden
-
-
         –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-            Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -5117,9 +5109,8 @@ Abschnitt I
         –   Statistisches Bundesamt
 
 
-        –   deutsche Auslandsver-
-            tretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         –   für die Zuverlässigkeitsüberprüfung nach § 7 des
@@ -5129,7 +5120,7 @@ Abschnitt I
 
 
         –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-            Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -5315,17 +5306,15 @@ Abschnitt I
 
     *
     *
-        –   deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         –   Statistisches Bundesamt
 
 
-        –   Zentralstelle für Finanz-
-            transaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28
-            Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+        –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
         –   für die Zuverlässigkeits-
@@ -5497,8 +5486,8 @@ Abschnitt I
                 Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 
 
-            –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-                Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Statistisches Bundesamt zu Spalte A Buchstabe a bis k
@@ -5803,7 +5792,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003912311]
+    *[^F829919_01_BJNR069500995BJNE003918311]
    (1)
 
     *
@@ -5843,10 +5832,8 @@ Abschnitt I
     *
     *
         *
-            –   Zentralstelle für
-                Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach §
-                28
-                Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+            –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -6074,8 +6061,8 @@ Abschnitt I
 
     *
     *
-        –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-            Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         –   Statistisches Bundesamt
@@ -6083,7 +6070,7 @@ Abschnitt I
 
 
         –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-            Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes zu
             Spalte A Buchstaben e bis q
 
 
@@ -7183,9 +7170,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
                 AZR-Gesetzes
 
 
-            –   deutsche Auslands-
-                vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-                öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Statistisches
@@ -7222,7 +7208,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-                Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
             –   Behörden der Zoll-
@@ -11123,9 +11109,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             zugsbehörden der Länder
             – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1
             des AZR-Gesetzes
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
             – Statistisches Bundesamt
             – sonstige öffentliche Stellen zu Spalte A Buchstabe a bis u
 
@@ -11142,8 +11127,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – Staatsanwaltschaften
             – Vollzugseinrichtungen
             – Gerichte
-            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-            ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
+            ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
             Geldwäschegesetzes
             – Behörden der Zollverwaltung
             – Träger der Sozialhilfe und für die Durchführung des
@@ -11517,8 +11502,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
                 zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 
 
-            –   deutsche Auslandsvertretungen und andere öffentliche Stellen im
-                Visaverfahren
+            –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+                Angelegenheiten
 
 
             –   Statistisches Bundesamt
@@ -11592,7 +11577,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
 
             –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
-                Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+                Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -11789,10 +11774,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             zugsbehörden
             – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1
             des AZR-Gesetzes
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und an-
-            dere öffentliche Stellen
-            im Visaverfahren
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
             – Statistisches Bundesamt
 
 
@@ -11815,7 +11798,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – Vollzugseinrichtungen
             – Gerichte
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-            ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+            ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
             Geldwäschegesetzes
             – Behörden der Zollverwaltung
             – Träger der Sozialhilfe und für die Durchführung des
@@ -12344,8 +12327,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         betraut sind
         – sonstige Polizeivollzugsbehörden
         – Bundesagentur für Arbeit
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung nach § 7 des
         Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
         Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -12365,7 +12348,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Familienkassen
         – Statistisches Bundesamt zu Spalte A Buchstabe a bis i
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zollkriminalamt
 
@@ -12724,8 +12707,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – oberste Bundes- und Landesbehörden, die mit der Durchführung
         ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
         betraut sind
-        – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zollkriminalamt
 
@@ -12907,8 +12890,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *   – sonstige Polizeivollzugsbehörden
         – Bundesagentur für Arbeit
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung zuständige
         Luftsicherheitsbehörden nach § 7 des Luftsicherheitsgesetzes und für
         die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -13073,8 +13056,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         betraut sind
         – sonstige Polizeivollzugsbehörden
         – Bundesagentur für Arbeit
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung nach § 7 des
         Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
         Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -13094,7 +13077,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Elterngeldstellen
         – Familienkassen
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zollkriminalamt
 
@@ -13192,11 +13175,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             zugsbehörden
             – Bundesagentur für
             Arbeit
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
-            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-            ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
+            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
+            ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
             Geldwäschegesetzes
 
 
@@ -13467,13 +13449,12 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             Buchstabe a bis r
 
 
-        –   deutsche Auslandsvertretungen und andere öffentliche Stellen im
-            Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
-        –   Zentralstelle für
-            Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach §
-            28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+        –   Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer
+            Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes
 
 
         –   für die Zuverlässigkeitsüberprüfung nach § 7 des
@@ -14030,9 +14011,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             zugsbehörden der Länder
             – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1
             des AZR-Gesetzes
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         II) – für die Zuverlässig-
@@ -14060,8 +14040,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – Elterngeldstellen
             – Familienkassen
             – Zollkriminalamt
-            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-            ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+            – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
+            ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
             Geldwäschegesetzes
 
 
@@ -14193,11 +14173,11 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Jugendämter und die Unterhaltsvorschussstellen
         – Elterngeldstellen
         – Familienkassen
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Statistisches Bundesamt
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zollkriminalamt
 
@@ -14315,8 +14295,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         eigener Aufgabe betraut sind
         – sonstige Polizeivollzugsbehörden
         – Bundesagentur für Arbeit
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung nach § 7 des
         Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
         Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -14336,7 +14316,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Familienkassen
         – Statistisches Bundesamt
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zollkriminalamt
 
@@ -14543,8 +14523,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – oberste Bundes- und Landesbehörden, die mit der Durchführung
         ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
         betraut sind
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung nach § 7 des
         Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
         Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -14644,8 +14624,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe
         betraut sind
         – sonstige Polizeivollzugsbehörden
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – für die Zuverlässigkeitsüberprüfung nach § 7 des
         Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
         Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige
@@ -14793,9 +14773,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             passrechtlicher Vorschriften als eigener Aufgabe betraut sind
             – sonstige Polizeivoll-
             zugsbehörden der Länder
-            – deutsche Auslands-
-            vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere
-            öffentliche Stellen im Visaverfahren
+            – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
 
@@ -14977,10 +14956,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
 
 
@@ -15135,10 +15114,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *
     *
     *   – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
 
 
@@ -15215,8 +15194,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
 
 
 *    *   a)
@@ -15308,8 +15287,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
 
 
 *    *   a)
@@ -15403,8 +15382,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
 
 
 *    *   a)
@@ -15497,8 +15476,8 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
 
 
 *    *   a)
@@ -15588,10 +15567,10 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Gerichte
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
 
 
@@ -16210,10 +16189,10 @@ Abschnitt II
         – Staatsanwaltschaften
         – Vollzugseinrichtungen
         – Bundesagentur für Arbeit und Behörden der Zollverwaltung
-        – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-        Angelegenheiten und andere öffentliche Stellen im Visumverfahren
+        – deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+        Angelegenheiten
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung
-        ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+        ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
         Geldwäschegesetzes
         – Zentralstelle für Sanktionsdurchsetzung zur Erfüllung ihrer Aufgaben
         nach dem Sanktionsdurchsetzungsgesetz
@@ -16222,7 +16201,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003912311]
+    *[^f756180_08_BJNR069500995BJNE003918311]
    (7)
 
     *
@@ -16454,7 +16433,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003912311]
+    *[^f756180_09_BJNR069500995BJNE003918311]
    (2)
 
     *
@@ -17141,8 +17120,8 @@ Abschnitt III
             der Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 
-        –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige
-            Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+        –   deutsche Auslandsvertretungen und das Bundesamt für Auswärtige
+            Angelegenheiten
 
 
         –   Zollkriminalamt zu Spalte A
@@ -17220,9 +17199,9 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003912311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003912311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^f756180_08_BJNR069500995BJNE003918311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003918311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003912311]:     Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
+[^F829919_01_BJNR069500995BJNE003918311]:     Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
     eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
-[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003912311]: 
+[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003918311]: 
