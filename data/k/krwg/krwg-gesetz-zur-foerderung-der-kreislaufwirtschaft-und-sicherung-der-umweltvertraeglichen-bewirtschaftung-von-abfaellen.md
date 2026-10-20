@@ -25,6 +25,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 17 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 13.10.2026 I Nr. 304 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000100000)

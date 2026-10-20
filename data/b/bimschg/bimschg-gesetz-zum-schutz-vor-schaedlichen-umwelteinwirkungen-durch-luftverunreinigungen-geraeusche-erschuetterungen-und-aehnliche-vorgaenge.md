@@ -28,6 +28,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 18.6.2026 I Nr. 183 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 13.10.2026 I Nr. 304 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000103360)

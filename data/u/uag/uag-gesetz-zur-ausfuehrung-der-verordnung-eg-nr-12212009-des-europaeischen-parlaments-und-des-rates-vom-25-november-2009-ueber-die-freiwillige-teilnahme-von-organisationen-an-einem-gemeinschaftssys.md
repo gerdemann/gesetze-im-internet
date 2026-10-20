@@ -23,6 +23,9 @@ Neugefasst durch
 :   Bek. v. 4.9.2002 I 3490;
 
 Stand: zuletzt geändert Art. 17 G v. 10.8.2021 I 3436
+Änderung durch
+:   Art. 6 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG000101320)
