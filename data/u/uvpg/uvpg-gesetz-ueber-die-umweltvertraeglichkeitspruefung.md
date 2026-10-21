@@ -3030,7 +3030,7 @@ Dezember 2026 eingeleitet wurde.
 
 
 ### Anlage 1 Liste „UVP-pflichtige Vorhaben“
-[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002440129)
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002441130)
 
 (Fundstelle: BGBl. I 2021, 565 – 582;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3113,7 +3113,7 @@ und 2.
 
 *    *   1.1.1
 
-    *   mehr als 200 MW,
+    *   mehr als 300 MW,
 
     *   **X**
 
@@ -3121,7 +3121,7 @@ und 2.
 
 *    *   1.1.2
 
-    *   50 MW bis 200 MW;
+    *   50 MW bis 300 MW;
 
     *
     *   **A**
@@ -3143,9 +3143,12 @@ und 2.
 *    *   1.2.1
 
     *   Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts,
-        Brenntorf, naturbelassenem Holz, emulgiertem Naturbitumen, Heizölen,
-        ausgenommen Heizöl EL, mit einer Feuerungswärmeleistung von 1 MW bis
-        weniger als 50 MW,
+        Brenntorf, naturbelassenem Holz sowie in der eigenen Produktionsanlage
+        anfallendem Holz mit Ausnahme von Holz, das infolge einer Behandlung
+        mit Holzschutzmitteln oder infolge einer Beschichtung
+        halogenorganische Verbindungen oder Schwermetalle enthält, emulgiertem
+        Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer
+        Feuerungswärmeleistung von 1 MW bis weniger als 50 MW,
 
     *
     *   **S**
@@ -3247,7 +3250,7 @@ und 2.
 
 *    *   1.4.1
 
-    *   Heizöl EL, Dieselkraftstoff, Methanol, Ethanol, naturbelassenen
+    *   Heizöl EL, Dieselkraftstoffen, Methanol, Ethanol, naturbelassenen
         Pflanzenölen, Pflanzenölmethylestern Koksofengas, Grubengas, Stahlgas,
         Raffineriegas, Synthesegas, Erdölgas aus der Tertiärförderung von
         Erdöl, Klärgas, Biogas, naturbelassenem Erdgas, Flüssiggas, Gasen der
@@ -3259,7 +3262,7 @@ und 2.
 
 *    *   1.4.1.1
 
-    *   mehr als 200 MW,
+    *   mehr als 300 MW,
 
     *   **X**
 
@@ -3267,7 +3270,7 @@ und 2.
 
 *    *   1.4.1.2
 
-    *   50 MW bis 200 MW,
+    *   50 MW bis 300 MW,
 
     *
     *   **A**
@@ -3276,7 +3279,7 @@ und 2.
 *    *   1.4.1.3
 
     *   1 MW bis weniger als 50 MW, ausgenommen Verbrennungsmotoranlagen für
-        Bohranlagen,
+        Bohranlagen und zum Notbetrieb,
 
     *
     *   **S**
@@ -3292,7 +3295,7 @@ und 2.
 
 *    *   1.4.2.1
 
-    *   mehr als 200 MW,
+    *   mehr als 300 MW,
 
     *   **X**
 
@@ -3300,7 +3303,7 @@ und 2.
 
 *    *   1.4.2.2
 
-    *   50 MW bis 200 MW,
+    *   50 MW bis 300 MW,
 
     *
     *   **A**
@@ -3364,9 +3367,8 @@ und 2.
 
 *    *   **1.8**
 
-    *   Errichtung und Betrieb einer Anlage zur Trockendestillation von
-        Steinkohle oder Braunkohle (z. B. Kokerei, Gaswerk, Schwelerei) mit
-        einem Durchsatz von
+    *   Errichtung und Betrieb einer Anlage zur Erzeugung von Koks aus
+        Steinkohle oder Braunkohle mit einem Durchsatz von
 
     *
     *
@@ -3381,7 +3383,7 @@ und 2.
 
 *    *   1.8.2
 
-    *   weniger als 500 t je Tag, ausgenommen Holzkohlenmeiler;
+    *   weniger als 500 t je Tag;
 
     *
     *   **A**
@@ -3446,57 +3448,10 @@ und 2.
 
 *    *   **1.11**
 
-    *   Errichtung und Betrieb einer Anlage zur
+    *   (weggefallen)
 
     *
     *
-
-*    *   1.11.1
-
-    *   Erzeugung von Biogas, soweit nicht durch Nummer 8.4 erfasst, mit einer
-        Produktionskapazität von
-
-    *
-    *
-
-*    *   1.11.1.1
-
-    *   2 Mio. Normkubikmetern oder mehr Rohgas je Jahr,
-
-    *
-    *   **A**
-
-
-*    *   1.11.1.2
-
-    *   1,2 Mio. bis weniger als 2 Mio. Normkubikmetern Rohgas je Jahr,
-
-    *
-    *   **S**
-
-
-*    *   1.11.2
-
-    *   Aufbereitung von Biogas mit einer Verarbeitungskapazität von
-
-    *
-    *
-
-*    *   1.11.2.1
-
-    *   2 Mio. Normkubikmetern oder mehr Rohgas je Jahr,
-
-    *
-    *   **A**
-
-
-*    *   1.11.2.2
-
-    *   1,2 Mio. bis weniger als 2 Mio. Normkubikmetern Rohgas je Jahr;
-
-    *
-    *   **S**
-
 
 *    *   **2.**
 
@@ -3514,7 +3469,7 @@ und 2.
 
 *    *   2.1.1
 
-    *   25 ha oder mehr,
+    *   mehr als 25 ha,
 
     *   **X**
 
@@ -3522,7 +3477,7 @@ und 2.
 
 *    *   2.1.2
 
-    *   10 ha bis weniger als 25 ha,
+    *   10 ha bis 25 ha,
 
     *
     *   **A**
@@ -3539,25 +3494,53 @@ und 2.
 *    *   **2.2**
 
     *   Errichtung und Betrieb einer Anlage zur Herstellung von Zementklinkern
-        oder Zementen mit einer Produktionskapazität von
+        oder Zementen
 
     *
     *
 
 *    *   2.2.1
 
-    *   1 000 t oder mehr je Tag,
-
-    *   **X**
-
-    *
-
-*    *   2.2.2
-
-    *   weniger als 1 000 t je Tag;
+    *   mit einer Produktionskapazität von 500 t oder mehr je Tag, soweit in
+        Drehrohröfen hergestellt,
 
     *
     *   **A**
+
+
+*    *   2.2.2
+
+    *   mit einer Produktionskapazität von 50 t oder mehr je Tag, soweit in
+        anderen als Drehrohröfen hergestellt,
+
+    *
+    *   **A**
+
+
+*    *   2.2.3
+
+    *   mit einer Produktionskapazität von weniger als 500 t je Tag, soweit in
+        Drehrohröfen hergestellt,
+
+    *
+    *   **S**
+
+
+*    *   2.2.4
+
+    *   mit einer Produktionskapazität von weniger als 50 t je Tag, soweit in
+        anderen als Drehrohröfen hergestellt,
+
+    *
+    *   **S**
+
+
+*    *   2.2.5
+
+    *   ohne verbundenen Brennprozess (reine Mahlanlagen);
+
+    *
+    *   **S**
 
 
 *    *   **2.3**
@@ -3628,22 +3611,13 @@ und 2.
 
 *    *   2.5.1
 
-    *   200 000 t oder mehr je Jahr oder bei Flachglasanlagen, die nach dem
-        Floatglasverfahren betrieben werden, 100 000 t oder mehr je Jahr,
-
-    *   **X**
-
-    *
-
-*    *   2.5.2
-
-    *   20 t je Tag bis weniger als in der vorstehenden Nummer angegeben,
+    *   20 t oder mehr je Tag,
 
     *
     *   **A**
 
 
-*    *   2.5.3
+*    *   2.5.2
 
     *   100 kg bis weniger als 20 t je Tag, ausgenommen Anlagen zur
         Herstellung von Glasfasern, die für medizinische oder
@@ -3652,6 +3626,13 @@ und 2.
     *
     *   **S**
 
+
+*    *   2.5.3
+
+    *   (weggefallen)
+
+    *
+    *
 
 *    *   **2.6**
 
@@ -3672,7 +3653,8 @@ und 2.
 
 *    *   2.6.2
 
-    *   weniger als 75 t je Tag, soweit der Rauminhalt der Brennanlage 4 m
+    *   2 t bis weniger als 75 t je Tag, soweit der Rauminhalt der Brennanlage
+        4 m
         3 oder mehr beträgt oder die Besatzdichte mehr als 100 kg je
         Kubikmeter Rauminhalt der Brennanlage beträgt, ausgenommen elektrisch
         beheizte Brennöfen, die diskontinuierlich und ohne Abluftführung
@@ -3704,9 +3686,9 @@ und 2.
         Luftzufuhr zur Überführung in Oxide) oder Sintern (Stückigmachen von
         feinkörnigen Stoffen durch Erhitzen) von Erzen;
 
-    *   **X**
-
     *
+    *   **A**
+
 
 *    *   **3.2**
 
@@ -3722,25 +3704,54 @@ und 2.
 
 *    *   **3.3**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung oder zum
-        Erschmelzen von Roheisen oder Stahl einschließlich Stranggießen, auch
-        soweit Konzentrate oder sekundäre Rohstoffe eingesetzt werden, mit
-        einer Schmelzkapazität von
+    *   Errichtung und Betrieb einer Anlage zur Herstellung von
 
     *
     *
 
 *    *   3.3.1
 
-    *   2,5 t Roheisen oder Stahl je Stunde oder mehr,
+    *   Roheisen oder Stahl einschließlich Stranggießen, auch soweit
+        Konzentrate oder sekundäre Rohstoffe eingesetzt werden, mit einer
+        Schmelzkapazität von
+
+    *
+    *
+
+*    *   3.3.1.1
+
+    *   2,5 t oder mehr je Stunde,
 
     *
     *   **A**
 
 
+*    *   3.3.1.2
+
+    *   weniger als 2,5 t je Stunde,
+
+    *
+    *   **S**
+
+
 *    *   3.3.2
 
-    *   weniger als 2,5 t Stahl je Stunde;
+    *   direkt reduziertem Eisen mit einer Produktionskapazität von
+
+    *
+    *
+
+*    *   3.3.2.1
+
+    *   2,5 t oder mehr je Stunde,
+
+    *
+    *   **A**
+
+
+*    *   3.3.2.2
+
+    *   weniger als 2,5 t je Stunde;
 
     *
     *   **S**
@@ -3769,9 +3780,9 @@ und 2.
 
     *   100 000 t oder mehr je Jahr,
 
-    *   **X**
-
     *
+    *   **A**
+
 
 *    *   3.5.2
 
@@ -3838,9 +3849,9 @@ und 2.
 
     *   200 000 t oder mehr je Jahr,
 
-    *   **X**
-
     *
+    *   **A**
+
 
 *    *   3.7.2
 
@@ -3861,23 +3872,22 @@ und 2.
 *    *   **3.8**
 
     *   Errichtung und Betrieb einer Anlage zum Aufbringen von metallischen
-        Schutzschichten auf Metalloberflächen mit Hilfe von schmelzflüssigen
-        Bädern mit einer Verarbeitungskapazität von
+        Schutzschichten auf Eisenmetalloberflächen mit Hilfe von
+        schmelzflüssigen Bädern mit einer Verarbeitungskapazität von
 
     *
     *
 
 *    *   3.8.1
 
-    *   100 000 t Rohgut oder mehr je Jahr,
+    *   (weggefallen)
 
-    *   **X**
-
+    *
     *
 
 *    *   3.8.2
 
-    *   2 t Rohgut je Stunde bis weniger als 100 000 t Rohgut je Jahr,
+    *   2 t Rohgut je Stunde oder mehr,
 
     *
     *   **A**
@@ -3956,13 +3966,6 @@ und 2.
     *   **A**
 
 
-*    *   **3.12**
-
-    *   Errichtung und Betrieb einer Schiffswerft
-
-    *
-    *
-
 *    *   3.12.1
 
     *   zum Bau von Seeschiffen mit einer Größe von 100 000
@@ -3971,6 +3974,16 @@ und 2.
     *   **X**
 
     *
+
+*    *   **3.12**
+
+    *   Errichtung und Betrieb einer Schiffswerft zur Herstellung oder
+        Reparatur von Schiffskörpern oder Schiffssektionen aus Metall mit
+        einer Länge von 20 m oder mehr;
+
+    *
+    *   **A**
+
 
 *    *   3.12.2
 
@@ -4131,8 +4144,9 @@ und 2.
 
 *    *   **6.2**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung von Papier oder
-        Pappe mit einer Produktionskapazität von
+    *   Errichtung und Betrieb einer Anlage zur Herstellung von Papier, Karton
+        oder Pappe, mit Ausnahme von Anlagen zur Weiterverarbeitung von Papier
+        zu Wellpappe, mit einer Produktionskapazität von
 
     *
     *
@@ -4510,14 +4524,14 @@ und 2.
 *    *   **7.13**
 
     *   Errichtung und Betrieb einer Anlage zum Schlachten von Tieren mit
-        einer Kapazität von
+        einer Produktionskapazität von
 
     *
     *
 
 *    *   7.13.1
 
-    *   50 t Lebendgewicht oder mehr je Tag,
+    *   50 t Schlachtkörper oder mehr je Tag,
 
     *
     *   **A**
@@ -4525,8 +4539,9 @@ und 2.
 
 *    *   7.13.2
 
-    *   0,5 t bis weniger als 50 t Lebendgewicht je Tag bei Geflügel oder 4 t
-        bis weniger als 50 t Lebendgewicht je Tag bei sonstigen Tieren;
+    *   4 t je Woche bis weniger als 50 t Schlachtkörper je Tag bei Geflügel
+        oder 20 t je Woche bis weniger als 50 t Schlachtkörper je Tag bei
+        sonstigen Tieren;
 
     *
     *   **S**
@@ -4551,10 +4566,8 @@ und 2.
 
 *    *   7.14.2
 
-    *   weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen zur
-        Erzeugung von Speisefetten aus selbstgewonnenen tierischen Fetten in
-        Fleischereien mit einer Kapazität von bis zu 200 kg Speisefett je
-        Woche;
+    *   weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen mit
+        einer Kapazität von weniger als 200 kg Speisefett je Woche;
 
     *
     *   **S**
@@ -4578,10 +4591,8 @@ und 2.
 
 *    *   7.15.2
 
-    *   weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen zur
-        Verarbeitung von selbstgewonnenen tierischen Fetten zu Speisefetten in
-        Fleischereien mit einer Kapazität von bis zu 200 kg Speisefett je
-        Woche;
+    *   weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen mit
+        einer Kapazität von weniger als 200 kg Speisefett je Woche;
 
     *
     *   **S**
@@ -4589,15 +4600,18 @@ und 2.
 
 *    *   **7.16**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung von
-        Fleischkonserven mit einer Produktionskapazität von
+    *   Errichtung und Betrieb einer Anlage zur Herstellung von Nahrungs- oder
+        Futtermittelkonserven aus tierischen Rohstoffen, allein, ausgenommen
+        bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen
+        Rohstoffen, mit einer Produktionskapazität von
 
     *
     *
 
 *    *   7.16.1
 
-    *   75 t Konserven oder mehr je Tag,
+    *   P t Konserven oder mehr je Tag gemäß Mischungsregel in Anhang 1 der
+        Verordnung über genehmigungsbedürftige Anlagen,
 
     *
     *   **A**
@@ -4605,7 +4619,8 @@ und 2.
 
 *    *   7.16.2
 
-    *   1 t bis weniger als 75 t Konserven je Tag;
+    *   1 t bis weniger als P t Konserven gemäß Mischungsregel in Anhang 1 der
+        Verordnung über genehmigungsbedürftige Anlagen;
 
     *
     *   **S**
@@ -4642,7 +4657,8 @@ und 2.
     *   10 t bis weniger als den in den Nummern 7.17.1 oder 7.17.2 angegebenen
         Kapazitäten für Tonnen Konserven je Tag und unter den dort genannten
         Voraussetzungen im Übrigen, ausgenommen Anlagen zum Sterilisieren oder
-        Pasteurisieren dieser Nahrungsmittel in geschlossenen Behältnissen;
+        Pasteurisieren dieser Nahrungsmittel in geschlossenen Behältnissen
+        ohne vorgelagerte Prozesse, die Erwärmung beinhalten;
 
     *
     *   **S**
@@ -4650,19 +4666,15 @@ und 2.
 
 *    *   **7.18**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung von
-        Futtermittelerzeugnissen aus tierischen Rohstoffen, soweit in einer
-        solchen Anlage eine fabrikmäßige Herstellung von Tierfutter durch
-        Erwärmen der Bestandteile tierischer Herkunft erfolgt,
+    *   (weggefallen)
 
     *
-    *   **A**
-
+    *
 
 *    *   **7.19**
 
     *   Errichtung und Betrieb einer Anlage zur Beseitigung oder Verwertung
-        von Tierkörpern oder tierischen Abfällen mit einer
+        von Tierkörpern oder tierischen Nebenprodukten mit einer
         Verarbeitungskapazität von
 
     *
@@ -4688,7 +4700,7 @@ und 2.
 
     *   Errichtung und Betrieb einer Anlage zum Gerben einschließlich
         Nachgerben von Tierhäuten oder Tierfellen mit einer
-        Verarbeitungskapazität von
+        Produktionskapazität von
 
     *
     *
@@ -4704,9 +4716,9 @@ und 2.
 *    *   7.20.2
 
     *   weniger als 12 t Fertigerzeugnissen je Tag, ausgenommen Anlagen, in
-        denen weniger Tierhäute oder Tierfelle behandelt werden als beim
-        Schlachten von weniger als 4 t sonstigen Tieren nach Nummer 7.13.2
-        anfallen;
+        denen je Woche weniger Tierhäute oder Tierfelle behandelt werden
+        können als beim Schlachten von weniger als 20 Tonnen sonstiger Tiere
+        je Woche nach Nummer 7.13.2 anfallen;
 
     *
     *   **S**
@@ -4717,13 +4729,13 @@ und 2.
     *   Errichtung und Betrieb einer Anlage zur Herstellung von Fischmehl oder
         Fischöl;
 
-    *   **X**
-
     *
+    *   **A**
+
 
 *    *   **7.22**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung von Braumalz
+    *   Errichtung und Betrieb einer Anlage zur Herstellung von Darrmalz
         (Mälzerei) mit einer Produktionskapazität von
 
     *
@@ -4749,7 +4761,7 @@ und 2.
 
 *    *   7.22.3
 
-    *   weniger als den in den Nummern 7.22.1 oder 7.22.2 angegebenen
+    *   10 t bis weniger als den in den Nummern 7.22.1 oder 7.22.2 angegebenen
         Kapazitäten für Tonnen Darrmalz je Tag und unter den dort genannten
         Voraussetzungen im Übrigen;
 
@@ -4869,9 +4881,9 @@ und 2.
 
 *    *   7.26.3
 
-    *   200 hl bis weniger als den in den Nummern 7.26.1 oder 7.26.2
-        angegebenen Kapazitäten für Hektoliter Bier je Tag und unter den dort
-        genannten Voraussetzungen im Übrigen;
+    *   200 hl als Vierteljahresdurchschnittswert bis weniger als den in den
+        Nummern 7.26.1 oder 7.26.2 angegebenen Kapazitäten für Hektoliter Bier
+        je Tag und unter den dort genannten Voraussetzungen im Übrigen;
 
     *
     *   **S**
@@ -4880,7 +4892,8 @@ und 2.
 *    *   **7.27**
 
     *   Errichtung und Betrieb einer Anlage zur Herstellung von Süßwaren oder
-        Sirup aus tierischen Rohstoffen, ausgenommen Milch, mit einer
+        Sirup aus tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung
+        von ausschließlich Milch, oder mit pflanzlichen Rohstoffen, mit einer
         Produktionskapazität von
 
     *
@@ -4888,7 +4901,8 @@ und 2.
 
 *    *   7.27.1
 
-    *   75 t Süßwaren oder Sirup oder mehr je Tag,
+    *   P t oder mehr je Tag gemäß Mischungsregel in Anhang 1 der Verordnung
+        über genehmigungsbedürftige Anlagen,
 
     *
     *   **A**
@@ -4896,8 +4910,9 @@ und 2.
 
 *    *   7.27.2
 
-    *   50 kg bis weniger als 75 t Süßwaren oder Sirup je Tag bei Herstellung
-        von Lakritz;
+    *   50 kg bis weniger als P t Süßwaren oder Sirup je Tag bei der
+        Herstellung von Lakritz gemäß Mischungsregel in Anhang 1 der
+        Verordnung über genehmigungsbedürftige Anlagen;
 
     *
     *   **S**
@@ -5013,16 +5028,34 @@ und 2.
 *    *   8.1.1.3
 
     *   bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von
-        weniger als 3 t Abfällen je Stunde,
+        weniger als 3 t Abfällen je Stunde, ausgenommen die Verbrennung von
+        Altholz der Altholzkategorien A I und A II nach der Altholzverordnung
+        vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 120
+        der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden
+        ist, welches keine Schwermetalle infolge einer Behandlung oder
+        Beschichtung enthält,
 
     *
     *   **A**
 
 
+*    *   8.1.1.4
+
+    *   bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von
+        weniger als 3 t Abfällen je Stunde, soweit ausschließlich Altholz der
+        Altholzkategorien A I und A II nach der Altholzverordnung verbrannt
+        wird und dieses keine Schwermetalle infolge einer Behandlung oder
+        Beschichtung enthält und die Feuerungswärmeleistung 1 Megawatt oder
+        mehr beträgt,
+
+    *
+    *   **S**
+
+
 *    *   8.1.2
 
-    *   Verbrennen von Altöl oder Deponiegas in einer Verbrennungsmotoranlage
-        mit einer Feuerungswärmeleistung von
+    *   Verbrennen von Deponiegas in einer Verbrennungsmotoranlage mit einer
+        Feuerungswärmeleistung von
 
     *
     *
@@ -5063,42 +5096,10 @@ und 2.
 
 *    *   **8.2**
 
-    *   Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf,
-        Warmwasser, Prozesswärme oder erhitztem Abgas in einer
-        Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk,
-        sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel,
-        durch den Einsatz von
-
-        –   gestrichenem, lackiertem oder beschichtetem Holz oder
-
-
-        –   Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holz
-
-
-
-        sowie daraus anfallenden Resten, soweit keine Holzschutzmittel
-        aufgetragen oder infolge einer Behandlung enthalten sind oder
-        Beschichtungen keine halogenorganischen Verbindungen oder
-        Schwermetalle enthalten, mit einer Feuerungswärmeleistung von
+    *   (weggefallen)
 
     *
     *
-
-*    *   8.2.1
-
-    *   50 MW oder mehr,
-
-    *   **X**
-
-    *
-
-*    *   8.2.2
-
-    *   1 MW bis weniger als 50 MW;
-
-    *
-    *   **S**
-
 
 *    *   **8.3**
 
@@ -5166,7 +5167,7 @@ und 2.
 
 *    *   8.4.2.1
 
-    *   50 t oder mehr je Tag,
+    *   100 t oder mehr je Tag,
 
     *
     *   **A**
@@ -5174,7 +5175,7 @@ und 2.
 
 *    *   8.4.2.2
 
-    *   weniger als 50 t je Tag, soweit die Produktionskapazität von Rohgas
+    *   weniger als 100 t je Tag, soweit die Produktionskapazität von Rohgas
         1,2 Mio. Normkubikmeter je Jahr oder mehr beträgt;
 
     *
@@ -5290,47 +5291,33 @@ und 2.
 
 *    *   **8.9**
 
-    *   Errichtung und Betrieb einer Anlage zur Lagerung von Abfällen über
-        einen Zeitraum von jeweils mehr als einem Jahr, bei
+    *   Errichtung und Betrieb einer Anlage zur Lagerung über einen Zeitraum
+        von jeweils mehr als einem Jahr von
 
     *
     *
 
 *    *   8.9.1
 
-    *   gefährlichen Abfällen mit
-
-    *
-    *
-
-*    *   8.9.1.1
-
-    *   einer Aufnahmekapazität von 10 t je Tag oder mehr oder einer
-        Gesamtlagerkapazität von 150 t oder mehr,
+    *   gefährlichen Abfällen im Sinne des Kreislaufwirtschaftsgesetzes,
 
     *   **X**
 
     *
 
-*    *   8.9.1.2
-
-    *   geringeren Kapazitäten als in Nummer 8.9.1.1 angegeben,
-
-    *
-    *   **A**
-
-
 *    *   8.9.2
 
-    *   nicht gefährlichen Abfällen mit
+    *   von nicht gefährlichen Abfällen im Sinne des
+        Kreislaufwirtschaftsgesetzes, mit Ausnahme von Inertabfällen, mit
+        einer Aufnahmekapazität von
 
     *
     *
 
 *    *   8.9.2.1
 
-    *   einer Aufnahmekapazität von 10 t je Tag oder mehr oder einer
-        Gesamtlagerkapazität von 150 t oder mehr,
+    *   10 t oder mehr je Tag oder mit einer Gesamtkapazität von 25 000 t oder
+        mehr,
 
     *
     *   **A**
@@ -5338,10 +5325,19 @@ und 2.
 
 *    *   8.9.2.2
 
-    *   geringeren Kapazitäten als in Nummer 8.9.2.1 angegeben;
+    *   weniger als 10 t je Tag und mit einer Gesamtkapazität von weniger als
+        25 000 t,
 
     *
     *   **S**
+
+
+*    *   8.9.3
+
+    *   von Inertabfällen im Sinne des Kreislaufwirtschaftsgesetzes;
+
+    *
+    *   **A**
 
 
 *    *   **9.**
@@ -5548,28 +5544,59 @@ und 2.
 
 *    *   **10.1**
 
-    *   Errichtung und Betrieb einer Anlage zur Herstellung, Bearbeitung oder
+    *   Errichtung und Betrieb einer Anlage, zur Herstellung, Bearbeitung oder
         Verarbeitung von explosionsgefährlichen Stoffen im Sinne des
         Sprengstoffgesetzes, die zur Verwendung als Sprengstoffe, Zündstoffe,
         Treibstoffe, pyrotechnische Sätze oder zur Herstellung dieser Stoffe
         bestimmt sind; hierzu gehört auch eine Anlage zum Laden, Entladen oder
         Delaborieren von Munition oder sonstigen Sprengkörpern, ausgenommen
         Anlagen im handwerklichen Umfang oder zur Herstellung von Zündhölzern
-        sowie ortsbewegliche Mischladegeräte;
+        sowie ortsbewegliche Mischladegeräte, soweit nicht von Nummer 4.1
+        erfasst, mit einer Kapazität von
+
+    *
+    *
+
+*    *   10.1.1
+
+    *   10 t und mehr Nettoexplosivstoffmasse je Jahr,
 
     *   **X**
 
     *
+
+*    *   10.1.2
+
+    *   weniger als 10 t Nettoexplosivstoffmasse je Jahr;
+
+    *
+    *   **A**
+
 
 *    *   **10.2**
 
     *   Errichtung und Betrieb einer Anlage zur Wiedergewinnung oder
         Vernichtung von explosionsgefährlichen Stoffen im Sinne des
-        Sprengstoffgesetzes;
+        Sprengstoffgesetzes mit einer Kapazität von
+
+    *
+    *
+
+*    *   10.2.1
+
+    *   10 t Nettoexplosivstoffmasse oder mehr je Jahr,
 
     *   **X**
 
     *
+
+*    *   10.2.2
+
+    *   weniger als 10 t Nettoexplosivstoffmasse je Jahr;
+
+    *
+    *   **A**
+
 
 *    *   **10.3**
 
@@ -5665,11 +5692,16 @@ und 2.
 
 *    *   10.5.2
 
-    *   300 KW bis weniger als 10 MW;
+    *   1 MW bis weniger als 10 MW;
 
     *
     *   **S**
 
+
+*    *
+    *
+    *
+    *
 
 *    *   **10.6**
 
@@ -5681,15 +5713,14 @@ und 2.
 
 *    *   10.6.1
 
-    *   mehr als 200 MW,
+    *   (weggefallen)
 
-    *   **X**
-
+    *
     *
 
 *    *   10.6.2
 
-    *   100 MW bis 200 MW,
+    *   100 MW oder mehr,
 
     *
     *   **A**

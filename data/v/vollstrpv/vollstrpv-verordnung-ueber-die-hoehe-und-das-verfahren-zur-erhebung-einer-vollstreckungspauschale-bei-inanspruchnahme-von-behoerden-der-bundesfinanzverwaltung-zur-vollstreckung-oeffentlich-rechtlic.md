@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1996
 
+Geändert durch
+:   Art. 1 V v. 9.10.2026 I Nr. 305
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000100000)
