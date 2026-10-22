@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 168
 
+V aufgeh. durch
+:   § 11 dieser V, dieser idF d. Art. 2 V v. 14.10.2026 I Nr. 311, mit Ablauf des 31.7.2027
+
+Geändert durch
+:   Art. 2 V v. 14.10.2026 I Nr. 311
+
+Ersetzt durch
+:   V 806-22-1-168 v. 14.10.2026 I Nr. 311 (LwAusbV 2027)
+
 
 
 ## Eingangsformel
@@ -450,10 +459,10 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001200000)
+## § 11 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001201131)
 
-Diese Verordnung tritt am 1. Juli 1995 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
 
 (zu § 5)
 Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
