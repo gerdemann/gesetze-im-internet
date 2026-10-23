@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 296 V v. 31.8.2015 I 1474
 
+Änderung durch
+:   Art. 1 G v. 19.10.2026 I Nr. 314 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 [Direktlink](https://www.gesetze-im-internet.de/preisangg/BJNR114290984.html#BJNR114290984BJNE000105118)
