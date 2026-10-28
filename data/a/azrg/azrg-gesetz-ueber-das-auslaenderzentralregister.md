@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2265
 
 Zuletzt geändert durch
-:   Art. 16 G v 22.7.2026 I Nr. 222
+:   Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel
@@ -624,7 +624,7 @@ gesperrt.
 
 
 #### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000936311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE000953311)
 
 (1) Folgende Stellen sind in den jeweils genannten Fällen zur
 unverzüglichen Übermittlung von Daten an die Registerbehörde
@@ -648,7 +648,7 @@ verpflichtet:
 
 
 2.  die mit grenzpolizeilichen Aufgaben betrauten Behörden und die in der
-    Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+    Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
     bestimmte Bundespolizeibehörde in den Fällen des § 2 Absatz 1a und 2
     Nummer 3 bis 6 und 13 und, soweit es der Stand des Verfahrens zulässt,
     in den Fällen des § 2 Absatz 2 Nummer 7 und 7a sowie Absatz 3 Nummer 3
@@ -3010,14 +3010,14 @@ Verfügung.
 
 
 ### § 32 Dritte, an die Daten übermittelt werden
-[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003711311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg/BJNR226500994.html#BJNR226500994BJNE003712311)
 
 (1) Auf Ersuchen werden die Daten an folgende öffentliche Stellen zur
 Erfüllung ihrer Aufgaben übermittelt:
 
-1.  die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes
-    bestimmte Bundespolizeibehörde und die mit grenzpolizeilichen Aufgaben
-    betrauten Stellen,
+1.  die in der Rechtsverordnung nach § 93 Absatz 1 des
+    Bundespolizeigesetzes bestimmte Bundespolizeibehörde und die mit
+    grenzpolizeilichen Aufgaben betrauten Stellen,
 
 
 2.  das Bundesamt für Migration und Flüchtlinge,

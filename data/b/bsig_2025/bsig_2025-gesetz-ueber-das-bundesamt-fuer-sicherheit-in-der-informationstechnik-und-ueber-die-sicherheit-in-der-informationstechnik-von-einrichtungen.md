@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl. I: 2025, Nr. 301, 2
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226
+:   Art. 8 G v. 22.10.2026 I Nr. 318
 
 Stand: Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)
 
@@ -36,7 +36,7 @@ wissenschaftlich-technischer Erkenntnisse durch.
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000302131)
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000303126)
 
 Im Sinne dieses Gesetzes ist oder sind
 

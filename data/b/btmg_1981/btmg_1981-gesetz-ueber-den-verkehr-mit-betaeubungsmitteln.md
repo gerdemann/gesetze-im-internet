@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 8 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 Abs. 1 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000101308)
@@ -1352,7 +1355,7 @@ Artikels 80a Abs. 1 des Grundgesetzes angewandt werden.
 
 
 ### § 21 Mitwirkung anderer Behörden
-[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003509116)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003510130)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Einfuhr, Ausfuhr und
@@ -1365,7 +1368,7 @@ Bundespolizeigesetzes betraut sind, und im Einvernehmen mit dem
 Bayerischen Staatsminister des Innern die Beamten der Bayerischen
 Grenzpolizei mit der Wahrnehmung von Aufgaben betrauen, die den
 Zolldienststellen nach Absatz 1 obliegen. Nehmen die im Satz 1
-bezeichneten Beamten diese Aufgaben wahr, gilt § 67 Abs. 2 des
+bezeichneten Beamten diese Aufgaben wahr, gilt § 101 Absatz 2 des
 Bundespolizeigesetzes entsprechend.
 
 (3) Bei Verdacht von Verstößen gegen Verbote und Beschränkungen dieses

@@ -19,6 +19,9 @@ Stand: Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 Zuletzt geändert durch
 :   Art. 14 G v. 9.4.2026 I Nr. 97
 
+Änderung durch
+:   Art. 3 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetzes dient der Umsetzung der Richtlinie (EU) 2016/680 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
 natürlicher Personen bei der Verarbeitung personenbezogener Daten
@@ -436,14 +439,14 @@ dieses Unterabschnittes vor.
 
 
 ##### § 9 Befragung und Auskunftspflicht
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001000000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001001123)
 
 (1) Das Zollkriminalamt kann eine Person befragen, wenn Tatsachen die
 Annahme rechtfertigen, dass die Person sachdienliche Angaben für die
 Erfüllung der dem Zollkriminalamt nach § 3 Absatz 1, 2, 5 und 7
 obliegenden Aufgaben machen kann.
 
-(2) Personen, die entsprechend den §§ 17, 18 des Bundespolizeigesetzes
+(2) Personen, die entsprechend den §§ 18, 19 des Bundespolizeigesetzes
 verantwortlich sind, sind verpflichtet, auf Verlangen dem
 Zollkriminalamt unverzüglich Auskunft zu erteilen, wenn Tatsachen die
 Annahme rechtfertigen, dass sie sachdienliche Angaben für die
@@ -455,7 +458,7 @@ obliegenden Aufgabe machen können. Satz 1 gilt entsprechend
     a)  eine gegenwärtige erhebliche Gefahr abzuwehren ist,
 
 
-    b)  Maßnahmen gegen die entsprechend § 17 oder § 18 des
+    b)  Maßnahmen gegen die entsprechend § 18 oder § 19 des
         Bundespolizeigesetzes Verantwortlichen nicht oder nicht rechtzeitig
         möglich sind oder keinen Erfolg versprechen,
 
@@ -475,7 +478,7 @@ obliegenden Aufgabe machen können. Satz 1 gilt entsprechend
 
 
 
-Im Falle des Satzes 2 Nummer 1 gilt § 20 Absatz 1 Satz 2 des
+Im Falle des Satzes 2 Nummer 1 gilt § 21 Absatz 1 Satz 2 des
 Bundespolizeigesetzes entsprechend. Unbeschadet der Sätze 1 und 2
 dürfen Personen von sich aus oder auf Ersuchen des Zollkriminalamtes
 Auskunft erteilen; im letzteren Fall ist auf die Freiwilligkeit der
@@ -2498,7 +2501,7 @@ Rechtsvorschriften zulässig.
 
 
 ##### § 39 Allgemeine Befugnisse
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004000000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004001123)
 
 Die Behörden des Zollfahndungsdienstes treffen im
 Zuständigkeitsbereich der Zollverwaltung, mit Ausnahme der Bekämpfung
@@ -2512,7 +2515,7 @@ erforderlichen und angemessenen Maßnahmen
 
 
 
-Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten
+Die §§ 16 bis 21 Absatz 1 des Bundespolizeigesetzes gelten
 entsprechend. Kosten, die den Behörden des Zollfahndungsdienstes durch
 die unmittelbare Ausführung einer Maßnahme oder die Sicherstellung und
 Verwahrung entstehen, sind vom Verantwortlichen zu tragen. Mehrere
@@ -2572,7 +2575,7 @@ dass Verwechslungen vermieden werden.
 
 
 ##### § 42 Aufhebung der Sicherstellung, Einziehung, Verwertung, Vernichtung
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004300000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004301123)
 
 (1) Kann der Inhaber der tatsächlichen Gewalt oder der Eigentümer der
 sichergestellten Sache vorbehaltlich des Absatzes 2 Satz 2 innerhalb
@@ -2620,11 +2623,12 @@ und Vernichtung der Sache Abstand genommen und die Sache in
 Übereinstimmung mit den Bestimmungen des Haushaltsrechts einer anderen
 Zweckbestimmung zugeführt werden.
 
-(4) Im Übrigen gilt § 49 des Bundespolizeigesetzes entsprechend.
+(4) Im Übrigen gelten die §§ 73, 74 Absatz 1 des Bundespolizeigesetzes
+entsprechend.
 
 
 ##### § 43 Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004400000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004401123)
 
 (1) Sobald die Voraussetzungen für die Sicherstellung einer Sache
 weggefallen sind, ist die Sache an denjenigen herauszugeben, bei dem
@@ -2634,26 +2638,26 @@ Berechtigung glaubhaft macht. Die Herausgabe der Sache ist
 ausgeschlossen, wenn dadurch erneut die Voraussetzungen für eine
 Sicherstellung eintreten würden.
 
-(2) Ist die Sache nach § 42 Absatz 3 oder entsprechend § 49 des
-Bundespolizeigesetzes verwertet worden, ist der Erlös herauszugeben.
-Ist eine berechtigte Person nicht vorhanden oder nicht zu ermitteln,
-an die der Erlös herauszugeben ist, gelten die Vorschriften des
-Bürgerlichen Gesetzbuchs zur Hinterlegung. Der Erlös ist nicht an die
-berechtigte Person herauszugeben, wenn dadurch die Voraussetzungen der
-Sicherstellung erneut eintreten würden. Dies ist der berechtigten
-Person mitzuteilen. Ist die zur Entgegennahme der Sache berechtigte
-Person nicht zu ermitteln, ist der Erlös von der sicherstellenden
-Behörde in Verwahrung zu nehmen. Der Anspruch auf Herausgabe des
-Erlöses erlischt in den Fällen des § 40 Absatz 1 Nummer 1 und 2 drei
-Jahre nach Ablauf des Jahres, in dem die Sache verwertet worden ist;
-zu diesem Zeitpunkt verfällt der Erlös dem Bund.
+(2) Ist die Sache nach § 42 Absatz 3 oder entsprechend der §§ 73, 74
+Absatz 1 des Bundespolizeigesetzes verwertet worden, ist der Erlös
+herauszugeben. Ist eine berechtigte Person nicht vorhanden oder nicht
+zu ermitteln, an die der Erlös herauszugeben ist, gelten die
+Vorschriften des Bürgerlichen Gesetzbuchs zur Hinterlegung. Der Erlös
+ist nicht an die berechtigte Person herauszugeben, wenn dadurch die
+Voraussetzungen der Sicherstellung erneut eintreten würden. Dies ist
+der berechtigten Person mitzuteilen. Ist die zur Entgegennahme der
+Sache berechtigte Person nicht zu ermitteln, ist der Erlös von der
+sicherstellenden Behörde in Verwahrung zu nehmen. Der Anspruch auf
+Herausgabe des Erlöses erlischt in den Fällen des § 40 Absatz 1 Nummer
+1 und 2 drei Jahre nach Ablauf des Jahres, in dem die Sache verwertet
+worden ist; zu diesem Zeitpunkt verfällt der Erlös dem Bund.
 
 (3) Auf sichergestelltes Bargeld, das nicht nach Absatz 1
 herausgegeben werden kann, ist Absatz 2 Satz 3 bis 6 entsprechend
 anzuwenden.
 
 (4) Die Kosten der Sicherstellung, Verwahrung, Verwertung und
-Vernichtung fallen den Verantwortlichen zur Last; die §§ 17 und 18 des
+Vernichtung fallen den Verantwortlichen zur Last; die §§ 18 und 19 des
 Bundespolizeigesetzes sind entsprechend anzuwenden. Mehrere
 Verantwortliche haften als Gesamtschuldner. Die Herausgabe der Sache
 kann von der Zahlung der Kosten abhängig gemacht werden. Ist eine
@@ -3033,7 +3037,7 @@ Ermittlungspersonen der Staatsanwaltschaft.
 
 
 ##### § 53 Sicherungs- und Schutzmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005400000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005401123)
 
 (1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
 Aufgaben nach § 7 Absatz 1 die notwendigen Maßnahmen treffen, um eine
@@ -3051,7 +3055,7 @@ im Einzelfall bestehende Gefahr
 abzuwehren, soweit nicht in diesem Unterabschnitt die Befugnisse der
 Behörden des Zollfahndungsdienstes besonders geregelt sind.
 
-(2) Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten
+(2) Die §§ 16 bis 21 Absatz 1 des Bundespolizeigesetzes gelten
 entsprechend. Kosten, die den Behörden des Zollfahndungsdienstes durch
 die unmittelbare Ausführung einer Maßnahme oder die Sicherstellung und
 Verwahrung entstehen, sind vom Verantwortlichen zu tragen. Mehrere
@@ -3154,11 +3158,11 @@ Durchsuchung und ihren Grund zu erteilen.
 
 
 ##### § 57 Erkennungsdienstliche Maßnahmen zur Identitätsfeststellung
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005800000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005801123)
 
 Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 erkennungsdienstliche Maßnahmen im
-Sinne des § 24 Absatz 3 des Bundespolizeigesetzes vornehmen, wenn eine
+Sinne des § 27 Absatz 3 des Bundespolizeigesetzes vornehmen, wenn eine
 nach § 54 zulässige Identitätsfeststellung auf andere Weise nicht oder
 nur unter erheblichen Schwierigkeiten möglich ist.
 
@@ -3245,7 +3249,7 @@ und Ort der Durchsuchung schriftlich zu bestätigen.
 
 
 ##### § 61 Gewahrsam
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006200000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006201123)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 eine Person in Gewahrsam nehmen,
@@ -3261,8 +3265,10 @@ wenn dies unerlässlich ist,
 
 
 
-(2) § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1 Satz 1 und
-Absatz 2 des Bundespolizeigesetzes gelten entsprechend.
+(2) § 62 Absatz 1 und 2, § 63 Absatz 1, 2 und 4 sowie § 65 Absatz 1
+Satz 1, 3 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend
+mit der Maßgabe, dass an die Stelle der dort genannten
+Freiheitsentziehung die Maßnahme nach Absatz 1 tritt.
 
 
 ##### § 62 Besondere Mittel der Datenerhebung
@@ -3335,13 +3341,13 @@ die in Absatz 5 genannten Zwecke noch benötigt.
 
 
 ##### § 63 Behördlicher Eigenschutz
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006400000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006401123)
 
 Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
 Aufgaben nach § 6 Absatz 1 die erforderlichen Maßnahmen treffen, um
 Gefahren für ihre Liegenschaften, sonstigen Einrichtungen und
-Veranstaltungen abzuwehren. Die §§ 54 bis 59 und 61 sowie die §§ 15
-bis 20 des Bundespolizeigesetzes gelten entsprechend.
+Veranstaltungen abzuwehren. Die §§ 54 bis 59 und 61 sowie die §§ 16
+bis 21 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ##### § 64 Sicherheitsüberprüfung
@@ -4511,7 +4517,7 @@ zu berichten.
 
 
 ##### § 81 Zeugenschutzmaßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008200000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008201123)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgabe nach § 7
 Absatz 2, soweit nicht dieses Gesetz oder das Zeugenschutz-
@@ -4524,7 +4530,7 @@ genannten Personen abzuwehren.
 (2) Regelungen über den Zeugenschutz, die durch andere Gesetze
 getroffen werden, bleiben unberührt.
 
-(3) Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten
+(3) Die §§ 16 bis 21 Absatz 1 des Bundespolizeigesetzes gelten
 entsprechend. Kosten, die dem Zollkriminalamt durch die unmittelbare
 Ausführung einer Maßnahme oder die Sicherstellung und Verwahrung
 entstehen, sind vom Verantwortlichen zu tragen. Mehrere
@@ -5416,11 +5422,11 @@ Anwendung.
 
 
 ### § 102 Schadensausgleich
-[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010300000)
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010301123)
 
 Erleidet jemand bei der Erfüllung der Aufgaben der Behörden des
 Zollfahndungsdienstes nach § 7 sowie bei einer Inanspruchnahme nach §
-39 einen Schaden, so gelten die §§ 51 bis 56 des Bundespolizeigesetzes
+39 einen Schaden, so gelten die §§ 86 bis 91 des Bundespolizeigesetzes
 entsprechend.
 
 

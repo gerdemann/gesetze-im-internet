@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 16.7.2026 I Nr. 213
 
+Änderung durch
+:   Art. 12 Abs. 13 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Passvorschriften
 [Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNG000101130)
@@ -1406,7 +1409,7 @@ geahndet werden, wenn sie im Ausland begangen wird.
 
 
 ### § 26 Bußgeldbehörden
-[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002906130)
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002907130)
 
 Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten sind
@@ -1418,7 +1421,7 @@ Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
     Zustimmung des Bundesrates;
 
 
-2.  die in der Rechtsverordnung nach § 58 Absatz 1 des
+2.  die in der Rechtsverordnung nach § 93 Absatz 1 des
     Bundespolizeigesetzes bestimmten Bundespolizeibehörden, soweit nicht
     die Länder im Einvernehmen mit dem Bund Aufgaben des
     grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.

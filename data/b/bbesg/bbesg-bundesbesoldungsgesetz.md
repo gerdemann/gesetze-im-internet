@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.6.2009 I 1434;
 
 Zuletzt geändert durch
-:   Art. 62 Abs. 2 G v. 4.2.2026 I Nr. 33
+:   Art. 12 Abs. 18 G v. 22.10.2026 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -2695,7 +2695,7 @@ Verwaltungsvorschrift.
 
 
 ### § 56 Auslandsverwendungszuschlag
-[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE013418130)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE013419126)
 
 (1) Auslandsverwendungszuschlag wird gezahlt bei einer Verwendung im
 Rahmen einer humanitären oder unterstützenden Maßnahme, die auf Grund
@@ -2728,7 +2728,7 @@ Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen stattfindet
     oder
 
 
-5.  Einsätze der Bundespolizei nach den §§ 8 und 65 des
+5.  Einsätze der Bundespolizei nach den §§ 9 und 99 des
     Bundespolizeigesetzes, einschließlich der in diesem Rahmen und zu
     diesem Zweck abgeordneten oder zugewiesenen Beamten anderer
     Verwaltungen, des Bundesamtes für Migration und Flüchtlinge, des

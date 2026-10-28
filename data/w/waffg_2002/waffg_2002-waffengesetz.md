@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
 
+Änderung durch
+:   Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 [Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000100000)
@@ -184,7 +187,7 @@ einfließen zu lassen.
 
 
 #### § 5 Zuverlässigkeit
-[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000508128)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000509123)
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen nicht,
 
@@ -345,14 +348,14 @@ folgende Erkundigungen einzuholen:
 
 3.  die Stellungnahmen der zuständigen Behörde der Landespolizei oder der
     zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes
-    sowie der in der Rechtsverordnung nach § 58 Absatz 1 des
+    sowie der in der Rechtsverordnung nach § 93 Absatz 1 des
     Bundespolizeigesetzes bestimmten Bundespolizeibehörde und des
     Zollkriminalamtes sowie, soweit im Einzelfall erforderlich, des
     Bundeskriminalamtes (Bedarfsabfragebehörde), ob Tatsachen vorliegen,
     die Bedenken gegen die Zuverlässigkeit begründen; die zuständige
     Behörde der Landespolizei oder die zentrale Polizeidienststelle oder
     das zuständige Landeskriminalamt und die in der Rechtsverordnung nach
-    § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
+    § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
     schließen in ihre Stellungnahme das Ergebnis der von ihnen
     vorzunehmenden Prüfung nach Absatz 2 Nummer 4 ein;
 
@@ -372,7 +375,7 @@ werden.
 
 
 #### § 6 Persönliche Eignung
-[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000603123)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000604123)
 
 (1) Die erforderliche persönliche Eignung besitzen Personen nicht,
 wenn Tatsachen die Annahme rechtfertigen, dass sie
@@ -406,7 +409,7 @@ den Sätzen 1 und 2 vorliegen:
     Durchführung der Prüfung der persönlichen Eignung,
 
 
-3.  der in der Rechtsverordnung nach § 58 Absatz 1 des
+3.  der in der Rechtsverordnung nach § 93 Absatz 1 des
     Bundespolizeigesetzes bestimmten Bundespolizeibehörde,
 
 

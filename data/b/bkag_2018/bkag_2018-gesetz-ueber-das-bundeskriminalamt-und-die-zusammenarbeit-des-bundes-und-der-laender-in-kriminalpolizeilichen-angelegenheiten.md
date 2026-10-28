@@ -22,6 +22,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
@@ -149,7 +155,7 @@ Polizeidienststellen, Staatsanwaltschaften und Gerichten.
 
 
 ### § 3 Internationale Zusammenarbeit
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000403130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000404130)
 
 (1) Das Bundeskriminalamt ist Nationales Zentralbüro der
 Bundesrepublik Deutschland für die Internationale Kriminalpolizeiliche
@@ -207,19 +213,15 @@ Gesetzes.
 
 
 (2a) Das Bundeskriminalamt ist Vermögensabschöpfungsstelle nach
-Artikel 1 des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007
-über die Zusammenarbeit zwischen den Vermögensabschöpfungsstellen der
-Mitgliedstaaten auf dem Gebiet des Aufspürens und der Ermittlung von
-Erträgen aus Straftaten oder anderen Vermögensgegenständen im
-Zusammenhang mit Straftaten (ABl. L 332 vom 18.12.2007, S. 103). Das
-Bundeskriminalamt nimmt im Rahmen der bestehenden Zuständigkeiten
-seine Aufgaben auch als benannte Behörde nach Artikel 3 Absatz 1 und 2
-der Richtlinie (EU) 2019/1153 des Europäischen Parlaments und des
-Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur
-Erleichterung der Nutzung von Finanz- und sonstigen Informationen für
-die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter
-Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates
-(ABl. L 186 vom 11.7.2019, S. 122) wahr.
+Artikel 5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April
+2024\. Das Bundeskriminalamt nimmt im Rahmen der bestehenden
+Zuständigkeiten seine Aufgaben auch als benannte Behörde nach Artikel
+3 Absatz 1 und 2 der Richtlinie (EU) 2019/1153 in der Fassung vom 31.
+Mai 2024 wahr. Stellt das Bundeskriminalamt fest, dass Vermögenswerte
+nach § 91r des Gesetzes über die internationale Rechtshilfe in
+Strafsachen vorübergehend zu sichern sind, leitet es den Vorgang
+unverzüglich der zuständigen staatsanwaltschaftlichen
+Vermögensabschöpfungsstelle zu.
 
 (3) Der zur Verhütung oder Verfolgung von Straftaten erforderliche
 Dienstverkehr der Polizeien des Bundes und der Länder mit den Polizei-
@@ -2350,7 +2352,7 @@ den Datenschutz zuständig sind, zusammen.
 
 
 ### § 32 Unterrichtung der Zentralstelle
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003301130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003302130)
 
 (1) Die Landeskriminalämter übermitteln dem Bundeskriminalamt nach
 Maßgabe der Rechtsverordnung nach § 20 die zur Erfüllung seiner
@@ -2394,7 +2396,7 @@ soweit die Informationen Vorgänge betreffen, die sie in eigener
 Zuständigkeit bearbeiten. Satz 1 gilt im Bereich der Zollverwaltung,
 soweit
 
-1.  aufgrund einer Rechtsverordnung nach § 68 des Bundespolizeigesetzes
+1.  aufgrund einer Rechtsverordnung nach § 102 des Bundespolizeigesetzes
     grenzpolizeiliche Aufgaben wahrgenommen werden,
 
 
@@ -2912,12 +2914,12 @@ werden, wenn das jeweilige Landesrecht es vorsieht.
 
 
 ### § 38 Allgemeine Befugnisse
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003900000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003901130)
 
 (1) Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 5
 Absatz 1 Satz 1 die notwendigen Maßnahmen treffen, um eine Gefahr
 abzuwehren, soweit nicht dieses Gesetz die Befugnisse des
-Bundeskriminalamtes besonders regelt. Die §§ 15 bis 20 des
+Bundeskriminalamtes besonders regelt. Die §§ 16 bis 21 des
 Bundespolizeigesetzes gelten entsprechend.
 
 (2) Gefahr im Sinne dieses Abschnitts ist eine im Einzelfall
@@ -3075,7 +3077,7 @@ finden entsprechend Anwendung.
 
 
 ### § 41 Befragung und Auskunftspflicht
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004200000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004201130)
 
 (1) Das Bundeskriminalamt kann eine Person befragen, wenn Tatsachen
 die Annahme rechtfertigen, dass die Person sachdienliche Angaben für
@@ -3088,9 +3090,9 @@ Ausweispapiere zur Prüfung auszuhändigen.
 der Geburt, Wohnanschrift und Staatsangehörigkeit anzugeben, soweit
 dies zur Erfüllung der dem Bundeskriminalamt nach § 5 Absatz 1 Satz 1
 obliegenden Aufgabe erforderlich ist. Eine weitergehende
-Auskunftspflicht besteht nur für die entsprechend den §§ 17 und 18 des
+Auskunftspflicht besteht nur für die entsprechend den §§ 18 und 19 des
 Bundespolizeigesetzes Verantwortlichen und entsprechend den
-Voraussetzungen des § 20 Absatz 1 des Bundespolizeigesetzes für die
+Voraussetzungen des § 21 Absatz 1 des Bundespolizeigesetzes für die
 dort bezeichneten Personen sowie für die Personen, für die gesetzliche
 Handlungspflichten bestehen, soweit die Auskunft zur Abwehr einer
 Gefahr erforderlich ist.
@@ -3114,12 +3116,12 @@ Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
 
 ### § 42 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004300000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004301130)
 
 (1) Wenn Tatsachen die Annahme rechtfertigen, dass eine Straftat nach
 § 5 Absatz 1 Satz 2 begangen werden soll, kann das Bundeskriminalamt
-entsprechend § 23 Absatz 3 Satz 1, 2, 4 und 5 des
-Bundespolizeigesetzes die Identität einer Person feststellen,
+entsprechend § 26 Absatz 3 des Bundespolizeigesetzes die Identität
+einer Person feststellen,
 
 1.  um eine Gefahr abzuwehren,
 
@@ -3158,12 +3160,12 @@ mitzuführen.
 
 
 ### § 43 Erkennungsdienstliche Maßnahmen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004400000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004401130)
 
 (1) Ist eine nach § 42 Absatz 1 zulässige Identitätsfeststellung auf
 andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich,
 kann das Bundeskriminalamt erkennungsdienstliche Maßnahmen
-entsprechend § 24 Absatz 3 des Bundespolizeigesetzes vornehmen.
+entsprechend § 27 Absatz 3 des Bundespolizeigesetzes vornehmen.
 
 (2) Ist die Identität festgestellt, sind die im Zusammenhang mit der
 Feststellung angefallenen Unterlagen zu vernichten, es sei denn, ihre
@@ -3173,7 +3175,7 @@ Sind die Unterlagen an andere Stellen übermittelt worden, sind diese
 
 
 ### § 44 Vorladung
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004500000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004501130)
 
 (1) Das Bundeskriminalamt kann eine Person schriftlich oder mündlich
 vorladen, wenn
@@ -3189,17 +3191,17 @@ vorladen, wenn
 
 
 
-(2) § 25 Absatz 2 bis 4 des Bundespolizeigesetzes gilt entsprechend.
+(2) § 28 Absatz 2 bis 4 des Bundespolizeigesetzes gilt entsprechend.
 
 
 ### § 45 Besondere Mittel der Datenerhebung
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004601130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004602130)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten mit den
 besonderen Mitteln nach Absatz 2 erheben über
 
-1.  den entsprechend § 17 oder § 18 des Bundespolizeigesetzes
-    Verantwortlichen oder entsprechend den Voraussetzungen des § 20 Absatz
+1.  den entsprechend § 18 oder § 19 des Bundespolizeigesetzes
+    Verantwortlichen oder entsprechend den Voraussetzungen des § 21 Absatz
     1 des Bundespolizeigesetzes über die dort bezeichnete Person zur
     Abwehr einer Gefahr für den Bestand oder die Sicherheit des Bundes
     oder eines Landes oder für Leib, Leben oder Freiheit einer Person oder
@@ -3412,7 +3414,7 @@ unverzüglich nachzuholen.
 
 
 ### § 46 Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004701130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004702130)
 
 (1) Das Bundeskriminalamt kann zur Abwehr einer dringenden Gefahr für
 den Bestand oder die Sicherheit des Bundes oder eines Landes oder für
@@ -3423,7 +3425,7 @@ verdeckten Einsatz technischer Mittel in oder aus Wohnungen
 1.  das nichtöffentlich gesprochene Wort einer Person abhören und
     aufzeichnen,
 
-    a)  die entsprechend § 17 oder § 18 des Bundespolizeigesetzes
+    a)  die entsprechend § 18 oder § 19 des Bundespolizeigesetzes
         verantwortlich ist oder
 
 
@@ -3677,7 +3679,7 @@ angeordnet werden.
 
 
 ### § 49 Verdeckter Eingriff in informationstechnische Systeme
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005001130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005002130)
 
 (1) Das Bundeskriminalamt darf ohne Wissen der betroffenen Person mit
 technischen Mitteln in von der betroffenen Person genutzte
@@ -3729,7 +3731,7 @@ gegen Veränderung, unbefugte Löschung und unbefugte Kenntnisnahme zu
 schützen.
 
 (3) Die Maßnahme darf sich nur gegen eine Person richten, die
-entsprechend § 17 oder § 18 des Bundespolizeigesetzes verantwortlich
+entsprechend § 18 oder § 19 des Bundespolizeigesetzes verantwortlich
 ist. Die Maßnahme darf auch durchgeführt werden, wenn andere Personen
 unvermeidbar betroffen werden.
 
@@ -3815,7 +3817,7 @@ unverzüglich nachzuholen.
 
 
 ### § 50 Postbeschlagnahme und Auskunftsverlangen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005102130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005103130)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person
 Postsendungen und Telegramme beschlagnahmen, die sich im Gewahrsam von
@@ -3823,7 +3825,7 @@ Personen oder Unternehmen befinden, die geschäftsmäßig Post- oder
 Telekommunikationsdienste erbringen oder daran mitwirken und die an
 eine Person gerichtet sind,
 
-1.  die entsprechend § 17 oder § 18 des Bundespolizeigesetzes
+1.  die entsprechend § 18 oder § 19 des Bundespolizeigesetzes
     verantwortlich ist und dies zur Abwehr einer dringenden Gefahr für den
     Bestand oder die Sicherheit des Bundes oder eines Landes oder für
     Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem
@@ -3978,12 +3980,12 @@ nicht verwertet werden.
 
 
 ### § 51 Überwachung der Telekommunikation
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005201130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005202130)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person die
 Telekommunikation einer Person überwachen und aufzeichnen,
 
-1.  die entsprechend § 17 oder § 18 des Bundespolizeigesetzes
+1.  die entsprechend § 18 oder § 19 des Bundespolizeigesetzes
     verantwortlich ist und dies zur Abwehr einer dringenden Gefahr für den
     Bestand oder die Sicherheit des Bundes oder eines Landes oder für
     Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem
@@ -4152,13 +4154,13 @@ unverzüglich nachzuholen.
 
 
 ### § 52 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005304130)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005305130)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person
 Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Digitale-Dienste-
 Datenschutz-Gesetzes) erheben zu
 
-1.  den entsprechend § 17 oder § 18 des Bundespolizeigesetzes
+1.  den entsprechend § 18 oder § 19 des Bundespolizeigesetzes
     Verantwortlichen zur Abwehr einer dringenden Gefahr für den Bestand
     oder die Sicherheit des Bundes oder eines Landes oder für Leib, Leben
     oder Freiheit einer Person oder Sachen von bedeutendem Wert, deren
@@ -4527,7 +4529,7 @@ beenden.
 
 
 ### § 57 Gewahrsam
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005800000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005801130)
 
 (1) Das Bundeskriminalamt kann eine Person in Gewahrsam nehmen, wenn
 dies unerlässlich ist,
@@ -4541,14 +4543,14 @@ dies unerlässlich ist,
 
 
 
-(2) § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1 Satz 1, 3 und
+(2) § 62 Absatz 1 und 2 sowie die §§ 63 und 65 Absatz 1 Satz 1, 3 und
 Absatz 2 des Bundespolizeigesetzes gelten entsprechend mit der
 Maßgabe, dass an die Stelle der dort genannten Freiheitsentziehungen
 die Maßnahme nach Absatz 1 tritt.
 
 
 ### § 58 Durchsuchung von Personen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005900000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005901130)
 
 (1) Das Bundeskriminalamt kann eine Person durchsuchen, wenn
 
@@ -4585,11 +4587,11 @@ Gegenständen durchsuchen, soweit dies nach den Umständen zum Schutz
 der Bediensteten des Bundeskriminalamtes, der Person selbst oder eines
 Dritten gegen eine Gefahr für Leib oder Leben erforderlich ist.
 
-(3) § 43 Absatz 4 und 5 des Bundespolizeigesetzes gilt entsprechend.
+(3) § 66 Absatz 4 und 5 des Bundespolizeigesetzes gilt entsprechend.
 
 
 ### § 59 Durchsuchung von Sachen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006000000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006001130)
 
 (1) Das Bundeskriminalamt kann eine Sache durchsuchen, wenn
 
@@ -4623,11 +4625,11 @@ Dritten gegen eine Gefahr für Leib oder Leben erforderlich ist.
 und die Durchsuchung aufgrund von auf die Sache bezogenen
 Anhaltspunkten erforderlich ist. § 42 Absatz 1 bleibt unberührt.
 
-(2) § 44 Absatz 4 des Bundespolizeigesetzes gilt entsprechend.
+(2) § 67 Absatz 4 des Bundespolizeigesetzes gilt entsprechend.
 
 
 ### § 60 Sicherstellung
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006100000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006101130)
 
 (1) Das Bundeskriminalamt kann eine Sache sicherstellen,
 
@@ -4654,11 +4656,11 @@ Anhaltspunkten erforderlich ist. § 42 Absatz 1 bleibt unberührt.
 
 
 
-(2) Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend.
+(2) Die §§ 72 bis 75 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ### § 61 Betreten und Durchsuchen von Wohnungen
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006200000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006201130)
 
 (1) Das Bundeskriminalamt kann eine Wohnung ohne Einwilligung des
 Inhabers betreten und durchsuchen, wenn
@@ -4699,7 +4701,7 @@ der Gefahrenabwehr im Rahmen der dem Bundeskriminalamt nach § 5 Absatz
 1 obliegenden Aufgabe während der Arbeits-, Geschäfts- oder
 Aufenthaltszeit betreten werden.
 
-(5) § 46 des Bundespolizeigesetzes gilt entsprechend.
+(5) § 68 des Bundespolizeigesetzes gilt entsprechend.
 
 
 ### § 62 Schutz zeugnisverweigerungsberechtigter Personen
@@ -4748,7 +4750,7 @@ Gefahr verantwortlich ist.
 
 
 ### § 63 Allgemeine Befugnisse
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006400000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006401130)
 
 (1) Zur Erfüllung seiner Aufgaben nach § 6 kann das Bundeskriminalamt
 die notwendigen Maßnahmen treffen, um eine im Einzelfall bestehende
@@ -4757,7 +4759,7 @@ Gesetz die Befugnisse des Bundeskriminalamtes besonders regelt. Die
 zur Erfüllung der Aufgaben nach
 § 6 geregelten Befugnisse gelten in Bezug auf Personen nur, wenn
 Anhaltspunkte dafür vorliegen, dass von ihnen Gefährdungen für die zu
-schützende Person ausgehen können. Die §§ 15 bis 20 des
+schützende Person ausgehen können. Die §§ 16 bis 21 des
 Bundespolizeigesetzes gelten entsprechend.
 
 (2) Wenn Tatsachen die Annahme rechtfertigen, dass Straftaten begangen
@@ -4766,8 +4768,8 @@ Räumlichkeiten unmittelbar gefährdet sind, kann das Bundeskriminalamt
 
 1.  die Identität einer Person feststellen, wenn die Feststellung der
     Identität aufgrund der Gefährdungslage oder von auf die Person
-    bezogenen Anhaltspunkten erforderlich ist; § 23 Absatz 3 Satz 1, 2, 4
-    und 5 des Bundespolizeigesetzes gilt entsprechend,
+    bezogenen Anhaltspunkten erforderlich ist; § 26 Absatz 3 des
+    Bundespolizeigesetzes gilt entsprechend,
 
 
 2.  verlangen, dass Berechtigungsscheine, Bescheinigungen, Nachweise oder
@@ -4779,8 +4781,8 @@ Räumlichkeiten unmittelbar gefährdet sind, kann das Bundeskriminalamt
 
 3.  eine Person oder eine Sache durchsuchen, wenn die Durchsuchung
     aufgrund der Gefährdungslage oder von auf die Person oder Sache
-    bezogenen Anhaltspunkten erforderlich ist; § 43 Absatz 3 bis 5 und §
-    44 Absatz 4 des Bundespolizeigesetzes gelten entsprechend.
+    bezogenen Anhaltspunkten erforderlich ist; § 66 Absatz 3 bis 5 und §
+    67 Absatz 4 des Bundespolizeigesetzes gelten entsprechend.
 
 
 
@@ -4801,10 +4803,10 @@ oder mündlich vorladen, wenn
 
 
 
-§ 25 Absatz 2 bis 4 des Bundespolizeigesetzes gilt entsprechend.
+§ 28 Absatz 2 bis 4 des Bundespolizeigesetzes gilt entsprechend.
 
 (4) Das Bundeskriminalamt kann erkennungsdienstliche Maßnahmen
-entsprechend § 24 Absatz 3 des Bundespolizeigesetzes vornehmen, wenn
+entsprechend § 27 Absatz 3 des Bundespolizeigesetzes vornehmen, wenn
 eine nach Absatz 2 Nummer 1 zulässige Identitätsfeststellung auf
 andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich
 ist. Ist die Identität festgestellt, sind die im Zusammenhang mit der
@@ -4825,7 +4827,7 @@ verbieten.
 
 (6) Das Bundeskriminalamt kann zur Abwehr einer gegenwärtigen Gefahr
 für die zu schützenden Personen oder Räumlichkeiten eine Sache
-sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten
+sicherstellen. Die §§ 72 bis 75 des Bundespolizeigesetzes gelten
 entsprechend.
 
 (7) Das Bundeskriminalamt kann eine Wohnung ohne Einwilligung des
@@ -4833,13 +4835,13 @@ Inhabers betreten und durchsuchen, wenn dies zur Abwehr einer
 gegenwärtigen Gefahr für Leib, Leben oder Freiheit einer zu
 schützenden Person unerlässlich ist. Die Wohnung umfasst die Wohn- und
 Nebenräume, Arbeits-, Betriebs- und Geschäftsräume sowie anderes
-befriedetes Besitztum. § 46 des Bundespolizeigesetzes gilt
+befriedetes Besitztum. § 68 des Bundespolizeigesetzes gilt
 entsprechend.
 
 (8) Das Bundeskriminalamt kann eine Person in Gewahrsam nehmen, wenn
 dies unerlässlich ist, um die unmittelbar bevorstehende Begehung einer
 Straftat gegen die zu schützenden Personen oder Räumlichkeiten zu
-verhindern. § 40 Absatz 1 und 2, die §§ 41 und 42 Absatz 1 Satz 1 und
+verhindern. § 62 Absatz 1 und 2, die §§ 63 und 65 Absatz 1 Satz 1 und
 Absatz 2 des Bundespolizeigesetzes gelten entsprechend.
 
 
@@ -5072,7 +5074,7 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 
 ### § 66 Befugnisse
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006700000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006701130)
 
 (1) Zur Erfüllung seiner Aufgabe nach § 7 kann das Bundeskriminalamt,
 soweit nicht dieses Gesetz oder das Zeugenschutz-Harmonisierungsgesetz
@@ -5086,8 +5088,8 @@ die Strafvollstreckung betrieben wird, sind die Maßnahmen im
 Einvernehmen mit der Strafvollstreckungsbehörde und im Falle
 fortdauernder Inhaftierung auch im Einvernehmen mit der
 Justizvollzugsbehörde durchzuführen. § 63 Absatz 2 und 4 bis 8 und §
-64 sowie die §§ 15 bis 20 des Bundespolizeigesetzes gelten
-entsprechend.
+64 sowie die
+§§ 16 bis 21 des Bundespolizeigesetzes gelten entsprechend.
 
 (2) Von Maßnahmen des Bundeskriminalamtes, die nach Absatz 1 getroffen
 werden, sind die zuständigen Landeskriminalämter und die für die
@@ -5206,13 +5208,13 @@ machen.
 
 
 ### § 67 Befugnisse zur Sicherung des Bundeskriminalamtes
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006800000)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006801130)
 
 Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 8
 Absatz 1 die erforderlichen Maßnahmen treffen, um Gefahren für seine
 behördlichen Liegenschaften, sonstigen Einrichtungen und
 Veranstaltungen abzuwehren. § 63 Absatz 2, 4 bis 6 und 8 sowie die §§
-15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
+16 bis 21 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ### § 68 Sicherheitsüberprüfung
@@ -5767,7 +5769,7 @@ und die Informationsfreiheit zur Verfügung.
 
 
 #### § 81 Protokollierung
-[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008201125)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008202130)
 
 (1) Die Protokollierung nach § 76 des Bundesdatenschutzgesetzes
 erfolgt zu Verarbeitungsvorgängen im Informationssystem ergänzend zu
@@ -5799,7 +5801,7 @@ zu löschen.
 
 (4) Bei eingehenden Ersuchen um Finanzinformationen oder
 Finanzanalysen nach Artikel 2 Nummer 5 und 11 der Richtlinie (EU)
-2019/1153 werden protokolliert:
+2019/1153 in der Fassung vom 31. Mai 2024 werden protokolliert:
 
 1.  Der Name und die Kontaktdaten der Organisation und des Mitarbeiters,
     der die Informationen anfordert, sowie nach Möglichkeit des Empfängers

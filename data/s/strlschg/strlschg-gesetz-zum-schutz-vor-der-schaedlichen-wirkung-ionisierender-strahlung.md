@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000100000)
@@ -5704,7 +5707,7 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### § 88 Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen
-[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008903119)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008904123)
 
 (1) Die Daten über hochradioaktive Strahlenquellen, die auf Grund
 dieses Gesetzes oder einer Rechtsverordnung nach § 89 Satz 1 Nummer 1
@@ -5754,7 +5757,7 @@ Zusammenhang mit der Bekämpfung des Nuklearterrorismus oder der
 Nuklearkriminalität sowie des Nuklearschmuggels oder des sonstigen
 illegalen grenzüberschreitenden Verbringens hochradioaktiver
 Strahlenquellen auch das Bundeskriminalamt und die
-Landeskriminalämter, die in der Rechtsverordnung nach § 58 Absatz 1
+Landeskriminalämter, die in der Rechtsverordnung nach § 93 Absatz 1
 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, das
 Zollkriminalamt und die Verfassungsschutzbehörden des Bundes und der
 Länder gemäß ihren jeweiligen gesetzlichen Zuständigkeiten.

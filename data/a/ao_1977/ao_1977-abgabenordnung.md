@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199
 
+Änderung durch
+:   Art. 6 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Einleitende Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000102123)
@@ -1100,7 +1103,7 @@ Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU)
 
 
 #### § 30 Steuergeheimnis
-[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012316123)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012317123)
 
 (1) Amtsträger haben das Steuergeheimnis zu wahren.
 
@@ -1237,7 +1240,7 @@ soweit
         erheblich zu stören oder das Vertrauen der Allgemeinheit auf die
         Redlichkeit des geschäftlichen Verkehrs oder auf die ordnungsgemäße
         Arbeit der Behörden und der öffentlichen Einrichtungen erheblich zu
-        erschüttern, oder
+        erschüttern,
 
 
     c)  die Offenbarung erforderlich ist zur Richtigstellung in der
@@ -1245,10 +1248,15 @@ soweit
         Vertrauen in die Verwaltung erheblich zu erschüttern; die Entscheidung
         trifft die zuständige oberste Finanzbehörde im Einvernehmen mit dem
         Bundesministerium der Finanzen; vor der Richtigstellung soll der
-        Steuerpflichtige gehört werden.
+        Steuerpflichtige gehört werden, oder
 
 
 
+
+
+6.  sie der Erfüllung der Aufgaben der deutschen
+    Vermögensabschöpfungsstellen nach Artikel 5 Absatz 2 der Richtlinie
+    (EU) 2024/1260 in der Fassung vom 24. April 2024 dient.
 
 
 

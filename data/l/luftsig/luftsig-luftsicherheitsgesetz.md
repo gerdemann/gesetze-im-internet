@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 11.3.2026 I Nr. 68
 
+Änderung durch
+:   Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeines
 [Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000100000)

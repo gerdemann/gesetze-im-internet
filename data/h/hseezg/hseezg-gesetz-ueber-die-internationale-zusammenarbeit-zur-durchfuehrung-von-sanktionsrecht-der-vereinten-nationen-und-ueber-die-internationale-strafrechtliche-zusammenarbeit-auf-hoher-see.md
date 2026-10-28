@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2015, 2095
 
 Zuletzt geändert durch
-:   Art. 180 V v. 19.6.2020 I 1328
+:   Art. 12 Abs. 19 G v. 22.10.2026 I Nr. 318
 
 
 ## Teil 1 - 
@@ -288,14 +288,14 @@ dieser Vorschrift zuständig.
 
 
 #### § 6 Entschädigung
-[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000601311)
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000602126)
 
 (1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht
 wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind
-die §§ 51 bis 56 des Bundespolizeigesetzes entsprechend anzuwenden.
+die §§ 86 bis 91 des Bundespolizeigesetzes entsprechend anzuwenden.
 
-(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 51
-bis 56, ausgenommen § 52 Absatz 1 Satz 2 und Absatz 2, des
+(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 86
+bis 91, ausgenommen § 87 Absatz 1 Satz 2 und Absatz 2, des
 Bundespolizeigesetzes entsprechend anzuwenden.
 
 

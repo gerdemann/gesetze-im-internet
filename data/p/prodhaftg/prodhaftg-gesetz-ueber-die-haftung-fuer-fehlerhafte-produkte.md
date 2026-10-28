@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 2198
 
+G aufgeh. durch
+:   § 19 dieses G idF d. Art. 2 G v. 22.10.2026 I Nr. 321 mWv 9.12.2026
+
 Zuletzt geändert durch
-:   Art. 5 G v. 17.7.2017 I 2421
+:   Art. 2 G v. 22.10.2026 I Nr. 321
 
 
 ## § 1 Haftung
@@ -308,8 +311,8 @@ aufgrund dieses Gesetzes erlassen werden, gelten nach Maßgabe des § 14
 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
 
-## § 19 Inkrafttreten
-[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001900328)
+## § 19 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001901360)
 
-Dieses Gesetz tritt am 1. Januar 1990 in Kraft.
+Dieses Gesetz tritt am 9. Dezember 2026 außer Kraft.
 

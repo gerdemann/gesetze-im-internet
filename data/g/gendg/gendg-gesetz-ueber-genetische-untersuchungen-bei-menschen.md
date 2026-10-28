@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 4 G v. 4.5.2021 I 882
 
+Änderung durch
+:   Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000100000)
@@ -36,7 +39,7 @@ des Rechts auf informationelle Selbstbestimmung zu wahren.
 
 
 ### § 2 Anwendungsbereich
-[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000300000)
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000301130)
 
 (1) Dieses Gesetz gilt für genetische Untersuchungen und im Rahmen
 genetischer Untersuchungen durchgeführte genetische Analysen bei
@@ -55,8 +58,8 @@ Analysen und den Umgang mit genetischen Proben und Daten
 2.  auf Grund von Vorschriften
 
     a)  über das Strafverfahren, über die internationale Rechtshilfe in
-        Strafsachen, des Bundeskriminalamtgesetzes und der Polizeigesetze der
-        Länder,
+        Strafsachen, des Bundeskriminalamtgesetzes und der Polizeigesetze des
+        Bundes und der Länder,
 
 
     b)  des Infektionsschutzgesetzes und der auf Grund des
