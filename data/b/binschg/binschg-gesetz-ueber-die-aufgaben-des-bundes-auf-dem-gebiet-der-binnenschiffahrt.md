@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.3.2023 I Nr. 82; 2023 I Nr. 126;
 
-Geändert durch
-:   Art. 14 G v. 22.12.2023 I Nr. 409
-
-Änderung durch
-:   Art. 8 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 8 G v. 22.10.2026 I Nr. 320
 
 
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
@@ -1081,7 +1078,7 @@ anzuwenden.
 
 
 ## § 9 Binnenschiffsbestandsdatei
-[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001213119)
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001214119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge
@@ -1213,13 +1210,18 @@ soweit dies erforderlich ist, zum Zwecke der
     Länder,
 
 
-4.  Überprüfung von Angaben in Zusammenhang mit den Regelungen des
+4.  Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel 5
+    der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an
+    Staatsanwaltschaften und das Bundeskriminalamt,
+
+
+5.  Überprüfung von Angaben in Zusammenhang mit den Regelungen des
     Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen
     Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen
     für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
 
 
-5.  Durchführung der Marktbeobachtung nach § 14 des
+6.  Durchführung der Marktbeobachtung nach § 14 des
     Güterkraftverkehrsgesetzes an das Bundesamt für Logistik und Mobilität
 
 
@@ -1481,7 +1483,7 @@ genutzt werden.
 
 
 ## § 12 Verzeichnis über Kleinfahrzeuge
-[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002108119)
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002109119)
 
 (1) Jedes Wasserstraßen- und Schifffahrtsamt führt ein Verzeichnis
 über Wasserfahrzeuge mit einer Länge von weniger als 20 Meter
@@ -1546,7 +1548,7 @@ durch Rechtsverordnung das Nähere über Art und Umfang der zu
 speichernden Daten nach Absatz 2 zu bestimmen.
 
 (4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen,
-soweit dies erforderlich ist, zum Zwecke der
+soweit dies erforderlich ist, übermittelt werden zum Zwecke der
 
 1.  Durchführung von Verwaltungsaufgaben nach diesem Gesetz oder auf Grund
     dieses Gesetzes oder des Seeaufgabengesetzes erlassener
@@ -1559,11 +1561,16 @@ soweit dies erforderlich ist, zum Zwecke der
     stehen, der Vollstreckung oder des Vollzuges von Maßnahmen im Sinne
     des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches an Gerichte,
     Staatsanwaltschaften und das Bundeskriminalamt als
-    Strafverfolgungsbehörde, oder
+    Strafverfolgungsbehörde,
 
 
-3.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
-    Gerichte und Staatsanwaltschaften übermittelt werden.
+3.  Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel 5
+    der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an
+    Staatsanwaltschaften und das Bundeskriminalamt,
+
+
+4.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
+    Gerichte und Staatsanwaltschaften.
 
 
 

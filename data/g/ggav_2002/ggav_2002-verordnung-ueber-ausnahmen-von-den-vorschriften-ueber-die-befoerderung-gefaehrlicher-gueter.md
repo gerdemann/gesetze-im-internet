@@ -3433,9 +3433,7 @@ unter Einhaltung der nachfolgenden Bestimmungen befördert werden:
 
 
 
-    Bei Einstufung nach Nummer 4.2, 4.5 oder 4.6 ist der Stoff der Klasse
-    3, 8 oder 9 zusätzlich anzugeben.
-[^f806001_01_BJNR435000002BJNE000713123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
+    Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für
     Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
     Abteilung gesetzliche Schutzaufgaben, Referat Grundsatz Gefahrgutwesen
     (BAUIDBw GS III 1), Fontainengraben 200, Postfach 29 63, 53123 Bonn,

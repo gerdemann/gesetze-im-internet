@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.7.2017 I 2316;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 9.1.2026 I Nr. 7
-
-Änderung durch
-:   Art. 9 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 9 G v. 22.10.2026 I Nr. 318
 
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
 Parlaments und des Rates vom 9. September 2015 über ein
@@ -38,7 +35,7 @@ der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
 
 
 ### § 1 Gegenstand der Verordnung
-[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000214119)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000215119)
 
 Diese Verordnung regelt
 
@@ -57,10 +54,13 @@ Diese Verordnung regelt
     d)  in § 51 des Bundeskriminalamtgesetzes,
 
 
-    e)  in den §§ 19, 24 und 26 des BND-Gesetzes sowie
+    e)  in § 40 Absatz 1 des Bundespolizeigesetzes
 
 
-    f)  im Landesrecht
+    f)  in den §§ 19, 24 und 26 des BND-Gesetzes sowie
+
+
+    g)  im Landesrecht
 
 
 
@@ -107,7 +107,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000311119)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000312119)
 
 Im Sinne dieser Verordnung ist
 
@@ -116,8 +116,8 @@ Im Sinne dieser Verordnung ist
     a)  im Sinne der Teile 2 und 3 die Anordnung zur Überwachung der
         Telekommunikation nach § 100e der Strafprozessordnung, § 10 des
         Artikel 10-Gesetzes, § 74 des Zollfahndungsdienstgesetzes, § 51 des
-        Bundeskriminalamtgesetzes, § 25 Absatz 1 Satz 1 des BND-Gesetzes oder
-        nach Landesrecht und
+        Bundeskriminalamtgesetzes, § 40 des Bundespolizeigesetzes, § 25 Absatz
+        1 Satz 1 des BND-Gesetzes oder nach Landesrecht und
 
 
     b)  im Sinne des Teils 4 die Anordnung zur Erteilung von Auskünften über
@@ -125,8 +125,8 @@ Im Sinne dieser Verordnung ist
         Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
         8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
         in Verbindung mit § 3 des BND-Gesetzes, § 52 des
-        Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
-        nach Landesrecht;
+        Bundeskriminalamtgesetzes, § 25 des Bundespolizeigesetzes, § 77 des
+        Zollfahndungsdienstgesetzes oder nach Landesrecht;
 
 
 
@@ -152,7 +152,8 @@ Im Sinne dieser Verordnung ist
     a)  im Sinne der Teile 2 und 3 die nach § 100a Absatz 4 Satz 1 der
         Strafprozessordnung, § 1 Absatz 1 Nummer 1 des Artikel 10-Gesetzes, §
         72 Absatz 1 des Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des
-        Bundeskriminalamtgesetzes, den §§ 19, 24 oder 26 des BND-Gesetzes oder
+        Bundeskriminalamtgesetzes, § 40 Absatz 5 Satz 1 des
+        Bundespolizeigesetzes, den §§ 19, 24 oder 26 des BND-Gesetzes oder
         nach Landesrecht auf Grund der jeweiligen Anordnung zur Überwachung
         und Aufzeichnung der Telekommunikation berechtigte Stelle und
 
@@ -163,11 +164,11 @@ Im Sinne dieser Verordnung ist
             Strafprozessordnung, § 20 Absatz 1 Satz 1 Nummer 5 des MAD-Gesetzes, §
             8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch
             in Verbindung mit § 3 des BND-Gesetzes, § 52 des
-            Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder
-            nach Landesrecht auf Grund der jeweiligen Anordnung berechtigt ist,
-            Auskunftsverlangen über nach den §§ 9 und 12 des Telekommunikation-
-            Digitale-Dienste-Datenschutz-Gesetzes erhobene Verkehrsdaten zu
-            stellen, oder
+            Bundeskriminalamtgesetzes, § 25 des Bundespolizeigesetzes, § 77 des
+            Zollfahndungsdienstgesetzes oder nach Landesrecht auf Grund der
+            jeweiligen Anordnung berechtigt ist, Auskunftsverlangen über nach den
+            §§ 9 und 12 des Telekommunikation-Digitale-Dienste-Datenschutz-
+            Gesetzes erhobene Verkehrsdaten zu stellen, oder
 
 
         bb) der nach § 177 Absatz 1 Nummer 1 oder 2 des Telekommunikationsgesetzes
@@ -261,8 +262,9 @@ Im Sinne dieser Verordnung ist
     eine Maßnahme zur Überwachung der Telekommunikation nach § 100a Absatz
     1 Satz 1 der Strafprozessordnung, den §§ 3, 5 oder 8 des Artikel
     10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, §
-    51 Absatz 1 des Bundeskriminalamtgesetzes, den §§ 19, 24 oder 26 des
-    BND-Gesetzes oder nach Landesrecht;
+    51 Absatz 1 des Bundeskriminalamtgesetzes, § 40 Absatz 1 des
+    Bundespolizeigesetzes, den §§ 19, 24 oder 26 des BND-Gesetzes oder
+    nach Landesrecht;
 
 
 16. Verpflichteter
@@ -303,8 +305,8 @@ Im Sinne dieser Verordnung ist
 
 
 
-## Teil 2 - Maßnahmen nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes oder nach Landesrecht
-[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000205119)
+## Teil 2 - Maßnahmen nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes, § 40 Absatz 1 des Bundespolizeigesetzes oder nach Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000206119)
 
 
 
@@ -314,7 +316,7 @@ Im Sinne dieser Verordnung ist
 
 
 #### § 3 Kreis der Verpflichteten
-[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000409119)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000410119)
 
 (1) Die Vorschriften dieses Teils gelten für die Betreiber von
 Telekommunikationsanlagen, mit denen öffentlich zugängliche
@@ -367,7 +369,8 @@ Telekommunikationsgesetzes.
 (3) § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 2 Absatz 1a Satz
 1 Nummer 1 bis 3 des Artikel 10-Gesetzes, § 72 Absatz 7 des
 Zollfahndungsdienstgesetzes, § 51 Absatz 6 Satz 1 des
-Bundeskriminalamtgesetzes sowie die Vorschriften des Landesrechts über
+Bundeskriminalamtgesetzes, § 40 Absatz 5 Satz 1 des
+Bundespolizeigesetzes sowie die Vorschriften des Landesrechts über
 Maßnahmen zur Überwachung der Telekommunikation bleiben von den
 Absätzen 1 und 2 unberührt.
 
@@ -418,14 +421,14 @@ und Absatz 2 bis 4 abgewichen werden kann. § 22 ist im Rahmen von
 
 
 #### § 5 Grundsätze
-[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000605119)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000606119)
 
 (1) Die zu überwachende Telekommunikation umfasst bei
 Überwachungsmaßnahmen nach § 100a Absatz 1 Satz 1 der
 Strafprozessordnung, dem § 3 des Artikel 10-Gesetzes, dem § 72 Absatz
 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des
-Bundeskriminalamtgesetzes oder nach Landesrecht die Telekommunikation,
-die
+Bundeskriminalamtgesetzes, § 40 Absatz 1 des Bundespolizeigesetzes
+oder nach Landesrecht die Telekommunikation, die
 
 1.  von der zu überwachenden Kennung ausgeht,
 

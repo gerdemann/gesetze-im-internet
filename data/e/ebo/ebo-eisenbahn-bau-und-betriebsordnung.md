@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 1967, 1563
 
 Zuletzt geändert durch
-:   Art. 22 G v. 22.7.2026 I Nr. 224
-
-Änderung durch
-:   Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel
@@ -2287,7 +2284,7 @@ Eisenbahnen in Ausübung ihres Dienstes.
 
 
 ### § 64b Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007406124)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007407119)
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes
 handelt, wer vorsätzlich
@@ -2350,8 +2347,9 @@ handelt auch, wer vorsätzlich oder fahrlässig
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der
-Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs.
-1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
+Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 93
+Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
+übertragen.
 
 
 ### § 65 Übergangsregelung

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 269
 
 Zuletzt geändert durch
-:   Art. 519 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel
@@ -1332,7 +1329,7 @@ Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
 
 ## § 49 Ordnungswidrigkeiten
-[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005103308)
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005104119)
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes
 handelt, wer entgegen den Vorschriften des § 48 vorsätzlich
@@ -1383,8 +1380,9 @@ fahrlässig
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der
-Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs.
-1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
+Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 93
+Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
+übertragen.
 
 
 ## § 50 Inkrafttreten

@@ -17,10 +17,9 @@ Fundstelle
 
 
 
-## Art 1
+## Art 1 Änderungsvorschrift
 [Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000100305)
 
--
 
 
 ## Art 2
@@ -37,10 +36,9 @@ Krankenkassen verteilen den jeweiligen Betrag entsprechend dem in Satz
 1 genannten Anteil an die Krankenkassen ihrer Kassenart.
 
 
-## Art 3
+## Art 3 Änderungsvorschrift
 [Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000300305)
 
--
 
 
 ## Art 4 Inkrafttreten
