@@ -18,6 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2026 I Nr. 221
 
+Stand: Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE000100000)

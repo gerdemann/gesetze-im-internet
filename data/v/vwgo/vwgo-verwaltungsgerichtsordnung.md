@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 20.5.2026 I Nr. 152
 
 Änderung durch
-:   Art. 13 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 13 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -4438,18 +4438,25 @@ einer gerichtlichen Entscheidung auch mitwirken:
 
 
 ### § 177
-[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019706125)
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019708131)
 
 Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des
 Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
 DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
 abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und
-übermittelt werden. Dokumente und Aktenteile, die nach den
-Verschlusssachenanweisungen des Bundes oder der Länder als
-Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
-bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in
-Papierform übermittelt werden. Die für die Handhabung von
-Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten
+sind, die nach den Verschlusssachenanweisungen des Bundes oder der
+Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis einschließlich 31. Dezember 2035
+abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und
+übermittelt werden, wenn eine teilweise elektronische Aktenführung nur
+mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und
+Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder
+der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den
+§§ 55a bis 55d in Papierform übermittelt werden. Die für die
+Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
+bleiben unberührt.
 
 
 ### (XXXX) §§ 178 und 179
