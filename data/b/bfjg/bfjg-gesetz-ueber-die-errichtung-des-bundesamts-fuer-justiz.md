@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -39,7 +39,7 @@ zentralen Dienstleistungsbehörde.
 
 
 ## § 2 Aufgaben des Bundesamts
-[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000205130)
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000206131)
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des
 Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und
@@ -71,11 +71,7 @@ Verbraucherschutz bei der
         nationalen Kontaktstellen des Europäischen Justiziellen Netzes,
 
 
-    d)  als Vermögensabschöpfungsstelle; § 9 Absatz 6 des
-        Bundeskriminalamtgesetzes gilt entsprechend,
-
-
-    e)  in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
+    d)  in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
 
 

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 10.2.2026 I Nr. 39
 
 Änderung durch
-:   Art. 5 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt
@@ -7371,13 +7371,347 @@ verlassen hat, obwohl sie dazu die Möglichkeit hatte, oder nach
 Verlassen in ihn zurückgekehrt ist.
 
 
-### Abschnitt 3 - Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
-[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003900126)
+### Abschnitt 3 - Zusammenarbeit nach Maßgabe der Richtlinie (EU) 2024/1260
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004200131)
+
+
+
+#### Unterabschnitt 1 - Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004300131)
+
+
+
+##### § 91k Übermittlung von Informationen auf Ersuchen an Vermögensabschöpfungsstellen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE026800131)
+
+(1) Auf Ersuchen einer Vermögensabschöpfungsstelle eines
+Mitgliedstaates, das nach Maßgabe der Richtlinie (EU) 2024/1260 in der
+Fassung vom 24. April 2024 gestellt worden ist, kann eine deutsche
+Vermögensabschöpfungsstelle ihr zugängliche Informationen
+einschließlich personenbezogener Daten zum Zweck des Aufspürens und
+der Ermittlung von Vermögenswerten übermitteln.
+
+(2) Eine Information ist der deutschen Vermögensabschöpfungsstelle
+zugänglich gemäß Absatz 1, wenn die deutsche
+Vermögensabschöpfungsstelle nach Maßgabe von Bundes- und Landesrecht
+
+1.  zu der Information umgehenden und direkten Zugang gemäß Artikel 6
+    Absatz 2 oder 3 der Richtlinie (EU) 2024/1260 in der Fassung vom 24.
+    April 2024 hat oder
+
+
+2.  die Information von anderen Behörden des Bundes oder der Länder
+    einholen kann.
+
+
+
+
+(3) Vermögenswerte gemäß Absatz 1 sind Erträge, Vermögensgegenstände
+und Tatwerkzeuge gemäß Artikel 3 Nummer 1, 2 und 3 der Richtlinie (EU)
+2024/1260 in der Fassung vom 24. April 2024, die Gegenstand einer
+Sicherstellungsentscheidung oder Einziehungsentscheidung einer
+zuständigen Behörde in einem anderen Mitgliedstaat sind oder werden
+könnten.
+
+
+##### § 91l Inhalt des Ersuchens
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE026900131)
+
+Ein Ersuchen nach § 91k Absatz 1 soll Angaben zu Folgendem enthalten:
+
+1.  zum Gegenstand des Ersuchens;
+
+
+2.  zu den Gründen für das Ersuchen, einschließlich der Relevanz der
+    erbetenen Informationen für das Aufspüren und die Ermittlung von
+    einschlägigen Vermögensgegenständen;
+
+
+3.  zur Art des Verfahrens;
+
+
+4.  zur Art der Straftat, die dem Ersuchen zugrunde liegt;
+
+
+5.  zur Verbindung zwischen dem Verfahren und der Bundesrepublik
+    Deutschland;
+
+
+6.  zu den von dem Ersuchen betroffenen oder den zu ermittelnden
+    Vermögenswerten;
+
+
+7.  sofern zur Identifizierung mutmaßlich beteiligter natürlicher oder
+    juristischer Personen erforderlich und soweit verfügbar: Angaben zu
+    jeglichen Identitätsdokumenten, insbesondere Name,
+    Staatsangehörigkeit, Wohnort, nationale Identifikationsnummern oder
+    Sozialversicherungsnummern, Anschriften, Geburtsdatum und -ort,
+    Meldedaten, Land der Niederlassung und Angaben über Anteilseigner,
+    Firmensitze und gegebenenfalls Tochtergesellschaften;
+
+
+8.  zu den Gründen für die Dringlichkeit des Ersuchens, soweit
+    erforderlich.
+
+
+
+
+
+##### § 91m Zwingende Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027000131)
+
+(1) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten nach § 91k Absatz 1 ist abzulehnen, wenn
+
+1.  es sich bei den angeforderten Informationen um andere personenbezogene
+    Daten handelt als jene, die in Anhang II Buchstabe B Absatz 2 der
+    Verordnung (EU) 2016/794, die zuletzt durch die Verordnung (EU)
+    2025/2611 vom 16. Dezember 2025 (ABl. L, 2025/2611, 22.12.2025)
+    geändert worden ist, aufgeführt sind,
+
+
+2.  es sich bei den angeforderten Informationen um Informationen für die
+    forensische Identifizierung im Sinne des Anhangs II Buchstabe B Absatz
+    2 Buchstabe c Ziffer v der Verordnung (EU) 2016/794 in der Fassung vom
+    16\. Dezember 2025 handelt,
+
+
+3.  die angeforderten Informationen nicht gemäß § 91k Absatz 1 und 2
+    zugänglich sind oder
+
+
+4.  dem Ersuchen ausschließlich eine Tat zugrunde liegt, die nach
+    deutschem Recht nicht als Straftat im Höchstmaß mit einer
+    Freiheitsstrafe von mindestens einem Jahr bedroht ist.
+
+
+
+
+(2) Vor Ablehnung eines Ersuchens kann die deutsche
+Vermögensabschöpfungsstelle die ersuchende Vermögensabschöpfungsstelle
+konsultieren.
+
+(3) Die Gründe für die Ablehnung eines Ersuchens teilt die deutsche
+Vermögensabschöpfungsstelle der ersuchenden
+Vermögensabschöpfungsstelle mit.
+
+
+##### § 91n Fakultative Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027100131)
+
+(1) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten nach § 91k Absatz 1 kann abgelehnt werden,
+soweit konkrete Anhaltspunkte für die Annahme vorliegen, dass die
+Übermittlung der Informationen
+
+1.  wesentliche Sicherheitsinteressen des Bundes oder der Länder
+    beeinträchtigen würde,
+
+
+2.  den Erfolg laufender Ermittlungen oder eines polizeilichen
+    Erkenntnisgewinnungsverfahrens gefährden würde,
+
+
+3.  eine unmittelbare Gefahr für das Leben oder die körperliche
+    Unversehrtheit einer Person darstellen würde oder
+
+
+4.  eindeutig in einem Missverhältnis zu den Zwecken, für die sie erbeten
+    wurde, stehen würde oder für diese Zwecke irrelevant ist.
+
+
+
+
+(2) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten gemäß § 91k Absatz 1 kann ferner abgelehnt
+werden, soweit das Ersuchen nicht den Anforderungen des § 91l
+entspricht.
+
+(3) Vor Ablehnung eines Ersuchens konsultiert die deutsche
+Vermögensabschöpfungsstelle die ersuchende
+Vermögensabschöpfungsstelle.
+
+(4) § 91m Absatz 3 gilt entsprechend.
+
+
+##### § 91o Fristen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027200131)
+
+(1) Die deutschen Vermögensabschöpfungsstellen beantworten Ersuchen
+gemäß § 91k Absatz 1 unverzüglich, in jedem Fall aber innerhalb der
+folgenden Fristen:
+
+1.  sieben Kalendertage bei allen nicht dringenden Ersuchen;
+
+
+2.  acht Stunden bei dringenden Ersuchen um Informationen gemäß § 91k
+    Absatz 2 Nummer 1;
+
+
+3.  drei Kalendertage bei dringenden Ersuchen um Informationen gemäß § 91k
+    Absatz 2 Nummer 2.
+
+
+
+
+(2) Die deutschen Vermögensabschöpfungsstellen können die Übermittlung
+von Informationen gemäß § 91k Absatz 1 aufschieben, wenn innerhalb der
+in Absatz 1 genannten Fristen
+
+1.  die Erledigung des Ersuchens nach Absatz 1 Nummer 1 oder 3 einen
+    unverhältnismäßigen Aufwand für die deutsche
+    Vermögensabschöpfungsstelle darstellt oder
+
+
+2.  die nach Absatz 1 Nummer 2 erbetenen Informationen nicht unmittelbar
+    zur Verfügung stehen.
+
+
+
+Die deutschen Vermögensabschöpfungsstellen unterrichten die ersuchende
+Vermögensabschöpfungsstelle unverzüglich über eine Aufschiebung und
+übermitteln die erbetenen Informationen so bald wie möglich,
+spätestens innerhalb von sieben Tagen nach Ablauf der ursprünglichen
+Frist nach Absatz 1 Nummer 1 oder innerhalb von drei Tagen nach Ablauf
+der ursprünglichen Frist nach Absatz 1 Nummer 2 und 3.
+
+(3) Die in Absatz 1 genannten Fristen beginnen mit Eingang des
+Ersuchens bei der deutschen Vermögensabschöpfungsstelle.
+
+
+##### § 91p Informationsübermittlung ohne Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027300131)
+
+(1) Nach Maßgabe der Richtlinie (EU) 2024/1260 in der Fassung vom 24.
+April 2024 darf eine deutsche Vermögensabschöpfungsstelle ohne
+Ersuchen die ihr vorliegenden Informationen einschließlich
+personenbezogener Daten über Vermögenswerte gemäß § 91k Absatz 1 und 3
+an die Vermögensabschöpfungsstelle eines anderen Mitgliedstaates gemäß
+Artikel 5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April
+2024 übermitteln, soweit der deutschen Vermögensabschöpfungsstelle
+objektive Anhaltspunkte dafür vorliegen, dass diese Informationen für
+die Wahrnehmung der Aufgaben der Vermögensabschöpfungsstelle des
+betreffenden anderen Mitgliedstaates gemäß Artikel 5 der Richtlinie
+(EU) 2024/1260 in der Fassung vom 24. April 2024 erforderlich sind.
+
+(2) § 91m Absatz 1 und § 91n Absatz 1 gelten entsprechend.
+
+(3) Bei der Übermittlung von Informationen gemäß Absatz 1 legt die
+deutsche Vermögensabschöpfungsstelle die Gründe dar, weshalb sie die
+Übermittlung der Information für erforderlich erachtet.
+
+
+##### § 91q Verwendung der Informationen in einem Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027400131)
+
+(1) Bei der Übermittlung von Informationen gemäß § 91k Absatz 1 oder §
+91p Absatz 1 ist mitzuteilen, dass die Verwendung als Beweismittel in
+einem Gerichtsverfahren unzulässig ist.
+
+(2) Nimmt eine Staatsanwaltschaft die Aufgaben der
+Vermögensabschöpfungsstelle wahr, gilt Absatz 1 nicht, wenn die
+Staatsanwaltschaft mit der Übermittlung ihre Zustimmung zur Verwendung
+als Beweismittel in einem Gerichtsverfahren erteilt oder eine solche
+Verwendung auf Ersuchen nachträglich genehmigt.
+
+(3) Nimmt eine einem Bundesministerium nachgeordnete Bundesbehörde die
+Aufgaben der Vermögensabschöpfungsstelle wahr, gilt Absatz 1 nicht,
+wenn dieses Bundesministerium seine Zustimmung zur Verwendung als
+Beweismittel in einem Gerichtsverfahren erteilt oder eine solche
+Verwendung auf Ersuchen nachträglich genehmigt. Das nach Satz 1
+zuständige Bundesministerium kann die Ausübung dieser Befugnis auf die
+nachgeordnete Bundesbehörde übertragen.
+
+
+##### § 91r Vorübergehende Sicherstellung von Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027500131)
+
+(1) Zur Sicherung von Vermögenswerten, die im Rahmen der Erledigung
+eines eingehenden Informationsersuchens gemäß § 91k aufgespürt und
+ermittelt wurden und deren Sicherstellung nach der Verordnung
+Sicherstellung und Einziehung in der Fassung vom 13. Dezember 2023 in
+Betracht kommt, können auch schon vor Eingang eines nach dieser
+Verordnung zu stellenden Ersuchens um Sicherstellung vorübergehend
+Sicherstellungsmaßnahmen nach den §§ 111b bis 111h der
+Strafprozessordnung getroffen werden.
+
+(2) Die nach § 96b Absatz 3 örtlich zuständige staatsanwaltliche
+Vermögensabschöpfungsstelle bereitet die Entscheidung des Gerichts
+vor.
+
+(3) Die nach Absatz 1 notwendig werdenden gerichtlichen Entscheidungen
+trifft das nach § 162 der Strafprozessordnung zuständige Gericht.
+
+(4) Bei Gefahr im Verzug sind die gemäß Absatz 2 zuständigen
+staatsanwaltlichen Vermögensabschöpfungsstellen befugt, die
+Sicherstellungsmaßnahmen nach Absatz 1 anzuordnen. § 111j Absatz 2
+Satz 1 der Strafprozessordnung findet keine Anwendung.
+
+
+#### Unterabschnitt 2 - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004400131)
+
+
+
+##### § 91s Ausgehende Ersuchen um Übermittlung von Informationen an Vermögensabschöpfungsstellen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027600131)
+
+(1) Die deutschen Vermögensabschöpfungsstellen, die
+Staatsanwaltschaften und die zuständigen Polizei-, Finanz- und
+Zollbehörden dürfen Ersuchen um Übermittlung von Informationen
+einschließlich personenbezogener Daten an eine nach der Richtlinie
+(EU) 2024/1260 in der Fassung vom 24. April 2024 benannte
+Vermögensabschöpfungsstelle eines anderen Mitgliedstaates zum Zweck
+des Aufspürens und der Ermittlung von Vermögenswerten, die nach
+deutschem Recht der Einziehung unterliegen, richten.
+
+(2) Die Übermittlung von Ersuchen nach Absatz 1 erfolgt durch die
+polizeiliche Vermögensabschöpfungsstelle.
+
+(3) Für die Stellung eines Ersuchens nach Absatz 1 gelten die §§ 91l,
+91m Absatz 1 Nummer 1, 2 und 4 und § 91n Absatz 1 entsprechend.
+
+
+##### § 91t Verwendung von nach der Richtlinie (EU) 2024/1260 übermittelten Informationen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027700131)
+
+(1) Informationen, die auf Grundlage der Richtlinie (EU) 2024/1260 in
+der Fassung vom 24. April 2024 übermittelt worden sind, dürfen nur für
+die Zwecke verwendet werden, für die sie übermittelt wurden.
+
+(2) Informationen gemäß Absatz 1 dürfen für einen anderen Zweck als
+für den, für den sie übermittelt wurden, oder als Beweismittel in
+einem Gerichtsverfahren nur verwendet werden, wenn der übermittelnde
+Mitgliedstaat zugestimmt hat oder eine solche Verwendung auf Ersuchen
+nachträglich genehmigt. Von dem übermittelnden Mitgliedstaat für die
+Verwendung der Informationen gestellte Bedingungen sind zu beachten.
+
+
+#### Unterabschnitt 3 - Kommunikation mit den Vermögensverwaltungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004500131)
+
+
+
+##### § 91u Kommunikation mit den Vermögensverwaltungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE027800131)
+
+Die Staatsanwaltschaften und die deutschen Vermögensverwaltungsstellen
+können bei Bedarf und unter Einsatz aller geeigneten
+Kommunikationsmittel mit der Vermögensverwaltungsstelle oder der
+Vermögensabschöpfungsstelle eines anderen, an die Richtlinie (EU)
+2024/1260 in der Fassung vom 24. April 2024 gebundenen Mitgliedstaates
+Rücksprache halten, um in grenzüberschreitenden Fällen die effiziente
+Verwaltung sichergestellter und eingezogener Vermögensgegenstände
+sicherzustellen.
+
+
+### Abschnitt 4 - Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003901131)
 
 
 
 #### Unterabschnitt 1 - Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
-[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004000126)
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004001131)
 
 
 
@@ -7661,7 +7995,7 @@ entsprechende Anwendung.
 
 
 #### Unterabschnitt 2 - Übermittlung von Informationen aus einem anderen Mitgliedstaat der Europäischen Union
-[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004100126)
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG004101131)
 
 
 
@@ -7778,8 +8112,8 @@ genehmigt. Von dem übermittelnden Staat für die Verwendung der
 Informationen gestellte Bedingungen sind zu beachten.
 
 
-### Abschnitt 4 - Besondere Formen der Rechtshilfe
-[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002302126)
+### Abschnitt 5 - Besondere Formen der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002303131)
 
 
 
@@ -8022,12 +8356,12 @@ anzuwenden.
 
 
 ### § 96b Zuständigkeit und Verfahren für eingehende Ersuchen
-[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025400125)
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025401131)
 
 (1) Über die Anerkennung und Vollstreckung eingehender
-Sicherstellungsentscheidungen entscheidet das nach § 67 Absatz 3
-zuständige Amtsgericht; § 51 Absatz 2 Satz 3 gilt entsprechend. Wird
-eine Sicherstellungsentscheidung gleichzeitig mit einer
+Sicherstellungsentscheidungen entscheidet das nach § 162 der
+Strafprozessordnung zuständige Gericht. Wird eine
+Sicherstellungsentscheidung gleichzeitig mit einer
 Einziehungsentscheidung übermittelt, so entscheidet das nach § 50 Satz
 1 und § 51 zuständige Landgericht.
 

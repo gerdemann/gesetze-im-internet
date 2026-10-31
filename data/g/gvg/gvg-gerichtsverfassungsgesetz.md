@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 5 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 3 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -3666,8 +3666,26 @@ Staatsanwaltschaft oder die Europäische Staatsanwaltschaft Beschwerde
 beim Bundesgerichtshof erheben.
 
 
+### § 142c Vermögensabschöpfung und Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027500131)
+
+Die Staatsanwaltschaften der Länder nehmen die Aufgaben der folgenden
+Stellen wahr:
+
+1.  der Vermögensabschöpfungsstellen nach den Artikeln 5 und 11 Absatz 3
+    der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 und
+
+
+2.  der Vermögensverwaltungsstellen nach Artikel 22 Absatz 2 Buchstabe a
+    zweite Alternative, Buchstabe b und c der Richtlinie (EU) 2024/1260 in
+    der Fassung vom 24. April 2024.
+
+
+
+
+
 ### § 143
-[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016304125)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016305131)
 
 (1) Die örtliche Zuständigkeit der Staatsanwaltschaft bestimmt sich
 nach der örtlichen Zuständigkeit des Gerichts, bei dem die
@@ -3697,13 +3715,16 @@ einigen.
 (4) Den Beamten einer Staatsanwaltschaft kann für die Bezirke mehrerer
 Land- oder Oberlandesgerichte die Zuständigkeit für die Verfolgung
 bestimmter Arten von Strafsachen, die Strafvollstreckung in diesen
-Sachen sowie die Bearbeitung von Rechtshilfeersuchen von Stellen
+Sachen, die Aufgaben der Vermögensabschöpfungsstellen nach § 142c
+Nummer 1 sowie die Bearbeitung von Rechtshilfeersuchen von Stellen
 außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zugewiesen
 werden, sofern dies für eine sachdienliche Förderung oder schnellere
 Erledigung der Verfahren zweckmäßig ist; in diesen Fällen erstreckt
 sich die örtliche Zuständigkeit der Beamten der Staatsanwaltschaft in
 den ihnen zugewiesenen Sachen auf alle Gerichte der Bezirke, für die
-ihnen diese Sachen zugewiesen sind.
+ihnen diese Sachen zugewiesen sind. Die Länder weisen die
+Zuständigkeit für die Aufgaben der Vermögensverwaltungsstellen nach §
+142c Nummer 2 den Beamten einer Staatsanwaltschaft zu.
 
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 einer Staatsanwaltschaft für die Bezirke mehrerer Land- oder

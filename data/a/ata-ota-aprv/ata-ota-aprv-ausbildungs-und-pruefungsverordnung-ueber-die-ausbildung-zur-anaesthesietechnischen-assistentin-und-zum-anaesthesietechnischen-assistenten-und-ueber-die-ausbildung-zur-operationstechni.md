@@ -20,6 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 8z6 G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 3 G v. 27.10.2026 I Nr. 326 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F813654_01_BJNR229510020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
     Europäischen Parlaments und des Rates vom 7. September 2005 über die
     Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
