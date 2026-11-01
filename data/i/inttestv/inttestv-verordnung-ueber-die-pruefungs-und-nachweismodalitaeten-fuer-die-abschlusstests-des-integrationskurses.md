@@ -166,15 +166,22 @@ Prüfungsteile werden nicht gewertet.
 
 
 ## § 10 Bewertung der Prüfungsergebnisse
-[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001100000)
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001101311)
 
 (1) Die Bedingungen für das Bestehen des „Deutsch-Tests für
 Zuwanderer“ richten sich nach § 17 Absatz 2 der
 Integrationskursverordnung. Dabei ist die Kompetenzstufe B1 des
 Gemeinsamen Europäischen Referenzrahmens für Sprachen erreicht, wenn
-in dem Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der
-Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 erreicht
-ist.
+
+1.  im Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der
+    Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 und
+
+
+2.  im verbleibenden Fertigkeitsbereich der zweiten Alternative nach
+    Nummer 1 mindestens die Kompetenzstufe A 2 erreicht ist.
+
+
+
 
 (2) Für das Bestehen des Orientierungskurses nach § 17 Absatz 2 der
 Integrationskursverordnung müssen im Test „Leben in Deutschland“

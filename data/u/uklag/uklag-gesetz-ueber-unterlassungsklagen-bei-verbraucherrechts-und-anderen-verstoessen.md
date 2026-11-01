@@ -48,7 +48,7 @@ werden.
 
 
 ### § 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
-[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002509129)
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002511360)
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von
 Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem
@@ -261,7 +261,7 @@ insbesondere
     Verhältnis zwischen E-Geldinstituten und Verbrauchern regeln,
 
 
-29. die §§ 4 und 5 des Energieverbrauchsrelevante-Produkte-Gesetzes,
+29. die §§ 8, 9, 11 und 13 Absatz 3 und 4 des Ökodesign-Gesetzes,
 
 
 30. die §§ 1a, 6a, 7 bis 9, 59 Absatz 1 Satz 2 und 3 und Absatz 4 Satz 2,

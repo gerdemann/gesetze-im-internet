@@ -5059,7 +5059,7 @@ folgende Daten des Ausländers, soweit sie bekannt sind, zu
 
 
 ##### § 72 Mitteilungen der Meldebehörden
-[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007303116)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007304311)
 
 (1) Die Meldebehörden teilen den Ausländerbehörden mit
 
@@ -5078,6 +5078,10 @@ folgende Daten des Ausländers, soweit sie bekannt sind, zu
 
 
 5.  die Namensänderung,
+
+
+5a. die Änderung der Geschlechtsangabe, wenn sie ohne Änderung des Namens
+    erfolgt,
 
 
 6.  die Änderung oder Berichtigung des staatsangehörigkeitsrechtlichen

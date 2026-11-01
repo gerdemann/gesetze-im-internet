@@ -431,14 +431,14 @@ stellen.
 
 
 ### § 17 Unterstützungsverpflichtung, Meldeverfahren
-[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001800000)
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001801129)
 
 (1) Die Marktüberwachungsbehörden und die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin haben einander zu unterstützen und
 sich gegenseitig über Maßnahmen nach diesem Gesetz zu informieren.
 
 (2) Trifft die Marktüberwachungsbehörde eine Maßnahme nach Artikel 16
-Absatz 5 der Verordnung (EU) 2019/10, durch die die Bereitstellung
+Absatz 5 der Verordnung (EU) 2019/1020, durch die die Bereitstellung
 eines Produkts auf dem Markt untersagt oder eingeschränkt oder die
 Rücknahme oder der Rückruf eines Produkts angeordnet wird, so
 unterrichtet sie hiervon die Bundesanstalt für Arbeitsschutz und
@@ -466,9 +466,16 @@ unterrichtet die Marktüberwachungsbehörden sowie die zuständigen
 Bundesministerien über Meldungen der Kommission oder eines anderen
 Mitgliedstaates der Europäischen Union.
 
+(5) Für Ökodesign-Produkte nach dem Ökodesign-Gesetz gelten abweichend
+von den Absätzen 2 und 4 die Regelungen des § 5 Absatz 1 und 4 des
+Ökodesign-Gesetzes. Für energieverbrauchsrelevante Produkte nach
+Artikel 2 Nummer 1 der Verordnung (EU) 2017/1369 gelten abweichend von
+den Absätzen 2 und 4 die Regelungen des § 11 Absatz 1 Nummer 1 des
+Energieverbrauchskennzeichnungsgesetzes.
+
 
 ### § 18 Gemeinschaftliches System zum raschen Austausch von Informationen (RAPEX) gemäß Artikel 12 der Richtlinie 2001/95/EG über die allgemeine Produktsicherheit
-[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001900000)
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001901129)
 
 (1) Trifft eine Marktüberwachungsbehörde eine Maßnahme nach § 8 Absatz
 2 Satz 3 oder beabsichtigt sie dies, so unterrichtet sie unverzüglich
@@ -512,6 +519,13 @@ vom 15.1.2002, S. 4), die zuletzt durch die Verordnung (EG) Nr.
 angewendet. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 unterrichtet die Marktüberwachungsbehörden sowie die zuständigen
 Bundesministerien über Meldungen, die ihr über das System zugehen.
+
+(5) Für Ökodesign-Produkte nach dem Ökodesign-Gesetz gelten abweichend
+von Absatz 1 die Regelungen des § 5 Absatz 1 des Ökodesign-Gesetzes.
+Für energieverbrauchsrelevante Produkte nach Artikel 2 Nummer 1 der
+Verordnung (EU) 2017/1369 gelten abweichend von Absatz 1 die
+Regelungen des § 11 Absatz 1 Nummer 1 Buchstabe a und c des
+Energieverbrauchskennzeichnungsgesetzes.
 
 
 ### § 19 Veröffentlichung von Informationen

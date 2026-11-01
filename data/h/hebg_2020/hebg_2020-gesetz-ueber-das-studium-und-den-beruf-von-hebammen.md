@@ -493,7 +493,7 @@ Akkreditierungsverfahrens werden durch die zuständige Landesbehörde
 
 
 ##### § 13 Praxiseinsätze
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001400000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001401129)
 
 (1) Der berufspraktische Teil umfasst Praxiseinsätze
 
@@ -525,7 +525,10 @@ Praxiseinsatzes zu absolvierenden Stundenanzahl. Im Fall von
 Rechtsverstößen kann die zuständige Landesbehörde einem Krankenhaus,
 einer freiberuflichen Hebamme, einer ambulanten hebammengeleiteten
 Einrichtung oder einer weiteren Einrichtung die Durchführung der
-Praxiseinsätze untersagen.
+Praxiseinsätze untersagen. Auf der Grundlage einer Genehmigung der
+zuständigen Behörde kann ein geringer Anteil der Praxiseinsätze durch
+praktische Lerneinheiten an der Hochschule oder bei der
+verantwortlichen Praxiseinrichtung ersetzt werden.
 
 (3) Welche Krankenhäuser, freiberuflichen Hebammen, ambulanten
 hebammengeleiteten Einrichtungen oder weiteren Einrichtungen für die
@@ -1413,20 +1416,41 @@ Berufsqualifikationen dieses Teils entsprechend.
 
 
 #### § 54 Anerkennung von weiteren Berufsqualifikationen; Gleichwertigkeit
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005500000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005501129)
 
 (1) Eine Berufsqualifikation, die nicht nach Abschnitt 2 dieses Teils
 automatisch anerkannt wird, wird anerkannt, wenn
 
 1.  sie mit der in diesem Gesetz geregelten Berufsqualifikation
-    gleichwertig ist oder
+    gleichwertig ist,
 
 
-2.  die antragstellende Person die erforderliche Anpassungsmaßnahme
-    erfolgreich absolviert hat.
+2.  für den Fall, dass sie mit der in diesem Gesetz geregelten
+    Berufsqualifikation nicht gleichwertig ist, die antragstellende Person
+    die nach § 57 Absatz 1 erforderliche Anpassungsmaßnahme erfolgreich
+    absolviert oder
+
+
+3.  eine antragstellende Person mit einer Berufsqualifikation aus einem
+    Drittstaat, die nach Absatz 1a endgültig auf die Prüfung der
+    Gleichwertigkeit ihres Ausbildungsstandes durch die zuständige Behörde
+    verzichtet, die gewählte Anpassungsmaßnahme nach § 59 erfolgreich
+    absolviert.
 
 
 
+
+(1a) Eine antragstellende Person mit einer Berufsqualifikation aus
+einem Drittstaat kann endgültig auf die Prüfung der Gleichwertigkeit
+ihres Ausbildungsstandes durch die zuständige Behörde verzichten. In
+diesem Fall hat die antragstellende Person eine Ausgleichsmaßnahme
+nach § 59 Absatz 1 durchzuführen. Der Verzicht ist gegenüber der
+zuständigen Behörde zu erklären und kann nicht widerrufen werden. Er
+hat zur Folge, dass weder eine dokumentenbasierte Prüfung der
+Gleichwertigkeit des Ausbildungsstandes noch ein Wechsel der
+Anpassungsmaßnahme möglich ist. Die antragstellende Person ist über
+diese Rechtsfolgen und über die Wahlmöglichkeit nach § 59 Absatz 2
+aufzuklären.
 
 (2) Eine Berufsqualifikation ist der in diesem Gesetz geregelten
 Berufsqualifikation gleichwertig, wenn
@@ -1812,12 +1836,12 @@ Kontinuität der Dienstleistung einzubeziehen.
 
 
 #### § 61 Meldung der Dienstleistungserbringung
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006200000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006201129)
 
 (1) Wer beabsichtigt, als dienstleistungserbringende Person im
 Geltungsbereich dieses Gesetzes den Hebammenberuf auszuüben, ist
 verpflichtet, dies der in Deutschland zuständigen Behörde vor
-Dienstleistungserbringung schriftlich zu melden.
+Dienstleistungserbringung schriftlich oder elektronisch zu melden.
 
 (2) Bei der erstmaligen Meldung hat die dienstleistungserbringende
 Person folgende Dokumente vorzulegen:
@@ -1995,7 +2019,7 @@ der Europäischen Union vorübergehend und gelegentlich auszuüben.
 
 
 ### § 64 Zuständige Behörde
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006501125)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006502129)
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
@@ -2006,7 +2030,16 @@ abgelegt hat.
 
 (3) Die Entscheidung nach § 5 Absatz 2 in Verbindung mit Teil 4 trifft
 die zuständige Behörde des Landes, in dem der Beruf der Hebamme
-partiell oder vollständig ausgeübt werden soll.
+partiell oder vollständig ausgeübt werden soll. Die zuständige Behörde
+kann schriftlich oder elektronisch bei den anderen zuständigen
+Behörden Auskunft darüber verlangen, ob die antragstellende Person bei
+diesen Behörden Beteiligte eines nicht abgeschlossenen Verfahrens auf
+Erteilung der Erlaubnis zum Führen der Berufsbezeichnung oder der
+Erlaubnis zur partiellen Berufsausübung ist und gegebenenfalls, zu
+welchem Zeitpunkt das Verfahren eingeleitet worden ist. Die
+angefragten Behörden haben die Auskunft unverzüglich schriftlich oder
+elektronisch zu erteilen. Die Länder können zum Zweck des
+Datenaustauschs ein Land oder eine gemeinsame Stelle beauftragen.
 
 (4) Die Aufgaben nach Teil 5 Abschnitt 1 nimmt die zuständige Behörde
 des Landes wahr, in dem die Dienstleistung erbracht werden soll oder
@@ -2016,14 +2049,15 @@ den Beruf der Hebamme partiell oder vollständig ausübt.
 
 
 ### § 65 Unterrichtungs- und Überprüfungspflichten
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006600000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006601129)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den
-Hebammenberuf ausübt oder zuletzt ausgeübt hat, unterrichtet die
-zuständigen Behörden des Herkunftsstaates, wenn
+Hebammenberuf partiell oder vollständig ausübt oder zuletzt ausgeübt
+hat, unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
 
 1.  sich diese Person eines Verhaltens schuldig gemacht hat, welches sich
-    auf die Ausübung des Hebammenberufs auswirken kann,
+    auf die partielle oder vollständige Ausübung des Hebammenberufs
+    auswirken kann,
 
 
 2.  die Erlaubnis nach diesem Gesetz zurückgenommen oder widerrufen worden
@@ -2031,8 +2065,8 @@ zuständigen Behörden des Herkunftsstaates, wenn
     ist,
 
 
-3.  dieser Person die Ausübung des Hebammenberufs untersagt worden ist
-    oder
+3.  dieser Person die partielle oder vollständige Ausübung des
+    Hebammenberufs untersagt worden ist oder
 
 
 4.  in Bezug auf diese Person Tatsachen vorliegen, die eine der in den
@@ -2042,9 +2076,9 @@ zuständigen Behörden des Herkunftsstaates, wenn
 
 
 (2) Erhält die zuständige Behörde eines Landes Auskünfte von der
-zuständigen Behörde eines Aufnahmestaates, die sich auf die Ausübung
-des Hebammenberufs durch eine Person im Geltungsbereich dieses
-Gesetzes auswirken könnten, so hat sie
+zuständigen Behörde eines Aufnahmestaates, die sich auf die partielle
+oder vollständige Ausübung des Hebammenberufs durch eine Person im
+Geltungsbereich dieses Gesetzes auswirken könnten, so hat sie
 
 1.  die Richtigkeit der ihr übermittelten Auskünfte zu überprüfen,
 
@@ -2053,8 +2087,8 @@ Gesetzes auswirken könnten, so hat sie
     durchzuführen sind, und
 
 
-3.  die zuständige Behörde des Aufnahmestaates zu unterrichten über die
-    Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind.
+3.  die zuständige Behörde des Aufnahmestaates über die Konsequenzen, die
+    aus den übermittelten Auskünften zu ziehen sind, zu unterrichten.
 
 
 
@@ -2089,7 +2123,7 @@ statistischen Aufstellungen an die Europäische Kommission weiter.
 
 
 ### § 66 Warnmitteilung durch die zuständige Behörde
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006700000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006701129)
 
 (1) Die zuständige Behörde eines Landes übermittelt den zuständigen
 Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
@@ -2101,7 +2135,7 @@ der folgenden Entscheidungen getroffen worden ist:
 
 
 2.  das durch unanfechtbare gerichtliche Entscheidung getroffene Verbot
-    der Ausübung des Hebammenberufs oder
+    der partiellen oder vollständigen Ausübung des Hebammenberufs oder
 
 
 3.  das durch gerichtliche Entscheidung getroffene vorläufige
@@ -2152,10 +2186,10 @@ Kommission („IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1).
 
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die
 die Warnmitteilung getätigt hat, die betroffene Person schriftlich
-über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie
-eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen
-die Warnmitteilung eingelegt, ergänzt die Behörde, die die
-Warnmitteilung getätigt hat, die Warnmitteilung um einen
+oder elektronisch über die Warnmitteilung und deren Inhalt. Der
+Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein
+Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die Behörde,
+die die Warnmitteilung getätigt hat, die Warnmitteilung um einen
 entsprechenden Hinweis.
 
 
@@ -2190,7 +2224,7 @@ Aufhebung der in § 66 Absatz 1 genannten Entscheidung.
 
 
 ### § 69 Unterrichtung über gefälschte Berufsqualifikationsnachweise
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007000000)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007001129)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Erlaubnis nach § 5 gefälschte
@@ -2225,12 +2259,12 @@ Informationssystem zu verwenden.
 
 (3) Gleichzeitig mit der Unterrichtung über die Fälschung unterrichtet
 die Behörde, die die Unterrichtung über die Fälschung vorgenommen hat,
-die betroffene Person schriftlich über die Unterrichtung über die
-Fälschung und deren Inhalt. Der Unterrichtung hat sie eine
-Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die
-Unterrichtung über die Fälschung eingelegt, so ergänzt die Stelle, die
-die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
-über die Fälschung um einen entsprechenden Hinweis.
+die betroffene Person schriftlich oder elektronisch über die
+Unterrichtung über die Fälschung und deren Inhalt. Der Unterrichtung
+hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf
+gegen die Unterrichtung über die Fälschung eingelegt, so ergänzt die
+Stelle, die die Unterrichtung über die Fälschung getätigt hat, die
+Unterrichtung über die Fälschung um einen entsprechenden Hinweis.
 
 
 ### § 70 Verwaltungszusammenarbeit bei Dienstleistungserbringung
@@ -2478,7 +2512,7 @@ Diese Erlaubnis gilt als Erlaubnis nach § 5.
 
 
 ### § 77a Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen
-[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008200116)
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008201129)
 
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb
 dieses Gesetzes erworbenen Berufsqualifikation kann bis zum 31.
@@ -2489,6 +2523,11 @@ in der bis zum 31. Dezember 2019 geltenden Fassung getroffen werden.
 Anerkennung einer Berufsqualifikation, soweit die Berufsqualifikation
 nach Teil 4 Abschnitt 2 dieses Gesetzes die Voraussetzungen für die
 automatische Anerkennung erfüllt.
+
+(3) Für Anträge auf Anerkennung einer in einem Drittstaat erworbenen
+Berufsqualifikation, die bis zum Ablauf des 31. Oktober 2026 gestellt
+worden sind, gilt § 59 in der bis zum 31. Oktober 2026 geltenden
+Fassung weiter.
 
 
 ### § 78 Abschluss begonnener Ausbildungen in Form von Modellvorhaben

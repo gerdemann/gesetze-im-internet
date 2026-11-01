@@ -3779,7 +3779,7 @@ Betroffenen und der Markttransparenzstelle zuzuordnen sind.
 
 
 ##### § 47k Marktbeobachtung im Bereich Kraftstoffe
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021806128)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021807128)
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für
 Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der
@@ -3848,13 +3848,14 @@ Betreiber gewahrt bleiben.
 (5) Die Markttransparenzstelle für Kraftstoffe wird nach Maßgabe der
 Rechtsverordnung nach Absatz 8 ermächtigt, die nach Absatz 2 erhobenen
 Preisdaten elektronisch an Anbieter von Verbraucher-
-Informationsdiensten zum Zweck der Verbraucherinformation
-weiterzugeben. Bei der Veröffentlichung oder Weitergabe dieser
-Preisdaten an Verbraucherinnen und Verbraucher müssen die Anbieter von
-Verbraucher-Informationsdiensten die in der Rechtsverordnung nach
-Absatz 8 Nummer 5 näher geregelten Vorgaben einhalten. Die
-Markttransparenzstelle für Kraftstoffe ist befugt, bei Nichteinhaltung
-dieser Vorgaben von einer Weitergabe der Daten abzusehen.
+Informationsdiensten ausschließlich zum Zweck der
+Verbraucherinformation weiterzugeben. Bei der Veröffentlichung oder
+Weitergabe dieser Preisdaten an Verbraucherinnen und Verbraucher
+müssen die Anbieter von Verbraucher-Informationsdiensten die in der
+Rechtsverordnung nach Absatz 8 Nummer 5 näher geregelten Vorgaben
+einhalten. Die Markttransparenzstelle für Kraftstoffe ist befugt, bei
+Nichteinhaltung dieser Vorgaben von einer Weitergabe der Daten
+abzusehen.
 
 (6) Die Markttransparenzstelle für Kraftstoffe stellt die
 operationelle Zuverlässigkeit der Datenbeobachtung sicher und
@@ -8885,7 +8886,7 @@ bleibt unberührt.
 
 
 ###### § 124 Fakultative Ausschlussgründe
-[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017211128)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017213123)
 
 (1) Öffentliche Auftraggeber können unter Berücksichtigung des
 Grundsatzes der Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt
@@ -8968,8 +8969,8 @@ ausschließen, wenn
 
 (2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des
 Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des
-Schwarzarbeitsbekämpfungsgesetzes, § 22 des
-Lieferkettensorgfaltspflichtengesetzes und § 14 des
+Schwarzarbeitsbekämpfungsgesetzes, § 20 des Ökodesign-Gesetzes, § 22
+des Lieferkettensorgfaltspflichtengesetzes und § 14 des
 Bundestariftreuegesetzes bleiben unberührt.
 
 

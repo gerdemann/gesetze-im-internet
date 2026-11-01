@@ -671,7 +671,7 @@ schriftlicher oder elektronischer Form erfolgen.
 
 
 ##### § 26 Vornoten
-[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002700000)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002701130)
 
 (1) Vor Beginn der staatlichen Prüfung setzt die oder der Vorsitzende
 des Prüfungsausschusses auf Vorschlag der Schule jeweils eine Vornote
@@ -685,7 +685,8 @@ Mittel aus den Zahlenwerten der drei Jahresnoten für den theoretischen
 und praktischen Unterricht zu berechnen. Die Berechnung erfolgt auf
 zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert
 ist die entsprechende Note nach § 27 zuzuordnen. Die zugeordnete Note
-ist die Vornote für den schriftlichen Teil der staatlichen Prüfung.
+ist sowohl die Vornote für den schriftlichen Teil als auch für den
+mündlichen Teil der staatlichen Prüfung.
 
 (3) Zur Festsetzung der Vornote für den praktischen Teil der
 staatlichen Prüfung ist das arithmetische Mittel aus den Zahlenwerten
@@ -1904,7 +1905,7 @@ Prüfungsausschusses erforderlich.
 
 
 ##### § 74 Inhalt des praktischen Teils der Kenntnisprüfung
-[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007500000)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007501130)
 
 (1) Der praktische Teil der Kenntnisprüfung besteht
 
@@ -1915,7 +1916,7 @@ Prüfungsausschusses erforderlich.
 
 
 2.  im Fall einer Person, die das Führen der Berufsbezeichnung der
-    Anästhesietechnischen Assistentin oder des Anästhesietechnischen
+    Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten beantragt hat, aus mindestens zwei und höchstens vier
     operativen Situationen.
 
