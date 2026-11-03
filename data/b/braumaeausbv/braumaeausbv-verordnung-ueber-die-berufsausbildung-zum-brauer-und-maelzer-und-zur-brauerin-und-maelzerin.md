@@ -16,6 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1483
 
+Stand: Ersetzt V 806-22-1-28 v. 22.2.2007 I 186 (1202) (Brau/MälzAusbV 2007)
 [^F816667_01_BJNR148300021]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
     Ausbildungsordnung und der damit abgestimmte, von der Ständigen

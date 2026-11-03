@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 21.11.2024 I Nr. 360
 
 Änderung durch
-:   Art. 4 G v. 27.10.2026 I Nr. 326 mWv 1.11.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 27.10.2026 I Nr. 326 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung
@@ -27,7 +27,7 @@ Zuletzt geändert durch
 
 
 ### § 1 Ziele
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000201116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000202130)
 
 (1) Ziel der zahnärztlichen Ausbildung ist der Zahnarzt und die
 Zahnärztin, der oder die wissenschaftlich und praktisch in der
@@ -42,10 +42,14 @@ wird auf wissenschaftlicher Grundlage durchgeführt. Die zahnärztliche
 Ausbildung vermittelt die Grundsätze einer evidenzbasierten Bewertung
 medizinischer und zahnmedizinischer Verfahren. Die zahnärztliche
 Ausbildung beinhaltet auch Gesichtspunkte zahnärztlicher
-Gesprächsführung sowie zahnärztlicher Qualitätssicherung. Sie fördert
-die Bereitschaft zur Zusammenarbeit mit anderen Zahnärzten und
-Zahnärztinnen und mit Ärzten und Ärztinnen sowie mit Angehörigen
-anderer Berufe des Gesundheitswesens.
+Gesprächsführung sowie zahnärztlicher Qualitätssicherung. Sie
+vermittelt außerdem die für das zahnärztliche Handeln erforderlichen
+Grundlagen digitaler Technologien, insbesondere in Bezug auf deren
+Funktionsweise und sichere Nutzung. Sie fördert die Bereitschaft zur
+Zusammenarbeit mit anderen Zahnärzten und Zahnärztinnen und mit Ärzten
+und Ärztinnen sowie mit Angehörigen anderer Berufe des
+Gesundheitswesens zur Gewährleistung einer interprofessionellen
+gemeinschaftlichen Versorgung.
 
 (3) Das Erreichen des in Absatz 1 genannten Ziels muss von der
 Universität oder der gleichgestellten Hochschule (Universität)
@@ -93,7 +97,7 @@ Hochschulrahmengesetzes beträgt fünf Jahre und sechs Monate.
 
 
 ### § 3 Inhalt und Organisation des Studiums der Zahnmedizin
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000401116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000402130)
 
 (1) Die Universität bietet ein Studium der Zahnmedizin an, durch das
 das in § 1 Absatz 1 genannte Ziel erreicht wird und das es den
@@ -117,6 +121,13 @@ ist das Studium an Lernergebnissen orientiert in Modulen zu
 organisieren. Jedem Modul sind Leistungspunkte nach dem Europäischen
 System zur Übertragung und Akkumulierung von Studienleistungen
 zuzurechnen.
+
+(5) Bei der Organisation des Studiums muss die Universität in
+angemessenem Umfang die Belange von Studierenden mit Behinderungen,
+Beeinträchtigungen oder in besonderen Lebenslagen, insbesondere in
+Schwangerschaft und Stillzeit, berücksichtigen. Bei der Organisation
+des Studiums soll die Universität gesetzliche und staatsvertraglich
+festgelegte Feiertage beachten.
 
 
 ### § 4 Studienordnung
@@ -1038,7 +1049,7 @@ mündliche Prüfung nur im Fach Zahnmedizinische Propädeutik ab.
 
 
 #### § 30 Prüfungstermine
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003101130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003102130)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung findet in der
 vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
@@ -1046,6 +1057,10 @@ anderen Zeit vorgesehen werden.
 
 (2) Die nach § 18 zuständige Stelle legt die Prüfungstermine im
 Einvernehmen mit der Universität fest.
+
+(3) Bei der Organisation und Durchführung des Ersten Abschnitts der
+Zahnärztlichen Prüfung sollen gesetzliche und staatsvertraglich
+festgelegte Feiertage beachtet werden.
 
 
 #### § 31 Ladung zu den Prüfungsterminen
@@ -1058,14 +1073,15 @@ erfolgen.
 
 
 #### § 32 Inhalt des Ersten Abschnitts der Zahnärztlichen Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003302130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003303130)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung umfasst:
 
 1.  die Fächergruppe Biochemie und Molekularbiologie, Chemie,
 
 
-2.  die Fächergruppe Mikroskopische und makroskopische Anatomie, Biologie,
+2.  die Fächergruppe mikroskopische und makroskopische Anatomie, Biologie
+    einschließlich Genetik und regenerative Medizin,
 
 
 3.  die Fächergruppe Physiologie, Physik und
@@ -1397,7 +1413,7 @@ und einem mündlichen Prüfungselement.
 
 
 #### § 44 Prüfungstermine
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004501130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004502130)
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung findet in der
 vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
@@ -1410,6 +1426,10 @@ Zahnerhaltung im Einvernehmen mit der Universität fest.
 (3) Die mündlich-praktische Prüfung soll für jeden Studierenden und
 jede Studierende innerhalb eines Zeitraums von vier Wochen
 stattfinden.
+
+(4) Bei der Organisation und Durchführung des Zweiten Abschnitts der
+Zahnärztlichen Prüfung sollen gesetzliche und staatsvertraglich
+festgelegte Feiertage beachtet werden.
 
 
 #### § 45 Ladung zu den Prüfungsterminen
@@ -1948,7 +1968,7 @@ schriftlichen Teil nicht ab.
 
 
 #### § 60 Prüfungstermine
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006101116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006102130)
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung beginnt in der vorlesungsfreien Zeit und findet
@@ -1964,6 +1984,10 @@ Prüfungselemente des mündlich-praktischen Teils des Dritten Abschnitts
 der Zahnärztlichen Prüfung in den einzelnen Fächern im Einvernehmen
 mit der Universität fest.
 
+(4) Bei der Organisation und Durchführung des Dritten Abschnitts der
+Zahnärztlichen Prüfung sollen gesetzliche und staatsvertraglich
+festgelegte Feiertage beachtet werden.
+
 
 #### § 61 Ladung zu den Prüfungsterminen
 [Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006200000)
@@ -1978,7 +2002,7 @@ Ladung kann schriftlich oder elektronisch erfolgen.
 
 
 #### § 62 Inhalt des Dritten Abschnitts der Zahnärztlichen Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006300000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006301130)
 
 (1) Im Dritten Abschnitt der Zahnärztlichen Prüfung hat der oder die
 Studierende fächerübergreifend zu zeigen, dass er oder sie
@@ -1989,8 +2013,8 @@ Studierende fächerübergreifend zu zeigen, dass er oder sie
 
 
 2.  über Kenntnisse, Fähigkeiten und Fertigkeiten auf dem jeweiligen
-    Prüfungsgebiet verfügt, die für die zahnärztliche Versorgung
-    erforderlich sind.
+    Prüfungsgebiet, einschließlich der Nutzung digitaler Technologien,
+    verfügt, die für die zahnärztliche Versorgung erforderlich sind.
 
 
 
@@ -2004,7 +2028,7 @@ relevanten seltenen Erkrankungen.
 
 
 #### § 63 Mündlich-praktischer Teil
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006400000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006401130)
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung umfasst
@@ -2018,7 +2042,8 @@ Zahnärztlichen Prüfung umfasst
 3.  das Fach Zahn-, Mund- und Kieferkrankheiten,
 
 
-4.  das Fach Oralchirurgie,
+4.  das Fach Oralchirurgie einschließlich der Grundlagen oraler
+    Implantologie,
 
 
 5.  das Fach Mund-, Kiefer- und Gesichtschirurgie,
@@ -2514,7 +2539,7 @@ schriftlich oder elektronisch.
 
 
 #### § 72 Inhalt des schriftlichen Teils
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007301116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007302130)
 
 (1) Der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen
 Prüfung umfasst die folgenden Fächer:
@@ -2556,8 +2581,8 @@ Er umfasst außerdem die folgenden Querschnittsbereiche:
 
 
 7.  Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie,
-    Prävention, Gesundheitsförderung, öffentliche Gesundheitspflege,
-    Gesundheitsökonomie,
+    Prävention, Gesundheitsförderung, zahnmedizinische öffentliche
+    Gesundheitspflege, Gesundheitsökonomie,
 
 
 8.  Ethik und Geschichte der Medizin und der Zahnmedizin,
@@ -2655,7 +2680,7 @@ richtig beantwortet, wenn
 
 
 #### § 74 Bestehen des schriftlichen Teils
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007501116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007502130)
 
 (1) Der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen
 Prüfung ist bestanden, wenn die Bestehensgrenze erreicht worden ist.
@@ -2668,9 +2693,8 @@ Die Bestehensgrenze ist erreicht, wenn
 2.  die Zahl der von dem oder der Studierenden richtig beantworteten
     Prüfungsfragen um nicht mehr als 22 Prozent den Durchschnitt der
     richtig beantworteten Prüfungsfragen (durchschnittlichen
-    Prüfungsleistung) der Studierenden unterschreitet, die frühestens im
-    elften Fachsemester erstmals an dem schriftlichen Teil teilgenommen
-    haben.
+    Prüfungsleistung) der Studierenden unterschreitet, die im elften
+    Fachsemester erstmals an dem schriftlichen Teil teilgenommen haben.
 
 
 
@@ -2997,27 +3021,76 @@ Dritten Abschnitt der Zahnärztlichen Prüfung vorzulegen.
 
 
 #### § 83 Antrag auf Approbation
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008400000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008401130)
 
 Der Antrag auf Approbation als Zahnarzt oder als Zahnärztin ist an die
-Behörde zu stellen, die nach § 16 Absatz 1 Satz 1 des Gesetzes über
-die Ausübung der Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des
-Gesetzes über die Ausübung der Zahnheilkunde für die Erteilung der
-Approbation als Zahnarzt oder als Zahnärztin zuständig ist.
+Behörde zu richten, die nach § 16 Absatz 1 Satz 1 oder Absatz 1a des
+Gesetzes über die Ausübung der Zahnheilkunde oder nach § 16 Absatz 2
+Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde für die
+Erteilung der Approbation als Zahnarzt oder als Zahnärztin zuständig
+ist. Der Antrag kann schriftlich oder elektronisch gestellt werden.
 
 
-#### § 84 Antragsunterlagen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008500000)
+#### § 83a Allgemeine Vorgaben für die einzureichenden Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016200130)
 
-(1) Dem Antrag sind folgende Unterlagen beizufügen:
+(1) Die nach diesem Abschnitt einzureichenden Unterlagen sind der
+zuständigen Behörde in Form von Abschriften vorzulegen oder
+elektronisch zu übermitteln. Den Unterlagen, die nicht in deutscher
+oder englischer Sprache ausgestellt wurden, hat die antragstellende
+Person Übersetzungen in deutscher oder englischer Sprache beizufügen.
+In begründeten Ausnahmefällen kann die zuständige Behörde die
+antragstellende Person auffordern, innerhalb einer angemessenen Frist
+Übersetzungen in deutscher Sprache vorzulegen. Die Übersetzungen sind
+von einem öffentlich bestellten oder beeidigten Übersetzer erstellen
+zu lassen.
+
+(2) Die zuständige Behörde kann abweichend von Absatz 1 Satz 1 eine
+andere Form für die vorzulegenden Dokumente zulassen. Die zuständige
+Behörde kann, abweichend von Absatz 1 Satz 4, die Erstellung von
+Übersetzungen auch durch andere Übersetzer zulassen oder die
+Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst
+vornehmen, wenn eine gleichwertige Qualität der Übersetzung gesichert
+ist.
+
+(3) Die zuständige Behörde kann die antragstellende Person auffordern,
+innerhalb einer angemessenen Frist Informationen zum Inhalt und zur
+Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen
+Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der
+Voraussetzungen für die automatische Anerkennung einer
+Berufsqualifikation nach § 12a Absatz 1 des Gesetzes über die Ausübung
+der Zahnheilkunde oder zur Bewertung der Voraussetzungen nach § 12a
+Absatz 4 oder § 12b des Gesetzes über die Ausübung der Zahnheilkunde
+erforderlich ist. Die zuständige Behörde kann sich auch direkt an die
+zuständige Stelle des Staats wenden, in dem die Berufsqualifikation
+erworben worden ist.
+
+(4) Bestehen begründete Zweifel an der Echtheit, der inhaltlichen
+Richtigkeit oder der Richtigkeit der Übersetzung der vorgelegten
+Unterlagen, kann die zuständige Behörde die antragstellende Person
+auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte
+Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei
+Unterlagen, die in einem anderen Staat ausgestellt oder anerkannt
+wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel
+an der Echtheit der Unterlagen sowohl an die zuständige Stelle des
+Ausbildungs- oder Anerkennungsstaats wenden als auch die
+antragstellende Person auffordern, beglaubigte Abschriften vorzulegen.
+
+
+#### § 84 Antragsunterlagen bei in Deutschland erworbener Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008501130)
+
+(1) Dem Antrag auf Erteilung einer Approbation als Zahnarzt oder als
+Zahnärztin aufgrund einer im Geltungsbereich dieser Verordnung
+erworbenen Berufsqualifikation sind folgende Unterlagen beizufügen:
 
 1.  ein kurzgefasster Lebenslauf,
 
 
-2.  ein Identitätsnachweis im Original oder in beglaubigter Kopie,
+2.  ein Identitätsnachweis,
 
 
-3.  ein amtliches Führungszeugnis,
+3.  ein Führungszeugnis,
 
 
 4.  eine Erklärung darüber, ob gegen die antragstellende Person ein
@@ -3030,8 +3103,7 @@ Approbation als Zahnarzt oder als Zahnärztin zuständig ist.
     des Berufs ungeeignet ist, und
 
 
-6.  das Zeugnis über die Zahnärztliche Prüfung im Original oder in
-    beglaubigter Kopie.
+6.  das Zeugnis über die Zahnärztliche Prüfung.
 
 
 
@@ -3039,23 +3111,199 @@ Approbation als Zahnarzt oder als Zahnärztin zuständig ist.
 (2) Die Unterlagen nach Absatz 1 Nummer 3 und 5 dürfen zum Zeitpunkt
 ihres Eingangs bei der nach § 16 Absatz 1 Satz 1 des Gesetzes über die
 Ausübung der Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes
-über die Ausübung der Zahnheilkunde zuständigen Behörde nicht älter
-als einen Monat sein.
+über die Ausübung der Zahnheilkunde zuständigen Behörde jeweils nicht
+älter als einen Monat sein.
 
-(3) Wenn eine antragstellende Person die Approbation aufgrund einer
+
+#### § 84a Antragsunterlagen bei einer außerhalb Deutschlands erworbenen Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016300130)
+
+(1) Wenn eine antragstellende Person die Approbation aufgrund einer
 außerhalb des Geltungsbereichs dieser Verordnung abgeschlossenen
 Ausbildung für die Ausübung des zahnärztlichen Berufs beantragt, hat
-sie dem Antrag abweichend von Absatz 1 die in § 2 Absatz 6 des
-Gesetzes über die Ausübung der Zahnheilkunde aufgeführten Unterlagen
-und Bescheinigungen beizufügen.
+sie dem Antrag die in den Absätzen 2 bis 4 aufgeführten Unterlagen und
+Bescheinigungen beizufügen.
+
+(2) Dem Antrag nach § 12a Absatz 1 und 2 des Gesetzes über die
+Ausübung der Zahnheilkunde sind folgende Unterlagen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des zahnärztlichen Berufs berechtigt,
+
+
+4.  eine Erklärung der antragstellenden Person darüber, dass sie zum
+    Zeitpunkt der Antragstellung nicht Beteiligte eines Verfahrens auf
+    Erteilung der Approbation oder der Berufserlaubnis in einem anderen
+    Land im Geltungsbereich dieser Verordnung ist, und
+
+
+5.  Nachweise über das Vorliegen der Voraussetzungen nach § 2 Absatz 1
+    Satz 1 Nummer 2, 3 und 5 des Gesetzes über die Ausübung der
+    Zahnheilkunde.
+
+
+
+Im Fall von § 12a Absatz 2 des Gesetzes über die Ausübung der
+Zahnheilkunde ist zusätzlich zu den Ausbildungsnachweisen eine
+Bescheinigung der zuständigen Stelle des Herkunftsstaats darüber, dass
+die Ausbildung den Mindestanforderungen des Artikels 34 der Richtlinie
+2005/36/EG entspricht, und dass die Ausbildungsnachweise den für
+diesen Staat im Anhang V 5.3.2. der Richtlinie 2005/36/EG aufgeführten
+Nachweisen gleichstehen, beizufügen.
+
+(3) Dem Antrag nach § 12b Absatz 2 des Gesetzes über die Ausübung der
+Zahnheilkunde sind die Unterlagen nach Absatz 2 Satz 1 und eine
+Bescheinigung über die Berechtigung zur Berufsausübung in dem Staat
+beizufügen, in dem die Berufsqualifikation erworben worden ist.
+
+(4) Dem Antrag nach § 12a Absatz 4 und § 12b Absatz 3 des Gesetzes
+über die Ausübung der Zahnheilkunde sind folgende Unterlagen
+beizufügen:
+
+1.  die Unterlagen nach Absatz 2 Satz 1 Nummer 1 bis 3,
+
+
+2.  falls vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung,
+
+
+3.  bei einer in einem Drittstaat erworbenen Berufsqualifikation eine
+    Bescheinigung über die Berechtigung zur Berufsausübung in diesem
+    Staat,
+
+
+4.  zusätzliche Nachweise, um feststellen zu können, ob die Ausbildung
+    wesentliche Unterschiede gegenüber der Ausbildung aufweist, die im
+    Gesetz über die Ausübung der Zahnheilkunde und in dieser
+    Rechtsverordnung geregelt ist,
+
+
+5.  für den Fall, dass sich Ausbildungsnachweise nach Artikel 3 Absatz 1
+    Buchstabe c der Richtlinie 2005/36/EG, die von der zuständigen Behörde
+    eines anderen Mitgliedstaats, eines anderen Vertragsstaats oder eines
+    gleichgestellten Staats ausgestellt wurden, auf eine Ausbildung
+    beziehen, die ganz oder teilweise in einer rechtmäßig im Hoheitsgebiet
+    eines anderen der oben genannten Staaten niedergelassenen Einrichtung
+    absolviert wurde, Unterlagen darüber,
+
+    a)  ob der Ausbildungsgang in der betreffenden Einrichtung von der
+        Ausbildungseinrichtung des ausstellenden Staats offiziell bescheinigt
+        worden ist,
+
+
+    b)  ob der ausgestellte Ausbildungsnachweis dem entspricht, der verliehen
+        worden wäre, wenn der Ausbildungsgang vollständig im ausstellenden
+        Staat absolviert worden wäre, und
+
+
+    c)  ob mit dem Ausbildungsnachweis im Hoheitsgebiet des ausstellenden
+        Staats dieselben beruflichen Rechte verliehen werden,
+
+
+
+
+
+6.  eine Erklärung der antragstellenden Person darüber, dass sie zum
+    Zeitpunkt der Antragstellung nicht Beteiligte eines Verfahrens auf
+    Erteilung der Approbation oder der Berufserlaubnis in einem anderen
+    Land im Geltungsbereich dieser Verordnung ist, und
+
+
+7.  Nachweise über das Vorliegen der Voraussetzungen nach § 2 Absatz 1
+    Satz 1 Nummer 2 des Gesetzes über die Ausübung der Zahnheilkunde.
+
+
+
+
+(5) Der Nachweis über das Vorliegen der Voraussetzung nach § 2 Absatz
+1 Satz 1 Nummer 2 des Gesetzes über die Ausübung der Zahnheilkunde ist
+zu erbringen durch:
+
+1.  ein Führungszeugnis und
+
+
+2.  Unterlagen, die von den zuständigen Behörden des Staats ausgestellt
+    wurden, in dem die Berufsqualifikation erworben worden ist.
+
+
+
+Wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+der antragstellenden Person keine Unterlagen im Sinne von Satz 1
+Nummer 2 ausgestellt werden, ist dem Antrag eine eidesstattliche
+Erklärung der antragstellenden Person darüber beizufügen, dass sie
+sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich ihre
+Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des zahnärztlichen
+Berufs ergibt. Die eidesstattliche Erklärung kann im Geltungsbereich
+dieser Verordnung oder in dem Staat, in dem die Berufsqualifikation
+erworben worden ist, von der antragstellenden Person abgegeben werden.
+Wenn der Staat, in dem die Berufsqualifikation erworben worden ist,
+keine eidesstattlichen Erklärungen ausstellt, ist dem Antrag statt
+einer eidesstattlichen Erklärung eine feierliche Erklärung desselben
+Inhalts beizufügen, die die antragstellende Person in dem Staat, in
+dem die Berufsqualifikation erworben worden ist, vor einer zuständigen
+Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar
+oder einer entsprechend bevollmächtigten Berufsorganisation abgegeben
+hat, die eine diese feierliche Erklärung bestätigende Bescheinigung
+ausstellt.
+
+(6) Der Nachweis über das Vorliegen der Voraussetzung nach § 2 Absatz
+1 Satz 1 Nummer 3 des Gesetzes über die Ausübung der Zahnheilkunde ist
+zu erbringen durch eine im Geltungsbereich dieser Verordnung
+ausgestellte ärztliche Bescheinigung, aus der hervorgeht, dass die
+antragstellende Person nicht in gesundheitlicher Hinsicht zur Ausübung
+des zahnärztlichen Berufs ungeeignet ist. Wenn sich der Wohnsitz der
+antragstellenden Person nicht im Geltungsbereich dieser Verordnung
+befindet, kann statt einer ärztlichen Bescheinigung nach Satz 1 der
+Nachweis beigefügt werden, der in dem Staat, in dem die
+Berufsqualifikation erworben worden ist, bei Aufnahme des
+zahnärztlichen Berufs als Nachweis über die körperliche und geistige
+Gesundheit der antragstellenden Person gefordert wird. Wenn der Staat,
+in dem die Berufsqualifikation erworben worden ist, keinen derartigen
+Nachweis fordert, kann eine von einer zuständigen Behörde des Staats,
+in dem die Berufsqualifikation erworben worden ist, ausgestellte
+andere Bescheinigung über die körperliche und geistige Gesundheit der
+antragstellenden Person beigefügt werden.
+
+(7) Die in den Absätzen 5 und 6 genannten Unterlagen dürfen zum
+Zeitpunkt ihres Eingangs bei der nach § 16 Absatz 1 Satz 3 oder Absatz
+1a des Gesetzes über die Ausübung der Zahnheilkunde zuständigen
+Behörde jeweils nicht älter als drei Monate sein.
+
+(8) Hat die nach § 16 Absatz 1 Satz 3 oder Absatz 1a des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde berechtigte Zweifel
+an der Echtheit der in dem jeweiligen Staat ausgestellten Unterlagen,
+kann sie von der zuständigen Behörde des Staats eine Bestätigung der
+Echtheit verlangen sowie im Fall eines anderen Mitgliedstaats,
+Vertragsstaats oder gleichgestellten Staats eine Bestätigung darüber,
+dass die antragstellende Person die Mindestanforderungen der
+Ausbildung erfüllt, die in Artikel 34 der Richtlinie 2005/36/EG
+verlangt werden.
+
+(9) Hat die nach § 16 Absatz 1 Satz 3 oder Absatz 1a des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde berechtigte Zweifel
+an der Berechtigung der antragstellenden Person zur Ausübung des
+zahnärztlichen Berufs, kann sie von der zuständigen Behörde eines
+anderen Staats, der darüber Erkenntnisse haben könnte, eine
+Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden
+Person die Ausübung des zahnärztlichen Berufs nicht aufgrund eines
+schwerwiegenden standeswidrigen Verhaltens oder aufgrund einer
+Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend
+untersagt worden ist.
 
 
 #### § 85 Bestätigung des Antragseingangs
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008600000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008601130)
 
-Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständige Behörde bestätigt der
+Die nach § 16 Absatz 1 Satz 1 oder Absatz 1a des Gesetzes über die
+Ausübung der Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes
+über die Ausübung der Zahnheilkunde zuständige Behörde bestätigt der
 antragstellenden Person binnen eines Monats nach Eingang des Antrags
 auf Approbation als Zahnarzt oder als Zahnärztin den Antragseingang
 und den Empfang der Unterlagen und Bescheinigungen und teilt ihr mit,
@@ -3063,44 +3311,39 @@ welche Unterlagen und Bescheinigungen fehlen.
 
 
 #### § 86 Entscheidung über den Antrag
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008700000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008701130)
 
-(1) Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständige Behörde entscheidet über den
-Antrag auf Approbation als Zahnarzt oder als Zahnärztin kurzfristig,
-spätestens drei Monate nach Eingang der nach § 84 Absatz 1 oder Absatz
-3 erforderlichen Unterlagen und Bescheinigungen.
+(1) Die nach § 16 Absatz 1 Satz 1 oder Absatz 1a des Gesetzes über die
+Ausübung der Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes
+über die Ausübung der Zahnheilkunde zuständige Behörde entscheidet
+über den Antrag auf Approbation als Zahnarzt oder als Zahnärztin
+kurzfristig, spätestens drei Monate nach Eingang der nach den §§ 84
+oder 84a erforderlichen Unterlagen und Bescheinigungen.
 
-(2) In den Fällen des § 2 Absatz 2 und 3 des Gesetzes über die
-Ausübung der Zahnheilkunde verlängert sich die Frist nach Absatz 1 um
-einen Monat.
+(2) In den Fällen des § 12a Absatz 4 und § 12b Absatz 3 des Gesetzes
+über die Ausübung der Zahnheilkunde verlängert sich die Frist nach
+Absatz 1 um einen Monat.
 
 (3) Der Ablauf der Frist nach Absatz 1 ist solange gehemmt, bis der
-nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständigen Behörde eine Bestätigung nach § 2 Absatz 6
-Satz 3 oder Satz 4 des Gesetzes über die Ausübung der Zahnheilkunde
-durch die Behörde des Herkunftsmitgliedstaats der antragstellenden
-Person oder eines anderen Mitgliedstaates vorliegt, sofern eine solche
-Bestätigung verlangt wurde.
+nach § 16 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde
+zuständigen Behörde eine Bestätigung nach § 84a Absatz 8 und 9 durch
+die Behörde des Staats, in dem die Berufsqualifikation erworben worden
+ist, oder des anderen Staats vorliegt, sofern eine solche Bestätigung
+verlangt wurde.
 
 
 #### § 87 Bescheid über die Feststellung der wesentlichen Unterschiede
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008800000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008801130)
 
-(1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständige Behörde erteilt der antragstellenden Person
-den Bescheid über die Feststellung der wesentlichen Unterschiede nach
-§ 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung der Zahnheilkunde.
-Der Bescheid hat folgende Angaben zu enthalten:
+(1) Stellt die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
+Zahnheilkunde zuständige Behörde hinsichtlich der Gleichwertigkeit der
+Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie der
+antragstellenden Person einen rechtsmittelfähigen Bescheid. Der
+Bescheid hat folgende Angaben zu enthalten:
 
 1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
     der von der antragstellenden Person vorgelegten Qualifikation gemäß
-    der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
-    Europäischen Parlaments und des Rates vom 7. September 2005 über die
-    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
-    22), die zuletzt durch den Delegierten Beschluss (EU) 2016/790 (ABl. L
-    134 vom 24.5.2016, S. 135) geändert worden ist,
+    der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG,
 
 
 2.  die Fächer, bei denen wesentliche Unterschiede zwischen der Ausbildung
@@ -3113,57 +3356,49 @@ Der Bescheid hat folgende Angaben zu enthalten:
     Begründung, warum die wesentlichen Unterschiede dazu führen, dass die
     antragstellende Person nicht in ausreichender Form über die in
     Deutschland zur Ausübung des zahnärztlichen Berufs notwendigen
-    Kenntnisse, Fähigkeiten und Fertigkeiten verfügt, und
+    Kenntnisse, Fähigkeiten und Fertigkeiten verfügt,
 
 
 4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
     Kenntnisse, Fähigkeiten und Fertigkeiten ausgeglichen werden konnten,
     die die antragstellende Person im Rahmen ihrer zahnärztlichen
-    Berufspraxis in Voll- oder Teilzeit oder durch lebenslanges Lernen im
-    Sinne des § 2 Absatz 2 Satz 5 des Gesetzes über die Ausübung der
-    Zahnheilkunde erworben hat.
+    Berufspraxis in Voll- oder Teilzeit oder durch lebenslanges Lernen
+    erworben hat, und
+
+
+5.  die erforderliche Anpassungsmaßnahme nach den §§ 89 oder 104.
 
 
 
 
-(2) Wenn die antragstellende Person eine Eignungsprüfung nach § 2
-Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
-abzulegen hat, hat der Bescheid über die Feststellung der wesentlichen
-Unterschiede nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung
-der Zahnheilkunde auch eine Angabe dazu zu enthalten, welche
-Abschnitte der Eignungsprüfung die antragstellende Person abzulegen
-hat und welche zahnärztlichen Leistungen gegebenenfalls von der
-antragstellenden Person im praktischen Abschnitt der Eignungsprüfung
-zu erbringen sind.
-
-(3) Wenn die antragstellende Person eine Kenntnisprüfung nach § 2
-Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
-abzulegen hat, hat der Bescheid über die Feststellung der wesentlichen
-Unterschiede nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung
-der Zahnheilkunde auch eine Angabe dazu zu enthalten, welches weitere
-Fach oder welchen weiteren Querschnittsbereich die Kenntnisprüfung
-gegebenenfalls nach § 107 Absatz 2 umfasst.
+(2) Wenn die antragstellende Person eine Eignungsprüfung nach § 12a
+Absatz 7 des Gesetzes über die Ausübung der Zahnheilkunde abzulegen
+hat, hat der Bescheid über die Feststellung der wesentlichen
+Unterschiede auch eine Angabe dazu zu enthalten, welche Abschnitte der
+Eignungsprüfung die antragstellende Person abzulegen hat und welche
+zahnärztlichen Leistungen gegebenenfalls von der antragstellenden
+Person im praktischen Abschnitt der Eignungsprüfung zu erbringen sind.
 
 
 #### § 88 Approbationsurkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008900000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008901130)
 
-Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständige Behörde stellt die
+Die nach § 16 Absatz 1 Satz 1 oder Absatz 1a des Gesetzes über die
+Ausübung der Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes
+über die Ausübung der Zahnheilkunde zuständige Behörde stellt die
 Approbationsurkunde nach dem Muster der Anlage 20 aus. Sie händigt die
 Approbationsurkunde der antragstellenden Person gegen
 Empfangsbekenntnis aus oder stellt sie ihr mit Zustellungsurkunde zu.
 
 
-### Unterabschnitt 2 - Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001000000)
+### Unterabschnitt 2 - Eignungsprüfung nach § 12a Absatz 7 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001001130)
 
 
 #### § 89 Art der Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009000000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009001130)
 
-(1) Die Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die
+(1) Die Eignungsprüfung nach § 12a Absatz 7 des Gesetzes über die
 Ausübung der Zahnheilkunde kann aus folgenden Abschnitten bestehen,
 die nacheinander abzulegen sind:
 
@@ -3178,14 +3413,12 @@ die nacheinander abzulegen sind:
 
 
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(2) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet auf der Grundlage der von
-ihr nach § 2 Absatz 2 Satz 3 bis 5 des Gesetzes über die Ausübung der
-Zahnheilkunde festgestellten wesentlichen Unterschiede zwischen der
-Ausbildung der antragstellenden Person und der Ausbildung, die in dem
-Gesetz über die Ausübung der Zahnheilkunde und in dieser Verordnung
-geregelt ist, welcher der in Absatz 1 genannten Abschnitte abzulegen
-ist.
+ihr festgestellten wesentlichen Unterschiede zwischen der Ausbildung
+der antragstellenden Person und der Ausbildung, die in dem Gesetz über
+die Ausübung der Zahnheilkunde und in dieser Verordnung geregelt ist,
+welcher der in Absatz 1 genannten Abschnitte abzulegen ist.
 
 (3) Der mündliche und der praktische Abschnitt der Eignungsprüfung
 dürfen nur abgelegt werden, wenn der jeweils vorangegangene Abschnitt
@@ -3193,42 +3426,41 @@ bestanden wurde.
 
 
 #### § 90 Prüfungstermine
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009100000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009101130)
 
 (1) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten
 werden.
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(2) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zur Durchführung der
 Eignungsprüfung die regulären Prüfungstermine des Zweiten Abschnitts
 der Zahnärztlichen Prüfung nach § 44 Absatz 1 nutzen.
 
-(3) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(3) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde hat sicherzustellen, dass die
 antragstellende Person die Eignungsprüfung innerhalb von sechs
-Monaten, nachdem der antragstellenden Person der Bescheid nach § 2
-Absatz 2 Satz 8 des Gesetzes über die Ausübung der Zahnheilkunde
+Monaten, nachdem der antragstellenden Person der Bescheid nach § 87
 zugegangen ist, ablegen kann.
 
 
 #### § 91 Ladung zu den Prüfungsterminen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009200000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009201130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde stellt der antragstellenden Person
 die Ladung zur Eignungsprüfung spätestens fünf Kalendertage vor dem
 Prüfungstermin zu.
 
 
 #### § 92 Inhalt der Eignungsprüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009300000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009301130)
 
 (1) Die Eignungsprüfung umfasst die Fächer und Querschnittsbereiche,
-in denen die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
-der Zahnheilkunde zuständige Behörde wesentliche Unterschiede zwischen
-der Ausbildung der antragstellenden Person und der Ausbildung, die in
-dem Gesetz über die Ausübung der Zahnheilkunde und in dieser
-Verordnung geregelt ist, festgestellt hat.
+in denen die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
+Zahnheilkunde zuständige Behörde wesentliche Unterschiede zwischen der
+Ausbildung der antragstellenden Person und der Ausbildung, die in dem
+Gesetz über die Ausübung der Zahnheilkunde und in dieser Verordnung
+geregelt ist, festgestellt hat.
 
 (2) In der Eignungsprüfung hat die antragstellende Person zu zeigen,
 dass sie in diesen Fächern und Querschnittsbereichen über die
@@ -3290,14 +3522,14 @@ Dauer nicht überschreiten.
 
 
 #### § 96 Prüfungskommission
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009702130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009703130)
 
 (1) Der mündliche Abschnitt und der praktische Abschnitt der
 Eignungsprüfung werden vor einer Prüfungskommission abgelegt. Die
 Prüfungskommission bewertet das Ergebnis des schriftlichen Abschnitts
 der Eignungsprüfung.
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(2) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestellt die Prüfungskommission. Sie
 kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes
 übertragen.
@@ -3329,7 +3561,7 @@ Stimmenmehrheit.
 
 
 #### § 97 Durchführung der Eignungsprüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009801116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009802130)
 
 (1) In einem Prüfungsgespräch wird in der Regel nur eine
 antragstellende Person geprüft. Sofern es die zu prüfenden Fächer
@@ -3376,14 +3608,14 @@ und Patientinnen, möglich ist.
 zu unterzeichnen.
 
 (5) Die der Prüfungskommission vorsitzende Person leitet die
-Niederschrift der nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständigen Behörde zu.
+Niederschrift der nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständigen Behörde zu.
 
 
 #### § 98 Anwesenheit weiterer Personen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009900000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009901130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zum mündlichen Abschnitt und zum
 praktischen Abschnitt der Eignungsprüfung beobachtende Personen
 entsenden.
@@ -3405,9 +3637,9 @@ antragstellenden Person.
 
 
 #### § 100 Ordnungsverstöße, Täuschungsversuche
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010100000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010101130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann einen Abschnitt der
 Eignungsprüfung für nicht bestanden erklären, wenn die antragstellende
 Person
@@ -3422,17 +3654,17 @@ Person
 
 
 #### § 101 Rücktritt von der Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010200000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010201130)
 
 (1) Tritt eine antragstellende Person nach ihrer Zulassung von
 einzelnen Abschnitten der Eignungsprüfung oder von der gesamten
 Eignungsprüfung zurück, so hat sie die Gründe für ihren Rücktritt
-unverzüglich der nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständigen Behörde mitzuteilen.
+unverzüglich der nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständigen Behörde mitzuteilen.
 
-(2) Genehmigt die nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständige Behörde den Rücktritt, so gilt
-der jeweilige Abschnitt der Eignungsprüfung oder die gesamte
+(2) Genehmigt die nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständige Behörde den Rücktritt, so gilt der
+jeweilige Abschnitt der Eignungsprüfung oder die gesamte
 Eignungsprüfung als nicht unternommen. Die Genehmigung ist nur zu
 erteilen, wenn ein wichtiger Grund vorliegt. Die zuständige Behörde
 kann verlangen, dass ihr die antragstellende Person bei Krankheit eine
@@ -3448,7 +3680,7 @@ bestanden.
 
 
 #### § 102 Versäumnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010300000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010301130)
 
 (1) Eine antragstellende Person hat einen Abschnitt der
 Eignungsprüfung nicht bestanden, wenn sie
@@ -3468,11 +3700,11 @@ Eignungsprüfung nicht bestanden, wenn sie
 (2) Liegt ein wichtiger Grund für das Verhalten der antragstellenden
 Person vor, so gilt der Abschnitt als nicht unternommen. Die
 antragstellende Person hat die Gründe für ihr Verhalten unverzüglich
-der nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+der nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständigen Behörde mitzuteilen.
 
 (3) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft
-die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde. Die zuständige Behörde kann
 verlangen, dass ihr die antragstellende Person bei Krankheit eine
 ärztliche Bescheinigung vorlegt. Die zuständige Behörde kann auch
@@ -3487,14 +3719,14 @@ Jeder nicht bestandene Abschnitt der Eignungsprüfung kann jeweils
 zweimal wiederholt werden.
 
 
-### Unterabschnitt 3 - Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001100000)
+### Unterabschnitt 3 - Kenntnisprüfung nach § 12b Absatz 2 und 3 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001101130)
 
 
 #### § 104 Art der Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010500000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010501130)
 
-(1) Die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die
+(1) Die Kenntnisprüfung nach § 12b Absatz 2 des Gesetzes über die
 Ausübung der Zahnheilkunde besteht aus folgenden Abschnitten, die
 nacheinander abzulegen sind:
 
@@ -3515,35 +3747,36 @@ bestanden wurde.
 
 
 #### § 105 Prüfungstermine
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010600000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010601130)
 
 (1) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden.
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(2) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zur Durchführung der
 Kenntnisprüfung die regulären Prüfungstermine des Zweiten Abschnitts
 der Zahnärztlichen Prüfung nach § 44 Absatz 1 nutzen.
 
-(3) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(3) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde hat sicherzustellen, dass die
-antragstellende Person die Kenntnisprüfung innerhalb von sechs
-Monaten, nachdem der antragstellenden Person der Bescheid nach § 2
-Absatz 3 Satz 2 in Verbindung mit Absatz 2 Satz 8 des Gesetzes über
-die Ausübung der Zahnheilkunde zugegangen ist, ablegen kann.
+antragstellende Person in den Fällen des § 12b Absatz 3 des Gesetzes
+über die Ausübung der Zahnheilkunde die Kenntnisprüfung innerhalb von
+sechs Monaten nachdem der antragstellenden Person der Bescheid nach §
+87 zugegangen ist, oder in den anderen Fällen innerhalb von sechs
+Monaten nach Stellung des Antrags, ablegen kann.
 
 
 #### § 106 Ladung zu den Prüfungsterminen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010700000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010701130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde stellt der antragstellenden Person
 die Ladung zur Kenntnisprüfung spätestens fünf Kalendertage vor dem
 Prüfungstermin zu.
 
 
 #### § 107 Inhalt der Kenntnisprüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010800000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010801130)
 
 (1) Die Kenntnisprüfung umfasst
 
@@ -3581,17 +3814,7 @@ In der Kenntnisprüfung sollen ergänzend auch Fragen zur
 Notfallmedizin, klinischen Pharmakologie, Pharmakotherapie, Hygiene
 und zu Rechtsfragen der zahnärztlichen Berufsausübung gestellt werden.
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständige Behörde kann festlegen, dass die
-Kenntnisprüfung ein weiteres Fach oder einen weiteren
-Querschnittsbereich umfasst, wenn sie in diesem Fach oder diesem
-Querschnittsbereich wesentliche Unterschiede zwischen der Ausbildung
-der antragstellenden Person und der Ausbildung, die im Gesetz über die
-Ausübung der Zahnheilkunde und in dieser Verordnung geregelt ist,
-festgestellt hat. Die Festlegung eines weiteren Faches oder eines
-weiteren Querschnittsbereichs für die Kenntnisprüfung hat in dem
-Bescheid nach § 2 Absatz 3 Satz 2 in Verbindung mit Absatz 2 Satz 8
-des Gesetzes über die Ausübung der Zahnheilkunde zu erfolgen.
+(2) (weggefallen)
 
 (3) In der Kenntnisprüfung hat die antragstellende Person zu zeigen,
 dass sie über die Kenntnisse, Fähigkeiten und Fertigkeiten, auch in
@@ -3612,16 +3835,13 @@ Behandlungsvorschläge schriftlich zu entwickeln und zu begründen.
 
 
 #### § 109 Mündlicher Abschnitt
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011000000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011001130)
 
 (1) Der mündliche Abschnitt der Kenntnisprüfung wird in Form eines
 Prüfungsgesprächs durchgeführt. Das Prüfungsgespräch bezieht sich auf
 die in § 107 Absatz 1 aufgeführten Fächer und genannten weiteren
-Prüfungsinhalte sowie auf das gegebenenfalls nach § 107 Absatz 2 Satz
-1 festgelegte weitere Fach oder den gegebenenfalls nach § 107 Absatz 2
-Satz 1 festgelegten weiteren Querschnittsbereich. In das
-Prüfungsgespräch kann die im schriftlichen Abschnitt der
-Kenntnisprüfung nach § 108 zu erstellende schriftliche
+Prüfungsinhalte. In das Prüfungsgespräch kann die im schriftlichen
+Abschnitt der Kenntnisprüfung nach § 108 zu erstellende schriftliche
 Behandlungsplanung einbezogen werden.
 
 (2) Jedes Prüfungsgespräch dauert mindestens 60 und höchstens 90
@@ -3708,14 +3928,14 @@ vergleichbare zahnärztliche Leistungen zu erbringen:
 
 
 #### § 111 Prüfungskommission
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011202130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011203130)
 
 (1) Der mündliche Abschnitt und der praktische Abschnitt der
 Kenntnisprüfung werden vor einer Prüfungskommission abgelegt. Die
 Prüfungskommission bewertet das Ergebnis des schriftlichen Abschnitts
 der Kenntnisprüfung.
 
-(2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+(2) Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestellt die Prüfungskommission. Sie
 kann diese Aufgabe der Zahnärztekammer des jeweiligen Landes
 übertragen.
@@ -3747,7 +3967,7 @@ Stimmenmehrheit.
 
 
 #### § 112 Durchführung der Kenntnisprüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011301116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011302130)
 
 (1) In einem Prüfungsgespräch dürfen nicht mehr als vier
 antragstellende Personen gleichzeitig von derselben Prüfungskommission
@@ -3790,14 +4010,14 @@ und Patientinnen, möglich ist.
 zu unterzeichnen.
 
 (5) Die der Prüfungskommission vorsitzende Person leitet die
-Niederschrift der nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständigen Behörde zu.
+Niederschrift der nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständigen Behörde zu.
 
 
 #### § 113 Anwesenheit weiterer Personen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011400000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011401130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zum mündlichen Abschnitt und zum
 praktischen Abschnitt der Kenntnisprüfung beobachtende Personen
 entsenden.
@@ -3819,9 +4039,9 @@ antragstellenden Person.
 
 
 #### § 115 Ordnungsverstöße, Täuschungsversuche
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011600000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011601130)
 
-Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann einen Abschnitt der
 Kenntnisprüfung für nicht bestanden erklären, wenn die antragstellende
 Person
@@ -3836,17 +4056,17 @@ Person
 
 
 #### § 116 Rücktritt von der Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011700000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011701130)
 
 (1) Tritt eine antragstellende Person nach ihrer Zulassung von
 einzelnen Abschnitten der Kenntnisprüfung oder von der gesamten
 Kenntnisprüfung zurück, so hat sie die Gründe für ihren Rücktritt
-unverzüglich der nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständigen Behörde mitzuteilen.
+unverzüglich der nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständigen Behörde mitzuteilen.
 
-(2) Genehmigt die nach § 16 Absatz 2 Satz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde zuständige Behörde den Rücktritt, so gilt
-der jeweilige Abschnitt der Kenntnisprüfung oder die gesamte
+(2) Genehmigt die nach § 16 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde zuständige Behörde den Rücktritt, so gilt der
+jeweilige Abschnitt der Kenntnisprüfung oder die gesamte
 Kenntnisprüfung als nicht unternommen. Die Genehmigung ist nur zu
 erteilen, wenn ein wichtiger Grund vorliegt. Die zuständige Behörde
 kann verlangen, dass ihr die antragstellende Person bei Krankheit eine
@@ -3862,7 +4082,7 @@ bestanden.
 
 
 #### § 117 Versäumnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011800000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011801130)
 
 (1) Eine antragstellende Person hat einen Abschnitt der
 Kenntnisprüfung nicht bestanden, wenn sie
@@ -3882,11 +4102,11 @@ Kenntnisprüfung nicht bestanden, wenn sie
 (2) Liegt ein wichtiger Grund für das Verhalten der antragstellenden
 Person vor, so gilt der Abschnitt als nicht unternommen. Die
 antragstellende Person hat die Gründe für ihr Verhalten unverzüglich
-der nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+der nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständigen Behörde mitzuteilen.
 
 (3) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft
-die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+die nach § 16 Absatz 1a des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde. Die zuständige Behörde kann
 verlangen, dass ihr die antragstellende Person bei Krankheit eine
 ärztliche Bescheinigung vorlegt. Die zuständige Behörde kann auch
@@ -3901,8 +4121,23 @@ Jeder nicht bestandene Abschnitt der Kenntnisprüfung kann jeweils
 zweimal wiederholt werden.
 
 
-## Abschnitt 5 - Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001200000)
+#### § 118a Mitteilungspflichten bei Nichtbestehen der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016400130)
+
+(1) Die nach Landesrecht zuständigen Stellen unterrichten die nach
+Landesrecht zuständigen Stellen der anderen Länder, wenn die
+Kenntnisprüfung von einer antragstellenden Person nach zweimaliger
+Wiederholung nicht bestanden worden ist.
+
+(2) Die nach Landesrecht zuständigen Stellen unterrichten die
+antragstellenden Personen über jede Mitteilung nach Absatz 1.
+
+(3) Die Mitteilungen nach den Absätzen 1 und 2 können schriftlich oder
+elektronisch erfolgen.
+
+
+## Abschnitt 5 - Die Erlaubnis zur Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001201130)
 
 
 ### Unterabschnitt 1 - Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
@@ -3910,36 +4145,41 @@ zweimal wiederholt werden.
 
 
 #### § 119 Antrag auf erstmalige Erteilung der Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012000000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012001130)
 
-Der Antrag auf erstmalige Erteilung einer Erlaubnis zur
-vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 1 des
-Gesetzes über die Ausübung der Zahnheilkunde ist an die nach § 16
-Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde
-zuständige Behörde zu richten.
+Der Antrag auf erstmalige Erteilung einer Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten. Der
+Antrag kann schriftlich oder elektronisch gestellt werden.
+
+
+#### § 119a Allgemeine Vorgaben für die einzureichenden Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016500130)
+
+Für die nach diesem Abschnitt einzureichenden Unterlagen findet § 83a
+entsprechende Anwendung.
 
 
 #### § 120 Antragsunterlagen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012101116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012102130)
 
 (1) Beantragt die antragstellende Person erstmals die Erteilung der
-Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
-Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde, hat sie dem
-Antrag folgende Unterlagen beizufügen:
+Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1 des
+Gesetzes über die Ausübung der Zahnheilkunde, hat sie dem Antrag
+folgende Unterlagen beizufügen:
 
-1.  einen Identitätsnachweis im Original oder in beglaubigter Kopie,
-
-
-2.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
-    der ausgeübten Erwerbstätigkeiten,
+1.  einen Identitätsnachweis,
 
 
-3.  eine amtlich beglaubigte Kopie der Bescheinigung über eine
-    abgeschlossene zahnärztliche Ausbildung,
+2.  einen Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
 
 
-4.  gegebenenfalls eine amtlich beglaubigte Kopie der Bescheinigung über
-    die erworbene Berufserfahrung,
+3.  eine Bescheinigung über eine abgeschlossene zahnärztliche Ausbildung,
+
+
+4.  gegebenenfalls eine Bescheinigung über die erworbene Berufserfahrung,
 
 
 5.  eine Erklärung, wo und in welcher Weise sie die Zahnheilkunde im
@@ -3947,53 +4187,52 @@ Antrag folgende Unterlagen beizufügen:
 
 
 6.  sofern vorhanden, den Bescheid über die Feststellung der wesentlichen
-    Unterschiede nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung
-    der Zahnheilkunde,
+    Unterschiede nach § 87,
 
 
 7.  sofern vorhanden, die nach § 112 Absatz 2 anzufertigende Niederschrift
-    über die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über
-    die Ausübung der Zahnheilkunde und
+    über die Kenntnisprüfung, und,
 
 
-8.  sofern vorhanden, Nachweise über die Kenntnisse der deutschen Sprache,
-    die der nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-    Zahnheilkunde zuständigen Behörde eine Beurteilung darüber erlauben,
-    in welchem Umfang die antragstellende Person über die zur Ausübung des
-    zahnärztlichen Berufs erforderlichen Sprachkenntnisse verfügt.
-
-
-
-
-(2) Dem Antrag sind ferner beizufügen:
-
-1.  ein amtliches inländisches Führungszeugnis oder,
-
-
-2.  wenn die antragstellende Person den Antrag vom Ausland aus stellt,
-    Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
-    ausgestellt wurden und belegen, dass die antragstellende Person sich
-    nicht eines Verhaltens schuldig gemacht hat, aus dem sich ihre
-    Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des zahnärztlichen
-    Berufs ergibt.
+8.  sofern vorhanden, Nachweise, die der nach § 16 Absatz 2 Satz 1 des
+    Gesetzes über die Ausübung der Zahnheilkunde zuständigen Behörde eine
+    Beurteilung darüber erlauben, in welchem Umfang die antragstellende
+    Person über die zur Ausübung des zahnärztlichen Berufs erforderlichen
+    Kenntnisse der deutschen Sprache verfügt.
 
 
 
-Wenn im Herkunftsstaat der antragstellenden Person keine Unterlagen im
-Sinne von Satz 1 Nummer 2 ausgestellt werden, ist dem Antrag eine
-eidesstattliche Erklärung der antragstellenden Person darüber
-beizufügen, dass sie sich nicht eines Verhaltens schuldig gemacht hat,
-aus dem sich ihre Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des
-zahnärztlichen Berufs ergibt. Die eidesstattliche Erklärung kann im
-Geltungsbereich dieser Verordnung oder im Herkunftsstaat der
-antragstellenden Person abgegeben werden. Wenn der Herkunftsstaat
+
+(2) Dem Antrag ist ferner ein Nachweis über das Vorliegen der
+Voraussetzung nach § 2 Absatz 1 Satz 1 Nummer 2 des Gesetzes über die
+Ausübung der Zahnheilkunde beizufügen durch:
+
+1.  ein Führungszeugnis und
+
+
+2.  Unterlagen, die von den zuständigen Behörden des Staats, in dem die
+    Berufsqualifikation erworben worden ist, ausgestellt wurden.
+
+
+
+Wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+der antragstellenden Person keine Unterlagen im Sinne von Satz 1
+Nummer 2 ausgestellt werden, ist dem Antrag eine eidesstattliche
+Erklärung der antragstellenden Person darüber beizufügen, dass sie
+sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich ihre
+Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des zahnärztlichen
+Berufs ergibt. Die eidesstattliche Erklärung kann im Geltungsbereich
+dieser Verordnung oder in dem Staat, in dem die Berufsqualifikation
+erworben worden ist, von der antragstellenden Person abgegeben werden.
+Wenn der Staat, in dem die Berufsqualifikation erworben worden ist,
 keine eidesstattlichen Erklärungen ausstellt, ist dem Antrag statt
 einer eidesstattlichen Erklärung eine feierliche Erklärung desselben
-Inhalts beizufügen, die die antragstellende Person im Herkunftsstaat
-vor einer zuständigen Justiz- oder Verwaltungsbehörde oder
-gegebenenfalls vor einem Notar oder einer entsprechend
-bevollmächtigten Berufsorganisation abgegeben hat, die eine diese
-feierliche Erklärung bestätigende Bescheinigung ausstellt.
+Inhalts beizufügen, die die antragstellende Person in dem Staat, in
+dem die Berufsqualifikation erworben worden ist, vor einer zuständigen
+Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar
+oder einer entsprechend bevollmächtigten Berufsorganisation abgegeben
+hat, die eine diese feierliche Erklärung bestätigende Bescheinigung
+ausstellt.
 
 (3) Weiterhin beizufügen ist dem Antrag eine im Geltungsbereich dieser
 Verordnung ausgestellte ärztliche Bescheinigung, aus der hervorgeht,
@@ -4001,30 +4240,32 @@ dass die antragstellende Person nicht in gesundheitlicher Hinsicht zur
 Ausübung des zahnärztlichen Berufs ungeeignet ist. Wenn sich der
 Wohnsitz der antragstellenden Person nicht im Geltungsbereich dieser
 Verordnung befindet, kann statt einer ärztlichen Bescheinigung nach
-Satz 1 der Nachweis beigefügt werden, der im Herkunftsstaat bei
-Aufnahme des zahnärztlichen Berufs als Nachweis über die körperliche
-und geistige Gesundheit der antragstellenden Person gefordert wird.
-Wenn der Herkunftsstaat keinen derartigen Nachweis fordert, kann eine
-von einer zuständigen Behörde des Herkunftsstaats ausgestellte andere
-Bescheinigung über die körperliche und geistige Gesundheit der
+Satz 1 der Nachweis beigefügt werden, der in dem Staat, in dem die
+Berufsqualifikation erworben worden ist, bei Aufnahme des
+zahnärztlichen Berufs als Nachweis über die körperliche und geistige
+Gesundheit der antragstellenden Person gefordert wird. Wenn der Staat,
+in dem die Berufsqualifikation erworben worden ist, keinen derartigen
+Nachweis fordert, kann eine von einer zuständigen Behörde des Staats,
+in dem die Berufsqualifikation erworben worden ist, ausgestellte
+andere Bescheinigung über die körperliche und geistige Gesundheit der
 antragstellenden Person beigefügt werden.
 
 (4) Die in den Absätzen 2 und 3 genannten Unterlagen dürfen zum
 Zeitpunkt ihres Eingangs bei der nach § 16 Absatz 2 Satz 1 des
-Gesetzes über die Ausübung der Zahnheilkunde zuständigen Behörde nicht
-älter als drei Monate sein.
+Gesetzes über die Ausübung der Zahnheilkunde zuständigen Behörde
+jeweils nicht älter als drei Monate sein.
 
 (5) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
-Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten
-Unterlagen, kann sie von der zuständigen Behörde des Herkunftsstaats
-eine Bestätigung der Authentizität verlangen.
+Echtheit der von dem jeweiligen Staat ausgestellten Unterlagen, kann
+sie von der zuständigen Behörde des ausstellenden Staats eine
+Bestätigung der Echtheit verlangen.
 
 (6) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
 Berechtigung der antragstellenden Person zur Ausübung des
 zahnärztlichen Berufs, kann sie von der zuständigen Behörde eines
-anderen Staates, der darüber Erkenntnisse haben könnte, eine
+anderen Staats, der darüber Erkenntnisse haben könnte, eine
 Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden
 Person die Ausübung des zahnärztlichen Berufs nicht aufgrund eines
 schwerwiegenden standeswidrigen Verhaltens oder aufgrund einer
@@ -4033,76 +4274,72 @@ untersagt worden ist.
 
 
 #### § 121 Bestätigung des Antragseingangs
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012200000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012201130)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
 binnen eines Monats nach Eingang des Antrages auf erstmalige Erteilung
-der Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
-Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde den
-Antragseingang und den Empfang der Unterlagen und teilt ihr
-gegebenenfalls mit, welche Unterlagen fehlen.
+der Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1 des
+Gesetzes über die Ausübung der Zahnheilkunde den Antragseingang und
+den Empfang der Unterlagen und teilt ihr gegebenenfalls mit, welche
+Unterlagen fehlen.
 
 (2) Ist zur Beurteilung der Frage, ob die von der antragstellenden
 Person nach § 120 Absatz 1 Nummer 3 vorgelegten Unterlagen den
-Abschluss der Ausbildung im Herkunftsstaat belegen, eine Auskunft von
-der Zentralstelle für ausländisches Bildungswesen erforderlich, so
-teilt die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständige Behörde dies der antragstellenden Person mit.
+Abschluss der Ausbildung im Staat, in dem die Berufsqualifikation
+erworben worden ist, belegen, eine Auskunft von der Zentralstelle für
+ausländisches Bildungswesen erforderlich, so teilt die nach § 16
+Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde
+zuständige Behörde dies der antragstellenden Person mit.
 
 
 #### § 122 Entscheidung über den Antrag
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012300000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012301130)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
-erstmalige Erteilung der Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde kurzfristig, spätestens drei Monate nach Eingang der
-nach § 120 Absatz 1 bis 3 von der antragstellenden Person
-vorzulegenden Unterlagen. In den Fällen des § 121 Absatz 2 ist der
-Ablauf der Frist nach Satz 1 solange gehemmt, bis der zuständigen
-Behörde die Antwort auf ihre Anfrage vorliegt. Der Ablauf der Frist
-nach Satz 1 ist auch solange gehemmt, bis der zuständigen Behörde eine
-Bestätigung nach § 120 Absatz 5 oder Absatz 6 durch die zuständige
-Behörde des Herkunftsstaats der antragstellenden Person oder des
-anderen Staates vorliegt, sofern eine solche Bestätigung verlangt
-wurde.
+erstmalige Erteilung der Erlaubnis zur Ausübung der Zahnheilkunde nach
+§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
+kurzfristig, spätestens drei Monate nach Eingang der nach § 120 Absatz
+1 bis 3 von der antragstellenden Person vorzulegenden Unterlagen. In
+den Fällen des § 121 Absatz 2 ist der Ablauf der Frist nach Satz 1
+solange gehemmt, bis der zuständigen Behörde die Antwort auf ihre
+Anfrage vorliegt. Der Ablauf der Frist nach Satz 1 ist auch solange
+gehemmt, bis der zuständigen Behörde eine Bestätigung nach § 120
+Absatz 5 oder 6 durch die zuständige Behörde des Staats, in dem die
+Berufsqualifikation erworben worden ist, oder des anderen Staats
+vorliegt, sofern eine solche Bestätigung verlangt wurde.
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde hat bei der Entscheidung über die
-erstmalige Erteilung der Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde den Ausbildungsstand der antragstellenden Person
-einschließlich der nachgewiesenen einschlägigen Berufserfahrung zu
-berücksichtigen. Sie prüft auf der Grundlage dieses Ausbildungsstandes
-die fachliche Eignung der antragstellenden Person für die
-beabsichtigte Ausübung der Zahnheilkunde. Hat die antragstellende
-Person bereits einen Antrag auf Erteilung der Approbation gestellt,
-berücksichtigt die zuständige Behörde die Feststellungen des
-Bescheides nach § 2 Absatz 2 Satz 8 des Gesetzes über die Ausübung der
-Zahnheilkunde und, sofern vorhanden, die Niederschrift über die
-Kenntnisprüfung nach § 112 Absatz 2. Ein bereits begonnenes oder noch
-nicht nach § 2 Absatz 3 des Gesetzes über die Ausübung der
-Zahnheilkunde mit einer Anerkennung abgeschlossenes
-Approbationsverfahren steht der Erteilung der Erlaubnis nicht
-entgegen.
-
-(3) Die zuständige Behörde versieht die Erlaubnis zur vorübergehenden
-Ausübung der Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde mit den Einschränkungen und
-Nebenbestimmungen, die erforderlich sind, um eine Gefährdung der
-öffentlichen Gesundheit auszuschließen. Dabei berücksichtigt sie den
+erstmalige Erteilung der Erlaubnis zur Ausübung der Zahnheilkunde nach
+§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde den
 Ausbildungsstand der antragstellenden Person einschließlich der
-nachgewiesenen einschlägigen Berufserfahrung, ihre Kenntnisse der
-deutschen Sprache und ihre gesundheitliche Eignung.
+nachgewiesenen einschlägigen Berufserfahrung zu berücksichtigen. Sie
+prüft auf der Grundlage dieses Ausbildungsstandes die fachliche
+Eignung der antragstellenden Person für die beabsichtigte Ausübung der
+Zahnheilkunde. Hat die antragstellende Person bereits einen Antrag auf
+Erteilung der Approbation gestellt, berücksichtigt die zuständige
+Behörde soweit vorhanden die Feststellungen des Bescheides nach § 87
+und, sofern vorhanden, die Niederschrift über die Kenntnisprüfung nach
+§ 112 Absatz 2. Ein bereits begonnenes oder noch nicht nach § 12b des
+Gesetzes über die Ausübung der Zahnheilkunde mit einer Anerkennung
+abgeschlossenes Approbationsverfahren steht der Erteilung der
+Erlaubnis nicht entgegen.
 
-(4) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde ist zu
-versagen, wenn
+(3) Die zuständige Behörde versieht die Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
+Zahnheilkunde mit den Nebenbestimmungen, die erforderlich sind, um
+eine Gefährdung der öffentlichen Gesundheit auszuschließen. Dabei
+berücksichtigt sie den Ausbildungsstand der antragstellenden Person
+einschließlich der nachgewiesenen einschlägigen Berufserfahrung, ihre
+Kenntnisse der deutschen Sprache und ihre gesundheitliche Eignung.
 
-1.  eine Gefährdung der öffentlichen Gesundheit durch Einschränkungen und
-    Nebenbestimmungen nicht ausgeschlossen werden kann oder
+(4) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1
+des Gesetzes über die Ausübung der Zahnheilkunde ist zu versagen, wenn
+
+1.  eine Gefährdung der öffentlichen Gesundheit durch Nebenbestimmungen
+    nicht ausgeschlossen werden kann oder
 
 
 2.  die antragstellende Person sich eines Verhaltens schuldig gemacht hat,
@@ -4112,34 +4349,32 @@ versagen, wenn
 
 
 
-(5) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde kann
-auf weniger als zwei Jahre befristet werden, wenn im Einzelfall die
-Einschränkungen und Nebenbestimmungen, mit denen die Erlaubnis
-versehen ist, oder die von der antragstellenden Person beabsichtigte
-Berufstätigkeit dies erfordern.
+(5) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1
+des Gesetzes über die Ausübung der Zahnheilkunde kann auf weniger als
+zwei Jahre befristet werden, wenn im Einzelfall die Nebenbestimmungen,
+mit denen die Erlaubnis versehen ist, oder die von der
+antragstellenden Person beabsichtigte Berufstätigkeit dies erfordern.
 
-(6) Wenn die Geltung der Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde auf ein Land beschränkt wird, die Tätigkeit aber einen
-Einsatz in mehr als einem Land erfordert, hat die nach § 16 Absatz 2
-Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde zuständige
-Behörde die Erlaubnis mit dem Hinweis zu versehen, in welchen anderen
-Ländern die Erlaubnis gilt.
+(6) Wenn die Geltung der Erlaubnis zur Ausübung der Zahnheilkunde nach
+§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde auf ein
+Land beschränkt wird, die Tätigkeit aber einen Einsatz in mehr als
+einem Land erfordert, hat die nach § 16 Absatz 2 Satz 1 des Gesetzes
+über die Ausübung der Zahnheilkunde zuständige Behörde die Erlaubnis
+mit dem Hinweis zu versehen, in welchen anderen Ländern die Erlaubnis
+gilt.
 
-(7) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde wird
-nach dem Muster der Anlage 23 ausgestellt.
+(7) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1
+des Gesetzes über die Ausübung der Zahnheilkunde wird nach dem Muster
+der Anlage 23 ausgestellt.
 
 
 #### § 123 Verlängerung der Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012400000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012401130)
 
-(1) Der Antrag auf Verlängerung der Erlaubnis zur vorübergehenden
-Ausübung der Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die
-Ausübung der Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des
-Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde zu
-richten.
+(1) Der Antrag auf Verlängerung der Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten.
 
 (2) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -4147,7 +4382,7 @@ richten.
     ausgestellt wurde,
 
 
-2.  ein amtliches inländisches Führungszeugnis und
+2.  ein Führungszeugnis und
 
 
 3.  eine im Geltungsbereich dieser Verordnung ausgestellte ärztliche
@@ -4179,25 +4414,25 @@ erforderlichen Unterlagen.
 
 
 #### § 124 Antrag auf erstmalige Erteilung der Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012500000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012501130)
 
-Der Antrag auf erstmalige Erteilung einer Erlaubnis zur
-vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 1a des
-Gesetzes über die Ausübung der Zahnheilkunde ist an die nach § 16
-Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde
-zuständige Behörde zu richten.
+Der Antrag auf erstmalige Erteilung einer Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten. Der
+Antrag kann schriftlich oder elektronisch gestellt werden.
 
 
 #### § 125 Antragsunterlagen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012600000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012601130)
 
 (1) Beantragt die antragstellende Person erstmals die Erteilung der
-Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
-Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde, hat sie
-dem Antrag folgende Unterlagen beizufügen:
+Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1a des
+Gesetzes über die Ausübung der Zahnheilkunde, hat sie dem Antrag
+folgende Unterlagen beizufügen:
 
-1.  die Unterlagen, die in § 2 Absatz 6 Satz 1 Nummer 1, 1a, 2 und 3 bis 7
-    des Gesetzes über die Ausübung der Zahnheilkunde genannt sind, und
+1.  die Unterlagen, die in § 120 Absatz 1 Nummer 1 bis 4 und 6 bis 8 und
+    Absatz 2 und 3 genannt sind, und
 
 
 2.  eine Erklärung, wo und in welcher Weise sie die Zahnheilkunde im
@@ -4208,19 +4443,19 @@ dem Antrag folgende Unterlagen beizufügen:
 
 
 
-(2) Die nach Absatz 1 Nummer 1 in Verbindung mit § 2 Absatz 6 Satz 1
-Nummer 3 und 4 des Gesetzes über die Ausübung der Zahnheilkunde
+(2) Die nach Absatz 1 Nummer 1 in Verbindung mit § 120 Absatz 2 und 3
 beizufügenden Unterlagen dürfen zum Zeitpunkt ihres Eingangs bei der
 nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständigen Behörde nicht älter als drei Monate sein.
+Zahnheilkunde zuständigen Behörde jeweils nicht älter als drei Monate
+sein.
 
 (3) Ein besonderes Interesse im Sinne des § 13 Absatz 1a Satz 1 des
 Gesetzes über die Ausübung der Zahnheilkunde liegt insbesondere vor,
 wenn die antragstellende Person
 
-1.  die Voraussetzungen nach § 2 Absatz 1 oder Absatz 2 des Gesetzes über
-    die Ausübung der Zahnheilkunde erfüllt, aber nicht nach § 13a des
-    Gesetzes über die Ausübung der Zahnheilkunde als
+1.  die Voraussetzungen nach § 2 Absatz 1 Satz 1 in Verbindung mit § 12a
+    des Gesetzes über die Ausübung der Zahnheilkunde erfüllt, aber nicht
+    nach § 13b des Gesetzes über die Ausübung der Zahnheilkunde als
     Dienstleistungserbringer oder als Dienstleistungserbringerin
     vorübergehend und gelegentlich den zahnärztlichen Beruf im
     Geltungsbereich dieser Verordnung ausüben kann, oder
@@ -4236,11 +4471,12 @@ wenn die antragstellende Person
 
 (4) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
-Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten
-Unterlagen, kann sie von der zuständigen Behörde des Herkunftsstaats
-folgende Bestätigungen verlangen:
+Echtheit der in dem jeweiligen Herkunftsstaat ausgestellten
+Unterlagen, kann sie von der zuständigen Behörde des Staats, in dem
+die Berufsqualifikation erworben worden ist, folgende Bestätigungen
+verlangen:
 
-1.  eine Bestätigung der Authentizität sowie
+1.  eine Bestätigung der Echtheit sowie
 
 
 2.  eine Bestätigung darüber, dass die antragstellende Person die
@@ -4250,11 +4486,11 @@ folgende Bestätigungen verlangen:
 
 
 
-(5) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
+(5) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
 Berechtigung der antragstellenden Person zur Ausübung des
 zahnärztlichen Berufs, kann sie von der zuständigen Behörde eines
-anderen Staates, der darüber Erkenntnisse haben könnte, eine
+anderen Staats, der darüber Erkenntnisse haben könnte, eine
 Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden
 Person die Ausübung des zahnärztlichen Berufs nicht aufgrund eines
 schwerwiegenden standeswidrigen Verhaltens oder aufgrund einer
@@ -4263,20 +4499,20 @@ untersagt worden ist.
 
 
 #### § 126 Bestätigung des Antragseingangs
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012700000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012701130)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
 binnen eines Monats nach Eingang des Antrages auf erstmalige Erteilung
-einer Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach §
-13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde den
-Antragseingang und den Empfang der Unterlagen und teilt ihr
-gegebenenfalls mit, welche Unterlagen fehlen.
+einer Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1a des
+Gesetzes über die Ausübung der Zahnheilkunde den Antragseingang und
+den Empfang der Unterlagen und teilt ihr gegebenenfalls mit, welche
+Unterlagen fehlen.
 
 (2) Ist zur Beurteilung der Frage, ob die von der antragstellenden
-Person nach § 125 Absatz 1 Nummer 1 in Verbindung mit § 2 Absatz 6
-Satz 1 Nummer 2 des Gesetzes über die Ausübung der Zahnheilkunde
-vorgelegten Unterlagen den Abschluss der Ausbildung im Herkunftsstaat
+Person nach § 125 Absatz 1 Nummer 1 in Verbindung mit § 120 Absatz 1
+Nummer 3 und 4 vorgelegten Unterlagen den Abschluss der Ausbildung in
+dem Staat, in dem die Berufsqualifikation erworben worden ist,
 belegen, eine Auskunft von der Zentralstelle für ausländisches
 Bildungswesen erforderlich, so teilt die nach § 16 Absatz 2 Satz 1 des
 Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde dies
@@ -4284,37 +4520,37 @@ der antragstellenden Person mit.
 
 
 #### § 127 Entscheidung über den Antrag
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012800000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012801130)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
-erstmalige Erteilung einer Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung der
-Zahnheilkunde kurzfristig, spätestens drei Monate nach Eingang der
-nach § 125 Absatz 1 von der antragstellenden Person vorzulegenden
-Unterlagen. In den Fällen des § 126 Absatz 2 ist der Ablauf der Frist
-nach Satz 1 solange gehemmt, bis der zuständigen Behörde die Antwort
-auf ihre Anfrage vorliegt. Der Ablauf der Frist nach Satz 1 ist auch
-solange gehemmt, bis der zuständigen Behörde eine Bestätigung nach §
-125 Absatz 4 oder Absatz 5 durch die zuständige Behörde des
-Herkunftsstaats der antragstellenden Person oder des anderen Staates
+erstmalige Erteilung einer Erlaubnis zur Ausübung der Zahnheilkunde
+nach § 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde
+kurzfristig, spätestens drei Monate nach Eingang der nach § 125 Absatz
+1 von der antragstellenden Person vorzulegenden Unterlagen. In den
+Fällen des § 126 Absatz 2 ist der Ablauf der Frist nach Satz 1 solange
+gehemmt, bis der zuständigen Behörde die Antwort auf ihre Anfrage
+vorliegt. Der Ablauf der Frist nach Satz 1 ist auch solange gehemmt,
+bis der zuständigen Behörde eine Bestätigung nach § 125 Absatz 4 oder
+5 durch die zuständige Behörde des Staats, in dem die
+Berufsqualifikation erworben worden ist, oder des anderen Staats
 vorliegt, sofern eine solche Bestätigung verlangt wurde.
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde hat bei der Entscheidung über die
-erstmalige Erteilung der Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung der
-Zahnheilkunde den Ausbildungsstand der antragstellenden Person
-einschließlich der nachgewiesenen einschlägigen Berufserfahrung zu
-berücksichtigen, wenn die antragstellende Person nicht die folgenden
-Voraussetzungen erfüllt:
+erstmalige Erteilung der Erlaubnis zur Ausübung der Zahnheilkunde nach
+§ 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde den
+Ausbildungsstand der antragstellenden Person einschließlich der
+nachgewiesenen einschlägigen Berufserfahrung zu berücksichtigen, wenn
+die antragstellende Person nicht die folgenden Voraussetzungen
+erfüllt:
 
 1.  die Voraussetzung des § 2 Absatz 1 Satz 1 Nummer 4 des Gesetzes über
     die Ausübung der Zahnheilkunde,
 
 
-2.  die Voraussetzungen des § 2 Absatz 1 Satz 2, 3 oder Satz 6 des
-    Gesetzes über die Ausübung der Zahnheilkunde und
+2.  die Voraussetzungen des § 12a Absatz 1 oder 2 des Gesetzes über die
+    Ausübung der Zahnheilkunde und
 
 
 3.  die Voraussetzung des § 20a des Gesetzes über die Ausübung der
@@ -4327,22 +4563,20 @@ Ausbildungsstandes die fachliche Eignung der antragstellenden Person
 für die beabsichtigte Ausübung der Zahnheilkunde.
 
 (3) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständige Behörde versieht die Erlaubnis zur
-vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 1a des
-Gesetzes über die Ausübung der Zahnheilkunde mit den Einschränkungen
-und Nebenbestimmungen, die erforderlich sind, um eine Gefährdung der
-öffentlichen Gesundheit auszuschließen. Dabei berücksichtigt sie die
-Kenntnisse der deutschen Sprache der antragstellenden Person, ihre
-gesundheitliche Eignung und im Fall des Absatzes 2 ihren
-Ausbildungsstand einschließlich der nachgewiesenen einschlägigen
-Berufserfahrung.
+Zahnheilkunde zuständige Behörde versieht die Erlaubnis zur Ausübung
+der Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung
+der Zahnheilkunde mit den Nebenbestimmungen, die erforderlich sind, um
+eine Gefährdung der öffentlichen Gesundheit auszuschließen. Dabei
+berücksichtigt sie die Kenntnisse der deutschen Sprache der
+antragstellenden Person, ihre gesundheitliche Eignung und im Fall des
+Absatzes 2 ihren Ausbildungsstand einschließlich der nachgewiesenen
+einschlägigen Berufserfahrung.
 
-(4) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde ist zu
-versagen, wenn
+(4) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1a
+des Gesetzes über die Ausübung der Zahnheilkunde ist zu versagen, wenn
 
-1.  eine Gefährdung der öffentlichen Gesundheit durch Einschränkungen und
-    Nebenbestimmungen nicht ausgeschlossen werden kann oder
+1.  eine Gefährdung der öffentlichen Gesundheit durch Nebenbestimmungen
+    nicht ausgeschlossen werden kann oder
 
 
 2.  die antragstellende Person sich eines Verhaltens schuldig gemacht hat,
@@ -4352,34 +4586,32 @@ versagen, wenn
 
 
 
-(5) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde kann
-auf weniger als zwei Jahre befristet werden, wenn im Einzelfall die
-Einschränkungen und Nebenbestimmungen, mit denen die Erlaubnis
-versehen ist, oder die von der antragstellenden Person beabsichtigte
-Berufstätigkeit dies erfordern.
+(5) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1a
+des Gesetzes über die Ausübung der Zahnheilkunde kann auf weniger als
+zwei Jahre befristet werden, wenn im Einzelfall die Nebenbestimmungen,
+mit denen die Erlaubnis versehen ist, oder die von der
+antragstellenden Person beabsichtigte Berufstätigkeit dies erfordern.
 
-(6) Wenn die Geltung der Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung der
-Zahnheilkunde auf ein Land beschränkt wird, die Tätigkeit aber einen
-Einsatz in mehr als einem Land erfordert, hat die nach § 16 Absatz 2
-Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde zuständige
-Behörde die Erlaubnis mit dem Hinweis zu versehen, in welchen anderen
-Ländern die Erlaubnis gilt.
+(6) Wenn die Geltung der Erlaubnis zur Ausübung der Zahnheilkunde nach
+§ 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde auf
+ein Land beschränkt wird, die Tätigkeit aber einen Einsatz in mehr als
+einem Land erfordert, hat die nach § 16 Absatz 2 Satz 1 des Gesetzes
+über die Ausübung der Zahnheilkunde zuständige Behörde die Erlaubnis
+mit dem Hinweis zu versehen, in welchen anderen Ländern die Erlaubnis
+gilt.
 
-(7) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde wird
-nach dem Muster der Anlage 24 ausgestellt.
+(7) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 1a
+des Gesetzes über die Ausübung der Zahnheilkunde wird nach dem Muster
+der Anlage 23 ausgestellt.
 
 
 #### § 128 Verlängerung der Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012900000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012901130)
 
-(1) Der Antrag auf Verlängerung der Erlaubnis zur vorübergehenden
-Ausübung der Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die
-Ausübung der Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des
-Gesetzes über die Ausübung der Zahnheilkunde zuständige Behörde zu
-richten.
+(1) Der Antrag auf Verlängerung der Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten.
 
 (2) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -4387,17 +4619,15 @@ richten.
     ausgestellt wurde, und
 
 
-2.  die Unterlagen, die in § 2 Absatz 6 Satz 1 Nummer 3 und 4 des Gesetzes
-    über die Ausübung der Zahnheilkunde genannt sind.
+2.  die Unterlagen, die in § 120 Absatz 2 und 3 genannt sind.
 
 
 
 
-(3) Die nach Absatz 2 Nummer 2 in Verbindung mit § 2 Absatz 6 Satz 1
-Nummer 3 und 4 des Gesetzes über die Ausübung der Zahnheilkunde
-beizufügenden Unterlagen dürfen zum Zeitpunkt ihres Eingangs bei der
-nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständigen Behörde nicht älter als drei Monate sein.
+(3) Die nach § 120 Absatz 2 und 3 beizufügenden Unterlagen dürfen zum
+Zeitpunkt ihres Eingangs bei der nach § 16 Absatz 2 Satz 1 des
+Gesetzes über die Ausübung der Zahnheilkunde zuständigen Behörde nicht
+älter als drei Monate sein.
 
 (4) Für die Bestätigung des Antragseingangs gilt § 126 Absatz 1
 entsprechend.
@@ -4410,29 +4640,97 @@ erforderlichen Unterlagen.
 (6) § 127 Absatz 3 bis 7 gilt entsprechend.
 
 
+### Unterabschnitt 2a - Erlaubnis nach § 13 Absatz 3b des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001700130)
+
+
+### Unterabschnitt 4 - Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001800130)
+
+
+#### § 128a Antrag auf Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016600130)
+
+Der Antrag auf Erteilung einer Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 3b des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten. Der
+Antrag kann schriftlich oder elektronisch gestellt werden.
+
+
+#### § 128b Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016700130)
+
+(1) Beantragt die antragstellende Person die Erteilung der Erlaubnis
+zur Ausübung der Zahnheilkunde nach § 13 Absatz 3b Nummer 1 des
+Gesetzes über die Ausübung der Zahnheilkunde, hat sie dem Antrag
+folgende Unterlagen beizufügen:
+
+1.  die Unterlagen, die in § 120 Absatz 1 bis 3 genannt sind,
+
+
+2.  einen Nachweis, dass der antragstellenden Person vor dem 1. April 2012
+    eine Erlaubnis erteilt worden ist, und
+
+
+3.  Unterlagen, die belegen, dass eine zahnärztliche Prüfung oder ein
+    Abschnitt der zahnärztlichen Prüfung nach dieser Verordnung vor der
+    erstmaligen Erteilung einer Erlaubnis nach § 13 des Gesetzes über die
+    Ausübung der Zahnheilkunde endgültig nicht bestanden wurde.
+
+
+
+§ 120 Absatz 4 ist entsprechend anzuwenden.
+
+(2) Beantragt die antragstellende Person die Erteilung der Erlaubnis
+zur Ausübung der Zahnheilkunde nach § 13 Absatz 3b Nummer 2 des
+Gesetzes über die Ausübung der Zahnheilkunde, hat sie dem Antrag
+folgende Unterlagen beizufügen:
+
+1.  die Unterlagen, die in § 120 Absatz 1 und 2 genannt sind und
+
+
+2.  Nachweise über die gesundheitliche Eignung, die der zuständigen
+    Behörde eine Beurteilung darüber erlauben, in welchem Umfang die
+    antragstellende Person über die zur Ausübung des zahnärztlichen Berufs
+    erforderliche gesundheitliche Eignung verfügt.
+
+
+
+§ 120 Absatz 4 ist entsprechend anzuwenden.
+
+(3) Die zuständige Behörde versieht die Erlaubnis mit den
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+der besonderen Härte des Falls, der Kenntnisse der deutschen Sprache
+der antragstellenden Person und ihrer gesundheitlichen Eignung eine
+Gefährdung der öffentlichen Gesundheit auszuschließen. Die §§ 126 und
+127 finden entsprechende Anwendung.
+
+
 ### Unterabschnitt 3 - Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
 [Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001500000)
 
 
 #### § 129 Antrag auf Erteilung der Erlaubnis
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013000000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013001130)
 
-Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung
-der Zahnheilkunde nach § 13 Absatz 4 des Gesetzes über die Ausübung
-der Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes
-über die Ausübung der Zahnheilkunde zuständige Behörde zu richten.
+Der Antrag auf Erteilung einer Erlaubnis zur Ausübung der
+Zahnheilkunde nach § 13 Absatz 4 des Gesetzes über die Ausübung der
+Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes über
+die Ausübung der Zahnheilkunde zuständige Behörde zu richten. Der
+Antrag kann schriftlich oder elektronisch gestellt werden.
 
 
 #### § 130 Antragsunterlagen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013100000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013101130)
 
 (1) Die antragstellende Person hat dem Antrag auf Erteilung einer
-Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
-Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde die
-folgenden Unterlagen beizufügen:
+Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 4 des
+Gesetzes über die Ausübung der Zahnheilkunde die folgenden Unterlagen
+beizufügen:
 
-1.  die Unterlagen, die in § 2 Absatz 6 Satz 1 Nummer 1, 1a, 3, 4, 5 und 7
-    des Gesetzes über die Ausübung der Zahnheilkunde genannt sind,
+1.  die Unterlagen, die in § 120 Absatz 1 Nummer 1, 2, 5 und 8, Absatz 2
+    und 3 genannt sind,
 
 
 2.  das Zeugnis über den Abschluss des Hochschulstudiums,
@@ -4450,14 +4748,14 @@ folgenden Unterlagen beizufügen:
     erforderlichen Kenntnisse der deutschen Sprache,
 
 
-6.  eine Bescheinigung des Staates, in dem das Hochschulstudium
+6.  eine Bescheinigung des Staats, in dem das Hochschulstudium
     abgeschlossen wurde, dass die antragstellende Person aufgrund der
     Prüfung, mit der sie das Hochschulstudium abgeschlossen hat, in diesem
     Staat die Berechtigung zur beschränkten Ausübung des zahnärztlichen
     Berufs erworben hat und
 
 
-7.  eine Bescheinigung des Staates, in dem das Hochschulstudium
+7.  eine Bescheinigung des Staats, in dem das Hochschulstudium
     abgeschlossen wurde, dass die mit der Erteilung der Erlaubnis zum
     Abschluss der zahnärztlichen Ausbildung absolvierte zahnärztliche
     Tätigkeit
@@ -4474,22 +4772,23 @@ folgenden Unterlagen beizufügen:
 
 
 
-(2) Die nach Absatz 1 Nummer 1 in Verbindung mit § 2 Absatz 6 Satz 1
-Nummer 3 und 4 des Gesetzes über die Ausübung der Zahnheilkunde
+(2) Die nach Absatz 1 Nummer 1 in Verbindung mit § 120 Absatz 2 und 3
 beizufügenden Unterlagen dürfen zum Zeitpunkt ihres Eingangs bei der
 nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständigen Behörde nicht älter als drei Monate sein.
+Zahnheilkunde zuständigen Behörde jeweils nicht älter als drei Monate
+sein.
 
 (3) Hat die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
-Authentizität der in dem Staat, in dem das Hochschulstudium
-abgeschlossen wurde, oder der von dem jeweiligen Herkunftsstaat
-ausgestellten Unterlagen, kann sie von der zuständigen Behörde des
-Staates, in dem das Hochschulstudium abgeschlossen wurde, oder von der
-zuständigen Behörde des Herkunftsstaats folgende Bestätigungen
-verlangen:
+Echtheit der in dem Staat, in dem das Hochschulstudium abgeschlossen
+wurde, oder der von dem jeweiligen Staat, in dem die
+Berufsqualifikation erworben worden ist, ausgestellten Unterlagen,
+kann sie von der zuständigen Behörde des Staats, in dem das
+Hochschulstudium abgeschlossen wurde, oder von der zuständigen Behörde
+des Staats, in dem die Berufsqualifikation erworben worden ist,
+folgende Bestätigungen verlangen:
 
-1.  eine Bestätigung der Authentizität sowie
+1.  eine Bestätigung der Echtheit sowie
 
 
 2.  eine Bestätigung darüber, dass die antragstellende Person die
@@ -4503,7 +4802,7 @@ verlangen:
 der Zahnheilkunde zuständige Behörde berechtigte Zweifel an der
 Berechtigung der antragstellenden Person zur beschränkten Ausübung des
 zahnärztlichen Berufs, kann sie von der zuständigen Behörde eines
-anderen Staates, der darüber Erkenntnisse haben könnte, eine
+anderen Staats, der darüber Erkenntnisse haben könnte, eine
 Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden
 Person die beschränkte Ausübung des zahnärztlichen Berufs nicht
 aufgrund eines schwerwiegenden standeswidrigen Verhaltens oder
@@ -4512,57 +4811,56 @@ vorübergehend untersagt worden ist.
 
 
 #### § 131 Bestätigung des Antragseingangs
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013200000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013201130)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
 binnen eines Monats nach Eingang des Antrags auf Erteilung einer
-Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
-Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde den
-Antragseingang und den Empfang der Unterlagen und teilt ihr
-gegebenenfalls mit, welche Unterlagen fehlen.
+Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 4 des
+Gesetzes über die Ausübung der Zahnheilkunde den Antragseingang und
+den Empfang der Unterlagen und teilt ihr gegebenenfalls mit, welche
+Unterlagen fehlen.
 
 
 #### § 132 Entscheidung über den Antrag
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013300000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013301130)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
-Erteilung einer Erlaubnis zur vorübergehenden Ausübung der
-Zahnheilkunde nach § 13 Absatz 4 des Gesetzes über die Ausübung der
-Zahnheilkunde kurzfristig, spätestens drei Monate nach Eingang der
-nach § 130 Absatz 1 von der antragstellenden Person vorzulegenden
-Unterlagen. Der Ablauf der Frist nach Satz 1 ist solange gehemmt, bis
-der zuständigen Behörde eine Bestätigung nach § 130 Absatz 3 oder
-Absatz 4 durch die zuständige Behörde des Staates, in dem das
-Hochschulstudium abgeschlossen wurde, oder die zuständige Behörde des
-Herkunftsstaats der antragstellenden Person vorliegt, sofern eine
-solche Bestätigung verlangt wurde.
+Erteilung einer Erlaubnis zur Ausübung der Zahnheilkunde nach § 13
+Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde kurzfristig,
+spätestens drei Monate nach Eingang der nach § 130 Absatz 1 von der
+antragstellenden Person vorzulegenden Unterlagen. Der Ablauf der Frist
+nach Satz 1 ist solange gehemmt, bis der zuständigen Behörde eine
+Bestätigung nach § 130 Absatz 3 oder Absatz 4 durch die zuständige
+Behörde des Staates, in dem das Hochschulstudium abgeschlossen wurde,
+oder durch die zuständige Behörde des Staats, in dem die
+Berufsqualifikation erworben worden ist, vorliegt, sofern eine solche
+Bestätigung verlangt wurde.
 
 (2) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde hat bei der Entscheidung über die
-Erteilung der Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
-nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
-den Ausbildungsstand der antragstellenden Person zu berücksichtigen.
-Sie prüft auf der Grundlage dieses Ausbildungsstandes die fachliche
+Erteilung der Erlaubnis zur Ausübung der Zahnheilkunde nach § 13
+Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde den
+Ausbildungsstand der antragstellenden Person zu berücksichtigen. Sie
+prüft auf der Grundlage dieses Ausbildungsstandes die fachliche
 Eignung der antragstellenden Person für die beabsichtigte Ausübung der
 Zahnheilkunde.
 
 (3) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
-Zahnheilkunde zuständige Behörde versieht die Erlaubnis zur
-vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 4 des
-Gesetzes über die Ausübung der Zahnheilkunde mit den Einschränkungen
-und Nebenbestimmungen, die erforderlich sind, um eine Gefährdung der
-öffentlichen Gesundheit auszuschließen. Dabei berücksichtigt sie den
-Ausbildungsstand der antragstellenden Person, ihre Kenntnisse der
-deutschen Sprache und ihre gesundheitliche Eignung.
+Zahnheilkunde zuständige Behörde versieht die Erlaubnis zur Ausübung
+der Zahnheilkunde nach § 13 Absatz 4 des Gesetzes über die Ausübung
+der Zahnheilkunde mit den Nebenbestimmungen, die erforderlich sind, um
+eine Gefährdung der öffentlichen Gesundheit auszuschließen. Dabei
+berücksichtigt sie den Ausbildungsstand der antragstellenden Person,
+ihre Kenntnisse der deutschen Sprache und ihre gesundheitliche
+Eignung.
 
-(4) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde ist zu
-versagen, wenn
+(4) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 4
+des Gesetzes über die Ausübung der Zahnheilkunde ist zu versagen, wenn
 
-1.  eine Gefährdung der öffentlichen Gesundheit durch Einschränkungen und
-    Nebenbestimmungen nicht ausgeschlossen werden kann,
+1.  eine Gefährdung der öffentlichen Gesundheit durch Nebenbestimmungen
+    nicht ausgeschlossen werden kann,
 
 
 2.  die antragstellende Person sich eines Verhaltens schuldig gemacht hat,
@@ -4572,9 +4870,141 @@ versagen, wenn
 
 
 
-(5) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach
-§ 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde wird
-nach dem Muster der Anlage 25 ausgestellt.
+(5) Die Erlaubnis zur Ausübung der Zahnheilkunde nach § 13 Absatz 4
+des Gesetzes über die Ausübung der Zahnheilkunde wird nach dem Muster
+der Anlage 25 ausgestellt.
+
+
+#### § 132a Antrag auf Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016800130)
+
+Der Antrag auf Erteilung einer Erlaubnis zur partiellen Berufsausübung
+nach § 13a des Gesetzes über die Ausübung der Zahnheilkunde ist an die
+nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Zahnheilkunde zuständige Behörde zu richten. Der Antrag kann
+schriftlich oder elektronisch gestellt werden.
+
+
+#### § 132b Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016900130)
+
+(1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach §
+13a des Gesetzes über die Ausübung der Zahnheilkunde beantragen, haben
+dem Antrag folgende Unterlagen beizufügen:
+
+1.  einen Identitätsnachweis,
+
+
+2.  einen Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+
+3.  eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt,
+    dass die Berufsqualifikation erforderlich ist für die Ausübung einer
+    beruflichen Tätigkeit in einem anderen Mitgliedstaat, in einem anderen
+    Vertragsstaat oder in einem gleichgestellten Staat, die den
+    zahnärztlichen Tätigkeiten nur partiell entspricht, sowie die
+    Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation
+    belegen,
+
+
+4.  sofern vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die
+    durch lebenslanges Lernen erworben worden sind, und
+
+
+5.  Nachweise, die der zuständigen Behörde eine Beurteilung darüber
+    erlauben, in welchem Umfang die antragstellende Person über die zur
+    partiellen Berufsausübung erforderlichen Kenntnisse der deutschen
+    Sprache verfügt.
+
+
+
+
+(2) Dem Antrag ist ferner ein Nachweis über das Vorliegen der
+Voraussetzung nach § 2 Absatz 1 Satz 1 Nummer 2 des Gesetzes über die
+Ausübung der Zahnheilkunde beizufügen durch:
+
+1.  ein Führungszeugnis und
+
+
+2.  Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
+    ausgestellt wurden.
+
+
+
+Wenn im Herkunftsstaat der antragstellenden Person keine Unterlagen im
+Sinne von Satz 1 Nummer 2 ausgestellt werden, ist dem Antrag eine
+eidesstattliche Erklärung der antragstellenden Person darüber
+beizufügen, dass sie sich nicht eines Verhaltens schuldig gemacht hat,
+aus dem sich ihre Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des
+zahnärztlichen Berufs ergibt. Die eidesstattliche Erklärung kann im
+Geltungsbereich dieser Verordnung oder im Herkunftsstaat von der
+antragstellenden Person abgegeben werden. Wenn der Herkunftsstaat
+keine eidesstattlichen Erklärungen ausstellt, ist dem Antrag statt
+einer eidesstattlichen Erklärung eine feierliche Erklärung desselben
+Inhalts beizufügen, die die antragstellende Person im Herkunftsstaat
+vor einer zuständigen Justiz- oder Verwaltungsbehörde oder
+gegebenenfalls vor einem Notar oder einer entsprechend
+bevollmächtigten Berufsorganisation abgegeben hat, die eine diese
+feierliche Erklärung bestätigende Bescheinigung ausstellt.
+
+(3) Weiterhin beizufügen ist dem Antrag eine im Geltungsbereich dieser
+Verordnung ausgestellte ärztliche Bescheinigung, aus der hervorgeht,
+dass die antragstellende Person nicht in gesundheitlicher Hinsicht zur
+partiellen Berufsausübung ungeeignet ist. Wenn sich der Wohnsitz der
+antragstellenden Person nicht im Geltungsbereich dieser Verordnung
+befindet, kann statt einer ärztlichen Bescheinigung nach Satz 1 der
+Nachweis beigefügt werden, der im Herkunftsstaat bei Aufnahme des
+zahnärztlichen Berufs als Nachweis über die körperliche und geistige
+Gesundheit der antragstellenden Person gefordert wird. Wenn der
+Herkunftsstaat keinen derartigen Nachweis fordert, kann eine von einer
+zuständigen Behörde des Herkunftsstaats ausgestellte andere
+Bescheinigung über die körperliche und geistige Gesundheit der
+antragstellenden Person beigefügt werden.
+
+(4) Die in den Absätzen 2 und 3 genannten Unterlagen dürfen zum
+Zeitpunkt ihres Eingangs bei der nach § 16 Absatz 2 Satz 1 des
+Gesetzes über die Ausübung der Zahnheilkunde zuständigen Behörde
+jeweils nicht älter als drei Monate sein.
+
+(5) Die zuständige Behörde kann von der antragstellenden Person die
+Vorlage weiterer Unterlagen innerhalb einer angemessenen Frist
+fordern, soweit dies zur Bewertung der Voraussetzungen nach § 13a des
+Gesetzes über die Ausübung der Zahnheilkunde erforderlich ist.
+
+
+#### § 132c Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE017000130)
+
+Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
+Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
+binnen eines Monats nach Eingang des Antrags auf Erteilung einer
+Erlaubnis zur partiellen Berufsausübung nach § 13a des Gesetzes über
+die Ausübung der Zahnheilkunde den Antragseingang und den Empfang der
+Unterlagen und teilt ihr gegebenenfalls mit, welche Unterlagen fehlen.
+
+
+#### § 132d Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE017100130)
+
+(1) Die zuständige Behörde entscheidet kurzfristig über den Antrag,
+spätestens jedoch drei Monate nach Vorlage der vollständigen
+Unterlagen durch die antragstellende Person.
+
+(2) Die zuständige Behörde erteilt die Erlaubnis zur partiellen
+Berufsausübung beschränkt auf die Tätigkeiten und
+Beschäftigungsstellen, in denen die antragstellende Person eine
+abgeschlossene Qualifikation im zahnärztlichen Bereich nachgewiesen
+hat. Sie versieht die Erlaubnis zur partiellen Berufsausübung mit den
+Nebenbestimmungen, die erforderlich sind, um eine Gefährdung der
+Patienten oder der öffentlichen Gesundheit auszuschließen. Dabei
+berücksichtigt sie die Kenntnisse der deutschen Sprache der
+antragstellenden Person und deren gesundheitliche Eignung.
+
+(3) Die Erlaubnis zur partiellen Berufsausübung nach § 13a des
+Gesetzes über die Ausübung der Zahnheilkunde wird nach dem Muster der
+Anlage 26 ausgestellt.
 
 
 ## Abschnitt 6 - Übergangsregelungen
@@ -4582,7 +5012,7 @@ nach dem Muster der Anlage 25 ausgestellt.
 
 
 ### § 133 Anwendung bisherigen Rechts
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013402116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013403130)
 
 (1) Die Approbationsordnung für Zahnärzte in der am 30. September 2020
 geltenden Fassung ist vorbehaltlich des § 134 auf Studierende weiter
@@ -4602,9 +5032,15 @@ Zahnärzte in der am 30. September 2020 geltenden Fassung genannten
 Polikliniken und Kliniken können durch digitale Lehrformate begleitet
 werden.
 
+(4) Die Approbationsordnung für Zahnärzte und Zahnärztinnen in der am
+31\. Oktober 2026 geltenden Fassung findet weiter Anwendung auf
+Personen, die bis zum Ablauf des 31. Oktober 2026 einen Antrag auf
+Erteilung der Approbation als Zahnarzt oder einer Erlaubnis gestellt
+haben.
+
 
 ### § 134 Abweichende Regelungen
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013502116)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013503130)
 
 (1) Studierende nach § 133, die bis zum 10. Februar 2025 nicht für die
 zahnärztliche Vorprüfung zugelassen sind und die
@@ -4664,15 +5100,15 @@ ab dem 10. Juli 2024 durchgeführt.
 Nummer 2 noch nicht möglich, weil nicht mehr als 15 Prozent der
 Studierenden, die an demselben schriftlichen Teil des Dritten
 Abschnitts der Zahnärztlichen Prüfung teilgenommen haben, an diesem
-schriftlichen Teil erstmals nach der Mindeststudienzeit frühestens im
-zehnten Fachsemester teilgenommen haben, so ist der schriftliche Teil
-des Dritten Abschnitts der Zahnärztlichen Prüfung bestanden, wenn der
-oder die Studierende mindestens 60 Prozent der gestellten
-Prüfungsfragen richtig beantwortet hat oder wenn die Zahl der von dem
-oder der Studierenden richtig beantworteten Prüfungsfragen um nicht
-mehr als 15 Prozent die durchschnittlichen Prüfungsleistungen aller
-Studierenden unterschreitet, die an demselben schriftlichen Teil des
-Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
+schriftlichen Teil erstmals nach der Mindeststudienzeit im elften
+Fachsemester teilgenommen haben, so ist der schriftliche Teil des
+Dritten Abschnitts der Zahnärztlichen Prüfung bestanden, wenn der oder
+die Studierende mindestens 60 Prozent der gestellten Prüfungsfragen
+richtig beantwortet hat oder wenn die Zahl der von dem oder der
+Studierenden richtig beantworteten Prüfungsfragen um nicht mehr als 15
+Prozent die durchschnittlichen Prüfungsleistungen aller Studierenden
+unterschreitet, die an demselben schriftlichen Teil des Dritten
+Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
 
 
 ### § 135 Übergangsbestimmungen
@@ -6403,7 +6839,7 @@ Satz 4 und 5)
    (zu § 11 Absatz 3 Satz 2, § 81 Nummer 1)
 
 ### Anlage 18 Zeugnis über die Zahnärztliche Prüfung
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015301130)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015302130)
 
 (Fundstelle: BGBl. 2024 I Nr. 360, S. 12)
 
@@ -6438,7 +6874,7 @@ Satz 4 und 5)
         ...
         mit der Note „........................................................
         ..............
-[^F831844_04_BJNR093310019BJNE015301130]
+[^F831844_04_BJNR093310019BJNE015302130]
         “ und
 
 
@@ -6522,7 +6958,7 @@ Satz 4 und 5)
         “ bestanden.
 
 
-*    *   Er/Sie hat bis zum Ersten Abschnitt der Zahnärztlichen Prüfung das
+*    *   Er/Sie hat bis zum Dritten Abschnitt der Zahnärztlichen Prüfung das
         Wahlfach ..................................................
 
 
@@ -6580,7 +7016,7 @@ Satz 4 und 5)
 
     Der Satzteil zum schriftlichen Teil entfällt bei Studierenden nach §
     59 Absatz 2.
-[^F831844_04_BJNR093310019BJNE015301130]: 
+[^F831844_04_BJNR093310019BJNE015302130]: 
 (zu § 81 Nummer 2)
 
 ### Anlage 19 Bescheinigung über die erforderliche Fachkunde im Strahlenschutz
@@ -6718,17 +7154,21 @@ Satz 4 und 5)
 
    (zu § 97 Absatz 2 Satz 1)
 
-### Anlage 21 Niederschrift über die Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015600000)
+### Anlage 21 Niederschrift über die Eignungsprüfung nach § 12a Absatz 7 Satz 2 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015601130)
 
-(Fundstelle: BGBl. I 2019, 986 - 987)
-
-
-*    *   Herr/Frau ............................................
+(Fundstelle: BGBl. 2026 I Nr. 326, S. 47 – 48)
 
 
-*    *   geboren am .................................
-        in ..................................
+*    *   Herr/Frau ............................................................
+        ......................................................................
+        ............................................
+
+
+*    *   geboren am  ..........................................................
+        ......................................................................
+        ..........................................  in  ......................
+        ........................................................
 
 
 *    *   ist in der Eignungsprüfung wie folgt geprüft worden:
@@ -6738,13 +7178,14 @@ Satz 4 und 5)
 
 *    *   1.
 
-    *[^F807688_A21_05_BJNR093310019BJNE015600000]
+    *[^F837909_A21_01_BJNR093310019BJNE015601130]
    Schriftlicher Abschnitt der Eignungsprüfung
 
 
 *    *
-    *   Beginn und Ende der
-        Prüfung: ..................................................
+    *   Beginn und Ende der Prüfung:  ........................................
+        ......................................................................
+        ................................................................
 
 
 *    *
@@ -6753,12 +7194,15 @@ Satz 4 und 5)
 
 *    *
     *   Er/Sie hat den schriftlichen Abschnitt der Eignungsprüfung
-        bestanden/nicht bestanden\*.
+        bestanden/nicht bestanden
+        .
 
 
 *    *
-    *   Tragende Gründe für das
-        Bestehen/Nichtbestehen\*: ......................................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen
+        :  ...................................................................
+        ......................................................................
+        .....................................
 
 
 *    *   2.
@@ -6767,72 +7211,98 @@ Satz 4 und 5)
 
 
 *    *
-    *   am ......................................
-        in ......................................
+    *   am  ..................................................................
+        ......................................................................
+        ...................................... in  ...........................
+        ......................................................................
+        ...................................................................
 
 
 *    *
-    *   Beginn und Ende der Einzel-/Gruppenprüfung\*:
+    *   Beginn und Ende der Einzel-/Gruppenprüfung
+        :  ...................................................................
+        ......................................................................
         .....................................
 
 
 *    *
-    *   Gegenstand des
-        Prüfungsgesprächs: ...........................................
+    *   Gegenstand des Prüfungsgesprächs:  ...................................
+        ......................................................................
+        .....................................................................
 
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
 
 *    *
     *   ......................................................................
-        ........
-        (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
+        ......................................................................
+        ..................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *
+    *   (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
 
 
 *    *
     *   Er/Sie hat den mündlichen Abschnitt der Eignungsprüfung
-        bestanden/nicht bestanden\*.
+        bestanden/nicht bestanden
+        .
 
 
 *    *
-    *   Tragende Gründe für das Bestehen/Nichtbestehen\*:
-        .........................................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen\*:  ...................
+        ......................................................................
+        ......................................................................
+        ...............
 
 
 *    *   3.
 
-    *   Praktischer Abschnitt der Eignungsprüfung\*
+    *   Praktischer Abschnitt der Eignungsprüfung
 
 
 *    *
-    *   am .......................................
-        in ..........................................
+    *   am  ..................................................................
+        ......................................................................
+        ...................................... in  ...........................
+        ......................................................................
+        ...................................................................
 
 
 *    *
-    *   Beginn und Ende der Prüfung: ....................................
+    *   Beginn und Ende der Prüfung:  ........................................
+        ......................................................................
+        ................................................................
 
 
 *    *
-    *   Praktische Prüfungsleistungen anhand standardisierter
-        Ausbildungssituationen: ........
+    *   Praktische Prüfungsleistungen anhand standardisierter Ausbildungssitua
+        tionen:  .............................................................
+        ......................................................................
+        ...........................................
 
 
 *    *
     *   Er/Sie hat den praktischen Abschnitt der Eignungsprüfung
-        bestanden/nicht bestanden\*.
+        bestanden/nicht bestanden
+        .
 
 
 *    *
-    *   Tragende Gründe für das
-        Bestehen/Nichtbestehen\*: .........................................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen
+        :  ...................................................................
+        ......................................................................
+        .....................................
 
 
 
@@ -6841,65 +7311,110 @@ Satz 4 und 5)
         Approbationsordnung für Zahnärzte und Zahnärztinnen:
 
 
-*    *   Als vorsitzende Person .........................
+*    *   Als vorsitzende Person  ..............................................
+        ......................................................................
+        .....................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   Als weitere Mitglieder  ..............................................
+        ......................................................................
+        .......................
+
+
+*    *   ......................................................................
+        ......................................................................
+        .................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   Sonstige Bemerkungen:  ...............................................
+        ......................................................................
+        ....................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
+
+
+
+*    *   Ort, Datum  ..........................................................
+        ......................................................................
+        .....................  ,
+
+    *   ......................................................................
+        ......................................................................
+        ..................................
 
 
 *    *
 
-*    *   Als weitere Mitglieder .........................
-
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *   Sonstige Bemerkungen: .........................
-
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-
-
-*    *   Ort, Datum........................
-        , ........................
+*    *   ......................................................................
+        ......................................................................
+        ..................................
 
     *
 
-*    *
+*    *   ......................................................................
+        ......................................................................
+        ..................................
 
-*    *
     *
 
-*    *
+*    *   ......................................................................
+        ......................................................................
+        ..................................
+
     *
 
-*    *
-    *
+*    *   ......................................................................
+        ......................................................................
+        ..................................
 
-*    *
-    *
+    *   ......................................................................
+        ......................................................................
+        ..................................
 
-*    *   ........................................
-        ........................................
-        ........................................
-        ........................................
-        (Unterschriften
+
+*    *   (Unterschriften oder qualifizierte elektronische Signaturen
         der weiteren Mitglieder der Prüfungskommission)
 
-    *   ........................................
-        (Unterschrift
+    *   (Unterschrift oder qualifizierte elektronische Signatur
         der der Prüfungskommission vorsitzenden Person)
 
 
@@ -6907,20 +7422,23 @@ Satz 4 und 5)
 _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
     Nicht Zutreffendes streichen.
-[^F807688_A21_05_BJNR093310019BJNE015600000]: 
+[^F837909_A21_01_BJNR093310019BJNE015601130]: 
 (zu § 112 Absatz 2 Satz 1)
 
-### Anlage 22 Niederschrift über die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015700000)
+### Anlage 22 Niederschrift über die Kenntnisprüfung nach § 12b Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015701130)
 
-(Fundstelle: BGBl. I 2019, 988 - 989)
-
-
-*    *   Herr/Frau ................................
+(Fundstelle: BGBl. 2026 I Nr. 326, S. 49 – 50)
 
 
-*    *   geboren am ..........................
-        in ..............................
+*    *   Herr/Frau ............................................................
+        .............................................................
+
+
+*    *   geboren am ...........................................................
+        .............................................................. in  ...
+        ......................................................................
+        ................................................
 
 
 *    *   ist in der Kenntnisprüfung wie folgt geprüft worden:
@@ -6934,12 +7452,16 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
 
 *    *
-    *   am ................................
-        in ................................
+    *   am ...................................................................
+        ...................................................... in  ...........
+        ......................................................................
+        ........................................
 
 
 *    *
-    *   Beginn und Ende der Prüfung: .............................
+    *   Beginn und Ende der Prüfung ..........................................
+        ......................................................................
+        .........
 
 
 *    *
@@ -6947,15 +7469,16 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
 
 *    *
-    *[^F807688_A22_06_BJNR093310019BJNE015700000]
+    *[^F837909_A22_01_BJNR093310019BJNE015701130]
    Er/Sie hat den ersten Abschnitt der Kenntnisprüfung bestanden/nicht
         bestanden
         .
 
 
 *    *
-    *   Tragende Gründe für das
-        Bestehen/Nichtbestehen\*: .........................................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen
+        :  ...................................................................
+        ......................................................
 
 
 *    *   2.
@@ -6964,8 +7487,9 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
 
 *    *
-    *   Beginn und Ende der
-        Einzel-/Gruppenprüfung\*: ..............................
+    *   Beginn und Ende der Einzel-/Gruppenprüfung
+        :  ...................................................................
+        ......................................................
 
 
 *    *
@@ -6973,28 +7497,34 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
 
 *    *
-    *
+    *   ......................................................................
+        ...................................................
 
-*    *
-    *
-
-*    *
-    *
 
 *    *
     *   ......................................................................
-        .....
-        (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
+        ...................................................
+
+
+*    *
+    *   ......................................................................
+        ..................................................
+
+
+*    *
+    *   (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
 
 
 *    *
     *   Er/Sie hat den mündlichen Abschnitt der Kenntnisprüfung
-        bestanden/nicht bestanden\*.
+        bestanden/nicht bestanden
+        .
 
 
 *    *
-    *   Tragende Gründe für das Bestehen/Nichtbestehen\*: ....................
-        ..........................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen
+        : ....................................................................
+        ....................................................
 
 
 *    *   3.
@@ -7003,27 +7533,35 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
 
 *    *
-    *   am ...........................................
-        in ........................................
+    *   am....................................................................
+        .................................................... in...............
+        ......................................................................
+        ...................................
 
 
 *    *
-    *   Beginn und Ende der Prüfung: ........................................
+    *   Beginn und Ende der Prüfung ..........................................
+        ......................................................................
+        ........
 
 
 *    *
     *   Praktische Prüfungsleistungen anhand standardisierter
-        Ausbildungssituationen: ......
+        Ausbildungssituationen: ..............................................
+        ......................................................................
+        ....
 
 
 *    *
     *   Er/Sie hat den praktischen Abschnitt der Kenntnisprüfung
-        bestanden/nicht bestanden\*.
+        bestanden/nicht bestanden
+        .
 
 
 *    *
-    *   Tragende Gründe für das
-        Bestehen/Nichtbestehen\*: .........................................
+    *   Tragende Gründe für das Bestehen/Nichtbestehen
+        : ....................................................................
+        ....................................................
 
 
 
@@ -7032,41 +7570,65 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
         Approbationsordnung für Zahnärzte und Zahnärztinnen:
 
 
-*    *   Als vorsitzende Person ...................................
+*    *   Als vorsitzende Person ...............................................
+        ......................................................................
+        ...
+
+
+*    *   ......................................................................
+        ..................................................
+
+
+*    *   Als weitere Mitglieder ...............................................
+        ........................................
+
+
+*    *   ......................................................................
+        ..................................................
+
+
+*    *   ......................................................................
+        ..................................................
+
+
+*    *   ......................................................................
+        ..................................................
+
+
+*    *   ......................................................................
+        ..................................................
 
 
 *    *
 
-*    *   Als weitere Mitglieder ...............................
+*    *   Sonstige Bemerkungen: ................................................
+        ....................................
 
 
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *
-
-*    *   Sonstige Bemerkungen: ..............................
+*    *   ......................................................................
+        ..................................................
 
 
-*    *
+*    *   ......................................................................
+        ..................................................
 
-*    *
 
-*    *
+*    *   ......................................................................
+        ..................................................
 
-*    *
+
+*    *   ......................................................................
+        ..................................................
 
 
 
-*    *   Ort, Datum ........................
-        , ........................
 
-    *
+*    *   Ort, Datum ...........................................................
+        ............................................................. ,
+
+    *   ......................................................................
+        ..................................................
+
 
 *    *
 
@@ -7090,190 +7652,151 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 _\_\__\_\__\_\__\_\__\_\_
 
     Nicht Zutreffendes streichen.
-[^F807688_A22_06_BJNR093310019BJNE015700000]: 
-(zu § 122 Absatz 7)
+[^F837909_A22_01_BJNR093310019BJNE015701130]: 
+(zu § 122 Absatz 7 und § 127 Absatz 7)
 
-### Anlage 23 Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015800000)
+### Anlage 23 Erlaubnis nach § 13 Absatz 1, 1a und 3b des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015801130)
 
-(Fundstelle: BGBl. I 2019, 990)
+(Fundstelle: BGBl. 2026 I Nr. 326, S. 51)
 
 
 *    *   Herrn/Frau ...........................................................
-        .............
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ....
 
 
 *    *   (Vorname, Name – gegebenenfalls abweichender Geburtsname)
 
 
-*    *   geboren am ...............................
-        in ............................
+*    *   geboren am  ..........................................................
+        ......................................................................
+        ......................... in  ........................................
+        ......................................................................
+        ...
 
 
-*    *   wird gemäß § 13 Absatz 1 des Gesetzes über die Ausübung der
-        Zahnheilkunde die Erlaubnis zur vorübergehenden Ausübung der
-        Zahnheilkunde
+*    *[^F837909_A23_01_BJNR093310019BJNE015801130]
+   wird gemäß § 13 Absatz 1/1a/3a
+        des Gesetzes über die Ausübung der Zahnheilkunde die Erlaubnis zur
+        Ausübung der Zahnheilkunde
 
 
-*    *   in/an ................................................................
-        .....
+*    *   in/an  ...............................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
 
 
-*    *   für die Zeit vom ............................
-        bis ....................................
-        widerruflich erteilt.
+*    *   für die Zeit vom  ....................................................
+        ......................................................................
+        ......................... bis  .......................................
+        ...............................................................
+         widerruflich/unbefristet
+        erteilt.
 
 
-*    *   Beschränkungen und Nebenbestimmungen: ................................
-        .....................
+*    *   Nebenbestimmungen:
 
 
-*    *   ................................................
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ...............................................................
 
 
-*    *   Die Erlaubnis umfasst zudem die Tätigkeit im
-        Land ...........................
+*    *   Die Erlaubnis umfasst zudem die Tätigkeit im Land ....................
+        ......................................................................
+        ......................................................................
+        .....................................
 
 
-*    *   /in den Ländern ................................
-[^F807688_A23_07_BJNR093310019BJNE015800000]
-        /die bundesweite Tätigkeit
+*    *   /in den Ländern  .....................................................
+        ......................................................................
+        ......................................................................
+        ........................................................
 
 
-*    *   als .....................................
+*    *   /die bundesweite Tätigkeit
+        als  .................................................................
+        ......................................................................
+        ......................................................................
+        .............................................................
 
 
 
 
-*    *   Ort, Datum ........................
-        , ........................
+*    *   Ort, Datum  ..........................................................
+        ......................................................................
+        .................................................. ,  ................
+        ......................................................................
+        .............................................
 
-    *
+
+*    *
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        .............................................
+
 
 *    *   Siegel
 
-    *
-
-*    *
-    *
-
-*    *   .......................................................
-        (Unterschrift der zuständigen Behörde)
-
-    *
+    *   (Unterschrift oder qualifizierte elektronische Signatur der
+        zuständigen Behörde)
 
 
-   _\_\__\_\__\_\__\_\__\_\_
+
+_\_\__\_\__\_\__\_\__\_\_
 
     Nicht Zutreffendes streichen.
-[^F807688_A23_07_BJNR093310019BJNE015800000]: 
-(zu § 127 Absatz 7)
+[^F837909_A23_01_BJNR093310019BJNE015801130]: 
 
-### Anlage 24 Erlaubnis nach § 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015900000)
-
-(Fundstelle: BGBl. I 2019, 991)
+### Anlage 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015901130)
 
 
-*    *   Herrn/Frau ...........................................................
-        ...............
-
-
-*    *   (Vorname, Name – gegebenenfalls abweichender Geburtsname)
-
-
-*    *   geboren am ...................................
-        in ..........................................
-
-
-*    *   wird gemäß § 13 Absatz 1a des Gesetzes über die Ausübung der
-        Zahnheilkunde die Erlaubnis zur vorübergehenden Ausübung der
-        Zahnheilkunde
-
-
-*    *   in/an ................................................................
-
-
-*    *   für die Zeit vom ........................
-        bis ............................
-        widerruflich erteilt.
-
-
-*    *   Beschränkungen und
-        Nebenbestimmungen: ..............................................
-
-
-*    *   ........................................................
-
-
-*    *   Die Erlaubnis umfasst zudem die Tätigkeit im
-        Land .....................................
-
-
-*    *   /in den Ländern .............................................
-[^F807688_A24_08_BJNR093310019BJNE015900000]
-        /die bundesweite Tätigkeit
-
-
-*    *   als ...........................................
-
-
-
-
-*    *   Ort, Datum ........................
-        , ........................
-
-    *
-
-*    *   Siegel
-
-    *
-
-*    *
-    *
-
-*    *   .......................................................
-        (Unterschrift der zuständigen Behörde)
-
-    *
-
-
-   _\_\__\_\__\_\__\_\__\_\_\_\_
-
-    Nicht Zutreffendes streichen.
-[^F807688_A24_08_BJNR093310019BJNE015900000]: 
 (zu § 132 Absatz 5)
 
 ### Anlage 25 Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
-[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016000000)
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016001130)
 
-(Fundstelle: BGBl. I 2019, 992)
+(Fundstelle: BGBl. 2026 I Nr. 326, S. 52)
 
 
 *    *   Herrn/Frau ...........................................................
-        .......
+        ......................................................................
+        ......................................................................
+        ...................................................
 
 
 *    *   (Vorname, Name – gegebenenfalls abweichender Geburtsname)
 
 
-*    *   geboren am .................................
-        in ..................................
+*    *   geboren am  ..........................................................
+        ......................................................................
+        ..................... in  ............................................
+        .................................................
 
 
 *    *   wird gemäß § 13 Absatz 4 des Gesetzes über die Ausübung der
-        Zahnheilkunde die Erlaubnis zur vorübergehenden Ausübung der
-        Zahnheilkunde für die Tätigkeit, die zum Abschluss der zahnärztlichen
-        Ausbildung
+        Zahnheilkunde die Erlaubnis zur Ausübung der Zahnheilkunde für die
+        Tätigkeit, die zum Abschluss der zahnärztlichen Ausbildung
 
 
-*    *   in ...................................................................
+*    *   in  ..................................................................
+        ......................................................................
+        .......................................................... 
         erforderlich ist,
 
 
-*    *   für die Zeit vom ................................
-        bis ................................
-        widerruflich erteilt.
+*    *   für die Zeit vom  ....................................................
+        ......................................................................
+        ..................  bis  .............................................
+        ...............................................  widerruflich erteilt.
 
 
 *    *   Die Erlaubnis ist beschränkt auf eine nicht selbständige und nicht
@@ -7282,27 +7805,112 @@ _\_\__\_\__\_\__\_\__\_\_
         unbeschränkte Berufserlaubnis besitzen.
 
 
-*    *   Die Tätigkeit darf nur in/an .......................
-        verrichtet werden.
+*    *   Die Tätigkeit darf nur in/an  ........................................
+        ......................................................................
+        ......................................................................
+        ..........................  verrichtet werden.
 
 
 
 
-*    *   Ort, Datum ........................
-        , ........................
+*    *   Ort, Datum  ..........................................................
+        ......................................................................
+        ............................. ,  .....................................
+        ......................................................................
+        ...................................
 
-    *
+
+*    *
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ........................................................
+
 
 *    *   Siegel
 
-    *
+    *   (Unterschrift oder qualifizierte elektronische Signatur der
+        zuständigen Behörde)
+
+
+
+(zu § 132d Absatz 3)
+
+### Anlage 26 Erlaubnis zur partiellen Berufsausübung nach § 13a des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE017200130)
+
+(Fundstelle: BGBl. 2026 I Nr. 326, S. 53)
+
+
+*    *   Herrn/Frau ...........................................................
+        ......................................................................
+        ......................................................................
+        .....................................................................
+
+
+*    *   (Vorname, Name – gegebenenfalls abweichender Geburtsname)
+
+
+*    *   geboren am  ..........................................................
+        ......................................................................
+        ........... in   .....................................................
+        ...................................................................
+
+
+*    *   wird gemäß § 13a des Gesetzes über die Ausübung der Zahnheilkunde die
+        Erlaubnis zur partiellen Berufsausübung erteilt.
+
+
+*    *   Die zulässige partielle Berufsausübung beschränkt sich auf folgende
+        Tätigkeit(en) und Beschäftigungsstelle(n):
+
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ..
+
+
+*    *   Die partielle Berufsausübung erfolgt unter der Berufsbezeichnung des
+        Staats, in dem die Berufsqualifikation erworben worden ist, sowie mit
+        dem Hinweis auf den Namen dieses Staats und die oben genannte(n)
+        Tätigkeit(en) und Beschäftigungsstelle(n), wie folgt:
+
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        .
+
+
+*    *   Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern
+        eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f
+        Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
+
+
+
+
+*    *   Ort, Datum   .........................................................
+        ......................................................................
+        ............ , .......................................................
+        ......................................................................
+        ..............
+
 
 *    *
-    *
 
-*    *   .....................................................
-        (Unterschrift der zuständigen Behörde)
+*    *
+    *   ......................................................................
+        .....................................................................
 
-    *
+
+*    *   Siegel
+
+    *   (Unterschrift oder qualifizierte elektronische Signatur der
+        zuständigen Behörde)
+
 
 
