@@ -21513,8 +21513,6 @@ Nutzungsentgelt, das neben der Kostenerstattung auch einen
 Vorteilsausgleich umfaßt, und sonstige Abgaben der Ärzte werden durch
 die Absätze 1 bis 4 nicht berührt.
 
-(6) (weggefallen)
-
 
 #### § 121 Belegärztliche Leistungen
 [Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020405126)
