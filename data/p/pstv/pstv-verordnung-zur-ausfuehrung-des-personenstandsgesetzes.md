@@ -18,7 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2026 I Nr. 221
 
-Stand: Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
+Stand: Bek. v. 29.10.2026 I Nr. 325 ist berücksichtigt
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE000100000)
@@ -1196,17 +1196,20 @@ Standesamt abgegeben.
 
 
 ### § 47 Berichtigungen
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE004902360)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE004903360)
 
 (1) Das Standesamt, das selbst oder auf Anordnung des Gerichts einen
 abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in
-anderen Personenstandsregistern eine Berichtigung vorgenommen werden
-muss. Es teilt dem in Betracht kommenden Standesamt die Berichtigung
-mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates
-(§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn
-zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den
-Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung
-des betreffenden Ausländers bestätigt hat.
+anderen Personenstandsregistern oder in den beim Bundeszentralamt für
+Steuern zu einer Person gespeicherten Daten nach § 4 Absatz 2 und 3
+des Identifikationsnummerngesetzes eine Berichtigung vorgenommen
+werden muss. Es teilt dem in Betracht kommenden Standesamt und der
+Meldebehörde die Berichtigung mit. Eine Berichtigung auf Grund von
+Dokumenten des Heimatstaates (§ 47 Absatz 1 Satz 3 Nummer 2 des
+Gesetzes) ist nur zulässig, wenn zuvor die zuständige Ausländerbehörde
+beteiligt wurde und diese den Zusammenhang zwischen den vorgelegten
+Dokumenten und der Rückführung des betreffenden Ausländers bestätigt
+hat.
 
 (2) Hat das Standesamt von Amts wegen auf Grund eines Registereintrags
 eine Mitteilung an eine Behörde, ein Gericht oder eine sonstige
@@ -1696,7 +1699,7 @@ unberührt.
 
 
 #### § 57 Mitteilungen bei Beurkundung im Geburtenregister
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE005904116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE005906360)
 
 (1) Das Standesamt, das die Geburt beurkundet, hat dies mitzuteilen:
 
@@ -1916,14 +1919,17 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 
 
 20. Pseudonym der Mutter im Falle einer vertraulichen Geburt nach § 25
-    Absatz 1 des Schwangerschaftskonfliktgesetzes.
+    Absatz 1 des Schwangerschaftskonfliktgesetzes,
+
+
+21. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 
 
 
 #### § 58 Mitteilungen bei Beurkundung im Eheregister
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006005116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006006360)
 
 (1) Das Standesamt, das die Eheschließung oder die Umwandlung einer
 Lebenspartnerschaft in eine Ehe beurkundet, im Falle der Nummer 6 die
@@ -2079,14 +2085,17 @@ den Absätzen 1 bis 4 folgende Daten übermitteln:
     Eheauflösung,
 
 
-18. Anschriften der Ehegatten.
+18. Anschriften der Ehegatten,
+
+
+19. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 
 
 
 #### § 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006105116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006106360)
 
 (1) Das Standesamt, das die Begründung einer Lebenspartnerschaft nach
 § 35 des Gesetzes beurkundet, hat dies mitzuteilen:
@@ -2211,14 +2220,17 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
     Auflösung der Lebenspartnerschaft,
 
 
-17. Anschriften der Lebenspartner.
+17. Anschriften der Lebenspartner,
+
+
+18. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 
 
 
 #### § 60 Mitteilungen bei Beurkundung im Sterberegister
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006203116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE006204360)
 
 (1) Das Standesamt, das den Sterbefall beurkundet, hat dies
 mitzuteilen:
@@ -2346,7 +2358,46 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
     Vollwaise geworden ist,
 
 
-20. Anschrift des Verstorbenen.
+20. Anschrift des Verstorbenen,
+
+
+21. Identifikationsnummer nach § 139b der Abgabenordnung.
+
+
+
+
+
+#### § 60a Mitteilungen für Identitätszwecke
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE009400360)
+
+Das Standesamt, das eine Fortführung im Personenstandsregister
+vornimmt, teilt dies der Registermodernisierungsbehörde nach dem
+Identifikationsnummerngesetz nur mit, wenn die Daten nicht bereits der
+Meldebehörde nach den §§ 57 bis 60 übermittelt worden sind. Soweit
+eine Mitteilung des Standesamtes zum Zwecke der Überprüfung und
+Bestätigung der Identität natürlicher Personen beim Bundeszentralamt
+für Steuern nach Satz 1 erforderlich ist, werden folgende Daten
+mitgeteilt:
+
+1.  Familienname,
+
+
+2.  Vornamen,
+
+
+3.  frühere Familiennamen und Vornamen,
+
+
+4.  Tag und Ort der Geburt,
+
+
+5.  Geschlecht,
+
+
+6.  gegenwärtige und letzte Anschrift, wenn diese bekannt ist,
+
+
+7.  Sterbedatum.
 
 
 
@@ -2778,9 +2829,10 @@ Der Bundesrat hat zugestimmt.
 (zu § 11)
 
 ### Anlage 1 Datenfelder in den Personenstandsregistern
-[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE007905116)
+[Direktlink](https://www.gesetze-im-internet.de/pstv/BJNR226300008.html#BJNR226300008BJNE007906116)
 
-(Fundstelle: BGBl. I 2022, 1750 — 1770)
+(Fundstelle: BGBl. I 2022, 1750 — 1770;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nr.
@@ -3055,7 +3107,7 @@ Der Bundesrat hat zugestimmt.
 
    _\_\__\_\__\_\__
 
-[^F823805_01_BJNR226300008BJNE007905116]
+[^F823805_01_BJNR226300008BJNE007906116]
 
 *    *   Nr.
 
@@ -3334,6 +3386,19 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+
+*    *   1198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   1198
 
@@ -3632,6 +3697,19 @@ Der Bundesrat hat zugestimmt.
     *   1)
 
 
+*    *   1298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   1299
 
     *   Identität nicht nachgewiesen
@@ -3906,6 +3984,19 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+
+*    *   1398
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   1398
 
@@ -5336,6 +5427,19 @@ Der Bundesrat hat zugestimmt.
     *   1)
 
 
+*    *   2198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *
     *   2.
 
@@ -5770,6 +5874,19 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+
+*    *   2298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   2298
 
@@ -7099,6 +7216,19 @@ Der Bundesrat hat zugestimmt.
     *   1)
 
 
+*    *   3198
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *
     *   2.
 
@@ -7534,6 +7664,19 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+
+*    *   3298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   3298
 
@@ -8711,6 +8854,19 @@ Der Bundesrat hat zugestimmt.
     *   1)
 
 
+*    *   4298
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
+
 *    *   4299
 
     *   Identität nicht nachgewiesen
@@ -8860,6 +9016,19 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+
+*    *   4398
+
+    *   Identifikationsnummer
+
+    *   Gemäß § 139b der Abgabenordnung
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   4398
 
@@ -9164,13 +9333,28 @@ Der Bundesrat hat zugestimmt.
     *
 
 
-[^F823805_01_BJNR226300008BJNE007905116]:    Die Datenfelder unterliegen folgenden Beschränkungen:  1) = Datenfeld
+[^F823805_01_BJNR226300008BJNE007906116]:    Die Datenfelder unterliegen folgenden Beschränkungen: 1) =Datenfeld
     ist nicht Bestandteil des Beurkundungs- und Hinweisteils des
     Personenstandseintrags und steht nur systemseitig als funktionales
-    Ordnungsmerkmal zur Verfügung.  2) = Datenfeld steht ab 1. November
-    2013 zur Verfügung.  3) = Datenfeld steht nicht mehr für Eingaben zur
-    Verfügung.  4) = Datenfeld steht ab 1. November 2018 zur Verfügung.
-    5) = Datenfeld steht nur noch für Berichtigungen zur Verfügung.
+    Ordnungsmerkmal zur Verfügung.
+
+
+    2) =Datenfeld steht ab 1. November 2013 zur Verfügung.
+
+
+    3) =Datenfeld steht nicht mehr für Eingaben zur Verfügung.
+
+
+    4) =Datenfeld steht ab 1. November 2018 zur Verfügung.
+
+
+    5) =Datenfeld steht nicht mehr für Eingaben zur Verfügung.
+
+
+
+
+
+
 
 
 ### Anlage 2 (zu den §§ 11, 19, 48, 65)
