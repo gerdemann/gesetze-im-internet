@@ -862,9 +862,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Deutscher Name
 
-    *   Besonders geschützte Arten zu § 1 Satz 1
+    *   Besonders
+        geschützte Arten
+        zu § 1 Satz 1
 
-    *   Streng geschützte Arten zu § 1 Satz 2
+    *   Streng
+        geschützte Arten
+        zu § 1 Satz 2
 
 
 *    *   1
@@ -874,7 +878,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3
 
 
-*    *   **Fauna**
+*    *   Fauna ****
 
     *
     *
@@ -919,7 +923,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Gulo gulo 1)
+*    *   Gulo gulo
+        1)
 
     *   Vielfraß
 
@@ -981,7 +986,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Mammalia spp. 2) 3) 4)
+*    *   Mammalia spp.
+        2)
+        3)
+        4)
 
     *   Säugetiere
 
@@ -1064,7 +1072,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Acrocephalus arundinaceus 5)
+*    *   Acrocephalus arundinaceus
+        5)
 
     *   Drosselrohrsänger
 
@@ -1072,7 +1081,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Acrocephalus paludicola 5)
+*    *   Acrocephalus paludicola
+        5)
 
     *   Seggenrohrsänger
 
@@ -1080,7 +1090,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Acrocephalus schoenobaenus 5)
+*    *   Acrocephalus schoenobaenus
+        5)
 
     *   Schilfrohrsänger
 
@@ -1088,7 +1099,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Actitis hypoleucos 5)
+*    *   Actitis hypoleucos
+        5)
 
     *   Flussuferläufer
 
@@ -1096,7 +1108,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Alcedo atthis 5)
+*    *   Alcedo atthis
+        5)
 
     *   Eisvogel
 
@@ -1104,7 +1117,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Alectoris gaeca 5)
+*    *   Alectoris gaeca
+        5)
 
     *   Steinhuhn
 
@@ -1112,7 +1126,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Alectoris rufa 5)
+*    *   Alectoris rufa
+        5)
 
     *   Rothuhn
 
@@ -1120,7 +1135,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Anthus campestris 5)
+*    *   Anthus campestris
+        5)
 
     *   Brachpieper
 
@@ -1128,7 +1144,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ardea purpurea 5)
+*    *   Ardea purpurea
+        5)
 
     *   Purpurreiher
 
@@ -1136,7 +1153,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Arenaria interpres 5)
+*    *   Arenaria interpres
+        5)
 
     *   Steinwälzer
 
@@ -1152,7 +1170,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Botaurus stellaris 5)
+*    *   Botaurus stellaris
+        5)
 
     *   Rohrdommel
 
@@ -1160,7 +1179,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Burhinus oedicnemus 5)
+*    *   Burhinus oedicnemus
+        5)
 
     *   Triel
 
@@ -1168,7 +1188,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Calidris alpina 5)
+*    *   Calidris alpina
+        5)
 
     *   Alpenstrandläufer
 
@@ -1176,7 +1197,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Caprimulgus europaeus 5)
+*    *   Caprimulgus europaeus
+        5)
 
     *   Ziegenmelker
 
@@ -1184,7 +1206,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Carpodacus erythrinus 5)
+*    *   Carpodacus erythrinus
+        5)
 
     *   Karmingimpel
 
@@ -1216,7 +1239,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Charadrius alexandrinus 5)
+*    *   Charadrius alexandrinus
+        5)
 
     *   Seeregenpfeifer
 
@@ -1224,7 +1248,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Charadrius dubius 5)
+*    *   Charadrius dubius
+        5)
 
     *   Flussregenpfeifer
 
@@ -1232,7 +1257,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Charadrius hiaticula 5)
+*    *   Charadrius hiaticula
+        5)
 
     *   Sandregenpfeifer
 
@@ -1240,7 +1266,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Chlidonias leucopterus 5)
+*    *   Chlidonias leucopterus
+        5)
 
     *   Weißflügelseeschwalbe
 
@@ -1248,7 +1275,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Chlidonias niger 5)
+*    *   Chlidonias niger
+        5)
 
     *   Trauerseeschwalbe
 
@@ -1256,7 +1284,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ciconia ciconia 5)
+*    *   Ciconia ciconia
+        5)
 
     *   Weißstorch
 
@@ -1264,7 +1293,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Coracias garrulus 5)
+*    *   Coracias garrulus
+        5)
 
     *   Blauracke
 
@@ -1280,7 +1310,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Crex crex 5)
+*    *   Crex crex
+        5)
 
     *   Wachtelkönig
 
@@ -1288,7 +1319,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Cygnus cygnus 5)
+*    *   Cygnus cygnus
+        5)
 
     *   Singschwan
 
@@ -1296,7 +1328,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Dendrocopos leucotos 5)
+*    *   Dendrocopos leucotos
+        5)
 
     *   Weißrückenspecht
 
@@ -1304,7 +1337,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Dendrocopos medius 5)
+*    *   Dendrocopos medius
+        5)
 
     *   Mittelspecht
 
@@ -1312,7 +1346,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Dryocopus martius 5)
+*    *   Dryocopus martius
+        5)
 
     *   Schwarzspecht
 
@@ -1320,7 +1355,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Emberiza calandra 5)
+*    *   Emberiza calandra
+        5)
 
     *   Grauammer
 
@@ -1328,7 +1364,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Emberiza cia 5)
+*    *   Emberiza cia
+        5)
 
     *   Zippammer
 
@@ -1336,7 +1373,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Emberiza cirlus 5)
+*    *   Emberiza cirlus
+        5)
 
     *   Zaunammer
 
@@ -1344,7 +1382,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Emberiza hortulana 5)
+*    *   Emberiza hortulana
+        5)
 
     *   Ortolan
 
@@ -1352,7 +1391,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Eudromias morinellus 5)
+*    *   Eudromias morinellus
+        5)
 
     *   Mornellregenpfeifer
 
@@ -1360,7 +1400,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ficedula albicollis 5)
+*    *   Ficedula albicollis
+        5)
 
     *   Halsbandschnäpper
 
@@ -1368,7 +1409,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ficedula parva 5)
+*    *   Ficedula parva
+        5)
 
     *   Zwergschnäpper
 
@@ -1376,7 +1418,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Fratercula arctica 5)
+*    *   Fratercula arctica
+        5)
 
     *   Papageitaucher
 
@@ -1384,7 +1427,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Fulmarus glacialis 5)
+*    *   Fulmarus glacialis
+        5)
 
     *   Eissturmvogel
 
@@ -1392,7 +1436,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Galerida cristata 5)
+*    *   Galerida cristata
+        5)
 
     *   Haubenlerche
 
@@ -1400,7 +1445,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gallinago gallinago 5)
+*    *   Gallinago gallinago
+        5)
 
     *   Bekassine
 
@@ -1408,7 +1454,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gallinago media 5)
+*    *   Gallinago media
+        5)
 
     *   Doppelschnepfe
 
@@ -1416,7 +1463,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gallinula chloropus 5)
+*    *   Gallinula chloropus
+        5)
 
     *   Teichhuhn
 
@@ -1424,7 +1472,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gavia immer 5)
+*    *   Gavia immer
+        5)
 
     *   Eistaucher
 
@@ -1432,7 +1481,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gelochelidon nilotica 5)
+*    *   Gelochelidon nilotica
+        5)
 
     *   Lachseeschwalbe
 
@@ -1440,7 +1490,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Himantopus himantopus 5)
+*    *   Himantopus himantopus
+        5)
 
     *   Stelzenläufer
 
@@ -1448,7 +1499,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Hydrobates pelagicus 5)
+*    *   Hydrobates pelagicus
+        5)
 
     *   Sturmschwalbe
 
@@ -1456,7 +1508,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ixobrychus minutus 5)
+*    *   Ixobrychus minutus
+        5)
 
     *   Zwergdommel
 
@@ -1464,7 +1517,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Jynx torquilla 5)
+*    *   Jynx torquilla
+        5)
 
     *   Wendehals
 
@@ -1472,7 +1526,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lanius excubitor 5)
+*    *   Lanius excubitor
+        5)
 
     *   Raubwürger
 
@@ -1480,7 +1535,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lanius minor 5)
+*    *   Lanius minor
+        5)
 
     *   Schwarzstirnwürger
 
@@ -1488,7 +1544,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lanius senator 5)
+*    *   Lanius senator
+        5)
 
     *   Rotkopfwürger
 
@@ -1496,7 +1553,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Limosa limosa 5)
+*    *   Limosa limosa
+        5)
 
     *   Uferschnepfe
 
@@ -1504,7 +1562,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Locustella luscinioides 5)
+*    *   Locustella luscinioides
+        5)
 
     *   Rohrschwirl
 
@@ -1512,7 +1571,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lullula arborea 5)
+*    *   Lullula arborea
+        5)
 
     *   Heidelerche
 
@@ -1520,7 +1580,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Luscinia svecica 5)
+*    *   Luscinia svecica
+        5)
 
     *   Blaukehlchen
 
@@ -1528,7 +1589,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lymnocryptes minimus 5)
+*    *   Lymnocryptes minimus
+        5)
 
     *   Zwergschnepfe
 
@@ -1536,7 +1598,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Merops apiaster 5)
+*    *   Merops apiaster
+        5)
 
     *   Bienenfresser
 
@@ -1544,7 +1607,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Monticola saxatilis 5)
+*    *   Monticola saxatilis
+        5)
 
     *   Steinrötel
 
@@ -1552,7 +1616,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Numenius arquata 5)
+*    *   Numenius arquata
+        5)
 
     *   Großer Brachvogel
 
@@ -1560,7 +1625,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Nycticorax nycticorax 5)
+*    *   Nycticorax nycticorax
+        5)
 
     *   Nachtreiher
 
@@ -1568,7 +1634,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Oceanodroma leucorhoa 5)
+*    *   Oceanodroma leucorhoa
+        5)
 
     *   Wellenläufer
 
@@ -1576,7 +1643,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Petronia petronia 5)
+*    *   Petronia petronia
+        5)
 
     *   Steinsperling
 
@@ -1584,7 +1652,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Phalaropus lobatus 5)
+*    *   Phalaropus lobatus
+        5)
 
     *   Odinshühnchen
 
@@ -1592,7 +1661,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Philomachus pugnax 5)
+*    *   Philomachus pugnax
+        5)
 
     *   Kampfläufer
 
@@ -1600,7 +1670,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Phylloscopus bonelli 5)
+*    *   Phylloscopus bonelli
+        5)
 
     *   Berglaubsänger
 
@@ -1608,7 +1679,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Picoides tridactylus 5)
+*    *   Picoides tridactylus
+        5)
 
     *   Dreizehenspecht
 
@@ -1616,7 +1688,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Picus canus 5)
+*    *   Picus canus
+        5)
 
     *   Grauspecht
 
@@ -1624,7 +1697,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Picus viridis 5)
+*    *   Picus viridis
+        5)
 
     *   Grünspecht
 
@@ -1632,7 +1706,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Plegadis falcinellus 5)
+*    *   Plegadis falcinellus
+        5)
 
     *   Braunsichler
 
@@ -1640,7 +1715,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Pluvialis apricaria 5)
+*    *   Pluvialis apricaria
+        5)
 
     *   Goldregenpfeifer
 
@@ -1648,7 +1724,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Podiceps auritus 5)
+*    *   Podiceps auritus
+        5)
 
     *   Ohrentaucher
 
@@ -1656,7 +1733,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Podiceps grisegena 5)
+*    *   Podiceps grisegena
+        5)
 
     *   Rothalstaucher
 
@@ -1664,7 +1742,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Podiceps nigricollis 5)
+*    *   Podiceps nigricollis
+        5)
 
     *   Schwarzhalstaucher
 
@@ -1672,7 +1751,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Porzana parva 5)
+*    *   Porzana parva
+        5)
 
     *   Kleines Sumpfhuhn
 
@@ -1680,7 +1760,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Porzana porzana 5)
+*    *   Porzana porzana
+        5)
 
     *   Tüpfelsumpfhuhn
 
@@ -1688,7 +1769,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Porzana pusilla 5)
+*    *   Porzana pusilla
+        5)
 
     *   Zwergsumpfhuhn
 
@@ -1696,7 +1778,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ptyonoprogne rupestris 5)
+*    *   Ptyonoprogne rupestris
+        5)
 
     *   Felsenschwalbe
 
@@ -1704,7 +1787,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Recurvirostra avosetta 5)
+*    *   Recurvirostra avosetta
+        5)
 
     *   Säbelschnäbler
 
@@ -1712,7 +1796,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Riparia riparia 5)
+*    *   Riparia riparia
+        5)
 
     *   Uferschwalbe
 
@@ -1720,7 +1805,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Serinus citrinella 5)
+*    *   Serinus citrinella
+        5)
 
     *   Zitronengirlitz
 
@@ -1728,7 +1814,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna albifrons 5)
+*    *   Sterna albifrons
+        5)
 
     *   Zwergseeschwalbe
 
@@ -1736,7 +1823,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna caspia 5)
+*    *   Sterna caspia
+        5)
 
     *   Raubseeschwalbe
 
@@ -1744,7 +1832,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna dougallii 5)
+*    *   Sterna dougallii
+        5)
 
     *   Rosenseeschwalbe
 
@@ -1752,7 +1841,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna hirundo 5)
+*    *   Sterna hirundo
+        5)
 
     *   Flussseeschwalbe
 
@@ -1760,7 +1850,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna paradisaea 5)
+*    *   Sterna paradisaea
+        5)
 
     *   Küstenseeschwalbe
 
@@ -1768,7 +1859,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sterna sandvicensis 5)
+*    *   Sterna sandvicensis
+        5)
 
     *   Brandseeschwalbe
 
@@ -1776,7 +1868,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sylvia nisoria 5)
+*    *   Sylvia nisoria
+        5)
 
     *   Sperbergrasmücke
 
@@ -1800,7 +1893,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Tringa glareola 5)
+*    *   Tringa glareola
+        5)
 
     *   Bruchwasserläufer
 
@@ -1808,7 +1902,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Tringa ochropus 5)
+*    *   Tringa ochropus
+        5)
 
     *   Waldwasserläufer
 
@@ -1816,7 +1911,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Tringa stagnatilis 5)
+*    *   Tringa stagnatilis
+        5)
 
     *   Teichwasserläufer
 
@@ -1824,7 +1920,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Tringa totanus 5)
+*    *   Tringa totanus
+        5)
 
     *   Rotschenkel
 
@@ -1832,7 +1929,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Upupa epops 5)
+*    *   Upupa epops
+        5)
 
     *   Wiedehopf
 
@@ -1840,7 +1938,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Vanellus vanellus 5)
+*    *   Vanellus vanellus
+        5)
 
     *   Kiebitz
 
@@ -1896,7 +1995,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Natrix natrix 3)
+*    *   Natrix natrix
+        3)
 
     *   Ringelnatter
 
@@ -1952,7 +2052,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Reptilia spp. 3) 4)
+*    *   Reptilia spp.
+        3)
+        4)
 
     *   Kriechtiere
 
@@ -2019,7 +2121,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Amphibia spp. 3) 4)
+*    *   Amphibia spp.
+        3)
+        4)
 
     *   Lurche
 
@@ -2039,7 +2143,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Aphanius fasciatus 6)
+*    *   Aphanius fasciatus
+        6)
 
     *   Zebrakärpfling
 
@@ -2047,7 +2152,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aphanius iberus 6)
+*    *   Aphanius iberus
+        6)
 
     *   Spanienkärpfling
 
@@ -2055,7 +2161,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Carcharodon charcharias 6)
+*    *   Carcharodon charcharias
+        6)
 
     *   Weißer Hai
 
@@ -2063,14 +2170,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lethenteron zanandrai 6)
+*    *   Lethenteron zanandrai
+        6)
 
     *
     *   +
 
     *
 
-*    *   Mobula mobular 6)
+*    *   Mobula mobular
+        6)
 
     *   Teufelsrochen
 
@@ -2091,14 +2200,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten
 
 
-*    *   Pomatoschistus canestrinii 6)
+*    *   Pomatoschistus canestrinii
+        6)
 
     *
     *   +
 
     *
 
-*    *   Pomatoschistus tortonesei 6)
+*    *   Pomatoschistus tortonesei
+        6)
 
     *
     *   +
@@ -2458,7 +2569,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Coenonympha spp. 3)
+*    *   Coenonympha spp.
+        3)
 
     *   Wiesenvögelchen
 
@@ -2471,7 +2583,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten
 
 
-*    *   Colias spp. 3)
+*    *   Colias spp.
+        3)
 
     *   Gelblinge
 
@@ -2560,7 +2673,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Erebia spp. 3)
+*    *   Erebia spp.
+        3)
 
     *   Mohrenfalter
 
@@ -2591,12 +2705,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Eriogaster spp. 3)
-
+*    *   Eriogaster spp.
+        3)
         excl.
-
         Eriogaster lanestris
-
 
     *   Wollafter
 
@@ -2628,7 +2740,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Euphydryas spp. 3)
+*    *   Euphydryas spp.
+        3)
 
     *   Scheckenfalter
 
@@ -2698,7 +2811,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Gortyna borelii 3)
+*    *   Gortyna borelii
+        3)
 
     *   Haarstrangwurzeleule
 
@@ -2786,7 +2900,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Hyles spp. 3)
+*    *   Hyles spp.
+        3)
 
     *   Schwärmer
 
@@ -2964,7 +3079,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Lycaena spp. 3)
+*    *   Lycaena spp.
+        3)
 
     *   Feuerfalter
 
@@ -2977,7 +3093,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten, soweit nicht im Einzelnen aufgeführt
 
 
-*    *   Maculinea spp. 3)
+*    *   Maculinea spp.
+        3)
 
     *   Ameisen-Bläulinge
 
@@ -3000,11 +3117,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Malacosoma spp.
-
         excl.
-
         Malacosoma neustria
-
 
     *   Ringelspinner
 
@@ -3129,11 +3243,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Orgyia spp.
-
         excl.
-
         Orgyia antiqua
-
 
     *   Bürstenspinner
 
@@ -3860,12 +3971,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Buprestidae spp. 3)
-
-        excl. Agrilus biguttatus Agrilus viridis
-
+*    *   Buprestidae spp.
+        3)
+        excl.
+        Agrilus biguttatus Agrilus viridis
         Anthaxia quadripunctata Chrysobothris affinis Phaenops cyanea
-
 
     *   Prachtkäfer
 
@@ -3930,7 +4040,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Carabus spp. 3)
+*    *   Carabus spp.
+        3)
 
     *   Laufkäfer
 
@@ -3943,16 +4054,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle europäischen Arten, soweit nicht im Einzelnen aufgeführt
 
 
-*    *   Cerambycidae spp. 3)
-
+*    *   Cerambycidae spp.
+        3)
         excl.
-
         Hylotrupes bajulus
-
         Monochamus spp.
-
         Tetropium spp.
-
 
     *   Bockkäfer
 
@@ -4364,7 +4471,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Odonata spp. 3)
+*    *   Odonata spp.
+        3)
 
     *   Libellen
 
@@ -4734,7 +4842,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Astacus astacus 7)
+*    *   Astacus astacus
+        7)
 
     *   Edelkrebs
 
@@ -4743,7 +4852,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Austropotamobius torrentium 7)
+*    *   Austropotamobius torrentium
+        7)
 
     *   Steinkrebs
 
@@ -4767,7 +4877,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Homarus gammarus 7)
+*    *   Homarus gammarus
+        7)
 
     *   Hummer
 
@@ -4791,7 +4902,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ocypode cursor 6)
+*    *   Ocypode cursor
+        6)
 
     *   Geisterkrabbe
 
@@ -4799,7 +4911,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pachylasma giganteum 6)
+*    *   Pachylasma giganteum
+        6)
 
     *
     *   +
@@ -4821,7 +4934,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Anodonta anatina 7)
+*    *   Anodonta anatina
+        7)
 
     *   Flache Teichmuschel
 
@@ -4829,7 +4943,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Anodonta cygnea 7)
+*    *   Anodonta cygnea
+        7)
 
     *   Gemeine Teichmuschel
 
@@ -4837,14 +4952,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Charonia rubicunda 6)
+*    *   Charonia rubicunda
+        6)
 
     *
     *   +
 
     *
 
-*    *   Charonia tritonis 6)
+*    *   Charonia tritonis
+        6)
 
     *   Tritonshorn
 
@@ -4852,21 +4969,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Dendropoma petraeum 6)
+*    *   Dendropoma petraeum
+        6)
 
     *
     *   +
 
     *
 
-*    *   Erosaria spurca 6)
+*    *   Erosaria spurca
+        6)
 
     *
     *   +
 
     *
 
-*    *   Helix aspersa 7)
+*    *   Helix aspersa
+        7)
 
     *   Gefleckte Weinbergschnecke
 
@@ -4874,7 +4994,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Helix pomatia 7)
+*    *   Helix pomatia
+        7)
 
     *   Gewöhnliche Weinbergschnecke
 
@@ -4882,14 +5003,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Luria lurida 6)
+*    *   Luria lurida
+        6)
 
     *
     *   +
 
     *
 
-*    *   Margaritifera margaritifera 7)
+*    *   Margaritifera margaritifera
+        7)
 
     *   Flussperlmuschel
 
@@ -4898,14 +5021,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Mitra zonata 6)
+*    *   Mitra zonata
+        6)
 
     *
     *   +
 
     *
 
-*    *   Nucella lapillus 7)
+*    *   Nucella lapillus
+        7)
 
     *   Nordische Purpurschnecke
 
@@ -4913,28 +5038,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Patella nigra 6)
+*    *   Patella nigra
+        6)
 
     *
     *   +
 
     *
 
-*    *   Pholas dactylus 6)
+*    *   Pholas dactylus
+        6)
 
     *
     *   +
 
     *
 
-*    *   Pinna pernula 6)
+*    *   Pinna pernula
+        6)
 
     *
     *   +
 
     *
 
-*    *   Pseudanodonta complanata 7)
+*    *   Pseudanodonta complanata
+        7)
 
     *   Abgeplattete Teichmuschel
 
@@ -4943,7 +5072,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Pseudanodonta elongata 7)
+*    *   Pseudanodonta elongata
+        7)
 
     *   Schlanke Teichmuschel
 
@@ -4951,7 +5081,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pseudanodonta middendorffi 7)
+*    *   Pseudanodonta middendorffi
+        7)
 
     *   Donau-Teichmuschel
 
@@ -4959,28 +5090,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Ranella olearia 6)
+*    *   Ranella olearia
+        6)
 
     *
     *   +
 
     *
 
-*    *   Schilderia achatidea 6)
+*    *   Schilderia achatidea
+        6)
 
     *
     *   +
 
     *
 
-*    *   Tonna galea 6)
+*    *   Tonna galea
+        6)
 
     *
     *   +
 
     *
 
-*    *   Unio pictorum 7)
+*    *   Unio pictorum
+        7)
 
     *   Malermuschel
 
@@ -4988,7 +5123,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Unio tumidus 7)
+*    *   Unio tumidus
+        7)
 
     *   Große Flussmuschel
 
@@ -4996,7 +5132,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Zonaria pyrum 6)
+*    *   Zonaria pyrum
+        6)
 
     *
     *   +
@@ -5010,14 +5147,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Asterina panceri 6)
+*    *   Asterina panceri
+        6)
 
     *
     *   +
 
     *
 
-*    *   Echinus esculentus 7)
+*    *   Echinus esculentus
+        7)
 
     *   Essbarer Seeigel
 
@@ -5025,7 +5164,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Ophidiaster ophidianus 6)
+*    *   Ophidiaster ophidianus
+        6)
 
     *
     *   +
@@ -5048,7 +5188,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Gerardia savaglia 6)
+*    *   Gerardia savaglia
+        6)
 
     *
     *   +
@@ -5062,28 +5203,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Aplysina cavernicola 6)
+*    *   Aplysina cavernicola
+        6)
 
     *
     *   +
 
     *
 
-*    *   Asbestopluma hypogea 6)
+*    *   Asbestopluma hypogea
+        6)
 
     *
     *   +
 
     *
 
-*    *   Axinella polyploides 6)
+*    *   Axinella polyploides
+        6)
 
     *
     *   +
 
     *
 
-*    *   Petrobiona massiliana 6)
+*    *   Petrobiona massiliana
+        6)
 
     *
     *   +
@@ -5103,7 +5248,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Achillea atrata L. 1)
+*    *   Achillea atrata L.
+        1)
 
     *   Schwarze Schafgarbe
 
@@ -5111,7 +5257,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Achillea clavennae L. 8)
+*    *   Achillea clavennae L.
+        8)
 
     *   Bittere Schafgarbe
 
@@ -5119,7 +5266,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aconitum spp. 3) 8)
+*    *   Aconitum spp.
+        3)
+        8)
 
     *   Eisenhut
 
@@ -5148,7 +5297,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Allium angulosum L. 8)
+*    *   Allium angulosum L.
+        8)
 
     *   Kantiger Lauch
 
@@ -5181,7 +5331,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Allium senescens L. subsp. montanum (Fries) Holub 8)
+*    *   Allium senescens L. subsp. montanum (Fries) Holub
+        8)
 
     *   Berg-Lauch
 
@@ -5197,7 +5348,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Althaea officinalis L. 8)
+*    *   Althaea officinalis L.
+        8)
 
     *   Echter Eibisch
 
@@ -5205,7 +5357,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Alyssum montanum L. 8)
+*    *   Alyssum montanum L.
+        8)
 
     *   Berg-Steinkraut
 
@@ -5213,7 +5366,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Alyssum saxatile L. 8)
+*    *   Alyssum saxatile L.
+        8)
 
     *   Felsen-Steinkraut
 
@@ -5230,9 +5384,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Androsace spp. 3) 8)
-        excl. Androsace elongata L. Androsace maxima L. Androsace
-        septentrionalis L.
+*    *   Androsace spp.
+        3)
+        8)
+        excl. Androsace elongata L.
+        Androsace maxima L.
+        Androsace septentrionalis L.
 
     *   Mannsschilde
 
@@ -5246,7 +5403,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Großer Mannsschild Nordischer Mannsschild
 
 
-*    *   Anemone narcissiflora L. 8)
+*    *   Anemone narcissiflora L.
+        8)
 
     *   Narzissen-Windröschen
 
@@ -5254,7 +5412,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Anemone sylvestris L. 8)
+*    *   Anemone sylvestris L.
+        8)
 
     *   Großes Windröschen
 
@@ -5270,7 +5429,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Antennaria dioica (L.) Gaertner 8)
+*    *   Antennaria dioica (L.) Gaertner
+        8)
 
     *   Gewöhnliches Katzenpfötchen
 
@@ -5278,7 +5438,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Anthericum liliago L. 8)
+*    *   Anthericum liliago L.
+        8)
 
     *   Astlose Graslilie
 
@@ -5286,7 +5447,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Anthericum racemosum L. 8)
+*    *   Anthericum racemosum L.
+        8)
 
     *   Ästige Graslilie
 
@@ -5302,7 +5464,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aquilegia ottonis Orph. ex Boiss. ssp. taygetea (Orph.) Strid 8)
+*    *   Aquilegia ottonis Orph. ex Boiss. ssp. taygetea (Orph.) Strid
+        8)
 
     *   Taygetos-Akelei
 
@@ -5311,7 +5474,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Aquilegia spp. 3) 8)
+*    *   Aquilegia spp.
+        3)
+        8)
 
     *   Akeleien
 
@@ -5324,7 +5489,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle europäischen Arten, soweit nicht im Einzelnen aufgeführt
 
 
-*    *   Arctostaphylos uva-ursi (L.) Spreng. 8)
+*    *   Arctostaphylos uva-ursi (L.) Spreng.
+        8)
 
     *   Echte Bärentraube
 
@@ -5332,7 +5498,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Armeria maritima (Miller) Willd. ssp. purpurea (Koch) A. & D. Löve 8)
+*    *   Armeria maritima (Miller) Willd. ssp. purpurea (Koch) A. & D. Löve
+        8)
 
     *   Ried-Grasnelke
 
@@ -5341,7 +5508,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Armeria spp. 3) 8)
+*    *   Armeria spp.
+        3)
+        8)
 
     *   Grasnelken
 
@@ -5354,7 +5523,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle europäischen Arten, soweit nicht im Einzelnen aufgeführt
 
 
-*    *   Arnica montana L. 8)
+*    *   Arnica montana L.
+        8)
 
     *   Arnika, Berg-Wohlverleih
 
@@ -5362,7 +5532,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Artemisia rupestris L. 8)
+*    *   Artemisia rupestris L.
+        8)
 
     *   Felsen-Beifuß
 
@@ -5371,7 +5542,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Artemisia umbelliformis Lam. 8)
+*    *   Artemisia umbelliformis Lam.
+        8)
 
     *   Echte Edelraute
 
@@ -5387,11 +5559,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Asplenium ceterach L. 8)
+*    *   Asplenium ceterach L.
+        8)
 
     *   Milzfarn
 
-    *
+    *   +
+
     *
 
 *    *   Asplenium cuneifolium Viv.
@@ -5410,7 +5584,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Asplenium fontanum (L.) Bernh. 8)
+*    *   Asplenium fontanum (L.) Bernh.
+        8)
 
     *   Jura-Streifenfarn
 
@@ -5418,7 +5593,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Asplenium foreziense Legrand 8)
+*    *   Asplenium foreziense Legrand
+        8)
 
     *   Foreser Streifenfarn
 
@@ -5434,7 +5610,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Asplenium scolopendrium L. 8)
+*    *   Asplenium scolopendrium L.
+        8)
 
     *   Hirschzunge
 
@@ -5442,7 +5619,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aster alpinus L. 8)
+*    *   Aster alpinus L.
+        8)
 
     *   Alpen-Aster
 
@@ -5450,7 +5628,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aster amellus L. 8)
+*    *   Aster amellus L.
+        8)
 
     *   Berg-Aster
 
@@ -5458,7 +5637,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Aster sibiricus L. 8)
+*    *   Aster sibiricus L.
+        8)
 
     *   Sibirische Aster
 
@@ -5475,7 +5655,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Betula nana L. 8)
+*    *   Betula nana L.
+        8)
 
     *   Zwerg-Birke
 
@@ -5483,7 +5664,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Biscutella laevigata L. 8)
+*    *   Biscutella laevigata L.
+        8)
 
     *   Gewöhnliche Brillenschote
 
@@ -5509,7 +5691,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Botrychium spp. 3)
+*    *   Botrychium spp.
+        3)
 
     *   Rautenfarne, Mondrauten
 
@@ -5525,7 +5708,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Brimeura spp. 8)
+*    *   Brimeura spp.
+        8)
 
     *   Brimeura
 
@@ -5541,7 +5725,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Buxus sempervirens L. 7) 8)
+*    *   Buxus sempervirens L.
+        7)
+        8)
 
     *   Buchsbaum
 
@@ -5549,7 +5735,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Calla palustris L. 8)
+*    *   Calla palustris L.
+        8)
 
     *   Calla, Sumpf-Schlangenwurz
 
@@ -5566,7 +5753,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Campanula bononiensis L. 8)
+*    *   Campanula bononiensis L.
+        8)
 
     *   Bologneser Glockenblume
 
@@ -5574,7 +5762,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Campanula cervicaria L. 8)
+*    *   Campanula cervicaria L.
+        8)
 
     *   Borstige Glockenblume
 
@@ -5582,7 +5771,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Campanula lanata Friv. 8)
+*    *   Campanula lanata Friv.
+        8)
 
     *   Wollige Glockenblume
 
@@ -5590,7 +5780,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Campanula latifolia L. 8)
+*    *   Campanula latifolia L.
+        8)
 
     *   Breitblättrige Glockenblume
 
@@ -5598,7 +5789,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Campanula thyrsoides L. 8)
+*    *   Campanula thyrsoides L.
+        8)
 
     *   Strauß-Glockenblume
 
@@ -5606,7 +5798,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Carex baldensis L. 8)
+*    *   Carex baldensis L.
+        8)
 
     *   Monte-Baldo-Segge
 
@@ -5614,7 +5807,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Carlina acaulis L. 8)
+*    *   Carlina acaulis L.
+        8)
 
     *   Silberdistel
 
@@ -5630,7 +5824,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Centaurium spp. 8)
+*    *   Centaurium spp.
+        8)
 
     *   Tausendgüldenkräuter
 
@@ -5646,7 +5841,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Chimaphila umbellata (L.) Barton 8)
+*    *   Chimaphila umbellata (L.) Barton
+        8)
 
     *   Doldiges Winterlieb
 
@@ -5654,7 +5850,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Chionodoxa luciliae Boiss. 8)
+*    *   Chionodoxa luciliae Boiss.
+        8)
 
     *   Lydischer Schneestolz
 
@@ -5662,7 +5859,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Clematis alpina L. 8)
+*    *   Clematis alpina L.
+        8)
 
     *   Alpen-Waldrebe
 
@@ -5670,7 +5868,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Cochlearia spp. 8)
+*    *   Cochlearia spp.
+        8)
 
     *   Löffelkraut
 
@@ -5686,7 +5885,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Cornus suecica L. 8)
+*    *   Cornus suecica L.
+        8)
 
     *   Schwedischer Hartriegel
 
@@ -5694,7 +5894,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Cortusa matthioli L. 8)
+*    *   Cortusa matthioli L.
+        8)
 
     *   Alpen Heilglöckchen
 
@@ -5702,7 +5903,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Cotoneaster integerrimus Medicus 8)
+*    *   Cotoneaster integerrimus Medicus
+        8)
 
     *   Gewöhnliche Zwergmispel
 
@@ -5710,7 +5912,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Crambe maritima L. 8)
+*    *   Crambe maritima L.
+        8)
 
     *   Gewöhnlicher Meerkohl
 
@@ -5718,7 +5921,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Crocus spp. 3) 8)
+*    *   Crocus spp.
+        3)
+        8)
 
     *   Krokus
 
@@ -5734,7 +5939,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Cryptogramma crispa (L.) A. Br. ex Hooker 8)
+*    *   Cryptogramma crispa (L.) A. Br. ex Hooker
+        8)
 
     *   Krauser Rollfarn
 
@@ -5758,7 +5964,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Daphne spp. 3) 8)
+*    *   Daphne spp.
+        3)
+        8)
 
     *   Seidelbaste
 
@@ -5774,7 +5982,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Delphinium elatum L. 8)
+*    *   Delphinium elatum L.
+        8)
 
     *   Hoher Rittersporn
 
@@ -5782,7 +5991,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Dendranthema zawadskyi (Herb.) Tzvel. 8)
+*    *   Dendranthema zawadskyi (Herb.) Tzvel.
+        8)
 
     *   Zawadskys Wucherblume
 
@@ -5790,7 +6000,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Dianthus spp. 3) 8)
+*    *   Dianthus spp.
+        3)
+        8)
 
     *   Nelken
 
@@ -5806,7 +6018,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Dictamnus albus L. 8)
+*    *   Dictamnus albus L.
+        8)
 
     *   Diptam
 
@@ -5814,7 +6027,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Digitalis grandiflora Mill. 8)
+*    *   Digitalis grandiflora Mill.
+        8)
 
     *   Großblütiger Fingerhut
 
@@ -5822,7 +6036,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Digitalis lutea L. 8)
+*    *   Digitalis lutea L.
+        8)
 
     *   Gelber Fingerhut
 
@@ -5830,7 +6045,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Draba spp. 3) 8)
+*    *   Draba spp.
+        3)
+        8)
+        excl.
+        Draba muralis L. et
+        Draba nemorosa L.
 
     *   Felsenblümchen
 
@@ -5838,9 +6058,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   excl.
-
-    *   -
+*    *   -
 
     *   alle europäischen Arten,
         mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen
@@ -5848,12 +6066,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Draba muralis L. et Draba nemorosa L.
-
-    *
+*    *
     *
 
-*    *   Dracocephalum ruyschiana L. 8)
+*    *   Dracocephalum ruyschiana L.
+        8)
 
     *   Nordischer Drachenkopf
 
@@ -5861,7 +6078,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Drosera spp. 8)
+*    *   Drosera spp.
+        8)
 
     *   Sonnentaue
 
@@ -5877,7 +6095,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Dryopteris cristata (L.) A. Gray 8)
+*    *   Dryopteris cristata (L.) A. Gray
+        8)
 
     *   Kammfarn
 
@@ -5885,7 +6104,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Eryngium campestre L. 8)
+*    *   Eryngium campestre L.
+        8)
 
     *   Feld-Mannstreu
 
@@ -5893,7 +6113,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Eryngium maritimum L. 8)
+*    *   Eryngium maritimum L.
+        8)
 
     *   Strand-Mannstreu, Stranddistel
 
@@ -5901,7 +6122,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Euphorbia lucida Waldstein & Kitaibel 8)
+*    *   Euphorbia lucida Waldstein & Kitaibel
+        8)
 
     *   Glanz-Wolfsmilch
 
@@ -5909,7 +6131,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Euphorbia palustris L. 8)
+*    *   Euphorbia palustris L.
+        8)
 
     *   Sumpf-Wolfsmilch
 
@@ -5917,7 +6140,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Fritillaria spp. 3) 8)
+*    *   Fritillaria spp.
+        3)
+        8)
 
     *   Schachblumen
 
@@ -5933,7 +6158,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Gentiana lutea L. 8)
+*    *   Gentiana lutea L.
+        8)
 
     *   Gelber Enzian
 
@@ -5941,7 +6167,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Gentiana spp. 3) 8)
+*    *   Gentiana spp.
+        3)
+        8)
 
     *   Enziane
 
@@ -5966,7 +6194,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Gentianella spp. 3) 8)
+*    *   Gentianella spp.
+        3)
+        8)
 
     *   Enziane
 
@@ -5982,7 +6212,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Gladiolus spp. 3) 8)
+*    *   Gladiolus spp.
+        3)
+        8)
 
     *   Siegwurze
 
@@ -5998,7 +6230,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Globularia spp. 3) 8)
+*    *   Globularia spp.
+        3)
+        8)
 
     *   Kugelblumen
 
@@ -6014,7 +6248,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Gratiola officinalis L. 8)
+*    *   Gratiola officinalis L.
+        8)
 
     *   Gottes-Gnadenkraut
 
@@ -6022,7 +6257,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Gypsophila fastigiata L. 8)
+*    *   Gypsophila fastigiata L.
+        8)
 
     *   Ebensträußiges Gipskraut
 
@@ -6030,7 +6266,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Haberlea rhodopensis Friv. 8)
+*    *   Haberlea rhodopensis Friv.
+        8)
 
     *   Rhodope-Haberlea
 
@@ -6038,7 +6275,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Helianthemum apenninum (L.) Miller 8)
+*    *   Helianthemum apenninum (L.) Miller
+        8)
 
     *   Apenninen-Sonnenröschen
 
@@ -6054,7 +6292,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Helianthemum canum (L.) Baumg. 8)
+*    *   Helianthemum canum (L.) Baumg.
+        8)
 
     *   Graufilziges Sonnenröschen
 
@@ -6062,7 +6301,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Helichrysum arenarium (L.) Moench 8)
+*    *   Helichrysum arenarium (L.) Moench
+        8)
 
     *   Sand-Strohblume
 
@@ -6070,7 +6310,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Helleborus spp. L. 8)
+*    *   Helleborus spp. L.
+        8)
 
     *   Nieswurze, Christrosen
 
@@ -6086,7 +6327,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Hepatica nobilis Schreber 8)
+*    *   Hepatica nobilis Schreber
+        8)
 
     *   Leberblümchen
 
@@ -6094,7 +6336,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Horminium pyrenaicum L. 8)
+*    *   Horminium pyrenaicum L.
+        8)
 
     *   Pyrenäen-Drachenmaul
 
@@ -6102,7 +6345,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Hottonia palustris L. 8)
+*    *   Hottonia palustris L.
+        8)
 
     *   Wasserfeder, Wasserprimel
 
@@ -6119,7 +6363,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Hypericum elodes L. 8)
+*    *   Hypericum elodes L.
+        8)
 
     *   Sumpf-Johanniskraut
 
@@ -6127,7 +6372,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Ilex aquifolium L. 8)
+*    *   Ilex aquifolium L.
+        8)
 
     *   Stechpalme
 
@@ -6135,7 +6381,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Inula germanica L. 8)
+*    *   Inula germanica L.
+        8)
 
     *   Deutscher Alant
 
@@ -6152,7 +6399,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Iris spp. 3) 8)
+*    *   Iris spp.
+        3)
+        8)
 
     *   Schwertlilien
 
@@ -6168,7 +6417,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Iris spuria L. 8)
+*    *   Iris spuria L.
+        8)
 
     *   Wiesen-Schwertlilie
 
@@ -6177,7 +6427,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Iris variegata L. 8)
+*    *   Iris variegata L.
+        8)
 
     *   Bunte Schwertlilie
 
@@ -6194,7 +6445,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Jovibarba spp. 8)
+*    *   Jovibarba spp.
+        8)
 
     *   Fransenhauswurze
 
@@ -6210,7 +6462,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Juncus stygius L. 8)
+*    *   Juncus stygius L.
+        8)
 
     *   Moor-Binse
 
@@ -6219,7 +6472,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Juniperus cedrus Webb & Berthel. 8)
+*    *   Juniperus cedrus Webb & Berthel.
+        8)
 
     *   Zedern-Wacholder
 
@@ -6228,7 +6482,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Laser trilobum (L.) Borkh. 8)
+*    *   Laser trilobum (L.) Borkh.
+        8)
 
     *   Rosskümmel
 
@@ -6244,7 +6499,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lathyrus maritimus Bigelow 8)
+*    *   Lathyrus maritimus Bigelow
+        8)
 
     *   Strand-Platterbse
 
@@ -6252,7 +6508,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lathyrus palustris L. 8)
+*    *   Lathyrus palustris L.
+        8)
 
     *   Sumpf-Platterbse
 
@@ -6260,7 +6517,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lathyrus pannonicus (Jacq.) Garcke 8)
+*    *   Lathyrus pannonicus (Jacq.) Garcke
+        8)
 
     *   Ungarische Platterbse
 
@@ -6268,7 +6526,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Ledum palustre L. 8)
+*    *   Ledum palustre L.
+        8)
 
     *   Sumpf-Porst
 
@@ -6276,7 +6535,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Leontopodium alpinum Cass. 8)
+*    *   Leontopodium alpinum Cass.
+        8)
 
     *   Alpen-Edelweiß
 
@@ -6284,7 +6544,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Leucojum spp. 3) 8)
+*    *   Leucojum spp.
+        3)
+        8)
 
     *   Knotenblumen, Märzenbecher
 
@@ -6300,7 +6562,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Lilium spp. 8)
+*    *   Lilium spp.
+        8)
 
     *   Lilien
 
@@ -6334,7 +6597,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Limonium spp. 3) 8)
+*    *   Limonium spp.
+        3)
+        8)
 
     *   Strandflieder
 
@@ -6350,7 +6615,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Linnaea borealis L. 8)
+*    *   Linnaea borealis L.
+        8)
 
     *   Moosglöckchen
 
@@ -6358,7 +6624,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Linum flavum L. 8)
+*    *   Linum flavum L.
+        8)
 
     *   Gelber Lein
 
@@ -6367,7 +6634,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Linum perenne L. 8)
+*    *   Linum perenne L.
+        8)
 
     *   Ausdauernder Lein
 
@@ -6376,7 +6644,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Linum spp. 3) 8)
+*    *   Linum spp.
+        3)
+        8)
+        excl.
+        Linum catharticum L.
 
     *   Lein
 
@@ -6384,9 +6656,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   excl. Linum catharticum L.
-
-    *   -
+*    *   -
 
     *   alle europäischen Arten, soweit nicht im Einzelnen aufgeführt
         mit Ausnahme von Purgier-Lein
@@ -6402,7 +6672,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lobelia dortmanna L. 8)
+*    *   Lobelia dortmanna L.
+        8)
 
     *   Wasser-Lobelie
 
@@ -6419,7 +6690,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lunaria rediviva L. 8)
+*    *   Lunaria rediviva L.
+        8)
 
     *   Ausdauerndes Silberblatt
 
@@ -6443,7 +6715,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Matteuccia struthiopteris (L.) Todaro 8)
+*    *   Matteuccia struthiopteris (L.) Todaro
+        8)
 
     *   Straußenfarn
 
@@ -6451,7 +6724,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Melittis melissophyllum L. 8)
+*    *   Melittis melissophyllum L.
+        8)
 
     *   Immenblatt
 
@@ -6459,7 +6733,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Menyanthes trifoliata L. 8)
+*    *   Menyanthes trifoliata L.
+        8)
 
     *   Fieberklee
 
@@ -6467,7 +6742,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Muscari spp. 3) 8)
+*    *   Muscari spp.
+        3)
+        8)
 
     *   Traubenhyazinthen
 
@@ -6483,7 +6760,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Narcissus spp. 3) 8)
+*    *   Narcissus spp.
+        3)
+        8)
 
     *   Narzissen
 
@@ -6499,7 +6778,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Narthecium ossifragum (L.) Huds. 8)
+*    *   Narthecium ossifragum (L.) Huds.
+        8)
 
     *   Beinbrech, Ährenlilie
 
@@ -6507,7 +6787,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Nuphar lutea (L.) Sm. 8)
+*    *   Nuphar lutea (L.) Sm.
+        8)
 
     *   Gelbe Teichrose
 
@@ -6515,7 +6796,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Nuphar pumila (Timm) DC. 8)
+*    *   Nuphar pumila (Timm) DC.
+        8)
 
     *   Kleine Teichrose
 
@@ -6524,7 +6806,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Nymphaea alba L. 8)
+*    *   Nymphaea alba L.
+        8)
 
     *   Weiße Seerose
 
@@ -6532,7 +6815,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Nymphaea candida K. Presl 8)
+*    *   Nymphaea candida K. Presl
+        8)
 
     *   Kleine Seerose
 
@@ -6540,7 +6824,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Nymphoides peltata (S. G. Gmel.) O. Kuntze 8)
+*    *   Nymphoides peltata (S. G. Gmel.) O. Kuntze
+        8)
 
     *   Seekanne
 
@@ -6556,7 +6841,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Onosma arenaria Waldstein & Kitaibel 8)
+*    *   Onosma arenaria Waldstein & Kitaibel
+        8)
 
     *   Sand-Lotwurz
 
@@ -6574,7 +6860,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Onosma spp. 3) 8)
+*    *   Onosma spp.
+        3)
+        8)
 
     *   Lotwurze
 
@@ -6590,7 +6878,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Osmunda regalis L. 8)
+*    *   Osmunda regalis L.
+        8)
 
     *   Königsfarn
 
@@ -6606,7 +6895,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Papaver alpinum L. 8)
+*    *   Papaver alpinum L.
+        8)
 
     *   Alpen-Mohn
 
@@ -6614,7 +6904,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Papaver lapponicum (Tolm.) Nordh. 8)
+*    *   Papaver lapponicum (Tolm.) Nordh.
+        8)
 
     *   Lappland-Mohn
 
@@ -6622,7 +6913,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Parnassia palustris L. 8)
+*    *   Parnassia palustris L.
+        8)
 
     *   Sumpf-Herzblatt
 
@@ -6639,7 +6931,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Pedicularis spp. 3) 8)
+*    *   Pedicularis spp.
+        3)
+        8)
 
     *   Läusekräuter
 
@@ -6655,7 +6949,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Petrocallis pyrenaica (L.) R. Br. 8)
+*    *   Petrocallis pyrenaica (L.) R. Br.
+        8)
 
     *   Pyrenäen-Steinschmückel
 
@@ -6663,7 +6958,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pinguicula alpina L. 8)
+*    *   Pinguicula alpina L.
+        8)
 
     *   Alpen-Fettkraut
 
@@ -6671,7 +6967,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pinguicula vulgaris L. 8)
+*    *   Pinguicula vulgaris L.
+        8)
 
     *   Gewöhnliches Fettkraut
 
@@ -6679,7 +6976,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Polemonium caeruleum L. 8)
+*    *   Polemonium caeruleum L.
+        8)
 
     *   Blaue Himmelsleiter
 
@@ -6687,7 +6985,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Polystichum spp. 8)
+*    *   Polystichum spp.
+        8)
 
     *   Schildfarne
 
@@ -6703,7 +7002,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Primula spp. 3) 8)
+*    *   Primula spp.
+        3)
+        8)
 
     *   Primeln, Schlüsselblumen
 
@@ -6719,7 +7020,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Pulmonaria angustifolia L. 8)
+*    *   Pulmonaria angustifolia L.
+        8)
 
     *   Schmalblättriges Lungenkraut
 
@@ -6727,7 +7029,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pulmonaria mollis Wulfen ex Hornem. 8)
+*    *   Pulmonaria mollis Wulfen ex Hornem.
+        8)
 
     *   Weiches Lungenkraut
 
@@ -6735,7 +7038,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pulmonaria montana Lejeune 8)
+*    *   Pulmonaria montana Lejeune
+        8)
 
     *   Berg-Lungenkraut
 
@@ -6743,7 +7047,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Pulsatilla alba Reichenb. 8)
+*    *   Pulsatilla alba Reichenb.
+        8)
 
     *   Kleinblütige Küchenschelle
 
@@ -6752,7 +7057,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Pulsatilla spp. 3) 8)
+*    *   Pulsatilla spp.
+        3)
+        8)
 
     *   Küchenschellen
 
@@ -6768,7 +7075,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Pulsatilla vernalis (L.) Miller 8)
+*    *   Pulsatilla vernalis (L.) Miller
+        8)
 
     *   Frühlings-Küchenschelle
 
@@ -6777,7 +7085,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Ranunculus lingua L. 8)
+*    *   Ranunculus lingua L.
+        8)
 
     *   Zungen-Hahnenfuß
 
@@ -6785,7 +7094,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Rhazya orientalis (Decne) A. DC. 8)
+*    *   Rhazya orientalis (Decne) A. DC.
+        8)
 
     *   Orientalische Rhazye
 
@@ -6793,7 +7103,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Rheum rhaponticum L. 8)
+*    *   Rheum rhaponticum L.
+        8)
 
     *   Pontischer Rhabarber
 
@@ -6801,7 +7112,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Rubus chamaemorus L. 7) 8)
+*    *   Rubus chamaemorus L.
+        7)
+        8)
 
     *   Moltebeere
 
@@ -6810,7 +7123,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Salvinia natans (L.) All. 8)
+*    *   Salvinia natans (L.) All.
+        8)
 
     *   Schwimmfarn
 
@@ -6818,7 +7132,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Saxifraga spp. 3) 8)
+*    *   Saxifraga spp.
+        3)
+        8)
+        excl.
+        Saxifraga tridactylites L.
 
     *   Steinbrech
 
@@ -6826,9 +7144,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   excl. Saxifraga tridactylites L.
-
-    *   -
+*    *   -
 
     *   alle europäischen Arten,
         mit Ausnahme von Finger-Steinbrech
@@ -6845,7 +7161,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Scilla spp. 3) 8) (incl. Hyacinthoides spp.)
+*    *   Scilla spp.
+        3)
+        8) (incl. Hyacinthoides spp.)
 
     *   Blausterne (einschl. Hasenglöckchen)
 
@@ -6860,7 +7178,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Scorzonera austriaca Willd. 8)
+*    *   Scorzonera austriaca Willd.
+        8)
 
     *   Österreichische Schwarzwurzel
 
@@ -6869,7 +7188,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Scorzonera hispanica L. 8)
+*    *   Scorzonera hispanica L.
+        8)
 
     *   Spanische Schwarzwurzel
 
@@ -6877,7 +7197,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Scorzonera humilis L. 8)
+*    *   Scorzonera humilis L.
+        8)
 
     *   Niedrige Schwarzwurzel
 
@@ -6885,7 +7206,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Scorzonera purpurea L. 8)
+*    *   Scorzonera purpurea L.
+        8)
 
     *   Violette Schwarzwurzel
 
@@ -6894,7 +7216,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Sempervivum spp. 8)
+*    *   Sempervivum spp.
+        8)
 
     *   Hauswurze
 
@@ -6910,7 +7233,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Senecio incanus ssp. carniolicus Willd. 8)
+*    *   Senecio incanus ssp. carniolicus Willd.
+        8)
 
     *   Krainers Greiskraut
 
@@ -6918,7 +7242,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Soldanella spp. 8)
+*    *   Soldanella spp.
+        8)
 
     *   Alpenglöckchen, Troddelblumen
 
@@ -6943,7 +7268,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Stipa spp. 3) 8)
+*    *   Stipa spp.
+        3)
+        8)
 
     *   Federgräser, Pfriemengras
 
@@ -6959,7 +7286,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Stratiotes aloides L. 8)
+*    *   Stratiotes aloides L.
+        8)
 
     *   Krebsschere
 
@@ -6967,7 +7295,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Swertia perennis L. 8)
+*    *   Swertia perennis L.
+        8)
 
     *   Blauer Sumpfstern
 
@@ -6975,7 +7304,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Taxus baccata L. 8)
+*    *   Taxus baccata L.
+        8)
 
     *   Eibe
 
@@ -6983,7 +7313,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Trapa natans L. 8)
+*    *   Trapa natans L.
+        8)
 
     *   Wassernuss
 
@@ -6991,7 +7322,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Trollius europaeus L. 8)
+*    *   Trollius europaeus L.
+        8)
 
     *   Trollblume
 
@@ -6999,7 +7331,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Tulipa spp. 3) 8)
+*    *   Tulipa spp.
+        3)
+        8)
 
     *   Tulpen
 
@@ -7024,7 +7358,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Utricularia ochroleuca Hartm. 8)
+*    *   Utricularia ochroleuca Hartm.
+        8)
 
     *   Ockergelber Wasserschlauch
 
@@ -7032,7 +7367,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Veronica longifolia L. 8)
+*    *   Veronica longifolia L.
+        8)
 
     *   Langblättriger Ehrenpreis
 
@@ -7040,7 +7376,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Veronica spicata L. 8)
+*    *   Veronica spicata L.
+        8)
 
     *   Ähriger Ehrenpreis
 
@@ -7048,7 +7385,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Viola calcarata L. 8)
+*    *   Viola calcarata L.
+        8)
 
     *   Gesporntes Veilchen
 
@@ -7072,7 +7410,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Vitis vinifera L. ssp. sylvestris (C. C. Gmelin) Hegi 8)
+*    *   Vitis vinifera L. ssp. sylvestris (C. C. Gmelin) Hegi
+        8)
 
     *   Wilde Weinrebe
 
@@ -7081,7 +7420,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   +
 
 
-*    *   Wahlenbergia hederacea (L.) Rchb. 8)
+*    *   Wahlenbergia hederacea (L.) Rchb.
+        8)
 
     *   Efeu-Moorglöckchen
 
@@ -7089,7 +7429,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Woodsia spp. 8)
+*    *   Woodsia spp.
+        8)
 
     *   Wimperfarne
 
@@ -7112,7 +7453,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Hylocomium spp. 8)
+*    *   Hylocomium spp.
+        8)
 
     *   Hainmoose
 
@@ -7125,7 +7467,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten
 
 
-*    *   Leucobryum spp. 8)
+*    *   Leucobryum spp.
+        8)
 
     *   Weißmoose
 
@@ -7138,7 +7481,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten
 
 
-*    *   Sphagnum spp. 8)
+*    *   Sphagnum spp.
+        8)
 
     *   Torfmoose
 
@@ -7184,7 +7528,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   alle heimischen Arten
 
 
-*    *   Cladina spp. (Cladonia sect. Cladina) 8)
+*    *   Cladina spp. (Cladonia sect. Cladina)
+        8)
 
     *   Rentierflechten
 
@@ -7252,7 +7597,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Albatrellus spp. 7) 8)
+*    *   Albatrellus spp.
+        7)
+        8)
 
     *   Schaf-Porling, Semmel-Porlinge
 
@@ -7268,7 +7615,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Amanita caesarea (Scop. ex Fr.) Pers. ex Schw. 7) 8)
+*    *   Amanita caesarea (Scop. ex Fr.) Pers. ex Schw.
+        7)
+        8)
 
     *   Kaiserling
 
@@ -7276,7 +7625,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus aereus Bull. ex Fr. 7) 8)
+*    *   Boletus aereus Bull. ex Fr.
+        7)
+        8)
 
     *   Weißer Bronze-Röhrling
 
@@ -7284,7 +7635,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus appendiculatus Schff. ex Fr. 7) 8)
+*    *   Boletus appendiculatus Schff. ex Fr.
+        7)
+        8)
 
     *   Gelber Bronze-Röhrling
 
@@ -7292,7 +7645,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus edulis Bull. ex Fr. 7) 8)
+*    *   Boletus edulis Bull. ex Fr.
+        7)
+        8)
 
     *   Steinpilz
 
@@ -7300,7 +7655,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus fechtneri Vel. 7) 8)
+*    *   Boletus fechtneri Vel.
+        7)
+        8)
 
     *   Sommer-Röhrling
 
@@ -7308,7 +7665,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus regius Krbh. 7) 8)
+*    *   Boletus regius Krbh.
+        7)
+        8)
 
     *   Echter Königs-Röhrling
 
@@ -7316,7 +7675,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Boletus speciosus Frost 7) 8)
+*    *   Boletus speciosus Frost
+        7)
+        8)
 
     *   Blauender Königs-Röhrling
 
@@ -7324,7 +7685,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Cantharellus spp. 7) 8)
+*    *   Cantharellus spp.
+        7)
+        8)
 
     *   Pfifferlinge
 
@@ -7340,7 +7703,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Gomphus clavatus (Pers. ex Fr.) S. F. Gray 7) 8)
+*    *   Gomphus clavatus (Pers. ex Fr.) S. F. Gray
+        7)
+        8)
 
     *   Schweinsohr
 
@@ -7348,7 +7713,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Gyrodon lividus (Bull. ex Fr.) Sacc. 7) 8)
+*    *   Gyrodon lividus (Bull. ex Fr.) Sacc.
+        7)
+        8)
 
     *   Erlen-Grübling
 
@@ -7356,7 +7723,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Hygrocybe spp. 7) 8)
+*    *   Hygrocybe spp.
+        7)
+        8)
 
     *   Saftlinge
 
@@ -7372,7 +7741,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Hygrophorus marzuolus (Fr.) Bres. 7) 8)
+*    *   Hygrophorus marzuolus (Fr.) Bres.
+        7)
+        8)
 
     *   März-Schneckling
 
@@ -7380,7 +7751,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Lactarius volemus Fr. 7) 8)
+*    *   Lactarius volemus Fr.
+        7)
+        8)
 
     *   Brätling
 
@@ -7388,7 +7761,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Leccinum spp. 7) 8)
+*    *   Leccinum spp.
+        7)
+        8)
 
     *   Birkenpilze und Rotkappen
 
@@ -7404,7 +7779,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Morchella spp. 7) 8)
+*    *   Morchella spp.
+        7)
+        8)
 
     *   Morcheln
 
@@ -7420,7 +7797,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. 7) 8)
+*    *   Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf.
+        7)
+        8)
 
     *   Grünling
 
@@ -7428,7 +7807,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Tuber spp. 7) 8)
+*    *   Tuber spp.
+        7)
+        8)
 
     *   Trüffel
 
@@ -7445,6 +7826,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 
+   _\_\__\_\__\_\__\_\_\_\_
 
 1)  Nur europäische wild lebende Populationen.
 

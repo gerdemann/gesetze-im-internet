@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 17 G v. 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -1047,7 +1047,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
-[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003919311)
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003927311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1129,7 +1129,7 @@ Abschnitt I
             – mit grenzpolizeilichen
             Aufgaben betraute Behörden
             – in der Rechtsverord-
-            nung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundes-
+            nung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundes-
             polizeibehörde
             – Bundesamt für Migra-
             tion und Flüchtlinge
@@ -1507,7 +1507,7 @@ Abschnitt I
             – mit grenzpolizeilichen
             Aufgaben betraute Behörden
             – in der Rechtsverord-
-            nung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte
+            nung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte
             Bundespolizeibehörde
             – Bundesamt für Migra-
             tion und Flüchtlinge
@@ -2297,7 +2297,7 @@ Abschnitt I
                 Buchstabe a, b, d, h und i
 
 
-            –   in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+            –   in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
                 bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a, b, d, h und i
 
 
@@ -2519,7 +2519,7 @@ Abschnitt I
 
     *   frühere
 
-        aa)[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003919311]
+        aa)[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003927311]
  Namen
 
 
@@ -2735,7 +2735,7 @@ Abschnitt I
         Vorschriften betraute öffentliche Stellen
         – Aufnahmeeinrichtungen
         – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
         – Bundesamt für Migration und Flüchtlinge
         – Bundeskriminalamt
@@ -6055,7 +6055,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003919311]
+    *[^F829919_01_BJNR069500995BJNE003927311]
    (1)
 
     *
@@ -12572,7 +12572,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         Doppelbuchstabe bb und Buchstabe c und e
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
         Buchstabe b
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
         – Abschiebungshafteinrichtungen zu Spalte A Buchstabe g
 
@@ -12936,7 +12936,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         f
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
         Buchstabe a
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a
 
     *
@@ -14523,7 +14523,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe e und
         f
         – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
 
     *   Die Daten zu Spalte A Buchstabe c und d jeweils Doppelbuchstabe cc und
@@ -14756,7 +14756,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
         b
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A
         Buchstabe a und b
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a und b
 
     *   – Ausländerbehörden
@@ -14856,7 +14856,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
     *   – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
 
     *   – Ausländerbehörden
@@ -14987,7 +14987,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
             – mit grenzpolizeilichen
             Aufgaben betraute Behörden
             – in der Rechtsverord-
-            nung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte
+            nung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte
             Bundespolizeibehörde
             – Bundesamt für Migra-
             tion und Flüchtlinge zu Spalte A Buchstabe b
@@ -15176,7 +15176,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
 
     *
     *   – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
         – ermittlungsführende Polizeibehörde
         – Verfassungsschutzbehörden des Bundes und der Länder
@@ -15319,7 +15319,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   (5)
 
     *   – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
         – ermittlungsführende Polizeibehörde
         – Verfassungsschutzbehörden des Bundes und der Länder
@@ -16141,7 +16141,7 @@ melden, wenn die Einreise im Register noch nicht erfasst ist.
     *   (5)
 
     *   – mit grenzpolizeilichen Aufgaben betraute Behörden
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes
+        – in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
         bestimmte Bundespolizeibehörde
 
     *   – Ausländerbehörden
@@ -16498,7 +16498,7 @@ Abschnitt II
 
     *   Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als
         Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die
-        Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des
+        Ausländerbehörden, die in der Rechtsverordnung nach § 93 Absatz 1 des
         Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit
         der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
         beauftragte Behörden, die deutschen Auslandsvertretungen, das
@@ -16509,7 +16509,7 @@ Abschnitt II
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des
         Asylgesetzes
-        – in der Rechtsverordnung nach § 58 Abs. 1 des
+        – in der Rechtsverordnung nach § 93 Absatz 1 des
         Bundespolizeigesetzes bestimmte Bundespolizeibehörde
         – andere mit der polizeilichen Kontrolle des
         grenzüberschreitenden Verkehrs betraute Behörden
@@ -17194,8 +17194,8 @@ Abschnitt II
     *
 
 
-[^f756180_08_BJNR069500995BJNE003919311]
-[^f756180_09_BJNR069500995BJNE003919311]
+[^f756180_08_BJNR069500995BJNE003927311]
+[^f756180_09_BJNR069500995BJNE003927311]
 
 
 *    *   A
@@ -17377,7 +17377,7 @@ Abschnitt III
 
 
         –   in der Rechtsverordnung
-            nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte
+            nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte
             Bundespolizeibehörde
 
 
@@ -17536,8 +17536,8 @@ Abschnitt III
 
     Dieses Datum wird nicht erhoben, sondern entsteht im Register, wenn
     eine Änderung des Namens bzw. der Geschlechtsangabe gemeldet wird.
-[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003919311]:     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003919311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003919311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
+[^BJNR069500995BJNE003908311_1_BJNR069500995BJNE003927311]:     Bei Antrag auf Erteilung eines Visums.
+[^f756180_08_BJNR069500995BJNE003927311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003927311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu
     melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F829919_01_BJNR069500995BJNE003919311]: 
+[^F829919_01_BJNR069500995BJNE003927311]: 

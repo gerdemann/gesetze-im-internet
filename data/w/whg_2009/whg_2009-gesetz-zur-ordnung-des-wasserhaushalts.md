@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.7.2026 I Nr. 224
-
-Änderung durch
-:   Art. 2 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 13.10.2026 I Nr. 304
 
 [^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der –Richtlinie 80/68/EWG des Rates
     vom 17. Dezember 1979 über den Schutz des Grundwassers gegen
