@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 9
 
+Geändert durch
+:   Art. 1 V v. 3.11.2026 I Nr. 329
+
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000100000)
