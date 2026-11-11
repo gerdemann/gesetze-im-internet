@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.11.2025 I Nr. 267
-
-Änderung durch
-:   Art. 1 V v. 9.11.2026 I Nr. 334 mWv 10.11.2026 noch nicht berücksichtigt
+:   Art. 1 V v. 9.11.2026 I Nr. 334
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
@@ -473,7 +470,7 @@ Absätzen 2 bis 4 treffen.
 
 
 ## § 6 Festlegung der Pflegepersonaluntergrenzen
-[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000704126)
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000705126)
 
 (1) Für die folgenden pflegesensitiven Bereiche in Krankenhäusern
 werden die folgenden Pflegepersonaluntergrenzen schichtbezogen als
@@ -901,8 +898,9 @@ einzuhalten, so gilt schichtbezogen die Pflegepersonaluntergrenze mit
 der niedrigsten Anzahl von Patientinnen und Patienten im Verhältnis zu
 einer Pflegekraft mit dem zugehörigen Grenzwert für den Anteil von
 Pflegehilfskräften. Abweichend von Satz 1 sind die
-Pflegepersonaluntergrenzen nach Absatz 1 Nummer 1 und 2 neben den
-Pflegepersonaluntergrenzen nach Absatz 1 Nummer 3 bis 15 anzuwenden.
+Pflegepersonaluntergrenzen nach Absatz 1 Nummer 2 neben den
+Pflegepersonaluntergrenzen nach Absatz 1 Nummer 3, 5 bis 10 und 12 bis
+18 anzuwenden.
 
 (5) Die Krankenhäuser ermitteln anhand monatlicher Durchschnittswerte,
 ob die Pflegepersonaluntergrenzen eingehalten werden.
@@ -978,17 +976,17 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ## Anlage Indikatoren-DRGs
-[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE001105126)
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE001106126)
 
-(Fundstelle: BGBl. 2025 I Nr. 267, S. 2 - 44)
+(Fundstelle: BGBl. 2026 I Nr. 334, S. 3 - 47)
 
 Folgende DRGs des ausgegliederten German Diagnosis Related Groups
-Fallpauschalen-Katalogs 2025, der auf der Internetseite des Instituts
+Fallpauschalen-Katalogs 2026, der auf der Internetseite des Instituts
 für das Entgeltsystem im Krankenhaus veröffentlicht ist, gelten als
 Indikatoren für das Vorhandensein eines pflegesensitiven Bereichs in
 Krankenhäusern:
 
-*    *   DRG 2025
+*    *   DRG 2026
 
     *   DRG-Bezeichnung
 
@@ -1180,6 +1178,21 @@ Krankenhäusern:
         Belegungstag
 
 
+*    *   F59N
+
+    *   Hybrid-DRG der DRG F59D
+
+
+*    *   F59O
+
+    *   Hybrid-DRG der DRG F59E
+
+
+*    *   F59P
+
+    *   Hybrid-DRG der DRG F59F
+
+
 *    *   G01Z
 
     *   Eviszeration des kleinen Beckens
@@ -1268,9 +1281,19 @@ Krankenhäusern:
         schwere CC
 
 
+*    *   G08M
+
+    *   Hybrid-DRG der DRG G08B
+
+
+*    *   G09M
+
+    *   Hybrid-DRG 1 der DRG G09Z
+
+
 *    *   G09N
 
-    *   Hybrid-DRG der DRG G09Z
+    *   Hybrid-DRG 2 der DRG G09Z
 
 
 *    *   G09Z
@@ -1432,9 +1455,9 @@ Krankenhäusern:
 
 *    *   G21A
 
-    *   Komplexe Adhäsiolyse am Peritoneum, Alter* 3 J., ohne äußerst schw.
+    *   Best. kompl. Adhäsiolyse am Peritoneum, Alter* 3 J., ohne äuß. schw.
         oder schw. CC od. andere Eingriffe an Darm u. Enterostoma od. best.
-        Eingriffe am Pharynx od. Verschluss Darmfistel m. äußerst schw. CC od.
+        Eingriffe am Pharynx od. Verschluss Darmfistel m. äuß. schw. CC od.
         aufw. Eingriff am Darm oder Alter < 16 Jahre
 
 
@@ -1470,18 +1493,23 @@ Krankenhäusern:
 
 *    *   G23A
 
-    *   Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis
-        oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder
-        schwere CC, Alter < 10 Jahre oder bei bösartiger Neubildung oder
-        Endometriose am Darm
+    *   Appendektomie oder andere komplexe oder laparoskopische Adhäsiolyse
+        außer bei Peritonitis oder Exzision erkranktes Gewebe Dickdarm ohne
+        äußerst schwere oder schwere CC, Alter < 10 Jahre oder bei bösartiger
+        Neubildung oder Endometriose am Darm
 
 
 *    *   G23B
 
-    *   Appendektomie oder laparoskopische Adhäsiolyse außer bei Peritonitis
-        oder Exzision erkranktes Gewebe Dickdarm ohne äußerst schwere oder
-        schwere CC, Alter* 9 Jahre, außer bei bösartiger Neubildung oder
-        Endometriose am Darm
+    *   Appendektomie oder andere komplexe oder laparoskopische Adhäsiolyse
+        außer bei Peritonitis oder Exzision erkranktes Gewebe Dickdarm ohne
+        äußerst schwere oder schwere CC, Alter* 9 Jahre, außer bei bösartiger
+        Neubildung oder Endometriose am Darm
+
+
+*    *   G23M
+
+    *   Hybrid-DRG der DRG G23B
 
 
 *    *   G24A
@@ -1501,17 +1529,43 @@ Krankenhäusern:
 
     *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand,
         ohne beidseitigen Eingriff, ohne komplexen Eingriff, Alter* 13 Jahre
-        oder ohne äußerst schwere oder schwere CC
+        und Alter < 18 Jahre oder ohne äußerst schwere oder schwere CC
+
+
+*    *   G24D
+
+    *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand,
+        ohne beidseitigen Eingriff, ohne komplexen Eingriff, Alter* 17 Jahre
 
 
 *    *   G24M
 
-    *   Hybrid-DRG der DRG G24C
+    *   Hybrid-DRG der DRG G24A
 
 
 *    *   G24N
 
-    *   Hybrid-DRG der DRG G24B
+    *   Hybrid-DRG 1 der DRG G24B
+
+
+*    *   G24O
+
+    *   Hybrid-DRG 2 der DRG G24B
+
+
+*    *   G24P
+
+    *   Hybrid-DRG 1 der DRG G24D
+
+
+*    *   G24Q
+
+    *   Hybrid-DRG 2 der DRG G24D
+
+
+*    *   G24R
+
+    *   Hybrid-DRG 3 der DRG G24D
 
 
 *    *   G26A
@@ -1530,12 +1584,12 @@ Krankenhäusern:
 
 *    *   G26M
 
-    *   Hybrid-DRG der DRG G26B
+    *   Hybrid-DRG der DRG G26A
 
 
 *    *   G26N
 
-    *   Hybrid-DRG der DRG G26A
+    *   Hybrid-DRG der DRG G26B
 
 
 *    *   G33Z
@@ -1599,7 +1653,7 @@ Krankenhäusern:
     *   Eingriffe an Pankreas und Leber und portosystemische Shuntoperationen
         mit großem Eingriff oder Strahlentherapie oder komplexer Eingriff an
         Gallenblase und Gallenwegen, Alter < 14 J., ohne kompl. Eingriff, ohne
-        intensivmed. Komplexbeh. > 392 / 368 / - P.
+        intensivmed. Komplexbeh.* 392 / 368 / - P.
 
 
 *    *   H02A
@@ -1659,6 +1713,11 @@ Krankenhäusern:
 
     *   Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und
         Bauchwand, Alter* 11 Jahre
+
+
+*    *   H08M
+
+    *   Hybrid-DRG der DRG H08C
 
 
 *    *   H09A
@@ -1727,12 +1786,15 @@ Krankenhäusern:
 *    *   I07A
 
     *   Amputation bei Krankheiten und Störungen an Muskel-Skelett-System und
-        Bindegewebe
+        Bindegewebe mit komplexer Amputation oder bei bestimmter bösartigen
+        Neubildung oder Alter < 18 Jahre
 
 
 *    *   I07B
 
-    *   Bestimmte Amputation am Fuß
+    *   Bestimmte Amputation bei Krankheiten und Störungen an Muskel-Skelett-
+        System und Bindegewebe ohne komplexe Amputation, außer bei bestimmter
+        bösartigen Neubildung, Alter* 17 Jahre
 
 
 *    *   I14Z
@@ -1751,6 +1813,11 @@ Krankenhäusern:
     *   Eingriffe am Fuß ohne bestimmte komplizierende Faktoren, mit
         Knochentransplantation oder schwerem Weichteilschaden oder bestimmtem
         Eingriff am Fuß oder Kalkaneusfraktur
+
+
+*    *   I20M
+
+    *   Hybrid-DRG der DRG I20D
 
 
 *    *   I24B
@@ -1821,7 +1888,7 @@ Krankenhäusern:
     *   Eingriffe bei Sinus pilonidalis und perianal, Alter* 15 Jahre
 
 
-*    *   J09N
+*    *   J09M
 
     *   Hybrid-DRG der DRG J09B
 
@@ -1869,10 +1936,9 @@ Krankenhäusern:
 *    *   K06B
 
     *   Eingriffe an Schilddrüse, Nebenschilddrüse und Ductus thyreoglossus
-        ohne IntK* 392 /
-        368 / - Punkte, bei BNB oder mit äuß. schw. oder schw. CC oder Eingr.
-        an der Schilddrüse außer kl. Eingr., mit Thyreoidektomie durch
-        Sternotomie oder Alter < 16 Jahre
+        ohne IntK* 392 / 368 / - Punkte, bei BNB oder mit äuß. schw. oder
+        schw. CC oder Eingr. an der Schilddrüse außer kl. Eingr., mit
+        Thyreoidektomie durch Sternotomie oder Alter < 16 Jahre
 
 
 *    *   K06C
@@ -2083,6 +2149,9 @@ Krankenhäusern:
         Krankheiten und Störungen
 
 
+*    *
+    *
+
 *    *   **Gynäkologie und Geburtshilfe**
 
 
@@ -2094,7 +2163,7 @@ Krankenhäusern:
 
 *    *   J07A
 
-    *   Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL*2 oder Impl.
+    *   Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL* 2 oder Impl.
         Hautexpander oder best. Eingr. an Ovar/Plexus brachialis oder
         Lymphknotenex. mit Hautransplantation oder Debridement, mit
         beidseitigem Eingr. oder best. Eingr. Ovar/Plexus brachialis
@@ -2102,7 +2171,7 @@ Krankenhäusern:
 
 *    *   J07B
 
-    *   Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL*2 oder Impl.
+    *   Best. Eingr. an der Mamma mit Lymphknotenex. oder PCCL* 2 oder Impl.
         Hautexpander oder best. Eingr. an Ovar/Plexus brachialis oder
         Lymphknotenex. mit Hautransplantation oder Debridement, ohne
         beidseitigen Eingr., ohne best. Eingr. Ovar/Plexus brachialis
@@ -2168,6 +2237,11 @@ Krankenhäusern:
 *    *   L06C
 
     *   Andere kleine Eingriffe an den Harnorganen, Alter* 15 Jahre
+
+
+*    *   L06M
+
+    *   Hybrid-DRG der DRG L06C
 
 
 *    *   N01A
@@ -2249,7 +2323,7 @@ Krankenhäusern:
         anderer Eingriff an der Harnblase oder Adhäsiolyse, Alter* 15 Jahre
 
 
-*    *   N05N
+*    *   N05M
 
     *   Hybrid-DRG der DRG N05B
 
@@ -2278,7 +2352,7 @@ Krankenhäusern:
         weiblichen Geschlechtsorganen, ohne bestimmten Eingriff
 
 
-*    *   N07N
+*    *   N07M
 
     *   Hybrid-DRG der DRG N07A
 
@@ -2363,13 +2437,28 @@ Krankenhäusern:
         komplexe Myomenukleation, ohne aufwendigen Eingriff
 
 
+*    *   N21M
+
+    *   Hybrid-DRG der DRG N21A
+
+
+*    *   N21N
+
+    *   Hybrid-DRG der DRG N21B
+
+
+*    *   N23M
+
+    *   Hybrid-DRG der DRG N23Z
+
+
 *    *   N23Z
 
     *   Andere rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen
         oder andere Myomenukleation
 
 
-*    *   N25N
+*    *   N25M
 
     *   Hybrid-DRG der DRG N25Z
 
@@ -2435,7 +2524,7 @@ Krankenhäusern:
 
     *   Sectio caesarea, Schwangerschaftsd. bis 25 vollend. W. (SSW), m. mehr.
         kompliz. Diag., m. intraut. Ther. od. kompliz. Konstell. od.
-        Mehrlingsschw. od. bis 33 SSW od. m. kompl. Diag., m. od. oh. kompliz.
+        Mehrlingsschw. od. bis 33 SSW od. m. kompl.Diag., m. od. oh. kompliz.
         Diag. m. best. Eingriff b. Sectio od. äuß. schw. CC
 
 
@@ -3399,6 +3488,16 @@ Krankenhäusern:
         Pulmonalart., ohne Impl. Pulsgen., Alter* 17 J.
 
 
+*    *   F01N
+
+    *   Hybrid-DRG der DRG F01E
+
+
+*    *   F01O
+
+    *   Hybrid-DRG der DRG F01F
+
+
 *    *   F12D
 
     *   Implantation eines Herzschrittmachers, Zweikammersystem, ohne
@@ -3449,22 +3548,20 @@ Krankenhäusern:
         Jahre, ohne äußerst schwere CC
 
 
+*    *   F24M
+
+    *   Hybrid-DRG der DRG F24B
+
+
 *    *   F37Z
 
     *   Längerer stationärer Aufenthalt vor Transplantation bei hoher
         Dringlichkeitsstufe bei Krankheiten und Störungen des Kreislaufsystems
 
 
-*    *   F41A
+*    *   F41Z
 
-    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt mit
-        äußerst schweren CC
-
-
-*    *   F41B
-
-    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt ohne
-        äußerst schwere CC
+    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt
 
 
 *    *   F43C
@@ -3480,21 +3577,20 @@ Krankenhäusern:
     *   Frührehabilitation bei Krankheiten und Störungen des Kreislaufsystems
 
 
-*    *   F49B
+*    *   F49A
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
-        mit äußerst schweren CC oder IntK* 196 / 184 / 368 Aufwandspunkten,
-        ohne komplexen Eingriff, Alter* 9 Jahre
+        mit äußerst schweren CC oder IntK* 196 / 184 / 368 Aufwandspunkten
 
 
-*    *   F49D
+*    *   F49C
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
         ohne äußerst schwere CC, ohne IntK* 196 / 184 / 368 Aufwandspunkte,
         Alter* 17 Jahre, mit schweren CC, mehr als ein Belegungstag
 
 
-*    *   F49E
+*    *   F49D
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
         ohne IntK* 196 / 184 / 368 Aufwandspunkte, Alter* 17 Jahre, ohne
@@ -3502,7 +3598,7 @@ Krankenhäusern:
         kardiologische Diagnostik oder best. komplexer Diagnose
 
 
-*    *   F49F
+*    *   F49E
 
     *   Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o.
         äußerst schwere CC, ohne IntK* 196 / 184 / 368 P., Alter* 17 J., o.
@@ -3510,12 +3606,42 @@ Krankenhäusern:
         1, o. best. kompl. Diagnose, mit best. Eingr.
 
 
-*    *   F49G
+*    *   F49F
 
     *   Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o.
         äußerst schwere CC, ohne IntK* 196 / 184 / 368 P., Alter* 17 J., o.
         kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT*
         1, o. best. kompl. Diagnose, ohne best. Eingr.
+
+
+*    *   F49M
+
+    *   Hybrid-DRG 1 der DRG F49D
+
+
+*    *   F49N
+
+    *   Hybrid-DRG 2 der DRG F49D
+
+
+*    *   F49O
+
+    *   Hybrid-DRG 1 der DRG F49E
+
+
+*    *   F49P
+
+    *   Hybrid-DRG 2 der DRG F49E
+
+
+*    *   F49Q
+
+    *   Hybrid-DRG 1 der DRG F49F
+
+
+*    *   F49R
+
+    *   Hybrid-DRG 2 der DRG F49F
 
 
 *    *   F52A
@@ -3531,6 +3657,11 @@ Krankenhäusern:
         Intervention
 
 
+*    *   F52M
+
+    *   Hybrid-DRG der DRG F52B
+
+
 *    *   F56A
 
     *   Perkutane Koronarangioplastie mit bestimmter hochkomplexer
@@ -3544,6 +3675,16 @@ Krankenhäusern:
         Kryoplastie oder koronare Lithoplastie
 
 
+*    *   F56M
+
+    *   Hybrid-DRG 1 der DRG F56B
+
+
+*    *   F56N
+
+    *   Hybrid-DRG 2 der DRG F56B
+
+
 *    *   F58A
 
     *   Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik
@@ -3554,6 +3695,16 @@ Krankenhäusern:
 
     *   Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik
         mit Gefäßeingriff, ohne äußerst schwere CC
+
+
+*    *   F58M
+
+    *   Hybrid-DRG 1 der DRG F58B
+
+
+*    *   F58N
+
+    *   Hybrid-DRG 2 der DRG F58B
 
 
 *    *   F60A
@@ -3593,7 +3744,7 @@ Krankenhäusern:
     *   Herzinsuff. und Schock mit äuß. schw. CC, mit Dialyse oder kompliz.
         Diag. od. mit best. hochaufw. Beh. od. ohne kompliz. Konst., ohne
         best. hochaufw. Beh., mehr als 1 BT bei best. akuten Nierenvers. mit
-        äuß. schw. CC od. Komplexbeh. des akut. Schlaganf.
+        äuß schw. CC od. Komplexbeh. des akut. Schlaganf.
 
 
 *    *   F62C
@@ -3699,13 +3850,7 @@ Krankenhäusern:
         als ein Belegungstag
 
 
-*    *   F77A
-
-    *   Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten
-        und Störungen des Kreislaufsystems, COVID-19, Virus nachgewiesen
-
-
-*    *   F77B
+*    *   F77Z
 
     *   Komplexbehandlung bei isolationspflichtigen Erregern bei Krankheiten
         und Störungen des Kreislaufsystems
@@ -3727,7 +3872,7 @@ Krankenhäusern:
 
     *   Komplexe therapeutische Gastroskopie bei schweren Krankheiten der
         Verdauungsorgane, mit äußerst schweren CC oder mit schweren CC oder
-        andere Gastroskopie bei schw. Krankh. der Verd.organe, mit äußerst
+        andere Gastroskopie bei schw. Krankh. der Verd. organe, mit äußerst
         schweren CC, Alter < 15 Jahre, mehr als ein BT
 
 
@@ -3758,14 +3903,13 @@ Krankenhäusern:
 *    *   G47A
 
     *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, mit
-        bestimmter endoskopischer Maßnahme am Dickdarm, ein Belegungstag
+        bestimmter endoskopischer Maßnahme, ein Belegungstag
 
 
 *    *   G47B
 
     *   Andere Gastroskopie oder bestimmte koloskopische Eingriffe, ohne
-        bestimmte endoskopische Maßnahme am Dickdarm oder mehr als ein
-        Belegungstag
+        bestimmte endoskopische Maßnahme oder mehr als ein Belegungstag
 
 
 *    *   G48A
@@ -3955,12 +4099,12 @@ Krankenhäusern:
 
 *    *   H41M
 
-    *   Hybrid-DRG der DRG H41F
+    *   Hybrid-DRG der DRG H41D
 
 
 *    *   H41N
 
-    *   Hybrid-DRG der DRG H41D
+    *   Hybrid-DRG der DRG H41F
 
 
 *    *   H60Z
@@ -3985,7 +4129,7 @@ Krankenhäusern:
 
 *    *   H61C
 
-    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter > 17
+    *   Bösartige Neubildung an hepatobiliärem System und Pankreas, Alter* 17
         Jahre
 
 
@@ -4139,12 +4283,6 @@ Krankenhäusern:
         Ernährungs- und Stoffwechselkrankheiten
 
 
-*    *   L36B
-
-    *   Intensivmedizinische Komplexbehandlung* - / - / 552 Aufwandspunkte bei
-        Krankheiten und Störungen der Harnorgane
-
-
 *    *   L60A
 
     *   Niereninsuffizienz, mehr als ein Belegungstag, mit
@@ -4195,7 +4333,7 @@ Krankenhäusern:
     *   Infektionen der Harnorgane oh. äuß. schwere CC, oh. best. mäßig
         aufwendige / aufwendige / hochaufw. Behandl., oh. Komplexbeh. b.
         isolationspfl. Erregern, oh. best. schw. Infektionen, Alter* 2 J. u. <
-        6 J. od. Alter < 18 J. mit schw. CC od. Alter > 89 J.
+        6 J. od. Alter < 18 J. mit schw. CC od. Alter* 89 J.
 
 
 *    *   L63E
@@ -4240,17 +4378,8 @@ Krankenhäusern:
 
 *    *   R60E
 
-    *   Akute myeloische Leukämie mit mäßig komplexer Chemoth., ohne
-        komplizierende Diagnose, ohne Dialyse, ohne Portimpl., ohne äußerst
-        schwere CC od. mit lokaler Chemoth. od. mit Komplexbeh. bei
-        multiresistenten Erregern od. mit kompl. Diagnostik bei Leukämie
-
-
-*    *   R60F
-
-    *   Akute myeloische Leukämie ohne Chemotherapie, ohne Dialyse, ohne
-        äußerst schwere CC, ohne Komplexbehandlung bei multiresistenten
-        Erregern, ohne komplexe Diagnostik bei Leukämie
+    *   Akute myeloische Leukämie ohne komplizierende Diagnose, ohne Dialyse,
+        ohne Portimplantation, ohne äußerst schwere CC
 
 
 *    *   R61D
@@ -4387,7 +4516,7 @@ Krankenhäusern:
 *    *   T60F
 
     *   Sepsis, verstorben < 5 Tage nach Aufnahme, ohne intensivmedizinische
-        Komplexbehandlung* 196 / 184 / - Aufwandspunkte
+        Komplexbehandlung* 196/ 184 / - Aufwandspunkte
 
 
 *    *   T60G
@@ -4551,6 +4680,21 @@ Krankenhäusern:
         Pulmonalart., ohne Impl. Pulsgen., Alter* 17 J.
 
 
+*    *   F01M
+
+    *   Hybrid-DRG der DRG F01C
+
+
+*    *   F01N
+
+    *   Hybrid-DRG der DRG F01E
+
+
+*    *   F01O
+
+    *   Hybrid-DRG der DRG F01F
+
+
 *    *   F02A
 
     *   Aggregatwechsel eines Kardioverters / Defibrillators (AICD), Zwei-
@@ -4561,6 +4705,16 @@ Krankenhäusern:
 
     *   Aggregatwechsel eines Kardioverters / Defibrillators (AICD),
         Einkammer-Stimulation
+
+
+*    *   F02M
+
+    *   Hybrid-DRG der DRG F02A
+
+
+*    *   F02N
+
+    *   Hybrid-DRG der DRG F02B
 
 
 *    *   F09B
@@ -4688,6 +4842,11 @@ Krankenhäusern:
         Rekanalisation von Koronargefäßen
 
 
+*    *   F19M
+
+    *   Hybrid-DRG der DRG F19B
+
+
 *    *   F24A
 
     *   Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer
@@ -4702,22 +4861,20 @@ Krankenhäusern:
         Jahre, ohne äußerst schwere CC
 
 
+*    *   F24M
+
+    *   Hybrid-DRG der DRG F24B
+
+
 *    *   F37Z
 
     *   Längerer stationärer Aufenthalt vor Transplantation bei hoher
         Dringlichkeitsstufe bei Krankheiten und Störungen des Kreislaufsystems
 
 
-*    *   F41A
+*    *   F41Z
 
-    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt mit
-        äußerst schweren CC
-
-
-*    *   F41B
-
-    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt ohne
-        äußerst schwere CC
+    *   Invasive kardiologische Diagnostik bei akutem Myokardinfarkt
 
 
 *    *   F43A
@@ -4747,25 +4904,17 @@ Krankenhäusern:
 *    *   F49A
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
-        mit äußerst schweren CC oder IntK* 196 / 184 / 368 Aufwandspunkten,
-        mit komplexem Eingriff oder Alter < 10 Jahre
+        mit äußerst schweren CC oder IntK* 196 / 184 / 368 Aufwandspunkten
 
 
-*    *   F49B
-
-    *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
-        mit äußerst schweren CC oder IntK* 196 / 184 / 368 Aufwandspunkten,
-        ohne komplexen Eingriff, Alter* 9 Jahre
-
-
-*    *   F49D
+*    *   F49C
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
         ohne äußerst schwere CC, ohne IntK* 196 / 184 / 368 Aufwandspunkte,
         Alter* 17 Jahre, mit schweren CC, mehr als ein Belegungstag
 
 
-*    *   F49E
+*    *   F49D
 
     *   Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt,
         ohne IntK* 196 / 184 / 368 Aufwandspunkte, Alter* 17 Jahre, ohne
@@ -4773,7 +4922,7 @@ Krankenhäusern:
         kardiologische Diagnostik oder best. komplexer Diagnose
 
 
-*    *   F49F
+*    *   F49E
 
     *   Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o.
         äußerst schwere CC, ohne IntK* 196 / 184 / 368 P., Alter* 17 J., o.
@@ -4781,12 +4930,42 @@ Krankenhäusern:
         1, o. best. kompl. Diagnose, mit best. Eingr.
 
 
-*    *   F49G
+*    *   F49F
 
     *   Invasive kardiolog. Diagnostik außer bei akutem Myokardinfarkt, o.
         äußerst schwere CC, ohne IntK* 196 / 184 / 368 P., Alter* 17 J., o.
         kard. Mapping, o. best. and. kard. Diagnostik, o. schwere CC bei BT*
         1, o. best. kompl. Diagnose, ohne best. Eingr.
+
+
+*    *   F49M
+
+    *   Hybrid-DRG 1 der DRG F49D
+
+
+*    *   F49N
+
+    *   Hybrid-DRG 2 der DRG F49D
+
+
+*    *   F49O
+
+    *   Hybrid-DRG 1 der DRG F49E
+
+
+*    *   F49P
+
+    *   Hybrid-DRG 2 der DRG F49E
+
+
+*    *   F49Q
+
+    *   Hybrid-DRG 1 der DRG F49F
+
+
+*    *   F49R
+
+    *   Hybrid-DRG 2 der DRG F49F
 
 
 *    *   F50A
@@ -4813,6 +4992,21 @@ Krankenhäusern:
         ohne komplexe Ablation, Alter* 15 Jahre
 
 
+*    *   F50M
+
+    *   Hybrid-DRG der DRG F50A
+
+
+*    *   F50N
+
+    *   Hybrid-DRG der DRG F50B
+
+
+*    *   F50O
+
+    *   Hybrid-DRG der DRG F50C
+
+
 *    *   F52A
 
     *   Perkutane Koronarangioplastie mit komplexer Diagnose, mit äußerst
@@ -4824,6 +5018,11 @@ Krankenhäusern:
     *   Perkutane Koronarangioplastie mit komplexer Diagnose, ohne äußerst
         schwere CC oder mit intrakoronarer Brachytherapie oder bestimmte
         Intervention
+
+
+*    *   F52M
+
+    *   Hybrid-DRG der DRG F52B
 
 
 *    *   F56A
@@ -4839,6 +5038,16 @@ Krankenhäusern:
         Kryoplastie oder koronare Lithoplastie
 
 
+*    *   F56M
+
+    *   Hybrid-DRG 1 der DRG F56B
+
+
+*    *   F56N
+
+    *   Hybrid-DRG 2 der DRG F56B
+
+
 *    *   F58A
 
     *   Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik
@@ -4849,6 +5058,16 @@ Krankenhäusern:
 
     *   Perkutane Koronarangioplastie oder bestimmte kardiologische Diagnostik
         mit Gefäßeingriff, ohne äußerst schwere CC
+
+
+*    *   F58M
+
+    *   Hybrid-DRG 1 der DRG F58B
+
+
+*    *   F58N
+
+    *   Hybrid-DRG 2 der DRG F58B
 
 
 *    *   F60A
@@ -4979,7 +5198,7 @@ Krankenhäusern:
 
     *   Andere Krankheiten des Kreislaufsystems ohne äußerst schwere CC oder
         ein Belegungstag, Alter* 9 Jahre und Alter < 16 Jahre, ohne schwere CC
-        oder Alter > 15
+        oder Alter* 15
 
 
 *    *   F95A
@@ -4994,6 +5213,16 @@ Krankenhäusern:
     *   Interventioneller Septumverschluss oder Verschluss einer
         paravalvulären Leckage mit einem kardialen Okkluder, Alter* 17 Jahre,
         ohne Vorhofohrverschluss
+
+
+*    *   F95M
+
+    *   Hybrid-DRG der DRG F95A
+
+
+*    *   F95N
+
+    *   Hybrid-DRG der DRG F95B
 
 
 *    *   F98B
@@ -5032,7 +5261,7 @@ Krankenhäusern:
 
     *   Kardiothorakale oder Gefäßeingriffe bei Neugeborenen, Beatmung* 180
         und < 481 Stunden oder bestimmte Eingriffe bei angeborenen
-        Fehlbildungen, Beatmung > 180 und < 900 Stunden oder Eingriff bei
+        Fehlbildungen, Beatmung* 180 und < 900 Stunden oder Eingriff bei
         univentrikulärem Herzen, Beatmung < 481 Stunden
 
 
@@ -5139,8 +5368,6 @@ Krankenhäusern:
 
     *   Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-
         Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden
-        (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt
-        stattfindet)
 
 
 *    *   P61A
@@ -5405,9 +5632,8 @@ Krankenhäusern:
 *    *   B20A
 
     *   Kraniotomie oder große Wirbelsäulen-Operation mit bestimmter komplexer
-        Prozedur, Alter
-        < 18 Jahre oder mit komplizierenden Faktoren, Alter < 16 Jahre oder
-        mit bestimmter intrakranieller Blutung
+        Prozedur, Alter < 18 Jahre oder mit komplizierenden Faktoren, Alter <
+        16 Jahre oder mit bestimmter intrakranieller Blutung
 
 
 *    *   B20B
@@ -5810,7 +6036,7 @@ Krankenhäusern:
 
     *   Erkrankungen an Hirnnerven und peripheren Nerven ohne
         Komplexbehandlung der Hand oder mit komplexer Diagnose, mit äußerst
-        schweren oder schweren CC, außer bei Para- / Tetraplegie
+        schweren oder schweren CC, außer bei Para- / Tetralegie
 
 
 *    *   B71D
@@ -6351,12 +6577,17 @@ Krankenhäusern:
 
 *    *   I20M
 
-    *   Hybrid-DRG der DRG I20F
+    *   Hybrid-DRG der DRG I20D
 
 
 *    *   I20N
 
     *   Hybrid-DRG der DRG I20E
+
+
+*    *   I20O
+
+    *   Hybrid-DRG der DRG I20F
 
 
 *    *   I23B
@@ -6423,6 +6654,11 @@ Krankenhäusern:
 
     *   Sonstige arthroskopische Rekonstruktion der Rotatorenmanschette ohne
         bestimmte Eingriffe an der Schulter
+
+
+*    *   I29M
+
+    *   Hybrid-DRG der DRG I29B
 
 
 *    *   I30A
@@ -6582,13 +6818,6 @@ Krankenhäusern:
         Radiuskopfprothese, ohne Entf. Osteosynthesemat.
 
 
-*    *   I50C
-
-    *   Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte
-        komplizierende Faktoren, ohne bestimmten Eingriff, ohne bestimmte
-        Vakuumbehandlung, Alter* 15 Jahre
-
-
 *    *   I68D
 
     *   Nicht operativ behandelte Erkrankungen und Verletzungen WS,* 1
@@ -6662,10 +6891,10 @@ Krankenhäusern:
 
 *    *   I66D
 
-    *   Kinder-/jugendrheum. Komplexbeh. 7 bis 13 Behandlungstage, Alter* 0
-        Jahre od. Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden
-        od. syst. rheum. Erkrankungen, Alter < 16 Jahre od. m. multisystem.
-        Entzündungssyndrom bei COVID-19, mehr als 1 BT
+    *   Kinder-/jugendrheum. Komplexbeh. 7 bis 13 BT, Alter* 0 J. od.
+        Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden od. syst.
+        rheum. Erkrankungen, Alter < 16 J. od. m. multisystem.
+        Entzündungssyndrom bei COVID-19, Alter < 18 J.,* 1 BT
 
 
 *    *   I66E
@@ -6676,10 +6905,10 @@ Krankenhäusern:
 
 *    *   I66G
 
-    *   Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne
-        bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed.
-        Komplexbeh.* 196 / 184 / - Aufwandsp. od. multisystemisches
-        Entzündungssyndrom bei COVID-19 od. Alter < 6 J., 1 BT
+    *   Andere Erkrankungen des Bindegewebes,* 1 BT, ohne bestimmte
+        Erkrankungen, ohne äußerst schwere CC, ohne intensivmed. Komplexbeh.*
+        196 / 184 / - Aufwandsp. od. multisystemisches Entzündungssyndrom bei
+        COVID-19, Alter < 18 J. od. Alter < 6 J., 1 BT
 
 
 *    *   I66H
@@ -6740,9 +6969,9 @@ Krankenhäusern:
 *    *   J61A
 
     *   Schwere Erkrankungen der Haut, mehr als ein BT, Alter* 17 Jahre oder
-        mit kompl. Diagn., mit äuß. schw. CC od. Hautulkus bei Para-
-        /Tetraplegie od. hochkompl. Diagn. od. Epid. bullosa, Alter < 10 Jahre
-        oder mit schwerer Erkr. der Haut, mit aufw. Behandl.
+        mit kompl. Diagn., mit äuß. schw. CC od. Hautulkus bei
+        Para-/Tetraplegie od. hochkompl. Diagn. od. Epid. bullosa, Alter < 10
+        Jahre oder mit schwerer Erkr. der Haut, mit aufw. Behandl.
 
 
 *    *   J61B
@@ -6764,7 +6993,7 @@ Krankenhäusern:
 
 *    *   K60A
 
-    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
+    *   Diabetes mellitus und schwere Ernährungsstörungen, Alter < 6 Jahre,
         mit multimodaler Komplexbehandlung bei Diabetes mellitus oder
         intensivmedizinischer Komplexbehandlung* 196 / 184 / - Aufwandspunkte
 
@@ -6980,10 +7209,10 @@ Krankenhäusern:
 
 *    *   I66D
 
-    *   Kinder-/jugendrheum. Komplexbeh. 7 bis 13 Behandlungstage, Alter* 0
-        Jahre od. Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden
-        od. syst. rheum. Erkrankungen, Alter < 16 Jahre od. m. multisystem.
-        Entzündungssyndrom bei COVID-19, mehr als 1 BT
+    *   Kinder-/jugendrheum. Komplexbeh. 7 bis 13 BT, Alter* 0 J. od.
+        Amyloidose, adulte Form des Morbus Still, best. Vaskulitiden od. syst.
+        rheum. Erkrankungen, Alter < 16 J. od. m. multisystem.
+        Entzündungssyndrom bei COVID-19, Alter < 18 J.,* 1 BT
 
 
 *    *   I66E
@@ -7000,10 +7229,10 @@ Krankenhäusern:
 
 *    *   I66G
 
-    *   Andere Erkrankungen des Bindegewebes, mehr als ein Belegungstag, ohne
-        bestimmte Erkrankungen, ohne äußerst schwere CC, ohne intensivmed.
-        Komplexbeh.* 196 / 184 / - Aufwandsp. od. multisystemisches
-        Entzündungssyndrom bei COVID-19 od. Alter < 6 J., 1 BT
+    *   Andere Erkrankungen des Bindegewebes,* 1 BT, ohne bestimmte
+        Erkrankungen, ohne äußerst schwere CC, ohne intensivmed. Komplexbeh.*
+        196 / 184 / - Aufwandsp. od. multisystemisches Entzündungssyndrom bei
+        COVID-19, Alter < 18 J. od. Alter < 6 J., 1 BT
 
 
 *    *   I66H
@@ -7231,6 +7460,16 @@ Krankenhäusern:
         oder ohne äußerst schwere oder schwere CC
 
 
+*    *   I13M
+
+    *   Hybrid-DRG der DRG I13E
+
+
+*    *   I13N
+
+    *   Hybrid-DRG der DRG I13G
+
+
 *    *   I16A
 
     *   Andere Eingriffe an der Schulter und bestimmte Eingriffe an der oberen
@@ -7271,14 +7510,19 @@ Krankenhäusern:
         Alter* 15 Jahre
 
 
-*    *   I20M
+*    *   I20N
+
+    *   Hybrid-DRG der DRG I20E
+
+
+*    *   I20O
 
     *   Hybrid-DRG der DRG I20F
 
 
-*    *   I20N
+*    *   I21M
 
-    *   Hybrid-DRG der DRG I20E
+    *   Hybrid-DRG der DRG I21Z
 
 
 *    *   I21Z
@@ -7365,6 +7609,11 @@ Krankenhäusern:
         Rotatorenmanschette mit bestimmten Eingriffen an der Schulter
 
 
+*    *   I29M
+
+    *   Hybrid-DRG der DRG I29B
+
+
 *    *   I31A
 
     *   Mehrere komplexe Eingriffe an Ellenbogengelenk und Unterarm oder
@@ -7386,6 +7635,16 @@ Krankenhäusern:
         gelenkübergreifende Weichteildistraktion bei angeborenen Anomalien der
         Hand, ohne bestimmte Eingriffe bei Mehrfragmentfraktur der Patella,
         ohne bestimmte komplexe Eingriffe am Unterarm
+
+
+*    *   I31M
+
+    *   Hybrid-DRG der DRG I31B
+
+
+*    *   I31N
+
+    *   Hybrid-DRG der DRG I31C
 
 
 *    *   I32A
@@ -7448,6 +7707,13 @@ Krankenhäusern:
     *   Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte
         komplizierende Faktoren, ohne bestimmten Eingriff, mit bestimmter
         Vakuumbehandlung oder Alter < 16 Jahre
+
+
+*    *   I50C
+
+    *   Gewebe- / Haut-Transplantation außer an der Hand, ohne bestimmte
+        komplizierende Faktoren, ohne bestimmten Eingriff, ohne bestimmte
+        Vakuumbehandlung, Alter* 15 Jahre
 
 
 *    *   I59Z
@@ -7671,6 +7937,11 @@ Krankenhäusern:
     *   Andere kleine Eingriffe an den Harnorganen, Alter* 15 Jahre
 
 
+*    *   L06M
+
+    *   Hybrid-DRG der DRG L06C
+
+
 *    *   L07Z
 
     *   Andere Nieren-, Ureter-, Prostata- und große Harnblaseneingriffe bei
@@ -7686,10 +7957,10 @@ Krankenhäusern:
 
 *    *   L10Z
 
-    *   Blasenrekonstruktion und kontinenter Pouch bei Neubildung ohne
-        Multiviszeraleingriff oder Nieren-, Ureter- und große
-        Harnblaseneingriffe bei Neubildung, Alter < 19 Jahre oder mit äußerst
-        schweren CC oder Kombinationseingriff, mit großem Eingriff am Darm
+    *   Blasenrekonstr. u. kontinenter Pouch b. Neubildung ohne
+        Multiviszeraleingr. od. Nieren-, Ureter- u. große Harnblaseneingr. b.
+        Neubildung, Alter < 19 J. od. mit äußerst schweren CC od.
+        Kombinationseingr., mit großem Eingr. am Darm od. kompl. Nephrektomie
 
 
 *    *   L11Z
@@ -7701,23 +7972,23 @@ Krankenhäusern:
 
 *    *   L13A
 
-    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung,
-        Alter* 18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff
-        mit CC oder mit komplexem Eingriff
+    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
+        18 Jahre, ohne Kombinationseingriff, mit bestimmtem Eingriff mit CC
+        oder mit komplexem Eingriff
 
 
 *    *   L13B
 
-    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung,
-        Alter* 18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen
-        Eingriff, mit anderem Eingriff
+    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
+        18 Jahre, ohne Kombinationseingriff, ohne CC, ohne komplexen Eingriff,
+        mit anderem Eingriff
 
 
 *    *   L13C
 
-    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung,
-        Alter* 18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC,
-        ohne bestimmten Eingriff oder ohne CC, ohne komplexen Eingriff, ohne
+    *   Nieren-, Ureter- und große Harnblaseneingriffe bei Neubildung, Alter*
+        18 Jahre, ohne Kombinationseingriff, ohne äußerst schwere CC, ohne
+        bestimmten Eingriff oder ohne CC, ohne komplexen Eingriff, ohne
         anderen Eingriff
 
 
@@ -7751,9 +8022,14 @@ Krankenhäusern:
         Alter* 15 Jahre
 
 
+*    *   L17M
+
+    *   Hybrid-DRG 1 der DRG L17B
+
+
 *    *   L17N
 
-    *   Hybrid-DRG der DRG L17B
+    *   Hybrid-DRG 2 der DRG L17B
 
 
 *    *   L18A
@@ -7801,12 +8077,12 @@ Krankenhäusern:
 
 *    *   L20M
 
-    *   Hybrid-DRG der DRG L20C
+    *   Hybrid-DRG der DRG L20B
 
 
 *    *   L20N
 
-    *   Hybrid-DRG der DRG L20B
+    *   Hybrid-DRG der DRG L20C
 
 
 *    *   L33Z
@@ -7940,7 +8216,7 @@ Krankenhäusern:
     *   Hybrid-DRG der DRG M04D
 
 
-*    *   M05N
+*    *   M05M
 
     *   Hybrid-DRG der DRG M05Z
 
@@ -7960,7 +8236,7 @@ Krankenhäusern:
 *    *   M07Z
 
     *   Brachytherapie bei Krankheiten und Störungen der männlichen
-        Geschlechtsorgane, Implantation von* 10 Seeds
+        Geschlechtsorgane, Implantation von* 10 Seeds, Verweildauer < 4 Tage
 
 
 *    *   M09A
@@ -7968,12 +8244,14 @@ Krankenhäusern:
     *   OR-Prozeduren an den männlichen Geschlechtsorganen bei bösartiger
         Neubildung mit äußerst schweren CC oder bestimmte Eingriffe an den
         Beckenorganen beim Mann ohne äußerst schwere CC oder BNB des Penis
+        oder bestimmte interstitielle Brachytherapie
 
 
 *    *   M09B
 
     *   OR-Prozeduren an den männlichen Geschlechtsorganen bei bösartiger
-        Neubildung, ohne äußerst schwere CC, ohne BNB des Penis
+        Neubildung, ohne äußerst schwere CC, ohne BNB des Penis, ohne
+        bestimmte interstitielle Brachytherapie
 
 
 *    *   M11Z

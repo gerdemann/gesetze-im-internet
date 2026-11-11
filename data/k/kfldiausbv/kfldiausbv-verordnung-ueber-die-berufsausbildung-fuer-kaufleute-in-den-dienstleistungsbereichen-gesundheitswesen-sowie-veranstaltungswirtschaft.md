@@ -1892,12 +1892,6 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-
-### Anlage 2 (weggefallen)
-[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002401308)
-
--
-
 (zu § 17)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
