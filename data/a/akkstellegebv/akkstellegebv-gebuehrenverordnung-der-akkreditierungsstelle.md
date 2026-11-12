@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 3877
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.8.2021 I 3734
+:   Art. 1 V v. 4.11.2026 I Nr. 335
 
 
 ## Eingangsformel
@@ -135,7 +135,7 @@ zu berücksichtigen, insbesondere für
 
 
 ## § 4 Auslagen
-[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000501119)
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000502119)
 
 (1) Auslagen sind auch zu erheben für
 
@@ -164,13 +164,13 @@ zu berücksichtigen, insbesondere für
 
 
 (2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten
-Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in
+Beauftragten sind mit 150 Euro pro Stunde zu vergüten, sofern nicht in
 Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine
 Ausbildung für die Durchführung von Begutachtungen von einer
 nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der
 Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung
 nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten
-haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu
+haben, sind die Leistungen der Beauftragten mit 120 Euro pro Stunde zu
 vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden
 entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige
 Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu
@@ -219,7 +219,7 @@ des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S.
 
 
 ## § 6 Übergangsbestimmungen
-[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000702119)
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000703119)
 
 (1) Für individuell zurechenbare öffentliche Leistungen, die vor dem
 1\. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist,
@@ -271,6 +271,23 @@ neuen Fassung der Akkreditierungsstellengebührenverordnung eine
 Gebührenfestsetzung nach der geänderten Fassung ausdrücklich
 vorbehalten worden ist.
 
+(7) Für individuell zurechenbare öffentliche Leistungen, die ab dem 1.
+April 2022, jedoch vor dem 12. November 2026 beantragt oder, sofern
+kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden
+sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum
+Ablauf des 11. November 2026 geltenden Fassung zu erheben.
+
+(8) Abweichend von Absatz 7 werden für individuell zurechenbare
+öffentliche Leistungen, die vor dem 12. November 2026 beantragt oder,
+sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet
+worden sind, Gebühren und Auslagen nach dieser Verordnung in der am
+12\. November 2026 geltenden Fassung erhoben, soweit bei diesen
+Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich
+ist, mit Beginn der Leistungserbringung unter Hinweis auf das
+Inkrafttreten einer neuen Fassung der
+Akkreditierungsstellengebührenverordnung eine Gebührenfestsetzung nach
+der geänderten Fassung ausdrücklich vorbehalten worden ist.
+
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 [Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000800000)
@@ -286,7 +303,7 @@ ist, außer Kraft.
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000902119)
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000903119)
 
 (Fundstelle: BGBl. I 2017, 3879 - 3881;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -548,7 +565,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bedienstete mit Büro-, Assistenz- oder Sachbearbeiteraufgaben
 
-    *   121,40 Euro
+    *   149,85 Euro bis Ende des Jahres 2027 und 154,18 Euro ab Beginn des
+        Jahres 2028
 
 
 *    *   7.2
@@ -561,7 +579,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Staatsexamen oder gleichwertiger Abschluss) und entsprechender
         Tätigkeit
 
-    *   161,39 Euro
+    *   191,76 Euro bis Ende des Jahres 2027 und 196,09 Euro ab Beginn des
+        Jahres 2028
 
 
 
