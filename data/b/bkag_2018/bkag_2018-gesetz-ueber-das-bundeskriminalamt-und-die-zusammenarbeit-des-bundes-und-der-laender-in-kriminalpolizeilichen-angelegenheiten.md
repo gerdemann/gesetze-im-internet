@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 11 G v. 23.4.2026 I Nr. 111
-
-Änderung durch
-:   Art. 6 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 3.7.2026 I Nr. 199
 
 Änderung durch
 :   Art. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -2880,17 +2877,16 @@ Absatz 1 Satz 2 sind in den Fällen des § 4 Absatz 1 und 2 und des § 36
 Absatz 1 ferner Beamtinnen und Beamte sowie Tarifbeschäftigte der
 Polizei, die nicht dem Polizeivollzugsdienst angehören, soweit ihnen
 Polizeivollzugsaufgaben im Rahmen der Beweiserhebung, -sicherung und
--auswertung, insbesondere des Wirtschaftsprüfdienstes, der Finanz-
-und Internetermittlungen, der verfahrensintegrierten
-Vermögensabschöpfung, der forensischen Informations-  und
-Kommunikationstechnik, der Besuchsüberwachung nach § 119 der
-Strafprozessordnung, der Durchsicht von Papieren und elektronischen
-Speichermedien oder der Telekommunikationsüberwachung übertragen
-worden sind, sie mindestens zwei Jahre in den bezeichneten
-Aufgabenbereichen tätig sind und das 21. Lebensjahr vollendet haben.
-Ermittlungspersonen nach Satz 1 sind ausschließlich zur Durchführung
-von Maßnahmen im Rahmen der übertragenen Polizeivollzugsaufgaben
-befugt.
+-auswertung, insbesondere des Wirtschaftsprüfdienstes, der Finanz- und
+Internetermittlungen, der verfahrensintegrierten Vermögensabschöpfung,
+der forensischen Informations- und Kommunikationstechnik, der
+Besuchsüberwachung nach § 119 der Strafprozessordnung, der Durchsicht
+von Papieren und elektronischen Speichermedien oder der
+Telekommunikationsüberwachung übertragen worden sind, sie mindestens
+zwei Jahre in den bezeichneten Aufgabenbereichen tätig sind und das
+21\. Lebensjahr vollendet haben. Ermittlungspersonen nach Satz 1 sind
+ausschließlich zur Durchführung von Maßnahmen im Rahmen der
+übertragenen Polizeivollzugsaufgaben befugt.
 
 (2) Die polizeilichen Dienststellen des Bundes und der Länder geben
 dem Bundeskriminalamt in Fällen, in denen es im Rahmen seiner
@@ -3656,7 +3652,7 @@ beschränken; es darf sich nicht auf personenbezogene Daten erstrecken,
 die einem Berufs- oder besonderen Amtsgeheimnis unterliegen. Von
 Übermittlungsersuchen nicht erfasste personenbezogene Daten dürfen
 übermittelt werden, wenn wegen erheblicher technischer Schwierigkeiten
-oder wegen eines unangemessenen Zeit-  oder Kostenaufwands eine
+oder wegen eines unangemessenen Zeit- oder Kostenaufwands eine
 Beschränkung auf die angeforderten Daten nicht möglich ist; diese
 Daten dürfen vom Bundeskriminalamt nicht verwendet werden.
 
