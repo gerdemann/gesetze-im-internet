@@ -22,7 +22,6 @@ Geändert durch
 Zuletzt geändert durch
 :   Art. 2 G v. 23.10.2024 I Nr. 322
 
-Stand: Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
 Stand: Bek. v 12.10.2023 I Nr. 293 ist berücksichtigt
 Stand: Bek. v. 25.9.2024 I Nr. 292 ist berücksichtigt
 Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
@@ -31,7 +30,7 @@ Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 Stand: Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt
 Stand: Bek. v. 16.4.2026 I Nr. 121 ist berücksichtigt
 Stand: Bek. v. 16.9.2026 I Nr. 282 ist berücksichtigt
-Stand: Bek. v. 29.10.2026 I Nr. 325 ist berücksichtigt
+Stand: Bek. v. 15.10.2026 I Nr. 325 ist berücksichtigt
 
 ## Eingangsformel
 [Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000100000)
