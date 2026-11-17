@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Stand: Zuletzt geändert Art. 1 V v. 30.1.2026 I Nr. 31
+Stand: Zuletzt geändert Art. 3 G v. 11.11.2026 I Nr. 339
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 [Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000600130)

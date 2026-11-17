@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2026, Nr. 207
 
-Änderung durch
-:   Art. 4 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 4 G v. 13.7.2026 I Nr. 207
 
 [^F836757_02_BJNR0CF0B0026]:     Dieses Gesetz dient auch der Umsetzung der –Richtlinie 2008/98/EG des
     Europäischen Parlaments und des Rates vom 19. November 2008 über
