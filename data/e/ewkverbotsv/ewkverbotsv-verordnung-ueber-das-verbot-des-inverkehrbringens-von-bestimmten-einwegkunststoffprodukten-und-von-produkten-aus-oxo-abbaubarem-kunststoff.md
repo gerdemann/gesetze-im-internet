@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 95
 
-Geänderung durch
+Geändert durch
 :   Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
 
 [^F814780_01_BJNR009500021]:     Diese Verordnung dient der Umsetzung der Artikel 5 und 14 der
