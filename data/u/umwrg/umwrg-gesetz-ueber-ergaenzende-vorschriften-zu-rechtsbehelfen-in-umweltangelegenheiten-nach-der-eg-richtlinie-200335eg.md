@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.8.2017 I 3290;
 
 Zuletzt geändert durch
-:   Art. 14b G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 1 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 30.9.2026 I Nr. 286
 
 Dieses Gesetz dient der Umsetzung von Artikel 11 der Richtlinie
 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember

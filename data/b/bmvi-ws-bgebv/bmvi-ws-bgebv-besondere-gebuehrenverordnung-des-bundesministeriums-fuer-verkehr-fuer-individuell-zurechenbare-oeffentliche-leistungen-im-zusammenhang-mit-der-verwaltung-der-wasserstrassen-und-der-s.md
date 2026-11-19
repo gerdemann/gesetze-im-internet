@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.9.2026 I Nr. 257, Nr. 284
+:   Art. 3 V v. 18.11.2026 I Nr. 343b
 
 
 ## Eingangsformel
@@ -353,7 +353,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 (zu § 2)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
-[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000716126)
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000717131)
 
 (Fundstelle: BGBl. I 2021, 4746 - 4778;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3847,7 +3847,8 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 *    *   30
 
     *   Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises
-        zuzüglich der Gebühr nach Nummer 27
+        zuzüglich der Gebühr nach Nummer 27, Zulassung eines
+        Seelotsenanwärters und Ausstellung eines Seelotsenanwärterausweises
 
     *   §§ 11, 17 SeeLG
         § 15 Absatz 1 SeeLAuFV
@@ -4390,7 +4391,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
     *   Gleichwertigkeitsbescheinigung
 
-    *   § 9 Absatz 5 Satz 1 SeeLG
+    *   § 9a Absatz 4 Satz 1 SeeLG
 
     *   140 – 998
 
